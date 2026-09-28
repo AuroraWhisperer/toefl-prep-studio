@@ -1,0 +1,1606 @@
+{
+  "section": "speaking",
+  "task_type": "take_interview",
+  "items": [
+    {
+      "question": {
+        "id": "S126",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Tell me about a time when a plan changed unexpectedly. What did you do next?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Tell me about a time when a plan changed unexpectedly. What did you do next?",
+        "max_seconds": 45,
+        "group_id": "take_interview_6",
+        "passage_title": "Responding to unexpected changes"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "plan",
+          "change",
+          "because",
+          "next"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "Last month, a friend and I planned to visit an outdoor market, but heavy rain started just before we left. We checked the forecast and decided to cook lunch together instead. I already had some vegetables, so we only needed a few things from the shop downstairs. The afternoon was different from our original plan, but we still spent time together. I learned that changing the activity does not have to mean losing the purpose of a plan.",
+        "explanation": "读懂：unexpectedly 是“出乎意料地”；讲一次计划变动，并说明你接下来做了什么。\n解析：示例用下雨打断逛市场、改为一起做饭说明应对，重点是动作而非长篇抱怨天气。其他经历也可，须把变动和下一步连起来。\n下次：听到 What did you do next（你接下来做了什么）→用一句交代原计划→讲变动与具体动作，最后检查是否回答了“变了什么、自己做了什么”；也可简短补充结果。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "经历叙述",
+          "变化与行动"
+        ],
+        "vocabulary": [
+          "unexpectedly",
+          "original plan"
+        ],
+        "rationale": "从具体个人经历进入主题，参考保留社交目的而调整活动。 解析核对题目原词并用中文解释，组织建议不设为唯一作答方式。",
+        "answer_evidence": "题问：Tell me about a time when a plan changed unexpectedly. What did you do next? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 78 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S127",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "When something unexpected happens, do you prefer to decide quickly or take time to consider your options? Explain using an experience.",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: When something unexpected happens, do you prefer to decide quickly or take time to consider your options? Explain using an experience.",
+        "max_seconds": 45,
+        "group_id": "take_interview_6",
+        "passage_title": "Responding to unexpected changes"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "decide",
+          "time",
+          "experience",
+          "options"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I usually take a few minutes to consider my options, unless someone needs immediate help. Once, my train was canceled while I was traveling to a family dinner. My first thought was to take an expensive taxi ride. After checking the next departure and calling my family, I realized that arriving an hour later was perfectly fine. That short pause saved money and reduced my stress. For me, thinking briefly is often more useful than reacting immediately.",
+        "explanation": "读懂：consider your options 是“比较可选办法”；选快速决定或稍作考虑，并用经历支撑。\n解析：示例以列车取消后先查下一班、联系家人说明等待思考的价值，不说所有紧急情况都能等。主张快速决定也可，但要给相应情境与结果。\n下次：遇到二选一偏好→先明确常用方式→讲一件具体事证明它的作用，检查例子支持你的选择而非只描述困难。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "偏好论证",
+          "经历支持"
+        ],
+        "vocabulary": [
+          "options",
+          "immediate help"
+        ],
+        "rationale": "以列车取消后的具体经历支持稍作考虑；乘车使用自然的 take a taxi ride 表达，并保留紧急情况例外。",
+        "answer_evidence": "题问：When something unexpected happens, do you prefer to decide quickly or take time to consider your options? Explain using an experience. 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 77 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S128",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Should schools deliberately give students tasks with uncertain outcomes, or should every task have a clearly defined result? Why?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Should schools deliberately give students tasks with uncertain outcomes, or should every task have a clearly defined result? Why?",
+        "max_seconds": 45,
+        "group_id": "take_interview_6",
+        "passage_title": "Responding to unexpected changes"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "students",
+          "task",
+          "result",
+          "because"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I think students need some tasks with uncertain outcomes, alongside exercises with clear answers. For example, a class could design a small event and then examine why attendance differed from their predictions. Students would practice adjusting their ideas rather than simply following instructions. However, the teacher should still explain how the work will be evaluated. Uncertainty about the result can encourage exploration, while uncertainty about the grading rules can make students anxious for no useful reason.",
+        "explanation": "读懂：uncertain outcomes 是“结果不确定”；讨论学校任务应容许探索还是都预设明确结果。\n解析：示例支持部分开放任务，以活动人数预测说明调整思路；同时区分“结果开放”与“评分规则不清”。支持明确结果同样可从初学者需要出发。\n下次：听到学校应如何安排→先表立场→用一个课堂任务说明学习效果，再检查没有把不确定结果等同于老师不给任何指导。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "教育观点论证",
+          "概念区分"
+        ],
+        "vocabulary": [
+          "uncertain outcomes",
+          "evaluated"
+        ],
+        "rationale": "从个人决策上升到教学安排，开放结果与透明评价有实质区别。",
+        "answer_evidence": "题问：Should schools deliberately give students tasks with uncertain outcomes, or should every task have a clearly defined result? Why? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 76 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S129",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "A community center can spend extra funds on more scheduled activities or keep the money available for unexpected needs. Which approach would you recommend?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: A community center can spend extra funds on more scheduled activities or keep the money available for unexpected needs. Which approach would you recommend?",
+        "max_seconds": 45,
+        "group_id": "take_interview_6",
+        "passage_title": "Responding to unexpected changes"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "center",
+          "money",
+          "activities",
+          "needs"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I would keep part of the money available for unexpected needs rather than schedule an activity for every available dollar. If a room suddenly becomes unusable, a small reserve could help the center move an important class elsewhere. That protects activities people already rely on. I would not save everything, though. The center should explain how much it is reserving and review the amount regularly, so residents can see that the money still serves them.",
+        "explanation": "读懂：unexpected needs 是“临时出现的需要”；在增加计划活动和留备用资金之间作建议。\n解析：示例优先留部分备用金，用教室突发停用说明保护既有课程的价值，并避免全部闲置。支持增加活动也可，需解释为何当前需求更值得投入。\n下次：听到有限资金取舍→先选优先用途→讲一个受益场景，再补保留资金或增加活动的边界，检查不是无成本地“两边全要”。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "资源取舍",
+          "条件与后果"
+        ],
+        "vocabulary": [
+          "reserve",
+          "funds"
+        ],
+        "rationale": "由个人变化推及公共预算，参考提出比例未指定的部分储备而非虚构财务数字。",
+        "answer_evidence": "题问：A community center can spend extra funds on more scheduled activities or keep the money available for unexpected needs. Which approach would you recommend? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 75 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S130",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Describe a practical skill you learned outside a classroom. How did you learn it?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Describe a practical skill you learned outside a classroom. How did you learn it?",
+        "max_seconds": 45,
+        "group_id": "take_interview_7",
+        "passage_title": "Learning practical skills"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "skill",
+          "learn",
+          "practice",
+          "useful"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I learned to repair a small tear in my clothes from my grandmother. She first showed me how to thread a needle, and then we practiced on an old piece of fabric. My first stitches were uneven, but she explained that keeping them close together mattered more than making them look perfect. Later, I repaired a pocket on my jacket. Completing something useful made me want to practice again, because I could see an immediate result.",
+        "explanation": "读懂：practical skill 是“实用技能”；讲课堂外学会的技能及学习方法，不只报技能名称。\n解析：示例把穿针、旧布练习、修衣袋连成学习过程，结果体现实用价值。这是可能经历，不要求你也会缝纫或必须向家人学。\n下次：看到 How did you learn（你怎样学会的）→选一项小技能→讲自己的学习步骤，例如看示范后亲手尝试，检查最后有没有说明学会后能做什么。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "过程叙述",
+          "实例细节"
+        ],
+        "vocabulary": [
+          "thread a needle",
+          "stitches"
+        ],
+        "rationale": "具体缝补过程而非泛泛努力，个人经验问题没有唯一学习渠道。 解析核对题目原词并用中文解释，组织建议不设为唯一作答方式。",
+        "answer_evidence": "题问：Describe a practical skill you learned outside a classroom. How did you learn it? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 76 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S131",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "When learning a practical skill, would you rather watch a demonstration or begin by trying it yourself? Explain your preference.",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: When learning a practical skill, would you rather watch a demonstration or begin by trying it yourself? Explain your preference.",
+        "max_seconds": 45,
+        "group_id": "take_interview_7",
+        "passage_title": "Learning practical skills"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "watch",
+          "try",
+          "skill",
+          "because"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I prefer watching a short demonstration before trying a new practical skill. When I first learned to use a sewing machine, I could not understand the instructions about placing the thread. Watching someone do it once made the sequence much clearer. However, I would not want to watch a long lesson without practicing. My ideal approach is to see one step, try it, and then ask a question if my result looks different from the example.",
+        "explanation": "读懂：demonstration 是“实际演示”；比较先观看与先动手的偏好。\n解析：示例用缝纫机穿线说明看步骤的帮助，再接马上练习，不把观看和实践说成永远互斥。先试再看的立场也可用发现问题的价值支持。\n下次：听到学习方式比较→先选起步方式→举一个具体难点说明它为何有效，检查没有只说“视频很好”却不解释帮助了哪一步。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "方法比较",
+          "实例论证"
+        ],
+        "vocabulary": [
+          "demonstration",
+          "sequence"
+        ],
+        "rationale": "从经历走向方法比较，参考只承诺短示范后练习。",
+        "answer_evidence": "题问：When learning a practical skill, would you rather watch a demonstration or begin by trying it yourself? Explain your preference. 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 76 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S132",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Some people think schools should teach more everyday skills, such as cooking or basic repairs. Do you agree? Why or why not?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Some people think schools should teach more everyday skills, such as cooking or basic repairs. Do you agree? Why or why not?",
+        "max_seconds": 45,
+        "group_id": "take_interview_7",
+        "passage_title": "Learning practical skills"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "schools",
+          "skills",
+          "students",
+          "because"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I agree that schools should teach a few everyday skills, but they do not need a separate course for every activity. A short cooking project could combine planning, reading instructions, and working with measurements. Students who rarely cook at home would gain useful experience without losing an entire academic subject. The important thing is to choose skills that many students can actually use. I would prefer several well-designed projects to a long course filled with disconnected tips.",
+        "explanation": "读懂：everyday skills 是“日常技能”；说明是否赞成学校多教做饭、基础维修等内容。\n解析：示例支持少量整合项目，用烹饪连接计划与测量，回应课时成本；不是声称学术科目应全部取消。反对者也可解释学校职责或家庭渠道。\n下次：先表是否赞成→选一种可教技能说明具体收益→补课程安排边界，检查收益与学校教学有关，而不只是你个人喜欢做饭。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "教育资源论证",
+          "举例与限定"
+        ],
+        "vocabulary": [
+          "measurements",
+          "academic subject"
+        ],
+        "rationale": "一般教育观点含课时取舍，允许赞同或反对。",
+        "answer_evidence": "题问：Some people think schools should teach more everyday skills, such as cooking or basic repairs. Do you agree? Why or why not? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 77 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S133",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "A town wants to help residents learn useful skills. Should it fund expert-led courses or informal groups where residents teach one another?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: A town wants to help residents learn useful skills. Should it fund expert-led courses or informal groups where residents teach one another?",
+        "max_seconds": 45,
+        "group_id": "take_interview_7",
+        "passage_title": "Learning practical skills"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "courses",
+          "groups",
+          "skills",
+          "residents"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I would support informal groups for common skills and bring in experts when mistakes could have serious consequences. A neighbor can show people how to mend a shirt, and the relaxed setting may encourage beginners to ask questions. A course involving specialized equipment needs a qualified instructor, however. This combination would use local knowledge without assuming that every experienced resident is a good teacher. The town could begin with a few low-risk groups and ask participants what they learned.",
+        "explanation": "读懂：expert-led courses 是“专家带领课程”，informal groups 是“居民互教小组”；建议资金支持方式。\n解析：示例按出错后果分配教学资源：普通缝补可互教，专门设备需合格指导。两边支持并非回避选择，关键是给出清楚分工，不能假定所有熟手都擅长教学。\n下次：遇到机构方案比较→先定选择标准→给两类技能说明分工或优先级，检查钱和教师资源的安排能对应实际需求。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "方案比较",
+          "风险与教学责任"
+        ],
+        "vocabulary": [
+          "instructor",
+          "informal groups"
+        ],
+        "rationale": "较广公共服务取舍，分工标准具体但不提供危险操作步骤。",
+        "answer_evidence": "题问：A town wants to help residents learn useful skills. Should it fund expert-led courses or informal groups where residents teach one another? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 79 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S134",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Tell me about a space you have shared with other people. What made it easy or difficult to use together?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Tell me about a space you have shared with other people. What made it easy or difficult to use together?",
+        "max_seconds": 45,
+        "group_id": "take_interview_8",
+        "passage_title": "Sharing everyday spaces"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "space",
+          "share",
+          "people",
+          "because"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I shared a kitchen with three other students during a summer course. It was easy to prepare meals together, but the counter became crowded when everyone left ingredients out. We eventually gave each person a small storage shelf and kept one part of the counter empty. That simple arrangement helped more than asking everyone to be tidy all the time. We knew exactly where our things belonged, and there was always somewhere to prepare food.",
+        "explanation": "读懂：shared with other people 是“与他人共同使用”；说明合用时方便或困难在哪里。\n解析：示例谈共用厨房台面拥挤，再用个人储物架和固定空台面说明改善；具体布局比泛称室友好坏更能解释使用体验。其他共享空间同样有效。\n下次：先选一个真实熟悉的空间→讲一项共同使用的问题或便利→补一个可观察细节，检查重点是空间使用而非评价别人性格。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "经历说明",
+          "问题与具体措施"
+        ],
+        "vocabulary": [
+          "counter",
+          "storage shelf"
+        ],
+        "rationale": "个人共用经验以可观察布局解释摩擦，不指责任何固定群体。 解析核对题目原词并用中文解释，组织建议不设为唯一作答方式。",
+        "answer_evidence": "题问：Tell me about a space you have shared with other people. What made it easy or difficult to use together? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 75 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S135",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "In a shared space, do you prefer written rules or informal conversations about what people need? Give a reason and an example.",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: In a shared space, do you prefer written rules or informal conversations about what people need? Give a reason and an example.",
+        "max_seconds": 45,
+        "group_id": "take_interview_8",
+        "passage_title": "Sharing everyday spaces"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "rules",
+          "conversation",
+          "shared",
+          "example"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I prefer having a few written rules and using conversations for unusual situations. In our shared kitchen, a note saying that dishes should be washed before bedtime prevented arguments about how long dirty dishes could stay in the sink. But when one roommate was ill, we talked and changed the arrangement temporarily. Written rules gave us a common starting point, while conversation helped us treat each other reasonably. Too many rules would have made a simple living arrangement feel unnecessarily formal.",
+        "explanation": "读懂：written rules 是“写下的规则”，informal conversations 是“非正式沟通”；比较你更倚重哪一种。\n解析：示例以少量规则为主、特殊情况沟通为辅：睡前洗碗有共同标准，生病时可调整。选择只靠沟通也可，但要解释如何避免理解不一致。\n下次：先说主要依靠什么→给一个日常规则或沟通例子→检查是否说明其好处与适用边界，而非只说两种都好。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "规则与弹性",
+          "偏好实例"
+        ],
+        "vocabulary": [
+          "written rules",
+          "temporarily"
+        ],
+        "rationale": "睡前洗碗规则明确的是处理脏碗的期限；生病时协商临时调整，例子与规则作用一致。",
+        "answer_evidence": "题问：In a shared space, do you prefer written rules or informal conversations about what people need? Give a reason and an example. 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 81 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S136",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Should apartment buildings provide more shared facilities, even if this means individual apartments are smaller?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Should apartment buildings provide more shared facilities, even if this means individual apartments are smaller?",
+        "max_seconds": 45,
+        "group_id": "take_interview_8",
+        "passage_title": "Sharing everyday spaces"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "shared",
+          "space",
+          "apartments",
+          "facilities"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I would support that trade-off only if the shared facilities replace things people would otherwise need inside their apartments. A reliable laundry room or a comfortable guest room could be genuinely useful. A large decorative lounge might not justify losing bedroom space, especially for someone who works at home. Before making apartments smaller, the building should ask future residents what they would actually use. Shared space is valuable when it solves a practical problem, not simply because it looks impressive.",
+        "explanation": "读懂：individual apartments are smaller 是“各户住房更小”；需正面回应共享设施与私人空间的取舍。\n解析：示例按是否替代户内需求判断：洗衣房可能有用，装饰性大厅未必值得。赞成或反对都可，但不能只列共享空间优点而忽略卧室变小。\n下次：先提出接受或拒绝的标准→比较一种实用设施与私人空间损失→检查有没有解释谁受益、谁可能不方便。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "空间资源取舍",
+          "条件性观点"
+        ],
+        "vocabulary": [
+          "facilities",
+          "individual apartments"
+        ],
+        "rationale": "公共与私人空间的明确代价，参考按真实用途限定支持。 解析核对题目原词并用中文解释，组织建议不设为唯一作答方式。",
+        "answer_evidence": "题问：Should apartment buildings provide more shared facilities, even if this means individual apartments are smaller? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 80 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S137",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Public libraries must serve people who need quiet and people who want to work together. What is the best way to meet both needs?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Public libraries must serve people who need quiet and people who want to work together. What is the best way to meet both needs?",
+        "max_seconds": 45,
+        "group_id": "take_interview_8",
+        "passage_title": "Sharing everyday spaces"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "quiet",
+          "group",
+          "library",
+          "needs"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I would create clearly separated quiet and discussion areas rather than ask everyone to follow the same noise rule. Students preparing for an exam could use the quiet area, while a project group could reserve a small room. Clear signs would help visitors choose the right place without staff constantly correcting them. If the building is too small for separate rooms, the library could offer group work at certain times and publish that schedule in advance.",
+        "explanation": "读懂：meet both needs 是“兼顾两类需求”；既照顾安静读者，也支持合作交流。\n解析：示例先按空间分区，场地不足再按时段安排，并说明标识如何减少冲突。只要求大家完全不说话会漏掉合作需求；把全馆改讨论区也会漏掉安静需求。\n下次：先点名两类使用者→给一个空间或时间分配办法→检查规则是否让双方都知道何时何地可以做什么。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "双需求解决",
+          "条件替代方案"
+        ],
+        "vocabulary": [
+          "discussion areas",
+          "in advance"
+        ],
+        "rationale": "由私人共享空间扩大到公共设施，方案同时满足明确双需求。",
+        "answer_evidence": "题问：Public libraries must serve people who need quiet and people who want to work together. What is the best way to meet both needs? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 76 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S138",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Describe a local service you have used more than once. What makes you return to it?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Describe a local service you have used more than once. What makes you return to it?",
+        "max_seconds": 45,
+        "group_id": "take_interview_9",
+        "passage_title": "Using local services"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "service",
+          "return",
+          "because",
+          "experience"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I often use a small bicycle repair shop near my apartment. The mechanic explains what needs fixing before doing any work, and he tells me when a repair can wait. Once, I expected to buy a new wheel, but he adjusted the existing one instead. That experience made me trust his advice. The shop is not the closest option, but clear explanations matter more to me than saving a few minutes on the way there.",
+        "explanation": "读懂：return to it 是“再次使用这项服务”；说明常用什么服务，以及回头使用的原因。\n解析：示例以修车店先解释、只调整车轮而不要求买新轮来支持信任。其他服务也可，但“服务很好”需由具体行为证明，而不是只介绍店的位置。\n下次：先报服务类型→讲一次可观察的服务细节→说明它为何让你再来，检查细节与回头原因有直接联系。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "服务经历",
+          "证据支撑评价"
+        ],
+        "vocabulary": [
+          "mechanic",
+          "clear explanations"
+        ],
+        "rationale": "个人复用服务的信任形成过程，参考场景明示为可能回答。",
+        "answer_evidence": "题问：Describe a local service you have used more than once. What makes you return to it? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 75 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S139",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "When choosing an unfamiliar service, do you rely more on online reviews or recommendations from people you know? Explain.",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: When choosing an unfamiliar service, do you rely more on online reviews or recommendations from people you know? Explain.",
+        "max_seconds": 45,
+        "group_id": "take_interview_9",
+        "passage_title": "Using local services"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "reviews",
+          "recommendations",
+          "service",
+          "because"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I rely more on recommendations from people I know, especially when I can ask why they liked the service. A friend recently recommended a tailor and showed me a jacket the tailor had altered. I could see the quality and ask about the price and waiting time. Online reviews are still useful for checking opening hours or noticing repeated complaints, but a detailed conversation helps me understand whether someone else's priorities are similar to mine.",
+        "explanation": "读懂：rely more on 是“更依赖”；比较网上评价与熟人推荐，而不是要求完全排除另一渠道。\n解析：示例用朋友展示改好的夹克说明可看成果、追问价格；网上评论作补充。支持网评也可，需说明如何筛选具体信息，不能只以评论多就等于可信。\n下次：先选主要信息渠道→举可核验的服务细节→解释它如何符合你的需要，检查没有把别人喜欢自动等同于你也合适。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "信息渠道比较",
+          "评价依据"
+        ],
+        "vocabulary": [
+          "recommendations",
+          "priorities"
+        ],
+        "rationale": "从服务经验延伸到选择依据，与后续信息判断组仍保持服务领域。",
+        "answer_evidence": "题问：When choosing an unfamiliar service, do you rely more on online reviews or recommendations from people you know? Explain. 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 75 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S140",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Some local businesses offer lower prices if customers make reservations online. Is this a good approach? Why or why not?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Some local businesses offer lower prices if customers make reservations online. Is this a good approach? Why or why not?",
+        "max_seconds": 45,
+        "group_id": "take_interview_9",
+        "passage_title": "Using local services"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "online",
+          "customers",
+          "price",
+          "book"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "It can be a good approach if customers still have another practical way to book. Online reservations may reduce time spent answering calls, so sharing that saving with customers seems reasonable. However, a large discount could effectively punish people who cannot use the system. I would support a small discount and keep telephone bookings available. The business should also make the online price clear before customers enter their details, rather than surprise them at the final step.",
+        "explanation": "读懂：make reservations online 是“在网上预约”，这样可享较低价格；评价做法时要考虑便利和不能上网的人。\n解析：示例支持小幅优惠，理由是减少接听电话成本，但保留电话途径；不把所有顾客都假定为熟练上网者。反对也可从公平或价格透明出发。\n下次：听到带条件优惠→先说是否支持→解释运营收益和受影响人群，再核对立场有没有回应“只有网上预约优惠”的条件。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "经营与公平",
+          "条件性支持"
+        ],
+        "vocabulary": [
+          "reservations",
+          "discount"
+        ],
+        "rationale": "服务数字化的价格取舍，参考未把成本减少写成经验证实的事实。 解析核对题目原词并用中文解释，组织建议不设为唯一作答方式。",
+        "answer_evidence": "题问：Some local businesses offer lower prices if customers make reservations online. Is this a good approach? Why or why not? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 77 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S141",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "A town can improve its online service portal or keep a staffed service desk open longer. Which should be the priority, and why?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: A town can improve its online service portal or keep a staffed service desk open longer. Which should be the priority, and why?",
+        "max_seconds": 45,
+        "group_id": "take_interview_9",
+        "passage_title": "Using local services"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "service",
+          "online",
+          "desk",
+          "residents"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I would first keep the staffed desk open for one evening each week. People with complicated questions often need a conversation, and daytime opening hours can exclude residents who work. A longer evening session would address that problem directly. The online portal still matters, but I would improve its most common tasks gradually rather than rebuild everything at once. My priority is making sure residents have a usable option when an online form does not fit their situation.",
+        "explanation": "读懂：priority 是“优先事项”；在升级网上办事入口和延长有人服务的柜台时间之间排序。\n解析：示例先选每周一次晚间柜台，回应白天工作的居民和复杂问题；网上常用功能逐步改善。选网上优先同样可，但要说明它能解决哪类实际障碍。\n下次：先明确第一笔资源投向→指出最受益群体和具体问题→补另一渠道如何保留，检查不是把两项都写成无条件全面扩张。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "公共服务优先级",
+          "可及性"
+        ],
+        "vocabulary": [
+          "portal",
+          "staffed desk"
+        ],
+        "rationale": "由商业服务延伸公共服务可及性，建议有明确先后。",
+        "answer_evidence": "题问：A town can improve its online service portal or keep a staffed service desk open longer. Which should be the priority, and why? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 78 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S142",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Tell me about a time when you checked a piece of information before acting on it. What did you check, and why?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Tell me about a time when you checked a piece of information before acting on it. What did you check, and why?",
+        "max_seconds": 45,
+        "group_id": "take_interview_10",
+        "passage_title": "Judging everyday information"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "information",
+          "check",
+          "because",
+          "decision"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I once saw a message saying that a local exhibition would close early that weekend. I was planning to take my cousin, so I checked the exhibition's own announcement instead of changing our plans immediately. The message referred to the previous weekend, not the coming one. We visited at the usual time and avoided canceling unnecessarily. Since then, I have paid more attention to dates because information can be accurate about an event but still irrelevant to my decision.",
+        "explanation": "读懂：before acting on it 是“据此行动之前”；说明核对了哪条信息以及为何要核对。\n解析：示例核对展览自己的公告，发现转发的是上周时间。重点不是所有转发都错，而是日期不适用于这次计划，解释为何核对能避免误取消。\n下次：先讲将影响什么决定的信息→说明核对渠道和关键字段→给核对后的行动，检查不能只说“我上网查了”而无结果。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "核查经历",
+          "时效范围"
+        ],
+        "vocabulary": [
+          "announcement",
+          "dates"
+        ],
+        "rationale": "具体错时转发例子，不引用真实活动或伪造来源。",
+        "answer_evidence": "题问：Tell me about a time when you checked a piece of information before acting on it. What did you check, and why? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 79 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S143",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "If two people give you conflicting advice, how do you decide which advice to follow? Use an example.",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: If two people give you conflicting advice, how do you decide which advice to follow? Use an example.",
+        "max_seconds": 45,
+        "group_id": "take_interview_10",
+        "passage_title": "Judging everyday information"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "advice",
+          "experience",
+          "choose",
+          "example"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I first ask what experience each person has and whether their situation matches mine. When I was choosing a language course, one friend preferred a fast class while another recommended a slower one. Both gave reasonable advice, but they started at different levels. I compared the course descriptions with what I already knew and chose the slower class. The disagreement did not mean that one friend was dishonest; their advice was useful for different learners.",
+        "explanation": "读懂：conflicting advice 是“互相冲突的建议”；说明判断依据，不只是选更喜欢的人。\n解析：示例发现朋友起点不同，所以课程推荐不同，再以自身水平匹配课程。不同意见不自动代表一方撒谎；也可选择试用或向更熟悉任务的人追问。\n下次：遇到冲突建议→先查建议者经验与适用条件→与自己需求比较后选择，检查例子体现了判断过程而非盲从。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "条件匹配",
+          "比较证据"
+        ],
+        "vocabulary": [
+          "conflicting advice",
+          "levels"
+        ],
+        "rationale": "经验差异解释建议冲突，避免简单把其中一方定为错误。",
+        "answer_evidence": "题问：If two people give you conflicting advice, how do you decide which advice to follow? Use an example. 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 75 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S144",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Should schools spend more time teaching students how to evaluate information, even if that leaves less time for memorizing facts?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Should schools spend more time teaching students how to evaluate information, even if that leaves less time for memorizing facts?",
+        "max_seconds": 45,
+        "group_id": "take_interview_10",
+        "passage_title": "Judging everyday information"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "students",
+          "information",
+          "facts",
+          "learn"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I think schools should give information evaluation more attention, while still teaching enough facts to help students recognize unlikely claims. Students could compare two reports about the same event and examine where each report gets its evidence. That activity uses knowledge rather than replacing it. Memorizing a long list of details is less useful if students cannot tell when a source is outdated or incomplete. I would combine factual learning with short, regular exercises in checking claims.",
+        "explanation": "读懂：evaluate information 是“评估信息”；必须回应这会减少记事实时间的取舍。\n解析：示例支持更多评估训练，但保留帮助识别不可信说法的基础事实，并用比较同一事件报道说明如何整合。不能把评估能力说成完全不需要知识。\n下次：先说时间应怎样分配→给一个同时运用知识与核查的课堂动作→检查理由是否解释了为何值得占用部分记忆课时。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "教育取舍",
+          "知识与方法联系"
+        ],
+        "vocabulary": [
+          "evidence",
+          "outdated"
+        ],
+        "rationale": "从个人核查扩展教育安排，参考不制造知识与方法绝对对立。",
+        "answer_evidence": "题问：Should schools spend more time teaching students how to evaluate information, even if that leaves less time for memorizing facts? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 77 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S145",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "News organizations sometimes must choose between publishing quickly and waiting to confirm details. Which should they prioritize?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: News organizations sometimes must choose between publishing quickly and waiting to confirm details. Which should they prioritize?",
+        "max_seconds": 45,
+        "group_id": "take_interview_10",
+        "passage_title": "Judging everyday information"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "news",
+          "details",
+          "quickly",
+          "confirm"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I would prioritize confirming details, but I would not wait for every minor question to be answered. A news organization can publish what it has established and clearly explain what remains uncertain. For example, it could report that a public event has been interrupted without guessing why it happened. This approach gives people timely information without presenting speculation as fact. If new evidence changes the report, the correction should be visible rather than quietly hidden in an updated paragraph.",
+        "explanation": "读懂：confirm details 是“核实细节”；讨论快发与确认之间的优先级。\n解析：示例先重核实，但允许发布已确认部分并注明未知；“活动中断”不等于已知中断原因。主张速度优先也需说明怎样标明不确定，而非默认猜测可当事实。\n下次：先定优先原则→区分已知事实与待查原因→举一个可先发而不猜测的内容，最后检查是否交代新证据出现后怎样更正。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "公共信息责任",
+          "不确定性边界"
+        ],
+        "vocabulary": [
+          "speculation",
+          "correction"
+        ],
+        "rationale": "由个人判断扩大到发布责任，使用虚构一般事件而非实际新闻断言。",
+        "answer_evidence": "题问：News organizations sometimes must choose between publishing quickly and waiting to confirm details. Which should they prioritize? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 79 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S146",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Describe a task you have done for a job, a volunteer role, or a family business. What did you learn from it?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Describe a task you have done for a job, a volunteer role, or a family business. What did you learn from it?",
+        "max_seconds": 45,
+        "group_id": "take_interview_11",
+        "passage_title": "Learning through part-time work"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "task",
+          "learn",
+          "work",
+          "experience"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I helped at a small bookstall during a weekend event. My main task was to record which titles had sold so the owner could plan the next day's stock. At first, I wrote things down whenever the stall became quiet, but I soon forgot a few details. I began making a brief mark after each sale instead. The experience taught me that a simple routine can be more reliable than trusting my memory during a busy period.",
+        "explanation": "读懂：task 是“一项具体工作”；可以来自兼职、志愿活动或家人生意，不要求有正式职业经历。\n解析：示例用售书记录从事后补记改为每笔做标记，说明学到可靠流程。只说工作辛苦还不够，需指出任务与收获之间的联系。\n下次：先选一个负责的小任务→讲遇到的具体问题和调整→核对最后学到的原则能从这次经历看出来。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "工作经历",
+          "方法与收获"
+        ],
+        "vocabulary": [
+          "bookstall",
+          "routine"
+        ],
+        "rationale": "包容多种经历来源，任务具体到销售记录而非职位名称。",
+        "answer_evidence": "题问：Describe a task you have done for a job, a volunteer role, or a family business. What did you learn from it? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 77 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S147",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Would you prefer a part-time role with familiar tasks or one that requires learning many new things? Explain your choice.",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Would you prefer a part-time role with familiar tasks or one that requires learning many new things? Explain your choice.",
+        "max_seconds": 45,
+        "group_id": "take_interview_11",
+        "passage_title": "Learning through part-time work"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "role",
+          "learn",
+          "tasks",
+          "prefer"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I would choose a role with some new things to learn, provided that someone could train me at the beginning. Repeating a familiar task might feel comfortable, but I would like to leave the job with an ability I did not have before. For example, helping to organize deliveries could teach me how to coordinate schedules. I would still want the workload to be manageable, because a part-time job should not make it impossible to keep up with my studies.",
+        "explanation": "读懂：familiar tasks 是“熟悉的任务”；在稳定熟练与学习新事物之间表达偏好。\n解析：示例倾向新任务，以安排配送学习协调为例，同时要求入门指导和可承受工作量。偏好熟悉工作也可从学习时间或稳定表现解释，不等于没有上进心。\n下次：先选岗位类型→讲一项能获得的能力或便利→检查培训、课业等条件有没有让你的选择更具体，而非只说挑战越多越好。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "职业偏好",
+          "条件与个人目标"
+        ],
+        "vocabulary": [
+          "familiar tasks",
+          "manageable"
+        ],
+        "rationale": "岗位学习价值与可承受负荷平衡，参考约八十词可自然展开。",
+        "answer_evidence": "题问：Would you prefer a part-time role with familiar tasks or one that requires learning many new things? Explain your choice. 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 80 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S148",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Do you think university students should have some work experience before they graduate? Why or why not?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Do you think university students should have some work experience before they graduate? Why or why not?",
+        "max_seconds": 45,
+        "group_id": "take_interview_11",
+        "passage_title": "Learning through part-time work"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "students",
+          "experience",
+          "work",
+          "because"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I think work experience can be valuable, but it should not be a requirement that ignores students' circumstances. A short placement can help someone learn to communicate with customers or meet a deadline. However, students with heavy courses or family responsibilities may not have time for a regular job. Universities could offer flexible projects with local organizations instead. The goal should be meaningful responsibility and reflection, not simply collecting a certain number of hours on a form.",
+        "explanation": "读懂：before they graduate 是“毕业前”；评价大学生获得工作经验是否必要。\n解析：示例认可真实责任和沟通练习，但不赞成忽略课业与家庭负担的统一要求，提出弹性项目。支持强制实习也可，须解释机会如何公平获得。\n下次：先区别“有价值”与“人人必须”→举工作带来的具体学习→检查建议是否考虑不能固定兼职的学生，而非把他们判为不努力。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "一般观点与政策区分",
+          "公平条件"
+        ],
+        "vocabulary": [
+          "graduate",
+          "responsibilities"
+        ],
+        "rationale": "社会观点允许支持价值但反对僵硬要求，评价层次不混淆。",
+        "answer_evidence": "题问：Do you think university students should have some work experience before they graduate? Why or why not? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 77 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S149",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "When employers hire people with little experience, should they focus more on current skills or on willingness to learn?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: When employers hire people with little experience, should they focus more on current skills or on willingness to learn?",
+        "max_seconds": 45,
+        "group_id": "take_interview_11",
+        "passage_title": "Learning through part-time work"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "skills",
+          "learn",
+          "employers",
+          "experience"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I would give willingness to learn more weight when the basic tasks can be taught fairly quickly. A new employee who asks useful questions and follows feedback may improve more than someone who already knows one procedure but resists changes. However, enthusiasm should not replace essential skills in every job. An employer could use a short practical task and a conversation about a past learning experience to assess both ability and attitude without relying only on confident interview answers.",
+        "explanation": "读懂：willingness to learn 是“学习意愿”；比较招聘新手时现有技能与学习态度的权重。\n解析：示例在基础任务易培训时偏向学习意愿，但不取消岗位必需技能；用实际任务加学习经历来判断，避免把会自夸等于能学习。相反优先级也可有理有据。\n下次：先限定一种岗位条件→说更看重什么及为何→给可观察的评估办法，检查“愿意学”有行为证据而不只是热情口号。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "招聘标准比较",
+          "可观察证据"
+        ],
+        "vocabulary": [
+          "willingness",
+          "essential skills"
+        ],
+        "rationale": "更广用人决策有条件界限，不把意愿替代所有资格。",
+        "answer_evidence": "题问：When employers hire people with little experience, should they focus more on current skills or on willingness to learn? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 79 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S150",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Describe something you bought that turned out to be more useful than you expected. What made it useful?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Describe something you bought that turned out to be more useful than you expected. What made it useful?",
+        "max_seconds": 45,
+        "group_id": "take_interview_12",
+        "passage_title": "Making everyday purchasing decisions"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "bought",
+          "useful",
+          "expected",
+          "because"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I bought a small insulated bottle mainly because I wanted to carry tea to class. I soon discovered that it was also useful on long walks and during evenings in the library. Before buying it, I often paid for a drink simply because I had forgotten to bring one. The bottle was easy to clean and fitted in my bag, so I actually used it every day. Its value came from those ordinary conveniences rather than any unusual feature.",
+        "explanation": "读懂：more useful than you expected 是“比预想更有用”；需比较原先用途与后来发现的价值。\n解析：示例从带茶上课扩展到散步、图书馆，再解释易清洗易携带促成每天使用。只说价格便宜不足以回答有用在哪里，也不用选昂贵物品。\n下次：先交代买时的一项用途→讲后来多解决了什么问题→检查有实际使用细节，能看出价值超过原预期。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "购买经历",
+          "预期与实际比较"
+        ],
+        "vocabulary": [
+          "insulated bottle",
+          "conveniences"
+        ],
+        "rationale": "日常物品价值由使用频率和具体情境证明。",
+        "answer_evidence": "题问：Describe something you bought that turned out to be more useful than you expected. What made it useful? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 79 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S151",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Before buying something you do not urgently need, do you usually research it carefully or make a quick decision? Explain with an example.",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Before buying something you do not urgently need, do you usually research it carefully or make a quick decision? Explain with an example.",
+        "max_seconds": 45,
+        "group_id": "take_interview_12",
+        "passage_title": "Making everyday purchasing decisions"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "buy",
+          "research",
+          "decision",
+          "example"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I usually wait and do a little research, especially if I will use the item for a long time. When I considered buying a desk lamp, I compared how the light could be adjusted rather than reading every available review. I also measured my desk, which ruled out a model I initially liked. That process took only an evening. It helped me buy something suitable without turning a small purchase into a complicated project that lasted for weeks.",
+        "explanation": "读懂：do not urgently need 是“不急需”；谈这类购买前如何决定，并配例子。\n解析：示例不是无限比较，而是抓台灯可调性和桌面尺寸两项相关信息，一晚就完成。快速决定也可由成本低或经验足解释，但别用急救类购买绕开不急需条件。\n下次：先选一个非急需物品→指出一两项真正影响使用的标准→核对例子体现你的决策方式，而非只罗列商品特点。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "决策过程",
+          "信息筛选"
+        ],
+        "vocabulary": [
+          "desk lamp",
+          "measured"
+        ],
+        "rationale": "购买决策强调适度研究，与服务推荐组的信任渠道不同。",
+        "answer_evidence": "题问：Before buying something you do not urgently need, do you usually research it carefully or make a quick decision? Explain with an example. 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 78 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S152",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Should stores encourage customers to buy larger quantities at a lower price per item? Why or why not?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Should stores encourage customers to buy larger quantities at a lower price per item? Why or why not?",
+        "max_seconds": 45,
+        "group_id": "take_interview_12",
+        "passage_title": "Making everyday purchasing decisions"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "stores",
+          "price",
+          "buy",
+          "quantity"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I think quantity discounts are useful when people can store and use everything they buy. A family might benefit from a larger pack of soap, for example. But a student living alone may waste food by buying more than needed just to get a lower unit price. Stores should show the price per item clearly while still offering smaller packages. That lets customers compare options without suggesting that the largest package is automatically the best choice for everyone.",
+        "explanation": "读懂：lower price per item 是“每件单价更低”；评价多买优惠，不能只比较总价数字。\n解析：示例把能用完的肥皂与可能浪费的食物区分，指出单价低不一定总支出或实际成本低。支持或反对促销都可，需联系储存、用量或浪费。\n下次：先判断买的人能否用完→举一种合适或不合适的商品→检查结论是否同时考虑单价、购买量和实际使用。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "成本概念区分",
+          "消费者差异"
+        ],
+        "vocabulary": [
+          "quantity discounts",
+          "unit price"
+        ],
+        "rationale": "消费观点非个人财务建议，具体例子揭示单价与需求差异。",
+        "answer_evidence": "题问：Should stores encourage customers to buy larger quantities at a lower price per item? Why or why not? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 78 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S153",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "A city wants to reduce the amount of rarely used equipment that residents buy. Should it support lending centers, or should it focus on educating people to buy less?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: A city wants to reduce the amount of rarely used equipment that residents buy. Should it support lending centers, or should it focus on educating people to buy less?",
+        "max_seconds": 45,
+        "group_id": "take_interview_12",
+        "passage_title": "Making everyday purchasing decisions"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "equipment",
+          "buy",
+          "lending",
+          "people"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I would prioritize lending centers because they give people an alternative when they genuinely need equipment for a short time. Someone might need a drill to put up one shelf but have no reason to own one afterward. A neighborhood center could meet that need, while information about careful purchasing could support the service. Education alone may tell people what not to do without helping them finish the task that led them to consider buying something.",
+        "explanation": "读懂：rarely used equipment 是“很少用到的设备”；比较借用中心与少买宣传两种措施。\n解析：示例优先借用中心，以偶尔装置物架需用钻机说明替代办法，宣传作为辅助。偏向教育也可，但要解释居民仍需完成任务时怎么办。\n下次：先选优先政策→用一种低频设备说明需求如何被满足→检查没有把“少购买”误说成“不准完成日常任务”。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "政策工具比较",
+          "替代方案"
+        ],
+        "vocabulary": [
+          "lending centers",
+          "equipment"
+        ],
+        "rationale": "由个人购买延伸共享设备政策，提供需求替代而非空泛环保口号。",
+        "answer_evidence": "题问：A city wants to reduce the amount of rarely used equipment that residents buy. Should it support lending centers, or should it focus on educating people to buy less? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 76 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S154",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Describe an outdoor place you visit when you need a break. What do you usually do there?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Describe an outdoor place you visit when you need a break. What do you usually do there?",
+        "max_seconds": 45,
+        "group_id": "take_interview_13",
+        "passage_title": "Using outdoor public spaces"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "place",
+          "outdoor",
+          "break",
+          "usually"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I often visit a narrow riverside path near my apartment when I need a break. I do not usually go there for serious exercise. Instead, I walk for about twenty minutes and look at the boats or sit on a bench without checking my phone. The route is familiar, so I do not need to plan anything. After a morning indoors, the change of surroundings helps me return to my work with a clearer sense of what to do next.",
+        "explanation": "读懂：need a break 是“需要休息调整”；介绍一个常去的户外地点和实际活动。\n解析：示例选熟悉的河边路，说明散步、看船、少看手机及休息效果，不将整个回答变成景点导游词。公园、院子等地点也成立。\n下次：先定位一个熟悉地点→讲一两项常做动作→说明为何能短暂放松，检查通常行为比景色形容占更多篇幅。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "日常经历",
+          "活动与作用"
+        ],
+        "vocabulary": [
+          "riverside path",
+          "surroundings"
+        ],
+        "rationale": "具体低门槛日常休息，不声称医疗效果。",
+        "answer_evidence": "题问：Describe an outdoor place you visit when you need a break. What do you usually do there? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 80 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S155",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Would you rather spend free time in a busy park with many activities or in a quiet natural area? Explain your preference.",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Would you rather spend free time in a busy park with many activities or in a quiet natural area? Explain your preference.",
+        "max_seconds": 45,
+        "group_id": "take_interview_13",
+        "passage_title": "Using outdoor public spaces"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "park",
+          "quiet",
+          "activities",
+          "prefer"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I would usually choose a quiet natural area, especially after spending the day around many people. I like hearing wind and birds without needing to join an organized activity. Last weekend, I walked through a wooded area with a friend, and we could talk without raising our voices. A busy park is enjoyable when I want to meet a group, but for an ordinary break I prefer somewhere that does not ask for much attention.",
+        "explanation": "读懂：busy park 是“热闹的公园”，quiet natural area 是“安静的自然环境”；说明闲暇偏好。\n解析：示例把安静环境与人多一天后的休息需求相连，用无需提高音量的谈话作细节；也承认聚会时热闹公园合适。选热闹一方也需同样具体。\n下次：先说更常选择哪类环境→联系一种休闲目的→举一次活动细节，检查不是无根据地宣称另一类场所对所有人都不好。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "环境偏好",
+          "情境限定"
+        ],
+        "vocabulary": [
+          "wooded area",
+          "attention"
+        ],
+        "rationale": "偏好依目的变化，不使用热闹或安静的绝对好坏判断。 解析核对题目原词并用中文解释，组织建议不设为唯一作答方式。",
+        "answer_evidence": "题问：Would you rather spend free time in a busy park with many activities or in a quiet natural area? Explain your preference. 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 75 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S156",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Should cities give up some parking spaces to create more small parks? Why or why not?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Should cities give up some parking spaces to create more small parks? Why or why not?",
+        "max_seconds": 45,
+        "group_id": "take_interview_13",
+        "passage_title": "Using outdoor public spaces"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "cities",
+          "parks",
+          "parking",
+          "residents"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I would support replacing some parking spaces with small parks where residents currently have little outdoor space. A few trees, benches, and a safe walking area can serve people throughout the day, not only those who own cars. However, the city should first understand who uses the parking and whether deliveries or residents with limited mobility depend on it. I would favor carefully chosen locations rather than a rule that removes the same amount of parking from every neighborhood.",
+        "explanation": "读懂：give up parking spaces 是“减少停车位”；换小公园有明确空间代价。\n解析：示例支持缺少户外空间的社区优先改造，同时调查送货及行动不便者需要。反对也可提出通达性问题，但不能把所有停车需求视为完全相同。\n下次：先定支持或反对的地点条件→比较公园使用者收益与原停车用途→检查有没有回应被替代空间原来服务的人。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "城市空间取舍",
+          "不同人群需求"
+        ],
+        "vocabulary": [
+          "parking spaces",
+          "limited mobility"
+        ],
+        "rationale": "城市空间观点含替代成本与可及性，不作为真实规划结论。",
+        "answer_evidence": "题问：Should cities give up some parking spaces to create more small parks? Why or why not? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 79 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S157",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "A public park has limited funds. Should it add new attractions or maintain existing paths, benches, and toilets first?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: A public park has limited funds. Should it add new attractions or maintain existing paths, benches, and toilets first?",
+        "max_seconds": 45,
+        "group_id": "take_interview_13",
+        "passage_title": "Using outdoor public spaces"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "park",
+          "funds",
+          "maintain",
+          "attractions"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I would maintain the existing facilities first because they affect almost every visit. A new attraction may draw attention, but a broken path or a dirty toilet can make people avoid the park entirely. For example, repairing a damaged path to make it smooth would help both someone pushing a stroller and someone walking with difficulty. Once the basic facilities are reliable, the park could ask residents which new feature would add the most value instead of guessing.",
+        "explanation": "读懂：maintain existing paths, benches, and toilets 是“维护已有的小路、长椅和厕所”；资源有限时要在新增亮点与基础维护之间排序。\n解析：示例先维护路、椅子和厕所，用推婴儿车与步行困难者共同受益说明广覆盖。优先新增也可，但应解释为何已有基础足够，不能跳过当前维护问题。\n下次：先给第一优先级→举影响多种访客的一项设施→检查理由是否支持你选定的优先级，并交代有限资金下另一类需求如何处理。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "公共资源排序",
+          "具体受益者"
+        ],
+        "vocabulary": [
+          "facilities",
+          "stroller"
+        ],
+        "rationale": "优先维护已有设施，以修复破损路面使其平整说明不同访客如何受益。",
+        "answer_evidence": "题问：A public park has limited funds. Should it add new attractions or maintain existing paths, benches, and toilets first? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 78 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S158",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Tell me about a time when someone's feedback helped you improve something. What changed after you received it?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Tell me about a time when someone's feedback helped you improve something. What changed after you received it?",
+        "max_seconds": 45,
+        "group_id": "take_interview_14",
+        "passage_title": "Giving and receiving useful feedback"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "feedback",
+          "improve",
+          "changed",
+          "example"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "A classmate once listened to a short presentation I was preparing. She said that my examples were interesting, but she could not tell what point connected them. I added one clear sentence near the beginning and removed an example that did not support it. When I practiced again, the presentation was shorter and easier to follow. Her feedback helped because it described a specific problem from the listener's perspective instead of simply saying that my presentation needed more work.",
+        "explanation": "读懂：feedback 是“对表现的反馈”；讲反馈如何促成实际改进，不能只转述一句夸奖。\n解析：示例先指出听众找不到例子之间的主线，再补中心句、删无关例子，效果与建议直接对应。其他任务也可，重点是改了哪一处。\n下次：先讲原任务的一处问题→引出具体反馈→说采取的修改和结果，检查修改不是与你收到的意见无关。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "反馈经历",
+          "修改与效果"
+        ],
+        "vocabulary": [
+          "feedback",
+          "perspective"
+        ],
+        "rationale": "具体演讲结构修正，不等于背诵抽象的接受意见原则。",
+        "answer_evidence": "题问：Tell me about a time when someone's feedback helped you improve something. What changed after you received it? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 79 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S159",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "When asking for feedback, do you prefer general impressions or detailed comments on specific parts? Explain with an example.",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: When asking for feedback, do you prefer general impressions or detailed comments on specific parts? Explain with an example.",
+        "max_seconds": 45,
+        "group_id": "take_interview_14",
+        "passage_title": "Giving and receiving useful feedback"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "feedback",
+          "comments",
+          "detailed",
+          "prefer"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I prefer detailed comments when I have enough time to revise. If someone reads an email I have drafted, it helps to know which sentence sounds unclear and what information is missing. A general comment like \"make it more professional\" leaves me guessing. However, when I am checking whether an idea is worth developing at all, a broad reaction can be useful. The kind of feedback I want depends on whether I am choosing a direction or improving a draft.",
+        "explanation": "读懂：general impressions 是“整体印象”，specific parts 是“具体部分”；比较你想得到哪类反馈。\n解析：示例修改邮件时需要指出哪句不清楚，选方向时整体反应也有用。可以偏向整体，但要解释它解决什么阶段的问题，不能只说详细越多越好。\n下次：先确定反馈发生的阶段→选一种更需要的意见→举一条能指导行动的反馈，检查示例确实体现整体或细节的区别。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "反馈类型比较",
+          "阶段性需求"
+        ],
+        "vocabulary": [
+          "general impressions",
+          "draft"
+        ],
+        "rationale": "按选方向与改草稿区分反馈用途；引号标明假设的笼统评价，不冒充题目原文。",
+        "answer_evidence": "题问：When asking for feedback, do you prefer general impressions or detailed comments on specific parts? Explain with an example. 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 80 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S160",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Should teachers allow students to revise work after receiving a grade? Why or why not?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Should teachers allow students to revise work after receiving a grade? Why or why not?",
+        "max_seconds": 45,
+        "group_id": "take_interview_14",
+        "passage_title": "Giving and receiving useful feedback"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "teachers",
+          "revise",
+          "grade",
+          "students"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I think teachers should allow revisions when students explain what they changed and why. A grade alone tells students how they performed, but revision gives them a chance to use the feedback. For example, someone could improve the organization of an essay rather than simply correct a few spelling errors. There should still be a deadline and a clear policy about how the new work affects the grade. Otherwise, the opportunity could become confusing or unfair to classmates.",
+        "explanation": "读懂：revise work after receiving a grade 是“评分后再修改作业”；评价是否应给这种机会。\n解析：示例支持修改并要求解释改动，通过文章结构调整体现学习；同时设置期限与分数政策。反对也可从公平或教学时间讨论，不必认同范文立场。\n下次：先说是否允许→解释反馈怎样转成学习行为→检查期限和评分规则是否清楚，别把修改机会等同于无条件加分。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "教育政策论证",
+          "机会与公平"
+        ],
+        "vocabulary": [
+          "revisions",
+          "deadline"
+        ],
+        "rationale": "允许修订的学习价值与评分公平同时回应，避免隐含改分保证。",
+        "answer_evidence": "题问：Should teachers allow students to revise work after receiving a grade? Why or why not? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 78 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S161",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "In a workplace, is it better for a manager to correct mistakes privately or discuss them with the whole team? Explain your view.",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: In a workplace, is it better for a manager to correct mistakes privately or discuss them with the whole team? Explain your view.",
+        "max_seconds": 45,
+        "group_id": "take_interview_14",
+        "passage_title": "Giving and receiving useful feedback"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "manager",
+          "mistakes",
+          "team",
+          "private"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I would normally correct an individual's mistake privately, then discuss any general lesson without identifying the person. A private conversation makes it easier to ask what happened without turning the problem into a public embarrassment. If the same issue could affect everyone, the team still needs to understand the procedure. For instance, a manager could demonstrate a clearer way to label files. That approach shares useful knowledge while keeping the focus on improving work rather than assigning blame.",
+        "explanation": "读懂：privately 是“私下”，whole team 是“整个团队”；讨论纠错场合，而不是是否隐瞒错误。\n解析：示例个人问题私下了解、通用流程向团队讲解，以文件命名示范说明可共享方法而不点名羞辱。主张公开讨论也要解释适用情境与保护沟通的做法。\n下次：先区分个人责任和团队都需知道的知识→给处理顺序→检查方案既能纠正问题，又不是把对人的责备当成唯一教学办法。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "职场沟通",
+          "个人与团队边界"
+        ],
+        "vocabulary": [
+          "privately",
+          "procedure"
+        ],
+        "rationale": "由接受个人反馈扩展组织纠错，不宣称唯一正确管理方式。",
+        "answer_evidence": "题问：In a workplace, is it better for a manager to correct mistakes privately or discuss them with the whole team? Explain your view. 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 78 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S162",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Describe an object you have kept for a long time. Why have you kept it?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Describe an object you have kept for a long time. Why have you kept it?",
+        "max_seconds": 45,
+        "group_id": "take_interview_15",
+        "passage_title": "Repairing, keeping, and replacing possessions"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "object",
+          "kept",
+          "because",
+          "use"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I have kept a simple wooden pencil case since secondary school. It is scratched, and one corner is darker than the others, but it still closes properly. My older brother gave it to me before my first important exam, so it reminds me of his encouragement. I use it for a few pens on my desk rather than storing it away. Keeping something meaningful is easier for me when it still has a practical place in everyday life.",
+        "explanation": "读懂：kept for a long time 是“长期保留”；说明物件及保留理由，不要求古董或贵重礼物。\n解析：示例用旧笔盒的实用状态和兄长鼓励两层理由支撑，划痕细节让经历具体。只讲购入过程会漏掉为何至今仍留着。\n下次：先点名物件和保留时间→说它如今的用途或情感联系→核对细节能够解释“仍然保留”，而非只说明当时喜欢。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "物品经历",
+          "实用与情感理由"
+        ],
+        "vocabulary": [
+          "pencil case",
+          "encouragement"
+        ],
+        "rationale": "个人物品主题从具体长期使用切入，物件价值不限价格。",
+        "answer_evidence": "题问：Describe an object you have kept for a long time. Why have you kept it? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 78 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S163",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "When an everyday object breaks, how do you decide whether to repair it or replace it? Use an example.",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: When an everyday object breaks, how do you decide whether to repair it or replace it? Use an example.",
+        "max_seconds": 45,
+        "group_id": "take_interview_15",
+        "passage_title": "Repairing, keeping, and replacing possessions"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "repair",
+          "replace",
+          "object",
+          "cost"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I compare the likely repair cost with how useful the object will be afterward. When the zipper on my favorite backpack broke, the rest of the bag was still in good condition. A local repair shop could replace the zipper for much less than a new bag, so repairing made sense. If the fabric had also been tearing in several places, I might have chosen differently. I try to judge the whole object rather than react only to the broken part.",
+        "explanation": "读懂：repair or replace 是“修理还是换新”；要说明判断标准，并用一次物品故障举例。\n解析：示例不仅比较拉链维修费，还看背包其他部分是否良好；若多处破损，结论可不同。不是所有旧物都该修，也不是坏一点就必须扔。\n下次：先看损坏范围和修后用途→比较修理与换新的实际价值→用具体物件检查你的标准是否前后一致。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "决策标准",
+          "条件比较"
+        ],
+        "vocabulary": [
+          "zipper",
+          "repair cost"
+        ],
+        "rationale": "整体状况而非单项价格决定选择，示例条件清楚。",
+        "answer_evidence": "题问：When an everyday object breaks, how do you decide whether to repair it or replace it? Use an example. 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 81 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S164",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "Should manufacturers design products that are easier to repair, even if the products cost more at first?",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: Should manufacturers design products that are easier to repair, even if the products cost more at first?",
+        "max_seconds": 45,
+        "group_id": "take_interview_15",
+        "passage_title": "Repairing, keeping, and replacing possessions"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "products",
+          "repair",
+          "cost",
+          "manufacturers"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I would support a somewhat higher initial price if easier repair genuinely extends the product's useful life. Being able to replace a worn part can save customers from buying a whole new item. However, a repairable design is not enough if spare parts are impossible to obtain or cost almost as much as a replacement. Manufacturers should explain how repairs work and make parts available. I would judge the whole system, not just a repairability claim on the box.",
+        "explanation": "读懂：cost more at first 是“起初买得更贵”；评价为易维修设计付出初始成本是否值得。\n解析：示例支持有实际寿命收益的加价，但要求买得到合理价格的零件；仅印“可维修”不等于真正修得起。反对者也可讨论预算紧张或使用周期短的消费者。\n下次：先权衡初始价格与后续使用→给零件供应等可检验条件→检查没有只喊环保口号而忽略用户能否实际完成维修。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "生命周期取舍",
+          "声明与实际条件"
+        ],
+        "vocabulary": [
+          "spare parts",
+          "initial price"
+        ],
+        "rationale": "产品设计观点考虑维修配套，不给具体购买或投资建议。",
+        "answer_evidence": "题问：Should manufacturers design products that are easier to repair, even if the products cost more at first? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 79 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "S165",
+        "section": "speaking",
+        "task_type": "take_interview",
+        "prompt": "A community wants to reduce waste from unwanted possessions. Would you recommend repair events, secondhand exchanges, or another approach? Explain your recommendation.",
+        "response_type": "recording_text",
+        "audio_text": "Interviewer: A community wants to reduce waste from unwanted possessions. Would you recommend repair events, secondhand exchanges, or another approach? Explain your recommendation.",
+        "max_seconds": 45,
+        "group_id": "take_interview_15",
+        "passage_title": "Repairing, keeping, and replacing possessions"
+      },
+      "answer": {
+        "type": "subjective",
+        "keywords": [
+          "community",
+          "waste",
+          "repair",
+          "exchange"
+        ],
+        "min_words": 20,
+        "max_score": 5,
+        "reference": "I would begin with a secondhand exchange because many unwanted objects still work perfectly well. A person who no longer needs a desk lamp could pass it to someone furnishing a first apartment. The event should make it easy to describe an item's condition and arrange collection, rather than simply pile everything in a room. A small repair table could support the exchange later, but I would first focus on matching usable objects with people who need them.",
+        "explanation": "读懂：unwanted possessions 是“不再需要的物品”；推荐减少这类浪费的社区办法，可提出维修、交换或其他方案。\n解析：示例优先二手交换，以仍能使用的台灯匹配新住户，补充状态说明和领取安排。支持维修活动也可，但需说明针对哪类闲置物以及如何运作。\n下次：先区分坏了与仅不再需要→选择对应方案→讲一个物品如何到达新用途，检查措施不只是换地方堆放物品。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "社区方案设计",
+          "问题分类"
+        ],
+        "vocabulary": [
+          "secondhand exchange",
+          "condition"
+        ],
+        "rationale": "全组由保留旧物走到社区资源再分配，参考给出真实可操作步骤。",
+        "answer_evidence": "题问：A community wants to reduce waste from unwanted possessions. Would you recommend repair events, secondhand exchanges, or another approach? Explain your recommendation. 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；现有评分器按词命中给启发式分，可能低估同义表达，不能据此判定其他立场错误。参考文本 78 词，45 秒的可说性仅作文本长度检查。",
+        "reviewed_on": "2026-09-27"
+      }
+    }
+  ]
+}

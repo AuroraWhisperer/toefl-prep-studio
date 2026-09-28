@@ -1,0 +1,1407 @@
+{
+  "id": "ets-test-1",
+  "title": "ETS Practice Test 1",
+  "number": 1,
+  "source_url": "https://www.ets.org/pdfs/toefl/toefl-ibt-teachers-resources-practice-test-1.pdf",
+  "source_sha256": "8c98489fcdbdefdc1708c45e27446e34e196a6967a633c1dab5b5cf64ebead52",
+  "phases": [
+    {
+      "id": "ets-test-1-reading-1",
+      "section": "reading",
+      "module": 1,
+      "title": "Reading · Module 1",
+      "seconds": 900,
+      "pages": [
+        {
+          "url": "/mock-pages/ets-test-1/page-4.png",
+          "page": 4,
+          "text": "Fill in the missing letters in the paragraph.\n(Questions 1-10)\n\nEarly civilizations, including those in Mesopotamia, Egypt, the Indus Valley, and China, emerged around\nriver valleys, where fertile land and water resources supported agriculture. Th(2             blanklines)developed\nsophis(7allowedth(2blankblanklines)tolines)socialthr(3   blanklines)andstruc(5esta(5blankblanklines), writtenlines)cities,lang(5tr (3   blankblanklines)networks,lines), and adva(4and evenblankempires.lines)technologies,Just aswh(3importantblank\nwere their significant contributions to fields like art, science, and law. These developments were crucial in\nshaping the course of human history.\n\n\nRead a notice.\n\nThis is to let all employees know that the staff meeting scheduled for Wednesday, August 10th at 2:00 PM\nhas been rescheduled. The meeting will now take place on Friday, August 12th at 3:00 PM in the main\nconference room. Please be on time. Thank you.\n\n11. What is the main purpose of the notice?\n(A) To introduce new employees to staff\n(B) To announce a change in a meeting schedule\n(C) To apologize for a scheduling conflict\n(D) To inform employees of a conference opportunity\n\n12. When will the staff meeting take place?\n(A) Wednesday, August 10th at 2:00 PM\n(B) Wednesday, August 10th at 3:00 PM\n(C) Friday, August 12th at 2:00 PM\n(D) Friday, August 12th at 3:00 PM"
+        },
+        {
+          "url": "/mock-pages/ets-test-1/page-5.png",
+          "page": 5,
+          "text": "Read an email.\n\nSubject: RE: inquiry\n\nDear Mr. Santiago,\n\nWe are pleased that you are considering our facility for your mother’s birthday party.\n\nOur outdoor area includes a playground and picnic tables, which can be set up to your preference. We\noffer a variety of dining options that suit different dietary needs. Please find the menu attached to this\nemail.\n\nOur team can organize activities for people of all ages, including arts and crafts, board games, and more.\nWe do not have photographers on staff, but we have worked with external professional photographers in\nthe past and are happy to provide you with recommendations.\n\nTo secure your date, we require a down payment of 30 percent of the total cost. If you need to cancel\nyour booking, please notify us at least fourteen days in advance. Cancellations made outside this window\nwill forfeit the down payment.\n\nRegards,\nRebecca Yang\n\n13. What can be inferred about Mr. Santiago?\n(A) He is about to celebrate his birthday.\n(B) He has used Rebecca Yang's facility in the past.\n(C) He is a professional event organizer.\n(D) He has requested information about Rebecca Yang's facility.\n\n14. Rebecca Yang's team does NOT include\n(A) Cooks\n(B)  Professional photographers\n(C) People who can facilitate children's games\n(D) People who can set up picnic tables\n\n15. What information is being provided along with the email message?\n(A) Food choices\n(B) Types of arts and crafts activities\n(C) Dates available for booking\n(D) Contact information of photographers"
+        },
+        {
+          "url": "/mock-pages/ets-test-1/page-6.png",
+          "page": 6,
+          "text": "The Effects of Urbanization on Bird Populations\n\nUrbanization has had a profound impact on bird populations worldwide. As cities expand, natural habitats\nare replaced with buildings, roads, and other infrastructure. This leads to a significant reduction in the\navailability of nesting sites and food sources for birds.\nSome species, such as pigeons and sparrows, have adapted well to urban environments, taking advantage\nof the new resources and structures. However, many other species struggle to survive in these altered\nlandscapes. Therefore, it is imperative to find solutions that help birds adapt to city life. One notable effect\nof urbanization is the change in bird song. Birds living in cities often sing at higher pitches and volumes\nthan their rural counterparts. This adaptation helps them communicate over the noise of traffic and\nhuman activity. Additionally, the artificial lighting in cities can disrupt the natural circadian (daily\ntime-related) rhythms of birds, affecting their breeding and feeding behaviors.\nConservationists are working to mitigate the negative effects of urbanization on birds. Initiatives such as\ncreating urban green spaces, constructing bird-friendly buildings, and reducing light pollution are being\nimplemented. These efforts aim to create a more hospitable environment for birds, allowing them to\ncoexist with humans in urban settings.\n\n16.The word “mitigate” in the passage is closest in meaning to\n(A) understand\n(B) analyze\n(C) communicate\n(D) reduce\n\n17.Which of the following is NOT mentioned as an effect of urbanization on birds in the passage?\n(A) Reduced availability of nesting sites\n(B) Changes in bird song\n(C) Increased food sources\n(D) Disrupted circadian rhythms\n\n18. Why does the author mention pigeons and sparrows?\n(A) To identify birds that struggle to survive in urban environments\n(B) To give examples of birds that have adjusted to living in urban settings\n(C) To highlight the diversity of urban bird species\n(D) To suggest that all birds can adapt to cities\n\n19. What is one initiative mentioned in the passage to help birds in urban areas?\n(A) Introducing new bird species to urban areas\n(B) Providing human-made food sources to birds\n(C) Creating urban green spaces\n(D) Decreasing the amount of noise made by traffic\n\n20. What can be inferred about the impact artificial lighting in cities has on birds?\n(A)  It disrupts the natural behaviors of birds.\n(B)  It allows birds to find food at night.\n(C)  It helps birds to adapt to urban environments.\n(D)  It increases the population of urban birds."
+        }
+      ],
+      "items": [
+        {
+          "id": "ets-test-1-reading-1-1",
+          "number": 1,
+          "kind": "letters",
+          "blank_length": 2
+        },
+        {
+          "id": "ets-test-1-reading-1-2",
+          "number": 2,
+          "kind": "letters",
+          "blank_length": 7
+        },
+        {
+          "id": "ets-test-1-reading-1-3",
+          "number": 3,
+          "kind": "letters",
+          "blank_length": 5
+        },
+        {
+          "id": "ets-test-1-reading-1-4",
+          "number": 4,
+          "kind": "letters",
+          "blank_length": 5
+        },
+        {
+          "id": "ets-test-1-reading-1-5",
+          "number": 5,
+          "kind": "letters",
+          "blank_length": 4
+        },
+        {
+          "id": "ets-test-1-reading-1-6",
+          "number": 6,
+          "kind": "letters",
+          "blank_length": 3
+        },
+        {
+          "id": "ets-test-1-reading-1-7",
+          "number": 7,
+          "kind": "letters",
+          "blank_length": 2
+        },
+        {
+          "id": "ets-test-1-reading-1-8",
+          "number": 8,
+          "kind": "letters",
+          "blank_length": 3
+        },
+        {
+          "id": "ets-test-1-reading-1-9",
+          "number": 9,
+          "kind": "letters",
+          "blank_length": 5
+        },
+        {
+          "id": "ets-test-1-reading-1-10",
+          "number": 10,
+          "kind": "letters",
+          "blank_length": 3
+        },
+        {
+          "id": "ets-test-1-reading-1-11",
+          "number": 11,
+          "kind": "choice",
+          "prompt": "What is the main purpose of the notice?",
+          "options": [
+            "To introduce new employees to staff",
+            "To announce a change in a meeting schedule",
+            "To apologize for a scheduling conflict",
+            "To inform employees of a conference opportunity"
+          ],
+          "material": "This is to let all employees know that the staff meeting scheduled for Wednesday, August 10th at 2:00 PM has been rescheduled. The meeting will now take place on Friday, August 12th at 3:00 PM in the main conference room. Please be on time. Thank you.",
+          "material_heading": "Read a notice."
+        },
+        {
+          "id": "ets-test-1-reading-1-12",
+          "number": 12,
+          "kind": "choice",
+          "prompt": "When will the staff meeting take place?",
+          "options": [
+            "Wednesday, August 10th at 2:00 PM",
+            "Wednesday, August 10th at 3:00 PM",
+            "Friday, August 12th at 2:00 PM",
+            "Friday, August 12th at 3:00 PM"
+          ],
+          "material": "This is to let all employees know that the staff meeting scheduled for Wednesday, August 10th at 2:00 PM has been rescheduled. The meeting will now take place on Friday, August 12th at 3:00 PM in the main conference room. Please be on time. Thank you.",
+          "material_heading": "Read a notice."
+        },
+        {
+          "id": "ets-test-1-reading-1-13",
+          "number": 13,
+          "kind": "choice",
+          "prompt": "What can be inferred about Mr. Santiago?",
+          "options": [
+            "He is about to celebrate his birthday.",
+            "He has used Rebecca Yang's facility in the past.",
+            "He is a professional event organizer.",
+            "He has requested information about Rebecca Yang's facility."
+          ],
+          "material": "Subject: RE: inquiry\n\nDear Mr. Santiago,\n\nWe are pleased that you are considering our facility for your mother’s birthday party.\n\nOur outdoor area includes a playground and picnic tables, which can be set up to your preference. We offer a variety of dining options that suit different dietary needs. Please find the menu attached to this email.\n\nOur team can organize activities for people of all ages, including arts and crafts, board games, and more. We do not have photographers on staff, but we have worked with external professional photographers in the past and are happy to provide you with recommendations.\n\nTo secure your date, we require a down payment of 30 percent of the total cost. If you need to cancel your booking, please notify us at least fourteen days in advance. Cancellations made outside this window will forfeit the down payment.\n\nRegards, Rebecca Yang",
+          "material_heading": "Read an email."
+        },
+        {
+          "id": "ets-test-1-reading-1-14",
+          "number": 14,
+          "kind": "choice",
+          "prompt": "Rebecca Yang's team does NOT include",
+          "options": [
+            "Cooks",
+            "Professional photographers",
+            "People who can facilitate children's games",
+            "People who can set up picnic tables"
+          ],
+          "material": "Subject: RE: inquiry\n\nDear Mr. Santiago,\n\nWe are pleased that you are considering our facility for your mother’s birthday party.\n\nOur outdoor area includes a playground and picnic tables, which can be set up to your preference. We offer a variety of dining options that suit different dietary needs. Please find the menu attached to this email.\n\nOur team can organize activities for people of all ages, including arts and crafts, board games, and more. We do not have photographers on staff, but we have worked with external professional photographers in the past and are happy to provide you with recommendations.\n\nTo secure your date, we require a down payment of 30 percent of the total cost. If you need to cancel your booking, please notify us at least fourteen days in advance. Cancellations made outside this window will forfeit the down payment.\n\nRegards, Rebecca Yang",
+          "material_heading": "Read an email."
+        },
+        {
+          "id": "ets-test-1-reading-1-15",
+          "number": 15,
+          "kind": "choice",
+          "prompt": "What information is being provided along with the email message?",
+          "options": [
+            "Food choices",
+            "Types of arts and crafts activities",
+            "Dates available for booking",
+            "Contact information of photographers"
+          ],
+          "material": "Subject: RE: inquiry\n\nDear Mr. Santiago,\n\nWe are pleased that you are considering our facility for your mother’s birthday party.\n\nOur outdoor area includes a playground and picnic tables, which can be set up to your preference. We offer a variety of dining options that suit different dietary needs. Please find the menu attached to this email.\n\nOur team can organize activities for people of all ages, including arts and crafts, board games, and more. We do not have photographers on staff, but we have worked with external professional photographers in the past and are happy to provide you with recommendations.\n\nTo secure your date, we require a down payment of 30 percent of the total cost. If you need to cancel your booking, please notify us at least fourteen days in advance. Cancellations made outside this window will forfeit the down payment.\n\nRegards, Rebecca Yang",
+          "material_heading": "Read an email."
+        },
+        {
+          "id": "ets-test-1-reading-1-16",
+          "number": 16,
+          "kind": "choice",
+          "prompt": "The word “mitigate” in the passage is closest in meaning to",
+          "options": [
+            "understand",
+            "analyze",
+            "communicate",
+            "reduce"
+          ],
+          "material": "The Effects of Urbanization on Bird Populations Urbanization has had a profound impact on bird populations worldwide. As cities expand, natural habitats are replaced with buildings, roads, and other infrastructure. This leads to a significant reduction in the availability of nesting sites and food sources for birds. Some species, such as pigeons and sparrows, have adapted well to urban environments, taking advantage of the new resources and structures. However, many other species struggle to survive in these altered landscapes. Therefore, it is imperative to find solutions that help birds adapt to city life. One notable effect of urbanization is the change in bird song. Birds living in cities often sing at higher pitches and volumes than their rural counterparts. This adaptation helps them communicate over the noise of traffic and human activity. Additionally, the artificial lighting in cities can disrupt the natural circadian (daily time-related) rhythms of birds, affecting their breeding and feeding behaviors. Conservationists are working to mitigate the negative effects of urbanization on birds. Initiatives such as creating urban green spaces, constructing bird-friendly buildings, and reducing light pollution are being implemented. These efforts aim to create a more hospitable environment for birds, allowing them to coexist with humans in urban settings.",
+          "material_heading": "Read an Academic Passage"
+        },
+        {
+          "id": "ets-test-1-reading-1-17",
+          "number": 17,
+          "kind": "choice",
+          "prompt": "Which of the following is NOT mentioned as an effect of urbanization on birds in the passage?",
+          "options": [
+            "Reduced availability of nesting sites",
+            "Changes in bird song",
+            "Increased food sources",
+            "Disrupted circadian rhythms"
+          ],
+          "material": "The Effects of Urbanization on Bird Populations Urbanization has had a profound impact on bird populations worldwide. As cities expand, natural habitats are replaced with buildings, roads, and other infrastructure. This leads to a significant reduction in the availability of nesting sites and food sources for birds. Some species, such as pigeons and sparrows, have adapted well to urban environments, taking advantage of the new resources and structures. However, many other species struggle to survive in these altered landscapes. Therefore, it is imperative to find solutions that help birds adapt to city life. One notable effect of urbanization is the change in bird song. Birds living in cities often sing at higher pitches and volumes than their rural counterparts. This adaptation helps them communicate over the noise of traffic and human activity. Additionally, the artificial lighting in cities can disrupt the natural circadian (daily time-related) rhythms of birds, affecting their breeding and feeding behaviors. Conservationists are working to mitigate the negative effects of urbanization on birds. Initiatives such as creating urban green spaces, constructing bird-friendly buildings, and reducing light pollution are being implemented. These efforts aim to create a more hospitable environment for birds, allowing them to coexist with humans in urban settings.",
+          "material_heading": "Read an Academic Passage"
+        },
+        {
+          "id": "ets-test-1-reading-1-18",
+          "number": 18,
+          "kind": "choice",
+          "prompt": "Why does the author mention pigeons and sparrows?",
+          "options": [
+            "To identify birds that struggle to survive in urban environments",
+            "To give examples of birds that have adjusted to living in urban settings",
+            "To highlight the diversity of urban bird species",
+            "To suggest that all birds can adapt to cities"
+          ],
+          "material": "The Effects of Urbanization on Bird Populations Urbanization has had a profound impact on bird populations worldwide. As cities expand, natural habitats are replaced with buildings, roads, and other infrastructure. This leads to a significant reduction in the availability of nesting sites and food sources for birds. Some species, such as pigeons and sparrows, have adapted well to urban environments, taking advantage of the new resources and structures. However, many other species struggle to survive in these altered landscapes. Therefore, it is imperative to find solutions that help birds adapt to city life. One notable effect of urbanization is the change in bird song. Birds living in cities often sing at higher pitches and volumes than their rural counterparts. This adaptation helps them communicate over the noise of traffic and human activity. Additionally, the artificial lighting in cities can disrupt the natural circadian (daily time-related) rhythms of birds, affecting their breeding and feeding behaviors. Conservationists are working to mitigate the negative effects of urbanization on birds. Initiatives such as creating urban green spaces, constructing bird-friendly buildings, and reducing light pollution are being implemented. These efforts aim to create a more hospitable environment for birds, allowing them to coexist with humans in urban settings.",
+          "material_heading": "Read an Academic Passage"
+        },
+        {
+          "id": "ets-test-1-reading-1-19",
+          "number": 19,
+          "kind": "choice",
+          "prompt": "What is one initiative mentioned in the passage to help birds in urban areas?",
+          "options": [
+            "Introducing new bird species to urban areas",
+            "Providing human-made food sources to birds",
+            "Creating urban green spaces",
+            "Decreasing the amount of noise made by traffic"
+          ],
+          "material": "The Effects of Urbanization on Bird Populations Urbanization has had a profound impact on bird populations worldwide. As cities expand, natural habitats are replaced with buildings, roads, and other infrastructure. This leads to a significant reduction in the availability of nesting sites and food sources for birds. Some species, such as pigeons and sparrows, have adapted well to urban environments, taking advantage of the new resources and structures. However, many other species struggle to survive in these altered landscapes. Therefore, it is imperative to find solutions that help birds adapt to city life. One notable effect of urbanization is the change in bird song. Birds living in cities often sing at higher pitches and volumes than their rural counterparts. This adaptation helps them communicate over the noise of traffic and human activity. Additionally, the artificial lighting in cities can disrupt the natural circadian (daily time-related) rhythms of birds, affecting their breeding and feeding behaviors. Conservationists are working to mitigate the negative effects of urbanization on birds. Initiatives such as creating urban green spaces, constructing bird-friendly buildings, and reducing light pollution are being implemented. These efforts aim to create a more hospitable environment for birds, allowing them to coexist with humans in urban settings.",
+          "material_heading": "Read an Academic Passage"
+        },
+        {
+          "id": "ets-test-1-reading-1-20",
+          "number": 20,
+          "kind": "choice",
+          "prompt": "What can be inferred about the impact artificial lighting in cities has on birds?",
+          "options": [
+            "It disrupts the natural behaviors of birds.",
+            "It allows birds to find food at night.",
+            "It helps birds to adapt to urban environments.",
+            "It increases the population of urban birds."
+          ],
+          "material": "The Effects of Urbanization on Bird Populations Urbanization has had a profound impact on bird populations worldwide. As cities expand, natural habitats are replaced with buildings, roads, and other infrastructure. This leads to a significant reduction in the availability of nesting sites and food sources for birds. Some species, such as pigeons and sparrows, have adapted well to urban environments, taking advantage of the new resources and structures. However, many other species struggle to survive in these altered landscapes. Therefore, it is imperative to find solutions that help birds adapt to city life. One notable effect of urbanization is the change in bird song. Birds living in cities often sing at higher pitches and volumes than their rural counterparts. This adaptation helps them communicate over the noise of traffic and human activity. Additionally, the artificial lighting in cities can disrupt the natural circadian (daily time-related) rhythms of birds, affecting their breeding and feeding behaviors. Conservationists are working to mitigate the negative effects of urbanization on birds. Initiatives such as creating urban green spaces, constructing bird-friendly buildings, and reducing light pollution are being implemented. These efforts aim to create a more hospitable environment for birds, allowing them to coexist with humans in urban settings.",
+          "material_heading": "Read an Academic Passage"
+        }
+      ],
+      "cloze_parts": [
+        "Early civilizations, including those in Mesopotamia, Egypt, the Indus Valley, and China, emerged around river valleys, where fertile land and water resources supported agriculture. Th",
+        " developed sophis",
+        " social struc",
+        ", written lang",
+        ", and adva",
+        " technologies, wh",
+        " allowed th",
+        " to thr",
+        " and esta",
+        " cities, tr",
+        " networks, and even empires. Just as important were their significant contributions to fields like art, science, and law. These developments were crucial in shaping the course of human history."
+      ]
+    },
+    {
+      "id": "ets-test-1-reading-2",
+      "section": "reading",
+      "module": 2,
+      "title": "Reading · Module 2",
+      "seconds": 900,
+      "pages": [
+        {
+          "url": "/mock-pages/ets-test-1/page-8.png",
+          "page": 8,
+          "text": "Fill in the missing letters in the paragraph.\n(Questions 1-10)\n\nConsciousness is the state of being aware of and able to think about one’s own existence, thoughts, and\nsurroundings. Wh(2             blanklines)you lo(2             blanklines)in a mir(3   blanklines)and recognize your(4  blanklines), you exh(4  blanklines)self-awareness,\nwh(3   blanklines)is n(2  lines)unique t(1lines)humans b(2             blanklines)is al(2             blanklines)found in dolphins and great apes. Consciousness is not to\nbe confused with cognition. The latter refers to mental processes involved in gaining knowledge and\nsolving problems, like thinking, judging, and remembering.\n\n\nRead an email.\n\nDear Ms. Simmons,\n\nWe are delighted to confirm your reservation for the Italian cooking class on June 25th at 4:00 PM. Please\narrive fifteen minutes early for registration. Bring an apron, a chef’s knife, and a notebook. We’ll provide a\ncutting board.\n\nBest regards,\nLily Evans\n\n11. What is the main purpose of the e-mail?\n(A) To request attendance at a class\n(B) To confirm a reservation for a class\n(C) To update travel plans\n(D) To provide registration instructions\n\n12. What is Ms. Simmons NOT required to bring?\n(A) An apron\n(B) A cutting board\n(C) A chef’s knife\n(D) A notebook"
+        },
+        {
+          "url": "/mock-pages/ets-test-1/page-9.png",
+          "page": 9,
+          "text": "Read an email.\n\nSubject: Annual conference\n\nDear Ms. Adams,\n\nWe are pleased to invite you to the annual educational psychology conference taking place on October\n13–15.\n\nThis year’s conference theme is “Emotions and Psychological Processes.” The keynote speaker will be Dr.\nJane Smith. We will also organize four panel discussions with leading scholars as well as interactive\nworkshops. More details will be forthcoming.\n\nWe are excited to announce the return of poster sessions this year, where graduate students and early-\ncareer researchers will present their work. If you would like to present your research in the poster session,\nplease submit an extended abstract for review by the conference committee by August 31.\n\nBreakfast and lunch will be provided for a nominal fee with a variety of options to accommodate different\ndietary needs. Additionally, all attendees will receive a conference packet, including materials from the\nsessions and a certificate of participation.\n\nRegards,\nMichael Brown\n\n13. What is the main purpose of the email?\n(A) To reque   st information about Ms. Adams' research\n(B) To invite Ms. Adams to speak at a conference\n(C) To provide details about an event\n(D) To announce participants of the poster sessions\n\n14. Dr. Jane Smith will\n(A) lead panel discussions\n(B) organize interactive workshops\n(C) talk about research about emotions\n(D) present her research in the poster session\n\n15. What can be inferred about the poster session?\n(A)  It has been part of the conference in the past.\n(B)  It is for leading scholars of the field.\n(C)  It is open to the public.\n(D)  It will be held on August 31."
+        },
+        {
+          "url": "/mock-pages/ets-test-1/page-10.png",
+          "page": 10,
+          "text": "The History of Photography\n\nThe history of photography is marked by significant technological progress and artistic innovation. It began\nin the early nineteenth century with the invention of the camera obscura, a device that projected images\nonto a surface. The first permanent photograph was created byJoseph-Nicéphore Niépce in 1826 using a\nprocess called heliography, which required several hours of exposure to light. Photography quickly evolved\nwith the development of daguerreotypes, introduced by Louis Daguerre in 1839. This method produced\ndetailed images on silver-plated copper, but daguerreotypes needed delicate handling, and the exposure\ntimes required, although much shorter, still remained impractical for recording images of moving objects.\nThe invention of the calotype by William Henry Fox Talbot in the 1840s allowed for multiple copies of an\nimage to be made from a single negative, revolutionizing the field. (A) In the late nineteenth and early\ntwentieth centuries, the introduction of film and roll cameras made photography more accessible to the\npublic. (B) George Eastman’s establishment of the Kodak company in 1888 played a crucial role in this\ndemocratization, as his cameras were simple to use and affordable. (C) Today, digital photography has\nfurther transformed the medium, allowing instant image capture and sharing. (D)\n\n\n16.The word “innovation” in the passage is closest in meaning to\n(A) success\n(B) advancement\n(C)  activity\n(D) expression\n\n17. What is suggested about daguerreotypes?\n(A) They were introduced byJoseph-Nicéphore Niépce.\n(B) They allowed for multiple copies of an image.\n(C) They required shorter exposure times than heliographs did.\n(D) They made it unnecessary to use silver-plated copper.\n\n18. How did the calotype revolutionize photography?\n(A) By enabling instant image capture\n(B) By reducing the need for delicate handling\n(C) By providing detailed images on silver-plated copper\n(D) By allowing multiple copies from a single negative\n\n19. Why does the author mention George Eastman’s establishment of the Kodak company?\n(A) To highlight the role of Kodak in making photography accessible to the public\n(B) To criticize the challenges of early photographic methods\n(C) To explain how film was invented\n(D) To suggest that Kodak introduced digital photography"
+        },
+        {
+          "url": "/mock-pages/ets-test-1/page-11.png",
+          "page": 11,
+          "text": "20. There are four locations (A, B, C, and D) in the passage that indicate where the following\nsentence could be added.\n\nThese developments have rendered the use of film and many types of cameras obsolete.\n\nWhere would the sentence best fit? Select a location where the sentence could be added to the\npassage.\n(A) Option A\n(B) Option B\n(C) Option C\n(D) Option D"
+        }
+      ],
+      "items": [
+        {
+          "id": "ets-test-1-reading-2-1",
+          "number": 1,
+          "kind": "letters",
+          "blank_length": 2
+        },
+        {
+          "id": "ets-test-1-reading-2-2",
+          "number": 2,
+          "kind": "letters",
+          "blank_length": 2
+        },
+        {
+          "id": "ets-test-1-reading-2-3",
+          "number": 3,
+          "kind": "letters",
+          "blank_length": 3
+        },
+        {
+          "id": "ets-test-1-reading-2-4",
+          "number": 4,
+          "kind": "letters",
+          "blank_length": 4
+        },
+        {
+          "id": "ets-test-1-reading-2-5",
+          "number": 5,
+          "kind": "letters",
+          "blank_length": 4
+        },
+        {
+          "id": "ets-test-1-reading-2-6",
+          "number": 6,
+          "kind": "letters",
+          "blank_length": 3
+        },
+        {
+          "id": "ets-test-1-reading-2-7",
+          "number": 7,
+          "kind": "letters",
+          "blank_length": 2
+        },
+        {
+          "id": "ets-test-1-reading-2-8",
+          "number": 8,
+          "kind": "letters",
+          "blank_length": 1
+        },
+        {
+          "id": "ets-test-1-reading-2-9",
+          "number": 9,
+          "kind": "letters",
+          "blank_length": 2
+        },
+        {
+          "id": "ets-test-1-reading-2-10",
+          "number": 10,
+          "kind": "letters",
+          "blank_length": 2
+        },
+        {
+          "id": "ets-test-1-reading-2-11",
+          "number": 11,
+          "kind": "choice",
+          "prompt": "What is the main purpose of the e-mail?",
+          "options": [
+            "To request attendance at a class",
+            "To confirm a reservation for a class",
+            "To update travel plans",
+            "To provide registration instructions"
+          ],
+          "material": "Dear Ms. Simmons,\n\nWe are delighted to confirm your reservation for the Italian cooking class on June 25th at 4:00 PM. Please arrive fifteen minutes early for registration. Bring an apron, a chef’s knife, and a notebook. We’ll provide a cutting board.\n\nBest regards, Lily Evans",
+          "material_heading": "Read an email."
+        },
+        {
+          "id": "ets-test-1-reading-2-12",
+          "number": 12,
+          "kind": "choice",
+          "prompt": "What is Ms. Simmons NOT required to bring?",
+          "options": [
+            "An apron",
+            "A cutting board",
+            "A chef’s knife",
+            "A notebook"
+          ],
+          "material": "Dear Ms. Simmons,\n\nWe are delighted to confirm your reservation for the Italian cooking class on June 25th at 4:00 PM. Please arrive fifteen minutes early for registration. Bring an apron, a chef’s knife, and a notebook. We’ll provide a cutting board.\n\nBest regards, Lily Evans",
+          "material_heading": "Read an email."
+        },
+        {
+          "id": "ets-test-1-reading-2-13",
+          "number": 13,
+          "kind": "choice",
+          "prompt": "What is the main purpose of the email?",
+          "options": [
+            "To reque st information about Ms. Adams' research",
+            "To invite Ms. Adams to speak at a conference",
+            "To provide details about an event",
+            "To announce participants of the poster sessions"
+          ],
+          "material": "Subject: Annual conference\n\nDear Ms. Adams,\n\nWe are pleased to invite you to the annual educational psychology conference taking place on October 13–15.\n\nThis year’s conference theme is “Emotions and Psychological Processes.” The keynote speaker will be Dr. Jane Smith. We will also organize four panel discussions with leading scholars as well as interactive workshops. More details will be forthcoming.\n\nWe are excited to announce the return of poster sessions this year, where graduate students and early- career researchers will present their work. If you would like to present your research in the poster session, please submit an extended abstract for review by the conference committee by August 31.\n\nBreakfast and lunch will be provided for a nominal fee with a variety of options to accommodate different dietary needs. Additionally, all attendees will receive a conference packet, including materials from the sessions and a certificate of participation.\n\nRegards, Michael Brown",
+          "material_heading": "Read an email."
+        },
+        {
+          "id": "ets-test-1-reading-2-14",
+          "number": 14,
+          "kind": "choice",
+          "prompt": "Dr. Jane Smith will",
+          "options": [
+            "lead panel discussions",
+            "organize interactive workshops",
+            "talk about research about emotions",
+            "present her research in the poster session"
+          ],
+          "material": "Subject: Annual conference\n\nDear Ms. Adams,\n\nWe are pleased to invite you to the annual educational psychology conference taking place on October 13–15.\n\nThis year’s conference theme is “Emotions and Psychological Processes.” The keynote speaker will be Dr. Jane Smith. We will also organize four panel discussions with leading scholars as well as interactive workshops. More details will be forthcoming.\n\nWe are excited to announce the return of poster sessions this year, where graduate students and early- career researchers will present their work. If you would like to present your research in the poster session, please submit an extended abstract for review by the conference committee by August 31.\n\nBreakfast and lunch will be provided for a nominal fee with a variety of options to accommodate different dietary needs. Additionally, all attendees will receive a conference packet, including materials from the sessions and a certificate of participation.\n\nRegards, Michael Brown",
+          "material_heading": "Read an email."
+        },
+        {
+          "id": "ets-test-1-reading-2-15",
+          "number": 15,
+          "kind": "choice",
+          "prompt": "What can be inferred about the poster session?",
+          "options": [
+            "It has been part of the conference in the past.",
+            "It is for leading scholars of the field.",
+            "It is open to the public.",
+            "It will be held on August 31."
+          ],
+          "material": "Subject: Annual conference\n\nDear Ms. Adams,\n\nWe are pleased to invite you to the annual educational psychology conference taking place on October 13–15.\n\nThis year’s conference theme is “Emotions and Psychological Processes.” The keynote speaker will be Dr. Jane Smith. We will also organize four panel discussions with leading scholars as well as interactive workshops. More details will be forthcoming.\n\nWe are excited to announce the return of poster sessions this year, where graduate students and early- career researchers will present their work. If you would like to present your research in the poster session, please submit an extended abstract for review by the conference committee by August 31.\n\nBreakfast and lunch will be provided for a nominal fee with a variety of options to accommodate different dietary needs. Additionally, all attendees will receive a conference packet, including materials from the sessions and a certificate of participation.\n\nRegards, Michael Brown",
+          "material_heading": "Read an email."
+        },
+        {
+          "id": "ets-test-1-reading-2-16",
+          "number": 16,
+          "kind": "choice",
+          "prompt": "The word “innovation” in the passage is closest in meaning to",
+          "options": [
+            "success",
+            "advancement",
+            "activity",
+            "expression"
+          ],
+          "material": "The History of Photography The history of photography is marked by significant technological progress and artistic innovation. It began in the early nineteenth century with the invention of the camera obscura, a device that projected images onto a surface. The first permanent photograph was created byJoseph-Nicéphore Niépce in 1826 using a process called heliography, which required several hours of exposure to light. Photography quickly evolved with the development of daguerreotypes, introduced by Louis Daguerre in 1839. This method produced detailed images on silver-plated copper, but daguerreotypes needed delicate handling, and the exposure times required, although much shorter, still remained impractical for recording images of moving objects. The invention of the calotype by William Henry Fox Talbot in the 1840s allowed for multiple copies of an image to be made from a single negative, revolutionizing the field. (A) In the late nineteenth and early twentieth centuries, the introduction of film and roll cameras made photography more accessible to the public. (B) George Eastman’s establishment of the Kodak company in 1888 played a crucial role in this democratization, as his cameras were simple to use and affordable. (C) Today, digital photography has further transformed the medium, allowing instant image capture and sharing. (D)",
+          "material_heading": "Read an Academic Passage"
+        },
+        {
+          "id": "ets-test-1-reading-2-17",
+          "number": 17,
+          "kind": "choice",
+          "prompt": "What is suggested about daguerreotypes?",
+          "options": [
+            "They were introduced byJoseph-Nicéphore Niépce.",
+            "They allowed for multiple copies of an image.",
+            "They required shorter exposure times than heliographs did.",
+            "They made it unnecessary to use silver-plated copper."
+          ],
+          "material": "The History of Photography The history of photography is marked by significant technological progress and artistic innovation. It began in the early nineteenth century with the invention of the camera obscura, a device that projected images onto a surface. The first permanent photograph was created byJoseph-Nicéphore Niépce in 1826 using a process called heliography, which required several hours of exposure to light. Photography quickly evolved with the development of daguerreotypes, introduced by Louis Daguerre in 1839. This method produced detailed images on silver-plated copper, but daguerreotypes needed delicate handling, and the exposure times required, although much shorter, still remained impractical for recording images of moving objects. The invention of the calotype by William Henry Fox Talbot in the 1840s allowed for multiple copies of an image to be made from a single negative, revolutionizing the field. (A) In the late nineteenth and early twentieth centuries, the introduction of film and roll cameras made photography more accessible to the public. (B) George Eastman’s establishment of the Kodak company in 1888 played a crucial role in this democratization, as his cameras were simple to use and affordable. (C) Today, digital photography has further transformed the medium, allowing instant image capture and sharing. (D)",
+          "material_heading": "Read an Academic Passage"
+        },
+        {
+          "id": "ets-test-1-reading-2-18",
+          "number": 18,
+          "kind": "choice",
+          "prompt": "How did the calotype revolutionize photography?",
+          "options": [
+            "By enabling instant image capture",
+            "By reducing the need for delicate handling",
+            "By providing detailed images on silver-plated copper",
+            "By allowing multiple copies from a single negative"
+          ],
+          "material": "The History of Photography The history of photography is marked by significant technological progress and artistic innovation. It began in the early nineteenth century with the invention of the camera obscura, a device that projected images onto a surface. The first permanent photograph was created byJoseph-Nicéphore Niépce in 1826 using a process called heliography, which required several hours of exposure to light. Photography quickly evolved with the development of daguerreotypes, introduced by Louis Daguerre in 1839. This method produced detailed images on silver-plated copper, but daguerreotypes needed delicate handling, and the exposure times required, although much shorter, still remained impractical for recording images of moving objects. The invention of the calotype by William Henry Fox Talbot in the 1840s allowed for multiple copies of an image to be made from a single negative, revolutionizing the field. (A) In the late nineteenth and early twentieth centuries, the introduction of film and roll cameras made photography more accessible to the public. (B) George Eastman’s establishment of the Kodak company in 1888 played a crucial role in this democratization, as his cameras were simple to use and affordable. (C) Today, digital photography has further transformed the medium, allowing instant image capture and sharing. (D)",
+          "material_heading": "Read an Academic Passage"
+        },
+        {
+          "id": "ets-test-1-reading-2-19",
+          "number": 19,
+          "kind": "choice",
+          "prompt": "Why does the author mention George Eastman’s establishment of the Kodak company?",
+          "options": [
+            "To highlight the role of Kodak in making photography accessible to the public",
+            "To criticize the challenges of early photographic methods",
+            "To explain how film was invented",
+            "To suggest that Kodak introduced digital photography"
+          ],
+          "material": "The History of Photography The history of photography is marked by significant technological progress and artistic innovation. It began in the early nineteenth century with the invention of the camera obscura, a device that projected images onto a surface. The first permanent photograph was created byJoseph-Nicéphore Niépce in 1826 using a process called heliography, which required several hours of exposure to light. Photography quickly evolved with the development of daguerreotypes, introduced by Louis Daguerre in 1839. This method produced detailed images on silver-plated copper, but daguerreotypes needed delicate handling, and the exposure times required, although much shorter, still remained impractical for recording images of moving objects. The invention of the calotype by William Henry Fox Talbot in the 1840s allowed for multiple copies of an image to be made from a single negative, revolutionizing the field. (A) In the late nineteenth and early twentieth centuries, the introduction of film and roll cameras made photography more accessible to the public. (B) George Eastman’s establishment of the Kodak company in 1888 played a crucial role in this democratization, as his cameras were simple to use and affordable. (C) Today, digital photography has further transformed the medium, allowing instant image capture and sharing. (D)",
+          "material_heading": "Read an Academic Passage"
+        },
+        {
+          "id": "ets-test-1-reading-2-20",
+          "number": 20,
+          "kind": "choice",
+          "prompt": "There are four locations (A, B, C, and D) in the passage that indicate where the following sentence could be added. These developments have rendered the use of film and many types of cameras obsolete. Where would the sentence best fit? Select a location where the sentence could be added to the passage.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "material": "The History of Photography The history of photography is marked by significant technological progress and artistic innovation. It began in the early nineteenth century with the invention of the camera obscura, a device that projected images onto a surface. The first permanent photograph was created byJoseph-Nicéphore Niépce in 1826 using a process called heliography, which required several hours of exposure to light. Photography quickly evolved with the development of daguerreotypes, introduced by Louis Daguerre in 1839. This method produced detailed images on silver-plated copper, but daguerreotypes needed delicate handling, and the exposure times required, although much shorter, still remained impractical for recording images of moving objects. The invention of the calotype by William Henry Fox Talbot in the 1840s allowed for multiple copies of an image to be made from a single negative, revolutionizing the field. (A) In the late nineteenth and early twentieth centuries, the introduction of film and roll cameras made photography more accessible to the public. (B) George Eastman’s establishment of the Kodak company in 1888 played a crucial role in this democratization, as his cameras were simple to use and affordable. (C) Today, digital photography has further transformed the medium, allowing instant image capture and sharing. (D)",
+          "material_heading": "Read an Academic Passage"
+        }
+      ],
+      "cloze_parts": [
+        "Consciousness is the state of being aware of and able to think about one’s own existence, thoughts, and surroundings. Wh",
+        " you lo",
+        " in a mir",
+        " and recognize your",
+        ", you exh",
+        " self-awareness, wh",
+        " is n",
+        " unique t",
+        " humans b",
+        " is al",
+        " found in dolphins and great apes. Consciousness is not to be confused with cognition. The latter refers to mental processes involved in gaining knowledge and solving problems, like thinking, judging, and remembering."
+      ]
+    },
+    {
+      "id": "ets-test-1-listening-1",
+      "section": "listening",
+      "module": 1,
+      "title": "Listening · Module 1",
+      "seconds": 870,
+      "pages": [],
+      "items": [
+        {
+          "id": "ets-test-1-listening-1-1",
+          "number": 1,
+          "kind": "choice",
+          "prompt": "Choose the best response.",
+          "options": [
+            "No, I haven't received it yet.",
+            "Yes, it’s just around the corner.",
+            "Let's walk to the park.",
+            "Several times a month."
+          ],
+          "audio_text": "Does the building have a parking garage?",
+          "audio_group": "ets-test-1-listening-1-audio-1"
+        },
+        {
+          "id": "ets-test-1-listening-1-2",
+          "number": 2,
+          "kind": "choice",
+          "prompt": "Choose the best response.",
+          "options": [
+            "No, the airport is on the right.",
+            "Yes, I loved that book!",
+            "I'd be happy to sell tickets for the fundraiser.",
+            "I'm going to New Zealand instead."
+          ],
+          "audio_text": "Didn't you book a trip to Australia?",
+          "audio_group": "ets-test-1-listening-1-audio-2"
+        },
+        {
+          "id": "ets-test-1-listening-1-3",
+          "number": 3,
+          "kind": "choice",
+          "prompt": "Choose the best response.",
+          "options": [
+            "Elizabeth would be the person to ask.",
+            "We'll be gathering in the main conference room.",
+            "Did Robert place the food order?",
+            "The train station closes at midnight."
+          ],
+          "audio_text": "Who's conducting the safety training?",
+          "audio_group": "ets-test-1-listening-1-audio-3"
+        },
+        {
+          "id": "ets-test-1-listening-1-4",
+          "number": 4,
+          "kind": "choice",
+          "prompt": "Choose the best response.",
+          "options": [
+            "Are you looking for the same color?",
+            "Yes, we stock a variety of styles of pants.",
+            "All of our stores are open on Sundays.",
+            "The store will be remodeled this summer."
+          ],
+          "audio_text": "Can I purchase this shirt in a different size?",
+          "audio_group": "ets-test-1-listening-1-audio-4"
+        },
+        {
+          "id": "ets-test-1-listening-1-5",
+          "number": 5,
+          "kind": "choice",
+          "prompt": "Choose the best response.",
+          "options": [
+            "The suitcases can be stored overhead.",
+            "Because I have a doctor's appointment.",
+            "I know you have some vacation time coming up.",
+            "She was offered a new role."
+          ],
+          "audio_text": "Why did Sharon relocate to Belfast?",
+          "audio_group": "ets-test-1-listening-1-audio-5"
+        },
+        {
+          "id": "ets-test-1-listening-1-6",
+          "number": 6,
+          "kind": "choice",
+          "prompt": "Choose the best response.",
+          "options": [
+            "Did you watch the game yesterday?",
+            "They start at a hundred dollars.",
+            "These models feature a new display.",
+            "The admission fee has gone up by twenty dollars."
+          ],
+          "audio_text": "How much do these watches cost?",
+          "audio_group": "ets-test-1-listening-1-audio-6"
+        },
+        {
+          "id": "ets-test-1-listening-1-7",
+          "number": 7,
+          "kind": "choice",
+          "prompt": "Choose the best response.",
+          "options": [
+            "Battery recycling is available on Saturdays.",
+            "The cost of those phones just went up.",
+            "There's a shopping center a few minutes from here.",
+            "The cashier charged me too much."
+          ],
+          "audio_text": "Where can I buy a charger for my phone?",
+          "audio_group": "ets-test-1-listening-1-audio-7"
+        },
+        {
+          "id": "ets-test-1-listening-1-8",
+          "number": 8,
+          "kind": "choice",
+          "prompt": "Choose the best response.",
+          "options": [
+            "I don't have a cleaning service.",
+            "I'm too busy to watch anything right now.",
+            "The stream runs behind the house.",
+            "The magazine subscription is expensive."
+          ],
+          "audio_text": "What streaming services do you like to watch shows on?",
+          "audio_group": "ets-test-1-listening-1-audio-8"
+        },
+        {
+          "id": "ets-test-1-listening-1-9",
+          "number": 9,
+          "kind": "choice",
+          "prompt": "What kind of job does the man most likely have?",
+          "options": [
+            "Fitness instructor",
+            "Driver",
+            "Office worker",
+            "Equipment manufacturer"
+          ],
+          "audio_text": "Woman: Have you decided which gym to join? Man: I'm torn between the NanoFitness Gym near my house and the Downtown Trainers gym near my work. Woman: The second one might suit you. You'll enjoy working up some sweat right after sitting at your desk in front of the computer all day, five days a week. Man: True. And Downtown Trainers has the better instructors and nicer equipment, too. But weekends is actually when I do most of my working out, and it’d be easier to do it near home than drive downtown.",
+          "audio_group": "ets-test-1-listening-1-audio-9"
+        },
+        {
+          "id": "ets-test-1-listening-1-10",
+          "number": 10,
+          "kind": "choice",
+          "prompt": "What does the man indicate about weekends?",
+          "options": [
+            "He sometimes needs to go to work on weekends.",
+            "He sometimes repairs equipment in his house on weekends.",
+            "He likes to exercise outdoors on weekends.",
+            "He exercises more on weekends than on other days."
+          ],
+          "audio_text": "Woman: Have you decided which gym to join? Man: I'm torn between the NanoFitness Gym near my house and the Downtown Trainers gym near my work. Woman: The second one might suit you. You'll enjoy working up some sweat right after sitting at your desk in front of the computer all day, five days a week. Man: True. And Downtown Trainers has the better instructors and nicer equipment, too. But weekends is actually when I do most of my working out, and it’d be easier to do it near home than drive downtown.",
+          "audio_group": "ets-test-1-listening-1-audio-9"
+        },
+        {
+          "id": "ets-test-1-listening-1-11",
+          "number": 11,
+          "kind": "choice",
+          "prompt": "Why does the woman need professional help?",
+          "options": [
+            "Her computer is not working properly.",
+            "She needs to choose a new computer.",
+            "She needs new software on her computer.",
+            "She has lost access to her email."
+          ],
+          "audio_text": "Man: Did you manage to fix your computer? Woman: No, it's still acting up. I think I need professional help. Man: I know a great repair shop downtown. They fixed mine really quickly last month. Woman: Could you send me their contact information? Man: Sure, I'll email it to you right after this meeting.",
+          "audio_group": "ets-test-1-listening-1-audio-10"
+        },
+        {
+          "id": "ets-test-1-listening-1-12",
+          "number": 12,
+          "kind": "choice",
+          "prompt": "What will the man do after the meeting?",
+          "options": [
+            "Offer the woman some advice",
+            "Call a downtown shop",
+            "Get his computer fixed",
+            "Share some contact information"
+          ],
+          "audio_text": "Man: Did you manage to fix your computer? Woman: No, it's still acting up. I think I need professional help. Man: I know a great repair shop downtown. They fixed mine really quickly last month. Woman: Could you send me their contact information? Man: Sure, I'll email it to you right after this meeting.",
+          "audio_group": "ets-test-1-listening-1-audio-10"
+        },
+        {
+          "id": "ets-test-1-listening-1-13",
+          "number": 13,
+          "kind": "choice",
+          "prompt": "Who is the intended audience of the lectures?",
+          "options": [
+            "Science students",
+            "University professors",
+            "Everyone at the science fair",
+            "A panel of judges"
+          ],
+          "audio_text": "Man: Hello everyone. We are excited to invite you to the annual science fair next Friday at 3 P.M. in the university gym. There will be exhibits from various departments showcasing innovative projects in the fields of biology, physics, and chemistry. In addition, there will be lectures on scientific topics aimed at a general audience. Don’t miss it!",
+          "audio_group": "ets-test-1-listening-1-audio-11"
+        },
+        {
+          "id": "ets-test-1-listening-1-14",
+          "number": 14,
+          "kind": "choice",
+          "prompt": "What does the speaker hope the listeners will do?",
+          "options": [
+            "Attend an event",
+            "Submit a science project",
+            "Join the university gym",
+            "Volunteer for an event"
+          ],
+          "audio_text": "Man: Hello everyone. We are excited to invite you to the annual science fair next Friday at 3 P.M. in the university gym. There will be exhibits from various departments showcasing innovative projects in the fields of biology, physics, and chemistry. In addition, there will be lectures on scientific topics aimed at a general audience. Don’t miss it!",
+          "audio_group": "ets-test-1-listening-1-audio-11"
+        },
+        {
+          "id": "ets-test-1-listening-1-15",
+          "number": 15,
+          "kind": "choice",
+          "prompt": "What aspect of the Indigenous peoples of the Northwest coast of North America is the talk mainly about?",
+          "options": [
+            "Their economic structures",
+            "A traditional event that they participate in",
+            "Their relationship with the Canadian government",
+            "The role of dancing and storytelling in their social functions"
+          ],
+          "audio_text": "Professor: The potlatch is a ceremonial event among Indigenous peoples of the Pacific Northwest coast of North America. A potlatch involves the host giving away their possessions, including food, blankets, and even money, to guests. This practice serves multiple social functions, like redistributing wealth, reinforcing social bonds, and asserting status. Potlatches are often held to mark significant occasions, like weddings and such, and they involve feasting, dancing, and storytelling. The lavishness of a potlatch can elevate the host’s status by demonstrating wealth and generosity. One fascinating aspect of the potlatch is its role in the social and economic structures of the communities that practice it. By redistributing wealth, potlatches ensure that resources circulate within the community, preventing the concentration of wealth in the hands of a few individuals. This practice strengthens community ties and fosters mutual support. For people who don't understand the function of potlatches, they may appear to be a waste of resources. Potlatches were even prohibited by the Canadian government in the late-nineteenth century because of this perceived wastefulness. The ban was lifted in the mid-twentieth century, and today, potlatches continue to be an important cultural practice. Let's now examine how Indigenous communities have revived this practice.",
+          "audio_group": "ets-test-1-listening-1-audio-12"
+        },
+        {
+          "id": "ets-test-1-listening-1-16",
+          "number": 16,
+          "kind": "choice",
+          "prompt": "What can a host gain from a potlatch?",
+          "options": [
+            "Food",
+            "Money",
+            "Items like blankets",
+            "Social status"
+          ],
+          "audio_text": "Professor: The potlatch is a ceremonial event among Indigenous peoples of the Pacific Northwest coast of North America. A potlatch involves the host giving away their possessions, including food, blankets, and even money, to guests. This practice serves multiple social functions, like redistributing wealth, reinforcing social bonds, and asserting status. Potlatches are often held to mark significant occasions, like weddings and such, and they involve feasting, dancing, and storytelling. The lavishness of a potlatch can elevate the host’s status by demonstrating wealth and generosity. One fascinating aspect of the potlatch is its role in the social and economic structures of the communities that practice it. By redistributing wealth, potlatches ensure that resources circulate within the community, preventing the concentration of wealth in the hands of a few individuals. This practice strengthens community ties and fosters mutual support. For people who don't understand the function of potlatches, they may appear to be a waste of resources. Potlatches were even prohibited by the Canadian government in the late-nineteenth century because of this perceived wastefulness. The ban was lifted in the mid-twentieth century, and today, potlatches continue to be an important cultural practice. Let's now examine how Indigenous communities have revived this practice.",
+          "audio_group": "ets-test-1-listening-1-audio-12"
+        },
+        {
+          "id": "ets-test-1-listening-1-17",
+          "number": 17,
+          "kind": "choice",
+          "prompt": "What does the speaker imply about the Canadian government of the late-nineteenth century?",
+          "options": [
+            "It was not aware of the social function of potlatches.",
+            "It wanted Indigenous people to include other Canadians in potlatches.",
+            "Its policies contributed to economic growth.",
+            "It was extremely wasteful."
+          ],
+          "audio_text": "Professor: The potlatch is a ceremonial event among Indigenous peoples of the Pacific Northwest coast of North America. A potlatch involves the host giving away their possessions, including food, blankets, and even money, to guests. This practice serves multiple social functions, like redistributing wealth, reinforcing social bonds, and asserting status. Potlatches are often held to mark significant occasions, like weddings and such, and they involve feasting, dancing, and storytelling. The lavishness of a potlatch can elevate the host’s status by demonstrating wealth and generosity. One fascinating aspect of the potlatch is its role in the social and economic structures of the communities that practice it. By redistributing wealth, potlatches ensure that resources circulate within the community, preventing the concentration of wealth in the hands of a few individuals. This practice strengthens community ties and fosters mutual support. For people who don't understand the function of potlatches, they may appear to be a waste of resources. Potlatches were even prohibited by the Canadian government in the late-nineteenth century because of this perceived wastefulness. The ban was lifted in the mid-twentieth century, and today, potlatches continue to be an important cultural practice. Let's now examine how Indigenous communities have revived this practice.",
+          "audio_group": "ets-test-1-listening-1-audio-12"
+        },
+        {
+          "id": "ets-test-1-listening-1-18",
+          "number": 18,
+          "kind": "choice",
+          "prompt": "What aspect of potlatches will the speaker discuss next?",
+          "options": [
+            "The ways in which communities brought them back",
+            "The countries that ban them",
+            "Their effect on wealth distribution",
+            "Their possible future"
+          ],
+          "audio_text": "Professor: The potlatch is a ceremonial event among Indigenous peoples of the Pacific Northwest coast of North America. A potlatch involves the host giving away their possessions, including food, blankets, and even money, to guests. This practice serves multiple social functions, like redistributing wealth, reinforcing social bonds, and asserting status. Potlatches are often held to mark significant occasions, like weddings and such, and they involve feasting, dancing, and storytelling. The lavishness of a potlatch can elevate the host’s status by demonstrating wealth and generosity. One fascinating aspect of the potlatch is its role in the social and economic structures of the communities that practice it. By redistributing wealth, potlatches ensure that resources circulate within the community, preventing the concentration of wealth in the hands of a few individuals. This practice strengthens community ties and fosters mutual support. For people who don't understand the function of potlatches, they may appear to be a waste of resources. Potlatches were even prohibited by the Canadian government in the late-nineteenth century because of this perceived wastefulness. The ban was lifted in the mid-twentieth century, and today, potlatches continue to be an important cultural practice. Let's now examine how Indigenous communities have revived this practice.",
+          "audio_group": "ets-test-1-listening-1-audio-12"
+        }
+      ]
+    },
+    {
+      "id": "ets-test-1-listening-2",
+      "section": "listening",
+      "module": 2,
+      "title": "Listening · Module 2",
+      "seconds": 870,
+      "pages": [],
+      "items": [
+        {
+          "id": "ets-test-1-listening-2-1",
+          "number": 1,
+          "kind": "choice",
+          "prompt": "Choose the best response.",
+          "options": [
+            "My professor is out this week.",
+            "The syllabus was just posted.",
+            "Yes, it's in my backpack.",
+            "I don't think I received one."
+          ],
+          "audio_text": "Don't you have class right now?",
+          "audio_group": "ets-test-1-listening-2-audio-1"
+        },
+        {
+          "id": "ets-test-1-listening-2-2",
+          "number": 2,
+          "kind": "choice",
+          "prompt": "Choose the best response.",
+          "options": [
+            "It's a quiet neighborhood.",
+            "I haven’t yet.",
+            "Yes, I'll drop it off tomorrow.",
+            "Not usually at this time of day."
+          ],
+          "audio_text": "Have you met our new neighbor?",
+          "audio_group": "ets-test-1-listening-2-audio-2"
+        },
+        {
+          "id": "ets-test-1-listening-2-3",
+          "number": 3,
+          "kind": "choice",
+          "prompt": "Choose the best response.",
+          "options": [
+            "Sure, you can borrow my charging cord.",
+            "The door should remain shut and locked.",
+            "Because the schedule was changed at the last minute.",
+            "Sounds like it needs to be repaired."
+          ],
+          "audio_text": "Why does my computer keep shutting down?",
+          "audio_group": "ets-test-1-listening-2-audio-3"
+        },
+        {
+          "id": "ets-test-1-listening-2-4",
+          "number": 4,
+          "kind": "choice",
+          "prompt": "Choose the best response.",
+          "options": [
+            "I just met his assistant.",
+            "The cafeteria closes at 2 o'clock.",
+            "He’s working late tonight.",
+            "Because I lost mine."
+          ],
+          "audio_text": "Why didn't Andy come to the business dinner?",
+          "audio_group": "ets-test-1-listening-2-audio-4"
+        },
+        {
+          "id": "ets-test-1-listening-2-5",
+          "number": 5,
+          "kind": "choice",
+          "prompt": "Choose the best response.",
+          "options": [
+            "They usually study together.",
+            "The library is past the cafeteria.",
+            "I think it’s time to do it.",
+            "Some new classroom equipment."
+          ],
+          "audio_text": "Should we repaint the classrooms in that building?",
+          "audio_group": "ets-test-1-listening-2-audio-5"
+        },
+        {
+          "id": "ets-test-1-listening-2-6",
+          "number": 6,
+          "kind": "choice",
+          "prompt": "Choose the best response.",
+          "options": [
+            "I'll put them on your desk.",
+            "Yes, I'll pass along the message.",
+            "I like that new coffee maker.",
+            "No, the other textbook."
+          ],
+          "audio_text": "Would you mind making copies of the syllabus for me?",
+          "audio_group": "ets-test-1-listening-2-audio-6"
+        },
+        {
+          "id": "ets-test-1-listening-2-7",
+          "number": 7,
+          "kind": "choice",
+          "prompt": "Choose the best response.",
+          "options": [
+            "I was able to make it to the trade show.",
+            "I do not play any instruments.",
+            "My manager agreed to the new schedule.",
+            "It was a very long drive."
+          ],
+          "audio_text": "You managed to get to the concert, didn't you?",
+          "audio_group": "ets-test-1-listening-2-audio-7"
+        },
+        {
+          "id": "ets-test-1-listening-2-8",
+          "number": 8,
+          "kind": "choice",
+          "prompt": "Choose the best response.",
+          "options": [
+            "The menu features two fish entrées.",
+            "It depends on the season.",
+            "The cost of broccoli has increased.",
+            "Yes, the natural lighting is lovely."
+          ],
+          "audio_text": "Does the restaurant use organic vegetables?",
+          "audio_group": "ets-test-1-listening-2-audio-8"
+        },
+        {
+          "id": "ets-test-1-listening-2-9",
+          "number": 9,
+          "kind": "choice",
+          "prompt": "What does the woman offer to help with?",
+          "options": [
+            "Deciding which products to sell",
+            "Finding new clients",
+            "Producing goods",
+            "Describing items for sale"
+          ],
+          "audio_text": "Woman: Did you finish setting up the new online store? Man: Almost. There's just a few more product descriptions to write. Woman: Do you need any help with that? I know the stuff we sell pretty intimately. Man: Thank you! I'd love to collaborate with you on this. Would you like to meet in my office after lunch? Woman: Later in the afternoon would be safer. I have a lunch-time meeting with our newest client today, and I don't know how long that's gonna last.",
+          "audio_group": "ets-test-1-listening-2-audio-9"
+        },
+        {
+          "id": "ets-test-1-listening-2-10",
+          "number": 10,
+          "kind": "choice",
+          "prompt": "Why does the woman mention a client?",
+          "options": [
+            "To emphasize the need for an online store",
+            "To propose a strategy for increasing sales",
+            "To illustrate the importance of collaboration",
+            "To explain why she prefers not to plan a meeting after lunch"
+          ],
+          "audio_text": "Woman: Did you finish setting up the new online store? Man: Almost. There's just a few more product descriptions to write. Woman: Do you need any help with that? I know the stuff we sell pretty intimately. Man: Thank you! I'd love to collaborate with you on this. Would you like to meet in my office after lunch? Woman: Later in the afternoon would be safer. I have a lunch-time meeting with our newest client today, and I don't know how long that's gonna last.",
+          "audio_group": "ets-test-1-listening-2-audio-9"
+        },
+        {
+          "id": "ets-test-1-listening-2-11",
+          "number": 11,
+          "kind": "choice",
+          "prompt": "What is the reason for the change described in the announcement?",
+          "options": [
+            "Repairs to a classroom",
+            "Increased class enrollment",
+            "A change in meeting time",
+            "An additional assignment"
+          ],
+          "audio_text": "Man: Attention everyone. Several students have added this class in recent weeks, and as you can see, it is a bit crowded in here. So starting next week, our class will meet in Room 204 instead of Room 105. Room 204 is in the same building, but one floor up in the east wing. Please remember the change and arrive on time.",
+          "audio_group": "ets-test-1-listening-2-audio-10"
+        },
+        {
+          "id": "ets-test-1-listening-2-12",
+          "number": 12,
+          "kind": "choice",
+          "prompt": "Why does the speaker mention the east wing?",
+          "options": [
+            "To announce the location of an event",
+            "To notify students of upcoming repairs",
+            "To direct students to the professor’s office",
+            "To help students find a classroom"
+          ],
+          "audio_text": "Man: Attention everyone. Several students have added this class in recent weeks, and as you can see, it is a bit crowded in here. So starting next week, our class will meet in Room 204 instead of Room 105. Room 204 is in the same building, but one floor up in the east wing. Please remember the change and arrive on time.",
+          "audio_group": "ets-test-1-listening-2-audio-10"
+        },
+        {
+          "id": "ets-test-1-listening-2-13",
+          "number": 13,
+          "kind": "choice",
+          "prompt": "What is the main topic of the talk?",
+          "options": [
+            "The advantages of traditional employment",
+            "The benefits of using apps instead of websites",
+            "A new type of work tied to advances in technology",
+            "A plan to restructure contract work"
+          ],
+          "audio_text": "Professor: Today, we are going to talk about the concept of the gig economy. The gig economy is a labor market characterized by short-term contracts or freelance work, as opposed to permanent jobs. It has gained significant traction in recent years because of technological advancements and the rise of digital platforms like ride-sharing apps and freelance websites. In a gig economy, workers typically take on multiple short-term jobs or projects, and they often do so through online platforms that connect them directly with clients. This can offer greater flexibility compared to traditional employment, as workers can choose when and where they wanna work. Companies benefit from the gig economy by reducing overhead costs associated with full-time employees, like for office space. This allows them to vary their workforce according to demand, which can be particularly useful during peak seasons or for specific projects. On the other hand, gig workers may face difficulties in securing consistent work and may have to juggle multiple gigs to make a living. Next, we will discuss potential regulatory responses to protect gig workers and after that: the implications of the gig economy on traditional labor markets.",
+          "audio_group": "ets-test-1-listening-2-audio-11"
+        },
+        {
+          "id": "ets-test-1-listening-2-14",
+          "number": 14,
+          "kind": "choice",
+          "prompt": "Why does the speaker mention ride-sharing apps and freelance websites?",
+          "options": [
+            "To give examples of digital platforms in the gig economy",
+            "To explain a problem with overhead costs",
+            "To discuss how work conditions for gig workers have improved",
+            "To illustrate technologies used both by companies and by their customers"
+          ],
+          "audio_text": "Professor: Today, we are going to talk about the concept of the gig economy. The gig economy is a labor market characterized by short-term contracts or freelance work, as opposed to permanent jobs. It has gained significant traction in recent years because of technological advancements and the rise of digital platforms like ride-sharing apps and freelance websites. In a gig economy, workers typically take on multiple short-term jobs or projects, and they often do so through online platforms that connect them directly with clients. This can offer greater flexibility compared to traditional employment, as workers can choose when and where they wanna work. Companies benefit from the gig economy by reducing overhead costs associated with full-time employees, like for office space. This allows them to vary their workforce according to demand, which can be particularly useful during peak seasons or for specific projects. On the other hand, gig workers may face difficulties in securing consistent work and may have to juggle multiple gigs to make a living. Next, we will discuss potential regulatory responses to protect gig workers and after that: the implications of the gig economy on traditional labor markets.",
+          "audio_group": "ets-test-1-listening-2-audio-11"
+        },
+        {
+          "id": "ets-test-1-listening-2-15",
+          "number": 15,
+          "kind": "choice",
+          "prompt": "According to the speaker, what is a challenge for gig workers?",
+          "options": [
+            "High overhead costs",
+            "Limited flexibility",
+            "Lack of a stable income",
+            "Little office space"
+          ],
+          "audio_text": "Professor: Today, we are going to talk about the concept of the gig economy. The gig economy is a labor market characterized by short-term contracts or freelance work, as opposed to permanent jobs. It has gained significant traction in recent years because of technological advancements and the rise of digital platforms like ride-sharing apps and freelance websites. In a gig economy, workers typically take on multiple short-term jobs or projects, and they often do so through online platforms that connect them directly with clients. This can offer greater flexibility compared to traditional employment, as workers can choose when and where they wanna work. Companies benefit from the gig economy by reducing overhead costs associated with full-time employees, like for office space. This allows them to vary their workforce according to demand, which can be particularly useful during peak seasons or for specific projects. On the other hand, gig workers may face difficulties in securing consistent work and may have to juggle multiple gigs to make a living. Next, we will discuss potential regulatory responses to protect gig workers and after that: the implications of the gig economy on traditional labor markets.",
+          "audio_group": "ets-test-1-listening-2-audio-11"
+        },
+        {
+          "id": "ets-test-1-listening-2-16",
+          "number": 16,
+          "kind": "choice",
+          "prompt": "What will the speaker discuss next?",
+          "options": [
+            "The challenges of digital platforms for gig workers",
+            "The efforts of regulators to protect gig workers",
+            "The types of labor markets with many gig workers",
+            "The advantages of flexible working hours for gig workers"
+          ],
+          "audio_text": "Professor: Today, we are going to talk about the concept of the gig economy. The gig economy is a labor market characterized by short-term contracts or freelance work, as opposed to permanent jobs. It has gained significant traction in recent years because of technological advancements and the rise of digital platforms like ride-sharing apps and freelance websites. In a gig economy, workers typically take on multiple short-term jobs or projects, and they often do so through online platforms that connect them directly with clients. This can offer greater flexibility compared to traditional employment, as workers can choose when and where they wanna work. Companies benefit from the gig economy by reducing overhead costs associated with full-time employees, like for office space. This allows them to vary their workforce according to demand, which can be particularly useful during peak seasons or for specific projects. On the other hand, gig workers may face difficulties in securing consistent work and may have to juggle multiple gigs to make a living. Next, we will discuss potential regulatory responses to protect gig workers and after that: the implications of the gig economy on traditional labor markets.",
+          "audio_group": "ets-test-1-listening-2-audio-11"
+        }
+      ]
+    },
+    {
+      "id": "ets-test-1-writing-sentence",
+      "section": "writing",
+      "title": "Build a Sentence",
+      "seconds": 360,
+      "pages": [
+        {
+          "url": "/mock-pages/ets-test-1/page-27.png",
+          "page": 27,
+          "text": "Build a Sentence\n\nMove the words in the boxes to create grammatical sentences.\n\nA clock will show you how much time you have to complete this task.\n\n\nMake an appropriate sentence.\n\n1.  What did Andre ask you at the party?\n\n(6 blank lines)                                                          .\n\nwanted / does / he / ended / when / to know / it\n\n\n2. Why was the meeting rescheduled?\n(7 blank lines)                                                                         .\n\nwas moved / to / it / a time / when / everyone / could attend\n\n\n3.   I just spoke with the boss about applying for the open position.\n\nI am (5 blank lines)                                          .\n\ncurious / if / mentioned / any specific requirements / because / he\n\n\n4. Why are you asking about the new restaurant?\n\nMy (7 blank lines)                                                                         .\n\n\nis wondering / it / when / is going / to open / she / friend / Jenna\n\n\n5.  Do you know anyone who can give me directions to the Big Tree Bistro?\n\n(2 blank  lines)Sally (4 blank lines)                           .\n\nthere / to get / how / think / I / where / knows"
+        },
+        {
+          "url": "/mock-pages/ets-test-1/page-28.png",
+          "page": 28,
+          "text": "6. What are your plans for the summer?\n\n(7 blank lines)                                        yet.\n\nI / don't / I'm / where / to do / going / know / what\n\n\n7.  What did Ruby ask about the new software?\n\nShe wanted (7 blank lines)                                                                         .\n\nhelp / however / if / it / to know / with / need / you\n\n8. Why did Gustavo call you this morning?\n\nHe wanted (7 blank lines)                                                                         .\n\nwhere / a leak / could find / he / to know / a plumber / to fix / is\n\n\n9.   I heard that the supervisor was looking for you.\n\nShe(7 blank lines)                                                                            .\n\nwe / wanted / to finish / finished / to know / when / the project / expect\n\n\n10. Julio said you had a question about the research paper.\n\nI’m hoping (5 blank lines)                                      I might (2 blank  lines).\n\nme / you / can / tell / where / some reliable sources / find"
+        }
+      ],
+      "items": [
+        {
+          "id": "ets-test-1-writing-sentence-1",
+          "number": 1,
+          "kind": "sentence",
+          "prompt": "What did Andre ask you at the party?",
+          "template_parts": [
+            "",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ."
+          ],
+          "word_tokens": [
+            "wanted",
+            "does",
+            "he",
+            "ended",
+            "when",
+            "to know",
+            "it"
+          ]
+        },
+        {
+          "id": "ets-test-1-writing-sentence-2",
+          "number": 2,
+          "kind": "sentence",
+          "prompt": "Why was the meeting rescheduled?",
+          "template_parts": [
+            "",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ."
+          ],
+          "word_tokens": [
+            "was moved",
+            "to",
+            "it",
+            "a time",
+            "when",
+            "everyone",
+            "could attend"
+          ]
+        },
+        {
+          "id": "ets-test-1-writing-sentence-3",
+          "number": 3,
+          "kind": "sentence",
+          "prompt": "I just spoke with the boss about applying for the open position.",
+          "template_parts": [
+            "I am ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ."
+          ],
+          "word_tokens": [
+            "curious",
+            "if",
+            "mentioned",
+            "any specific requirements",
+            "because",
+            "he"
+          ]
+        },
+        {
+          "id": "ets-test-1-writing-sentence-4",
+          "number": 4,
+          "kind": "sentence",
+          "prompt": "Why are you asking about the new restaurant?",
+          "template_parts": [
+            "My ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ."
+          ],
+          "word_tokens": [
+            "is wondering",
+            "it",
+            "when",
+            "is going",
+            "to open",
+            "she",
+            "friend",
+            "Jenna"
+          ]
+        },
+        {
+          "id": "ets-test-1-writing-sentence-5",
+          "number": 5,
+          "kind": "sentence",
+          "prompt": "Do you know anyone who can give me directions to the Big Tree Bistro?",
+          "template_parts": [
+            "",
+            " ",
+            "Sally ",
+            " ",
+            " ",
+            " ",
+            " ."
+          ],
+          "word_tokens": [
+            "there",
+            "to get",
+            "how",
+            "think",
+            "I",
+            "where",
+            "knows"
+          ]
+        },
+        {
+          "id": "ets-test-1-writing-sentence-6",
+          "number": 6,
+          "kind": "sentence",
+          "prompt": "What are your plans for the summer?",
+          "template_parts": [
+            "",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " yet."
+          ],
+          "word_tokens": [
+            "I",
+            "don't",
+            "I'm",
+            "where",
+            "to do",
+            "going",
+            "know",
+            "what"
+          ]
+        },
+        {
+          "id": "ets-test-1-writing-sentence-7",
+          "number": 7,
+          "kind": "sentence",
+          "prompt": "What did Ruby ask about the new software?",
+          "template_parts": [
+            "She wanted ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ."
+          ],
+          "word_tokens": [
+            "help",
+            "however",
+            "if",
+            "it",
+            "to know",
+            "with",
+            "need",
+            "you"
+          ]
+        },
+        {
+          "id": "ets-test-1-writing-sentence-8",
+          "number": 8,
+          "kind": "sentence",
+          "prompt": "Why did Gustavo call you this morning?",
+          "template_parts": [
+            "He wanted ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ."
+          ],
+          "word_tokens": [
+            "where",
+            "a leak",
+            "could find",
+            "he",
+            "to know",
+            "a plumber",
+            "to fix",
+            "is"
+          ]
+        },
+        {
+          "id": "ets-test-1-writing-sentence-9",
+          "number": 9,
+          "kind": "sentence",
+          "prompt": "I heard that the supervisor was looking for you.",
+          "template_parts": [
+            "She",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " ."
+          ],
+          "word_tokens": [
+            "we",
+            "wanted",
+            "to finish",
+            "finished",
+            "to know",
+            "when",
+            "the project",
+            "expect"
+          ]
+        },
+        {
+          "id": "ets-test-1-writing-sentence-10",
+          "number": 10,
+          "kind": "sentence",
+          "prompt": "Julio said you had a question about the research paper.",
+          "template_parts": [
+            "I’m hoping ",
+            " ",
+            " ",
+            " ",
+            " ",
+            " I might ",
+            " ",
+            "."
+          ],
+          "word_tokens": [
+            "me",
+            "you",
+            "can",
+            "tell",
+            "where",
+            "some reliable sources",
+            "find"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ets-test-1-writing-email",
+      "section": "writing",
+      "title": "Write an Email",
+      "seconds": 420,
+      "pages": [
+        {
+          "url": "/mock-pages/ets-test-1/page-29.png",
+          "page": 29,
+          "text": "Write an Email\n\nYou will read some information and use the information to write an email.\nYou will have 7 minutes to write the email.\n\n\n\nYou are planning a business trip to another city. Your colleague, Maria, recently traveled to the same city\nfor work. You want to ask her recommendations for places to eat and things to do during your free time.\n\nWrite an email to Maria. In your email, do the following.\n•   Explain why you are traveling to the city.\n•  Ask for her recommendations about restaurants and activities.\n•  Mention what you’d most like to do and what you’d like to avoid.\n\nWrite as much as you can and in complete sentences.\n\nYour Response:\nTo: Maria\nSubject: Recommendations for Upcoming Business Trip"
+        }
+      ],
+      "items": [
+        {
+          "id": "ets-test-1-writing-email-1",
+          "number": 1,
+          "kind": "email",
+          "prompt": "Write an Email\n\nYou will read some information and use the information to write an email. You will have 7 minutes to write the email.\n\nYou are planning a business trip to another city. Your colleague, Maria, recently traveled to the same city for work. You want to ask her recommendations for places to eat and things to do during your free time.\n\nWrite an email to Maria. In your email, do the following. • Explain why you are traveling to the city. • Ask for her recommendations about restaurants and activities. • Mention what you’d most like to do and what you’d like to avoid.\n\nWrite as much as you can and in complete sentences.\n\nYour Response: To: Maria Subject: Recommendations for Upcoming Business Trip"
+        }
+      ]
+    },
+    {
+      "id": "ets-test-1-writing-discussion",
+      "section": "writing",
+      "title": "Academic Discussion",
+      "seconds": 600,
+      "pages": [
+        {
+          "url": "/mock-pages/ets-test-1/page-30.png",
+          "page": 30,
+          "text": "Write for an Academic Discussion\n\nA professor has posted a question about a topic and students have responded with their thoughts and\nideas. Make a contribution to the discussion.\n\nYou will have 10 minutes to write.\n\nYour professor is teaching a course on labor studies. Write a post responding to the professor’s question.\n\nIn your response, you should do the following.\n•   Express and support your opinion.\n•  Make a contribution to the discussion in your own words.\n\nAn effective response will contain at least 100 words.\n\n\n\n\n\nMore and more people can work remotely on portable electronic devices rather than in a dedicated office.\nThese workers often have more flexibility regarding when and where they work, allowing them to become\nwhat are known as “digital nomads”—that is, workers who travel regularly and work from different\nlocations, both inside and outside their own countries. Do you think digital nomadism is likely to continue\nincreasing? Why or why not?\n\n\n\nWhile digital nomadism does offer unparalleled freedom, it's important to note that\nit heavily relies on strong Internet connectivity. This requirement can significantly\nlimit the destinations one can choose to work from, so digital nomadism probably\nwon’t increase globally as much as some people think.\n\nWhile Claire makes a good point, Internet technologies and speed are always\nimproving, so I think digital nomadism will continue to grow. Why work in a stuffy\ncity office building just so you can afford to travel to someplace beautiful once or\ntwice a year when you could work from such places all year round?"
+        }
+      ],
+      "items": [
+        {
+          "id": "ets-test-1-writing-discussion-1",
+          "number": 1,
+          "kind": "discussion",
+          "prompt": "Write for an Academic Discussion\n\nA professor has posted a question about a topic and students have responded with their thoughts and ideas. Make a contribution to the discussion.\n\nYou will have 10 minutes to write.\n\nYour professor is teaching a course on labor studies. Write a post responding to the professor’s question.\n\nIn your response, you should do the following. • Express and support your opinion. • Make a contribution to the discussion in your own words.\n\nAn effective response will contain at least 100 words.\n\nMore and more people can work remotely on portable electronic devices rather than in a dedicated office. These workers often have more flexibility regarding when and where they work, allowing them to become what are known as “digital nomads”—that is, workers who travel regularly and work from different locations, both inside and outside their own countries. Do you think digital nomadism is likely to continue increasing? Why or why not?\n\nWhile digital nomadism does offer unparalleled freedom, it's important to note that it heavily relies on strong Internet connectivity. This requirement can significantly limit the destinations one can choose to work from, so digital nomadism probably won’t increase globally as much as some people think. While Claire makes a good point, Internet technologies and speed are always improving, so I think digital nomadism will continue to grow. Why work in a stuffy city office building just so you can afford to travel to someplace beautiful once or twice a year when you could work from such places all year round?"
+        }
+      ]
+    },
+    {
+      "id": "ets-test-1-speaking-repeat",
+      "section": "speaking",
+      "title": "Listen and Repeat",
+      "seconds": 180,
+      "items": [
+        {
+          "id": "ets-test-1-speaking-repeat-1",
+          "number": 1,
+          "kind": "recording",
+          "audio_text": "Welcome to our event.",
+          "audio_group": "speaking-repeat-1",
+          "response_seconds": 8
+        },
+        {
+          "id": "ets-test-1-speaking-repeat-2",
+          "number": 2,
+          "kind": "recording",
+          "audio_text": "Get your name badge at the registration desk.",
+          "audio_group": "speaking-repeat-2",
+          "response_seconds": 8
+        },
+        {
+          "id": "ets-test-1-speaking-repeat-3",
+          "number": 3,
+          "kind": "recording",
+          "audio_text": "Our event is in the auditorium.",
+          "audio_group": "speaking-repeat-3",
+          "response_seconds": 10
+        },
+        {
+          "id": "ets-test-1-speaking-repeat-4",
+          "number": 4,
+          "kind": "recording",
+          "audio_text": "For small group sessions, we will be in the breakout rooms over here.",
+          "audio_group": "speaking-repeat-4",
+          "response_seconds": 10
+        },
+        {
+          "id": "ets-test-1-speaking-repeat-5",
+          "number": 5,
+          "kind": "recording",
+          "audio_text": "Snacks can be found in the vending area throughout the event.",
+          "audio_group": "speaking-repeat-5",
+          "response_seconds": 12
+        },
+        {
+          "id": "ets-test-1-speaking-repeat-6",
+          "number": 6,
+          "kind": "recording",
+          "audio_text": "Please see the information desk if you need an agenda.",
+          "audio_group": "speaking-repeat-6",
+          "response_seconds": 12
+        },
+        {
+          "id": "ets-test-1-speaking-repeat-7",
+          "number": 7,
+          "kind": "recording",
+          "audio_text": "If you want to check session times and locations, please use the schedule provided.",
+          "audio_group": "speaking-repeat-7",
+          "response_seconds": 12
+        }
+      ],
+      "pages": []
+    },
+    {
+      "id": "ets-test-1-speaking-interview",
+      "section": "speaking",
+      "title": "Take an Interview",
+      "seconds": 300,
+      "items": [
+        {
+          "id": "ets-test-1-speaking-interview-1",
+          "number": 1,
+          "kind": "recording",
+          "audio_text": "Thank you for participating. Today, I'd like to ask you some questions about your work-life balance. First, can you share one or two strategies that you use that you think are effective in managing your work-life balance?",
+          "audio_group": "speaking-interview-1",
+          "response_seconds": 45
+        },
+        {
+          "id": "ets-test-1-speaking-interview-2",
+          "number": 2,
+          "kind": "recording",
+          "audio_text": "I see. Many companies are now developing programs to help employees manage work-life balance. Would programs like this affect your interest in working for a particular company? Why or why not?",
+          "audio_group": "speaking-interview-2",
+          "response_seconds": 45
+        },
+        {
+          "id": "ets-test-1-speaking-interview-3",
+          "number": 3,
+          "kind": "recording",
+          "audio_text": "Interesting. Some companies also offer flexible working hours or remote work options to help employees achieve a better work-life balance, but they are concerned that these options would reduce employee attention to tasks or engagement in the workplace. Do you think such programs are a good strategy for companies? Why or why not?",
+          "audio_group": "speaking-interview-3",
+          "response_seconds": 45
+        },
+        {
+          "id": "ets-test-1-speaking-interview-4",
+          "number": 4,
+          "kind": "recording",
+          "audio_text": "Good points. Lastly, looking to the future, do you think people's attitudes towards work-life balance will change? For example, do you think people will prioritize personal life over work, or work over personal life? Explain your thoughts.",
+          "audio_group": "speaking-interview-4",
+          "response_seconds": 45
+        }
+      ],
+      "pages": []
+    }
+  ],
+  "presentation_version": 2
+}

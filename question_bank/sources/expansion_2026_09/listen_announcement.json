@@ -1,0 +1,2806 @@
+{
+  "section": "listening",
+  "task_type": "listen_announcement",
+  "items": [
+    {
+      "question": {
+        "id": "L506",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why are visitors asked not to use phone flashlights?",
+        "response_type": "choice",
+        "audio_text": "Woman: Welcome to the planetarium. Once the show begins, the room will become completely dark, so please choose your seat now. If you need to leave during the presentation, remain seated and raise your hand. An attendant will guide you using a small red light. Please don't turn on your phone flashlight; bright white light makes it harder for other visitors to see the projected stars.",
+        "options": [
+          "The white light would damage the star projector.",
+          "Other visitors might mistake the lights for exit signs.",
+          "Attendants would use them instead of their own guide lights.",
+          "Bright light would interfere with viewing the stars."
+        ],
+        "group_id": "listen_announcement_21",
+        "passage_title": "Planetarium entry"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问为什么不能开手机手电；“harder for other visitors to see”是使其他观众更难看清。\n解析：暗室中的白光干扰观看投影星空，这是明确原因。没有说会被认成出口标志或损坏投影仪；工作人员已有小红灯引导，并非要改用观众手机灯。\n下次：听到禁止某动作→找它对当前活动的具体影响→核对理由是否原文明说，别猜技术故障。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "原因与目的"
+        ],
+        "vocabulary": [
+          "flashlight"
+        ],
+        "rationale": "暗室中的白光干扰观看投影星空，这是明确原因。没有说会被认成出口标志或损坏投影仪；工作人员已有小红灯引导，并非要改用观众手机灯。",
+        "answer_evidence": "harder for other visitors to see",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L507",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should a visitor do to leave during the show?",
+        "response_type": "choice",
+        "audio_text": "Woman: Welcome to the planetarium. Once the show begins, the room will become completely dark, so please choose your seat now. If you need to leave during the presentation, remain seated and raise your hand. An attendant will guide you using a small red light. Please don't turn on your phone flashlight; bright white light makes it harder for other visitors to see the projected stars.",
+        "options": [
+          "Turn on a phone light and follow other visitors.",
+          "Stay seated and signal an attendant.",
+          "Wait for every visitor to leave first.",
+          "Walk toward the screen without assistance."
+        ],
+        "group_id": "listen_announcement_21",
+        "passage_title": "Planetarium entry"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问中途离场程序；坐着举手是“remain seated and raise your hand”\n解析：先示意再由工作人员带路，避免黑暗中自行找路。走向屏幕无指引，手机照路违反规则；并非必须等所有人离场，通知专门提供中途帮助。\n下次：黑暗场所程序题把发信号与移动分开，核对先求助再走。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "程序与顺序"
+        ],
+        "vocabulary": [
+          "attendant"
+        ],
+        "rationale": "问中途离场程序；坐着举手是先示意再由工作人员带路，避免黑暗中自行找路。走向屏幕无指引，手机照路违反规则；并非必须等所有人离场，通知专门提供中途帮助。",
+        "answer_evidence": "remain seated and raise your hand",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L508",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What is the main purpose of the announcement?",
+        "response_type": "choice",
+        "audio_text": "Man: A sheet is jammed in the large printer beside the design studio. Please don't send your file again if it hasn't printed; duplicate jobs will remain in the queue. A technician is on the way. For urgent black-and-white pages, use the smaller printer across the corridor. Color jobs will resume after the jam is cleared. Your existing jobs will stay in their original order.",
+        "options": [
+          "To advertise a new printing service for visitors.",
+          "To introduce a permanent ban on color printing.",
+          "To explain how to handle printing during a temporary fault.",
+          "To ask students to repair the printer themselves."
+        ],
+        "group_id": "listen_announcement_22",
+        "passage_title": "A paused print queue"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问通知主旨；卡纸引出临时处理，证据是“A sheet is jammed”\n解析：讲勿重发、急件替代和恢复顺序，围绕暂时故障。彩印只是暂停非永久禁；技术员来修非让学生修；没有新服务宣传或访客优惠。\n下次：公告主旨用故障—影响—替代三点概括，不把临时状态扩大成永久规则。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "主旨与范围"
+        ],
+        "vocabulary": [
+          "queue"
+        ],
+        "rationale": "问通知主旨；卡纸引出临时处理，证据是讲勿重发、急件替代和恢复顺序，围绕暂时故障。彩印只是暂停非永久禁；技术员来修非让学生修；没有新服务宣传或访客优惠。",
+        "answer_evidence": "A sheet is jammed",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L509",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why should users avoid resending files?",
+        "response_type": "choice",
+        "audio_text": "Man: A sheet is jammed in the large printer beside the design studio. Please don't send your file again if it hasn't printed; duplicate jobs will remain in the queue. A technician is on the way. For urgent black-and-white pages, use the smaller printer across the corridor. Color jobs will resume after the jam is cleared. Your existing jobs will stay in their original order.",
+        "options": [
+          "The printer has permanently deleted every existing job.",
+          "The smaller printer cannot print black-and-white pages.",
+          "The original jobs are still waiting and duplicates would be added.",
+          "Resending would move their job to the front automatically."
+        ],
+        "group_id": "listen_announcement_22",
+        "passage_title": "A paused print queue"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问不重发原因；重复任务会留队列是“duplicate jobs will remain in the queue”\n解析：原作业未丢且保序，重发只加重复。永久删除与原文相反；没有重发插队机制；小打印机恰可打黑白，不是不能打。\n下次：故障等待题先确认任务是否保留，再判断重试会恢复还是重复。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "因果与细节"
+        ],
+        "vocabulary": [
+          "duplicate"
+        ],
+        "rationale": "问不重发原因；重复任务会留队列是原作业未丢且保序，重发只加重复。永久删除与原文相反；没有重发插队机制；小打印机恰可打黑白，不是不能打。",
+        "answer_evidence": "duplicate jobs will remain in the queue",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L510",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why will students visit the rock pools first?",
+        "response_type": "choice",
+        "audio_text": "Woman: Before we leave the field station, please check the tide chart on the board. We'll investigate the rock pools first because that section will be underwater later. The beach sketching activity can wait until the afternoon. Stay with your assigned group, and leave equipment above the marked line. That way we won't have to interrupt our observations to rescue bags as the water rises.",
+        "options": [
+          "The equipment can only be used before noon.",
+          "The rock pools contain no water in the morning.",
+          "The afternoon sketching instructor is absent.",
+          "Rising water will make them inaccessible later."
+        ],
+        "group_id": "listen_announcement_23",
+        "passage_title": "A shoreline field session"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问先看岩池原因；稍后被淹是“underwater later”\n解析：潮水变化限制观察窗口，应先做受时限任务。没有老师缺席、清晨池中完全无水、器材午前限定的说明；下午可延后的是写生。\n下次：活动排序题找自然条件带来的截止窗口，区分硬限制与可延后任务。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "时间与原因"
+        ],
+        "vocabulary": [
+          "tide"
+        ],
+        "rationale": "问先看岩池原因；稍后被淹是潮水变化限制观察窗口，应先做受时限任务。没有老师缺席、清晨池中完全无水、器材午前限定的说明；下午可延后的是写生。",
+        "answer_evidence": "underwater later",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L511",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why should equipment be left above the marked line?",
+        "response_type": "choice",
+        "audio_text": "Woman: Before we leave the field station, please check the tide chart on the board. We'll investigate the rock pools first because that section will be underwater later. The beach sketching activity can wait until the afternoon. Stay with your assigned group, and leave equipment above the marked line. That way we won't have to interrupt our observations to rescue bags as the water rises.",
+        "options": [
+          "To prevent visitors from seeing the instruments.",
+          "To reserve the line for afternoon drawing.",
+          "To show which group has the most equipment.",
+          "To keep rising water from reaching the bags."
+        ],
+        "group_id": "listen_announcement_23",
+        "passage_title": "A shoreline field session"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问放标线上的目的；避免涨水时救包是“rescue bags as the water rises”\n解析：高放保护物品并免打断观察。不是比较组间数量、用线分配绘图区或藏仪器；这些用途都没有从水位变化得到支持。\n下次：放置规则题把位置与潜在环境变化连接，再核对其保护对象。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "目的与空间"
+        ],
+        "vocabulary": [
+          "rises"
+        ],
+        "rationale": "问放标线上的目的；避免涨水时救包是高放保护物品并免打断观察。不是比较组间数量、用线分配绘图区或藏仪器；这些用途都没有从水位变化得到支持。",
+        "answer_evidence": "rescue bags as the water rises",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L512",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Which deliveries will be held in the study room?",
+        "response_type": "choice",
+        "audio_text": "Man: Residents expecting large deliveries should note a change for this week. The usual parcel shelves are being replaced, so boxes larger than a backpack will be held in the ground-floor study room. Small envelopes will still go into your mailboxes. Please bring the delivery notification and your residence card when collecting a box. The study room will return to normal use once the new shelves are installed on Friday.",
+        "options": [
+          "Boxes larger than a backpack.",
+          "Only parcels without an address.",
+          "All letters and small envelopes.",
+          "Every delivery arriving after Friday."
+        ],
+        "group_id": "listen_announcement_24",
+        "passage_title": "Oversized residence deliveries"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问临时存放对象；比背包大的箱子是“larger than a backpack”\n解析：通知按尺寸分流，小信封仍入邮箱，不能扩大成全部信件。地址缺失不是分类标准；安排适用于本周换架期间，周五装好恢复，非此后所有投递都去书房。\n下次：配送规则题锁定尺寸门槛与时段，排除替换标准的选项。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "范围与细节"
+        ],
+        "vocabulary": [
+          "mailboxes"
+        ],
+        "rationale": "问临时存放对象；比背包大的箱子是通知按尺寸分流，小信封仍入邮箱，不能扩大成全部信件。地址缺失不是分类标准；安排适用于本周换架期间，周五装好恢复，非此后所有投递都去书房。",
+        "answer_evidence": "larger than a backpack",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L513",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should residents bring to collect a box?",
+        "response_type": "choice",
+        "audio_text": "Man: Residents expecting large deliveries should note a change for this week. The usual parcel shelves are being replaced, so boxes larger than a backpack will be held in the ground-floor study room. Small envelopes will still go into your mailboxes. Please bring the delivery notification and your residence card when collecting a box. The study room will return to normal use once the new shelves are installed on Friday.",
+        "options": [
+          "A receipt for renting the study room.",
+          "The notification and a residence card.",
+          "Only a copy of their class timetable.",
+          "A backpack and a replacement shelf."
+        ],
+        "group_id": "listen_announcement_24",
+        "passage_title": "Oversized residence deliveries"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问领取材料；通知加宿舍卡是“notification and your residence card”\n解析：两项才是指定凭证。背包只作尺寸参照，架子由宿舍更换；课表不能替代宿舍卡；书房暂存包裹，不是出租空间，未要求租赁收据。\n下次：必带物品题完整保留并列项，别把场景物品当领取材料。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "要求整合"
+        ],
+        "vocabulary": [
+          "notification"
+        ],
+        "rationale": "问领取材料；通知加宿舍卡是两项才是指定凭证。背包只作尺寸参照，架子由宿舍更换；课表不能替代宿舍卡；书房暂存包裹，不是出租空间，未要求租赁收据。",
+        "answer_evidence": "notification and your residence card",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L514",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why will English dialogue also have subtitles?",
+        "response_type": "choice",
+        "audio_text": "Woman: Tonight's film includes dialogue in three languages. English subtitles will appear throughout, including during the English dialogue, to make the screening accessible to more viewers. The first two rows offer a poor angle for reading the bottom of the screen, so we recommend sitting farther back. Afterward, our discussion will focus on how the different languages reveal relationships between the characters, rather than testing anyone's language knowledge.",
+        "options": [
+          "To make the screening accessible to more viewers.",
+          "To prepare viewers for a language examination.",
+          "To translate the English dialogue into two other languages.",
+          "To hide errors made by the actors."
+        ],
+        "group_id": "listen_announcement_25",
+        "passage_title": "A film society screening"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问英语对白也配字幕的原因；扩大可及性是“accessible to more viewers”\n解析：文字帮助更多人获取对白，非掩盖演员错误。后续明确不是测试语言知识，故非备考；全程是英文字幕，不是把英语转译成另外两语。\n下次：字幕用途题区分无障碍、纠错和测试，按明确目的选择。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "目的与范围"
+        ],
+        "vocabulary": [
+          "subtitles"
+        ],
+        "rationale": "问英语对白也配字幕的原因；扩大可及性是文字帮助更多人获取对白，非掩盖演员错误。后续明确不是测试语言知识，故非备考；全程是英文字幕，不是把英语转译成另外两语。",
+        "answer_evidence": "accessible to more viewers",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L515",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why are viewers advised to sit beyond the first two rows?",
+        "response_type": "choice",
+        "audio_text": "Woman: Tonight's film includes dialogue in three languages. English subtitles will appear throughout, including during the English dialogue, to make the screening accessible to more viewers. The first two rows offer a poor angle for reading the bottom of the screen, so we recommend sitting farther back. Afterward, our discussion will focus on how the different languages reveal relationships between the characters, rather than testing anyone's language knowledge.",
+        "options": [
+          "The sound system does not reach the front rows.",
+          "The subtitle area is easier to see from farther back.",
+          "The discussion will take place only at the rear.",
+          "Those rows are reserved for the film's actors."
+        ],
+        "group_id": "listen_announcement_25",
+        "passage_title": "A film society screening"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问为何建议坐得靠后；前排读字角度差是“poor angle for reading”\n解析：字幕在屏底，后移改善视觉角度。没有演员专座安排；音响覆盖未被质疑；也未限定后排讨论，不能把看字幕问题改成身份或音量问题。\n下次：位置建议先找受影响的任务，再检验新位置如何改善。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "原因与空间"
+        ],
+        "vocabulary": [
+          "angle"
+        ],
+        "rationale": "字幕在屏底，后移改善视觉角度。没有演员专座安排；音响覆盖未被质疑；也未限定后排讨论，不能把看字幕问题改成身份或音量问题。",
+        "answer_evidence": "poor angle for reading",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L516",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Who is the open workshop primarily intended for?",
+        "response_type": "choice",
+        "audio_text": "Man: This afternoon's open workshop is for completing projects you've already started here. It isn't an introductory tool class. If you haven't used a machine before, leave it switched off and ask a supervisor for a demonstration. We'll lend basic hand tools at the central counter, but please return each one before borrowing another. This helps everyone find the tools they need instead of searching individual worktables.",
+        "options": [
+          "People expecting a complete introductory machine course.",
+          "Supervisors taking a licensing examination.",
+          "People continuing projects already begun in the space.",
+          "Visitors buying their first set of tools."
+        ],
+        "group_id": "listen_announcement_26",
+        "passage_title": "A makerspace tool check"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问主要服务谁；完成此处已有项目是“projects you've already started here”\n解析：活动是继续制作，明确非完整入门课。遇不熟机器可求示范不等于整场入门教学；工具借用非销售；主管负责协助，不是来参加执照考试。\n下次：活动定位题分主用途与附带帮助，避免以局部服务替代活动性质。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "主旨与对象"
+        ],
+        "vocabulary": [
+          "supervisor"
+        ],
+        "rationale": "问主要服务谁；完成此处已有项目是活动是继续制作，明确非完整入门课。遇不熟机器可求示范不等于整场入门教学；工具借用非销售；主管负责协助，不是来参加执照考试。",
+        "answer_evidence": "projects you've already started here",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L517",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why must one hand tool be returned before another is borrowed?",
+        "response_type": "choice",
+        "audio_text": "Man: This afternoon's open workshop is for completing projects you've already started here. It isn't an introductory tool class. If you haven't used a machine before, leave it switched off and ask a supervisor for a demonstration. We'll lend basic hand tools at the central counter, but please return each one before borrowing another. This helps everyone find the tools they need instead of searching individual worktables.",
+        "options": [
+          "To ensure every project uses only one tool.",
+          "To prevent supervisors from demonstrating machines.",
+          "To charge each user for every tool replacement.",
+          "To keep shared tools available and easy to locate."
+        ],
+        "group_id": "listen_announcement_26",
+        "passage_title": "A makerspace tool check"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问先还后借目的；免得各桌寻找是“instead of searching individual worktables”\n解析：工具回到中央柜台，减少个人囤放使他人易借。非阻止机器示范，未收费；限制的是同时持有，不是一个项目总共只能用一种。\n下次：共享规则题区分同时数量与累计数量，再找对群体可得性的影响。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "目的与范围"
+        ],
+        "vocabulary": [
+          "counter"
+        ],
+        "rationale": "问先还后借目的；免得各桌寻找是工具回到中央柜台，减少个人囤放使他人易借。非阻止机器示范，未收费；限制的是同时持有，不是一个项目总共只能用一种。",
+        "answer_evidence": "instead of searching individual worktables",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L518",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why should walkers respect the barrier even without seeing birds?",
+        "response_type": "choice",
+        "audio_text": "Woman: Part of the woodland trail is roped off while volunteers record nesting activity. Please use the signed detour even if you cannot see any birds from the path. The absence of visible birds doesn't mean the nest area is empty. Dogs must remain on leads along the detour as well. The barrier will be removed after the monitoring team confirms that regular access can resume.",
+        "options": [
+          "The detour is a shorter route in every season.",
+          "The detour allows walkers to approach the nests more closely.",
+          "Nesting activity may be present but not visible.",
+          "The woodland will be permanently closed."
+        ],
+        "group_id": "listen_announcement_27",
+        "passage_title": "A temporary trail boundary"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问看不见鸟仍要绕行的原因；“doesn't mean the nest area is empty”是不能证明巢区没有鸟。\n解析：鸟类活动可能隐蔽，看不到不等于没有。公告没有保证绕路更短；绕行是保护巢区，不是让人更近看巢；监测确认后会撤栏，也不是永久封林。\n下次：听到没有观察到→检查对象是否可能隐蔽→区分证据不足与证明不存在。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "推断与证据"
+        ],
+        "vocabulary": [
+          "nesting"
+        ],
+        "rationale": "鸟类活动可能隐蔽，看不到不等于没有。公告没有保证绕路更短；绕行是保护巢区，不是让人更近看巢；监测确认后会撤栏，也不是永久封林。",
+        "answer_evidence": "doesn't mean the nest area is empty",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L519",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What determines when the barrier is removed?",
+        "response_type": "choice",
+        "audio_text": "Woman: Part of the woodland trail is roped off while volunteers record nesting activity. Please use the signed detour even if you cannot see any birds from the path. The absence of visible birds doesn't mean the nest area is empty. Dogs must remain on leads along the detour as well. The barrier will be removed after the monitoring team confirms that regular access can resume.",
+        "options": [
+          "The completion of every volunteer project on campus.",
+          "The monitoring team's confirmation that access can resume.",
+          "A fixed date announced in this message.",
+          "The first walker reporting that no bird is visible."
+        ],
+        "group_id": "listen_announcement_27",
+        "passage_title": "A temporary trail boundary"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问撤栏条件；监测组确认后是“after the monitoring team confirms”\n解析：依据团队判断，不由首个路人说没鸟决定。只涉及此处巢区监测，不用等全校所有志愿项目；没有公布日期，不能自行添加固定时点。\n下次：解除限制题找有权确认者和触发条件，别凭猜测补日期。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "条件与责任"
+        ],
+        "vocabulary": [
+          "barrier"
+        ],
+        "rationale": "问撤栏条件；监测组确认后是依据团队判断，不由首个路人说没鸟决定。只涉及此处巢区监测，不用等全校所有志愿项目；没有公布日期，不能自行添加固定时点。",
+        "answer_evidence": "after the monitoring team confirms",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L520",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What can visitors learn directly by handling the replicas?",
+        "response_type": "choice",
+        "audio_text": "Man: At the table ahead, you'll find replicas of three objects displayed in the glass case. You may handle the replicas, but please leave the originals untouched. The replicas reproduce the objects' shapes, not their exact weight or material. As you compare them, think about how each handle fits the hand. Our educator will then explain how wear on the original handles helped researchers infer their use.",
+        "options": [
+          "The precise age of the objects in the case.",
+          "The chemical composition of the original materials.",
+          "How the handles fit their hands.",
+          "The exact weight of each original object."
+        ],
+        "group_id": "listen_announcement_28",
+        "passage_title": "Handling museum replicas"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问触摸可学什么；复制形状而非重量材质是“shapes, not their exact weight or material”\n解析：握持可体验形状与手的配合。重量和材质未忠实复制，不能直接推出原件精确重量或成分；触摸也不能给出精确年代，需其他检测依据。\n下次：模型题先确定保真的属性，再排除未复制和不可直接感知的属性。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "范围与证据"
+        ],
+        "vocabulary": [
+          "replicas"
+        ],
+        "rationale": "问触摸可学什么；复制形状而非重量材质是握持可体验形状与手的配合。重量和材质未忠实复制，不能直接推出原件精确重量或成分；触摸也不能给出精确年代，需其他检测依据。",
+        "answer_evidence": "shapes, not their exact weight or material",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L521",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What evidence will the educator discuss?",
+        "response_type": "choice",
+        "audio_text": "Man: At the table ahead, you'll find replicas of three objects displayed in the glass case. You may handle the replicas, but please leave the originals untouched. The replicas reproduce the objects' shapes, not their exact weight or material. As you compare them, think about how each handle fits the hand. Our educator will then explain how wear on the original handles helped researchers infer their use.",
+        "options": [
+          "Damage caused by visitors touching the originals.",
+          "Wear marks on the original handles.",
+          "Visitors' guesses about the replicas' prices.",
+          "The number of people who purchased replicas."
+        ],
+        "group_id": "listen_announcement_28",
+        "passage_title": "Handling museum replicas"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问会讨论哪种证据；原柄磨损是“wear on the original handles”\n解析：历史使用磨痕支持用途推断。游客估价和销售人数不能说明古物原用途；访客禁止碰原件，也没有他们造成新损伤的事实，不能混淆磨损来源。\n下次：物证题核对痕迹对象和来源，分历史使用与当日损坏。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "证据与推断"
+        ],
+        "vocabulary": [
+          "wear"
+        ],
+        "rationale": "问会讨论哪种证据；原柄磨损是历史使用磨痕支持用途推断。游客估价和销售人数不能说明古物原用途；访客禁止碰原件，也没有他们造成新损伤的事实，不能混淆磨损来源。",
+        "answer_evidence": "wear on the original handles",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L522",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What is required for registration?",
+        "response_type": "choice",
+        "audio_text": "Woman: The bicycle-marking team will be outside the sports center until four. Marking is free, but registration requires your bicycle's frame number, not just a photograph of the bicycle. If you can't locate the number, bring the bicycle and a volunteer will help. The mark doesn't replace a lock; it provides a way to identify your bicycle if it's recovered after being lost or stolen.",
+        "options": [
+          "Only a photograph of its color.",
+          "The bicycle's frame number.",
+          "A paid membership at the sports center.",
+          "Proof that the bicycle has already been stolen."
+        ],
+        "group_id": "listen_announcement_29",
+        "passage_title": "Bicycle marking event"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问登记必需信息；车架号是“frame number”\n解析：号码用于识别车辆，照片本身不够。活动免费且未设体育中心付费会员门槛；找回失车只是将来的用途，不能反推登记前必须已失窃。\n下次：登记条件题分当下资格与日后用途，核对唯一标识。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "要求与范围"
+        ],
+        "vocabulary": [
+          "registration"
+        ],
+        "rationale": "问登记必需信息；车架号是号码用于识别车辆，照片本身不够。活动免费且未设体育中心付费会员门槛；找回失车只是将来的用途，不能反推登记前必须已失窃。",
+        "answer_evidence": "frame number",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L523",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What does the speaker emphasize about marking?",
+        "response_type": "choice",
+        "audio_text": "Woman: The bicycle-marking team will be outside the sports center until four. Marking is free, but registration requires your bicycle's frame number, not just a photograph of the bicycle. If you can't locate the number, bring the bicycle and a volunteer will help. The mark doesn't replace a lock; it provides a way to identify your bicycle if it's recovered after being lost or stolen.",
+        "options": [
+          "It allows bicycles to be parked anywhere without restriction.",
+          "It helps identify a recovered bicycle but does not replace a lock.",
+          "It guarantees that the bicycle cannot be stolen.",
+          "It repairs damaged locks at no charge."
+        ],
+        "group_id": "listen_announcement_29",
+        "passage_title": "Bicycle marking event"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问标记作用边界；不能替代锁是“doesn't replace a lock”\n解析：标记助找回后认领，非保证永不被盗。登记不授予无限停车权；免费的是标记服务，未包含修锁，不能因提到锁就扩大服务范围。\n下次：功能题区分预防与识别，避免把辅助措施当绝对保证。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "功能与限制"
+        ],
+        "vocabulary": [
+          "recovered"
+        ],
+        "rationale": "问标记作用边界；不能替代锁是标记助找回后认领，非保证永不被盗。登记不授予无限停车权；免费的是标记服务，未包含修锁，不能因提到锁就扩大服务范围。",
+        "answer_evidence": "doesn't replace a lock",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L524",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What does the green notice indicate?",
+        "response_type": "choice",
+        "audio_text": "Man: The community kitchen's freezer is being defrosted today. Please don't put new food into it until the green notice appears on the door. Existing labeled food has been moved to the freezer in the adjoining room; it hasn't been discarded. If you're looking for an item, check the transfer list on the counter before contacting staff. The refrigerator remains available for food that doesn't require freezing.",
+        "options": [
+          "Staff have stopped keeping a transfer list.",
+          "The refrigerator has also been turned off.",
+          "All food in the adjoining room must be thrown away.",
+          "The freezer can accept food again."
+        ],
+        "group_id": "listen_announcement_30",
+        "passage_title": "A kitchen equipment pause"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问绿标含义；出现前别放新食物是“until the green notice appears”\n解析：标志解除冷冻柜暂停，可重新放入。邻室食物被保存而非全扔；冷藏柜仍可用，清单仍供查询，绿标不能解释成这两项服务停止。\n下次：状态标记题把颜色与许可动作配对，别套到其他设备。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "条件与标识"
+        ],
+        "vocabulary": [
+          "defrosted"
+        ],
+        "rationale": "问绿标含义；出现前别放新食物是标志解除冷冻柜暂停，可重新放入。邻室食物被保存而非全扔；冷藏柜仍可用，清单仍供查询，绿标不能解释成这两项服务停止。",
+        "answer_evidence": "until the green notice appears",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L525",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should someone do first when looking for stored food?",
+        "response_type": "choice",
+        "audio_text": "Man: The community kitchen's freezer is being defrosted today. Please don't put new food into it until the green notice appears on the door. Existing labeled food has been moved to the freezer in the adjoining room; it hasn't been discarded. If you're looking for an item, check the transfer list on the counter before contacting staff. The refrigerator remains available for food that doesn't require freezing.",
+        "options": [
+          "Consult the transfer list.",
+          "Report the food as discarded immediately.",
+          "Assume it has been moved into the refrigerator.",
+          "Put new food into the defrosting freezer."
+        ],
+        "group_id": "listen_announcement_30",
+        "passage_title": "A kitchen equipment pause"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问寻找首步；先看转移清单是“check the transfer list”\n解析：查表后再联系人员。原食物明确未丢，不能先报丢弃；化霜中禁放新食物；转移到邻室冷冻柜，不是仍可用的冷藏柜。\n下次：转移通知题核对原物去向与查询先后，区分冷藏和冷冻。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "程序与地点"
+        ],
+        "vocabulary": [
+          "adjoining"
+        ],
+        "rationale": "问寻找首步；先看转移清单是查表后再联系人员。原食物明确未丢，不能先报丢弃；化霜中禁放新食物；转移到邻室冷冻柜，不是仍可用的冷藏柜。",
+        "answer_evidence": "check the transfer list",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L526",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why should bidders leave items in place at closing time?",
+        "response_type": "choice",
+        "audio_text": "Woman: The silent auction closes at seven tonight. Please write your bidder number, not your name, beside each offer. Until six thirty, you may inspect the donated items at the tables, but please leave them in place. Winning bidders will be notified by text after the bids have been checked. Do not take an item simply because yours appears to be the highest offer when the clock reaches seven.",
+        "options": [
+          "Bidding continues until midnight without notice.",
+          "The offers must be checked before winners are confirmed.",
+          "Every item must be returned to its original owner.",
+          "The highest offer is never used to select a winner."
+        ],
+        "group_id": "listen_announcement_31",
+        "passage_title": "A community auction preview"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问七点为何不能直接取物；核价后才通知是“after the bids have been checked”\n解析：眼前最高尚非已确认中标，需要检查。没有全部退捐者、暗延到午夜或完全不看最高价的规则；只是确认程序，非改变竞价原则。\n下次：活动结果题区分表面领先与正式确认，再决定可否领取。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "程序与条件"
+        ],
+        "vocabulary": [
+          "bidders"
+        ],
+        "rationale": "问七点为何不能直接取物；核价后才通知是眼前最高尚非已确认中标，需要检查。没有全部退捐者、暗延到午夜或完全不看最高价的规则；只是确认程序，非改变竞价原则。",
+        "answer_evidence": "after the bids have been checked",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L527",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should people write beside an offer?",
+        "response_type": "choice",
+        "audio_text": "Woman: The silent auction closes at seven tonight. Please write your bidder number, not your name, beside each offer. Until six thirty, you may inspect the donated items at the tables, but please leave them in place. Winning bidders will be notified by text after the bids have been checked. Do not take an item simply because yours appears to be the highest offer when the clock reaches seven.",
+        "options": [
+          "Their assigned bidder number.",
+          "The number of guests they brought.",
+          "Their full name and home address.",
+          "The donated item's original purchase date."
+        ],
+        "group_id": "listen_announcement_31",
+        "passage_title": "A community auction preview"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问报价旁填什么；号码而非姓名是“your bidder number, not your name”\n解析：明确采用竞买编号。姓名地址反而违背不用姓名的要求；物品购日是商品背景，同行人数是人数信息，都不能标识本次报价者。\n下次：填写字段题核对识别用途，排除听过却属于别字段的信息。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "明确细节"
+        ],
+        "vocabulary": [
+          "offer"
+        ],
+        "rationale": "问报价旁填什么；号码而非姓名是明确采用竞买编号。姓名地址反而违背不用姓名的要求；物品购日是商品背景，同行人数是人数信息，都不能标识本次报价者。",
+        "answer_evidence": "your bidder number, not your name",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L528",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why should automatic color enhancement be disabled?",
+        "response_type": "choice",
+        "audio_text": "Man: When scanning old photographs today, please turn off the automatic color enhancement. Our goal is to record how the originals look now, not to make them appear newly printed. You may create an enhanced copy later, but keep the untouched scan as well. Save the original scan with the collection number before adding any edited versions, so future users can distinguish documentation from restoration.",
+        "options": [
+          "The scanner cannot produce color images.",
+          "Every old photograph was originally black and white.",
+          "Edited images are forbidden for all future uses.",
+          "The first scan should document the photograph's current appearance."
+        ],
+        "group_id": "listen_announcement_32",
+        "passage_title": "A scanning station setting"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问关闭自动增强原因；保留现状是“how the originals look now”\n解析：首份是记录，不追求焕新。不是扫描器无彩色功能，也不能说所有老照黑白；后面允许再做增强版，故非永久禁止编辑。\n下次：档案处理题分记录现状与后续修复，检查限制适用哪一版本。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "目的与范围"
+        ],
+        "vocabulary": [
+          "enhancement"
+        ],
+        "rationale": "问关闭自动增强原因；保留现状是首份是记录，不追求焕新。不是扫描器无彩色功能，也不能说所有老照黑白；后面允许再做增强版，故非永久禁止编辑。",
+        "answer_evidence": "how the originals look now",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L529",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should be done before saving edited versions?",
+        "response_type": "choice",
+        "audio_text": "Man: When scanning old photographs today, please turn off the automatic color enhancement. Our goal is to record how the originals look now, not to make them appear newly printed. You may create an enhanced copy later, but keep the untouched scan as well. Save the original scan with the collection number before adding any edited versions, so future users can distinguish documentation from restoration.",
+        "options": [
+          "Print every edited version before naming any files.",
+          "Save an unaltered scan with its collection number.",
+          "Replace the original with the most colorful version.",
+          "Delete the photograph's collection number."
+        ],
+        "group_id": "listen_announcement_32",
+        "passage_title": "A scanning station setting"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问编辑版前先做什么；原扫描加藏品号保存是“Save the original scan with the collection number”\n解析：原件记录先建档可追溯。删编号会失去身份；以鲜艳版覆盖失去未经编辑证据；通知没有先打印的要求，那不能替代数字原版保存。\n下次：版本管理题先保留带身份的原始副本，再创建可区分的加工版。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "顺序与证据"
+        ],
+        "vocabulary": [
+          "restoration"
+        ],
+        "rationale": "问编辑版前先做什么；原扫描加藏品号保存是原件记录先建档可追溯。删编号会失去身份；以鲜艳版覆盖失去未经编辑证据；通知没有先打印的要求，那不能替代数字原版保存。",
+        "answer_evidence": "Save the original scan with the collection number",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L530",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What is the purpose of the early arrival?",
+        "response_type": "choice",
+        "audio_text": "Woman: If this is your first rowing-machine session, please arrive ten minutes early for an adjustment check. We'll help set the foot straps and demonstrate the movement before the group workout begins. This check is not a fitness test, and you won't need to race anyone. Returning participants may join at the usual start time, provided they already know how to adjust the equipment safely.",
+        "options": [
+          "To adjust equipment and learn the basic movement.",
+          "To select only the fittest participants.",
+          "To complete the entire workout before the group arrives.",
+          "To rank beginners by racing speed."
+        ],
+        "group_id": "listen_announcement_33",
+        "passage_title": "A rowing machine introduction"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问提前到的目的；调整检查是“adjustment check”\n解析：脚带与动作示范帮助安全准备，明确非体能测试或比赛筛选。完整锻炼在集体开始后，提前十分钟只是准备，不能替代全课。\n下次：入门活动题分准备、筛选与正式练习，按功能判断。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "目的与范围"
+        ],
+        "vocabulary": [
+          "straps"
+        ],
+        "rationale": "问提前到的目的；调整检查是脚带与动作示范帮助安全准备，明确非体能测试或比赛筛选。完整锻炼在集体开始后，提前十分钟只是准备，不能替代全课。",
+        "answer_evidence": "adjustment check",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L531",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Who may arrive at the usual start time?",
+        "response_type": "choice",
+        "audio_text": "Woman: If this is your first rowing-machine session, please arrive ten minutes early for an adjustment check. We'll help set the foot straps and demonstrate the movement before the group workout begins. This check is not a fitness test, and you won't need to race anyone. Returning participants may join at the usual start time, provided they already know how to adjust the equipment safely.",
+        "options": [
+          "Returning users who can already adjust the machine safely.",
+          "Any beginner who prefers not to receive instruction.",
+          "Only participants who won a previous race.",
+          "Every person who owns a pair of rowing shoes."
+        ],
+        "group_id": "listen_announcement_33",
+        "passage_title": "A rowing machine introduction"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问可按原时到的条件；已经会调整是“provided they already know”\n解析：熟悉操作的老学员可省准备。新手个人不想学不构成豁免；先前夺冠、拥有某鞋均未列为资格，也不能替代会调机器。\n下次：豁免条件题核对实际能力，不用偏好或装备替代。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "条件与对象"
+        ],
+        "vocabulary": [
+          "returning"
+        ],
+        "rationale": "问可按原时到的条件；已经会调整是熟悉操作的老学员可省准备。新手个人不想学不构成豁免；先前夺冠、拥有某鞋均未列为资格，也不能替代会调机器。",
+        "answer_evidence": "provided they already know",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L532",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why might a plant-based bag be unsuitable?",
+        "response_type": "choice",
+        "audio_text": "Man: Before emptying kitchen scraps into the garden compost bin, remove rubber bands, produce stickers, and plastic packaging. A bag labeled plant-based is not automatically suitable for this bin; our small system may not provide the conditions it needs to break down. If you're uncertain about a package, place it in the marked container beside the bin for the coordinator to check, rather than guessing.",
+        "options": [
+          "The local compost system may lack the conditions it needs.",
+          "The bin is reserved for rubber bands and stickers.",
+          "The label proves that the bag will never break down.",
+          "The garden accepts only empty plastic packages."
+        ],
+        "group_id": "listen_announcement_34",
+        "passage_title": "A compost collection check"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问植物基袋为何未必适合；分解条件可能不足是“conditions it needs to break down”\n解析：原料来源不保证在小系统可分解。非只收空塑料；也不能说永不分解，只是此处条件受限；橡皮筋和贴纸恰须去除，不是专收对象。\n下次：环境条件题区分材料属性与处理设施能力，避免绝对化。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "条件与推断"
+        ],
+        "vocabulary": [
+          "plant-based"
+        ],
+        "rationale": "问植物基袋为何未必适合；分解条件可能不足是原料来源不保证在小系统可分解。非只收空塑料；也不能说永不分解，只是此处条件受限；橡皮筋和贴纸恰须去除，不是专收对象。",
+        "answer_evidence": "conditions it needs to break down",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L533",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should users do with uncertain packaging?",
+        "response_type": "choice",
+        "audio_text": "Man: Before emptying kitchen scraps into the garden compost bin, remove rubber bands, produce stickers, and plastic packaging. A bag labeled plant-based is not automatically suitable for this bin; our small system may not provide the conditions it needs to break down. If you're uncertain about a package, place it in the marked container beside the bin for the coordinator to check, rather than guessing.",
+        "options": [
+          "Put it into the compost and wait for a complaint.",
+          "Assume all green-colored packages are acceptable.",
+          "Remove its label and put the bag into the compost.",
+          "Set it aside for the coordinator to assess."
+        ],
+        "group_id": "listen_announcement_34",
+        "passage_title": "A compost collection check"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问无法判断包装能否堆肥时怎么办；“for the coordinator to check”是留给协调员核查。\n解析：先放旁边指定容器等待判断，不是先混入再等投诉。撕标签不会改变袋体分解所需条件；绿色外观也不能证明适合这个小型堆肥系统。\n下次：看到材料是否适用不确定→单独放置待核查→检查判断依据是处理条件而非名称或颜色。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "程序与判断"
+        ],
+        "vocabulary": [
+          "coordinator"
+        ],
+        "rationale": "先放旁边指定容器等待判断，不是先混入再等投诉。撕标签不会改变袋体分解所需条件；绿色外观也不能证明适合这个小型堆肥系统。",
+        "answer_evidence": "for the coordinator to check",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L534",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Where will passengers board the replacement buses?",
+        "response_type": "choice",
+        "audio_text": "Woman: Because the station forecourt is being resurfaced, replacement buses will leave from the public car park behind the station today. Follow the yellow signs through the side passage; the main taxi rank is not the pickup point. Your train ticket is valid on these buses, so there is no need to buy a separate bus ticket. Allow an extra five minutes to reach the temporary stop.",
+        "options": [
+          "At the main taxi rank in front.",
+          "At every regular bus stop along the street.",
+          "Inside the station's ticket office.",
+          "In the public car park behind the station."
+        ],
+        "group_id": "listen_announcement_35",
+        "passage_title": "A replacement bus stop"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问替代公交上车处；站后公共停车场是“car park behind the station”\n解析：循黄牌侧道到站后；出租车位被明确排除。售票处是室内服务点，沿街所有站也未获停靠说明，不能把临时单一点扩成多点。\n下次：改站通知题先记录新参照物，排除特别提醒的旧地点。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "地点与纠正"
+        ],
+        "vocabulary": [
+          "forecourt"
+        ],
+        "rationale": "问替代公交上车处；站后公共停车场是循黄牌侧道到站后；出租车位被明确排除。售票处是室内服务点，沿街所有站也未获停靠说明，不能把临时单一点扩成多点。",
+        "answer_evidence": "car park behind the station",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L535",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What does the speaker say about tickets?",
+        "response_type": "choice",
+        "audio_text": "Woman: Because the station forecourt is being resurfaced, replacement buses will leave from the public car park behind the station today. Follow the yellow signs through the side passage; the main taxi rank is not the pickup point. Your train ticket is valid on these buses, so there is no need to buy a separate bus ticket. Allow an extra five minutes to reach the temporary stop.",
+        "options": [
+          "A train ticket can be used for the replacement bus.",
+          "A separate bus ticket is required in addition.",
+          "Taxi receipts can replace train tickets.",
+          "Tickets are unnecessary because all travel is free."
+        ],
+        "group_id": "listen_announcement_35",
+        "passage_title": "A replacement bus stop"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问票务；火车票有效是“Your train ticket is valid”\n解析：已有票可用于替代车，无需另买。不是火车票加公交票，也没授权出租收据；不需另购不等于所有人无票免费出行。\n下次：替代服务题分票证通用与免费，检查谁已具备有效凭证。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "规则与范围"
+        ],
+        "vocabulary": [
+          "valid"
+        ],
+        "rationale": "问票务；火车票有效是已有票可用于替代车，无需另买。不是火车票加公交票，也没授权出租收据；不需另购不等于所有人无票免费出行。",
+        "answer_evidence": "Your train ticket is valid",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L536",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why should visitors wait for the dried samples to compare colors?",
+        "response_type": "choice",
+        "audio_text": "Man: During the dye demonstration, visitors may watch from behind the taped line. Only the demonstrator will handle the heated containers. At the end, cooled and dried fabric samples will be passed around so you can compare the colors under the same light. Please don't judge the final color from the wet cloth in the pot; it can look darker than it will after drying.",
+        "options": [
+          "The demonstrator is trying to conceal a failed experiment.",
+          "Every sample will change into the same color.",
+          "Wet fabric may not show the final appearance.",
+          "The room will have no light until the end."
+        ],
+        "group_id": "listen_announcement_36",
+        "passage_title": "A textile dye demonstration"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问不凭湿布判最终色的原因；湿时可能更深是“look darker than it will after drying”\n解析：需在可比干态和光照下看成品。没有说所有颜色会相同；也无隐瞒失败动机；光照一致不等于此前房间全黑。\n下次：比较颜色先统一状态与光源，别把暂时外观当最终属性。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "比较与条件"
+        ],
+        "vocabulary": [
+          "dye"
+        ],
+        "rationale": "问不凭湿布判最终色的原因；湿时可能更深是需在可比干态和光照下看成品。没有说所有颜色会相同；也无隐瞒失败动机；光照一致不等于此前房间全黑。 材料明确样布已冷却且干燥，使最终颜色的比较条件与题干一致。",
+        "answer_evidence": "look darker than it will after drying",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L537",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Who will handle the heated containers?",
+        "response_type": "choice",
+        "audio_text": "Man: During the dye demonstration, visitors may watch from behind the taped line. Only the demonstrator will handle the heated containers. At the end, cooled and dried fabric samples will be passed around so you can compare the colors under the same light. Please don't judge the final color from the wet cloth in the pot; it can look darker than it will after drying.",
+        "options": [
+          "The visitors comparing the cooled samples.",
+          "Anyone who has seen the demonstration before.",
+          "All visitors wearing dark clothing.",
+          "Only the demonstrator."
+        ],
+        "group_id": "listen_announcement_36",
+        "passage_title": "A textile dye demonstration"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问谁动热容器；only限定示范者是“Only the demonstrator”\n解析：观看者在线后，仅末尾摸冷却样布。深色衣物、曾看过并未提供操作资格；能摸凉样品不能推出可碰热容器，权限针对不同对象。\n下次：安全权限题把人、物和温度配对，避免从一个许可扩大到另一个。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "范围与许可"
+        ],
+        "vocabulary": [
+          "containers"
+        ],
+        "rationale": "问谁动热容器；only限定示范者是观看者在线后，仅末尾摸冷却样布。深色衣物、曾看过并未提供操作资格；能摸凉样品不能推出可碰热容器，权限针对不同对象。 材料明确样布已冷却且干燥，使最终颜色的比较条件与题干一致。",
+        "answer_evidence": "Only the demonstrator",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L538",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "When will late arrivals be admitted?",
+        "response_type": "choice",
+        "audio_text": "Woman: If you arrive after the piano recital starts, please wait in the foyer rather than opening the auditorium doors. An usher will admit late arrivals during the first suitable pause. That may not be immediately after the opening piece, since some pieces are performed without a break between them. You can listen to the live sound in the foyer while waiting, so you won't miss the music entirely.",
+        "options": [
+          "At a suitable pause chosen by an usher.",
+          "Whenever they can open the door quietly.",
+          "Only after the entire recital has finished.",
+          "Immediately when the first piece ends in every case."
+        ],
+        "group_id": "listen_announcement_37",
+        "passage_title": "Late seating at a recital"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问迟到入场时点；首个合适停顿是“first suitable pause”\n解析：由引座员安排，曲目可能连奏所以不能保证第一曲后。自行轻开门仍违背等候要求；前厅可听且中途可进，也非必须等全场结束。\n下次：演出时间题区分曲目边界与真正停顿，以现场规则为准。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "时间与条件"
+        ],
+        "vocabulary": [
+          "usher"
+        ],
+        "rationale": "问迟到入场时点；首个合适停顿是由引座员安排，曲目可能连奏所以不能保证第一曲后。自行轻开门仍违背等候要求；前厅可听且中途可进，也非必须等全场结束。",
+        "answer_evidence": "first suitable pause",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L539",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why is live sound provided in the foyer?",
+        "response_type": "choice",
+        "audio_text": "Woman: If you arrive after the piano recital starts, please wait in the foyer rather than opening the auditorium doors. An usher will admit late arrivals during the first suitable pause. That may not be immediately after the opening piece, since some pieces are performed without a break between them. You can listen to the live sound in the foyer while waiting, so you won't miss the music entirely.",
+        "options": [
+          "So waiting visitors can still hear the performance.",
+          "To replace the recital with a recording.",
+          "So the pianist can rehearse away from the stage.",
+          "To encourage all ticket holders to avoid the auditorium."
+        ],
+        "group_id": "listen_announcement_37",
+        "passage_title": "Late seating at a recital"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问前厅直播声音用途；在等候期间是“while waiting”\n解析：让暂不能进场者继续听，不至全漏掉音乐。演奏者仍在表演非前厅排练；不是劝全体不进厅；live是现场声，也非录音替代。\n下次：临时服务目的题找受益人及等待阶段，别扩大到全体或改变活动形式。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "目的与对象"
+        ],
+        "vocabulary": [
+          "foyer"
+        ],
+        "rationale": "问前厅直播声音用途；在等候期间是让暂不能进场者继续听，不至全漏掉音乐。演奏者仍在表演非前厅排练；不是劝全体不进厅；live是现场声，也非录音替代。",
+        "answer_evidence": "while waiting",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L540",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What is the session designed to determine?",
+        "response_type": "choice",
+        "audio_text": "Man: New choir members are invited to a short voice-placement session on Tuesday. This isn't an audition to decide whether you may join. The director will listen to a few comfortable notes and suggest the section that best suits your voice. You don't need a prepared song, and reading music is not required for this session. If you're unsure of your range, that's exactly what the session is intended to help with.",
+        "options": [
+          "Which choir section suits each new member.",
+          "Whether only professional singers may join.",
+          "Who can perform the longest prepared solo.",
+          "Who will be expelled for not reading music."
+        ],
+        "group_id": "listen_announcement_38",
+        "passage_title": "A choir voice placement"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问活动目的；匹配声部是“section that best suits your voice”\n解析：听舒适音帮助分部，明确非筛选入团。无专业歌手门槛，也不比最长独唱；此环节无需读谱，不能据此淘汰人。\n下次：活动名称易误解时，用明确否定先排筛选，再找实际支持目标。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "主旨与范围"
+        ],
+        "vocabulary": [
+          "placement"
+        ],
+        "rationale": "问活动目的；匹配声部是听舒适音帮助分部，明确非筛选入团。无专业歌手门槛，也不比最长独唱；此环节无需读谱，不能据此淘汰人。",
+        "answer_evidence": "section that best suits your voice",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L541",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What must participants prepare?",
+        "response_type": "choice",
+        "audio_text": "Man: New choir members are invited to a short voice-placement session on Tuesday. This isn't an audition to decide whether you may join. The director will listen to a few comfortable notes and suggest the section that best suits your voice. You don't need a prepared song, and reading music is not required for this session. If you're unsure of your range, that's exactly what the session is intended to help with.",
+        "options": [
+          "A written test on musical notation.",
+          "No prepared song is necessary.",
+          "A recording proving a known vocal range.",
+          "A complete solo with piano accompaniment."
+        ],
+        "group_id": "listen_announcement_38",
+        "passage_title": "A choir voice placement"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问准备要求；不需预备歌曲是“don't need a prepared song”\n解析：只现场唱舒适音；完整伴奏独唱和读谱测试都超要求。未知音域者正应参加，不必先交证明自己已知音域的录音。\n下次：准备清单题特别留意无需和正为解决未知，别增加准入作业。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "要求与否定"
+        ],
+        "vocabulary": [
+          "range"
+        ],
+        "rationale": "问准备要求；不需预备歌曲是只现场唱舒适音；完整伴奏独唱和读谱测试都超要求。未知音域者正应参加，不必先交证明自己已知音域的录音。",
+        "answer_evidence": "don't need a prepared song",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L542",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should volunteers do if the gauge is below the red mark?",
+        "response_type": "choice",
+        "audio_text": "Woman: The rooftop garden's new tank collects rainwater for watering plants. It isn't a drinking-water supply, so please use the fountain downstairs for that. A gauge on the tank shows how much water remains. If the level falls below the red mark, stop using the tank and notify the garden coordinator. We'll switch to the regular supply until enough rain has collected; you don't need to cancel your watering shift.",
+        "options": [
+          "Stop using the tank and inform the coordinator.",
+          "Cancel all future watering shifts.",
+          "Drink the remaining water before it runs out.",
+          "Fill the tank with fertilizer without permission."
+        ],
+        "group_id": "listen_announcement_39",
+        "passage_title": "Rainwater tank use"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问低水位时行动；红线以下是“below the red mark”\n解析：停用雨水箱并报负责人，再切常规水；明确不需取消排班。水非饮用，不能喝；也未授权加肥料，那会改变用途而非恢复水量。\n下次：阈值规则题同时记触发点和双动作，区分停某设备与停整个任务。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "条件与行动"
+        ],
+        "vocabulary": [
+          "gauge"
+        ],
+        "rationale": "问低水位时行动；红线以下是停用雨水箱并报负责人，再切常规水；明确不需取消排班。水非饮用，不能喝；也未授权加肥料，那会改变用途而非恢复水量。",
+        "answer_evidence": "below the red mark",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L543",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why can watering shifts continue when the tank is low?",
+        "response_type": "choice",
+        "audio_text": "Woman: The rooftop garden's new tank collects rainwater for watering plants. It isn't a drinking-water supply, so please use the fountain downstairs for that. A gauge on the tank shows how much water remains. If the level falls below the red mark, stop using the tank and notify the garden coordinator. We'll switch to the regular supply until enough rain has collected; you don't need to cancel your watering shift.",
+        "options": [
+          "Volunteers will move every plant downstairs.",
+          "Another water supply will be used.",
+          "Plants never need water during dry periods.",
+          "The gauge automatically creates more rainwater."
+        ],
+        "group_id": "listen_announcement_39",
+        "passage_title": "Rainwater tank use"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问为何仍可浇水；切常规供水是“switch to the regular supply”\n解析：有替代水源使工作继续。不是植物旱时无需水；仪表仅显示水量不能造雨；楼下提到的是饮水处，并非全搬植物去那里。\n下次：连续服务题找备用资源，别把测量装置当生产装置。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "因果与替代"
+        ],
+        "vocabulary": [
+          "supply"
+        ],
+        "rationale": "问为何仍可浇水；切常规供水是有替代水源使工作继续。不是植物旱时无需水；仪表仅显示水量不能造雨；楼下提到的是饮水处，并非全搬植物去那里。",
+        "answer_evidence": "switch to the regular supply",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L544",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why does the speaker distinguish discussed substitutions from today's ingredients?",
+        "response_type": "choice",
+        "audio_text": "Man: Today's bread demonstration includes a tasting, but the printed ingredient card should be checked before you choose to try anything. The instructor may discuss possible substitutions; that doesn't mean those substitutions were used in today's bread. Please ask at the table if you need to clarify an ingredient. You're welcome to watch without tasting, and taking part in the discussion doesn't require eating a sample.",
+        "options": [
+          "The printed ingredient card lists only future recipes.",
+          "The instructor will refuse questions about ingredients.",
+          "Every suggested alternative was used in the same loaf.",
+          "An alternative mentioned in class may not be in the actual bread."
+        ],
+        "group_id": "listen_announcement_40",
+        "passage_title": "A cooking demonstration tasting"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问为何区分替代建议与实际原料；谈到不等于用过是“doesn't mean those substitutions were used”\n解析：应按当日原料卡判断，不能把教学举例当成食物成分。非全替代同时用了；卡用于眼前试吃，不只列未来方；通知反而欢迎澄清提问。\n下次：示例与事实题分可能做法和本次已用做法，再核对实际材料单。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "事实与范围"
+        ],
+        "vocabulary": [
+          "substitutions"
+        ],
+        "rationale": "问为何区分替代建议与实际原料；谈到不等于用过是应按当日原料卡判断，不能把教学举例当成食物成分。非全替代同时用了；卡用于眼前试吃，不只列未来方；通知反而欢迎澄清提问。",
+        "answer_evidence": "doesn't mean those substitutions were used",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L545",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Must participants taste the bread to join the discussion?",
+        "response_type": "choice",
+        "audio_text": "Man: Today's bread demonstration includes a tasting, but the printed ingredient card should be checked before you choose to try anything. The instructor may discuss possible substitutions; that doesn't mean those substitutions were used in today's bread. Please ask at the table if you need to clarify an ingredient. You're welcome to watch without tasting, and taking part in the discussion doesn't require eating a sample.",
+        "options": [
+          "Only people who baked the bread may decline.",
+          "Yes, every participant must finish one sample.",
+          "No, observing and discussing without tasting is allowed.",
+          "Anyone declining must leave before the demonstration."
+        ],
+        "group_id": "listen_announcement_40",
+        "passage_title": "A cooking demonstration tasting"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问讨论是否必须试吃；不要求吃样品是“doesn't require eating a sample”\n解析：观看及讨论均可不尝，选择权不以身份为限。每人吃完、只有制作者可拒、拒吃须离场都新增限制，与欢迎只看的说明冲突。\n下次：参与条件题区分自选环节与必需环节，检查拒绝是否真有后果。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "许可与范围"
+        ],
+        "vocabulary": [
+          "tasting"
+        ],
+        "rationale": "问讨论是否必须试吃；不要求吃样品是观看及讨论均可不尝，选择权不以身份为限。每人吃完、只有制作者可拒、拒吃须离场都新增限制，与欢迎只看的说明冲突。",
+        "answer_evidence": "doesn't require eating a sample",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L546",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What distinction does the speaker emphasize?",
+        "response_type": "choice",
+        "audio_text": "Woman: Before starting an oral-history interview, ask the participant to review the recording agreement. Agreeing to speak doesn't automatically mean agreeing to public release. Participants may allow a recording to be stored for research while asking that it remain unavailable online. Record those choices on the form, and don't promise access conditions you cannot provide. If a request is unclear, consult the archive coordinator before switching on the recorder.",
+        "options": [
+          "Permission to be recorded is separate from permission for public release.",
+          "Anyone willing to speak has waived every access restriction.",
+          "Research recordings must always be posted online.",
+          "Participants cannot express preferences about storage."
+        ],
+        "group_id": "listen_announcement_41",
+        "passage_title": "Oral-history recording consent"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问强调的区别；受访不自动等于公开同意是“doesn't automatically mean agreeing to public release”\n解析：讲话、存档和在线开放是不同许可。非研究材料必须上网；愿说话不放弃全部限制；通知明确要求记录受访者选择，非不许表达储存偏好。\n下次：同意范围题将收集、保存、公开逐层核对，不把一种许可扩成全部。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "许可与范围"
+        ],
+        "vocabulary": [
+          "agreement"
+        ],
+        "rationale": "问强调的区别；受访不自动等于公开同意是讲话、存档和在线开放是不同许可。非研究材料必须上网；愿说话不放弃全部限制；通知明确要求记录受访者选择，非不许表达储存偏好。",
+        "answer_evidence": "doesn't automatically mean agreeing to public release",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L547",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should an interviewer do about an unclear request?",
+        "response_type": "choice",
+        "audio_text": "Woman: Before starting an oral-history interview, ask the participant to review the recording agreement. Agreeing to speak doesn't automatically mean agreeing to public release. Participants may allow a recording to be stored for research while asking that it remain unavailable online. Record those choices on the form, and don't promise access conditions you cannot provide. If a request is unclear, consult the archive coordinator before switching on the recorder.",
+        "options": [
+          "Ask the archive coordinator before recording.",
+          "Ignore the request unless it concerns the interview topic.",
+          "Begin recording and decide the access terms later.",
+          "Promise any conditions the participant asks for."
+        ],
+        "group_id": "listen_announcement_41",
+        "passage_title": "Oral-history recording consent"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问请求不明时程序；开录前处理是“before switching on the recorder”\n解析：先咨询协调人确保能落实。先录后定跳过前置澄清；任何要求都承诺违背不能乱许诺；访问条件即便非采访主题也必须重视。\n下次：不明确授权题先澄清可执行条件，再开始收集，不以主题相关性忽视限制。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "程序与责任"
+        ],
+        "vocabulary": [
+          "coordinator"
+        ],
+        "rationale": "问请求不明时程序；开录前处理是先咨询协调人确保能落实。先录后定跳过前置澄清；任何要求都承诺违背不能乱许诺；访问条件即便非采访主题也必须重视。",
+        "answer_evidence": "before switching on the recorder",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L548",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why might a submitted question not be read word for word?",
+        "response_type": "choice",
+        "audio_text": "Man: For tonight's debate, audience questions will be collected on cards rather than taken directly from the floor. You may leave your name off the card. Please write one clear question, not a statement followed by several unrelated questions. The moderator may combine cards that ask about the same issue, so not hearing your exact wording doesn't mean your concern has been ignored.",
+        "options": [
+          "Similar questions may be combined by the moderator.",
+          "The audience is not allowed to ask about the debate topic.",
+          "Unsigned cards are automatically rejected.",
+          "Every card will be saved for a different event."
+        ],
+        "group_id": "listen_announcement_42",
+        "passage_title": "Questions for a public debate"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问为何未逐字读；同议题会合并是“combine cards that ask about the same issue”\n解析：重点可能已被综合回应，不代表忽视。可匿名，非无名作废；当然围绕议题提问，并非禁问主题；通知也没说全留给另场活动。\n下次：改述题区分措辞不同与议题未处理，检查是否有合并机制。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "推断与篇章"
+        ],
+        "vocabulary": [
+          "moderator"
+        ],
+        "rationale": "问为何未逐字读；同议题会合并是重点可能已被综合回应，不代表忽视。可匿名，非无名作废；当然围绕议题提问，并非禁问主题；通知也没说全留给另场活动。",
+        "answer_evidence": "combine cards that ask about the same issue",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L549",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What kind of card is requested?",
+        "response_type": "choice",
+        "audio_text": "Man: For tonight's debate, audience questions will be collected on cards rather than taken directly from the floor. You may leave your name off the card. Please write one clear question, not a statement followed by several unrelated questions. The moderator may combine cards that ask about the same issue, so not hearing your exact wording doesn't mean your concern has been ignored.",
+        "options": [
+          "One containing a single clear question.",
+          "One requesting a private meeting with both debaters.",
+          "One containing several unrelated questions and a speech.",
+          "One signed by every member of the audience."
+        ],
+        "group_id": "listen_announcement_42",
+        "passage_title": "Questions for a public debate"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问卡片要求；单个明确问题是“one clear question”\n解析：清楚单问方便筛选。长陈述加多项无关问被明禁；名字可省更不需全场联签；私人会面不是本环节安排，偏离公共提问用途。\n下次：提交格式题抓数量和相关性要求，排除把表达机会改成另一服务。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "要求与范围"
+        ],
+        "vocabulary": [
+          "wording"
+        ],
+        "rationale": "问卡片要求；单个明确问题是清楚单问方便筛选。长陈述加多项无关问被明禁；名字可省更不需全场联签；私人会面不是本环节安排，偏离公共提问用途。",
+        "answer_evidence": "one clear question",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L550",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should borrowers do before returning a memory card?",
+        "response_type": "choice",
+        "audio_text": "Woman: When returning a camera kit, please leave the memory card in its separate labeled case, not inside the camera. Staff check each component against the inventory before the kit is lent again. Copy your photographs first, since returned cards will be cleared after inspection. If a lens cap is missing, report it at the desk instead of replacing it with an unmarked cap from another kit.",
+        "options": [
+          "Copy any photographs they want to keep.",
+          "Ask staff to preserve every image indefinitely.",
+          "Hide the card inside the camera to prevent inspection.",
+          "Move photographs to another borrowed kit without labeling it."
+        ],
+        "group_id": "listen_announcement_43",
+        "passage_title": "Camera kit returns"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问归还前动作；先复制照片是“Copy your photographs first”\n解析：卡检查后会清空，想保留需先存副本。借另一套偷偷转存未授权；工作人员不保证永久存图；卡必须分盒放，藏机内反而违反核件流程。\n下次：归还介质题区分设备归还与个人数据保存，先备份再交还。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "程序与后果"
+        ],
+        "vocabulary": [
+          "inventory"
+        ],
+        "rationale": "问归还前动作；先复制照片是卡检查后会清空，想保留需先存副本。借另一套偷偷转存未授权；工作人员不保证永久存图；卡必须分盒放，藏机内反而违反核件流程。",
+        "answer_evidence": "Copy your photographs first",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L551",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "How should a missing lens cap be handled?",
+        "response_type": "choice",
+        "audio_text": "Woman: When returning a camera kit, please leave the memory card in its separate labeled case, not inside the camera. Staff check each component against the inventory before the kit is lent again. Copy your photographs first, since returned cards will be cleared after inspection. If a lens cap is missing, report it at the desk instead of replacing it with an unmarked cap from another kit.",
+        "options": [
+          "Keep the entire kit indefinitely.",
+          "Remove the lens from the inventory list.",
+          "Borrow an unmarked cap from another kit without reporting it.",
+          "Report the missing component to staff."
+        ],
+        "group_id": "listen_announcement_43",
+        "passage_title": "Camera kit returns"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问缺盖处理；到柜台报告是“report it at the desk”\n解析：如实申报让工作人员处理；挪他套无标盖被明禁。删清单掩盖缺失，永久留整套也不是补救，都会破坏核件记录。\n下次：缺件题保留来源与清单一致性，先报告而非借别套遮掩。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "责任与程序"
+        ],
+        "vocabulary": [
+          "lens cap"
+        ],
+        "rationale": "问缺盖处理；到柜台报告是如实申报让工作人员处理；挪他套无标盖被明禁。删清单掩盖缺失，永久留整套也不是补救，都会破坏核件记录。",
+        "answer_evidence": "report it at the desk",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L552",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why should the original measurement remain visible?",
+        "response_type": "choice",
+        "audio_text": "Man: In today's excavation exercise, if you enter an incorrect measurement, draw a single line through it and write the correction beside it. Do not erase the original entry or cover it with correction fluid. We need to see how the record changed. Include your initials with the correction, and make sure the sample number remains readable; a perfect-looking page is less useful than a traceable record.",
+        "options": [
+          "To preserve a record of how the information changed.",
+          "To avoid recording who made the correction.",
+          "To encourage future users to treat both values as equally correct.",
+          "To make the page look as neat as possible."
+        ],
+        "group_id": "listen_announcement_44",
+        "passage_title": "Field notebook corrections"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问保留原数原因；能追踪变更是“see how the record changed”\n解析：划线标错同时留历史，并非两值都对。通知把可追溯优先于漂亮；还要求改者缩写，非隐藏修改人。\n下次：记录更正题区分留痕与保留有效性，旧值可见不代表仍应使用。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "目的与证据"
+        ],
+        "vocabulary": [
+          "traceable"
+        ],
+        "rationale": "问保留原数原因；能追踪变更是划线标错同时留历史，并非两值都对。通知把可追溯优先于漂亮；还要求改者缩写，非隐藏修改人。",
+        "answer_evidence": "see how the record changed",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L553",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should accompany a correction?",
+        "response_type": "choice",
+        "audio_text": "Man: In today's excavation exercise, if you enter an incorrect measurement, draw a single line through it and write the correction beside it. Do not erase the original entry or cover it with correction fluid. We need to see how the record changed. Include your initials with the correction, and make sure the sample number remains readable; a perfect-looking page is less useful than a traceable record.",
+        "options": [
+          "A new sample number chosen without explanation.",
+          "The correct value and the writer's initials.",
+          "Correction fluid covering the sample number.",
+          "Only a blank space where the old value appeared."
+        ],
+        "group_id": "listen_announcement_44",
+        "passage_title": "Field notebook corrections"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问更正附什么；加姓名首字母是“Include your initials”\n解析：旁写正确测量并签缩写，原样本号清楚。遮盖液被禁；自换样本号会破坏对应；只留空既无正确值也无变更责任人。\n下次：改记录题同时核对新值、身份与原标识，别用美化代替可追溯。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "程序与信息"
+        ],
+        "vocabulary": [
+          "initials"
+        ],
+        "rationale": "问更正附什么；加姓名首字母是旁写正确测量并签缩写，原样本号清楚。遮盖液被禁；自换样本号会破坏对应；只留空既无正确值也无变更责任人。",
+        "answer_evidence": "Include your initials",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L554",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why should volunteers avoid immediately supplying a word?",
+        "response_type": "choice",
+        "audio_text": "Woman: Volunteers reading with adults this evening should let each partner choose whether to read aloud. Some people prefer to listen first or take turns. Please don't finish a word immediately when your partner pauses; give them time, then ask whether they'd like help. The aim is a comfortable shared reading experience, not a timed test. Large-print copies of the same stories are available at the sign-in table.",
+        "options": [
+          "A pause does not necessarily mean the partner wants help.",
+          "Every pause must be timed for a score.",
+          "Volunteers are forbidden to provide any help.",
+          "The stories are intended to be read silently by everyone."
+        ],
+        "group_id": "listen_announcement_45",
+        "passage_title": "A reading partnership briefing"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问不立刻替读原因；先等再问的依据是“give them time, then ask”\n解析：停顿者可能在思考，应先尊重是否需帮助。非计时评分，已说不是测试；可朗读或轮流非全默读；也不是永不帮，只需先询问。\n下次：协助题区分需要帮助与请求帮助，检查留出处理时间。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "推断与意图"
+        ],
+        "vocabulary": [
+          "pauses"
+        ],
+        "rationale": "问不立刻替读原因；先等再问的依据是停顿者可能在思考，应先尊重是否需帮助。非计时评分，已说不是测试；可朗读或轮流非全默读；也不是永不帮，只需先询问。",
+        "answer_evidence": "give them time, then ask",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L555",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What choice is given to reading partners?",
+        "response_type": "choice",
+        "audio_text": "Woman: Volunteers reading with adults this evening should let each partner choose whether to read aloud. Some people prefer to listen first or take turns. Please don't finish a word immediately when your partner pauses; give them time, then ask whether they'd like help. The aim is a comfortable shared reading experience, not a timed test. Large-print copies of the same stories are available at the sign-in table.",
+        "options": [
+          "They can decide how to participate in reading.",
+          "They must choose a completely different story from the volunteer.",
+          "They may skip signing in only if they read quickly.",
+          "They must use large print regardless of preference."
+        ],
+        "group_id": "listen_announcement_45",
+        "passage_title": "A reading partnership briefing"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问可作的选择；是否朗读由伙伴决定是“choose whether to read aloud”\n解析：可先听或轮读，调整参与方式。不是双方必须选不同故事；签到未按速度豁免；大字本只是可取，同一故事版本非强制人人使用。\n下次：可选服务题将允许选择与必须要求分开，检查选的是方式而非内容。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "许可与范围"
+        ],
+        "vocabulary": [
+          "take turns"
+        ],
+        "rationale": "问可作的选择；是否朗读由伙伴决定是可先听或轮读，调整参与方式。不是双方必须选不同故事；签到未按速度豁免；大字本只是可取，同一故事版本非强制人人使用。",
+        "answer_evidence": "choose whether to read aloud",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L556",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why should musicians avoid practicing passages during tuning?",
+        "response_type": "choice",
+        "audio_text": "Man: Musicians in the community orchestra should be seated five minutes before rehearsal so we can tune together. Please avoid practicing difficult passages while the reference note is being played; others need to hear it clearly. Section leaders will help if your instrument needs extra attention. The printed starting time is when the first piece begins, not when everyone should start unpacking cases.",
+        "options": [
+          "The difficult passages have been removed from the program.",
+          "The reference note is a recording that must remain secret.",
+          "Only section leaders are allowed to play at rehearsal.",
+          "Their playing could obscure the reference note."
+        ],
+        "group_id": "listen_announcement_46",
+        "passage_title": "Orchestra tuning time"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问调音时别练曲原因；别人需听清参考音是“others need to hear it clearly”\n解析：额外声音会遮盖统一音高依据。未删难段；全团稍后会演奏，非只有组长能弹；参考音用于公开调音，没有保密用途。\n下次：集体操作题找共享信号，检查个人动作是否干扰他人获取。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "原因与目的"
+        ],
+        "vocabulary": [
+          "reference note"
+        ],
+        "rationale": "问调音时别练曲原因；别人需听清参考音是额外声音会遮盖统一音高依据。未删难段；全团稍后会演奏，非只有组长能弹；参考音用于公开调音，没有保密用途。",
+        "answer_evidence": "others need to hear it clearly",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L557",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What does the printed start time mean?",
+        "response_type": "choice",
+        "audio_text": "Man: Musicians in the community orchestra should be seated five minutes before rehearsal so we can tune together. Please avoid practicing difficult passages while the reference note is being played; others need to hear it clearly. Section leaders will help if your instrument needs extra attention. The printed starting time is when the first piece begins, not when everyone should start unpacking cases.",
+        "options": [
+          "The earliest time musicians may enter the building.",
+          "The end of the section leaders' entire rehearsal.",
+          "The time when rehearsal of the first piece begins.",
+          "The time to begin unpacking and assembling instruments."
+        ],
+        "group_id": "listen_announcement_46",
+        "passage_title": "Orchestra tuning time"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问标示起点含义；第一首开始是“first piece begins”\n解析：到此刻应已就座调好。不是刚允许入楼，也非才拆箱准备；组长仍参与协助，没有标示他们排练结束。\n下次：时间标签题分准备起点与正式活动起点，倒推需提前多久。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "时间与范围"
+        ],
+        "vocabulary": [
+          "unpacking"
+        ],
+        "rationale": "问标示起点含义；第一首开始是到此刻应已就座调好。不是刚允许入楼，也非才拆箱准备；组长仍参与协助，没有标示他们排练结束。",
+        "answer_evidence": "first piece begins",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L558",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why must groups wait after their attendance has been checked?",
+        "response_type": "choice",
+        "audio_text": "Woman: At eleven this morning, the building will conduct a scheduled evacuation exercise. When the alarm sounds, follow the marked exit route and meet beside the far end of the sports field, not at the front entrance. Team leaders will check attendance there. Even if your group finishes early, wait for the all-clear announcement before returning; the first group counted isn't necessarily the last group outside.",
+        "options": [
+          "The team leaders will hold a sports competition.",
+          "Other groups may still be completing the evacuation.",
+          "The front entrance is the required assembly point.",
+          "The exercise requires everyone to miss the entire day."
+        ],
+        "group_id": "listen_announcement_47",
+        "passage_title": "A scheduled evacuation exercise"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问点名完仍等原因；本组先完成不代表全体完毕是“isn't necessarily the last group outside”\n解析：需全场解除通知才返，避免把局部完成当整体结束。非全天停课、体育赛；入口还被明确排除为集合点，不能当等待理由。\n下次：集体状态题分本组与全体，以统一确认而非个人完成为准。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "范围与条件"
+        ],
+        "vocabulary": [
+          "all-clear"
+        ],
+        "rationale": "问点名完仍等原因；本组先完成不代表全体完毕是需全场解除通知才返，避免把局部完成当整体结束。非全天停课、体育赛；入口还被明确排除为集合点，不能当等待理由。",
+        "answer_evidence": "isn't necessarily the last group outside",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L559",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Where should participants assemble?",
+        "response_type": "choice",
+        "audio_text": "Woman: At eleven this morning, the building will conduct a scheduled evacuation exercise. When the alarm sounds, follow the marked exit route and meet beside the far end of the sports field, not at the front entrance. Team leaders will check attendance there. Even if your group finishes early, wait for the all-clear announcement before returning; the first group counted isn't necessarily the last group outside.",
+        "options": [
+          "Directly outside the front entrance.",
+          "Inside the building's main stairwell.",
+          "Wherever their own group first finishes walking.",
+          "At the far end of the sports field."
+        ],
+        "group_id": "listen_announcement_47",
+        "passage_title": "A scheduled evacuation exercise"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问集合点；运动场远端是“far end of the sports field”\n解析：通知给固定地点供统一点名。正门明确不是；楼梯内未到室外；各组随意停处会妨碍集中核对，不能替代指定集合点。\n下次：应急演练地点题抓精确方位和被否定地点，按指令而非最近位置选择。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "地点与明确细节"
+        ],
+        "vocabulary": [
+          "attendance"
+        ],
+        "rationale": "问集合点；运动场远端是通知给固定地点供统一点名。正门明确不是；楼梯内未到室外；各组随意停处会妨碍集中核对，不能替代指定集合点。",
+        "answer_evidence": "far end of the sports field",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L560",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What do the orange buoys indicate?",
+        "response_type": "choice",
+        "audio_text": "Man: During today's beginner canoe session, stay within the area marked by orange buoys. The markers are a practice boundary, not a route to race around. If you drift beyond them, stop paddling forward and signal the instructor with your raised paddle. We'll begin with turning exercises close to shore; crossing the lake is not part of this session, even for participants who have paddled before.",
+        "options": [
+          "The limits of the practice area.",
+          "The shortest route across the lake.",
+          "A boundary that experienced participants may ignore.",
+          "A competitive course to complete as quickly as possible."
+        ],
+        "group_id": "listen_announcement_48",
+        "passage_title": "A canoe practice boundary"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问浮标作用；练习边界非赛道是“practice boundary, not a route to race around”\n解析：标出允许范围，不用于竞速或指示横渡捷径。结尾说有经验者也不横湖，故不能自行豁免边界；经验不改变本次课的限制。\n下次：标记功能题分边界与路线，核对是否对所有参与者适用。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "范围与标识"
+        ],
+        "vocabulary": [
+          "buoys"
+        ],
+        "rationale": "问浮标作用；练习边界非赛道是标出允许范围，不用于竞速或指示横渡捷径。结尾说有经验者也不横湖，故不能自行豁免边界；经验不改变本次课的限制。",
+        "answer_evidence": "practice boundary, not a route to race around",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L561",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should someone do after drifting beyond the markers?",
+        "response_type": "choice",
+        "audio_text": "Man: During today's beginner canoe session, stay within the area marked by orange buoys. The markers are a practice boundary, not a route to race around. If you drift beyond them, stop paddling forward and signal the instructor with your raised paddle. We'll begin with turning exercises close to shore; crossing the lake is not part of this session, even for participants who have paddled before.",
+        "options": [
+          "Stop moving forward and signal the instructor.",
+          "Race around the nearest buoy to rejoin the group.",
+          "Lower the paddle and wait without giving any signal.",
+          "Keep paddling toward the opposite shore."
+        ],
+        "group_id": "listen_announcement_48",
+        "passage_title": "A canoe practice boundary"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问越界动作；举桨示意是“raised paddle”\n解析：停止向前并求教练，两个动作共同落实。继续去对岸或绕标竞速扩大偏离；不发信号无法落实求助要求，不是通知指定方式。\n下次：越界处理题按停止—示意分步核对，排除继续推进的动作。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "程序与动作"
+        ],
+        "vocabulary": [
+          "paddling"
+        ],
+        "rationale": "问越界动作；举桨示意是停止向前并求教练，两个动作共同落实。继续去对岸或绕标竞速扩大偏离；不发信号无法落实求助要求，不是通知指定方式。",
+        "answer_evidence": "raised paddle",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L562",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why can't buyers take pieces away immediately?",
+        "response_type": "choice",
+        "audio_text": "Woman: If you purchase a piece from the student ceramics exhibition, please leave it on display until Sunday afternoon. Sales support the makers, but visitors should still be able to see the complete exhibition through the weekend. Staff will place a small sold label beside purchased pieces. Bring your receipt to the collection desk on Sunday after three, and we'll wrap the piece for you there.",
+        "options": [
+          "Only unsold pieces may be collected.",
+          "The makers have not agreed to sell their work.",
+          "The pieces will be fired again after the exhibition.",
+          "The complete exhibition needs to remain available to visitors."
+        ],
+        "group_id": "listen_announcement_49",
+        "passage_title": "Collecting an exhibition purchase"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问延迟取物原因；保持展览完整是“see the complete exhibition”\n解析：买卖可完成但展示持续到周末。作者愿售且收益支持他们，非不许卖；没有再次烧制；购买者周日可领取，也非仅未售品能取。\n下次：购买展品题区分付款所有权与取货时间，检查公共展示需求。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "原因与时间"
+        ],
+        "vocabulary": [
+          "ceramics"
+        ],
+        "rationale": "问延迟取物原因；保持展览完整是买卖可完成但展示持续到周末。作者愿售且收益支持他们，非不许卖；没有再次烧制；购买者周日可领取，也非仅未售品能取。",
+        "answer_evidence": "see the complete exhibition",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L563",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "How will a buyer collect a piece?",
+        "response_type": "choice",
+        "audio_text": "Woman: If you purchase a piece from the student ceramics exhibition, please leave it on display until Sunday afternoon. Sales support the makers, but visitors should still be able to see the complete exhibition through the weekend. Staff will place a small sold label beside purchased pieces. Bring your receipt to the collection desk on Sunday after three, and we'll wrap the piece for you there.",
+        "options": [
+          "Ask another visitor to wrap it during the exhibition.",
+          "Present the receipt after three on Sunday.",
+          "Collect it before the exhibition opens without a receipt.",
+          "Remove any piece carrying a sold label on Saturday."
+        ],
+        "group_id": "listen_announcement_49",
+        "passage_title": "Collecting an exhibition purchase"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问领取安排；周日三点后是“Sunday after three”\n解析：到柜台持收据，由工作人员包。已售牌表示状态，不授权周六自取；访客非包装人员；展前无凭据也不满足时点或验证要求。\n下次：取货题同时核对时间、凭证和经手人，别把售出标记当提货许可。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "条件整合"
+        ],
+        "vocabulary": [
+          "receipt"
+        ],
+        "rationale": "问领取安排；周日三点后是到柜台持收据，由工作人员包。已售牌表示状态，不授权周六自取；访客非包装人员；展前无凭据也不满足时点或验证要求。",
+        "answer_evidence": "Sunday after three",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L564",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What does the large number represent?",
+        "response_type": "choice",
+        "audio_text": "Man: The display in the engineering foyer now shows electricity generated by our rooftop panels. The large number is today's total so far, not the current rate of production. A smaller graph shows how output changes over the day. Cloud passing over the roof may cause a brief dip in that graph without indicating a fault. A technician will explain the display during the lunchtime tour.",
+        "options": [
+          "Electricity generated so far today.",
+          "The current instant-by-instant production rate.",
+          "The amount that will certainly be generated tomorrow.",
+          "The panels' total cost since installation."
+        ],
+        "group_id": "listen_announcement_50",
+        "passage_title": "A campus energy display"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问大数字含义；今日累计到现在是“today's total so far”\n解析：累计量不同于当下速率，后者更适合看随时变化曲线。不是安装成本；也不预言明日确定产量，时间范围明确只到今天当前。\n下次：仪表题给数值加时间范围和累计或速率单位，防止混读。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "数量与时间"
+        ],
+        "vocabulary": [
+          "production"
+        ],
+        "rationale": "问大数字含义；今日累计到现在是累计量不同于当下速率，后者更适合看随时变化曲线。不是安装成本；也不预言明日确定产量，时间范围明确只到今天当前。",
+        "answer_evidence": "today's total so far",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L565",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What might a brief dip in the graph mean?",
+        "response_type": "choice",
+        "audio_text": "Man: The display in the engineering foyer now shows electricity generated by our rooftop panels. The large number is today's total so far, not the current rate of production. A smaller graph shows how output changes over the day. Cloud passing over the roof may cause a brief dip in that graph without indicating a fault. A technician will explain the display during the lunchtime tour.",
+        "options": [
+          "The day's accumulated total has been erased.",
+          "A cloud temporarily reduced the incoming sunlight.",
+          "The technician has confirmed a broken panel.",
+          "The panels have permanently stopped generating."
+        ],
+        "group_id": "listen_announcement_50",
+        "passage_title": "A campus energy display"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问短暂下降可能原因；云经过屋顶是“Cloud passing over the roof”\n解析：云遮光能暂减输出，明确不必代表故障。没有技术员已确诊；瞬时曲线下降非累计记录清零；短暂波动也不证明永久停发电。\n下次：波动解释题区分暂时输入变化、设备故障与累计值变化。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "因果与范围"
+        ],
+        "vocabulary": [
+          "output"
+        ],
+        "rationale": "问短暂下降可能原因；云经过屋顶是云遮光能暂减输出，明确不必代表故障。没有技术员已确诊；瞬时曲线下降非累计记录清零；短暂波动也不证明永久停发电。",
+        "answer_evidence": "Cloud passing over the roof",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L566",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What must students do to keep their lockers?",
+        "response_type": "choice",
+        "audio_text": "Woman: A reminder for students using semester lockers in the library: keeping your books in a locker does not renew it. Please confirm your renewal through your library account by Friday. If you no longer need the locker, empty it and return the key at the desk. We will offer unrenewed lockers to students on the waiting list next Monday. You can still borrow books while waiting for a locker.",
+        "options": [
+          "Join the waiting list for a new assignment.",
+          "Return their keys before making a request.",
+          "Confirm the renewal through their library accounts.",
+          "Leave at least one borrowed book inside."
+        ],
+        "group_id": "listen_announcement_51",
+        "passage_title": "Library locker renewal"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：续用柜子需要做什么？“confirm your renewal”是确认续用申请。\n解析：网上确认才保留柜子；把书留在里面不算续期。归还钥匙是放弃柜子者的步骤；等候名单供空出的柜子分配，不是现有使用者必须重新排队。\n下次：听到续用提醒→找明确提交动作与截止日→检查物品留存是否真的算申请。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "条件与流程"
+        ],
+        "vocabulary": [
+          "renewal"
+        ],
+        "rationale": "网上确认才保留柜子；把书留在里面不算续期。归还钥匙是放弃柜子者的步骤；等候名单供空出的柜子分配，不是现有使用者必须重新排队。",
+        "answer_evidence": "confirm your renewal",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L567",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What will happen to lockers that are not renewed?",
+        "response_type": "choice",
+        "audio_text": "Woman: A reminder for students using semester lockers in the library: keeping your books in a locker does not renew it. Please confirm your renewal through your library account by Friday. If you no longer need the locker, empty it and return the key at the desk. We will offer unrenewed lockers to students on the waiting list next Monday. You can still borrow books while waiting for a locker.",
+        "options": [
+          "Their users will lose permission to borrow books.",
+          "They will be removed from the library next Friday.",
+          "They will stay reserved until all books are returned.",
+          "They will be made available to waiting students."
+        ],
+        "group_id": "listen_announcement_51",
+        "passage_title": "Library locker renewal"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问未续用柜子的安排；“next Monday”是下周一。\n解析：下周一把未续用柜子提供给等候学生。借书资格与有无柜子分开；没有等书归还后继续保留的承诺；周五是确认期限，也不是拆除柜子的日期。\n下次：听到两个日期→分别标注截止与后续处理→核对题目问的是哪一步。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "时间与后果"
+        ],
+        "vocabulary": [
+          "waiting"
+        ],
+        "rationale": "下周一把未续用柜子提供给等候学生。借书资格与有无柜子分开；没有等书归还后继续保留的承诺；周五是确认期限，也不是拆除柜子的日期。",
+        "answer_evidence": "next Monday",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L568",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why should participants use the newer handout?",
+        "response_type": "choice",
+        "audio_text": "Man: Before we begin the statistics workshop, please check the date at the bottom of your handout. Use the version dated September eighteenth. The earlier version has the same exercises, but its answer spaces are too small for today's graphs. You can exchange it at the front table. If you have already written notes on the old copy, keep it as well; only the new sheet needs to be handed in.",
+        "options": [
+          "It removes a requirement to submit their work.",
+          "It replaces exercises that contained wrong data.",
+          "It provides enough space to draw the graphs.",
+          "It includes completed graphs to copy into notes."
+        ],
+        "group_id": "listen_announcement_52",
+        "passage_title": "A revised workshop handout"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问换讲义的原因；“answer spaces are too small”指作答位置太小。\n解析：新版改善画图空间，练习本身相同。旧数据有错并未提到；新版也不是提供画好的答案；只交新纸说明提交要求仍在。\n下次：听到版本更新→区分内容变化与版面变化→用明确原因排除自行猜测。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "原因辨别"
+        ],
+        "vocabulary": [
+          "graphs"
+        ],
+        "rationale": "新版改善画图空间，练习本身相同。旧数据有错并未提到；新版也不是提供画好的答案；只交新纸说明提交要求仍在。",
+        "answer_evidence": "answer spaces are too small",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L569",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should participants do with an old handout containing notes?",
+        "response_type": "choice",
+        "audio_text": "Man: Before we begin the statistics workshop, please check the date at the bottom of your handout. Use the version dated September eighteenth. The earlier version has the same exercises, but its answer spaces are too small for today's graphs. You can exchange it at the front table. If you have already written notes on the old copy, keep it as well; only the new sheet needs to be handed in.",
+        "options": [
+          "Wait until the next workshop to exchange it.",
+          "Keep it, but submit their work on the new sheet.",
+          "Erase the notes before exchanging the copy.",
+          "Hand in both copies with matching answers."
+        ],
+        "group_id": "listen_announcement_52",
+        "passage_title": "A revised workshop handout"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问已有笔记的旧纸如何处理；“keep it as well”是也可以保留。\n解析：保留旧笔记，同时只交新纸。交两份扩大了要求；没有擦笔记的指示；前桌现在即可换，不必等下一次。\n下次：听到可以保留但只需提交→分开保存资料与交作业→检查 only 限定的对象。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "限制与行动"
+        ],
+        "vocabulary": [
+          "handout"
+        ],
+        "rationale": "保留旧笔记，同时只交新纸。交两份扩大了要求；没有擦笔记的指示；前桌现在即可换，不必等下一次。",
+        "answer_evidence": "keep it as well",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L570",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why should performers maintain their usual speaking speed?",
+        "response_type": "choice",
+        "audio_text": "Woman: The student theater's caption rehearsal starts at six tonight. Performers should use their usual speaking speed, even when the screen falls behind. The caption team needs to identify where the text changes must happen during a normal performance. We will stop between scenes to make adjustments, so please save comments until then. This session is for timing; tomorrow's rehearsal will focus on lighting and movement.",
+        "options": [
+          "So caption timing can be tested under normal conditions.",
+          "So the rehearsal can finish earlier than scheduled.",
+          "So lighting changes can be matched to faster dialogue.",
+          "So the caption team can avoid changing the text."
+        ],
+        "group_id": "listen_announcement_53",
+        "passage_title": "A rehearsal with caption timing"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问为何保持平常语速；“during a normal performance”是正常演出时。\n解析：团队要找正常语速下字幕该切换的位置，故不能为等字幕而放慢。提前结束不是所给原因；字幕仍需调整；灯光是明天的重点，也没要求加快。\n下次：听到测试要求→找测试要模拟的实际情境→检查改变行为会不会使结果失真。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "目的与推断"
+        ],
+        "vocabulary": [
+          "caption"
+        ],
+        "rationale": "团队要找正常语速下字幕该切换的位置，故不能为等字幕而放慢。提前结束不是所给原因；字幕仍需调整；灯光是明天的重点，也没要求加快。",
+        "answer_evidence": "during a normal performance",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L571",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "When should performers share their comments?",
+        "response_type": "choice",
+        "audio_text": "Woman: The student theater's caption rehearsal starts at six tonight. Performers should use their usual speaking speed, even when the screen falls behind. The caption team needs to identify where the text changes must happen during a normal performance. We will stop between scenes to make adjustments, so please save comments until then. This session is for timing; tomorrow's rehearsal will focus on lighting and movement.",
+        "options": [
+          "After tomorrow’s lighting rehearsal.",
+          "Whenever a caption appears late.",
+          "During the pauses between scenes.",
+          "Before every line of dialogue."
+        ],
+        "group_id": "listen_announcement_53",
+        "passage_title": "A rehearsal with caption timing"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问何时反馈；“between scenes”指两场戏之间。\n解析：场次间暂停时统一调整并收集意见。看到字幕落后就打断会破坏正常速度测试；不需推迟到明天；每句之前反馈也违背场间集中处理。\n下次：听到 save comments→记指定反馈窗口→别把发现问题的时刻当作发言时刻。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "行动时点"
+        ],
+        "vocabulary": [
+          "scenes"
+        ],
+        "rationale": "场次间暂停时统一调整并收集意见。看到字幕落后就打断会破坏正常速度测试；不需推迟到明天；每句之前反馈也违背场间集中处理。",
+        "answer_evidence": "between scenes",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L572",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should students do before completing the survey?",
+        "response_type": "choice",
+        "audio_text": "Man: We are trying a different temperature setting in the north reading room this week. Please complete the short survey after you have used the room for at least half an hour. Record the time of your visit, since afternoon sunlight may affect how warm it feels. This is a trial, not a permanent change. We will consider the responses alongside energy-use records before deciding whether to keep the setting.",
+        "options": [
+          "Compare temperatures in every reading room.",
+          "Visit only after the afternoon sunlight fades.",
+          "Spend at least half an hour using the room.",
+          "Check the library’s energy-use records."
+        ],
+        "group_id": "listen_announcement_54",
+        "passage_title": "A reading-room temperature survey"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问填调查前的条件；“at least half an hour”是至少半小时。\n解析：先实际使用半小时再报告感受。没有要求比较所有房间；能耗记录由决策时综合考虑，不是学生先查；下午阳光是需记录时间的原因，不是禁止下午来。\n下次：听到调查参与条件→抓体验时长→将背景解释与参加限制分开。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "明确条件"
+        ],
+        "vocabulary": [
+          "survey"
+        ],
+        "rationale": "先实际使用半小时再报告感受。没有要求比较所有房间；能耗记录由决策时综合考虑，不是学生先查；下午阳光是需记录时间的原因，不是禁止下午来。",
+        "answer_evidence": "at least half an hour",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L573",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What can be inferred about the temperature setting?",
+        "response_type": "choice",
+        "audio_text": "Man: We are trying a different temperature setting in the north reading room this week. Please complete the short survey after you have used the room for at least half an hour. Record the time of your visit, since afternoon sunlight may affect how warm it feels. This is a trial, not a permanent change. We will consider the responses alongside energy-use records before deciding whether to keep the setting.",
+        "options": [
+          "It may be changed again after the trial is evaluated.",
+          "It will remain because energy use has already fallen.",
+          "It applies permanently to all rooms in the library.",
+          "It will be chosen entirely by a student vote."
+        ],
+        "group_id": "listen_announcement_54",
+        "passage_title": "A reading-room temperature survey"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问可以推出什么；“not a permanent change”表示还不是永久改变。\n解析：试行后结合感受和能耗再决定，所以可能再改。尚无能耗已下降的结果；反馈只是依据之一，不是投票全权决定；试验地点是北阅览室，并非全馆永久实行。\n下次：听到 trial（试行）→保留尚待决定的状态→排除已确定、所有地点等过度结论。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "范围与推断"
+        ],
+        "vocabulary": [
+          "trial"
+        ],
+        "rationale": "试行后结合感受和能耗再决定，所以可能再改。尚无能耗已下降的结果；反馈只是依据之一，不是投票全权决定；试验地点是北阅览室，并非全馆永久实行。",
+        "answer_evidence": "not a permanent change",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L574",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What does a numbered card guarantee?",
+        "response_type": "choice",
+        "audio_text": "Woman: At tonight's astronomy event, please join the telescope queue only after you have collected a numbered card. The number reserves one viewing turn, but it does not give you a fixed appointment time. Clouds may cause short pauses. If you leave the area, ask a friend to listen for your number. Anyone whose number is missed should speak to the volunteer at the sign, rather than join the front of the line.",
+        "options": [
+          "A view of the sky even when clouds are present.",
+          "One viewing turn, without a fixed starting time.",
+          "Permission to return to the front whenever convenient.",
+          "A specific appointment unaffected by delays."
+        ],
+        "group_id": "listen_announcement_55",
+        "passage_title": "A shared telescope queue"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问号码卡保障什么；“does not give you a fixed appointment time”是不提供固定时刻。\n解析：卡片保留一次观测机会，云层可使进度暂停，所以没有准点保证。也不能保证有云时能看到；离开后更不能直接插到队首。\n下次：听到保留资格但不定时→分开轮次与钟点→检查天气等条件是否仍影响服务。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "承诺范围"
+        ],
+        "vocabulary": [
+          "queue"
+        ],
+        "rationale": "卡片保留一次观测机会，云层可使进度暂停，所以没有准点保证。也不能保证有云时能看到；离开后更不能直接插到队首。",
+        "answer_evidence": "does not give you a fixed appointment time",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L575",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should someone do after missing their number?",
+        "response_type": "choice",
+        "audio_text": "Woman: At tonight's astronomy event, please join the telescope queue only after you have collected a numbered card. The number reserves one viewing turn, but it does not give you a fixed appointment time. Clouds may cause short pauses. If you leave the area, ask a friend to listen for your number. Anyone whose number is missed should speak to the volunteer at the sign, rather than join the front of the line.",
+        "options": [
+          "Ask a friend to exchange numbers with them.",
+          "Consult the volunteer beside the sign.",
+          "Wait at the telescope ahead of the next visitor.",
+          "Take another card without telling anyone."
+        ],
+        "group_id": "listen_announcement_55",
+        "passage_title": "A shared telescope queue"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问错过叫号后怎么办；“speak to the volunteer”是找志愿者沟通。\n解析：指定处理人为标牌旁的志愿者。重新拿号与换号都不是所给安排；去望远镜前抢到下一位前面，正是公告要避免的行为。\n下次：听到错过流程的补救→找指定联系人→不要自行改变队列或凭证。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "补救行动"
+        ],
+        "vocabulary": [
+          "volunteer"
+        ],
+        "rationale": "指定处理人为标牌旁的志愿者。重新拿号与换号都不是所给安排；去望远镜前抢到下一位前面，正是公告要避免的行为。",
+        "answer_evidence": "speak to the volunteer",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L576",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What will staff check before using a customer’s container?",
+        "response_type": "choice",
+        "audio_text": "Man: Starting Monday, the dining hall will accept customers' reusable containers at the soup counter. Staff will first check that each container is clean and has a secure lid. They will serve the standard portion; bringing a larger box does not increase it. Containers cannot be washed at the counter because the sink is reserved for food preparation. If yours is unsuitable, you can still order soup in our usual bowl.",
+        "options": [
+          "Whether it was purchased from the dining hall.",
+          "Whether it is larger than the standard bowl.",
+          "Whether it is clean and closes securely.",
+          "Whether it has already been washed at the counter."
+        ],
+        "group_id": "listen_announcement_56",
+        "passage_title": "A reusable-container inspection"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问容器检查项目；“clean and has a secure lid”是干净且盖子能盖牢。\n解析：卫生与盖子才是条件，尺寸大并不加量。没有限定购买来源；柜台不能洗容器，因此也不是在那里洗过才合格。\n下次：听到自带物品规则→列明合格条件→排除看似合理但没有要求的来源与尺寸限制。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "条件核对"
+        ],
+        "vocabulary": [
+          "container"
+        ],
+        "rationale": "卫生与盖子才是条件，尺寸大并不加量。没有限定购买来源；柜台不能洗容器，因此也不是在那里洗过才合格。",
+        "answer_evidence": "clean and has a secure lid",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L577",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why are customers unable to wash containers at the counter?",
+        "response_type": "choice",
+        "audio_text": "Man: Starting Monday, the dining hall will accept customers' reusable containers at the soup counter. Staff will first check that each container is clean and has a secure lid. They will serve the standard portion; bringing a larger box does not increase it. Containers cannot be washed at the counter because the sink is reserved for food preparation. If yours is unsuitable, you can still order soup in our usual bowl.",
+        "options": [
+          "Only large containers require washing there.",
+          "Clean containers receive portions that are too small.",
+          "Staff have suspended all soup service on Mondays.",
+          "The sink is set aside for preparing food."
+        ],
+        "group_id": "listen_announcement_56",
+        "passage_title": "A reusable-container inspection"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问不能洗容器的原因；“reserved for food preparation”是专供备餐使用。\n解析：水槽用途受限，不能用于顾客容器清洗。并非大容器特例；周一是新安排开始，不是停餐；份量规则与水槽用途无因果关系。\n下次：听到 cannot 后的 because→连接限制与具体原因→别让相邻的份量规则干扰因果判断。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "原因与干扰"
+        ],
+        "vocabulary": [
+          "preparation"
+        ],
+        "rationale": "水槽用途受限，不能用于顾客容器清洗。并非大容器特例；周一是新安排开始，不是停餐；份量规则与水槽用途无因果关系。",
+        "answer_evidence": "reserved for food preparation",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L578",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What is the main purpose of the session?",
+        "response_type": "choice",
+        "audio_text": "Woman: Students presenting posters at next month's conference can join Friday's practice session. Bring a rough version; polished printing is unnecessary. Each presenter will explain the project to a partner from another department, who will mark terms that need clarification. We are checking whether the central idea travels beyond your field. The research methods have already been reviewed by your advisers, and they are not being assessed again here.",
+        "options": [
+          "To approve the research methods for the first time.",
+          "To test whether outsiders understand the main idea.",
+          "To select the most attractively printed poster.",
+          "To assign each presenter an adviser in another field."
+        ],
+        "group_id": "listen_announcement_57",
+        "passage_title": "A conference poster practice"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问练习的主要目的；“beyond your field”是超出本专业范围。\n解析：跨院系搭档标出听不懂的术语，检验核心思想能否让外行理解。方法已审过；草稿即可，不评印刷美观；搭档也不等于新导师。\n下次：听到搭档组成与反馈任务→推断活动检验的能力→排除已完成或明确不评的内容。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "活动目的"
+        ],
+        "vocabulary": [
+          "clarification"
+        ],
+        "rationale": "跨院系搭档标出听不懂的术语，检验核心思想能否让外行理解。方法已审过；草稿即可，不评印刷美观；搭档也不等于新导师。",
+        "answer_evidence": "beyond your field",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L579",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should participants bring?",
+        "response_type": "choice",
+        "audio_text": "Woman: Students presenting posters at next month's conference can join Friday's practice session. Bring a rough version; polished printing is unnecessary. Each presenter will explain the project to a partner from another department, who will mark terms that need clarification. We are checking whether the central idea travels beyond your field. The research methods have already been reviewed by your advisers, and they are not being assessed again here.",
+        "options": [
+          "A list of advisers from every department.",
+          "A new evaluation of their research methods.",
+          "A draft of their poster.",
+          "A professionally printed final poster."
+        ],
+        "group_id": "listen_announcement_57",
+        "passage_title": "A conference poster practice"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问带什么；“a rough version”是初稿。\n解析：带海报初稿即可，精印成品被明确排除为必需品。方法不用重评；不同院系是搭档来源，不意味着要提交全校导师名单。\n下次：听到准备要求→找最低必需物→检查“无需”是否被误当成“必须”。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "准备要求"
+        ],
+        "vocabulary": [
+          "poster"
+        ],
+        "rationale": "带海报初稿即可，精印成品被明确排除为必需品。方法不用重评；不同院系是搭档来源，不意味着要提交全校导师名单。",
+        "answer_evidence": "a rough version",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L580",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why will visitors stay outside the growing rooms?",
+        "response_type": "choice",
+        "audio_text": "Man: The greenhouse corridor will be open to visitors on Saturday, but the growing rooms will remain closed. Our current experiment compares plant growth under different humidity levels, and opening the doors would disturb those conditions. You can see the plants through the windows. A researcher will answer questions in the corridor at two. Photographs through the glass are welcome, provided you turn off the flash.",
+        "options": [
+          "To leave room for a public gardening class inside.",
+          "To avoid changing the conditions of an experiment.",
+          "Because no researcher will be available on Saturday.",
+          "Because the plants cannot tolerate being photographed."
+        ],
+        "group_id": "listen_announcement_58",
+        "passage_title": "A greenhouse observation window"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问为何不进种植室；“disturb those conditions”是干扰这些实验条件。\n解析：开门会改变湿度，破坏比较条件。允许隔玻璃拍照，并非植物完全不能拍；两点有研究者；也没安排室内公众课程。\n下次：听到实验限制→确定要控制的变量→把保护比较条件与无依据的危险或占用区分。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "实验条件与原因"
+        ],
+        "vocabulary": [
+          "humidity"
+        ],
+        "rationale": "开门会改变湿度，破坏比较条件。允许隔玻璃拍照，并非植物完全不能拍；两点有研究者；也没安排室内公众课程。",
+        "answer_evidence": "disturb those conditions",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L581",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Which activity is permitted?",
+        "response_type": "choice",
+        "audio_text": "Man: The greenhouse corridor will be open to visitors on Saturday, but the growing rooms will remain closed. Our current experiment compares plant growth under different humidity levels, and opening the doors would disturb those conditions. You can see the plants through the windows. A researcher will answer questions in the corridor at two. Photographs through the glass are welcome, provided you turn off the flash.",
+        "options": [
+          "Using flash when the plants are far from the window.",
+          "Taking photographs through the windows without flash.",
+          "Entering the growing rooms after the talk at two.",
+          "Opening a door briefly to ask a researcher a question."
+        ],
+        "group_id": "listen_announcement_58",
+        "passage_title": "A greenhouse observation window"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问允许哪种行为；“turn off the flash”是关闭闪光灯。\n解析：允许隔窗无闪光拍摄。提问在走廊，不必开门；两点活动不取消全天种植室关闭；拍摄距离也没有获得闪光许可的例外。\n下次：听到允许加条件→同时保留地点与方式→检查后续时间或距离是否真构成例外。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "许可与限制"
+        ],
+        "vocabulary": [
+          "flash"
+        ],
+        "rationale": "允许隔窗无闪光拍摄。提问在走廊，不必开门；两点活动不取消全天种植室关闭；拍摄距离也没有获得闪光许可的例外。",
+        "answer_evidence": "turn off the flash",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L582",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should a student who already responded do?",
+        "response_type": "choice",
+        "audio_text": "Woman: Some students received two invitations to our campus-travel survey this morning. Both links lead to the same form, so please complete it only once. If you already submitted a response, you can ignore the second message. We are collecting travel habits for the whole week, including days you stay home. The extra invitation resulted from a mailing-list overlap; it does not mean that we need a separate answer for each journey.",
+        "options": [
+          "Resubmit only the days they traveled to campus.",
+          "Submit a second form about a different journey.",
+          "Ignore the duplicate invitation.",
+          "Ask the office to erase the original response."
+        ],
+        "group_id": "listen_announcement_59",
+        "passage_title": "A survey link sent twice"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问已提交者如何处理第二封信；“ignore the second message”是无需理会第二条消息。\n解析：两个链接同一表格，只需一次。按另一趟行程再填会重复；无需删第一次；调查还包括居家日，不能改成只报来校日。\n下次：听到重复通知→核对是否同一任务→已完成且无需重填时保留原提交。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "条件行动"
+        ],
+        "vocabulary": [
+          "survey"
+        ],
+        "rationale": "两个链接同一表格，只需一次。按另一趟行程再填会重复；无需删第一次；调查还包括居家日，不能改成只报来校日。",
+        "answer_evidence": "ignore the second message",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L583",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "Why were two invitations sent?",
+        "response_type": "choice",
+        "audio_text": "Woman: Some students received two invitations to our campus-travel survey this morning. Both links lead to the same form, so please complete it only once. If you already submitted a response, you can ignore the second message. We are collecting travel habits for the whole week, including days you stay home. The extra invitation resulted from a mailing-list overlap; it does not mean that we need a separate answer for each journey.",
+        "options": [
+          "The project changed its questions during the morning.",
+          "Some students belonged to overlapping mailing lists.",
+          "The first survey omitted days spent at home.",
+          "The researchers need one form for every trip."
+        ],
+        "group_id": "listen_announcement_59",
+        "passage_title": "A survey link sent twice"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问重复发送原因；“a mailing-list overlap”是收件名单有重叠。\n解析：同一学生出现在重叠名单才收到两次。不是每趟一份；居家日原本就在范围内；两个链接是同一表格，没有修改问题的证据。\n下次：听到重复发送→找行政原因说明→别自动推断任务内容或次数发生变化。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "原因与范围"
+        ],
+        "vocabulary": [
+          "overlap"
+        ],
+        "rationale": "同一学生出现在重叠名单才收到两次。不是每趟一份；居家日原本就在范围内；两个链接是同一表格，没有修改问题的证据。",
+        "answer_evidence": "a mailing-list overlap",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L584",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should users expect during the quiet hour?",
+        "response_type": "choice",
+        "audio_text": "Man: The art studio is introducing a quiet hour from nine to ten on Wednesday mornings. Conversation will be kept low, and powered cutting tools will not be used during that hour. It is still a shared workspace, so we cannot promise complete silence. Anyone needing a cutting tool can book a slot after ten. The quiet hour has the same access requirements as other sessions; it is not limited to students in the art department.",
+        "options": [
+          "Complete silence and individual use of the studio.",
+          "Access restricted to students studying art.",
+          "Normal machine use but no spoken conversation.",
+          "Reduced noise, with some quiet conversation still possible."
+        ],
+        "group_id": "listen_announcement_60",
+        "passage_title": "A quiet hour at the art studio"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问安静时段实际是什么样；“cannot promise complete silence”是不保证绝对无声。\n解析：降低谈话声、停用电动切割工具，但仍是共用空间。不能推成独占且无声；机器照用与规定相反；院系限制也被明确否定。\n下次：听到 quiet（安静）→查具体降低哪些声音→不要扩大为绝对静音或独占空间。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "否定与范围"
+        ],
+        "vocabulary": [
+          "silence"
+        ],
+        "rationale": "降低谈话声、停用电动切割工具，但仍是共用空间。不能推成独占且无声；机器照用与规定相反；院系限制也被明确否定。",
+        "answer_evidence": "cannot promise complete silence",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L585",
+        "section": "listening",
+        "task_type": "listen_announcement",
+        "prompt": "What should someone who needs a powered cutting tool do?",
+        "response_type": "choice",
+        "audio_text": "Man: The art studio is introducing a quiet hour from nine to ten on Wednesday mornings. Conversation will be kept low, and powered cutting tools will not be used during that hour. It is still a shared workspace, so we cannot promise complete silence. Anyone needing a cutting tool can book a slot after ten. The quiet hour has the same access requirements as other sessions; it is not limited to students in the art department.",
+        "options": [
+          "Book a time after ten.",
+          "Wait until the quiet-hour program has ended permanently.",
+          "Request membership in the art department.",
+          "Use it quietly during the first hour."
+        ],
+        "group_id": "listen_announcement_60",
+        "passage_title": "A quiet hour at the art studio"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问需要电动切割工具者怎么办；“a slot after ten”是十点后的时段。\n解析：预订十点后即可使用。九至十点禁用这类工具，不能靠声称安静使用豁免；无需换院系，也不必等整个计划取消。\n下次：听到时段性禁用→找恢复使用的时间→检查限制只覆盖一小时还是整个项目。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "时间与替代行动"
+        ],
+        "vocabulary": [
+          "powered"
+        ],
+        "rationale": "预订十点后即可使用。九至十点禁用这类工具，不能靠声称安静使用豁免；无需换院系，也不必等整个计划取消。",
+        "answer_evidence": "a slot after ten",
+        "reviewed_on": "2026-09-27"
+      }
+    }
+  ]
+}

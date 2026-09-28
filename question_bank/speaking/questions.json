@@ -1,0 +1,2645 @@
+{
+  "section": "speaking",
+  "questions": [
+    {
+      "id": "S01",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Welcome to the learning center.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_1",
+      "passage_title": "The learning center",
+      "difficulty": "easy",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S02",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "The help desk is beside the main entrance.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_1",
+      "passage_title": "The learning center",
+      "difficulty": "easy",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S03",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "You can reserve a study room through the student portal.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_1",
+      "passage_title": "The learning center",
+      "difficulty": "medium",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S04",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Please return borrowed equipment before the center closes on Friday evening.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_1",
+      "passage_title": "The learning center",
+      "difficulty": "medium",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S05",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Students who need help with their assignments can book an appointment with a tutor.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_1",
+      "passage_title": "The learning center",
+      "difficulty": "medium",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S06",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Although the computer rooms are open late, technical support is only available until six o'clock.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_1",
+      "passage_title": "The learning center",
+      "difficulty": "hard",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S07",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Please complete the short orientation before you reserve our recording studio for the first time.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_1",
+      "passage_title": "The learning center",
+      "difficulty": "hard",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S08",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "We are studying how students learn. Where do you usually study, and what makes that place useful for you?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: We are studying how students learn. Where do you usually study, and what makes that place useful for you?",
+      "max_seconds": 45,
+      "group_id": "take_interview_1",
+      "passage_title": "Study habits",
+      "difficulty": "easy",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S09",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Think about a time when you had to learn something difficult. What did you do, and how did it help?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Think about a time when you had to learn something difficult. What did you do, and how did it help?",
+      "max_seconds": 45,
+      "group_id": "take_interview_1",
+      "passage_title": "Study habits",
+      "difficulty": "medium",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S10",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Some students study alone, while others work with classmates. Which approach do you prefer for a challenging course, and why?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Some students study alone, while others work with classmates. Which approach do you prefer for a challenging course, and why?",
+      "max_seconds": 45,
+      "group_id": "take_interview_1",
+      "passage_title": "Study habits",
+      "difficulty": "medium",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S11",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Universities are considering replacing some quiet study rooms with collaborative spaces. What effect might this have on students, and what would you recommend?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Universities are considering replacing some quiet study rooms with collaborative spaces. What effect might this have on students, and what would you recommend?",
+      "max_seconds": 45,
+      "group_id": "take_interview_1",
+      "passage_title": "Study habits",
+      "difficulty": "hard",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S12",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Welcome to the city museum.",
+      "group_id": "listen_repeat_2",
+      "passage_title": "A museum visit",
+      "max_seconds": 8,
+      "difficulty": "easy",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S13",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "The ticket desk is beside the staircase.",
+      "group_id": "listen_repeat_2",
+      "passage_title": "A museum visit",
+      "max_seconds": 8,
+      "difficulty": "easy",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S14",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Please leave large bags in the lockers near the entrance.",
+      "group_id": "listen_repeat_2",
+      "passage_title": "A museum visit",
+      "max_seconds": 10,
+      "difficulty": "medium",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S15",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "You may take photographs in most rooms, but please turn off the flash.",
+      "group_id": "listen_repeat_2",
+      "passage_title": "A museum visit",
+      "max_seconds": 10,
+      "difficulty": "medium",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S16",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "The gallery on the second floor contains objects from the earliest settlement in this region.",
+      "group_id": "listen_repeat_2",
+      "passage_title": "A museum visit",
+      "max_seconds": 12,
+      "difficulty": "medium",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S17",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "If you want a guided tour, collect your free ticket at the information desk before noon.",
+      "group_id": "listen_repeat_2",
+      "passage_title": "A museum visit",
+      "max_seconds": 12,
+      "difficulty": "hard",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S18",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Visitors attending the evening lecture may wait in the courtyard after the main exhibition closes.",
+      "group_id": "listen_repeat_2",
+      "passage_title": "A museum visit",
+      "max_seconds": 12,
+      "difficulty": "hard",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S19",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "The swimming pool opens at seven.",
+      "group_id": "listen_repeat_3",
+      "passage_title": "The recreation center",
+      "max_seconds": 8,
+      "difficulty": "easy",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S20",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Please show your card at the front desk.",
+      "group_id": "listen_repeat_3",
+      "passage_title": "The recreation center",
+      "max_seconds": 8,
+      "difficulty": "easy",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S21",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Changing rooms are available on both sides of the corridor.",
+      "group_id": "listen_repeat_3",
+      "passage_title": "The recreation center",
+      "max_seconds": 10,
+      "difficulty": "medium",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S22",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "You can borrow a locker key by leaving your membership card here.",
+      "group_id": "listen_repeat_3",
+      "passage_title": "The recreation center",
+      "max_seconds": 10,
+      "difficulty": "medium",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S23",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Before using the climbing wall for the first time, you must attend a short safety session.",
+      "group_id": "listen_repeat_3",
+      "passage_title": "The recreation center",
+      "max_seconds": 12,
+      "difficulty": "medium",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S24",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Afternoon classes use the smaller room, so please train individually in the main hall.",
+      "group_id": "listen_repeat_3",
+      "passage_title": "The recreation center",
+      "max_seconds": 12,
+      "difficulty": "hard",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S25",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Join the waiting list if your chosen class is full; we will contact you about cancellations.",
+      "group_id": "listen_repeat_3",
+      "passage_title": "The recreation center",
+      "max_seconds": 12,
+      "difficulty": "hard",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S26",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Thank you for joining our garden team.",
+      "group_id": "listen_repeat_4",
+      "passage_title": "The community garden",
+      "max_seconds": 8,
+      "difficulty": "easy",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S27",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "The tools are stored in the small shed.",
+      "group_id": "listen_repeat_4",
+      "passage_title": "The community garden",
+      "max_seconds": 8,
+      "difficulty": "easy",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S28",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Please wash the equipment before returning it to the shelves.",
+      "group_id": "listen_repeat_4",
+      "passage_title": "The community garden",
+      "max_seconds": 10,
+      "difficulty": "medium",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S29",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "New volunteers work alongside an experienced gardener while they learn the tasks.",
+      "group_id": "listen_repeat_4",
+      "passage_title": "The community garden",
+      "max_seconds": 10,
+      "difficulty": "medium",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S30",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Local schools use the beds near the gate, so leave those plants for their students.",
+      "group_id": "listen_repeat_4",
+      "passage_title": "The community garden",
+      "max_seconds": 12,
+      "difficulty": "medium",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S31",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "We collect rain from the shed roof because water is limited during the summer.",
+      "group_id": "listen_repeat_4",
+      "passage_title": "The community garden",
+      "max_seconds": 12,
+      "difficulty": "hard",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S32",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "You need no gardening experience, but please tell the coordinator about tasks you cannot do safely.",
+      "group_id": "listen_repeat_4",
+      "passage_title": "The community garden",
+      "max_seconds": 12,
+      "difficulty": "hard",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S33",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "The careers office is open today.",
+      "group_id": "listen_repeat_5",
+      "passage_title": "The careers office",
+      "max_seconds": 8,
+      "difficulty": "easy",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S34",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "You can book an appointment through our website.",
+      "group_id": "listen_repeat_5",
+      "passage_title": "The careers office",
+      "max_seconds": 8,
+      "difficulty": "easy",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S35",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Please bring a copy of your résumé to the meeting.",
+      "group_id": "listen_repeat_5",
+      "passage_title": "The careers office",
+      "max_seconds": 10,
+      "difficulty": "medium",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S36",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "The adviser asks about your interests before suggesting suitable opportunities for you.",
+      "group_id": "listen_repeat_5",
+      "passage_title": "The careers office",
+      "max_seconds": 10,
+      "difficulty": "medium",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S37",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "If you cannot attend in person, request an online appointment when you make your booking.",
+      "group_id": "listen_repeat_5",
+      "passage_title": "The careers office",
+      "max_seconds": 12,
+      "difficulty": "medium",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S38",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Our workshops prepare you for interviews, but employers make their own decisions about job offers.",
+      "group_id": "listen_repeat_5",
+      "passage_title": "The careers office",
+      "max_seconds": 12,
+      "difficulty": "hard",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S39",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Please cancel at least a day ahead so that another student can use your appointment time.",
+      "group_id": "listen_repeat_5",
+      "passage_title": "The careers office",
+      "max_seconds": 12,
+      "difficulty": "hard",
+      "skills": [
+        "听觉记忆与准确复述",
+        "意群与句法"
+      ]
+    },
+    {
+      "id": "S40",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "How do you usually travel to your classes, and what do you like about that method?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: How do you usually travel to your classes, and what do you like about that method?",
+      "group_id": "take_interview_2",
+      "passage_title": "Transport and daily routines",
+      "max_seconds": 45,
+      "difficulty": "easy",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S41",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Tell me about a time when a travel delay affected your plans. How did you respond?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Tell me about a time when a travel delay affected your plans. How did you respond?",
+      "group_id": "take_interview_2",
+      "passage_title": "Transport and daily routines",
+      "max_seconds": 45,
+      "difficulty": "medium",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S42",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Would you prefer a cheaper but longer commute or a shorter but more expensive one? Explain your choice.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Would you prefer a cheaper but longer commute or a shorter but more expensive one? Explain your choice.",
+      "group_id": "take_interview_2",
+      "passage_title": "Transport and daily routines",
+      "max_seconds": 45,
+      "difficulty": "medium",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S43",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "A university wants to reduce private car use. What policy would you recommend, and what difficulty might it face?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: A university wants to reduce private car use. What policy would you recommend, and what difficulty might it face?",
+      "group_id": "take_interview_2",
+      "passage_title": "Transport and daily routines",
+      "max_seconds": 45,
+      "difficulty": "hard",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S44",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "What digital tool do you use most often for studying, and how do you use it?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: What digital tool do you use most often for studying, and how do you use it?",
+      "group_id": "take_interview_3",
+      "passage_title": "Learning with technology",
+      "max_seconds": 45,
+      "difficulty": "easy",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S45",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Describe a time when technology failed during an important task. What did you do next?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Describe a time when technology failed during an important task. What did you do next?",
+      "group_id": "take_interview_3",
+      "passage_title": "Learning with technology",
+      "max_seconds": 45,
+      "difficulty": "medium",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S46",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Do you prefer taking notes on paper or on a device? Explain how your choice affects your learning.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Do you prefer taking notes on paper or on a device? Explain how your choice affects your learning.",
+      "group_id": "take_interview_3",
+      "passage_title": "Learning with technology",
+      "max_seconds": 45,
+      "difficulty": "medium",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S47",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Should universities require students to use a single digital learning platform? Consider a benefit and a possible drawback.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Should universities require students to use a single digital learning platform? Consider a benefit and a possible drawback.",
+      "group_id": "take_interview_3",
+      "passage_title": "Learning with technology",
+      "max_seconds": 45,
+      "difficulty": "hard",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S48",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "What kind of community activity would you enjoy joining, and why?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: What kind of community activity would you enjoy joining, and why?",
+      "group_id": "take_interview_4",
+      "passage_title": "Working with a community",
+      "max_seconds": 45,
+      "difficulty": "easy",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S49",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Tell me about a time you helped another person solve a problem. What was your role?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Tell me about a time you helped another person solve a problem. What was your role?",
+      "group_id": "take_interview_4",
+      "passage_title": "Working with a community",
+      "max_seconds": 45,
+      "difficulty": "medium",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S50",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Would you rather volunteer regularly for one organization or try several short projects? Give reasons.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Would you rather volunteer regularly for one organization or try several short projects? Give reasons.",
+      "group_id": "take_interview_4",
+      "passage_title": "Working with a community",
+      "max_seconds": 45,
+      "difficulty": "medium",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S51",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Some universities require community service for graduation. What effects might this have on students and local organizations?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Some universities require community service for graduation. What effects might this have on students and local organizations?",
+      "group_id": "take_interview_4",
+      "passage_title": "Working with a community",
+      "max_seconds": 45,
+      "difficulty": "hard",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S52",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "What do you usually do to relax after a demanding week of study?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: What do you usually do to relax after a demanding week of study?",
+      "group_id": "take_interview_5",
+      "passage_title": "Culture and leisure",
+      "max_seconds": 45,
+      "difficulty": "easy",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S53",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Describe a cultural event that made a strong impression on you. What did you take away from it?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Describe a cultural event that made a strong impression on you. What did you take away from it?",
+      "group_id": "take_interview_5",
+      "passage_title": "Culture and leisure",
+      "max_seconds": 45,
+      "difficulty": "medium",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S54",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Would you prefer to attend a live performance or watch a recording at home? Explain your preference.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Would you prefer to attend a live performance or watch a recording at home? Explain your preference.",
+      "group_id": "take_interview_5",
+      "passage_title": "Culture and leisure",
+      "max_seconds": 45,
+      "difficulty": "medium",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S55",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "A city has limited funds for cultural activities. Should it support large festivals or small neighborhood programs? Explain your recommendation.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: A city has limited funds for cultural activities. Should it support large festivals or small neighborhood programs? Explain your recommendation.",
+      "group_id": "take_interview_5",
+      "passage_title": "Culture and leisure",
+      "max_seconds": 45,
+      "difficulty": "hard",
+      "skills": [
+        "连贯表达",
+        "经历与观点发展"
+      ]
+    },
+    {
+      "id": "S56",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "The repair cafe opens at ten.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_6",
+      "passage_title": "At the neighborhood repair cafe",
+      "difficulty": "easy",
+      "skills": [
+        "短句意群",
+        "时间信息"
+      ]
+    },
+    {
+      "id": "S57",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Please place your item on this table.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_6",
+      "passage_title": "At the neighborhood repair cafe",
+      "difficulty": "easy",
+      "skills": [
+        "祈使句复述",
+        "指示信息"
+      ]
+    },
+    {
+      "id": "S58",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "A volunteer will ask how long you have owned it.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_6",
+      "passage_title": "At the neighborhood repair cafe",
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式问句记忆",
+        "完成时"
+      ]
+    },
+    {
+      "id": "S59",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Keep any loose screws in the small tray beside you.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_6",
+      "passage_title": "At the neighborhood repair cafe",
+      "difficulty": "medium",
+      "skills": [
+        "位置意群",
+        "修饰词记忆"
+      ]
+    },
+    {
+      "id": "S60",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "If a replacement part is needed, we will explain the cost before you decide.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_6",
+      "passage_title": "At the neighborhood repair cafe",
+      "difficulty": "hard",
+      "skills": [
+        "条件与先后",
+        "被动意群"
+      ]
+    },
+    {
+      "id": "S61",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "You can watch the repair, but please leave enough space for the volunteer to work.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_6",
+      "passage_title": "At the neighborhood repair cafe",
+      "difficulty": "hard",
+      "skills": [
+        "转折与不定式",
+        "长意群保持"
+      ]
+    },
+    {
+      "id": "S62",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Before you leave, check that you have collected both your item and the remaining screws.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_6",
+      "passage_title": "At the neighborhood repair cafe",
+      "difficulty": "hard",
+      "skills": [
+        "并列对象记忆",
+        "完成状态"
+      ]
+    },
+    {
+      "id": "S63",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Our studio is behind the glass door.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_7",
+      "passage_title": "Recording at the campus radio studio",
+      "difficulty": "easy",
+      "skills": [
+        "位置关系",
+        "短句重读"
+      ]
+    },
+    {
+      "id": "S64",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Hang your coat beside the control desk.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_7",
+      "passage_title": "Recording at the campus radio studio",
+      "difficulty": "easy",
+      "skills": [
+        "祈使句",
+        "相邻位置"
+      ]
+    },
+    {
+      "id": "S65",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Adjust the headphones until you can hear your partner clearly.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_7",
+      "passage_title": "Recording at the campus radio studio",
+      "difficulty": "medium",
+      "skills": [
+        "动作终点",
+        "方式副词"
+      ]
+    },
+    {
+      "id": "S66",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "The red light means that a recording is in progress.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_7",
+      "passage_title": "Recording at the campus radio studio",
+      "difficulty": "medium",
+      "skills": [
+        "内容从句",
+        "状态表达"
+      ]
+    },
+    {
+      "id": "S67",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "If you make a mistake, pause briefly and start again from the beginning of that sentence.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_7",
+      "passage_title": "Recording at the campus radio studio",
+      "difficulty": "hard",
+      "skills": [
+        "条件与并列动作",
+        "范围限定"
+      ]
+    },
+    {
+      "id": "S68",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Please keep paper away from the microphone, because even small movements can be heard on the recording.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_7",
+      "passage_title": "Recording at the campus radio studio",
+      "difficulty": "hard",
+      "skills": [
+        "原因与被动",
+        "强调信息"
+      ]
+    },
+    {
+      "id": "S69",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "When you finish, save the file with today’s date so the editor can find the correct version.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_7",
+      "passage_title": "Recording at the campus radio studio",
+      "difficulty": "hard",
+      "skills": [
+        "时间与目的",
+        "多步骤记忆"
+      ]
+    },
+    {
+      "id": "S70",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Meet beside the wooden trail sign.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_8",
+      "passage_title": "A trail restoration briefing",
+      "difficulty": "easy",
+      "skills": [
+        "地点指令",
+        "修饰语记忆"
+      ]
+    },
+    {
+      "id": "S71",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Each volunteer receives a pair of gloves.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_8",
+      "passage_title": "A trail restoration briefing",
+      "difficulty": "easy",
+      "skills": [
+        "数量与分配单位",
+        "主谓一致复述"
+      ]
+    },
+    {
+      "id": "S72",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "We will clear fallen branches from the lower path first.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_8",
+      "passage_title": "A trail restoration briefing",
+      "difficulty": "medium",
+      "skills": [
+        "动作来源",
+        "顺序与修饰"
+      ]
+    },
+    {
+      "id": "S73",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Leave the painted stones where they are along the edge.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_8",
+      "passage_title": "A trail restoration briefing",
+      "difficulty": "medium",
+      "skills": [
+        "地点从句",
+        "保留指令"
+      ]
+    },
+    {
+      "id": "S74",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "If you find a damaged sign, mark its location on the map instead of removing it.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_8",
+      "passage_title": "A trail restoration briefing",
+      "difficulty": "hard",
+      "skills": [
+        "替代动作",
+        "条件与指代"
+      ]
+    },
+    {
+      "id": "S75",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "The soil near the stream is soft, so carry the tools along the gravel path.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_8",
+      "passage_title": "A trail restoration briefing",
+      "difficulty": "hard",
+      "skills": [
+        "因果意群",
+        "位置介词"
+      ]
+    },
+    {
+      "id": "S76",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Before we leave, each team should check that all its tools have been returned to the cart.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_8",
+      "passage_title": "A trail restoration briefing",
+      "difficulty": "hard",
+      "skills": [
+        "完成被动记忆",
+        "全称范围"
+      ]
+    },
+    {
+      "id": "S77",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "The costume room is downstairs.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_9",
+      "passage_title": "Inside the theater costume room",
+      "difficulty": "easy",
+      "skills": [
+        "短句定位",
+        "系动词保持"
+      ]
+    },
+    {
+      "id": "S78",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Your name is on the green tag.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_9",
+      "passage_title": "Inside the theater costume room",
+      "difficulty": "easy",
+      "skills": [
+        "身份标记",
+        "颜色信息"
+      ]
+    },
+    {
+      "id": "S79",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Try the jacket on before you choose a matching hat.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_9",
+      "passage_title": "Inside the theater costume room",
+      "difficulty": "medium",
+      "skills": [
+        "短语动词",
+        "操作先后"
+      ]
+    },
+    {
+      "id": "S80",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Tell the assistant if a button feels loose or uncomfortable.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_9",
+      "passage_title": "Inside the theater costume room",
+      "difficulty": "medium",
+      "skills": [
+        "条件与并列描述",
+        "主谓一致保持"
+      ]
+    },
+    {
+      "id": "S81",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Some costumes look similar, so check the label inside each one before taking it to the stage.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_9",
+      "passage_title": "Inside the theater costume room",
+      "difficulty": "hard",
+      "skills": [
+        "原因与先后",
+        "数量范围"
+      ]
+    },
+    {
+      "id": "S82",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "When the rehearsal ends, hang the jacket on its original hanger rather than leaving it on a chair.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_9",
+      "passage_title": "Inside the theater costume room",
+      "difficulty": "hard",
+      "skills": [
+        "替代关系",
+        "物件回指"
+      ]
+    },
+    {
+      "id": "S83",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Please report any damage before you leave, even if you think it can be repaired easily.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_9",
+      "passage_title": "Inside the theater costume room",
+      "difficulty": "hard",
+      "skills": [
+        "让步条件",
+        "被动与范围"
+      ]
+    },
+    {
+      "id": "S84",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Bring donations to the side entrance.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_10",
+      "passage_title": "Sorting food donations",
+      "difficulty": "easy",
+      "skills": [
+        "祈使地点",
+        "复数保持"
+      ]
+    },
+    {
+      "id": "S85",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Place unopened cans in the blue crates.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_10",
+      "passage_title": "Sorting food donations",
+      "difficulty": "easy",
+      "skills": [
+        "状态修饰",
+        "分类位置"
+      ]
+    },
+    {
+      "id": "S86",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Check the date on every package before adding it to a crate.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_10",
+      "passage_title": "Sorting food donations",
+      "difficulty": "medium",
+      "skills": [
+        "顺序意群",
+        "逐一范围"
+      ]
+    },
+    {
+      "id": "S87",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Ask the coordinator about anything that has no readable label.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_10",
+      "passage_title": "Sorting food donations",
+      "difficulty": "medium",
+      "skills": [
+        "限定关系从句",
+        "否定信息"
+      ]
+    },
+    {
+      "id": "S88",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "We sort food by type rather than brand so each delivery can include a useful variety.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_10",
+      "passage_title": "Sorting food donations",
+      "difficulty": "hard",
+      "skills": [
+        "对比与目的",
+        "分配范围"
+      ]
+    },
+    {
+      "id": "S89",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "If a crate becomes too heavy, divide its contents between two smaller boxes before moving them.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_10",
+      "passage_title": "Sorting food donations",
+      "difficulty": "hard",
+      "skills": [
+        "条件与先后",
+        "数量及比较级"
+      ]
+    },
+    {
+      "id": "S90",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "At the end of your shift, record how many full crates are ready for tomorrow’s delivery.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_10",
+      "passage_title": "Sorting food donations",
+      "difficulty": "hard",
+      "skills": [
+        "嵌入式数量信息",
+        "时间范围"
+      ]
+    },
+    {
+      "id": "S91",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Our evening tour starts in this hall.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_11",
+      "passage_title": "An evening at the observatory",
+      "difficulty": "easy",
+      "skills": [
+        "起点定位",
+        "主谓一致"
+      ]
+    },
+    {
+      "id": "S92",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Leave your bags beneath the benches.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_11",
+      "passage_title": "An evening at the observatory",
+      "difficulty": "easy",
+      "skills": [
+        "空间介词",
+        "复数记忆"
+      ]
+    },
+    {
+      "id": "S93",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "A guide will explain how to adjust the viewing height.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_11",
+      "passage_title": "An evening at the observatory",
+      "difficulty": "medium",
+      "skills": [
+        "疑问词不定式",
+        "操作对象"
+      ]
+    },
+    {
+      "id": "S94",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Please wait for your turn without touching the telescope lens.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_11",
+      "passage_title": "An evening at the observatory",
+      "difficulty": "medium",
+      "skills": [
+        "否定伴随",
+        "介词后动名词"
+      ]
+    },
+    {
+      "id": "S95",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Because the sky is cloudy, we will begin with the indoor display and check conditions again later.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_11",
+      "passage_title": "An evening at the observatory",
+      "difficulty": "hard",
+      "skills": [
+        "原因与并列计划",
+        "顺序记忆"
+      ]
+    },
+    {
+      "id": "S96",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "You may take pictures of the display, but switch off your flash before entering the viewing area.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_11",
+      "passage_title": "An evening at the observatory",
+      "difficulty": "hard",
+      "skills": [
+        "许可与限制",
+        "短语动词"
+      ]
+    },
+    {
+      "id": "S97",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "If the clouds clear before we close, everyone will have another chance to look through the telescope.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_11",
+      "passage_title": "An evening at the observatory",
+      "difficulty": "hard",
+      "skills": [
+        "时间内的条件",
+        "机会范围"
+      ]
+    },
+    {
+      "id": "S98",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "The rental kiosk is beside the station.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_12",
+      "passage_title": "Using the bicycle rental kiosk",
+      "difficulty": "easy",
+      "skills": [
+        "场景定位",
+        "空间关系"
+      ]
+    },
+    {
+      "id": "S99",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Choose a helmet before selecting a bicycle.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_12",
+      "passage_title": "Using the bicycle rental kiosk",
+      "difficulty": "easy",
+      "skills": [
+        "操作先后",
+        "动名词保持"
+      ]
+    },
+    {
+      "id": "S100",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "The assistant will check the brakes while you adjust the seat.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_12",
+      "passage_title": "Using the bicycle rental kiosk",
+      "difficulty": "medium",
+      "skills": [
+        "同时动作",
+        "角色对应"
+      ]
+    },
+    {
+      "id": "S101",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Keep the receipt until the bicycle has been returned safely.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_12",
+      "passage_title": "Using the bicycle rental kiosk",
+      "difficulty": "medium",
+      "skills": [
+        "完成被动",
+        "时间终点"
+      ]
+    },
+    {
+      "id": "S102",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "If you notice a problem during the ride, stop and call the number printed on your receipt.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_12",
+      "passage_title": "Using the bicycle rental kiosk",
+      "difficulty": "hard",
+      "skills": [
+        "条件与顺序动作",
+        "分词修饰"
+      ]
+    },
+    {
+      "id": "S103",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Bicycles returned after six must be left in the marked area rather than beside the kiosk.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_12",
+      "passage_title": "Using the bicycle rental kiosk",
+      "difficulty": "hard",
+      "skills": [
+        "分词限定",
+        "被动与替代地点"
+      ]
+    },
+    {
+      "id": "S104",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Before locking the bicycle, make sure the front wheel is inside the guide painted on the ground.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_12",
+      "passage_title": "Using the bicycle rental kiosk",
+      "difficulty": "hard",
+      "skills": [
+        "时间前提",
+        "位置与分词修饰"
+      ]
+    },
+    {
+      "id": "S105",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "The seed exchange begins after lunch.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_13",
+      "passage_title": "At the neighborhood seed exchange",
+      "difficulty": "easy",
+      "skills": [
+        "开始时间",
+        "短句意群"
+      ]
+    },
+    {
+      "id": "S106",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Empty envelopes are available beside the register.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_13",
+      "passage_title": "At the neighborhood seed exchange",
+      "difficulty": "easy",
+      "skills": [
+        "物料位置",
+        "复数一致"
+      ]
+    },
+    {
+      "id": "S107",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Write the plant name on each envelope before adding seeds.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_13",
+      "passage_title": "At the neighborhood seed exchange",
+      "difficulty": "medium",
+      "skills": [
+        "顺序指令",
+        "逐个范围"
+      ]
+    },
+    {
+      "id": "S108",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Please include the year when the seeds were collected locally.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_13",
+      "passage_title": "At the neighborhood seed exchange",
+      "difficulty": "medium",
+      "skills": [
+        "时间关系从句",
+        "过去被动"
+      ]
+    },
+    {
+      "id": "S109",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "If you are unsure about a packet, ask its owner rather than guessing from the picture.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_13",
+      "passage_title": "At the neighborhood seed exchange",
+      "difficulty": "hard",
+      "skills": [
+        "替代判断",
+        "指代记忆"
+      ]
+    },
+    {
+      "id": "S110",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Take only the amount you expect to use, so there will be enough for people arriving later.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_13",
+      "passage_title": "At the neighborhood seed exchange",
+      "difficulty": "hard",
+      "skills": [
+        "限制范围",
+        "目的与分词修饰"
+      ]
+    },
+    {
+      "id": "S111",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Before taking any seeds home, make sure you also have the planting notes that came with them.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_13",
+      "passage_title": "At the neighborhood seed exchange",
+      "difficulty": "hard",
+      "skills": [
+        "附加对象",
+        "关系从句与回指"
+      ]
+    },
+    {
+      "id": "S112",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Please sit opposite the interviewer.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_14",
+      "passage_title": "Recording a neighborhood oral history",
+      "difficulty": "easy",
+      "skills": [
+        "位置指令",
+        "短句重读"
+      ]
+    },
+    {
+      "id": "S113",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "The microphone is already switched on.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_14",
+      "passage_title": "Recording a neighborhood oral history",
+      "difficulty": "easy",
+      "skills": [
+        "设备状态",
+        "时间副词"
+      ]
+    },
+    {
+      "id": "S114",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Begin by telling us how long you have lived here.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_14",
+      "passage_title": "Recording a neighborhood oral history",
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式时长",
+        "介词后动名词"
+      ]
+    },
+    {
+      "id": "S115",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "You can pause whenever you need a moment to remember.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_14",
+      "passage_title": "Recording a neighborhood oral history",
+      "difficulty": "medium",
+      "skills": [
+        "许可与时间条件",
+        "不定式目的"
+      ]
+    },
+    {
+      "id": "S116",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "If you mention a person we have not discussed, briefly explain how you knew that person.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_14",
+      "passage_title": "Recording a neighborhood oral history",
+      "difficulty": "hard",
+      "skills": [
+        "关系从句",
+        "否定完成式与回指"
+      ]
+    },
+    {
+      "id": "S117",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "We are interested in your memories, so you do not need to check every date while speaking.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_14",
+      "passage_title": "Recording a neighborhood oral history",
+      "difficulty": "hard",
+      "skills": [
+        "非必要性",
+        "时间范围"
+      ]
+    },
+    {
+      "id": "S118",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Before we share any recording, you will have a chance to review it and request changes.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_14",
+      "passage_title": "Recording a neighborhood oral history",
+      "difficulty": "hard",
+      "skills": [
+        "时间前提",
+        "并列动作记忆"
+      ]
+    },
+    {
+      "id": "S119",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "The ferry boards at pier four.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_15",
+      "passage_title": "Boarding at the harbor ferry terminal",
+      "difficulty": "easy",
+      "skills": [
+        "数字类别",
+        "地点信息"
+      ]
+    },
+    {
+      "id": "S120",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Keep your ticket ready for inspection.",
+      "max_seconds": 8,
+      "group_id": "listen_repeat_15",
+      "passage_title": "Boarding at the harbor ferry terminal",
+      "difficulty": "easy",
+      "skills": [
+        "宾语状态",
+        "目的短语"
+      ]
+    },
+    {
+      "id": "S121",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Passengers with bicycles should wait beside the ramp until called.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_15",
+      "passage_title": "Boarding at the harbor ferry terminal",
+      "difficulty": "medium",
+      "skills": [
+        "乘客范围",
+        "省略时间从句"
+      ]
+    },
+    {
+      "id": "S122",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Leave the middle seats free for passengers who need assistance.",
+      "max_seconds": 10,
+      "group_id": "listen_repeat_15",
+      "passage_title": "Boarding at the harbor ferry terminal",
+      "difficulty": "medium",
+      "skills": [
+        "宾补词义",
+        "限定关系从句"
+      ]
+    },
+    {
+      "id": "S123",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "If the upper deck becomes crowded, please use the stairs at the rear to reach the lower cabin.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_15",
+      "passage_title": "Boarding at the harbor ferry terminal",
+      "difficulty": "hard",
+      "skills": [
+        "条件路线",
+        "上下位置记忆"
+      ]
+    },
+    {
+      "id": "S124",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "The ferry will stop at two islands, so listen carefully for your destination before preparing to leave.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_15",
+      "passage_title": "Boarding at the harbor ferry terminal",
+      "difficulty": "hard",
+      "skills": [
+        "数量与因果",
+        "先后条件"
+      ]
+    },
+    {
+      "id": "S125",
+      "section": "speaking",
+      "task_type": "listen_repeat",
+      "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
+      "response_type": "recording_text",
+      "audio_text": "Please remain seated until the crew opens the gate, even if you can already see the dock.",
+      "max_seconds": 12,
+      "group_id": "listen_repeat_15",
+      "passage_title": "Boarding at the harbor ferry terminal",
+      "difficulty": "hard",
+      "skills": [
+        "时间终点与让步",
+        "状态保持"
+      ]
+    },
+    {
+      "id": "S126",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Tell me about a time when a plan changed unexpectedly. What did you do next?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Tell me about a time when a plan changed unexpectedly. What did you do next?",
+      "max_seconds": 45,
+      "group_id": "take_interview_6",
+      "passage_title": "Responding to unexpected changes",
+      "difficulty": "easy",
+      "skills": [
+        "经历叙述",
+        "变化与行动"
+      ]
+    },
+    {
+      "id": "S127",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "When something unexpected happens, do you prefer to decide quickly or take time to consider your options? Explain using an experience.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: When something unexpected happens, do you prefer to decide quickly or take time to consider your options? Explain using an experience.",
+      "max_seconds": 45,
+      "group_id": "take_interview_6",
+      "passage_title": "Responding to unexpected changes",
+      "difficulty": "medium",
+      "skills": [
+        "偏好论证",
+        "经历支持"
+      ]
+    },
+    {
+      "id": "S128",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Should schools deliberately give students tasks with uncertain outcomes, or should every task have a clearly defined result? Why?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Should schools deliberately give students tasks with uncertain outcomes, or should every task have a clearly defined result? Why?",
+      "max_seconds": 45,
+      "group_id": "take_interview_6",
+      "passage_title": "Responding to unexpected changes",
+      "difficulty": "hard",
+      "skills": [
+        "教育观点论证",
+        "概念区分"
+      ]
+    },
+    {
+      "id": "S129",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "A community center can spend extra funds on more scheduled activities or keep the money available for unexpected needs. Which approach would you recommend?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: A community center can spend extra funds on more scheduled activities or keep the money available for unexpected needs. Which approach would you recommend?",
+      "max_seconds": 45,
+      "group_id": "take_interview_6",
+      "passage_title": "Responding to unexpected changes",
+      "difficulty": "hard",
+      "skills": [
+        "资源取舍",
+        "条件与后果"
+      ]
+    },
+    {
+      "id": "S130",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Describe a practical skill you learned outside a classroom. How did you learn it?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Describe a practical skill you learned outside a classroom. How did you learn it?",
+      "max_seconds": 45,
+      "group_id": "take_interview_7",
+      "passage_title": "Learning practical skills",
+      "difficulty": "easy",
+      "skills": [
+        "过程叙述",
+        "实例细节"
+      ]
+    },
+    {
+      "id": "S131",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "When learning a practical skill, would you rather watch a demonstration or begin by trying it yourself? Explain your preference.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: When learning a practical skill, would you rather watch a demonstration or begin by trying it yourself? Explain your preference.",
+      "max_seconds": 45,
+      "group_id": "take_interview_7",
+      "passage_title": "Learning practical skills",
+      "difficulty": "medium",
+      "skills": [
+        "方法比较",
+        "实例论证"
+      ]
+    },
+    {
+      "id": "S132",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Some people think schools should teach more everyday skills, such as cooking or basic repairs. Do you agree? Why or why not?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Some people think schools should teach more everyday skills, such as cooking or basic repairs. Do you agree? Why or why not?",
+      "max_seconds": 45,
+      "group_id": "take_interview_7",
+      "passage_title": "Learning practical skills",
+      "difficulty": "hard",
+      "skills": [
+        "教育资源论证",
+        "举例与限定"
+      ]
+    },
+    {
+      "id": "S133",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "A town wants to help residents learn useful skills. Should it fund expert-led courses or informal groups where residents teach one another?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: A town wants to help residents learn useful skills. Should it fund expert-led courses or informal groups where residents teach one another?",
+      "max_seconds": 45,
+      "group_id": "take_interview_7",
+      "passage_title": "Learning practical skills",
+      "difficulty": "hard",
+      "skills": [
+        "方案比较",
+        "风险与教学责任"
+      ]
+    },
+    {
+      "id": "S134",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Tell me about a space you have shared with other people. What made it easy or difficult to use together?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Tell me about a space you have shared with other people. What made it easy or difficult to use together?",
+      "max_seconds": 45,
+      "group_id": "take_interview_8",
+      "passage_title": "Sharing everyday spaces",
+      "difficulty": "easy",
+      "skills": [
+        "经历说明",
+        "问题与具体措施"
+      ]
+    },
+    {
+      "id": "S135",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "In a shared space, do you prefer written rules or informal conversations about what people need? Give a reason and an example.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: In a shared space, do you prefer written rules or informal conversations about what people need? Give a reason and an example.",
+      "max_seconds": 45,
+      "group_id": "take_interview_8",
+      "passage_title": "Sharing everyday spaces",
+      "difficulty": "medium",
+      "skills": [
+        "规则与弹性",
+        "偏好实例"
+      ]
+    },
+    {
+      "id": "S136",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Should apartment buildings provide more shared facilities, even if this means individual apartments are smaller?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Should apartment buildings provide more shared facilities, even if this means individual apartments are smaller?",
+      "max_seconds": 45,
+      "group_id": "take_interview_8",
+      "passage_title": "Sharing everyday spaces",
+      "difficulty": "hard",
+      "skills": [
+        "空间资源取舍",
+        "条件性观点"
+      ]
+    },
+    {
+      "id": "S137",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Public libraries must serve people who need quiet and people who want to work together. What is the best way to meet both needs?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Public libraries must serve people who need quiet and people who want to work together. What is the best way to meet both needs?",
+      "max_seconds": 45,
+      "group_id": "take_interview_8",
+      "passage_title": "Sharing everyday spaces",
+      "difficulty": "hard",
+      "skills": [
+        "双需求解决",
+        "条件替代方案"
+      ]
+    },
+    {
+      "id": "S138",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Describe a local service you have used more than once. What makes you return to it?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Describe a local service you have used more than once. What makes you return to it?",
+      "max_seconds": 45,
+      "group_id": "take_interview_9",
+      "passage_title": "Using local services",
+      "difficulty": "easy",
+      "skills": [
+        "服务经历",
+        "证据支撑评价"
+      ]
+    },
+    {
+      "id": "S139",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "When choosing an unfamiliar service, do you rely more on online reviews or recommendations from people you know? Explain.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: When choosing an unfamiliar service, do you rely more on online reviews or recommendations from people you know? Explain.",
+      "max_seconds": 45,
+      "group_id": "take_interview_9",
+      "passage_title": "Using local services",
+      "difficulty": "medium",
+      "skills": [
+        "信息渠道比较",
+        "评价依据"
+      ]
+    },
+    {
+      "id": "S140",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Some local businesses offer lower prices if customers make reservations online. Is this a good approach? Why or why not?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Some local businesses offer lower prices if customers make reservations online. Is this a good approach? Why or why not?",
+      "max_seconds": 45,
+      "group_id": "take_interview_9",
+      "passage_title": "Using local services",
+      "difficulty": "hard",
+      "skills": [
+        "经营与公平",
+        "条件性支持"
+      ]
+    },
+    {
+      "id": "S141",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "A town can improve its online service portal or keep a staffed service desk open longer. Which should be the priority, and why?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: A town can improve its online service portal or keep a staffed service desk open longer. Which should be the priority, and why?",
+      "max_seconds": 45,
+      "group_id": "take_interview_9",
+      "passage_title": "Using local services",
+      "difficulty": "hard",
+      "skills": [
+        "公共服务优先级",
+        "可及性"
+      ]
+    },
+    {
+      "id": "S142",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Tell me about a time when you checked a piece of information before acting on it. What did you check, and why?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Tell me about a time when you checked a piece of information before acting on it. What did you check, and why?",
+      "max_seconds": 45,
+      "group_id": "take_interview_10",
+      "passage_title": "Judging everyday information",
+      "difficulty": "easy",
+      "skills": [
+        "核查经历",
+        "时效范围"
+      ]
+    },
+    {
+      "id": "S143",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "If two people give you conflicting advice, how do you decide which advice to follow? Use an example.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: If two people give you conflicting advice, how do you decide which advice to follow? Use an example.",
+      "max_seconds": 45,
+      "group_id": "take_interview_10",
+      "passage_title": "Judging everyday information",
+      "difficulty": "medium",
+      "skills": [
+        "条件匹配",
+        "比较证据"
+      ]
+    },
+    {
+      "id": "S144",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Should schools spend more time teaching students how to evaluate information, even if that leaves less time for memorizing facts?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Should schools spend more time teaching students how to evaluate information, even if that leaves less time for memorizing facts?",
+      "max_seconds": 45,
+      "group_id": "take_interview_10",
+      "passage_title": "Judging everyday information",
+      "difficulty": "hard",
+      "skills": [
+        "教育取舍",
+        "知识与方法联系"
+      ]
+    },
+    {
+      "id": "S145",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "News organizations sometimes must choose between publishing quickly and waiting to confirm details. Which should they prioritize?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: News organizations sometimes must choose between publishing quickly and waiting to confirm details. Which should they prioritize?",
+      "max_seconds": 45,
+      "group_id": "take_interview_10",
+      "passage_title": "Judging everyday information",
+      "difficulty": "hard",
+      "skills": [
+        "公共信息责任",
+        "不确定性边界"
+      ]
+    },
+    {
+      "id": "S146",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Describe a task you have done for a job, a volunteer role, or a family business. What did you learn from it?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Describe a task you have done for a job, a volunteer role, or a family business. What did you learn from it?",
+      "max_seconds": 45,
+      "group_id": "take_interview_11",
+      "passage_title": "Learning through part-time work",
+      "difficulty": "easy",
+      "skills": [
+        "工作经历",
+        "方法与收获"
+      ]
+    },
+    {
+      "id": "S147",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Would you prefer a part-time role with familiar tasks or one that requires learning many new things? Explain your choice.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Would you prefer a part-time role with familiar tasks or one that requires learning many new things? Explain your choice.",
+      "max_seconds": 45,
+      "group_id": "take_interview_11",
+      "passage_title": "Learning through part-time work",
+      "difficulty": "medium",
+      "skills": [
+        "职业偏好",
+        "条件与个人目标"
+      ]
+    },
+    {
+      "id": "S148",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Do you think university students should have some work experience before they graduate? Why or why not?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Do you think university students should have some work experience before they graduate? Why or why not?",
+      "max_seconds": 45,
+      "group_id": "take_interview_11",
+      "passage_title": "Learning through part-time work",
+      "difficulty": "hard",
+      "skills": [
+        "一般观点与政策区分",
+        "公平条件"
+      ]
+    },
+    {
+      "id": "S149",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "When employers hire people with little experience, should they focus more on current skills or on willingness to learn?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: When employers hire people with little experience, should they focus more on current skills or on willingness to learn?",
+      "max_seconds": 45,
+      "group_id": "take_interview_11",
+      "passage_title": "Learning through part-time work",
+      "difficulty": "hard",
+      "skills": [
+        "招聘标准比较",
+        "可观察证据"
+      ]
+    },
+    {
+      "id": "S150",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Describe something you bought that turned out to be more useful than you expected. What made it useful?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Describe something you bought that turned out to be more useful than you expected. What made it useful?",
+      "max_seconds": 45,
+      "group_id": "take_interview_12",
+      "passage_title": "Making everyday purchasing decisions",
+      "difficulty": "easy",
+      "skills": [
+        "购买经历",
+        "预期与实际比较"
+      ]
+    },
+    {
+      "id": "S151",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Before buying something you do not urgently need, do you usually research it carefully or make a quick decision? Explain with an example.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Before buying something you do not urgently need, do you usually research it carefully or make a quick decision? Explain with an example.",
+      "max_seconds": 45,
+      "group_id": "take_interview_12",
+      "passage_title": "Making everyday purchasing decisions",
+      "difficulty": "medium",
+      "skills": [
+        "决策过程",
+        "信息筛选"
+      ]
+    },
+    {
+      "id": "S152",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Should stores encourage customers to buy larger quantities at a lower price per item? Why or why not?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Should stores encourage customers to buy larger quantities at a lower price per item? Why or why not?",
+      "max_seconds": 45,
+      "group_id": "take_interview_12",
+      "passage_title": "Making everyday purchasing decisions",
+      "difficulty": "hard",
+      "skills": [
+        "成本概念区分",
+        "消费者差异"
+      ]
+    },
+    {
+      "id": "S153",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "A city wants to reduce the amount of rarely used equipment that residents buy. Should it support lending centers, or should it focus on educating people to buy less?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: A city wants to reduce the amount of rarely used equipment that residents buy. Should it support lending centers, or should it focus on educating people to buy less?",
+      "max_seconds": 45,
+      "group_id": "take_interview_12",
+      "passage_title": "Making everyday purchasing decisions",
+      "difficulty": "hard",
+      "skills": [
+        "政策工具比较",
+        "替代方案"
+      ]
+    },
+    {
+      "id": "S154",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Describe an outdoor place you visit when you need a break. What do you usually do there?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Describe an outdoor place you visit when you need a break. What do you usually do there?",
+      "max_seconds": 45,
+      "group_id": "take_interview_13",
+      "passage_title": "Using outdoor public spaces",
+      "difficulty": "easy",
+      "skills": [
+        "日常经历",
+        "活动与作用"
+      ]
+    },
+    {
+      "id": "S155",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Would you rather spend free time in a busy park with many activities or in a quiet natural area? Explain your preference.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Would you rather spend free time in a busy park with many activities or in a quiet natural area? Explain your preference.",
+      "max_seconds": 45,
+      "group_id": "take_interview_13",
+      "passage_title": "Using outdoor public spaces",
+      "difficulty": "medium",
+      "skills": [
+        "环境偏好",
+        "情境限定"
+      ]
+    },
+    {
+      "id": "S156",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Should cities give up some parking spaces to create more small parks? Why or why not?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Should cities give up some parking spaces to create more small parks? Why or why not?",
+      "max_seconds": 45,
+      "group_id": "take_interview_13",
+      "passage_title": "Using outdoor public spaces",
+      "difficulty": "hard",
+      "skills": [
+        "城市空间取舍",
+        "不同人群需求"
+      ]
+    },
+    {
+      "id": "S157",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "A public park has limited funds. Should it add new attractions or maintain existing paths, benches, and toilets first?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: A public park has limited funds. Should it add new attractions or maintain existing paths, benches, and toilets first?",
+      "max_seconds": 45,
+      "group_id": "take_interview_13",
+      "passage_title": "Using outdoor public spaces",
+      "difficulty": "hard",
+      "skills": [
+        "公共资源排序",
+        "具体受益者"
+      ]
+    },
+    {
+      "id": "S158",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Tell me about a time when someone's feedback helped you improve something. What changed after you received it?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Tell me about a time when someone's feedback helped you improve something. What changed after you received it?",
+      "max_seconds": 45,
+      "group_id": "take_interview_14",
+      "passage_title": "Giving and receiving useful feedback",
+      "difficulty": "easy",
+      "skills": [
+        "反馈经历",
+        "修改与效果"
+      ]
+    },
+    {
+      "id": "S159",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "When asking for feedback, do you prefer general impressions or detailed comments on specific parts? Explain with an example.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: When asking for feedback, do you prefer general impressions or detailed comments on specific parts? Explain with an example.",
+      "max_seconds": 45,
+      "group_id": "take_interview_14",
+      "passage_title": "Giving and receiving useful feedback",
+      "difficulty": "medium",
+      "skills": [
+        "反馈类型比较",
+        "阶段性需求"
+      ]
+    },
+    {
+      "id": "S160",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Should teachers allow students to revise work after receiving a grade? Why or why not?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Should teachers allow students to revise work after receiving a grade? Why or why not?",
+      "max_seconds": 45,
+      "group_id": "take_interview_14",
+      "passage_title": "Giving and receiving useful feedback",
+      "difficulty": "hard",
+      "skills": [
+        "教育政策论证",
+        "机会与公平"
+      ]
+    },
+    {
+      "id": "S161",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "In a workplace, is it better for a manager to correct mistakes privately or discuss them with the whole team? Explain your view.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: In a workplace, is it better for a manager to correct mistakes privately or discuss them with the whole team? Explain your view.",
+      "max_seconds": 45,
+      "group_id": "take_interview_14",
+      "passage_title": "Giving and receiving useful feedback",
+      "difficulty": "hard",
+      "skills": [
+        "职场沟通",
+        "个人与团队边界"
+      ]
+    },
+    {
+      "id": "S162",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Describe an object you have kept for a long time. Why have you kept it?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Describe an object you have kept for a long time. Why have you kept it?",
+      "max_seconds": 45,
+      "group_id": "take_interview_15",
+      "passage_title": "Repairing, keeping, and replacing possessions",
+      "difficulty": "easy",
+      "skills": [
+        "物品经历",
+        "实用与情感理由"
+      ]
+    },
+    {
+      "id": "S163",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "When an everyday object breaks, how do you decide whether to repair it or replace it? Use an example.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: When an everyday object breaks, how do you decide whether to repair it or replace it? Use an example.",
+      "max_seconds": 45,
+      "group_id": "take_interview_15",
+      "passage_title": "Repairing, keeping, and replacing possessions",
+      "difficulty": "medium",
+      "skills": [
+        "决策标准",
+        "条件比较"
+      ]
+    },
+    {
+      "id": "S164",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "Should manufacturers design products that are easier to repair, even if the products cost more at first?",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: Should manufacturers design products that are easier to repair, even if the products cost more at first?",
+      "max_seconds": 45,
+      "group_id": "take_interview_15",
+      "passage_title": "Repairing, keeping, and replacing possessions",
+      "difficulty": "hard",
+      "skills": [
+        "生命周期取舍",
+        "声明与实际条件"
+      ]
+    },
+    {
+      "id": "S165",
+      "section": "speaking",
+      "task_type": "take_interview",
+      "prompt": "A community wants to reduce waste from unwanted possessions. Would you recommend repair events, secondhand exchanges, or another approach? Explain your recommendation.",
+      "response_type": "recording_text",
+      "audio_text": "Interviewer: A community wants to reduce waste from unwanted possessions. Would you recommend repair events, secondhand exchanges, or another approach? Explain your recommendation.",
+      "max_seconds": 45,
+      "group_id": "take_interview_15",
+      "passage_title": "Repairing, keeping, and replacing possessions",
+      "difficulty": "hard",
+      "skills": [
+        "社区方案设计",
+        "问题分类"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1379 @@
+{
+  "S01": {
+    "type": "repeat",
+    "reference": "Welcome to the learning center.",
+    "keywords": [
+      "welcome",
+      "to",
+      "the",
+      "learning",
+      "center"
+    ],
+    "explanation": "读懂：欢迎来到学习中心。这是一句接待用语，不是在询问学习情况。\n解析：Welcome to 是“欢迎来到”，the learning center 是“这个学习中心”。容易漏的是 to 和 the：前者连接欢迎与目的地，后者属于所指的中心；learning 修饰 center，不要按中文倒成 center learning。复述要保留听到的原话，不自行加介绍。\n下次：听时记两块“Welcome to／the learning center”，在心里按欢迎动作和地点顺序存住，提示开始后连成一句说出；复盘时专门核对两个短小功能词是否遗漏。"
+  },
+  "S02": {
+    "type": "repeat",
+    "reference": "The help desk is beside the main entrance.",
+    "keywords": [
+      "the",
+      "help",
+      "desk",
+      "is",
+      "beside",
+      "the",
+      "main",
+      "entrance"
+    ],
+    "explanation": "读懂：服务台在主入口旁边，听众可以据此找到求助地点。\n解析：The help desk 是“服务台”，is beside 是“在……旁边”，the main entrance 是“主入口”。beside 不能记成 inside（在里面），否则地点改变；也别只说 help desk beside entrance 而丢掉 is 和两个 the。main 说明主要的入口，不能省成任意入口。\n下次：听时画出“服务台—旁边—主入口”的位置关系，再记三段原词。复述时先说地点主角，再说 is beside，最后补完整入口名称，而不是看图用自己的话改写。"
+  },
+  "S03": {
+    "type": "repeat",
+    "reference": "You can reserve a study room through the student portal.",
+    "keywords": [
+      "you",
+      "can",
+      "reserve",
+      "a",
+      "study",
+      "room",
+      "through",
+      "the",
+      "student",
+      "portal"
+    ],
+    "explanation": "读懂：你可以通过学生门户网站预订一间自习室，说明能做什么以及办理途径。\n解析：can reserve 是“可以预订”，a study room 是“一间自习室”，through the student portal 是“通过学生门户”。can 不能漏成已经预订，through 也不能换成 in 而改变途径表达；room 前是 a，portal 前是 the，听时要一起带住。\n下次：按“谁能做—订什么—通过哪里”分三块听记。先在脑中依序回放，再一次复述完整句；若忘了尾部，复盘时单练 through 与门户名称的连接，而非只背几个名词。"
+  },
+  "S04": {
+    "type": "repeat",
+    "reference": "Please return borrowed equipment before the center closes on Friday evening.",
+    "keywords": [
+      "please",
+      "return",
+      "borrowed",
+      "equipment",
+      "before",
+      "the",
+      "center",
+      "closes",
+      "on",
+      "friday",
+      "evening"
+    ],
+    "explanation": "读懂：请在周五晚上中心关门前归还借用的设备，重点是归还对象和截止时间。\n解析：return borrowed equipment 是“归还借来的设备”，before the center closes 是“中心关门之前”，on Friday evening 限定哪天晚上。before 不能听成 after；borrowed 是借来的，不是要求再去借。equipment 前原句没有 a，不要自行添入。\n下次：听时抓“归还—设备—关门前—周五晚”，再用原句词序回放。复述保留开头 Please，以及 before、on 两个连接时间的小词，避免只记住 Friday 而丢掉晚上。"
+  },
+  "S05": {
+    "type": "repeat",
+    "reference": "Students who need help with their assignments can book an appointment with a tutor.",
+    "keywords": [
+      "students",
+      "who",
+      "need",
+      "help",
+      "with",
+      "their",
+      "assignments",
+      "can",
+      "book",
+      "an",
+      "appointment",
+      "with",
+      "a",
+      "tutor"
+    ],
+    "explanation": "读懂：作业需要帮助的学生可以预约导师辅导；并不是所有学生都被要求预约。\n解析：who need help with their assignments 说明哪类学生，can book an appointment 是“可以预约”，with a tutor 是“和导师”。两个 with 作用不同：先说在哪方面需帮助，后说向谁预约。别在长段之后忘了主线 Students can book，也不要把 can 改成 must。\n下次：听时先记“学生—可预约导师”，再夹入“作业需帮助的”限制。按三段原词顺序复述，重点回听 appointment 前的 an 和 tutor 前的 a，不凭中文删掉它们。"
+  },
+  "S06": {
+    "type": "repeat",
+    "reference": "Although the computer rooms are open late, technical support is only available until six o'clock.",
+    "keywords": [
+      "although",
+      "the",
+      "computer",
+      "rooms",
+      "are",
+      "open",
+      "late,",
+      "technical",
+      "support",
+      "is",
+      "only",
+      "available",
+      "until",
+      "six",
+      "o'clock"
+    ],
+    "explanation": "读懂：虽然机房开到很晚，但技术支持只提供到六点；机房开放时间与有人帮忙的时间不同。\n解析：Although 引出“虽然”，are open late 是“开到很晚”，only available until six o'clock 是“只到六点还能获得”。不能丢掉 only 或将 until 听成 after，否则会把支持时段说反。原句没有 but，不要按中文“虽然……但是……”另加一个。\n下次：听时记对照：“机房晚关／支持六点止”，再保留各段原词。先回放 Although 的前半句，再接 technical support（技术支持）这一主角，别把两种时间混为一个。"
+  },
+  "S07": {
+    "type": "repeat",
+    "reference": "Please complete the short orientation before you reserve our recording studio for the first time.",
+    "keywords": [
+      "please",
+      "complete",
+      "the",
+      "short",
+      "orientation",
+      "before",
+      "you",
+      "reserve",
+      "our",
+      "recording",
+      "studio",
+      "for",
+      "the",
+      "first",
+      "time"
+    ],
+    "explanation": "读懂：首次预订我们的录音室之前，请先完成简短的入门指导，先后顺序不能反。\n解析：complete the short orientation 是“完成简短介绍培训”，before you reserve 是“在你预订之前”，for the first time 是“第一次”。orientation 在这里不是方向；our recording studio 是“我们的录音室”。before 不能漏，否则先培训的条件不见了；first 也不是每一次的意思。\n下次：听时按“先完成指导—再首次预订”理解，记原句的请求、before 段和 first time 结尾。复述仍按听到的顺序，不把它改述成操作步骤清单。"
+  },
+  "S08": {
+    "type": "subjective",
+    "keywords": [
+      "study",
+      "place",
+      "because"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：调查者问你平时在哪里学习，以及那个地方为什么对你有帮助；地点和作用都要回答。\n解析：参考思路要求熟悉的地点加具体好处，不限定必须去图书馆。只说“那里很好”缺少解释。可以说图书馆安静，便于读长文章；也可选家里的书桌，说明资料方便取用。usually study 指日常习惯，不是梦想中的地点。\n下次：按“常去哪里→一个有用特点→它怎样帮助一项学习任务”组织。选你能讲清楚的真实细节，例如关门后房间安静，因此能集中做阅读，别花大半时间介绍建筑外观。",
+    "reference": "Describe a familiar place and explain how it supports your study routine."
+  },
+  "S09": {
+    "type": "subjective",
+    "keywords": [
+      "learn",
+      "practice",
+      "help"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：回想一次学习困难内容的经历，说你采取了什么办法，以及办法如何帮到你。\n解析：参考结构是经历、行动、效果，不是罗列“要努力、要练习”的道理。可以讲听不懂一段讲座，拆成短段反复听，后来能跟上要点；其他学科也可以。how did it help 要说明行动与进步的联系，不能只讲困难。\n下次：先选一个小难点，再用“起初卡在哪里→具体做了什么→因此哪方面变好”三步回答。结果可有限，例如仍有生词但能抓住主旨，不必编造一次练习就完全精通。",
+    "reference": "Give a specific experience, describe your action, and explain the result."
+  },
+  "S10": {
+    "type": "subjective",
+    "keywords": [
+      "study",
+      "classmates",
+      "prefer"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：面对较难的课程，你更喜欢独自学习还是与同学合作？必须解释选择，不只泛谈学习重要。\n解析：参考要求选择、理由和例子，没有规定哪种方式更好。独学可强调按自己的速度补基础；合作可强调互相解释卡住的步骤。challenging course 是“有难度的课”，理由应与处理难题有关，而不是只说朋友有趣。\n下次：用“我倾向哪种→为什么对这门难课有用→一个具体情境”展开。若说先独学再讨论，也先明确主要偏好，并解释顺序；别两边各夸一句却不回答 prefer。",
+    "reference": "Choose an approach and explain its value for a demanding course with an example."
+  },
+  "S11": {
+    "type": "subjective",
+    "keywords": [
+      "students",
+      "spaces",
+      "quiet"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：学校拟把部分安静自习室改为合作空间，问这会怎样影响学生，以及你建议怎么办。\n解析：参考提示兼顾不同需要，不强制支持或反对改造。可指出小组讨论更方便，却减少独立阅读的安静席位，再建议保留一定静区。some 是“部分”，不要夸成取消所有自习室。只表达个人喜好而不谈学生影响会漏题。\n下次：按“一个受益群体→一个可能受影响群体→与两者相关的建议”作答，例如分区并预约讨论室。建议要解释如何缓解所说问题，不必堆砌题目中的关键词。",
+    "reference": "Consider different study needs, predict an effect, and justify a recommendation."
+  },
+  "S12": {
+    "type": "repeat",
+    "reference": "Welcome to the city museum.",
+    "explanation": "读懂：欢迎来到城市博物馆，是参观开始时对来宾的欢迎。\n解析：Welcome to 后直接接目的地 the city museum。city 在这里修饰 museum，意思是城市博物馆，不是先去城市再去另一处；to 不能漏，也不要凭熟悉的表达把 museum 换成 center。短句容易因觉得简单而漏掉 the。\n下次：听时先确定本段场景是博物馆，再记“Welcome to／the city museum”两块。提示后一次复述原句；回听时对照目的地是否准确，不增加“欢迎大家”等原句没有的词。"
+  },
+  "S13": {
+    "type": "repeat",
+    "reference": "The ticket desk is beside the staircase.",
+    "explanation": "读懂：售票台在楼梯旁边，是告诉参观者去哪里买票。\n解析：The ticket desk 是“售票台”，is beside the staircase 是“在楼梯旁”。ticket 不能听记成上一场景的 help；beside 表示旁边，不是楼梯上或后面。is 连起物品与位置，desk 与 staircase 前的 the 都属于原话，不宜只复述名词。\n下次：听时想象售票台与楼梯并排，将“售票台／在旁边／楼梯”按原词储存。复述先说 desk 的完整名称，再接 is beside，最后说 staircase，不调换定位对象。"
+  },
+  "S14": {
+    "type": "repeat",
+    "reference": "Please leave large bags in the lockers near the entrance.",
+    "explanation": "读懂：请把大包存放在入口附近的储物柜里；包在柜内，柜子在入口附近。\n解析：leave large bags 是“留下或存放大包”，in the lockers 是“在储物柜内”，near the entrance 是“靠近入口”。in 与 near 分别描述两层位置，不能交换成把包放在入口里。large 限定大包，原句没有要求所有随身物品都留下。\n下次：听时按“放什么—放哪里—柜子在哪”分块，脑中保存两层位置。复述从 Please leave 开始，连出 in 再连 near；复盘重点核对两个介词及 lockers 的复数。"
+  },
+  "S15": {
+    "type": "repeat",
+    "reference": "You may take photographs in most rooms, but please turn off the flash.",
+    "explanation": "读懂：大多数展厅允许拍照，但请关闭闪光灯；许可带有限制，不是全面禁止拍照。\n解析：may take photographs 是“可以拍照”，in most rooms 是“在大多数房间”，but 引出 turn off the flash（关闭闪光灯）。most 不能改为 all；off 若记成 on 就把要求说反。后半段有 please，表示礼貌提醒，不要只留下 flash 一个词。\n下次：听时把“允许拍照”和“关闭闪光”对照记住，先回放许可范围，再回放 but 后的限制。复述保持原词序，特别检查 most、but、off 三个决定意思的小词。"
+  },
+  "S16": {
+    "type": "repeat",
+    "reference": "The gallery on the second floor contains objects from the earliest settlement in this region.",
+    "explanation": "读懂：二层展厅收藏了这个地区最早聚落的物件，说明展厅位置及展品来源。\n解析：on the second floor 是“在二层”，contains objects 是“收藏物件”，from the earliest settlement 是“来自最早聚落”。in this region 限定聚落所在地区，不能改说最早的展厅。on、from、in 依次承担位置、来源、范围，不可随意省略。\n下次：听时沿“展厅—楼层—展品—来源—地区”记忆。先在心里抓主线 gallery contains objects，再将楼层与来源按原位置填回，复述末尾别丢掉 this region。"
+  },
+  "S17": {
+    "type": "repeat",
+    "reference": "If you want a guided tour, collect your free ticket at the information desk before noon.",
+    "explanation": "读懂：如果想参加导览，请在中午前到咨询台领取免费票，既有条件也有领票地点与时限。\n解析：a guided tour 是“有人带领讲解的参观”，collect your free ticket 是“领取你的免费票”，at the information desk 是“在咨询台”。before noon 表示中午以前，不是中午以后。If 不能丢，否则条件性的说明变成所有人都要领票。\n下次：听时记“想导览—领免费票—咨询台—中午前”四块，再按原句复述。留意 free 不是 fee（费用），回听时把票的性质与最后的时间一起核对。"
+  },
+  "S18": {
+    "type": "repeat",
+    "reference": "Visitors attending the evening lecture may wait in the courtyard after the main exhibition closes.",
+    "explanation": "读懂：参加晚间讲座的访客可以在主要展览结束后到庭院等候；不是所有参观者必须留下。\n解析：attending the evening lecture 限定哪些访客，may wait 是“可以等候”，in the courtyard 是“在庭院”，after the main exhibition closes 是“主展览关闭后”。after 不能换成 before，也不能把 exhibition 的关闭误连到 lecture 上。\n下次：听时先记“讲座访客—可在庭院等”，再补关闭后的时间段。按“哪类人／允许做什么／在哪里／何时”原顺序回放，再完整复述，别将 may 改成 must。"
+  },
+  "S19": {
+    "type": "repeat",
+    "reference": "The swimming pool opens at seven.",
+    "explanation": "读懂：游泳池七点开放；原句只说七点，没有明确说上午还是下午，不必自行补充。\n解析：The swimming pool 是“游泳池”，opens 是“开放”，at seven 是“在七点”。不是 swimmers（游泳的人）开放；也不能把 opens 记成 closes 而把时间意义倒过来。at 用于这一具体时刻，漏了它就只剩零散的时间词。\n下次：听时记“哪处设施—做什么—几点”三块，再用原词顺序连起来复述。复盘专听 opens 的词尾和 at 的连接，但不要凭文字转写结果断言自己的发音是否准确。"
+  },
+  "S20": {
+    "type": "repeat",
+    "reference": "Please show your card at the front desk.",
+    "explanation": "读懂：请在前台出示你的卡，要求的是出示，不是交还或购买一张卡。\n解析：show your card 是“出示你的卡”，at the front desk 是“在前台”。your 指自己的卡，不要换成 a 而变成任意一张；front desk 是一个地点名称，不能倒成 desk front。Please 是礼貌请求的一部分，也应保留。\n下次：听时先存“出示什么”，再存“在哪里出示”，完整记成 Please／show your card／at the front desk。复述后对照 show 与 your，避免只记住 card 和 desk 两个名词。"
+  },
+  "S21": {
+    "type": "repeat",
+    "reference": "Changing rooms are available on both sides of the corridor.",
+    "explanation": "读懂：走廊两侧都有可使用的更衣室，不是只有一侧，也不是房间正在搬动。\n解析：Changing rooms 是“更衣室”，are available 表示“可用”，on both sides of the corridor 是“在走廊两边”。both 必须带住两侧含义，sides 后的 of 把两边与走廊连起来；别把 changing 单独理解成正在改变。\n下次：听时画出走廊两边的更衣室，按“设施—可用—双侧位置”记原词。复述将 on both sides of 连成一块，最后接 the corridor，避免在长位置短语中漏掉 of。"
+  },
+  "S22": {
+    "type": "repeat",
+    "reference": "You can borrow a locker key by leaving your membership card here.",
+    "explanation": "读懂：把会员卡留在这里，就可以借一把储物柜钥匙；要留的是卡，借走的是钥匙。\n解析：borrow a locker key 是“借柜钥匙”，by leaving your membership card here 是“通过把会员卡留在这里”。by 引出办理方式，不能换成 before 而只说时间。membership card 是会员卡，不要与 locker key 交换角色；here 说明卡留在哪里。\n下次：听时同时记“拿走钥匙／留下卡”两件事，先默念 can borrow，再连接 by leaving 的方式段。复述保留 a、your 和 here，使对象及地点完整。"
+  },
+  "S23": {
+    "type": "repeat",
+    "reference": "Before using the climbing wall for the first time, you must attend a short safety session.",
+    "explanation": "读懂：第一次使用攀岩墙前，必须先参加一场简短的安全培训，不是可有可无的建议。\n解析：Before using the climbing wall 是“用攀岩墙之前”，for the first time 限定首次使用，must attend 是“必须参加”，a short safety session 是“短时安全课”。不能丢掉 must，或把 before 改成 after；first time 也不是每次都必须的意思。\n下次：听时按“首次攀岩前／必须参加／安全培训”记住顺序与强制要求。先在心里回放长的时间段，再复述主句；重点核对 for the first time 没有挪成第一次参加培训。"
+  },
+  "S24": {
+    "type": "repeat",
+    "reference": "Afternoon classes use the smaller room, so please train individually in the main hall.",
+    "explanation": "读懂：下午的课程占用较小的房间，所以个人训练请到主厅进行，课程和个人训练地点不同。\n解析：Afternoon classes use the smaller room 说明占用原因，so 表示“因此”，train individually 是“个人单独训练”，in the main hall 指主厅。不要把 smaller 记成 main，使两个场地对调；individually 也不能省成集体课同去主厅。\n下次：听时先抓“小房间上课→主厅个人练习”的安排，再记两段原话。复述到 so 时回想前因后果，别另加转折词 but，结尾保留 main hall 的完整地点。"
+  },
+  "S25": {
+    "type": "repeat",
+    "reference": "Join the waiting list if your chosen class is full; we will contact you about cancellations.",
+    "explanation": "读懂：选中的课满员时可以加入候补名单；若有取消预约的情况，工作人员会联系你。\n解析：Join the waiting list 是“加入候补名单”，if your chosen class is full 是加入的条件，contact you about cancellations 是“就取消预约的情况联系你”。full 不是已取消，cancellations 也不是保证整门课取消。if 和 will 分别管条件与后续联系，不可漏成保证立刻入班。\n下次：听时分成“满员→候补／有取消→联系”两段保存，再按原句先指令后条件的顺序复述。回听核对 waiting list 与 cancellations，别把候补误说成已获名额。"
+  },
+  "S26": {
+    "type": "repeat",
+    "reference": "Thank you for joining our garden team.",
+    "explanation": "读懂：感谢你加入我们的园艺团队，表达的是对已经加入这件事的感谢。\n解析：Thank you for 是“因……感谢你”，joining our garden team 是“加入我们的园艺团队”。for 后这里接 joining，不能只记 join；our 表示本团队，不要换成 your。garden 修饰 team，是园艺团队，并非感谢加入一个花园地点。\n下次：听时把“感谢／加入／我们的团队”对应到两块 Thank you for 和 joining our garden team，在心里连读一遍后复述。核对 for、joining、our，避免将感谢改成欢迎或邀请。"
+  },
+  "S27": {
+    "type": "repeat",
+    "reference": "The tools are stored in the small shed.",
+    "explanation": "读懂：工具存放在小棚屋里，告诉志愿者去哪里找到工具。\n解析：The tools are stored 表示“工具被存放”，in the small shed 是“在小棚屋内”。are stored 要一起记，不能只剩 tools stored；shed 是棚屋，不是 shelf（架子）。small 限定是哪座棚屋，in 表示内部，不能改成旁边或屋顶。\n下次：听时想象“工具—存放—小棚屋内”，按这三块记原话。复述到 are stored 不停在一个过去词上，连到 in 的位置段；回听检查 tools 的复数和 small 没有被省略。"
+  },
+  "S28": {
+    "type": "repeat",
+    "reference": "Please wash the equipment before returning it to the shelves.",
+    "explanation": "读懂：请先清洗器具，再把它们放回架上；归还前清洗是动作顺序的关键。\n解析：wash the equipment 是“清洗器具”，before returning it 是“归还它之前”，to the shelves 是“回到架上”。it 指前面的 equipment，原句按一个总称处理，别自行改成 them。before 不能换成 after；to 表示归还的去处，不是清洗的位置。\n下次：听时记“先洗—后归架”，但复述仍用原来的 before 连接法。先回放 Please wash，再接 before returning it，最后补 shelves，注意不因句长漏掉 it。"
+  },
+  "S29": {
+    "type": "repeat",
+    "reference": "New volunteers work alongside an experienced gardener while they learn the tasks.",
+    "explanation": "读懂：新志愿者在学习工作任务时，与有经验的园丁一起做事，并不是独自摸索。\n解析：work alongside 是“在旁一起工作”，an experienced gardener 是“一位有经验的园丁”，while they learn the tasks 是“在他们学习任务期间”。while 表示同时，不是学完以后；they 指新志愿者，不能误记成园丁们。\n下次：听时先抓“新人跟着熟手做”，再记“边做边学”的 while 段。复述按 volunteers、work alongside、gardener、while 的原顺序展开，核对 experienced 前的 an 与句尾 tasks 都在。"
+  },
+  "S30": {
+    "type": "repeat",
+    "reference": "Local schools use the beds near the gate, so leave those plants for their students.",
+    "explanation": "读懂：本地学校使用靠近大门的种植畦，所以这些植物要留给那些学校的学生处理。\n解析：beds 在花园场景是“种植畦”，不是睡床；near the gate 是“靠门”，leave those plants for their students 是“把那些植物留给他们的学生”。so 连接安排的原因与要求，for 说明留给谁；their 指学校，不是志愿者自己。\n下次：听时按“学校用门口种植区→植物留给学生”理解，再记完整原词。复述别把 near 换成 inside，也别把 those plants 泛化成花园全部植物；结尾保留 for their students。"
+  },
+  "S31": {
+    "type": "repeat",
+    "reference": "We collect rain from the shed roof because water is limited during the summer.",
+    "explanation": "读懂：夏季水源有限，所以团队收集从棚屋屋顶流下的雨水；说明做法及节水原因。\n解析：collect rain from the shed roof 是“从棚屋屋顶收集雨水”，because water is limited 是“因为水量有限”，during the summer 是“夏季期间”。from 指收集来源，不是把水放到屋顶；because 不能漏成两句毫无关系的陈述。\n下次：听时把“收集雨水／屋顶来源／夏季缺水”串成因果，再按先做法后原因的词序复述。回听区别 shed 与 roof：是棚屋的屋顶，不是两个收集地点。"
+  },
+  "S32": {
+    "type": "repeat",
+    "reference": "You need no gardening experience, but please tell the coordinator about tasks you cannot do safely.",
+    "explanation": "读懂：不需要园艺经验，但如果某些工作你无法安全完成，要告诉协调员；欢迎新手不等于忽略安全限制。\n解析：need no gardening experience 是“不需要园艺经验”，tasks you cannot do safely 是“你不能安全完成的任务”。no 和 cannot 是两处不同的否定，漏任何一个都会改变要求。tell the coordinator about 是“把……告知协调员”，about 不能丢。\n下次：听时先记“不要求经验”，再记“报告不安全的任务”，用 but 连接原词复述。复盘专门核对两处否定和 safely，不把“不能安全做”说成“不想做”。"
+  },
+  "S33": {
+    "type": "repeat",
+    "reference": "The careers office is open today.",
+    "explanation": "读懂：职业指导办公室今天开放，告诉学生今天可以使用该办公室的服务。\n解析：The careers office 是“职业指导办公室”，is open 是“处于开放状态”，today 指今天。careers 在名称里带复数形式，不要凭印象改词；is open 不等于 opens，前者说状态，后者可能说开始开放的动作。原句没说全天开放，不应加 all day。\n下次：听时记“办公室名称／开放状态／今天”，心里回放 is open 这一块再复述。核对 today 没被改成 tomorrow，也不要用其他办公室名称替换听到的 careers office。"
+  },
+  "S34": {
+    "type": "repeat",
+    "reference": "You can book an appointment through our website.",
+    "explanation": "读懂：你可以通过我们的网站预约一次会面，重点是预约渠道。\n解析：book an appointment 表示“预约”，book 在这里不是名词“书”；through our website 是“通过我们的网站”。an 与 appointment 一起记，through 不能漏成直接把网站当预约对象。our 说明服务方的网站，不是 your website。\n下次：听时把“能够预约／一次会面／经本网站”按原词串起，提示后从 You can 开始完整复述。回听重点核对 an 和 our，不将短句压缩成 book appointment website 三个零散词。"
+  },
+  "S35": {
+    "type": "repeat",
+    "reference": "Please bring a copy of your résumé to the meeting.",
+    "explanation": "读懂：请把一份个人简历带到会面中，要求携带的是简历副本。\n解析：bring a copy of your résumé 是“带一份你的简历”，to the meeting 是“到会面时带来”。résumé 在这里指简历，不是英语动词 resume（继续）。of 把副本和简历连起来，to 连接目的地；a copy 也不能省成原句没有说明的多份。\n下次：听时先记物品“简历的一份副本”，再记带去的场合。复述按 bring／a copy of your résumé／to the meeting 分块，检查两个连接词都在，别把 meeting 记成要带的文件。"
+  },
+  "S36": {
+    "type": "repeat",
+    "reference": "The adviser asks about your interests before suggesting suitable opportunities for you.",
+    "explanation": "读懂：顾问先了解你的兴趣，再推荐适合你的机会；推荐建立在了解你之后。\n解析：asks about your interests 是“询问兴趣”，before suggesting 是“在提出建议之前”，suitable opportunities for you 是“适合你的机会”。before 若漏掉就丢了先后顺序；about 管询问内容，for you 管机会适合谁，不能混换。原句没有保证录取。\n下次：听时记“先问兴趣—后给机会建议”，再按原词把 adviser 的两个动作串起来复述。把 suitable 与 opportunities 合成一块，结尾记住 for you，别只记住工作机会这个概念。"
+  },
+  "S37": {
+    "type": "repeat",
+    "reference": "If you cannot attend in person, request an online appointment when you make your booking.",
+    "explanation": "读懂：如果不能亲自到场，就在预约时申请线上会面，而不是等到约定时间才说明。\n解析：cannot attend in person 是“不能本人到场”，request an online appointment 是“申请线上预约”，when you make your booking 指“你办理预约时”。cannot 中的否定不能漏；when 也不是 after。online 与 in person 是两种见面方式，不可颠倒。\n下次：听时按“不能到场的条件／线上请求／预约时提出”记三块，脑中回放后复述原句。专门检查 If、cannot、when 是否都在，使条件和办理时机不丢失。"
+  },
+  "S38": {
+    "type": "repeat",
+    "reference": "Our workshops prepare you for interviews, but employers make their own decisions about job offers.",
+    "explanation": "读懂：培训课帮助你准备面试，但是否发出录用通知由雇主自己决定，参加培训不保证获得工作。\n解析：prepare you for interviews 是“帮你准备面试”，make their own decisions 是“自行决定”，about job offers 是“关于录用”。but 引出服务边界；their own 强调雇主有决定权，不能省成培训机构作决定。employers 是雇主，不是求职者。\n下次：听时存两组主角：“我们的课程帮助准备／雇主决定录用”，用 but 按原句连接复述。回听检查 for 与 about 各自连接什么，避免只保留 interviews 和 jobs 而改变责任。"
+  },
+  "S39": {
+    "type": "repeat",
+    "reference": "Please cancel at least a day ahead so that another student can use your appointment time.",
+    "explanation": "读懂：如需取消，请至少提前一天办理，好让另一个学生使用你的预约时段。\n解析：at least a day ahead 是“至少提前一天”，so that 引出目的“以便”，another student 指另一位学生，appointment time 是预约时段。at least 不能变成恰好一天；ahead 也不能听成之后。取消的是预约，不是要求取消另一位学生的时间。\n下次：听时记“取消提前量／让别人使用时段”的原因链，再按原句先请求后目的复述。重点保住 at least、so that 和 can，不把能让别人利用的机会说成别人已经预约成功。"
+  },
+  "S40": {
+    "type": "subjective",
+    "keywords": [
+      "travel",
+      "classes",
+      "because"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：你通常怎样去上课？喜欢这种出行方式的哪一点？回答的是日常上课路程，不是旅游偏好。\n解析：参考要求常用方式和一个具体好处，不要求一定绿色或便宜。可以讲步行路线固定、不受等车影响，也可以讲公交省力、能在车上看笔记。what do you like 要落到你实际得到的便利，不能只有交通工具名称。\n下次：按“通常乘什么或怎样走→路程中一个细节→对上课有什么好处”组织。若有多种方式，选最常用的一种重点解释；不必背参考关键词来代替完整意思。",
+    "reference": "Describe your usual journey and one concrete benefit."
+  },
+  "S41": {
+    "type": "subjective",
+    "keywords": [
+      "delay",
+      "plan",
+      "time"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：讲一次交通延误影响计划的经历，并说明你如何应对；既要有事件，也要有行动。\n解析：参考思路补上处理结果，使经历完整。比如公交晚点导致赶不上约见，先通知同伴，再改走另一条线路，最终稍晚到达。不是所有回答都要换车，调整预约同样可行；只抱怨交通而没有自己的应对就没答全。\n下次：按“原计划→什么延误→我采取的措施→计划最终怎样”说。把响应动作讲具体，如打电话说明预计到达时间，而不只说 I solved it（我解决了）。",
+    "reference": "Describe the delay, your response, and the outcome."
+  },
+  "S42": {
+    "type": "subjective",
+    "keywords": [
+      "commute",
+      "cost",
+      "time"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：较便宜但耗时长的通勤，和较快但更贵的通勤，你更愿意选哪一个？要解释钱与时间的取舍。\n解析：参考要求把选择联系自己的日程，没有唯一正确偏好。预算紧时可选便宜路线并在车上阅读；课业紧时可为短途多付一些费用，把省下的时间用于睡眠或准备课业。commute 指经常往返学校或工作的路程。\n下次：先明确选择，再讲你更缺钱还是更缺时间，最后用一个上课日说明。承认所选方案的代价，并解释为什么对你仍值得，别把贵的一种误说成同时更便宜。",
+    "reference": "Choose an option and relate the trade-off to your routine."
+  },
+  "S43": {
+    "type": "subjective",
+    "keywords": [
+      "university",
+      "transport",
+      "students"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：大学想减少私家车使用，你建议什么政策？推行时可能遇到什么困难？两部分都不能漏。\n解析：参考提示政策、好处和实施障碍，可选增开接驳车、交通补贴等，不限定必须禁车。比如晚间增加校车能替代开车，但车辆与司机成本可能上升。private car use 是减少使用，不等于不准任何人进校。\n下次：按“一个措施→为什么少开车→一个现实困难→简短应对”说。若建议停车收费，需考虑缺少替代交通的学生，而不是只宣称收费一定有效；无需把例子当标准立场。",
+    "reference": "Suggest a policy, explain its benefit, and address one implementation difficulty."
+  },
+  "S44": {
+    "type": "subjective",
+    "keywords": [
+      "tool",
+      "study",
+      "use"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：你学习时最常用哪种数字工具，以及具体怎么用？不能只报软件名称或介绍所有功能。\n解析：参考要求一个工具配一种学习活动，例如用电子卡片复习生词，或用笔记软件整理课后问题。digital tool 是“数字工具”；most often 强调经常使用，不是要求推荐最新产品。只讲它很方便却不讲操作，会漏掉 how。\n下次：按“工具名称或类别→学习中的两步用法→这怎样帮我”回答，例如课后录入错词、隔天自测。选自己能说明的功能即可，不必作软件广告，更无需声称某个工具人人都该用。",
+    "reference": "Identify a tool and describe a specific learning activity."
+  },
+  "S45": {
+    "type": "subjective",
+    "keywords": [
+      "technology",
+      "problem",
+      "task"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：讲一次 important task（重要任务）中技术出故障的经历，并说明你接下来做了什么。\n解析：参考需要具体故障、替代行动和结果。比如演示时投影失灵，改用打印提纲向大家说明，之后补发图表。题目不要求你修好硬件；有效调整做事方式也能回应。只说电脑不好用或自己很着急，仍没说明下一步。\n下次：用“当时要完成什么→哪里失灵→马上采取的一个办法→任务如何继续”串起来。保留任务的重要性，但别花太多时间讲机器型号或故障原理，核心是你的处理过程。",
+    "reference": "Give an incident, an alternative action, and a result."
+  },
+  "S46": {
+    "type": "subjective",
+    "keywords": [
+      "notes",
+      "learning",
+      "prefer"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：记笔记时你偏好纸笔还是电子设备？还要解释这种选择怎样影响学习。\n解析：参考思路把偏好与学习实例连起来，两种答案都能成立。纸笔可帮助用自己的话概括，电子笔记可方便搜索旧概念。只谈设备价格、颜色而不谈学习效果，会偏离后半问。taking notes 是记笔记，不是写考试答案。\n下次：先选一种，再说一个功能怎样改变你的学习动作，最后举复习某课的例子。如说纸笔少干扰，要讲这使你更专注听重点；不要把个人体验说成人人必然如此。",
+    "reference": "Connect a clear preference with an example of learning."
+  },
+  "S47": {
+    "type": "subjective",
+    "keywords": [
+      "platform",
+      "students",
+      "university"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：大学是否应要求学生统一使用一个数字学习平台？必须考虑一个好处和一个可能的不足。\n解析：参考建议权衡统一性与实际限制，不规定赞成。统一平台可集中作业截止日期，但特殊课程可能需要不同工具。single 是“单一”，不是仅仅多提供一个平台；只列好处或只抱怨技术问题都会缺少一面。\n下次：按“我的主张→统一带来的便利→一个具体限制→如何处理”说。可以支持核心课程统一、特殊任务例外，也可以反对强制，前提是解释取舍；不是写出 platform 一词就完成论证。",
+    "reference": "Balance consistency with a practical limitation and give a recommendation."
+  },
+  "S48": {
+    "type": "subjective",
+    "keywords": [
+      "community",
+      "activity",
+      "because"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：你愿意参加哪类社区活动，为什么感兴趣？可以谈将来想参与的活动，不强求已经有经历。\n解析：参考要求活动和个人兴趣相连，例如喜欢植物便想参加社区花园，想认识邻居便加入读书活动。community activity 指与社区成员一起参与的活动；单说“帮助别人很好”还不足以解释你为何选这一项。\n下次：用“想参加的具体活动→与我兴趣或能力的联系→打算做的一件事”展开。比如愿意给花园浇水并向老园丁学习；例子只是思路，不必人人选择公益劳动或声称无私动机。",
+    "reference": "Name an activity and explain your personal interest."
+  },
+  "S49": {
+    "type": "subjective",
+    "keywords": [
+      "help",
+      "problem",
+      "person"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：讲一次你帮助别人解决问题的经历，尤其说明你本人承担了什么角色。\n解析：参考看情境、贡献和结果是否连得上。比如同学不会整理演讲材料，你帮他分成三个主题并一起练习，后来表达更有条理。不能把所有过程都说成“我们做了”，让听者不知道你的具体贡献；也不必声称独自解决所有问题。\n下次：按“对方遇到什么困难→我负责的一个动作→对方怎样受益”讲。突出自己的范围，例如解释一个操作步骤，而不是抢占别人的成果；what was your role 问的是参与方式。",
+    "reference": "Explain the situation and your contribution with an outcome."
+  },
+  "S50": {
+    "type": "subjective",
+    "keywords": [
+      "volunteer",
+      "projects",
+      "regular"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：你更愿意长期为一个机构做志愿服务，还是尝试多个短项目？要说清选择及理由。\n解析：参考没有限定长期更好。固定服务可建立信任、熟悉岗位；短项目可探索不同兴趣并适应课程安排。regularly 是“经常、定期”，不等于每天；several short projects 是多个短期项目，不是一次随意帮忙。\n下次：先选一种参与方式，再给一个与你时间安排相关的理由和一个收获例子。也可承认另一方式的优点，但要回到为何你更适合所选方式，避免只列志愿活动名称。",
+    "reference": "Choose a pattern of volunteering and explain its advantages."
+  },
+  "S51": {
+    "type": "subjective",
+    "keywords": [
+      "service",
+      "students",
+      "organizations"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：一些大学把社区服务列为毕业要求，这会怎样影响学生和当地机构？必须谈两个群体。\n解析：参考提示好处与困难，例如学生获得合作经验，却有课业时间压力；机构得到人手，却需培训大量短期参与者。题目问影响，不强制表态赞成或反对，也不是问学生如何拿满分。只说社会更美好缺少具体因果。\n下次：按“对学生的一项变化→对机构的一项变化→一个风险或条件”组织。用 might 表示“可能”，把预测与必然结果区分；例如排班稳定时机构才更容易依赖学生的帮助。",
+    "reference": "Consider both groups and distinguish a possible benefit from a difficulty."
+  },
+  "S52": {
+    "type": "subjective",
+    "keywords": [
+      "relax",
+      "study",
+      "week"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：经历一周繁重学习后，你通常做什么来放松？重点是平常的休息活动。\n解析：参考建议说明熟悉的活动及放松作用。可以讲周末在公园散步，让注意力暂时离开作业；也可以讲做饭或听音乐。demanding week 指费精力的一周，不是要求你描述整个学期。只列活动清单不容易让人理解如何放松。\n下次：选择一个主要活动，按“何时做→怎样做→做后感觉或精力有何变化”说。细节可很小，如走一段安静路线；不用把个人感受夸成治疗压力的科学结论。",
+    "reference": "Describe a familiar activity and why it helps."
+  },
+  "S53": {
+    "type": "subjective",
+    "keywords": [
+      "event",
+      "learned",
+      "experience"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：描述一个让你印象深刻的文化活动，以及你从中获得的认识或感受。\n解析：参考要求具体活动加影响。take away from 在这里是“从中得到收获”，不只问带走了什么纪念品。可以讲一次地方戏演出，让你理解另一代人的生活；也可讲展览改变了你看待传统工艺的方式。只描写人很多不够。\n下次：按“是什么活动→一个记得清楚的片段→这个片段让我明白或感受到什么”组织。先选片段再总结，避免空说很有文化；也不要把例子当成必须称赞的唯一态度。",
+    "reference": "Give a specific event and explain its impact."
+  },
+  "S54": {
+    "type": "subjective",
+    "keywords": [
+      "live",
+      "recording",
+      "prefer"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：你更愿意去现场看演出，还是在家看录像？解释偏好，并让理由对应这两种体验。\n解析：参考思路允许选择任一方式。现场可重视与观众共同反应的气氛，录像可重视暂停重看与省去出行。live performance 是现场演出，recording 是录制内容，不要误比成现场演出与家里直播。只说喜欢音乐并未完成比较。\n下次：先表明选择，再挑一个决定性差异，加个人情境，例如重听难懂的台词或感受现场合唱。可以承认另一方式有优势，再解释为什么你的优先考虑更重要。",
+    "reference": "Compare the experiences and justify your choice."
+  },
+  "S55": {
+    "type": "subjective",
+    "keywords": [
+      "city",
+      "programs",
+      "community"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "explanation": "读懂：城市文化经费有限，应支持大型节庆还是小型邻里活动？需给出推荐及理由，不能忽略预算限制。\n解析：参考允许从参与便利或成本分析任一选择。小活动可方便居民经常参与，大节庆可集中提供平时难得的节目。说“大的一定浪费”或“小的一定人人参加”都过于绝对。limited funds 是有限资金，不是完全没有钱。\n下次：按“优先支持哪类→在有限预算下的一个优势→居民如何受益的例子”回答。若主张组合分配，也说明优先项和取舍，而不是给两边都无限投入。",
+    "reference": "Make a choice, consider access or cost, and support it with an example."
+  },
+  "S56": {
+    "type": "repeat",
+    "reference": "The repair cafe opens at ten.",
+    "explanation": "读懂：repair cafe 是“维修互助点”；它十点开放。\n解析：按“维修点／十点开放”记主语和营业时间；opens（开放）带单数词尾，at ten（在十点）把时间连到动作上。\n下次：听到营业时间→把动作和钟点一起记→按原词复述，核对开放动作、时间介词及动词词尾。"
+  },
+  "S57": {
+    "type": "repeat",
+    "reference": "Please place your item on this table.",
+    "explanation": "读懂：item 是“送修物品”；请把自己的物品放在这张桌上。\n解析：按“放自己的物品／这张桌上”记动作与地点；on（在……上面）说明放置关系，your（你的）和 this（这张）分别限定物品与桌子。\n下次：听到放置指令→先记放什么、放哪里→核对物品归属和桌子的指示词，检查放在上面的空间关系。"
+  },
+  "S58": {
+    "type": "repeat",
+    "reference": "A volunteer will ask how long you have owned it.",
+    "explanation": "读懂：owned it 是“拥有它”；志愿者会问你持有这件物品多久。\n解析：按“志愿者会问／你持有多久”记两层意思；you have owned it（你一直拥有它）保留完成时，内层主语在动词前。\n下次：听到持有时长→分别记提问者与物品主人→核对内层完成时和原词顺序，不把它改成独立问句。"
+  },
+  "S59": {
+    "type": "repeat",
+    "reference": "Keep any loose screws in the small tray beside you.",
+    "explanation": "读懂：loose screws 是“松脱的螺丝”；应收在身边的小托盘里。\n解析：按“松脱螺丝／小托盘／身边”记物件、容器和位置；beside you（在你身边）修饰托盘，any（任何）表示这些松脱零件都要收好。\n下次：听到收纳指令→把零件与容器配对，再记相对位置→核对螺丝复数、小托盘的大小描述及身边的位置。"
+  },
+  "S60": {
+    "type": "repeat",
+    "reference": "If a replacement part is needed, we will explain the cost before you decide.",
+    "explanation": "读懂：replacement part 是“替换零件”；若需要更换，会先告知费用再由你决定。\n解析：按“若需零件／先说明费用／再作决定”记条件和先后；is needed（被需要）说明零件是被需求的对象，before（在……之前）标明告知费用在先。\n下次：听到条件和时间连接词→按需求、费用、决定排三步→核对被动形式，检查“可能需要”没有变成一定更换。"
+  },
+  "S61": {
+    "type": "repeat",
+    "reference": "You can watch the repair, but please leave enough space for the volunteer to work.",
+    "explanation": "读懂：leave enough space 是“留够空间”；可以观看，但别妨碍志愿者操作。\n解析：按“可以观看／但要留空间／供志愿者操作”记许可和限制；for the volunteer to work（供志愿者操作）说明留空间的用途，不能省掉执行者。\n下次：听到观看许可后的转折→单独记下空间要求及其用途→复述核对足够空间和志愿者操作两项都保留。"
+  },
+  "S62": {
+    "type": "repeat",
+    "reference": "Before you leave, check that you have collected both your item and the remaining screws.",
+    "explanation": "读懂：both…and…是“两样都”；离开前检查已取回物品和剩余螺丝。\n解析：按“离开前／检查已取齐／物品和剩余螺丝”记检查步骤；both…and…（两者都）要求保留两个对象，完成时说明已经取回。\n下次：听到两项并列→分别记主物品和剩余零件→按原词复述，检查剩余这一限制、两个对象及完成时都在。"
+  },
+  "S63": {
+    "type": "repeat",
+    "reference": "Our studio is behind the glass door.",
+    "explanation": "读懂：studio 是“录音室”；位置在玻璃门后面，不是在门旁边。\n解析：按“我们的录音室／玻璃门后”记所属和位置；behind（在……后面）确定空间关系，our（我们的）说明是哪间录音室，连接主语与位置的动词也要保留。\n下次：听到房间定位→把玻璃门当参照物→核对门后关系、玻璃材质和所属词，检查没有漏掉连接动词。"
+  },
+  "S64": {
+    "type": "repeat",
+    "reference": "Hang your coat beside the control desk.",
+    "explanation": "读懂：control desk 是“控制台”；请把外套挂在控制台旁边。\n解析：按“挂自己的外套／控制台旁”记动作与位置；beside（在……旁边）表示相邻，your（你的）限定外套，不要只记控制台这个地点名。\n下次：听到挂衣指令→记动作、衣物归属和位置→复述检查外套单数、所属词及旁边的方位词。"
+  },
+  "S65": {
+    "type": "repeat",
+    "reference": "Adjust the headphones until you can hear your partner clearly.",
+    "explanation": "读懂：Adjust 是“调整”；调耳机到能清楚听见搭档为止。\n解析：按“调整耳机／直到听清搭档”记动作和停止调节的条件；until（直到）引出目标，clearly（清楚地）是听见之后还需达到的程度。\n下次：听到直到某状态→将目标单独记住→核对搭档归属和清楚程度，检查没有只复述“能听到”。"
+  },
+  "S66": {
+    "type": "repeat",
+    "reference": "The red light means that a recording is in progress.",
+    "explanation": "读懂：in progress 是“正在进行”；红灯亮表示正在录音。\n解析：按“红灯／表示正在录音”记信号与含义；means that（表示……）连接两块，means 带单数词尾；录音正在进行，状态动词不能省。\n下次：听到信号说明→先记灯色与对应活动→核对单数词尾、录音前的冠词和进行中的状态。"
+  },
+  "S67": {
+    "type": "repeat",
+    "reference": "If you make a mistake, pause briefly and start again from the beginning of that sentence.",
+    "explanation": "读懂：pause briefly 是“稍停一下”；出错后从那一句的开头重来。\n解析：按“如果出错／稍停／从该句开头重来”记操作顺序；from the beginning of that sentence（从那一句的开头）限定重来范围，不能扩大到整段节目。\n下次：听到出错处理→记停顿与重来的起点→复述核对短暂停顿、再次开始及“那一句”三个限制。"
+  },
+  "S68": {
+    "type": "repeat",
+    "reference": "Please keep paper away from the microphone, because even small movements can be heard on the recording.",
+    "explanation": "读懂：even small movements 是“连很小的动作”；纸张声也可能录进去。\n解析：按“纸离话筒远些／小动作也会被录到”记要求和原因；can be heard（能被听见）是被动，even（连……也）强调很小的动作仍可能影响录音。\n下次：听到因果关系→分别保存摆放要求与收音原因→核对距离关系、连小动作也包括的范围及被动形式。"
+  },
+  "S69": {
+    "type": "repeat",
+    "reference": "When you finish, save the file with today’s date so the editor can find the correct version.",
+    "explanation": "读懂：correct version 是“正确版本”；结束后用当天日期保存，方便编辑找到。\n解析：按“结束后／用当天日期保存／让编辑找到正确版本”记步骤与目的；with today’s date（带上当天日期）是文件标识，correct（正确的）限定要找的版本。\n下次：听到保存步骤→记保存时点、日期标识和用途→复述检查当天日期与正确版本，避免只剩笼统的保存动作。"
+  },
+  "S70": {
+    "type": "repeat",
+    "reference": "Meet beside the wooden trail sign.",
+    "explanation": "读懂：trail sign 是“步道标牌”；集合地点在木制标牌旁边。\n解析：按“集合／木制步道标牌旁”记动作与地点；wooden（木制的）帮助识别标牌，beside（在……旁边）说明集合位置。\n下次：听到集合地点→先锁定标牌的材质与位置→核对方位词和标牌前的冠词，不补原句未给的出发时间。"
+  },
+  "S71": {
+    "type": "repeat",
+    "reference": "Each volunteer receives a pair of gloves.",
+    "explanation": "读懂：a pair of gloves 是“一副手套”；每位志愿者都会收到一副。\n解析：按“每位志愿者／收到一副手套”记分配；Each volunteer（每位志愿者）是单数，receives（收到）保留单数词尾，手套本身用复数。\n下次：听到逐人分配→把每人与一副对应→检查动作词尾、数量单位和手套复数，避免把一副说成一只。"
+  },
+  "S72": {
+    "type": "repeat",
+    "reference": "We will clear fallen branches from the lower path first.",
+    "explanation": "读懂：fallen branches 是“掉落的树枝”；先清理下方小路。\n解析：按“先清树枝／从下方小路移走”记对象、来源与顺序；from the lower path（从下方小路）说明清理的路段，first（首先）给出工作先后。\n下次：听到清理任务→记物品、路段、顺序→核对树枝已掉落、路径在下方及末尾的先后提示。"
+  },
+  "S73": {
+    "type": "repeat",
+    "reference": "Leave the painted stones where they are along the edge.",
+    "explanation": "读懂：painted stones 是“涂过颜色的石块”；边缘这些石块要留在原处。\n解析：按“有颜色的石块／留在边缘原处”记保留要求；where they are（它们所在的原处）是一整块位置说明，内部不改成疑问词序。\n下次：听到保留指令→先记保留对象与原位置→检查石块的颜色标记、完整位置从句和边缘信息。"
+  },
+  "S74": {
+    "type": "repeat",
+    "reference": "If you find a damaged sign, mark its location on the map instead of removing it.",
+    "explanation": "读懂：instead of removing it 是“而不是将它移走”；损坏标牌要在地图上标位置。\n解析：按“发现损坏标牌／地图标位置／不移走”记条件和替代动作；mark its location（标出它的位置）中，its（它的）指该标牌。\n下次：听到替代做法→把该做和不该做的动作分别记→核对地图上的位置标记及移走动作，检查代词仍指标牌。"
+  },
+  "S75": {
+    "type": "repeat",
+    "reference": "The soil near the stream is soft, so carry the tools along the gravel path.",
+    "explanation": "读懂：gravel path 是“碎石路”；溪边土软，因此工具应沿碎石路搬运。\n解析：按“溪边土软／所以沿碎石路搬工具”记原因与路径；so（所以）连接原因和行动，along（沿着）说明搬运路线。\n下次：听到地面条件引出行动→分清软土所在处和实际行走路线→复述核对搬运对象、溪边位置及沿路关系。"
+  },
+  "S76": {
+    "type": "repeat",
+    "reference": "Before we leave, each team should check that all its tools have been returned to the cart.",
+    "explanation": "读懂：have been returned 是“都已归还”；离开前每队确认工具回到推车上。\n解析：按“离开前／每队检查／全部工具已归还推车”记结束条件；all its tools（该队的全部工具）中，所属词指各队，完成被动说明归还已做完。\n下次：听到离场检查→逐一记负责队伍、全部工具和推车→核对完成被动链及全部这一范围，不缩成只归还部分工具。"
+  },
+  "S77": {
+    "type": "repeat",
+    "reference": "The costume room is downstairs.",
+    "explanation": "读懂：costume room 是“戏服间”；它在楼下，不是舞台后面。\n解析：按“戏服间／在楼下”记地点；downstairs（在楼下）末尾自带 s，并非名词复数。房间与位置之间的连接动词要保留。\n下次：听到房间所在楼层→记房间用途和上下方向→复述核对方位词末尾与连接动词，不自行补舞台位置。"
+  },
+  "S78": {
+    "type": "repeat",
+    "reference": "Your name is on the green tag.",
+    "explanation": "读懂：green tag 是“绿色标签”；上面写着你的名字。\n解析：按“你的名字／绿色标签上”记人名与标识；on（在……上面）说明名字出现的位置，green（绿色的）帮助找到正确标签。\n下次：听到身份标签→把人名与标签颜色关联→核对所属词、方位词及颜色，不添原句没有的衣架信息。"
+  },
+  "S79": {
+    "type": "repeat",
+    "reference": "Try the jacket on before you choose a matching hat.",
+    "explanation": "读懂：matching hat 是“相配的帽子”；先试夹克，再选帽子。\n解析：按“先试夹克／再选配套帽子”记顺序；try…on（试穿）的两部分被夹克隔开，不能漏掉后半。before（在……之前）规定试穿在先。\n下次：听到试装顺序→记住试穿动作的两部分→核对帽子的配套要求和先后连接词，检查没有交换两步。"
+  },
+  "S80": {
+    "type": "repeat",
+    "reference": "Tell the assistant if a button feels loose or uncomfortable.",
+    "explanation": "读懂：loose or uncomfortable 是“松动或让人不舒服”；有任一情况都要告知助理。\n解析：按“告知助理／纽扣松动或不舒服”记动作与反馈条件；or（或者）表示出现任一种情况即可，feels（感觉起来）保留单数词尾。\n下次：听到条件性反馈→分别记纽扣的两种问题→核对条件词、单数动词词尾及“或者”，不说成两种情况必须同时出现。"
+  },
+  "S81": {
+    "type": "repeat",
+    "reference": "Some costumes look similar, so check the label inside each one before taking it to the stage.",
+    "explanation": "读懂：look similar 是“看起来相似”；拿上舞台前查看每套内部标签。\n解析：按“戏服相似／查内部标签／再拿上舞台”记因果和先后；inside each one（每套里面）限定检查位置与逐件范围。\n下次：听到外观相似→记对应的辨认办法→复述核对内部、每套和上台前，检查没有替换成只凭颜色判断。"
+  },
+  "S82": {
+    "type": "repeat",
+    "reference": "When the rehearsal ends, hang the jacket on its original hanger rather than leaving it on a chair.",
+    "explanation": "读懂：original hanger 是“原来的衣架”；排练后挂回去，不要放在椅子上。\n解析：按“排练结束／挂回原衣架／不放椅子”记归位方式；rather than（而不是）连接两种做法，leaving（放着）保留动作词尾。\n下次：听到归位与替代方式对比→记原衣架和椅子各自的作用→核对原来的这一限制及被排除的放置动作。"
+  },
+  "S83": {
+    "type": "repeat",
+    "reference": "Please report any damage before you leave, even if you think it can be repaired easily.",
+    "explanation": "读懂：even if 是“即使”；即使容易修，也要在离开前报告损坏。\n解析：按“离开前报告损坏／即使容易修”记要求和让步；can be repaired easily（能轻易修好）是被动，修理难度低并不取消报告要求。\n下次：听到即使某情况也要做→先记始终有效的报告要求→核对任何损坏、离开之前及被动修复表达。"
+  },
+  "S84": {
+    "type": "repeat",
+    "reference": "Bring donations to the side entrance.",
+    "explanation": "读懂：donations 是“捐赠物品”；送到侧门，不是正门。\n解析：按“送捐赠物／到侧门”记对象与目的地；side entrance（侧门）是准确地点，donations（捐赠物品）用复数，方向介词也要保留。\n下次：听到投递指令→把物品和入口配对→复述核对侧门、物品复数及到达方向，不自行换成接收柜台。"
+  },
+  "S85": {
+    "type": "repeat",
+    "reference": "Place unopened cans in the blue crates.",
+    "explanation": "读懂：unopened cans 是“未开封的罐头”；放进蓝色周转箱。\n解析：按“未开封罐头／放进蓝箱”记筛选条件与容器；in（在……里面）说明放入关系，两种物件都用复数，未开封的否定前缀不能漏。\n下次：听到分类安排→同时记开封状态和容器颜色→核对两处复数、否定前缀及放入关系。"
+  },
+  "S86": {
+    "type": "repeat",
+    "reference": "Check the date on every package before adding it to a crate.",
+    "explanation": "读懂：every package 是“每件包装”；放进箱子前逐一查日期。\n解析：按“逐件查日期／之后放入箱”记顺序；before adding it（把它放入之前）中，it（它）回指正在检查的那件物品，不能换成箱子。\n下次：听到先检查后装箱→把日期检查和当前物品绑定→核对逐件范围、动作词尾及代词指向。"
+  },
+  "S87": {
+    "type": "repeat",
+    "reference": "Ask the coordinator about anything that has no readable label.",
+    "explanation": "读懂：readable label 是“可读的标签”；标签看不清的物品要询问协调员。\n解析：按“询问协调员／关于标签读不清的物品”记咨询对象和范围；that has no readable label（没有清晰可读标签的）整段限定物品，否定词不可遗漏。\n下次：听到物品后的限制条件→先记谁需要被询问、什么物品要询问→核对否定标签条件及询问内容的介词。"
+  },
+  "S88": {
+    "type": "repeat",
+    "reference": "We sort food by type rather than brand so each delivery can include a useful variety.",
+    "explanation": "读懂：by type rather than brand 是“按种类而非品牌”；希望每批配送有多种食物。\n解析：按“按种类分／不用品牌分／便于每批多样配送”记分类与用途；rather than（而不是）连接选用与不用的标准，each（每一批）限定配送范围。\n下次：听到两种分类标准→分别记实际采用与被排除的标准→接配送目的，核对每批都有多样性的范围。"
+  },
+  "S89": {
+    "type": "repeat",
+    "reference": "If a crate becomes too heavy, divide its contents between two smaller boxes before moving them.",
+    "explanation": "读懂：divide its contents 是“分装里面的东西”；箱子太重就分成两小箱再搬。\n解析：按“原箱太重／分到两只较小箱／再搬它们”记条件和顺序；its contents（原箱里的东西）被分装，末尾 them（它们）指两只小箱。\n下次：听到重量条件→记分装数量、容器大小和再搬运的顺序→核对两个代词分别指原箱与新箱，避免搬运对象混淆。"
+  },
+  "S90": {
+    "type": "repeat",
+    "reference": "At the end of your shift, record how many full crates are ready for tomorrow’s delivery.",
+    "explanation": "读懂：shift 是“工作班次”；下班时记录明天可配送的满箱数量。\n解析：按“班次结束／记满箱数／供明天配送”记盘点条件；how many full crates（多少个满箱）询问数量，后面的陈述语序与明天用途都须保留。\n下次：听到盘点要求→记时间、满箱和次日配送→复述核对数量从句词序及两个范围限制，不把空箱混进来。"
+  },
+  "S91": {
+    "type": "repeat",
+    "reference": "Our evening tour starts in this hall.",
+    "explanation": "读懂：evening tour 是“晚间参观”；先在这座大厅开始。\n解析：按“我们的晚间参观／从这座大厅开始”记时段与起点；this hall（这座大厅）指当前所在处，starts（开始）保留单数词尾。\n下次：听到参观起点→记活动时段和当前地点→核对所属词、指示词及动作词尾，不把晚间活动扩大为所有活动。"
+  },
+  "S92": {
+    "type": "repeat",
+    "reference": "Leave your bags beneath the benches.",
+    "explanation": "读懂：beneath the benches 是“长凳下面”；将包留在那里。\n解析：按“留下自己的包／放在长凳下”记储物关系；bags（包）与 benches（长凳）都用复数，所属词表明留下的是自己的物品。\n下次：听到储物位置→以长凳作参照物记住下方→复述核对两处复数和包的归属，检查方位没有改变。"
+  },
+  "S93": {
+    "type": "repeat",
+    "reference": "A guide will explain how to adjust the viewing height.",
+    "explanation": "读懂：viewing height 是“观察时的高度”；导览员会说明如何调节。\n解析：按“导览员说明／如何调节／观察高度”记三块；how to adjust（如何调节）是所讲的方法，不能漏掉方法疑问词或不定式标记。\n下次：听到操作说明→分别记讲解者、调整动作和调整对象→核对将来安排与方法词块，不增添原句未给的旋钮位置。"
+  },
+  "S94": {
+    "type": "repeat",
+    "reference": "Please wait for your turn without touching the telescope lens.",
+    "explanation": "读懂：telescope lens 是“望远镜镜片”；等待轮到自己时不要碰镜片。\n解析：按“等轮到自己／不碰镜片”记等待和限制；without touching（不触碰）中，介词后接带词尾的动作，镜片是不能碰的对象。\n下次：听到等待附带限制→把轮候与不做的动作分开记→核对所属词、镜片名称和动作词尾，不扩大为禁止观察。"
+  },
+  "S95": {
+    "type": "repeat",
+    "reference": "Because the sky is cloudy, we will begin with the indoor display and check conditions again later.",
+    "explanation": "读懂：cloudy 是“多云”；先看室内展览，之后再查天气条件。\n解析：按“多云／先看室内展览／稍后再查条件”记应变顺序；again later（稍后再次）说明仍会重新查看天气，不是已经取消后续观测。\n下次：听到天气引发调整→记临时起步安排和之后重查→核对室内、再次、稍后三个限制，检查两项行动都在。"
+  },
+  "S96": {
+    "type": "repeat",
+    "reference": "You may take pictures of the display, but switch off your flash before entering the viewing area.",
+    "explanation": "读懂：switch off your flash 是“关闭闪光灯”；可以拍展品，但进入观测区前要关。\n解析：按“可拍展品／进观测区前关闪光灯”记许可与转换条件；before entering（进入之前）规定关闭的时点，关掉的动作不能漏掉方向小词。\n下次：听到许可后的转折→记拍摄对象、关闭设备和截止时点→核对进入前已关闭，不把许可扩大到所有区域。"
+  },
+  "S97": {
+    "type": "repeat",
+    "reference": "If the clouds clear before we close, everyone will have another chance to look through the telescope.",
+    "explanation": "读懂：clouds clear 是“云散开”；关门前若放晴，每个人可再看一次。\n解析：按“关门前云散／每人再有观测机会”记条件与结果；before we close（我们关门之前）限定天气改善的时段，another（再一次）表示追加机会。\n下次：听到条件性机会→先记条件必须何时满足→核对每个人、追加一次和透过望远镜观察，检查没有说成保证发生。"
+  },
+  "S98": {
+    "type": "repeat",
+    "reference": "The rental kiosk is beside the station.",
+    "explanation": "读懂：rental kiosk 是“租车服务亭”；就在车站旁边。\n解析：按“租车亭／车站旁”记服务点和参照物；beside（在……旁边）给出相邻关系，主语与地点之间的连接动词不能省。\n下次：听到服务点定位→把亭子与车站相邻的位置存住→核对连接动词和冠词，不额外增加站台编号。"
+  },
+  "S99": {
+    "type": "repeat",
+    "reference": "Choose a helmet before selecting a bicycle.",
+    "explanation": "读懂：helmet 是“头盔”；先选头盔，再选车。\n解析：按“先选头盔／后选自行车”记两步；before selecting（在选择之前）保留动作词尾，两件物品分别带单数冠词。\n下次：听到连续两次选择→按原句锁定先后→检查两个冠词与后一步的动词形式，不因主题是车就交换顺序。"
+  },
+  "S100": {
+    "type": "repeat",
+    "reference": "The assistant will check the brakes while you adjust the seat.",
+    "explanation": "读懂：brakes 是“刹车”；你调车座时，助理同时检查刹车。\n解析：按“助理查刹车／你调座位”记两个执行者；while（当……同时）说明动作同时进行，不能将两个任务都分给同一个人。\n下次：听到同时进行的动作→分别将人和动作配对→复述核对刹车、座位和连接词，检查角色没有交换。"
+  },
+  "S101": {
+    "type": "repeat",
+    "reference": "Keep the receipt until the bicycle has been returned safely.",
+    "explanation": "读懂：receipt 是“收据”；要留到车安全归还为止。\n解析：按“留收据／直到车安全归还”记保留终点；has been returned（已经被归还）是完成被动，safely（安全地）限定归还状态。\n下次：听到保留到某终点→确认终点是归还完成→核对完整动词链及安全状态，不能只记到开始还车。"
+  },
+  "S102": {
+    "type": "repeat",
+    "reference": "If you notice a problem during the ride, stop and call the number printed on your receipt.",
+    "explanation": "读懂：printed on your receipt 是“印在收据上的”；骑行发现问题就停下并拨该号码。\n解析：按“骑行中有问题／停车并拨收据号码”记条件与处理；stop and call（停下并打电话）保留两项动作，号码后面的修饰语指出去哪里找号码。\n下次：听到骑行故障条件→记立即停止和联系方式→核对发生时段、两个动作及号码来源，不换成继续骑行后才联系。"
+  },
+  "S103": {
+    "type": "repeat",
+    "reference": "Bicycles returned after six must be left in the marked area rather than beside the kiosk.",
+    "explanation": "读懂：marked area 是“标记区域”；六点后还车不能随便停在服务亭旁。\n解析：按“六点后归还的车／停标记区／不用亭旁”记对象和位置；returned after six（六点后归还的）限定哪些车，后面的要求用被动，车辆是被放置的对象。\n下次：听到按时段分流→先记适用车辆，再记正确位置→核对必须停放的被动形式及两处方位，避免颠倒地点。"
+  },
+  "S104": {
+    "type": "repeat",
+    "reference": "Before locking the bicycle, make sure the front wheel is inside the guide painted on the ground.",
+    "explanation": "读懂：front wheel 是“前轮”；锁车前确认它在地面画出的引导线范围内。\n解析：按“锁车前／前轮在地面标记内”记检查条件；inside（在范围内）说明位置，painted on the ground（画在地上的）修饰引导标记。\n下次：听到锁车前检查→记前轮、范围内、地面标记→核对检查时点和内外关系，不缩成只要靠近标记。"
+  },
+  "S105": {
+    "type": "repeat",
+    "reference": "The seed exchange begins after lunch.",
+    "explanation": "读懂：seed exchange 是“种子交换活动”；午饭后开始。\n解析：按“种子交换／午饭后开始”记活动与时间；after lunch（午饭后）说明先后，begins（开始）保留单数词尾。\n下次：听到活动开始时间→把活动与午饭后的时段配对→核对时间介词和动词词尾，不改写成吃饭指令。"
+  },
+  "S106": {
+    "type": "repeat",
+    "reference": "Empty envelopes are available beside the register.",
+    "explanation": "读懂：Empty envelopes 是“空信封”；在签到簿旁可以取用。\n解析：按“有空信封可取／在签到簿旁”记物料与位置；beside the register（在签到簿旁）指出领取处，复数信封对应复数连接动词。\n下次：听到可领取物料→同时记容器状态与位置→核对空信封、旁边关系及复数形式，不说成已经装好种子。"
+  },
+  "S107": {
+    "type": "repeat",
+    "reference": "Write the plant name on each envelope before adding seeds.",
+    "explanation": "读懂：plant name 是“植物名称”；放种子前每个信封都要写名称。\n解析：按“先写植物名／每个信封上／再放种子”记标记步骤；on each envelope（每个信封上）同时限定位置和逐件范围。\n下次：听到标签操作→先记名称与放入种子的先后→核对每个信封和种子复数，不把逐件标记缩成只写一袋。"
+  },
+  "S108": {
+    "type": "repeat",
+    "reference": "Please include the year when the seeds were collected locally.",
+    "explanation": "读懂：were collected 是“被采集”；请注明这些本地采集种子的年份。\n解析：按“请补年份／本地采集种子的那一年”记需填信息；when（当……时）把年份与采集事件连起来，采集用被动，种子是被采集的对象。\n下次：听到补充追溯资料→先确定补的是采集年份→核对关系词、被动助动词和本地范围，不换成种植年份。"
+  },
+  "S109": {
+    "type": "repeat",
+    "reference": "If you are unsure about a packet, ask its owner rather than guessing from the picture.",
+    "explanation": "读懂：rather than guessing 是“不要猜，而要……”；不确定时问种子包主人。\n解析：按“不确定种子包／问主人／不只看图猜”记条件与做法；its owner（它的主人）指那包种子的持有人，图像只是被排除的猜测依据。\n下次：听到不确定条件→记求助对象与不用的判断办法→核对所属代词、图片来源和猜测动作的词尾。"
+  },
+  "S110": {
+    "type": "repeat",
+    "reference": "Take only the amount you expect to use, so there will be enough for people arriving later.",
+    "explanation": "读懂：only the amount you expect to use 是“只拿预计会用的量”；给晚来的人留些。\n解析：按“只拿预计用量／留足给后来者”记限制与目的；people arriving later（稍后到来的人）限定受益者，only（只）限制领取数量。\n下次：听到限量领取→先记预计用量，再记为谁留余量→核对足够与稍后来者，检查没有改变分享对象。"
+  },
+  "S111": {
+    "type": "repeat",
+    "reference": "Before taking any seeds home, make sure you also have the planting notes that came with them.",
+    "explanation": "读懂：planting notes 是“种植说明”；带种子走前，也要拿到原本随附的说明。\n解析：按“带种子回家前／确认也有配套种植说明”记物品配套；that came with them（随它们一起附来的）修饰说明，末尾代词指种子。\n下次：听到还需附带资料→把种子和其说明配成一组→核对“也有”、原本随附和代词指向，不换成其他种子的资料。"
+  },
+  "S112": {
+    "type": "repeat",
+    "reference": "Please sit opposite the interviewer.",
+    "explanation": "读懂：opposite 是“在对面”；请坐到访谈员对面的座位。\n解析：按“请坐／访谈员对面”记动作与方向；opposite（在……对面）确定两人相对位置，访谈员前的定冠词也属于原句。\n下次：听到落座方向→记两人面对面的位置→核对方位词和冠词，不自行换成话筒旁边。"
+  },
+  "S113": {
+    "type": "repeat",
+    "reference": "The microphone is already switched on.",
+    "explanation": "读懂：already switched on 是“已经开启”；话筒不用再开一次。\n解析：按“话筒／已经开启”记设备状态；already（已经）标明状态已成立，on（开启）决定开关方向，状态动词与分词词尾不能漏。\n下次：听到设备已就绪→先记当前状态→核对开启方向、已经这一时间信息和过去分词词尾。"
+  },
+  "S114": {
+    "type": "repeat",
+    "reference": "Begin by telling us how long you have lived here.",
+    "explanation": "读懂：how long you have lived here 是“在这里住了多久”；这是开场话题。\n解析：按“开场先告诉我们／在此住了多久”记话题；you have lived here（你一直住在这里）保留完成时，内层主语在动词前。\n下次：听到居住经历→记持续时长而非地址→核对讲述动作的词尾、完成时及内层词序，不倒装成独立问句。"
+  },
+  "S115": {
+    "type": "repeat",
+    "reference": "You can pause whenever you need a moment to remember.",
+    "explanation": "读懂：whenever 是“任何需要的时候”；想回忆一下时随时可以暂停。\n解析：按“需要回想一下时／可以暂停”记许可和适用时机；whenever（每当需要时）不限定固定时刻，can（可以）表示许可而非要求。\n下次：听到回忆许可→把暂停与需要思考的时机绑定→核对时间连接词和回忆目的，不改成必须定时休息。"
+  },
+  "S116": {
+    "type": "repeat",
+    "reference": "If you mention a person we have not discussed, briefly explain how you knew that person.",
+    "explanation": "读懂：have not discussed 是“还未谈到过”；提到新人物时说明你如何认识他。\n解析：按“提到未谈过的人／简短说明如何认识”记条件与补充要求；how you knew that person（你如何认识那个人）保留过去时，并与前面新人物对应。\n下次：听到引入新人物→分别记未谈过的限定与认识关系→核对否定、简短程度和过去时，不只留下姓名。"
+  },
+  "S117": {
+    "type": "repeat",
+    "reference": "We are interested in your memories, so you do not need to check every date while speaking.",
+    "explanation": "读懂：memories 是“个人回忆”；讲话时不必逐个查核日期，不等于日期毫无价值。\n解析：按“关注个人回忆／说话时无须逐个查日期”记原因和免除事项；do not need to（没有必要）否定必要性，不等于禁止查证。\n下次：听到不必做某事→找清被免除的动作与发生时段→核对逐个日期和说话过程中两项限制，不扩大成日期毫无意义。"
+  },
+  "S118": {
+    "type": "repeat",
+    "reference": "Before we share any recording, you will have a chance to review it and request changes.",
+    "explanation": "读懂：review it and request changes 是“回听录音并提出修改”；分享前会给你这个机会。\n解析：按“分享录音前／给机会／回听并要求修改”记先后和两项行动；a chance to（做……的机会）后连接两个动作，不能只留下回听。\n下次：听到分享前的安排→记机会在发布之前→核对回听与提出修改都保留，并检查录音代词指向。"
+  },
+  "S119": {
+    "type": "repeat",
+    "reference": "The ferry boards at pier four.",
+    "explanation": "读懂：pier four 是“四号码头”；乘客在那里登船。\n解析：按“这班渡轮／四号码头登船”记交通工具和地点；at（在）连接登船位置，four（四）紧跟码头名词表示编号，不能按时刻记。\n下次：听到码头信息→把数字与码头绑定→按原词复述，核对地点介词和登船动词词尾，不改成出发时间。"
+  },
+  "S120": {
+    "type": "repeat",
+    "reference": "Keep your ticket ready for inspection.",
+    "explanation": "读懂：inspection 是“查验”；把船票准备好以便检查。\n解析：按“船票保持就绪／供查验”记状态与目的；keep…ready（让……保持就绪）中间放船票，所属词指乘客自己的票。\n下次：听到备查要求→记要保持的物件状态→核对所属词、就绪状态及目的介词，不替换成购票动作。"
+  },
+  "S121": {
+    "type": "repeat",
+    "reference": "Passengers with bicycles should wait beside the ramp until called.",
+    "explanation": "读懂：ramp 是“登船坡道”；带车乘客先在旁边等待通知。\n解析：按“带自行车的乘客／坡道旁等待／直到被通知”记人群、位置和终点；until called（直到被通知）是原句的省略表达，复述不自行加词。\n下次：听到特定乘客安排→先记适用人群→核对坡道旁的位置和等候终点，不扩大为所有人立即登船。"
+  },
+  "S122": {
+    "type": "repeat",
+    "reference": "Leave the middle seats free for passengers who need assistance.",
+    "explanation": "读懂：assistance 是“协助”；中间座位要留给需要帮助的乘客。\n解析：按“中间座位留空／给需要协助者”记用途；leave…free（让……空着）说的是保留座位，不是船票免费；后面的从句限定受益乘客。\n下次：听到留座安排→记哪部分座位和为谁保留→核对中间位置及需要帮助的限定，不变成票价说明。"
+  },
+  "S123": {
+    "type": "repeat",
+    "reference": "If the upper deck becomes crowded, please use the stairs at the rear to reach the lower cabin.",
+    "explanation": "读懂：rear 是“后部”；上层拥挤时从后部楼梯去下层客舱。\n解析：按“上层拥挤／走后部楼梯／到下层客舱”记路线；at the rear（在后部）修饰楼梯，上层是起点，下层客舱是终点。\n下次：听到拥挤应对→按起点、楼梯位置、目的地保存→核对后部与下层，不随词块移动而颠倒路线。"
+  },
+  "S124": {
+    "type": "repeat",
+    "reference": "The ferry will stop at two islands, so listen carefully for your destination before preparing to leave.",
+    "explanation": "读懂：two islands 是“两座岛”；有不止一站，先听清目的地再准备下船。\n解析：按“停两座岛／听清自己的目的地／再准备下船”记多站行程；listen carefully for（留心听取）指出需要听辨的信息，先听再准备的次序不能变。\n下次：听到不止一站→把自己的目的地与停靠数量分开记→核对两站、所属词和下船前提，不把每次靠岸都当作终点。"
+  },
+  "S125": {
+    "type": "repeat",
+    "reference": "Please remain seated until the crew opens the gate, even if you can already see the dock.",
+    "explanation": "读懂：remain seated 是“保持坐着”；看到码头也要等船员开门再起身。\n解析：按“保持坐着／等船员开门／即使已看到码头”记要求、终点和让步；until the crew opens the gate（直到船员开门）给出真正可结束等待的条件。\n下次：听到等待加让步→把开门当作行动终点→核对坐姿、执行开门的人及已经看到码头的信息，不用视觉线索替代许可。"
+  },
+  "S126": {
+    "type": "subjective",
+    "keywords": [
+      "plan",
+      "change",
+      "because",
+      "next"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "Last month, a friend and I planned to visit an outdoor market, but heavy rain started just before we left. We checked the forecast and decided to cook lunch together instead. I already had some vegetables, so we only needed a few things from the shop downstairs. The afternoon was different from our original plan, but we still spent time together. I learned that changing the activity does not have to mean losing the purpose of a plan.",
+    "explanation": "读懂：unexpectedly 是“出乎意料地”；讲一次计划变动，并说明你接下来做了什么。\n解析：示例用下雨打断逛市场、改为一起做饭说明应对，重点是动作而非长篇抱怨天气。其他经历也可，须把变动和下一步连起来。\n下次：听到 What did you do next（你接下来做了什么）→用一句交代原计划→讲变动与具体动作，最后检查是否回答了“变了什么、自己做了什么”；也可简短补充结果。"
+  },
+  "S127": {
+    "type": "subjective",
+    "keywords": [
+      "decide",
+      "time",
+      "experience",
+      "options"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I usually take a few minutes to consider my options, unless someone needs immediate help. Once, my train was canceled while I was traveling to a family dinner. My first thought was to take an expensive taxi ride. After checking the next departure and calling my family, I realized that arriving an hour later was perfectly fine. That short pause saved money and reduced my stress. For me, thinking briefly is often more useful than reacting immediately.",
+    "explanation": "读懂：consider your options 是“比较可选办法”；选快速决定或稍作考虑，并用经历支撑。\n解析：示例以列车取消后先查下一班、联系家人说明等待思考的价值，不说所有紧急情况都能等。主张快速决定也可，但要给相应情境与结果。\n下次：遇到二选一偏好→先明确常用方式→讲一件具体事证明它的作用，检查例子支持你的选择而非只描述困难。"
+  },
+  "S128": {
+    "type": "subjective",
+    "keywords": [
+      "students",
+      "task",
+      "result",
+      "because"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I think students need some tasks with uncertain outcomes, alongside exercises with clear answers. For example, a class could design a small event and then examine why attendance differed from their predictions. Students would practice adjusting their ideas rather than simply following instructions. However, the teacher should still explain how the work will be evaluated. Uncertainty about the result can encourage exploration, while uncertainty about the grading rules can make students anxious for no useful reason.",
+    "explanation": "读懂：uncertain outcomes 是“结果不确定”；讨论学校任务应容许探索还是都预设明确结果。\n解析：示例支持部分开放任务，以活动人数预测说明调整思路；同时区分“结果开放”与“评分规则不清”。支持明确结果同样可从初学者需要出发。\n下次：听到学校应如何安排→先表立场→用一个课堂任务说明学习效果，再检查没有把不确定结果等同于老师不给任何指导。"
+  },
+  "S129": {
+    "type": "subjective",
+    "keywords": [
+      "center",
+      "money",
+      "activities",
+      "needs"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I would keep part of the money available for unexpected needs rather than schedule an activity for every available dollar. If a room suddenly becomes unusable, a small reserve could help the center move an important class elsewhere. That protects activities people already rely on. I would not save everything, though. The center should explain how much it is reserving and review the amount regularly, so residents can see that the money still serves them.",
+    "explanation": "读懂：unexpected needs 是“临时出现的需要”；在增加计划活动和留备用资金之间作建议。\n解析：示例优先留部分备用金，用教室突发停用说明保护既有课程的价值，并避免全部闲置。支持增加活动也可，需解释为何当前需求更值得投入。\n下次：听到有限资金取舍→先选优先用途→讲一个受益场景，再补保留资金或增加活动的边界，检查不是无成本地“两边全要”。"
+  },
+  "S130": {
+    "type": "subjective",
+    "keywords": [
+      "skill",
+      "learn",
+      "practice",
+      "useful"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I learned to repair a small tear in my clothes from my grandmother. She first showed me how to thread a needle, and then we practiced on an old piece of fabric. My first stitches were uneven, but she explained that keeping them close together mattered more than making them look perfect. Later, I repaired a pocket on my jacket. Completing something useful made me want to practice again, because I could see an immediate result.",
+    "explanation": "读懂：practical skill 是“实用技能”；讲课堂外学会的技能及学习方法，不只报技能名称。\n解析：示例把穿针、旧布练习、修衣袋连成学习过程，结果体现实用价值。这是可能经历，不要求你也会缝纫或必须向家人学。\n下次：看到 How did you learn（你怎样学会的）→选一项小技能→讲自己的学习步骤，例如看示范后亲手尝试，检查最后有没有说明学会后能做什么。"
+  },
+  "S131": {
+    "type": "subjective",
+    "keywords": [
+      "watch",
+      "try",
+      "skill",
+      "because"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I prefer watching a short demonstration before trying a new practical skill. When I first learned to use a sewing machine, I could not understand the instructions about placing the thread. Watching someone do it once made the sequence much clearer. However, I would not want to watch a long lesson without practicing. My ideal approach is to see one step, try it, and then ask a question if my result looks different from the example.",
+    "explanation": "读懂：demonstration 是“实际演示”；比较先观看与先动手的偏好。\n解析：示例用缝纫机穿线说明看步骤的帮助，再接马上练习，不把观看和实践说成永远互斥。先试再看的立场也可用发现问题的价值支持。\n下次：听到学习方式比较→先选起步方式→举一个具体难点说明它为何有效，检查没有只说“视频很好”却不解释帮助了哪一步。"
+  },
+  "S132": {
+    "type": "subjective",
+    "keywords": [
+      "schools",
+      "skills",
+      "students",
+      "because"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I agree that schools should teach a few everyday skills, but they do not need a separate course for every activity. A short cooking project could combine planning, reading instructions, and working with measurements. Students who rarely cook at home would gain useful experience without losing an entire academic subject. The important thing is to choose skills that many students can actually use. I would prefer several well-designed projects to a long course filled with disconnected tips.",
+    "explanation": "读懂：everyday skills 是“日常技能”；说明是否赞成学校多教做饭、基础维修等内容。\n解析：示例支持少量整合项目，用烹饪连接计划与测量，回应课时成本；不是声称学术科目应全部取消。反对者也可解释学校职责或家庭渠道。\n下次：先表是否赞成→选一种可教技能说明具体收益→补课程安排边界，检查收益与学校教学有关，而不只是你个人喜欢做饭。"
+  },
+  "S133": {
+    "type": "subjective",
+    "keywords": [
+      "courses",
+      "groups",
+      "skills",
+      "residents"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I would support informal groups for common skills and bring in experts when mistakes could have serious consequences. A neighbor can show people how to mend a shirt, and the relaxed setting may encourage beginners to ask questions. A course involving specialized equipment needs a qualified instructor, however. This combination would use local knowledge without assuming that every experienced resident is a good teacher. The town could begin with a few low-risk groups and ask participants what they learned.",
+    "explanation": "读懂：expert-led courses 是“专家带领课程”，informal groups 是“居民互教小组”；建议资金支持方式。\n解析：示例按出错后果分配教学资源：普通缝补可互教，专门设备需合格指导。两边支持并非回避选择，关键是给出清楚分工，不能假定所有熟手都擅长教学。\n下次：遇到机构方案比较→先定选择标准→给两类技能说明分工或优先级，检查钱和教师资源的安排能对应实际需求。"
+  },
+  "S134": {
+    "type": "subjective",
+    "keywords": [
+      "space",
+      "share",
+      "people",
+      "because"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I shared a kitchen with three other students during a summer course. It was easy to prepare meals together, but the counter became crowded when everyone left ingredients out. We eventually gave each person a small storage shelf and kept one part of the counter empty. That simple arrangement helped more than asking everyone to be tidy all the time. We knew exactly where our things belonged, and there was always somewhere to prepare food.",
+    "explanation": "读懂：shared with other people 是“与他人共同使用”；说明合用时方便或困难在哪里。\n解析：示例谈共用厨房台面拥挤，再用个人储物架和固定空台面说明改善；具体布局比泛称室友好坏更能解释使用体验。其他共享空间同样有效。\n下次：先选一个真实熟悉的空间→讲一项共同使用的问题或便利→补一个可观察细节，检查重点是空间使用而非评价别人性格。"
+  },
+  "S135": {
+    "type": "subjective",
+    "keywords": [
+      "rules",
+      "conversation",
+      "shared",
+      "example"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I prefer having a few written rules and using conversations for unusual situations. In our shared kitchen, a note saying that dishes should be washed before bedtime prevented arguments about how long dirty dishes could stay in the sink. But when one roommate was ill, we talked and changed the arrangement temporarily. Written rules gave us a common starting point, while conversation helped us treat each other reasonably. Too many rules would have made a simple living arrangement feel unnecessarily formal.",
+    "explanation": "读懂：written rules 是“写下的规则”，informal conversations 是“非正式沟通”；比较你更倚重哪一种。\n解析：示例以少量规则为主、特殊情况沟通为辅：睡前洗碗有共同标准，生病时可调整。选择只靠沟通也可，但要解释如何避免理解不一致。\n下次：先说主要依靠什么→给一个日常规则或沟通例子→检查是否说明其好处与适用边界，而非只说两种都好。"
+  },
+  "S136": {
+    "type": "subjective",
+    "keywords": [
+      "shared",
+      "space",
+      "apartments",
+      "facilities"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I would support that trade-off only if the shared facilities replace things people would otherwise need inside their apartments. A reliable laundry room or a comfortable guest room could be genuinely useful. A large decorative lounge might not justify losing bedroom space, especially for someone who works at home. Before making apartments smaller, the building should ask future residents what they would actually use. Shared space is valuable when it solves a practical problem, not simply because it looks impressive.",
+    "explanation": "读懂：individual apartments are smaller 是“各户住房更小”；需正面回应共享设施与私人空间的取舍。\n解析：示例按是否替代户内需求判断：洗衣房可能有用，装饰性大厅未必值得。赞成或反对都可，但不能只列共享空间优点而忽略卧室变小。\n下次：先提出接受或拒绝的标准→比较一种实用设施与私人空间损失→检查有没有解释谁受益、谁可能不方便。"
+  },
+  "S137": {
+    "type": "subjective",
+    "keywords": [
+      "quiet",
+      "group",
+      "library",
+      "needs"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I would create clearly separated quiet and discussion areas rather than ask everyone to follow the same noise rule. Students preparing for an exam could use the quiet area, while a project group could reserve a small room. Clear signs would help visitors choose the right place without staff constantly correcting them. If the building is too small for separate rooms, the library could offer group work at certain times and publish that schedule in advance.",
+    "explanation": "读懂：meet both needs 是“兼顾两类需求”；既照顾安静读者，也支持合作交流。\n解析：示例先按空间分区，场地不足再按时段安排，并说明标识如何减少冲突。只要求大家完全不说话会漏掉合作需求；把全馆改讨论区也会漏掉安静需求。\n下次：先点名两类使用者→给一个空间或时间分配办法→检查规则是否让双方都知道何时何地可以做什么。"
+  },
+  "S138": {
+    "type": "subjective",
+    "keywords": [
+      "service",
+      "return",
+      "because",
+      "experience"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I often use a small bicycle repair shop near my apartment. The mechanic explains what needs fixing before doing any work, and he tells me when a repair can wait. Once, I expected to buy a new wheel, but he adjusted the existing one instead. That experience made me trust his advice. The shop is not the closest option, but clear explanations matter more to me than saving a few minutes on the way there.",
+    "explanation": "读懂：return to it 是“再次使用这项服务”；说明常用什么服务，以及回头使用的原因。\n解析：示例以修车店先解释、只调整车轮而不要求买新轮来支持信任。其他服务也可，但“服务很好”需由具体行为证明，而不是只介绍店的位置。\n下次：先报服务类型→讲一次可观察的服务细节→说明它为何让你再来，检查细节与回头原因有直接联系。"
+  },
+  "S139": {
+    "type": "subjective",
+    "keywords": [
+      "reviews",
+      "recommendations",
+      "service",
+      "because"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I rely more on recommendations from people I know, especially when I can ask why they liked the service. A friend recently recommended a tailor and showed me a jacket the tailor had altered. I could see the quality and ask about the price and waiting time. Online reviews are still useful for checking opening hours or noticing repeated complaints, but a detailed conversation helps me understand whether someone else's priorities are similar to mine.",
+    "explanation": "读懂：rely more on 是“更依赖”；比较网上评价与熟人推荐，而不是要求完全排除另一渠道。\n解析：示例用朋友展示改好的夹克说明可看成果、追问价格；网上评论作补充。支持网评也可，需说明如何筛选具体信息，不能只以评论多就等于可信。\n下次：先选主要信息渠道→举可核验的服务细节→解释它如何符合你的需要，检查没有把别人喜欢自动等同于你也合适。"
+  },
+  "S140": {
+    "type": "subjective",
+    "keywords": [
+      "online",
+      "customers",
+      "price",
+      "book"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "It can be a good approach if customers still have another practical way to book. Online reservations may reduce time spent answering calls, so sharing that saving with customers seems reasonable. However, a large discount could effectively punish people who cannot use the system. I would support a small discount and keep telephone bookings available. The business should also make the online price clear before customers enter their details, rather than surprise them at the final step.",
+    "explanation": "读懂：make reservations online 是“在网上预约”，这样可享较低价格；评价做法时要考虑便利和不能上网的人。\n解析：示例支持小幅优惠，理由是减少接听电话成本，但保留电话途径；不把所有顾客都假定为熟练上网者。反对也可从公平或价格透明出发。\n下次：听到带条件优惠→先说是否支持→解释运营收益和受影响人群，再核对立场有没有回应“只有网上预约优惠”的条件。"
+  },
+  "S141": {
+    "type": "subjective",
+    "keywords": [
+      "service",
+      "online",
+      "desk",
+      "residents"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I would first keep the staffed desk open for one evening each week. People with complicated questions often need a conversation, and daytime opening hours can exclude residents who work. A longer evening session would address that problem directly. The online portal still matters, but I would improve its most common tasks gradually rather than rebuild everything at once. My priority is making sure residents have a usable option when an online form does not fit their situation.",
+    "explanation": "读懂：priority 是“优先事项”；在升级网上办事入口和延长有人服务的柜台时间之间排序。\n解析：示例先选每周一次晚间柜台，回应白天工作的居民和复杂问题；网上常用功能逐步改善。选网上优先同样可，但要说明它能解决哪类实际障碍。\n下次：先明确第一笔资源投向→指出最受益群体和具体问题→补另一渠道如何保留，检查不是把两项都写成无条件全面扩张。"
+  },
+  "S142": {
+    "type": "subjective",
+    "keywords": [
+      "information",
+      "check",
+      "because",
+      "decision"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I once saw a message saying that a local exhibition would close early that weekend. I was planning to take my cousin, so I checked the exhibition's own announcement instead of changing our plans immediately. The message referred to the previous weekend, not the coming one. We visited at the usual time and avoided canceling unnecessarily. Since then, I have paid more attention to dates because information can be accurate about an event but still irrelevant to my decision.",
+    "explanation": "读懂：before acting on it 是“据此行动之前”；说明核对了哪条信息以及为何要核对。\n解析：示例核对展览自己的公告，发现转发的是上周时间。重点不是所有转发都错，而是日期不适用于这次计划，解释为何核对能避免误取消。\n下次：先讲将影响什么决定的信息→说明核对渠道和关键字段→给核对后的行动，检查不能只说“我上网查了”而无结果。"
+  },
+  "S143": {
+    "type": "subjective",
+    "keywords": [
+      "advice",
+      "experience",
+      "choose",
+      "example"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I first ask what experience each person has and whether their situation matches mine. When I was choosing a language course, one friend preferred a fast class while another recommended a slower one. Both gave reasonable advice, but they started at different levels. I compared the course descriptions with what I already knew and chose the slower class. The disagreement did not mean that one friend was dishonest; their advice was useful for different learners.",
+    "explanation": "读懂：conflicting advice 是“互相冲突的建议”；说明判断依据，不只是选更喜欢的人。\n解析：示例发现朋友起点不同，所以课程推荐不同，再以自身水平匹配课程。不同意见不自动代表一方撒谎；也可选择试用或向更熟悉任务的人追问。\n下次：遇到冲突建议→先查建议者经验与适用条件→与自己需求比较后选择，检查例子体现了判断过程而非盲从。"
+  },
+  "S144": {
+    "type": "subjective",
+    "keywords": [
+      "students",
+      "information",
+      "facts",
+      "learn"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I think schools should give information evaluation more attention, while still teaching enough facts to help students recognize unlikely claims. Students could compare two reports about the same event and examine where each report gets its evidence. That activity uses knowledge rather than replacing it. Memorizing a long list of details is less useful if students cannot tell when a source is outdated or incomplete. I would combine factual learning with short, regular exercises in checking claims.",
+    "explanation": "读懂：evaluate information 是“评估信息”；必须回应这会减少记事实时间的取舍。\n解析：示例支持更多评估训练，但保留帮助识别不可信说法的基础事实，并用比较同一事件报道说明如何整合。不能把评估能力说成完全不需要知识。\n下次：先说时间应怎样分配→给一个同时运用知识与核查的课堂动作→检查理由是否解释了为何值得占用部分记忆课时。"
+  },
+  "S145": {
+    "type": "subjective",
+    "keywords": [
+      "news",
+      "details",
+      "quickly",
+      "confirm"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I would prioritize confirming details, but I would not wait for every minor question to be answered. A news organization can publish what it has established and clearly explain what remains uncertain. For example, it could report that a public event has been interrupted without guessing why it happened. This approach gives people timely information without presenting speculation as fact. If new evidence changes the report, the correction should be visible rather than quietly hidden in an updated paragraph.",
+    "explanation": "读懂：confirm details 是“核实细节”；讨论快发与确认之间的优先级。\n解析：示例先重核实，但允许发布已确认部分并注明未知；“活动中断”不等于已知中断原因。主张速度优先也需说明怎样标明不确定，而非默认猜测可当事实。\n下次：先定优先原则→区分已知事实与待查原因→举一个可先发而不猜测的内容，最后检查是否交代新证据出现后怎样更正。"
+  },
+  "S146": {
+    "type": "subjective",
+    "keywords": [
+      "task",
+      "learn",
+      "work",
+      "experience"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I helped at a small bookstall during a weekend event. My main task was to record which titles had sold so the owner could plan the next day's stock. At first, I wrote things down whenever the stall became quiet, but I soon forgot a few details. I began making a brief mark after each sale instead. The experience taught me that a simple routine can be more reliable than trusting my memory during a busy period.",
+    "explanation": "读懂：task 是“一项具体工作”；可以来自兼职、志愿活动或家人生意，不要求有正式职业经历。\n解析：示例用售书记录从事后补记改为每笔做标记，说明学到可靠流程。只说工作辛苦还不够，需指出任务与收获之间的联系。\n下次：先选一个负责的小任务→讲遇到的具体问题和调整→核对最后学到的原则能从这次经历看出来。"
+  },
+  "S147": {
+    "type": "subjective",
+    "keywords": [
+      "role",
+      "learn",
+      "tasks",
+      "prefer"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I would choose a role with some new things to learn, provided that someone could train me at the beginning. Repeating a familiar task might feel comfortable, but I would like to leave the job with an ability I did not have before. For example, helping to organize deliveries could teach me how to coordinate schedules. I would still want the workload to be manageable, because a part-time job should not make it impossible to keep up with my studies.",
+    "explanation": "读懂：familiar tasks 是“熟悉的任务”；在稳定熟练与学习新事物之间表达偏好。\n解析：示例倾向新任务，以安排配送学习协调为例，同时要求入门指导和可承受工作量。偏好熟悉工作也可从学习时间或稳定表现解释，不等于没有上进心。\n下次：先选岗位类型→讲一项能获得的能力或便利→检查培训、课业等条件有没有让你的选择更具体，而非只说挑战越多越好。"
+  },
+  "S148": {
+    "type": "subjective",
+    "keywords": [
+      "students",
+      "experience",
+      "work",
+      "because"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I think work experience can be valuable, but it should not be a requirement that ignores students' circumstances. A short placement can help someone learn to communicate with customers or meet a deadline. However, students with heavy courses or family responsibilities may not have time for a regular job. Universities could offer flexible projects with local organizations instead. The goal should be meaningful responsibility and reflection, not simply collecting a certain number of hours on a form.",
+    "explanation": "读懂：before they graduate 是“毕业前”；评价大学生获得工作经验是否必要。\n解析：示例认可真实责任和沟通练习，但不赞成忽略课业与家庭负担的统一要求，提出弹性项目。支持强制实习也可，须解释机会如何公平获得。\n下次：先区别“有价值”与“人人必须”→举工作带来的具体学习→检查建议是否考虑不能固定兼职的学生，而非把他们判为不努力。"
+  },
+  "S149": {
+    "type": "subjective",
+    "keywords": [
+      "skills",
+      "learn",
+      "employers",
+      "experience"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I would give willingness to learn more weight when the basic tasks can be taught fairly quickly. A new employee who asks useful questions and follows feedback may improve more than someone who already knows one procedure but resists changes. However, enthusiasm should not replace essential skills in every job. An employer could use a short practical task and a conversation about a past learning experience to assess both ability and attitude without relying only on confident interview answers.",
+    "explanation": "读懂：willingness to learn 是“学习意愿”；比较招聘新手时现有技能与学习态度的权重。\n解析：示例在基础任务易培训时偏向学习意愿，但不取消岗位必需技能；用实际任务加学习经历来判断，避免把会自夸等于能学习。相反优先级也可有理有据。\n下次：先限定一种岗位条件→说更看重什么及为何→给可观察的评估办法，检查“愿意学”有行为证据而不只是热情口号。"
+  },
+  "S150": {
+    "type": "subjective",
+    "keywords": [
+      "bought",
+      "useful",
+      "expected",
+      "because"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I bought a small insulated bottle mainly because I wanted to carry tea to class. I soon discovered that it was also useful on long walks and during evenings in the library. Before buying it, I often paid for a drink simply because I had forgotten to bring one. The bottle was easy to clean and fitted in my bag, so I actually used it every day. Its value came from those ordinary conveniences rather than any unusual feature.",
+    "explanation": "读懂：more useful than you expected 是“比预想更有用”；需比较原先用途与后来发现的价值。\n解析：示例从带茶上课扩展到散步、图书馆，再解释易清洗易携带促成每天使用。只说价格便宜不足以回答有用在哪里，也不用选昂贵物品。\n下次：先交代买时的一项用途→讲后来多解决了什么问题→检查有实际使用细节，能看出价值超过原预期。"
+  },
+  "S151": {
+    "type": "subjective",
+    "keywords": [
+      "buy",
+      "research",
+      "decision",
+      "example"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I usually wait and do a little research, especially if I will use the item for a long time. When I considered buying a desk lamp, I compared how the light could be adjusted rather than reading every available review. I also measured my desk, which ruled out a model I initially liked. That process took only an evening. It helped me buy something suitable without turning a small purchase into a complicated project that lasted for weeks.",
+    "explanation": "读懂：do not urgently need 是“不急需”；谈这类购买前如何决定，并配例子。\n解析：示例不是无限比较，而是抓台灯可调性和桌面尺寸两项相关信息，一晚就完成。快速决定也可由成本低或经验足解释，但别用急救类购买绕开不急需条件。\n下次：先选一个非急需物品→指出一两项真正影响使用的标准→核对例子体现你的决策方式，而非只罗列商品特点。"
+  },
+  "S152": {
+    "type": "subjective",
+    "keywords": [
+      "stores",
+      "price",
+      "buy",
+      "quantity"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I think quantity discounts are useful when people can store and use everything they buy. A family might benefit from a larger pack of soap, for example. But a student living alone may waste food by buying more than needed just to get a lower unit price. Stores should show the price per item clearly while still offering smaller packages. That lets customers compare options without suggesting that the largest package is automatically the best choice for everyone.",
+    "explanation": "读懂：lower price per item 是“每件单价更低”；评价多买优惠，不能只比较总价数字。\n解析：示例把能用完的肥皂与可能浪费的食物区分，指出单价低不一定总支出或实际成本低。支持或反对促销都可，需联系储存、用量或浪费。\n下次：先判断买的人能否用完→举一种合适或不合适的商品→检查结论是否同时考虑单价、购买量和实际使用。"
+  },
+  "S153": {
+    "type": "subjective",
+    "keywords": [
+      "equipment",
+      "buy",
+      "lending",
+      "people"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I would prioritize lending centers because they give people an alternative when they genuinely need equipment for a short time. Someone might need a drill to put up one shelf but have no reason to own one afterward. A neighborhood center could meet that need, while information about careful purchasing could support the service. Education alone may tell people what not to do without helping them finish the task that led them to consider buying something.",
+    "explanation": "读懂：rarely used equipment 是“很少用到的设备”；比较借用中心与少买宣传两种措施。\n解析：示例优先借用中心，以偶尔装置物架需用钻机说明替代办法，宣传作为辅助。偏向教育也可，但要解释居民仍需完成任务时怎么办。\n下次：先选优先政策→用一种低频设备说明需求如何被满足→检查没有把“少购买”误说成“不准完成日常任务”。"
+  },
+  "S154": {
+    "type": "subjective",
+    "keywords": [
+      "place",
+      "outdoor",
+      "break",
+      "usually"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I often visit a narrow riverside path near my apartment when I need a break. I do not usually go there for serious exercise. Instead, I walk for about twenty minutes and look at the boats or sit on a bench without checking my phone. The route is familiar, so I do not need to plan anything. After a morning indoors, the change of surroundings helps me return to my work with a clearer sense of what to do next.",
+    "explanation": "读懂：need a break 是“需要休息调整”；介绍一个常去的户外地点和实际活动。\n解析：示例选熟悉的河边路，说明散步、看船、少看手机及休息效果，不将整个回答变成景点导游词。公园、院子等地点也成立。\n下次：先定位一个熟悉地点→讲一两项常做动作→说明为何能短暂放松，检查通常行为比景色形容占更多篇幅。"
+  },
+  "S155": {
+    "type": "subjective",
+    "keywords": [
+      "park",
+      "quiet",
+      "activities",
+      "prefer"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I would usually choose a quiet natural area, especially after spending the day around many people. I like hearing wind and birds without needing to join an organized activity. Last weekend, I walked through a wooded area with a friend, and we could talk without raising our voices. A busy park is enjoyable when I want to meet a group, but for an ordinary break I prefer somewhere that does not ask for much attention.",
+    "explanation": "读懂：busy park 是“热闹的公园”，quiet natural area 是“安静的自然环境”；说明闲暇偏好。\n解析：示例把安静环境与人多一天后的休息需求相连，用无需提高音量的谈话作细节；也承认聚会时热闹公园合适。选热闹一方也需同样具体。\n下次：先说更常选择哪类环境→联系一种休闲目的→举一次活动细节，检查不是无根据地宣称另一类场所对所有人都不好。"
+  },
+  "S156": {
+    "type": "subjective",
+    "keywords": [
+      "cities",
+      "parks",
+      "parking",
+      "residents"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I would support replacing some parking spaces with small parks where residents currently have little outdoor space. A few trees, benches, and a safe walking area can serve people throughout the day, not only those who own cars. However, the city should first understand who uses the parking and whether deliveries or residents with limited mobility depend on it. I would favor carefully chosen locations rather than a rule that removes the same amount of parking from every neighborhood.",
+    "explanation": "读懂：give up parking spaces 是“减少停车位”；换小公园有明确空间代价。\n解析：示例支持缺少户外空间的社区优先改造，同时调查送货及行动不便者需要。反对也可提出通达性问题，但不能把所有停车需求视为完全相同。\n下次：先定支持或反对的地点条件→比较公园使用者收益与原停车用途→检查有没有回应被替代空间原来服务的人。"
+  },
+  "S157": {
+    "type": "subjective",
+    "keywords": [
+      "park",
+      "funds",
+      "maintain",
+      "attractions"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I would maintain the existing facilities first because they affect almost every visit. A new attraction may draw attention, but a broken path or a dirty toilet can make people avoid the park entirely. For example, repairing a damaged path to make it smooth would help both someone pushing a stroller and someone walking with difficulty. Once the basic facilities are reliable, the park could ask residents which new feature would add the most value instead of guessing.",
+    "explanation": "读懂：maintain existing paths, benches, and toilets 是“维护已有的小路、长椅和厕所”；资源有限时要在新增亮点与基础维护之间排序。\n解析：示例先维护路、椅子和厕所，用推婴儿车与步行困难者共同受益说明广覆盖。优先新增也可，但应解释为何已有基础足够，不能跳过当前维护问题。\n下次：先给第一优先级→举影响多种访客的一项设施→检查理由是否支持你选定的优先级，并交代有限资金下另一类需求如何处理。"
+  },
+  "S158": {
+    "type": "subjective",
+    "keywords": [
+      "feedback",
+      "improve",
+      "changed",
+      "example"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "A classmate once listened to a short presentation I was preparing. She said that my examples were interesting, but she could not tell what point connected them. I added one clear sentence near the beginning and removed an example that did not support it. When I practiced again, the presentation was shorter and easier to follow. Her feedback helped because it described a specific problem from the listener's perspective instead of simply saying that my presentation needed more work.",
+    "explanation": "读懂：feedback 是“对表现的反馈”；讲反馈如何促成实际改进，不能只转述一句夸奖。\n解析：示例先指出听众找不到例子之间的主线，再补中心句、删无关例子，效果与建议直接对应。其他任务也可，重点是改了哪一处。\n下次：先讲原任务的一处问题→引出具体反馈→说采取的修改和结果，检查修改不是与你收到的意见无关。"
+  },
+  "S159": {
+    "type": "subjective",
+    "keywords": [
+      "feedback",
+      "comments",
+      "detailed",
+      "prefer"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I prefer detailed comments when I have enough time to revise. If someone reads an email I have drafted, it helps to know which sentence sounds unclear and what information is missing. A general comment like \"make it more professional\" leaves me guessing. However, when I am checking whether an idea is worth developing at all, a broad reaction can be useful. The kind of feedback I want depends on whether I am choosing a direction or improving a draft.",
+    "explanation": "读懂：general impressions 是“整体印象”，specific parts 是“具体部分”；比较你想得到哪类反馈。\n解析：示例修改邮件时需要指出哪句不清楚，选方向时整体反应也有用。可以偏向整体，但要解释它解决什么阶段的问题，不能只说详细越多越好。\n下次：先确定反馈发生的阶段→选一种更需要的意见→举一条能指导行动的反馈，检查示例确实体现整体或细节的区别。"
+  },
+  "S160": {
+    "type": "subjective",
+    "keywords": [
+      "teachers",
+      "revise",
+      "grade",
+      "students"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I think teachers should allow revisions when students explain what they changed and why. A grade alone tells students how they performed, but revision gives them a chance to use the feedback. For example, someone could improve the organization of an essay rather than simply correct a few spelling errors. There should still be a deadline and a clear policy about how the new work affects the grade. Otherwise, the opportunity could become confusing or unfair to classmates.",
+    "explanation": "读懂：revise work after receiving a grade 是“评分后再修改作业”；评价是否应给这种机会。\n解析：示例支持修改并要求解释改动，通过文章结构调整体现学习；同时设置期限与分数政策。反对也可从公平或教学时间讨论，不必认同范文立场。\n下次：先说是否允许→解释反馈怎样转成学习行为→检查期限和评分规则是否清楚，别把修改机会等同于无条件加分。"
+  },
+  "S161": {
+    "type": "subjective",
+    "keywords": [
+      "manager",
+      "mistakes",
+      "team",
+      "private"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I would normally correct an individual's mistake privately, then discuss any general lesson without identifying the person. A private conversation makes it easier to ask what happened without turning the problem into a public embarrassment. If the same issue could affect everyone, the team still needs to understand the procedure. For instance, a manager could demonstrate a clearer way to label files. That approach shares useful knowledge while keeping the focus on improving work rather than assigning blame.",
+    "explanation": "读懂：privately 是“私下”，whole team 是“整个团队”；讨论纠错场合，而不是是否隐瞒错误。\n解析：示例个人问题私下了解、通用流程向团队讲解，以文件命名示范说明可共享方法而不点名羞辱。主张公开讨论也要解释适用情境与保护沟通的做法。\n下次：先区分个人责任和团队都需知道的知识→给处理顺序→检查方案既能纠正问题，又不是把对人的责备当成唯一教学办法。"
+  },
+  "S162": {
+    "type": "subjective",
+    "keywords": [
+      "object",
+      "kept",
+      "because",
+      "use"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I have kept a simple wooden pencil case since secondary school. It is scratched, and one corner is darker than the others, but it still closes properly. My older brother gave it to me before my first important exam, so it reminds me of his encouragement. I use it for a few pens on my desk rather than storing it away. Keeping something meaningful is easier for me when it still has a practical place in everyday life.",
+    "explanation": "读懂：kept for a long time 是“长期保留”；说明物件及保留理由，不要求古董或贵重礼物。\n解析：示例用旧笔盒的实用状态和兄长鼓励两层理由支撑，划痕细节让经历具体。只讲购入过程会漏掉为何至今仍留着。\n下次：先点名物件和保留时间→说它如今的用途或情感联系→核对细节能够解释“仍然保留”，而非只说明当时喜欢。"
+  },
+  "S163": {
+    "type": "subjective",
+    "keywords": [
+      "repair",
+      "replace",
+      "object",
+      "cost"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I compare the likely repair cost with how useful the object will be afterward. When the zipper on my favorite backpack broke, the rest of the bag was still in good condition. A local repair shop could replace the zipper for much less than a new bag, so repairing made sense. If the fabric had also been tearing in several places, I might have chosen differently. I try to judge the whole object rather than react only to the broken part.",
+    "explanation": "读懂：repair or replace 是“修理还是换新”；要说明判断标准，并用一次物品故障举例。\n解析：示例不仅比较拉链维修费，还看背包其他部分是否良好；若多处破损，结论可不同。不是所有旧物都该修，也不是坏一点就必须扔。\n下次：先看损坏范围和修后用途→比较修理与换新的实际价值→用具体物件检查你的标准是否前后一致。"
+  },
+  "S164": {
+    "type": "subjective",
+    "keywords": [
+      "products",
+      "repair",
+      "cost",
+      "manufacturers"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I would support a somewhat higher initial price if easier repair genuinely extends the product's useful life. Being able to replace a worn part can save customers from buying a whole new item. However, a repairable design is not enough if spare parts are impossible to obtain or cost almost as much as a replacement. Manufacturers should explain how repairs work and make parts available. I would judge the whole system, not just a repairability claim on the box.",
+    "explanation": "读懂：cost more at first 是“起初买得更贵”；评价为易维修设计付出初始成本是否值得。\n解析：示例支持有实际寿命收益的加价，但要求买得到合理价格的零件；仅印“可维修”不等于真正修得起。反对者也可讨论预算紧张或使用周期短的消费者。\n下次：先权衡初始价格与后续使用→给零件供应等可检验条件→检查没有只喊环保口号而忽略用户能否实际完成维修。"
+  },
+  "S165": {
+    "type": "subjective",
+    "keywords": [
+      "community",
+      "waste",
+      "repair",
+      "exchange"
+    ],
+    "min_words": 20,
+    "max_score": 5,
+    "reference": "I would begin with a secondhand exchange because many unwanted objects still work perfectly well. A person who no longer needs a desk lamp could pass it to someone furnishing a first apartment. The event should make it easy to describe an item's condition and arrange collection, rather than simply pile everything in a room. A small repair table could support the exchange later, but I would first focus on matching usable objects with people who need them.",
+    "explanation": "读懂：unwanted possessions 是“不再需要的物品”；推荐减少这类浪费的社区办法，可提出维修、交换或其他方案。\n解析：示例优先二手交换，以仍能使用的台灯匹配新住户，补充状态说明和领取安排。支持维修活动也可，但需说明针对哪类闲置物以及如何运作。\n下次：先区分坏了与仅不再需要→选择对应方案→讲一个物品如何到达新用途，检查措施不只是换地方堆放物品。"
+  }
+}

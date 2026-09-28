@@ -1,0 +1,5616 @@
+{
+  "section": "listening",
+  "task_type": "listen_choose_response",
+  "items": [
+    {
+      "question": {
+        "id": "L236",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: This chair keeps sinking while I'm typing.",
+        "options": [
+          "The desk can be lowered too.",
+          "Try tightening the knob beneath the seat.",
+          "The chairs arrived last Monday.",
+          "I put your keyboard on the desk."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：椅子总往下滑，是在反映故障；关键是“keeps sinking”\n解析：调座椅旋钮直接处理下滑；降桌子只改桌高；键盘位置、到货日期都不解决故障。\n下次：定位物品的异常，再检查建议是否处理该异常。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "问题与解决"
+        ],
+        "vocabulary": [
+          "knob"
+        ],
+        "rationale": "椅子总往下滑，是在反映故障；关键是调座椅旋钮直接处理下滑；降桌子只改桌高；键盘位置、到货日期都不解决故障。",
+        "answer_evidence": "keeps sinking",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L237",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I thought the rehearsal was optional.",
+        "options": [
+          "Only if you're not performing on Friday.",
+          "Friday's audience can leave whenever they like.",
+          "You can buy tickets after rehearsal.",
+          "The performance lasted about an hour."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：optional指自愿的，对方在核实排练要求；原话是“optional”\n解析：不演出才可不排练给出条件；观众离场、演出时长、购票时间都不解释演员的义务。\n下次：找义务对象和豁免条件，别把观众当演员。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "条件与范围"
+        ],
+        "vocabulary": [
+          "optional"
+        ],
+        "rationale": "optional指自愿的，对方在核实排练要求；原话是不演出才可不排练给出条件；观众离场、演出时长、购票时间都不解释演员的义务。",
+        "answer_evidence": "optional",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L238",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Would you mind reading the last number back to me?",
+        "options": [
+          "Sure, the last number was seventy, not seventeen.",
+          "The last caller didn't leave a name.",
+          "I'll call that number tomorrow morning.",
+          "I finished reading the whole article."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：请求把最后一个数字再读一遍；“reading the last number back”指回读刚才的数字以核对。\n解析：清楚说七十而非十七，直接完成核对。说明明天拨号没有回读数字；来电者姓名是另一项信息；读完文章把回读数字误解成普通阅读。\n下次：听到 read back（回读）→确认需要核对的内容→检查回复是否确实提供该信息。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "澄清与核实"
+        ],
+        "vocabulary": [
+          "number"
+        ],
+        "rationale": "清楚说七十而非十七，直接完成核对。说明明天拨号没有回读数字；来电者姓名是另一项信息；读完文章把回读数字误解成普通阅读。",
+        "answer_evidence": "reading the last number back",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L239",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: The soup's good, but I can barely hold the bowl.",
+        "options": [
+          "The recipe uses fresh vegetables.",
+          "We have smaller spoons over there.",
+          "Let me get you a tray.",
+          "I can add some salt for you."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：重点是几乎端不住碗，不是汤味道；证据是“barely hold the bowl”\n解析：托盘能承托碗；加盐、原料针对味道；小勺不解决端碗困难。\n下次：转折后若是动作困难，优先解决该动作，检查建议是否对症。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "隐含请求"
+        ],
+        "vocabulary": [
+          "barely"
+        ],
+        "rationale": "重点是几乎端不住碗，不是汤味道；证据是托盘能承托碗；加盐、原料针对味道；小勺不解决端碗困难。",
+        "answer_evidence": "barely hold the bowl",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L240",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Aren't these seats reserved for the visiting team?",
+        "options": [
+          "Our team won its last match.",
+          "I reserved two tickets for tomorrow.",
+          "The visitors arrive by train tonight.",
+          "You're right; let's move to that row."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：座位留给客队，问句有提醒让座之意；关键是“reserved for the visiting team”\n解析：承认后换排直接响应；比赛胜负、客队交通、明日票务都不处理座位归属。\n下次：预留座位的提醒要核对归属，再选确认或让座的回复。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "提醒与回应"
+        ],
+        "vocabulary": [
+          "reserved"
+        ],
+        "rationale": "座位留给客队，问句有提醒让座之意；关键是承认后换排直接响应；比赛胜负、客队交通、明日票务都不处理座位归属。",
+        "answer_evidence": "reserved for the visiting team",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L241",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Could we keep the windows closed until the drilling outside stops?",
+        "options": [
+          "I'll close the door after lunch.",
+          "Of course; I'll check before opening them.",
+          "That window was repaired last month.",
+          "The drilling started before breakfast."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：请求外面钻孔声停止前保持关窗；“until the drilling outside stops”是直到外面的钻孔作业停止。\n解析：答应开窗前检查，遵守关窗的终止条件。开工时间、上月修窗都未回应请求；午后关门则换了对象，也没有答应现在关窗。\n下次：听到保持状态直到某事件→配对对象与终止条件→检查回复有没有同时遵守两者。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "时间条件"
+        ],
+        "vocabulary": [
+          "drilling"
+        ],
+        "rationale": "答应开窗前检查，遵守关窗的终止条件。开工时间、上月修窗都未回应请求；午后关门则换了对象，也没有答应现在关窗。",
+        "answer_evidence": "until the drilling outside stops",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L242",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: I can't tell which cable belongs to the projector.",
+        "options": [
+          "That projector usually works quite well.",
+          "The one with the blue tape is for the projector.",
+          "The presentation begins in ten minutes.",
+          "The screen is behind the curtain."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：要辨认投影仪的线，问的是“which cable”\n解析：蓝胶带能区分线；幕布位置、开始时间、设备通常好用都无法识别哪根线。\n下次：问哪个物件时找识别特征，检查能否具体指出它。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "指代与识别"
+        ],
+        "vocabulary": [
+          "cable"
+        ],
+        "rationale": "蓝胶带能区分线；幕布位置、开始时间、设备通常好用都无法识别哪根线。",
+        "answer_evidence": "which cable",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L243",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I'd rather not have my full name on the public list.",
+        "options": [
+          "The public list comes out on Tuesday.",
+          "Your last name is easy to spell.",
+          "We can use your initials instead.",
+          "I'll print a larger copy for you."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：她不愿公开全名，表达隐私顾虑；关键词是“full name”\n解析：用姓名首字母减少公开信息；公布日期、姓氏拼写、大字号都不回应隐藏全名的要求。\n下次：确定不愿公开的信息，再找保留登记又减少披露的办法。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "委婉偏好"
+        ],
+        "vocabulary": [
+          "initials"
+        ],
+        "rationale": "她不愿公开全名，表达隐私顾虑；关键词是用姓名首字母减少公开信息；公布日期、姓氏拼写、大字号都不回应隐藏全名的要求。",
+        "answer_evidence": "full name",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L244",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Did you mean the entrance facing the river?",
+        "options": [
+          "The entrance doors were repainted recently.",
+          "Yes, not the one beside the parking lot.",
+          "I parked beside the building yesterday.",
+          "The river is unusually high this week."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：核实面向河的入口，facing表示朝向；线索是“facing the river”\n解析：确认并排除停车场入口回答位置；水位、昨天停车、门重刷漆都未确认入口。\n下次：把两个参照物区分开，检查回复是否确认同一方位。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "地点核实"
+        ],
+        "vocabulary": [
+          "entrance"
+        ],
+        "rationale": "核实面向河的入口，facing表示朝向；线索是确认并排除停车场入口回答位置；水位、昨天停车、门重刷漆都未确认入口。",
+        "answer_evidence": "facing the river",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L245",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I'm not sure this joke belongs in a formal welcome speech.",
+        "options": [
+          "I've printed the speech in large type.",
+          "Dinner starts after the welcome speech.",
+          "The microphone is already switched on.",
+          "We could save it for dinner afterward."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：怀疑笑话适合正式欢迎辞，正式场合是“formal welcome speech”\n解析：留到晚餐调整表达场合；麦克风、字号只涉及设备；只说晚餐顺序未回应笑话适不适合。\n下次：内容合不合场合要比较正式程度，检查建议是否调整使用场景。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "语域与意图"
+        ],
+        "vocabulary": [
+          "formal"
+        ],
+        "rationale": "怀疑笑话适合正式欢迎辞，正式场合是留到晚餐调整表达场合；麦克风、字号只涉及设备；只说晚餐顺序未回应笑话适不适合。",
+        "answer_evidence": "formal welcome speech",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L246",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Is the deposit refundable if the trip is canceled?",
+        "options": [
+          "The coach leaves from the south gate.",
+          "The trip usually fills up quite quickly.",
+          "You can pay the deposit by card.",
+          "Yes, provided the organizer cancels it."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问定金是否可退，关键词是“refundable”\n解析：主办方取消才退给出条件；付款方式、发车地点、报名热度均未回答退款。\n下次：退款题先辨谁取消，再核对退费条件。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "条件识别"
+        ],
+        "vocabulary": [
+          "deposit"
+        ],
+        "rationale": "问定金是否可退，关键词是主办方取消才退给出条件；付款方式、发车地点、报名热度均未回答退款。",
+        "answer_evidence": "refundable",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L247",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: This paragraph sounds as if I did all the work myself.",
+        "options": [
+          "Let's mention the two students who helped.",
+          "You finished the work ahead of schedule.",
+          "The paragraph is already quite short.",
+          "I'll move the heading to another page."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：文字像在说独立完成，担心贡献归属；线索是“all the work myself”\n解析：补上帮忙的学生纠正归属；提前完成、篇幅短、移动标题都不改变谁做的。\n下次：找文字暗示了什么，再检查修改能否纠正这一暗示。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "隐含修改请求"
+        ],
+        "vocabulary": [
+          "paragraph"
+        ],
+        "rationale": "文字像在说独立完成，担心贡献归属；线索是补上帮忙的学生纠正归属；提前完成、篇幅短、移动标题都不改变谁做的。",
+        "answer_evidence": "all the work myself",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L248",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Can I get off at the stop after the hospital?",
+        "options": [
+          "I used to work near that hospital.",
+          "This ticket is valid for the whole day.",
+          "The hospital has a new emergency entrance.",
+          "Certainly; press the button once we pass it."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：要在医院下一站下车，先后关系是“after the hospital”\n解析：经过医院后按铃回应下车；急诊入口、工作经历、票有效期都未说明下车安排。\n下次：给地标标上前后顺序，再核对何时操作。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "顺序与行动"
+        ],
+        "vocabulary": [
+          "hospital"
+        ],
+        "rationale": "要在医院下一站下车，先后关系是经过医院后按铃回应下车；急诊入口、工作经历、票有效期都未说明下车安排。",
+        "answer_evidence": "after the hospital",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L249",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I was hoping for something less sweet.",
+        "options": [
+          "The serving is smaller than it looks.",
+          "That cake is our most popular dessert.",
+          "We serve dessert until nine tonight.",
+          "You might prefer the plain yogurt."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：要较低甜度，而非更小份；关键词是“less sweet”\n解析：原味酸奶提供低甜度替代；畅销不等于不甜；供应时间无关；份量小不改变甜度。\n下次：先锁定比较维度，再按该维度选替代品。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "偏好与比较"
+        ],
+        "vocabulary": [
+          "sweet"
+        ],
+        "rationale": "要较低甜度，而非更小份；关键词是原味酸奶提供低甜度替代；畅销不等于不甜；供应时间无关；份量小不改变甜度。",
+        "answer_evidence": "less sweet",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L250",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Should I sign here even though the address is wrong?",
+        "options": [
+          "I mailed the forms earlier this week.",
+          "Let's correct the address before you sign.",
+          "That form has space for two signatures.",
+          "Your signature needs to match your ID."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：签名前发现地址错了，问题是“address is wrong”\n解析：先改地址再签处理错误；签名匹配、签名栏数量不解决地址；已寄表不是本次操作建议。\n下次：发现信息错误时，检查回复是否先修正再确认。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "程序与先后"
+        ],
+        "vocabulary": [
+          "address"
+        ],
+        "rationale": "签名前发现地址错了，问题是先改地址再签处理错误；签名匹配、签名栏数量不解决地址；已寄表不是本次操作建议。",
+        "answer_evidence": "address is wrong",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L251",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I didn't catch whether you said fifteen or fifty.",
+        "options": [
+          "Fifty, with a five and a zero.",
+          "The total includes the delivery charge.",
+          "You can pay the balance on Friday.",
+          "We ordered the same amount last time."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：没听清十五还是五十，需澄清“fifteen or fifty”\n解析：五和零明确五十；运费、上次数量、付款日期均未区分两个数字。\n下次：近音数字拆成数位，检查答复是否消除歧义。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "数字澄清"
+        ],
+        "vocabulary": [
+          "fifty"
+        ],
+        "rationale": "没听清十五还是五十，需澄清五和零明确五十；运费、上次数量、付款日期均未区分两个数字。",
+        "answer_evidence": "fifteen or fifty",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L252",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: The poster looks great from here, but what about across the hall?",
+        "options": [
+          "I used the same paper as last year.",
+          "The hall is open until six today.",
+          "We can stand next to it during lunch.",
+          "Let's test whether the title is readable there."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：担心大厅对面远看效果；距离线索是“across the hall”\n解析：去远处测试可读性回应担心；开放时间、纸张、午间站位都未检查远观效果。\n下次：视点变化时，找要验证的效果，再核对测试位置。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "隐含标准"
+        ],
+        "vocabulary": [
+          "readable"
+        ],
+        "rationale": "担心大厅对面远看效果；距离线索是去远处测试可读性回应担心；开放时间、纸张、午间站位都未检查远观效果。",
+        "answer_evidence": "across the hall",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L253",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Would it be all right if I brought a guest?",
+        "options": [
+          "The guest speaker arrives on Thursday.",
+          "There are several guests in the lobby.",
+          "I brought the invitations this morning.",
+          "Yes, but please register them by Thursday."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问能否携伴，guest指她带来的人；线索是“brought a guest”\n解析：允许并要求登记回答许可；嘉宾演讲者、请柬、现有客人均不批准携伴。\n下次：许可题锁定行动人，检查回复是否有条件。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "许可与条件"
+        ],
+        "vocabulary": [
+          "guest"
+        ],
+        "rationale": "问能否携伴，guest指她带来的人；线索是允许并要求登记回答许可；嘉宾演讲者、请柬、现有客人均不批准携伴。",
+        "answer_evidence": "brought a guest",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L254",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: I wish the instructions showed what the finished model looks like.",
+        "options": [
+          "There's a photograph on the back page.",
+          "The instructions come in three languages.",
+          "You can finish it in about an hour.",
+          "The pieces are numbered on each side."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：缺少完成品的外观参照，所需的是“finished model”\n解析：背面照片提供外观；零件编号、预计用时、语言版本都不展示成品。\n下次：先确定缺哪类信息，再找能补上的材料。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "间接求助"
+        ],
+        "vocabulary": [
+          "model"
+        ],
+        "rationale": "缺少完成品的外观参照，所需的是背面照片提供外观；零件编号、预计用时、语言版本都不展示成品。",
+        "answer_evidence": "finished model",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L255",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Could you give me a hand with this lid?",
+        "options": [
+          "Sure, let me try turning it.",
+          "There's another jar inside that cupboard.",
+          "I washed the jar before filling it.",
+          "The label says to keep it cool."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：give me a hand是帮忙，此处请帮开盖；线索是“give me a hand”\n解析：试着拧盖接下任务；洗罐经历、另有罐子、冷藏标签都不解决盖子问题。\n下次：把习语还原成具体动作，检查回复是否做该动作。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "习语与请求"
+        ],
+        "vocabulary": [
+          "lid"
+        ],
+        "rationale": "give me a hand是帮忙，此处请帮开盖；线索是试着拧盖接下任务；洗罐经历、另有罐子、冷藏标签都不解决盖子问题。",
+        "answer_evidence": "give me a hand",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L256",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: I can cover your shift, as long as I'm done by four.",
+        "options": [
+          "That's fine; it ends at three thirty.",
+          "The shop is busiest after four.",
+          "You can wear the same uniform as usual.",
+          "I covered a shift for you last month."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：愿意代班但四点前要结束，条件词是“as long as”\n解析：三点半结束满足条件；四点后忙不说明结束时间；上月代班、制服均不确认时限。\n下次：记截止点，再比较实际结束时间是否满足。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "条件承诺"
+        ],
+        "vocabulary": [
+          "shift"
+        ],
+        "rationale": "愿意代班但四点前要结束，条件词是三点半结束满足条件；四点后忙不说明结束时间；上月代班、制服均不确认时限。",
+        "answer_evidence": "as long as",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L257",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: This receipt lists two sandwiches, but I only bought one.",
+        "options": [
+          "You can choose a different sandwich next time.",
+          "We make those sandwiches fresh every morning.",
+          "The receipt printer was replaced last week.",
+          "I'll check the order and correct the bill."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：账单两份，实际只买一份；依据是“only bought one”\n解析：核单改账处理多收；新鲜制作、换打印机、下次口味均不解决本次差额。\n下次：对齐实际与记账数量，选核查差异的行动。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "投诉与解决"
+        ],
+        "vocabulary": [
+          "receipt"
+        ],
+        "rationale": "账单两份，实际只买一份；依据是核单改账处理多收；新鲜制作、换打印机、下次口味均不解决本次差额。",
+        "answer_evidence": "only bought one",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L258",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Are you using that outlet, or may I plug in my laptop?",
+        "options": [
+          "My laptop battery lasts about six hours.",
+          "There are computers upstairs in the lab.",
+          "Go ahead; my phone is fully charged.",
+          "The phone charger was on sale yesterday."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问是否可用插座，请求是“may I plug in”\n解析：允许且手机充满说明可让出；续航、楼上电脑、促销均未回应插座使用许可。\n下次：共享资源题看是否释放资源，不把相关设备信息当许可。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "许可与指代"
+        ],
+        "vocabulary": [
+          "outlet"
+        ],
+        "rationale": "问是否可用插座，请求是允许且手机充满说明可让出；续航、楼上电脑、促销均未回应插座使用许可。",
+        "answer_evidence": "may I plug in",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L259",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I thought you were going to introduce our guest.",
+        "options": [
+          "I met Maya after last year's lecture.",
+          "Our guest has written three novels.",
+          "I was, but Maya has taken over.",
+          "The introduction was printed in the program."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：对原定介绍嘉宾的人选表示疑惑，过去预期是“I thought”\n解析：已改由玛雅接手解释变化；嘉宾作品、印有简介、去年见面均不说明现负责人。\n下次：原计划与现实不符时，找新分工，检查谁接手。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "计划变化"
+        ],
+        "vocabulary": [
+          "introduce"
+        ],
+        "rationale": "对原定介绍嘉宾的人选表示疑惑，过去预期是已改由玛雅接手解释变化；嘉宾作品、印有简介、去年见面均不说明现负责人。",
+        "answer_evidence": "I thought",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L260",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Let's not decide until we've heard both proposals.",
+        "options": [
+          "I printed both proposals on recycled paper.",
+          "The committee decided last year's budget.",
+          "The first proposal uses fewer volunteers.",
+          "Agreed; we still haven't heard Lena's."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：提议听完两份方案再决定，前提是“both proposals”\n解析：尚未听莉娜方案支持等待；首方案优点未回应暂缓；纸张、去年预算无关本次程序。\n下次：听到不要直到，列出未满足的前提，再核对等待原因。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "否定与前提"
+        ],
+        "vocabulary": [
+          "proposals"
+        ],
+        "rationale": "提议听完两份方案再决定，前提是尚未听莉娜方案支持等待；首方案优点未回应暂缓；纸张、去年预算无关本次程序。",
+        "answer_evidence": "both proposals",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L261",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Your umbrella looks just like mine.",
+        "options": [
+          "These umbrellas are sold near the station.",
+          "Let's check the names on the handles.",
+          "I usually leave my umbrella at home.",
+          "It's supposed to rain this afternoon."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：两伞相似，可能要区分归属；线索是“looks just like mine”\n解析：名字能区分；天气、平时习惯、购买地点均不能辨认眼前两把。\n下次：相似物品先找独有标记，检查是否足以辨认。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "隐含意图"
+        ],
+        "vocabulary": [
+          "handles"
+        ],
+        "rationale": "两伞相似，可能要区分归属；线索是名字能区分；天气、平时习惯、购买地点均不能辨认眼前两把。",
+        "answer_evidence": "looks just like mine",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L262",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Is there any chance of moving my appointment earlier?",
+        "options": [
+          "You can make appointments through our website.",
+          "The office closes earlier on Fridays.",
+          "Your appointment should take about thirty minutes.",
+          "There's an opening at nine, if that helps."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：已有预约想提前，要求是“moving my appointment earlier”\n解析：九点空档提供机会；用时、关门时间、首次预约渠道未回应提前现有预约。\n下次：区分开始时间与时长，找实际可用时段。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "时间变更"
+        ],
+        "vocabulary": [
+          "appointment"
+        ],
+        "rationale": "已有预约想提前，要求是九点空档提供机会；用时、关门时间、首次预约渠道未回应提前现有预约。",
+        "answer_evidence": "moving my appointment earlier",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L263",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: That explanation went over my head.",
+        "options": [
+          "Would a concrete example help?",
+          "The speaker stood on a raised platform.",
+          "I could hear him from the back row.",
+          "The explanation lasted nearly ten minutes."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：习语表示没听懂，不是头顶上方；线索是“went over my head”\n解析：具体例子帮助理解；高台误作空间；听得见不等于懂；讲多久不解决理解困难。\n下次：用交流语境解习语，再选降低理解难度的帮助。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "习语理解"
+        ],
+        "vocabulary": [
+          "explanation"
+        ],
+        "rationale": "习语表示没听懂，不是头顶上方；线索是具体例子帮助理解；高台误作空间；听得见不等于懂；讲多久不解决理解困难。",
+        "answer_evidence": "went over my head",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L264",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Do we need the original certificate, or is a scan enough?",
+        "options": [
+          "The scanner is next to the photocopier.",
+          "I completed that course two years ago.",
+          "The certificate arrived by post yesterday.",
+          "A scan is fine for this first stage."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问材料要原件还是扫描件，关键是“original certificate”\n解析：首阶段接受扫描件回答要求；寄到时间、扫描仪位置、修课经历都未说明材料形式。\n下次：二选一材料题检查接受哪种形式及适用阶段。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "要求与范围"
+        ],
+        "vocabulary": [
+          "certificate"
+        ],
+        "rationale": "问材料要原件还是扫描件，关键是首阶段接受扫描件回答要求；寄到时间、扫描仪位置、修课经历都未说明材料形式。",
+        "answer_evidence": "original certificate",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L265",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I'd join the hike if it weren't for my ankle.",
+        "options": [
+          "You should bring water for today's hike.",
+          "We can save you a place on the next one.",
+          "The trail starts behind the visitor center.",
+          "I bought my hiking boots last summer."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：要不是脚踝问题就参加，暗含本次受限；证据是“if it weren't for my ankle”\n解析：下次留位承认障碍；起点与今日带水假定现在参加；买鞋经历无关。\n下次：反事实条件先还原现实，再排除假定障碍不存在的答复。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "反事实与暗示"
+        ],
+        "vocabulary": [
+          "ankle"
+        ],
+        "rationale": "要不是脚踝问题就参加，暗含本次受限；证据是下次留位承认障碍；起点与今日带水假定现在参加；买鞋经历无关。",
+        "answer_evidence": "if it weren't for my ankle",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L266",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: How come the display case is empty?",
+        "options": [
+          "The objects are being photographed for the catalog.",
+          "The case is made of thick glass.",
+          "The exhibition opens at ten each morning.",
+          "Please don't touch objects on display."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：how come问为什么，关注展柜空着的原因；关键词是“How come”\n解析：物品拿去拍目录照片解释空柜；材质、开门时间、勿触摸规定不说明原因。\n下次：把口语问法换成为什么，再找直接原因。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "原因识别"
+        ],
+        "vocabulary": [
+          "catalog"
+        ],
+        "rationale": "how come问为什么，关注展柜空着的原因；关键词是物品拿去拍目录照片解释空柜；材质、开门时间、勿触摸规定不说明原因。",
+        "answer_evidence": "How come",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L267",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Could you keep that story between us?",
+        "options": [
+          "I can tell the story after lunch.",
+          "I heard a similar story yesterday.",
+          "The two chairs are close together.",
+          "Of course; I won't mention it to anyone."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：between us指保密，不是空间位置；线索是“between us”\n解析：承诺不告诉别人接下保密要求；午后讲违反请求；椅子位置误解习语；类似故事未承诺保密。\n下次：识别保密表达，检查答复是否限制传播。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "隐含约定"
+        ],
+        "vocabulary": [
+          "mention"
+        ],
+        "rationale": "between us指保密，不是空间位置；线索是承诺不告诉别人接下保密要求；午后讲违反请求；椅子位置误解习语；类似故事未承诺保密。",
+        "answer_evidence": "between us",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L268",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Do you want the light on or off while you work?",
+        "options": [
+          "The notes are on your desk.",
+          "I usually finish work before dark.",
+          "On, please; I need to read these notes.",
+          "That light was installed last winter."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问工作时灯开还是关，需要选择；线索是“on or off”\n解析：明确要开并解释读笔记；下班习惯、安装日期、笔记位置均未表明灯光偏好。\n下次：选择问句先找明确选择，再看原因是否一致。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "选择回应"
+        ],
+        "vocabulary": [
+          "light"
+        ],
+        "rationale": "问工作时灯开还是关，需要选择；线索是明确要开并解释读笔记；下班习惯、安装日期、笔记位置均未表明灯光偏好。",
+        "answer_evidence": "on or off",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L269",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I seem to have left my key inside the locker.",
+        "options": [
+          "Your coat should fit inside that locker.",
+          "The lockers were cleaned this morning.",
+          "The attendant has a spare we can borrow.",
+          "You can choose any empty locker."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：钥匙锁在柜内，实际求助；问题是“left my key inside”\n解析：找备用钥匙解决取回；清洁、选空柜、衣服放得下都不打开现柜。\n下次：识别造成进入障碍的物件，检查建议是否恢复进入。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "问题与解决"
+        ],
+        "vocabulary": [
+          "spare"
+        ],
+        "rationale": "钥匙锁在柜内，实际求助；问题是找备用钥匙解决取回；清洁、选空柜、衣服放得下都不打开现柜。",
+        "answer_evidence": "left my key inside",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L270",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Will the plants be all right while you're away?",
+        "options": [
+          "My trip will include two coastal cities.",
+          "These pots look better near the window.",
+          "My neighbor has agreed to water them.",
+          "I bought them at the spring market."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：担心外出期间植物照料；时间范围是“while you're away”\n解析：邻居浇水提供安排；购买地点、旅行城市、花盆摆位都不保证无人时照料。\n下次：将担忧转成谁负责什么，再找已落实的安排。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "安排与责任"
+        ],
+        "vocabulary": [
+          "water"
+        ],
+        "rationale": "担心外出期间植物照料；时间范围是邻居浇水提供安排；购买地点、旅行城市、花盆摆位都不保证无人时照料。",
+        "answer_evidence": "while you're away",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L271",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: That route is shorter, but it's all uphill.",
+        "options": [
+          "We bought our map near the station.",
+          "The shorter route is marked in red.",
+          "I walked uphill yesterday morning too.",
+          "Then let's take the longer, flatter path."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：虽近但全上坡，暗示省路程不一定省力；关键是“all uphill”\n解析：改走平缓长路回应难度；买地图、路线颜色、昨天上坡都未调整当前选择。\n下次：转折后的代价要纳入比较，检查方案是否减少该代价。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "转折与权衡"
+        ],
+        "vocabulary": [
+          "uphill"
+        ],
+        "rationale": "虽近但全上坡，暗示省路程不一定省力；关键是改走平缓长路回应难度；买地图、路线颜色、昨天上坡都未调整当前选择。",
+        "answer_evidence": "all uphill",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L272",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Is this price per person or for the whole cabin?",
+        "options": [
+          "Prices are posted beside the main entrance.",
+          "The cabin has a view of the lake.",
+          "It's for the cabin, regardless of group size.",
+          "We can accommodate up to four people."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问计价单位，per person是每人；关键是“per person”\n解析：按整间收且不随人数变回答单位；景观、容量、价目位置都没说明眼前价格怎么计。\n下次：金额题给价格加单位，别用人数容量代替计费方式。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "数量与单位"
+        ],
+        "vocabulary": [
+          "cabin"
+        ],
+        "rationale": "问计价单位，per person是每人；关键是按整间收且不随人数变回答单位；景观、容量、价目位置都没说明眼前价格怎么计。",
+        "answer_evidence": "per person",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L273",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Could we pause here? I need to write that down.",
+        "options": [
+          "The meeting room has a large clock.",
+          "You can buy notebooks in the bookstore.",
+          "Certainly; tell me when you're ready.",
+          "I wrote the report last night."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：请求暂缓以便记录，pause是暂停；线索是“pause here”\n解析：等待准备好直接配合；卖笔记本、钟表、写报告经历都未暂停当前讲解。\n下次：请求改变谈话节奏时，核对回复是否实际允许停顿。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "请求与回应"
+        ],
+        "vocabulary": [
+          "pause"
+        ],
+        "rationale": "请求暂缓以便记录，pause是暂停；线索是等待准备好直接配合；卖笔记本、钟表、写报告经历都未暂停当前讲解。",
+        "answer_evidence": "pause here",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L274",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: I take it the picnic is still on despite the forecast?",
+        "options": [
+          "The park has several walking trails.",
+          "Yes, we're moving it under the pavilion.",
+          "The forecast predicts rain this afternoon.",
+          "I took the picnic basket home yesterday."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：still on表示仍照常办，对方在确认；线索是“still on”\n解析：确认并移到亭下解释雨天应对；单说有雨未明确举办与否；篮子、步道无关。\n下次：活动是否照常要找明确状态，再核对替代安排。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "习语与核实"
+        ],
+        "vocabulary": [
+          "pavilion"
+        ],
+        "rationale": "still on表示仍照常办，对方在确认；线索是确认并移到亭下解释雨天应对；单说有雨未明确举办与否；篮子、步道无关。",
+        "answer_evidence": "still on",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L275",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I've got the slides, but no way to open this file type.",
+        "options": [
+          "Your presentation is scheduled for tomorrow.",
+          "I'll send them as a PDF instead.",
+          "I like the photographs on those slides.",
+          "The first slide needs a shorter title."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：file type 指文件格式；说话人已有幻灯片，却无法打开这种格式。\n解析：对方改发 PDF，直接提供可尝试打开的另一个格式，而不是让打不开文件的人先自行导出。改标题、提报告日期、评价照片都没有处理格式问题。\n下次：听到文件打不开→分清缺文件、格式或内容问题→检查建议能否从目前可执行的步骤开始。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "问题与解决"
+        ],
+        "vocabulary": [
+          "file type"
+        ],
+        "rationale": "对方改发 PDF，直接提供可尝试打开的另一个格式，而不是让打不开文件的人先自行导出。改标题、提报告日期、评价照片都没有处理格式问题。",
+        "answer_evidence": "file type",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L276",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Would you prefer to give feedback aloud or in writing?",
+        "options": [
+          "In writing, so I can be more precise.",
+          "I read your draft on the train.",
+          "Your feedback was very helpful last time.",
+          "The writing workshop starts next month."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问反馈采用口头还是书面；二选一是“aloud or in writing”\n解析：明确选择书面并给理由；上次有帮助、写作课日期、读稿场所未选本次反馈形式。\n下次：方式选择题先定位两种方式，再看回复是否选其中之一。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "方式选择"
+        ],
+        "vocabulary": [
+          "precise"
+        ],
+        "rationale": "问反馈采用口头还是书面；二选一是明确选择书面并给理由；上次有帮助、写作课日期、读稿场所未选本次反馈形式。",
+        "answer_evidence": "aloud or in writing",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L277",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: We're nearly out of labels for the specimen jars.",
+        "options": [
+          "The jars are already arranged by size.",
+          "I'll print another sheet before we start.",
+          "The printer uses less ink than before.",
+          "We found those specimens beside the stream."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：标签快用完，暗含补充需求；线索是“nearly out of labels”\n解析：开工前再印补足物资；瓶子排序、标本来源、打印耗墨都没有补标签。\n下次：听到快用完，找补给行动，并检查时机是否及时。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "隐含请求"
+        ],
+        "vocabulary": [
+          "labels"
+        ],
+        "rationale": "标签快用完，暗含补充需求；线索是开工前再印补足物资；瓶子排序、标本来源、打印耗墨都没有补标签。",
+        "answer_evidence": "nearly out of labels",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L278",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: I don't suppose this table can be extended?",
+        "options": [
+          "This room is longer than the kitchen.",
+          "The tablecloth was washed yesterday.",
+          "Actually, there's a spare panel underneath.",
+          "We have chairs of several different styles."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：委婉问桌子能否加长，关键词是“extended”\n解析：底下备用板说明可扩展；桌布、房间长度、椅子样式都不回答桌子结构。\n下次：否定式问句仍可能求确认，找能证明功能的部件。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "委婉询问"
+        ],
+        "vocabulary": [
+          "panel"
+        ],
+        "rationale": "委婉问桌子能否加长，关键词是底下备用板说明可扩展；桌布、房间长度、椅子样式都不回答桌子结构。",
+        "answer_evidence": "extended",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L279",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Have you heard back from the editor yet?",
+        "options": [
+          "The article has three separate sections.",
+          "I heard her speak at a conference.",
+          "Not yet; she promised a reply by Friday.",
+          "The editor works on the fifth floor."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：heard back是收到回复，不是听见讲话；线索是“heard back”\n解析：尚未且周五前答复回应进展；办公室楼层、听演讲、文章结构都没说明是否回信。\n下次：区分听说与收到答复，再找当前进展和时间。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "短语辨义"
+        ],
+        "vocabulary": [
+          "editor"
+        ],
+        "rationale": "heard back是收到回复，不是听见讲话；线索是尚未且周五前答复回应进展；办公室楼层、听演讲、文章结构都没说明是否回信。",
+        "answer_evidence": "heard back",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L280",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Could you point me toward the lost-and-found desk?",
+        "options": [
+          "The stairs were repaired last month.",
+          "I lost a scarf here last winter.",
+          "Just past the stairs, on your left.",
+          "The desk staff are very experienced."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：请指路，不是要寻物经历；请求是“point me toward”\n解析：楼梯后左边提供路线；维修日期、丢围巾经历、员工经验都不指明地点。\n下次：指路请求找参照物和方向，检查能否按答复走到。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "地点与指路"
+        ],
+        "vocabulary": [
+          "stairs"
+        ],
+        "rationale": "请指路，不是要寻物经历；请求是楼梯后左边提供路线；维修日期、丢围巾经历、员工经验都不指明地点。",
+        "answer_evidence": "point me toward",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L281",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: This microphone is picking up every little sound.",
+        "options": [
+          "Let's move it away from the fan.",
+          "The speech has a very clear opening.",
+          "I bought a longer cable for it.",
+          "The audience is larger than we expected."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：麦克风收进太多杂音，重点是“every little sound”\n解析：远离风扇减少噪声源；观众数量、长电缆、开场内容不针对背景声。\n下次：设备反馈先定位干扰来源，再检查建议是否减少干扰。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "问题与解决"
+        ],
+        "vocabulary": [
+          "microphone"
+        ],
+        "rationale": "麦克风收进太多杂音，重点是远离风扇减少噪声源；观众数量、长电缆、开场内容不针对背景声。",
+        "answer_evidence": "every little sound",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L282",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Shall I put the frozen food away first?",
+        "options": [
+          "The supermarket was crowded this morning.",
+          "Yes, the other groceries can wait.",
+          "Those shopping bags are easy to carry.",
+          "I paid with my card at checkout."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问是否先收冷冻品，是处理优先次序；线索是“frozen food away first”\n解析：其他可等确认优先；超市拥挤、付款方式、袋子好提均未排列收纳顺序。\n下次：先后顺序题找可等与不可等，检查答复是否作出排序。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "优先次序"
+        ],
+        "vocabulary": [
+          "frozen"
+        ],
+        "rationale": "问是否先收冷冻品，是处理优先次序；线索是其他可等确认优先；超市拥挤、付款方式、袋子好提均未排列收纳顺序。",
+        "answer_evidence": "frozen food away first",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L283",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: You're not planning to send that without proofreading it, are you?",
+        "options": [
+          "The proofreader works here on Wednesdays.",
+          "You can send messages from your phone.",
+          "No, I'll check it once more first.",
+          "I sent a different message yesterday."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：反问提醒发送前校对；限制是“without proofreading”\n解析：答应再查一次回应提醒；昨日消息、校对员排班、手机发送方式都未保证本次检查。\n下次：反问中的否定先转成肯定要求，再核对承诺是否遵守。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "否定问句"
+        ],
+        "vocabulary": [
+          "proofreading"
+        ],
+        "rationale": "反问提醒发送前校对；限制是答应再查一次回应提醒；昨日消息、校对员排班、手机发送方式都未保证本次检查。",
+        "answer_evidence": "without proofreading",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L284",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: May I quote your comment in the newsletter?",
+        "options": [
+          "You can find old issues in the archive.",
+          "The newsletter comes out twice a month.",
+          "I commented on the design yesterday.",
+          "Yes, as long as you include the context."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：请求引用发言，要获得许可；关键是“quote your comment”\n解析：允许但保留语境给出引用条件；刊期、评论时间、旧刊位置均未授权引用。\n下次：引用许可题找同意与限制，检查没有省掉使用条件。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "许可与范围"
+        ],
+        "vocabulary": [
+          "context"
+        ],
+        "rationale": "请求引用发言，要获得许可；关键是允许但保留语境给出引用条件；刊期、评论时间、旧刊位置均未授权引用。",
+        "answer_evidence": "quote your comment",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L285",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I wasn't expecting the courtyard to be so noisy.",
+        "options": [
+          "They sell several kinds of coffee here.",
+          "The courtyard was redesigned last year.",
+          "We could have our coffee inside instead.",
+          "I usually drink mine without any sugar."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：庭院噪声超预期，隐含想换更合适位置；线索是“so noisy”\n解析：去室内回应噪声；改建年份、咖啡种类、是否加糖都不改变环境。\n下次：环境抱怨先找不满意维度，再选改变该维度的行动。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "隐含建议"
+        ],
+        "vocabulary": [
+          "courtyard"
+        ],
+        "rationale": "庭院噪声超预期，隐含想换更合适位置；线索是去室内回应噪声；改建年份、咖啡种类、是否加糖都不改变环境。",
+        "answer_evidence": "so noisy",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L286",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Do you know whose gloves these are?",
+        "options": [
+          "The garden closes before sunset today.",
+          "I left my coat beside the doorway.",
+          "They're useful when the weather turns cold.",
+          "I think they belong to the gardener."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：whose问所有者，需要认领线索；关键是“whose gloves”\n解析：可能属于园丁回答归属；保暖用途、外套位置、关园时间都不说明手套是谁的。\n下次：所有者问句先找人，不用物品用途替代归属。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "人物与归属"
+        ],
+        "vocabulary": [
+          "gloves"
+        ],
+        "rationale": "whose问所有者，需要认领线索；关键是可能属于园丁回答归属；保暖用途、外套位置、关园时间都不说明手套是谁的。",
+        "answer_evidence": "whose gloves",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L287",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I could use a second pair of eyes on this chart.",
+        "options": [
+          "I'll check whether the labels match the figures.",
+          "My new glasses arrived this morning.",
+          "The figures came from last year's survey.",
+          "You should put the chart near the window."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：意指请别人复核，不是再要眼镜；习语是“a second pair of eyes”\n解析：核对标签和数字是复查；移到窗边、眼镜到货、说明数据来源未进行检查。\n下次：把习语转成复核任务，再找具体核对动作。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "习语与请求"
+        ],
+        "vocabulary": [
+          "figures"
+        ],
+        "rationale": "意指请别人复核，不是再要眼镜；习语是核对标签和数字是复查；移到窗边、眼镜到货、说明数据来源未进行检查。",
+        "answer_evidence": "a second pair of eyes",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L288",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Is it worth taking a jacket, even if it's warm now?",
+        "options": [
+          "It can get chilly once the sun goes down.",
+          "I bought a warmer one last winter.",
+          "That jacket has several useful pockets.",
+          "You left your jacket on the chair."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问虽暖是否仍该带外套，需要后续天气理由；线索是“once the sun goes down”\n解析：日落会凉说明值得带；口袋、购衣经历、现位置都不判断是否需要。\n下次：出行用品建议要看条件变化，再检查理由是否支撑携带。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "建议与理由"
+        ],
+        "vocabulary": [
+          "chilly"
+        ],
+        "rationale": "问虽暖是否仍该带外套，需要后续天气理由；线索是日落会凉说明值得带；口袋、购衣经历、现位置都不判断是否需要。",
+        "answer_evidence": "once the sun goes down",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L289",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: We seem to be talking about different editions.",
+        "options": [
+          "I enjoyed the author's earlier novel.",
+          "The bookshop closes at seven tonight.",
+          "I can finish the chapter by tomorrow.",
+          "Mine has a green cover; which one is yours?"
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：怀疑版本不同，要核对版本特征；关键是“different editions”\n解析：说封面并问对方帮助比较；喜欢旧作、书店时间、读完期限都不核对版本。\n下次：发现资料不一致，先用版本标记对齐，再比较内容。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "澄清与比较"
+        ],
+        "vocabulary": [
+          "editions"
+        ],
+        "rationale": "怀疑版本不同，要核对版本特征；关键是说封面并问对方帮助比较；喜欢旧作、书店时间、读完期限都不核对版本。",
+        "answer_evidence": "different editions",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L290",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Please don't put my bag in the overhead compartment.",
+        "options": [
+          "My own bag is lighter than yours.",
+          "No problem; I'll leave it by your feet.",
+          "There's plenty of room up there.",
+          "The compartment was cleaned before departure."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：明确不让放顶部行李架，需要遵守；请求是“don't put my bag”\n解析：放脚边尊重限制；上面有空间是在争论容量；清洁和重量均未确认照办。\n下次：否定请求先划出禁止动作，再核对替代位置不触犯它。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "否定与请求"
+        ],
+        "vocabulary": [
+          "compartment"
+        ],
+        "rationale": "明确不让放顶部行李架，需要遵守；请求是放脚边尊重限制；上面有空间是在争论容量；清洁和重量均未确认照办。",
+        "answer_evidence": "don't put my bag",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L291",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I owe you one for staying late to help.",
+        "options": [
+          "I counted one more box in the office.",
+          "The building is open until midnight.",
+          "I'm glad we got it finished together.",
+          "You can stay later tomorrow evening."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：表示欠个人情、感谢帮助，不是计数；关键是“I owe you one”\n解析：共同完成很高兴接住感谢；明天加班、开放时间、另一个箱子都误离谢意。\n下次：感谢习语先识别情感功能，再找自然接受感谢的回复。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "社交回应"
+        ],
+        "vocabulary": [
+          "staying"
+        ],
+        "rationale": "表示欠个人情、感谢帮助，不是计数；关键是共同完成很高兴接住感谢；明天加班、开放时间、另一个箱子都误离谢意。",
+        "answer_evidence": "I owe you one",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L292",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: How soon could you have these photos ready?",
+        "options": [
+          "You chose the smaller print size.",
+          "Our shop also repairs old cameras.",
+          "I can have them printed by noon.",
+          "The photos were taken at the festival."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问多久能准备好，要求完成时间；关键是“How soon”\n解析：中午前印好给期限；拍摄活动、尺寸、修相机业务都没回答交付时间。\n下次：完成时点题找期限，不把拍摄时间或规格当答案。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "时间与期限"
+        ],
+        "vocabulary": [
+          "noon"
+        ],
+        "rationale": "问多久能准备好，要求完成时间；关键是中午前印好给期限；拍摄活动、尺寸、修相机业务都没回答交付时间。",
+        "answer_evidence": "How soon",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L293",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Are we supposed to bring our own safety goggles?",
+        "options": [
+          "The lesson is about laboratory safety.",
+          "No, the instructor will hand them out.",
+          "I wore goggles during last week's class.",
+          "The goggles should fit over your glasses."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问是否自带护目镜，而非如何佩戴；线索是“our own safety goggles”\n解析：老师发放说明无需自带；能套眼镜、课程主题、上次佩戴均未说明提供方。\n下次：自带物品题找谁提供，再核对本次要求。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "要求与责任"
+        ],
+        "vocabulary": [
+          "goggles"
+        ],
+        "rationale": "问是否自带护目镜，而非如何佩戴；线索是老师发放说明无需自带；能套眼镜、课程主题、上次佩戴均未说明提供方。",
+        "answer_evidence": "our own safety goggles",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L294",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: I'd love to stay, but my parking meter is about to expire.",
+        "options": [
+          "Then we'd better say goodbye here.",
+          "The meeting has been very interesting.",
+          "There are meters along this whole street.",
+          "I arrived by bus this morning."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：停车计时快到期，是委婉告辞原因；线索是“about to expire”\n解析：就此道别接受离开；街上有表、会议有趣、乘公交经历都未回应离意。\n下次：愿望后接但与时限，推断受限行动，再选体谅的回复。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "委婉告辞"
+        ],
+        "vocabulary": [
+          "expire"
+        ],
+        "rationale": "停车计时快到期，是委婉告辞原因；线索是就此道别接受离开；街上有表、会议有趣、乘公交经历都未回应离意。",
+        "answer_evidence": "about to expire",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L295",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Is there a cheaper option that still includes breakfast?",
+        "options": [
+          "Breakfast is served in the dining room.",
+          "The shared room does, at a lower rate.",
+          "The large suite has an extra bedroom.",
+          "You can leave your luggage after checkout."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：要更便宜但仍含早餐，限制是“still includes breakfast”\n解析：合住房较便宜且含早同时满足两点；早餐地点、退房存包、套房卧室均未满足组合需求。\n下次：多条件选择先列保留项和变化项，检查两者都满足。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "条件整合"
+        ],
+        "vocabulary": [
+          "rate"
+        ],
+        "rationale": "要更便宜但仍含早餐，限制是合住房较便宜且含早同时满足两点；早餐地点、退房存包、套房卧室均未满足组合需求。",
+        "answer_evidence": "still includes breakfast",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L296",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: That answer sounds a bit definite, given how little data we have.",
+        "options": [
+          "The answer fits in the space provided.",
+          "I'll qualify the claim rather than state it as certain.",
+          "The data file is saved on this drive.",
+          "We collected the figures on a Monday."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：数据少却说得太确定，担心证据与语气不配；依据是“how little data we have”\n解析：给论断加限制回应不确定性；文件位置、采集日、字数都不调整确信程度。\n下次：证据弱时检查结论强度，选降低断言而非改排版。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "立场与证据"
+        ],
+        "vocabulary": [
+          "definite"
+        ],
+        "rationale": "数据少却说得太确定，担心证据与语气不配；依据是给论断加限制回应不确定性；文件位置、采集日、字数都不调整确信程度。",
+        "answer_evidence": "how little data we have",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L297",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Can you make room for one more person on the bench?",
+        "options": [
+          "There's a person waiting near the gate.",
+          "This bench was built from recycled wood.",
+          "I usually sit here after my run.",
+          "Sure, I'll slide over a little."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：make room是腾位置，请求是“make room”\n解析：挪一点能容纳人；材质、门口有人、坐这里的习惯都不腾位。\n下次：空间请求看是否改变占用，不被相关人物或地点带走。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "习语与请求"
+        ],
+        "vocabulary": [
+          "bench"
+        ],
+        "rationale": "make room是腾位置，请求是挪一点能容纳人；材质、门口有人、坐这里的习惯都不腾位。",
+        "answer_evidence": "make room",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L298",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Should the caption identify everyone in the photograph?",
+        "options": [
+          "Only those who agreed to be named.",
+          "Everyone enjoyed the event last weekend.",
+          "The photograph was taken outside the hall.",
+          "I can make the caption two lines long."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问说明文字是否给所有人标姓名；范围是“identify everyone”\n解析：仅标同意者回答范围并加隐私条件；拍照地点、两行长度、活动感受均不界定谁被标名。\n下次：涉及名单范围时找所有与仅限，检查授权条件。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "范围与许可"
+        ],
+        "vocabulary": [
+          "caption"
+        ],
+        "rationale": "问说明文字是否给所有人标姓名；范围是仅标同意者回答范围并加隐私条件；拍照地点、两行长度、活动感受均不界定谁被标名。",
+        "answer_evidence": "identify everyone",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L299",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I thought this path would take us back to the lake.",
+        "options": [
+          "We walked faster than the other group.",
+          "It does, but it loops around the hill first.",
+          "I left the map in my backpack.",
+          "The lake is deeper than it looks."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：担心路径是否回湖边；目的地是“back to the lake”\n解析：确认会到但先绕山解释暂不朝湖；湖深、速度、地图存放未说明路线走向。\n下次：目的地核实时分终点与途中绕行，检查答复有没有兼顾。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "路线与转折"
+        ],
+        "vocabulary": [
+          "loops"
+        ],
+        "rationale": "担心路径是否回湖边；目的地是确认会到但先绕山解释暂不朝湖；湖深、速度、地图存放未说明路线走向。",
+        "answer_evidence": "back to the lake",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L300",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Can I leave this package with you until the courier arrives?",
+        "options": [
+          "You can buy packaging supplies next door.",
+          "Certainly; I'll keep it behind the counter.",
+          "The package is heavier than I expected.",
+          "The courier usually wears a blue jacket."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：请求代管包裹直到快递员到，动作是“leave this package with you”\n解析：放柜台后保存接下代管；快递员衣服、买包装地点、包裹重量均未同意保管。\n下次：托管题确定物品和期限，检查接收人是否明确承担。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "请求与承诺"
+        ],
+        "vocabulary": [
+          "courier"
+        ],
+        "rationale": "请求代管包裹直到快递员到，动作是放柜台后保存接下代管；快递员衣服、买包装地点、包裹重量均未同意保管。",
+        "answer_evidence": "leave this package with you",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L301",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: The last speaker used up most of our question time.",
+        "options": [
+          "Let's take just one question before the break.",
+          "The break room has plenty of chairs.",
+          "The speaker came from a nearby university.",
+          "These cards list last week's questions."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：提问时间所剩不多；“used up most of our question time”是已用掉大部分问答时间。\n解析：休息前只接一个问题，直接按剩余时间调整议程。嘉宾来自哪所学校、卡片列着上周问题、休息室椅子多，都没有安排眼下剩余的问答。\n下次：听到可用时间减少→找与剩余时间相符的数量调整→检查回复处理的是本轮活动。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "时间约束"
+        ],
+        "vocabulary": [
+          "question time"
+        ],
+        "rationale": "休息前只接一个问题，直接按剩余时间调整议程。嘉宾来自哪所学校、卡片列着上周问题、休息室椅子多，都没有安排眼下剩余的问答。",
+        "answer_evidence": "used up most of our question time",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L302",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Do you happen to have change for a twenty?",
+        "options": [
+          "The item costs twenty before tax.",
+          "The bank opens in twenty minutes.",
+          "I changed the display this morning.",
+          "Yes, would two tens work for you?"
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：要把二十元换零钱，不是问售价；表达是“change for a twenty”\n解析：两张十元回应换钞；二十元价格、换陈列、银行多久开均未提供零钱。\n下次：一词多义先看搭配，再核对总金额是否保持。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "语境辨义"
+        ],
+        "vocabulary": [
+          "twenty"
+        ],
+        "rationale": "要把二十元换零钱，不是问售价；表达是两张十元回应换钞；二十元价格、换陈列、银行多久开均未提供零钱。",
+        "answer_evidence": "change for a twenty",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L303",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Could you speak toward the room rather than the screen?",
+        "options": [
+          "The room is quieter than the hallway.",
+          "Sorry, I'll turn around so everyone can hear.",
+          "Everyone received a copy of the notes.",
+          "The screen is large enough for the slides."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：请面向听众讲话而非对幕布，关键对比是“rather than the screen”\n解析：转身让大家听见落实要求；屏幕大小、发笔记、房间安静都不改变说话朝向。\n下次：方向请求找被替换的朝向，检查动作是否真正改变。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "对比与行动"
+        ],
+        "vocabulary": [
+          "screen"
+        ],
+        "rationale": "请面向听众讲话而非对幕布，关键对比是转身让大家听见落实要求；屏幕大小、发笔记、房间安静都不改变说话朝向。",
+        "answer_evidence": "rather than the screen",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L304",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: I'm torn between volunteering at the shelter and the garden.",
+        "options": [
+          "I volunteered with my cousin last summer.",
+          "Which one fits your weekend schedule better?",
+          "The garden grew more tomatoes last year.",
+          "The shelter is painted a pale blue."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：torn between表示两者难选，线索是“torn between”\n解析：用周末时间匹配作比较标准帮助决定；颜色、番茄产量、亲戚经历不比较本人能否参加。\n下次：两难题先找共同决策标准，再检查它适用于两选项。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "选择与建议"
+        ],
+        "vocabulary": [
+          "volunteering"
+        ],
+        "rationale": "torn between表示两者难选，线索是用周末时间匹配作比较标准帮助决定；颜色、番茄产量、亲戚经历不比较本人能否参加。",
+        "answer_evidence": "torn between",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L305",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: There's a typo in the name on my badge.",
+        "options": [
+          "The badge holder has a strong clip.",
+          "You can wear the badge on either side.",
+          "Your name is on the attendance list.",
+          "I'll print a replacement with the correct spelling."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：姓名有拼写错，typo是打字错误；关键词是“typo”\n解析：重印正确姓名解决；夹子强、名单有名、佩戴方向都不修正字。\n下次：错误反馈先定位字段，再选直接修正而非更换无关配件。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "错误修正"
+        ],
+        "vocabulary": [
+          "spelling"
+        ],
+        "rationale": "姓名有拼写错，typo是打字错误；关键词是重印正确姓名解决；夹子强、名单有名、佩戴方向都不修正字。",
+        "answer_evidence": "typo",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L306",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: I assume we're splitting the cost equally?",
+        "options": [
+          "The total includes the equipment rental.",
+          "Actually, children pay half the adult share.",
+          "I kept the receipt in my wallet.",
+          "We can pay the company this afternoon."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：核实是否均摊，equally是相等；关键词是“equally”\n解析：儿童份额减半纠正均摊假设；总价包含项、收据位置、付款时间不说明各人份额。\n下次：分账题关注比例和对象，再核对是否人人相同。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "假设与纠正"
+        ],
+        "vocabulary": [
+          "share"
+        ],
+        "rationale": "核实是否均摊，equally是相等；关键词是儿童份额减半纠正均摊假设；总价包含项、收据位置、付款时间不说明各人份额。",
+        "answer_evidence": "equally",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L307",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: That was quicker than I expected.",
+        "options": [
+          "The appointment is scheduled for next Tuesday.",
+          "It helped that we'd sorted everything beforehand.",
+          "I expect the next train at noon.",
+          "The larger boxes are over by the door."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：评价完成比预期快，可自然解释原因；线索是“quicker than I expected”\n解析：事前整理解释效率；下次预约、等列车、箱子位置均不承接本次速度评价。\n下次：评价速度后找对应原因，检查时间指向同一已完成任务。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "评价与原因"
+        ],
+        "vocabulary": [
+          "beforehand"
+        ],
+        "rationale": "评价完成比预期快，可自然解释原因；线索是事前整理解释效率；下次预约、等列车、箱子位置均不承接本次速度评价。",
+        "answer_evidence": "quicker than I expected",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L308",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Would you rather I emailed the photos or shared a folder?",
+        "options": [
+          "I took the photos on my phone.",
+          "Some of the photos are slightly blurry.",
+          "The email address is on the invitation.",
+          "A folder, please; there are too many attachments otherwise."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问发送方式，候选之一是共享文件夹；线索是“shared a folder”\n解析：选文件夹并解释附件太多；拍摄设备、邮箱地址、清晰度均未选方式。\n下次：交付形式题先看两方案，再选表明偏好并合理说明的回复。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "方式选择"
+        ],
+        "vocabulary": [
+          "attachments"
+        ],
+        "rationale": "问发送方式，候选之一是共享文件夹；线索是选文件夹并解释附件太多；拍摄设备、邮箱地址、清晰度均未选方式。",
+        "answer_evidence": "shared a folder",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L309",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I wouldn't count on finding parking right outside.",
+        "options": [
+          "The building has a freshly painted entrance.",
+          "Then I'll allow time to walk from farther away.",
+          "You can see the parking lot from upstairs.",
+          "I counted twelve cars there yesterday."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：意为别指望，不是不要数数；线索是“wouldn't count on”\n解析：留步行时间应对近处可能没位；入口、昨车数量、楼上视野都未安排备选。\n下次：提醒不可依赖某条件时，找减少依赖的后备措施。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "习语与推断"
+        ],
+        "vocabulary": [
+          "parking"
+        ],
+        "rationale": "意为别指望，不是不要数数；线索是留步行时间应对近处可能没位；入口、昨车数量、楼上视野都未安排备选。",
+        "answer_evidence": "wouldn't count on",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L310",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Do I need to rinse these brushes before changing colors?",
+        "options": [
+          "The finished picture needs to dry overnight.",
+          "Yes, unless you want the colors to mix.",
+          "The brushes are in the bottom drawer.",
+          "We bought the paint in large containers."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问换颜色前是否洗笔，时间关系是“before changing colors”\n解析：否则混色解释洗笔必要性；存放、采购、成品晾干都未回答换色操作。\n下次：操作题找到省略步骤的后果，再检验建议是否避免它。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "程序与因果"
+        ],
+        "vocabulary": [
+          "rinse"
+        ],
+        "rationale": "问换颜色前是否洗笔，时间关系是否则混色解释洗笔必要性；存放、采购、成品晾干都未回答换色操作。",
+        "answer_evidence": "before changing colors",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L311",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I didn't realize the lecture would be standing room only.",
+        "options": [
+          "I prefer lectures with plenty of examples.",
+          "Let's arrive earlier for the next one.",
+          "The lecturer is standing near the door.",
+          "You can read about the room's history."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：表示座满只能站，不是讲师站立；线索是“standing room only”\n解析：下次早到应对座位不足；讲师站门边误解对象；房间历史、讲座风格无关座位。\n下次：整体识别固定说法，再核对谁没有座位及可行应对。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "习语理解"
+        ],
+        "vocabulary": [
+          "lecture"
+        ],
+        "rationale": "表示座满只能站，不是讲师站立；线索是下次早到应对座位不足；讲师站门边误解对象；房间历史、讲座风格无关座位。",
+        "answer_evidence": "standing room only",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L312",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Could you hold the ladder steady for a moment?",
+        "options": [
+          "Of course; I've got both sides.",
+          "The shelf was installed last spring.",
+          "The ladder reaches the upper shelf.",
+          "I borrowed it from the maintenance room."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：请稳住梯子，steady是稳定；请求是“hold the ladder steady”\n解析：握两边落实扶稳；能到多高、借来地点、架子安装时间都不是此刻协助。\n下次：即时动作请求找正在做的回应，别用物品背景替代。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "即时请求"
+        ],
+        "vocabulary": [
+          "ladder"
+        ],
+        "rationale": "请稳住梯子，steady是稳定；请求是握两边落实扶稳；能到多高、借来地点、架子安装时间都不是此刻协助。",
+        "answer_evidence": "hold the ladder steady",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L313",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Does this coupon apply to items already on sale?",
+        "options": [
+          "I found the coupon in the newspaper.",
+          "You can pay for sale items by card.",
+          "The sale ends on Sunday evening.",
+          "No, it's only for regularly priced items."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问优惠券能否用于已打折物品；范围是“already on sale”\n解析：仅原价商品直接否定叠加；结束日、券来源、刷卡方式均不回答适用范围。\n下次：优惠条件分清原价与折扣商品，检查能否叠加。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "规则与范围"
+        ],
+        "vocabulary": [
+          "coupon"
+        ],
+        "rationale": "问优惠券能否用于已打折物品；范围是仅原价商品直接否定叠加；结束日、券来源、刷卡方式均不回答适用范围。",
+        "answer_evidence": "already on sale",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L314",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: We could finish today if the glue sets in time.",
+        "options": [
+          "The instructions have a photograph on the cover.",
+          "The finished model belongs in the cabinet.",
+          "I bought the glue at the campus shop.",
+          "Then let's assemble the parts that don't need it first."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：完成取决于胶及时凝固，set在此为凝固；条件是“glue sets in time”\n解析：先做不需胶的部分利用等待；成品位置、买胶地点、封面照片不处理进度瓶颈。\n下次：条件限制进度时，区分可并行与需等待的工作。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "条件与计划"
+        ],
+        "vocabulary": [
+          "glue"
+        ],
+        "rationale": "完成取决于胶及时凝固，set在此为凝固；条件是先做不需胶的部分利用等待；成品位置、买胶地点、封面照片不处理进度瓶颈。",
+        "answer_evidence": "glue sets in time",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L315",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Would you check that the back door is latched?",
+        "options": [
+          "Yes, I'll give it a gentle pull.",
+          "The back entrance faces the courtyard.",
+          "The hinges were replaced last year.",
+          "I went through that door this morning."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：要求确认门闩扣好，关键词是“latched”\n解析：轻拉能检查是否扣住；朝向、早上经过、换铰链均不验证当前门闩。\n下次：核查状态要选测试动作，检查它能否证明当前状态。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "核实与动作"
+        ],
+        "vocabulary": [
+          "latched"
+        ],
+        "rationale": "要求确认门闩扣好，关键词是轻拉能检查是否扣住；朝向、早上经过、换铰链均不验证当前门闩。",
+        "answer_evidence": "latched",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L316",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: I missed the name of the author, not the title.",
+        "options": [
+          "I bought the book last weekend.",
+          "The title is printed on the spine.",
+          "The book is called The Night Orchard.",
+          "Her name is Elena Moss."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：纠正所缺信息：作者而非书名；关键否定是“not the title”\n解析：给人名补所缺；书名恰是排除项；购买日、书名位置也未给作者。\n下次：听到不是后，先划掉被排除字段，再找真正所需信息。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "纠正与焦点"
+        ],
+        "vocabulary": [
+          "author"
+        ],
+        "rationale": "纠正所缺信息：作者而非书名；关键否定是给人名补所缺；书名恰是排除项；购买日、书名位置也未给作者。",
+        "answer_evidence": "not the title",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L317",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: This seat belt won't reach the buckle.",
+        "options": [
+          "The buckle should click when it closes.",
+          "The seats were replaced last summer.",
+          "The attendant can bring you an extender.",
+          "I usually choose a window seat."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：安全带长度不够，扣不到；故障是“won't reach the buckle”\n解析：延长件增加长度；扣合响声不是长度问题；更换座椅、座位偏好均不解决。\n下次：先辨是长度不足还是扣合故障，再匹配对应工具。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "问题与解决"
+        ],
+        "vocabulary": [
+          "extender"
+        ],
+        "rationale": "安全带长度不够，扣不到；故障是延长件增加长度；扣合响声不是长度问题；更换座椅、座位偏好均不解决。",
+        "answer_evidence": "won't reach the buckle",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L318",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Could I listen to a sample before choosing the instrument?",
+        "options": [
+          "Of course; I'll play each one briefly.",
+          "The lesson package includes four sessions.",
+          "The instruments are arranged by size.",
+          "You can reserve an instrument for a week."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：想选择前听音色，所需体验是“listen to a sample”\n解析：逐一短奏提供试听；尺寸摆法、课次数、预留时间都不能让人听到。\n下次：购买或选择前的体验请求要匹配感官方式，检查是否实际提供。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "请求与方式"
+        ],
+        "vocabulary": [
+          "instrument"
+        ],
+        "rationale": "想选择前听音色，所需体验是逐一短奏提供试听；尺寸摆法、课次数、预留时间都不能让人听到。",
+        "answer_evidence": "listen to a sample",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L319",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I can lend you the tent, but I need it back dry.",
+        "options": [
+          "We're camping beside the river this weekend.",
+          "The tent has room for three people.",
+          "I'll air it out before returning it.",
+          "I borrowed a sleeping bag as well."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：可借但归还必须干燥，条件是“back dry”\n解析：归还前晾干遵守；容量、营地、另借睡袋都未承诺干燥归还。\n下次：借物条件题先记归还状态，再检查如何确保。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "条件承诺"
+        ],
+        "vocabulary": [
+          "tent"
+        ],
+        "rationale": "可借但归还必须干燥，条件是归还前晾干遵守；容量、营地、另借睡袋都未承诺干燥归还。",
+        "answer_evidence": "back dry",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L320",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Am I interrupting, or is now a good time?",
+        "options": [
+          "This clock is a few minutes slow.",
+          "I interrupted the recording by mistake.",
+          "The office door was painted recently.",
+          "I just finished; come on in."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问此刻是否方便交流，而非钟点；线索是“is now a good time”\n解析：刚忙完请进明确方便；门漆、时钟误差、打断录音的经历都不说明可否聊。\n下次：社交时间问句先判断是否问方便程度，再找允许开始的回复。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "社交语用"
+        ],
+        "vocabulary": [
+          "interrupting"
+        ],
+        "rationale": "问此刻是否方便交流，而非钟点；线索是刚忙完请进明确方便；门漆、时钟误差、打断录音的经历都不说明可否聊。",
+        "answer_evidence": "is now a good time",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L321",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Could you bring the discussion back to the main question?",
+        "options": [
+          "The main speaker has already arrived.",
+          "I brought copies of last month's minutes.",
+          "Certainly; let's return to the funding decision.",
+          "The meeting room is down the hallway."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：请把讨论拉回主题，不是返回房间；请求是“back to the main question”\n解析：重回资金决定恢复议题；房间位置、主讲到场、带会议纪要都未转回讨论。\n下次：抽象的回到常指话题，检查答复是否点明原议题。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "话语功能"
+        ],
+        "vocabulary": [
+          "discussion"
+        ],
+        "rationale": "请把讨论拉回主题，不是返回房间；请求是重回资金决定恢复议题；房间位置、主讲到场、带会议纪要都未转回讨论。",
+        "answer_evidence": "back to the main question",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L322",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: I thought the rent included heating.",
+        "options": [
+          "You can pay rent at the office.",
+          "The apartment gets plenty of sunlight.",
+          "It does; that charge is for hot water.",
+          "The heating was repaired last autumn."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：怀疑多收暖气费，原预期是租金含暖气；线索是“included heating”\n解析：确认包含并区分热水费消除误解；采光、付款地点、维修日均不解释费用项目。\n下次：账单疑问区分相近服务，检查是否真的重复收费。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "费用澄清"
+        ],
+        "vocabulary": [
+          "heating"
+        ],
+        "rationale": "怀疑多收暖气费，原预期是租金含暖气；线索是确认包含并区分热水费消除误解；采光、付款地点、维修日均不解释费用项目。",
+        "answer_evidence": "included heating",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L323",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: We have enough chairs, just not enough space between them.",
+        "options": [
+          "The room has two separate entrances.",
+          "I can borrow more chairs next door.",
+          "The chairs were delivered yesterday afternoon.",
+          "Let's remove a row to widen the aisles."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：缺的是椅间空间，不是椅子；关键是“space between them”\n解析：撤一排扩走道对症；再借椅子反而加挤；交付日期、入口数量不改变排布。\n下次：听清够与不够各修饰什么，再选对应维度的调整。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "转折与焦点"
+        ],
+        "vocabulary": [
+          "aisles"
+        ],
+        "rationale": "缺的是椅间空间，不是椅子；关键是撤一排扩走道对症；再借椅子反而加挤；交付日期、入口数量不改变排布。",
+        "answer_evidence": "space between them",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L324",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Is that an actual deadline or just a target date?",
+        "options": [
+          "We discussed several possible dates yesterday.",
+          "The date is highlighted on the calendar.",
+          "You can submit your entry online.",
+          "It's firm; late entries won't be considered."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问日期硬性还是期望目标，关键是“actual deadline”\n解析：逾期不受理说明硬期限；高亮、讨论日期、网上提交都不说明迟交后果。\n下次：期限性质题找逾期后果，检查是否允许弹性。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "规则推断"
+        ],
+        "vocabulary": [
+          "deadline"
+        ],
+        "rationale": "问日期硬性还是期望目标，关键是逾期不受理说明硬期限；高亮、讨论日期、网上提交都不说明迟交后果。",
+        "answer_evidence": "actual deadline",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L325",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I don't want to commit before seeing the full schedule.",
+        "options": [
+          "You made a good decision last year.",
+          "That's reasonable; I'll send it before you decide.",
+          "The commitment lasts for six whole months.",
+          "The schedule is printed in blue ink."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：要先看完整安排再承诺，顺序要求是“before seeing the full schedule”\n解析：决定前发送尊重顺序；承诺时长、去年决定、墨色都未提供她所需的前提。\n下次：承诺前提题先列必要信息，再检查何时提供。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "前提与承诺"
+        ],
+        "vocabulary": [
+          "commit"
+        ],
+        "rationale": "要先看完整安排再承诺，顺序要求是决定前发送尊重顺序；承诺时长、去年决定、墨色都未提供她所需的前提。",
+        "answer_evidence": "before seeing the full schedule",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L326",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Can this fabric be washed, or does it need dry cleaning?",
+        "options": [
+          "The label says a gentle machine wash is fine.",
+          "The cleaner is across from the bakery.",
+          "The fabric comes in several darker colors.",
+          "I washed a different jacket yesterday."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问洗涤方式，dry cleaning指干洗；线索是“dry cleaning”\n解析：标签允许轻柔机洗直接说明要求；颜色、洗衣店位置、另一件衣服经历不能确定这块面料。\n下次：护理题优先找此物标签规定，别套用别件物品经验。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "要求与依据"
+        ],
+        "vocabulary": [
+          "fabric"
+        ],
+        "rationale": "问洗涤方式，dry cleaning指干洗；线索是标签允许轻柔机洗直接说明要求；颜色、洗衣店位置、另一件衣服经历不能确定这块面料。",
+        "answer_evidence": "dry cleaning",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L327",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I wouldn't call the results conclusive yet.",
+        "options": [
+          "The trial took place on a Tuesday.",
+          "The results are displayed on this screen.",
+          "You're right; we should repeat the trial.",
+          "I can enlarge the table for the report."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：conclusive表示足以定论，她认为尚不能定论；线索是“conclusive”\n解析：重复试验补证据；显示位置、星期、放大表格均不提高结论可靠性。\n下次：听到尚不能定论，找增加验证的措施，再查是否只改展示。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "立场与证据"
+        ],
+        "vocabulary": [
+          "trial"
+        ],
+        "rationale": "conclusive表示足以定论，她认为尚不能定论；线索是重复试验补证据；显示位置、星期、放大表格均不提高结论可靠性。",
+        "answer_evidence": "conclusive",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L328",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Could you move your cup away from the edge?",
+        "options": [
+          "Of course; I'll put it in the middle.",
+          "The coffee is still a little hot.",
+          "I bought the cup at the museum.",
+          "The table has a smooth wooden surface."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：请求杯子离边缘远些，位置限制是“away from the edge”\n解析：放中间落实；咖啡温度、购杯地点、桌面材质均未移动杯子。\n下次：位置调整题把原位置与目标位置对照，确认方向正确。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "空间与请求"
+        ],
+        "vocabulary": [
+          "edge"
+        ],
+        "rationale": "请求杯子离边缘远些，位置限制是放中间落实；咖啡温度、购杯地点、桌面材质均未移动杯子。",
+        "answer_evidence": "away from the edge",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L329",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: It might be easier to explain this over the phone.",
+        "options": [
+          "I explained the first step yesterday.",
+          "The phone number has ten digits.",
+          "All right; when would be convenient to call?",
+          "You can charge your phone beside the door."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：建议用电话解释，交流渠道是“over the phone”\n解析：询问方便通话时间推进建议；号码位数、昨天解释、充电处都未安排通话。\n下次：渠道建议后找落实该渠道的下一步，核对是否真正承接。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "建议与后续"
+        ],
+        "vocabulary": [
+          "convenient"
+        ],
+        "rationale": "建议用电话解释，交流渠道是询问方便通话时间推进建议；号码位数、昨天解释、充电处都未安排通话。",
+        "answer_evidence": "over the phone",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L330",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Are these tickets transferable if I can't come?",
+        "options": [
+          "The tickets were emailed this morning.",
+          "The performance begins at half past seven.",
+          "I can print an extra copy for you.",
+          "Yes, but the new attendee must update the name."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问票能否转给别人，关键词是“transferable”\n解析：可转但新参加者改名给出规则；发票时间、演出时点、重印均不等于转让许可。\n下次：票务问题先区分转让与复制，再看新使用者要求。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "规则与条件"
+        ],
+        "vocabulary": [
+          "attendee"
+        ],
+        "rationale": "问票能否转给别人，关键词是可转但新参加者改名给出规则；发票时间、演出时点、重印均不等于转让许可。",
+        "answer_evidence": "transferable",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L331",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: We need to get this bookshelf upstairs, but that staircase is narrower than I remembered.",
+        "options": [
+          "I remember visiting this building last year.",
+          "The stairs lead to the second floor.",
+          "Let's carry the bookshelf up one piece at a time.",
+          "The bookshelf is a lighter shade of brown."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：楼梯较窄可能妨碍搬运，比较点是“narrower”\n解析：拆分搬运应对空间；书架颜色、参观回忆、通往楼层均不解决宽度限制。\n下次：尺寸限制先找受影响动作，再选能改变搬运方式的建议。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "隐含问题"
+        ],
+        "vocabulary": [
+          "staircase"
+        ],
+        "rationale": "拆分搬运应对空间；书架颜色、参观回忆、通往楼层均不解决宽度限制。",
+        "answer_evidence": "narrower",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L332",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: How far in advance should we book the rehearsal space?",
+        "options": [
+          "The rehearsal usually lasts about two hours.",
+          "The space is behind the music building.",
+          "You can fit about twenty performers inside.",
+          "At least a week, especially during festival season."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问提前多久预订，不是使用多久；关键是“in advance”\n解析：至少一周回答提前量；排练时长、地点、容量都错了时间或信息维度。\n下次：给时间加上提前量或持续时长标签，再匹配问法。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "时间关系"
+        ],
+        "vocabulary": [
+          "festival"
+        ],
+        "rationale": "问提前多久预订，不是使用多久；关键是至少一周回答提前量；排练时长、地点、容量都错了时间或信息维度。",
+        "answer_evidence": "in advance",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L333",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I meant the rough estimate, not the final invoice.",
+        "options": [
+          "Then this preliminary total is the one you need.",
+          "I can explain the payment methods again.",
+          "The final invoice is due next Friday.",
+          "We keep invoices in that filing cabinet."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：要粗略估算而非正式账单；关键是“rough estimate”\n解析：初步总额对应估算；最终账单期限、付款方式、账单柜仍未提供估算。\n下次：纠正文件类型时，先排除被否定的文件，再找功能相符者。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "澄清与区分"
+        ],
+        "vocabulary": [
+          "preliminary"
+        ],
+        "rationale": "要粗略估算而非正式账单；关键是初步总额对应估算；最终账单期限、付款方式、账单柜仍未提供估算。",
+        "answer_evidence": "rough estimate",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L334",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Would you like me to take over while you have lunch?",
+        "options": [
+          "That would help; I'll be back in twenty minutes.",
+          "The cafeteria serves lunch until two.",
+          "The desk is near the main entrance.",
+          "I took a lunch break earlier yesterday."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：take over是接手值守，主动提供帮助；线索是“take over”\n解析：接受并说返回时间回应替班；食堂时间、昨日休息、桌位置都未表态接受。\n下次：主动帮忙题先识别谁替谁，再选接受或婉拒。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "社交回应"
+        ],
+        "vocabulary": [
+          "take over"
+        ],
+        "rationale": "take over是接手值守，主动提供帮助；线索是接受并说返回时间回应替班；食堂时间、昨日休息、桌位置都未表态接受。",
+        "answer_evidence": "take over",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L335",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: We shouldn't assume everyone knows that abbreviation.",
+        "options": [
+          "The abbreviation saves space in the heading.",
+          "I know the author of this report.",
+          "I'll spell it out the first time it appears.",
+          "Everyone received the document yesterday."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：担心缩写读者不懂，关键词是“abbreviation”\n解析：首次写全称解决理解；收到文档不等于懂；省空间是优点却未回应；认识作者无关。\n下次：术语可理解性问题先找解释机制，再看是否仅为原写法辩护。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "读者意识"
+        ],
+        "vocabulary": [
+          "spell it out"
+        ],
+        "rationale": "担心缩写读者不懂，关键词是首次写全称解决理解；收到文档不等于懂；省空间是优点却未回应；认识作者无关。",
+        "answer_evidence": "abbreviation",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L336",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Is the workshop suitable for complete beginners?",
+        "options": [
+          "Yes, it starts with the very basics.",
+          "The workshop is held in a large studio.",
+          "Several beginners bought supplies yesterday.",
+          "The instructor has published a new book."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问零基础能否参加，对象是“complete beginners”\n解析：从基础开始说明适合；教室大、初学者购物、老师出书都不证明课程起点。\n下次：难度匹配题找所需前置能力，不用名气或地点代替。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "适合度判断"
+        ],
+        "vocabulary": [
+          "basics"
+        ],
+        "rationale": "问零基础能否参加，对象是从基础开始说明适合；教室大、初学者购物、老师出书都不证明课程起点。",
+        "answer_evidence": "complete beginners",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L337",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I can see the screen, but I can't read the small print.",
+        "options": [
+          "I'll zoom in on that section.",
+          "The screen is plugged in correctly.",
+          "I can move the picture to another folder.",
+          "The printed handouts arrived this morning."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：看得见但字太小，障碍是“small print”\n解析：放大该处提高可读性；接线正确只说明显示正常；移动文件、印刷品到货未改变屏幕文字。\n下次：区分有显示与可辨认，再选针对字号的操作。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "问题定位"
+        ],
+        "vocabulary": [
+          "zoom"
+        ],
+        "rationale": "看得见但字太小，障碍是放大该处提高可读性；接线正确只说明显示正常；移动文件、印刷品到货未改变屏幕文字。",
+        "answer_evidence": "small print",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L338",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Could you let me know if a quieter room becomes available?",
+        "options": [
+          "The room keys are kept at reception.",
+          "Certainly; I'll put a note on your reservation.",
+          "All rooms have the same check-in time.",
+          "I stayed in a quiet room last year."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：希望有更静房间时获通知，条件是“if a quieter room becomes available”\n解析：预约上备注可跟进请求；入住时间、钥匙位置、去年经历不记录通知需求。\n下次：候补请求找触发条件和联系方式或记录，不把常规入住信息当回复。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "条件请求"
+        ],
+        "vocabulary": [
+          "reservation"
+        ],
+        "rationale": "希望有更静房间时获通知，条件是预约上备注可跟进请求；入住时间、钥匙位置、去年经历不记录通知需求。",
+        "answer_evidence": "if a quieter room becomes available",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L339",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I thought we agreed not to use disposable plates.",
+        "options": [
+          "The disposable plates were on sale.",
+          "The plates are stacked beside the sink.",
+          "You're right; I'll get the washable ones.",
+          "We agreed to meet at five o'clock."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：提醒不用一次性盘的约定，限制是“not to use disposable plates”\n解析：改拿可洗盘遵守；打折不能取消约定；见面时间是另一约定；摆放位置未改用品。\n下次：被提醒约定时，核对回应是否纠正行动而非解释方便。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "提醒与纠正"
+        ],
+        "vocabulary": [
+          "disposable"
+        ],
+        "rationale": "提醒不用一次性盘的约定，限制是改拿可洗盘遵守；打折不能取消约定；见面时间是另一约定；摆放位置未改用品。",
+        "answer_evidence": "not to use disposable plates",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L340",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Would a digital copy be acceptable for the application?",
+        "options": [
+          "Yes, as long as the text is clearly legible.",
+          "You can photocopy it in the library.",
+          "The application has several different sections.",
+          "The deadline appears at the top of the page."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问电子副本能否提交，形式是“digital copy”\n解析：清晰可读即可给许可条件；章节、复印地点、截止日不回答电子形式是否接受。\n下次：材料接受题区分形式与质量，检查两项要求。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "许可与条件"
+        ],
+        "vocabulary": [
+          "legible"
+        ],
+        "rationale": "问电子副本能否提交，形式是清晰可读即可给许可条件；章节、复印地点、截止日不回答电子形式是否接受。",
+        "answer_evidence": "digital copy",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L341",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: That question puts me on the spot a little.",
+        "options": [
+          "Your spot is at the end of the table.",
+          "Take your time; you don't have to answer now.",
+          "I put the papers on your chair.",
+          "The question appears on page seventeen."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：表示突然为难，不是座位问题；习语是“puts me on the spot”\n解析：给思考时间减轻压力；座位、题目页码、放文件均按字面误解或未回应难处。\n下次：社交习语先判断情绪，再选减压而非催促的回复。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "习语与态度"
+        ],
+        "vocabulary": [
+          "spot"
+        ],
+        "rationale": "表示突然为难，不是座位问题；习语是给思考时间减轻压力；座位、题目页码、放文件均按字面误解或未回应难处。",
+        "answer_evidence": "puts me on the spot",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L342",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Can we store these boxes here overnight?",
+        "options": [
+          "Yes, but the exit must stay clear.",
+          "The night guard starts work at ten.",
+          "The boxes arrived late this afternoon.",
+          "You can order more packing tape online."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问能否留箱过夜，时间是“overnight”\n解析：允许但不堵出口给存放规则；到货时间、买胶带、保安排班都未批准放箱。\n下次：场所许可题检查例外与安全限制，别只听肯定词。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "许可与限制"
+        ],
+        "vocabulary": [
+          "exit"
+        ],
+        "rationale": "问能否留箱过夜，时间是允许但不堵出口给存放规则；到货时间、买胶带、保安排班都未批准放箱。",
+        "answer_evidence": "overnight",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L343",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I'd prefer not to be photographed during the demonstration.",
+        "options": [
+          "I can send the pictures to you afterward.",
+          "I'll keep the camera on the equipment instead.",
+          "The demonstration lasts about fifteen minutes.",
+          "The photographs will be taken in color."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：不愿自己入镜，要求是“not to be photographed”\n解析：镜头只对设备尊重；彩色、时长、后发照片都不防止拍到她。\n下次：隐私偏好先确定不拍谁，再检查替代拍摄对象。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "隐含请求"
+        ],
+        "vocabulary": [
+          "equipment"
+        ],
+        "rationale": "不愿自己入镜，要求是镜头只对设备尊重；彩色、时长、后发照片都不防止拍到她。",
+        "answer_evidence": "not to be photographed",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L344",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Have we allowed enough time for questions at the end?",
+        "options": [
+          "We've kept the final fifteen minutes free.",
+          "The event ends earlier than last year's.",
+          "The first question is about local history.",
+          "I can answer your questions by email."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问是否预留问答时间，不是题目内容；关键是“time for questions”\n解析：末尾留十五分钟回应安排；首题主题、邮件回答、比去年早结束不明确现场留时。\n下次：安排题找专门分配的时段，再核对用途。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "时间安排"
+        ],
+        "vocabulary": [
+          "fifteen"
+        ],
+        "rationale": "问是否预留问答时间，不是题目内容；关键是末尾留十五分钟回应安排；首题主题、邮件回答、比去年早结束不明确现场留时。",
+        "answer_evidence": "time for questions",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L345",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: This plant looks thirsty, doesn't it?",
+        "options": [
+          "I'll check the soil before adding water.",
+          "It looks nice beside that green chair.",
+          "The pot has a pattern of blue leaves.",
+          "The plant was a birthday gift."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：植物像缺水，用thirsty拟人表达；线索是“thirsty”\n解析：检查土后浇水回应需水；盆纹、礼物来历、摆放美观都不判断水分。\n下次：状态推测先检查证据，再采取针对性行动。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "隐含建议"
+        ],
+        "vocabulary": [
+          "soil"
+        ],
+        "rationale": "植物像缺水，用thirsty拟人表达；线索是检查土后浇水回应需水；盆纹、礼物来历、摆放美观都不判断水分。",
+        "answer_evidence": "thirsty",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L346",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Do you have a version without background music?",
+        "options": [
+          "The speaker used a wireless microphone.",
+          "Yes, the speech-only track is in this folder.",
+          "The background music was recorded locally.",
+          "You can turn up the overall volume."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：要无背景音乐版本，限制是“without background music”\n解析：纯讲话音轨满足；音乐来源、麦克风、总音量都不分离背景音乐。\n下次：媒体版本题抓需要去掉的元素，检查替代版是否真正去除。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "条件筛选"
+        ],
+        "vocabulary": [
+          "track"
+        ],
+        "rationale": "要无背景音乐版本，限制是纯讲话音轨满足；音乐来源、麦克风、总音量都不分离背景音乐。",
+        "answer_evidence": "without background music",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L347",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: The deadline is tomorrow, not next week.",
+        "options": [
+          "Thanks for catching that; I'll submit it tonight.",
+          "I handed in a different form yesterday.",
+          "Next week's timetable has already been posted.",
+          "The office is closed on Sundays."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：纠正截止时间提前，核心是“tomorrow, not next week”\n解析：今晚交配合明天截止；下周表、昨天别表、周日关门均未调整本次行动。\n下次：日期纠正先更新当前截止点，再检查行动发生在它之前。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "纠正与期限"
+        ],
+        "vocabulary": [
+          "submit"
+        ],
+        "rationale": "纠正截止时间提前，核心是今晚交配合明天截止；下周表、昨天别表、周日关门均未调整本次行动。",
+        "answer_evidence": "tomorrow, not next week",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L348",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Could you explain what you mean by a flexible commitment?",
+        "options": [
+          "I committed to the program last autumn.",
+          "Most volunteers enjoy working here.",
+          "The program offers several types of activities.",
+          "You can change your hours from week to week."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：要解释弹性承诺具体含义，词组是“flexible commitment”\n解析：每周可改时数说明弹性所在；活动种类、志愿者感受、加入时间均未定义承诺。\n下次：抽象词求解释时找具体可做什么，再检验是否对应词义。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "定义与澄清"
+        ],
+        "vocabulary": [
+          "flexible"
+        ],
+        "rationale": "要解释弹性承诺具体含义，词组是每周可改时数说明弹性所在；活动种类、志愿者感受、加入时间均未定义承诺。",
+        "answer_evidence": "flexible commitment",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L349",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Are you sure that wire isn't still live?",
+        "options": [
+          "The wire is longer than the other one.",
+          "The switch is made from white plastic.",
+          "I saw the electrician here yesterday.",
+          "Let's switch off the power before touching it."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：live形容电线是带电，不是活着；线索是“still live”\n解析：先断电针对安全顾虑；长度、电工出现、开关材质都不保证已无电。\n下次：安全核实不能靠外观推测，选先消除风险的动作。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "词义与行动"
+        ],
+        "vocabulary": [
+          "wire"
+        ],
+        "rationale": "live形容电线是带电，不是活着；线索是先断电针对安全顾虑；长度、电工出现、开关材质都不保证已无电。",
+        "answer_evidence": "still live",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L350",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: I'd like to try it on, but this size looks a little small.",
+        "options": [
+          "The smaller sizes are on the top shelf.",
+          "The fitting room has a large mirror.",
+          "That style is popular this season.",
+          "I'll bring the next size up for you."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：想试穿但担心太小，需更大尺码；线索是“a little small”\n解析：拿大一码回应尺寸；镜子、流行度、小码位置都不解决偏小。\n下次：服装建议先锁定尺码方向，检查换大还是换小。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "比较与请求"
+        ],
+        "vocabulary": [
+          "size"
+        ],
+        "rationale": "想试穿但担心太小，需更大尺码；线索是拿大一码回应尺寸；镜子、流行度、小码位置都不解决偏小。",
+        "answer_evidence": "a little small",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L351",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Could we avoid scheduling this during exam week?",
+        "options": [
+          "Yes, let's look at the following week.",
+          "The meeting requires a projector and screen.",
+          "The exams will cover five main topics.",
+          "I studied with a group last term."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：请求避开考试周，时间限制是“avoid scheduling this during exam week”\n解析：看下一周满足避让；考点、复习经历、设备需求都不调整时间。\n下次：避开时段题把禁用时段圈出，再查替代时段不重叠。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "时间限制"
+        ],
+        "vocabulary": [
+          "following"
+        ],
+        "rationale": "请求避开考试周，时间限制是看下一周满足避让；考点、复习经历、设备需求都不调整时间。",
+        "answer_evidence": "avoid scheduling this during exam week",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L352",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: We don't have to settle every detail today.",
+        "options": [
+          "The settlement is north of the river.",
+          "Today's meeting room is quite small.",
+          "Then let's agree on the main goal first.",
+          "I wrote the details in a notebook."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：settle在此是敲定，不是定居点；重点是“settle every detail”\n解析：先同意主要目标缩小本次任务；房间大小、记过细节、村落位置都未回应决策范围。\n下次：先辨动词语境，再把全部细节与主要方向分层。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "范围与优先"
+        ],
+        "vocabulary": [
+          "settle"
+        ],
+        "rationale": "settle在此是敲定，不是定居点；重点是先同意主要目标缩小本次任务；房间大小、记过细节、村落位置都未回应决策范围。",
+        "answer_evidence": "settle every detail",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L353",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Did the repair solve the rattling noise?",
+        "options": [
+          "I paid for the repair by card.",
+          "Mostly, though I still hear it on rough roads.",
+          "The mechanic ordered a new part yesterday.",
+          "The repair shop is close to the bridge."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问修理效果是否消除异响，目标是“solve the rattling noise”\n解析：多数改善但颠簸仍响回答效果与限制；店址、支付、订件都不是实际结果。\n下次：结果核实找改善程度及例外，不把过程当结果。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "结果与让步"
+        ],
+        "vocabulary": [
+          "rattling"
+        ],
+        "rationale": "问修理效果是否消除异响，目标是多数改善但颠簸仍响回答效果与限制；店址、支付、订件都不是实际结果。",
+        "answer_evidence": "solve the rattling noise",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L354",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Would you mind if I left a few minutes early?",
+        "options": [
+          "The clock is above the entrance.",
+          "I left my notes in the other room.",
+          "The meeting started a few minutes late.",
+          "Not at all; we've covered the essential points."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：委婉请求早走，要判断是否允许；句式是“Would you mind if”\n解析：不介意且重点已讲完表示许可；晚开会、忘笔记、钟位置均不回应。\n下次：mind问句的否定常表示不介意，结合后句确认许可。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "委婉许可"
+        ],
+        "vocabulary": [
+          "essential"
+        ],
+        "rationale": "委婉请求早走，要判断是否允许；句式是不介意且重点已讲完表示许可；晚开会、忘笔记、钟位置均不回应。",
+        "answer_evidence": "Would you mind if",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L355",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: There seems to be a page missing between these two.",
+        "options": [
+          "The printer has enough paper for another copy.",
+          "You're right; the numbering jumps from six to eight.",
+          "The cover has a picture of a mountain.",
+          "I read the first page very carefully."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：怀疑中间缺页，需要核对连续性；线索是“a page missing”\n解析：六跳八证明少七页；封面、纸够、读首页都不验证页序。\n下次：缺页题对照前后页码，检查跳号是否解释疑问。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "核实与证据"
+        ],
+        "vocabulary": [
+          "numbering"
+        ],
+        "rationale": "怀疑中间缺页，需要核对连续性；线索是六跳八证明少七页；封面、纸够、读首页都不验证页序。",
+        "answer_evidence": "a page missing",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L356",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Is the fee waived for student volunteers?",
+        "options": [
+          "The fee can be paid at reception.",
+          "The volunteer training starts next Monday.",
+          "Several students volunteered last semester.",
+          "Yes, with proof of current enrollment."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：waived表示免除，问学生志愿者是否免收费；关键是“waived”\n解析：在读证明可免给出资格；付款处、往届参与、培训日期都不回答减免。\n下次：费用减免题先分支付与豁免，再核对证明材料。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "资格与条件"
+        ],
+        "vocabulary": [
+          "enrollment"
+        ],
+        "rationale": "waived表示免除，问学生志愿者是否免收费；关键是在读证明可免给出资格；付款处、往届参与、培训日期都不回答减免。",
+        "answer_evidence": "waived",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L357",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I'd hate to promise more than we can deliver.",
+        "options": [
+          "We delivered supplies to three sites yesterday.",
+          "The project has a very attractive title.",
+          "Let's offer a smaller project with a firm timetable.",
+          "The promise was included in the first draft."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：不想承诺超出能力，deliver指兑现；线索是“more than we can deliver”\n解析：缩小项目并落实时间降低过度承诺；草稿位置、运货经历、标题美观均不对齐承诺与能力。\n下次：能力顾虑先调整承诺范围，再检查是否可兑现。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "隐含意图"
+        ],
+        "vocabulary": [
+          "deliver"
+        ],
+        "rationale": "不想承诺超出能力，deliver指兑现；线索是缩小项目并落实时间降低过度承诺；草稿位置、运货经历、标题美观均不对齐承诺与能力。",
+        "answer_evidence": "more than we can deliver",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L358",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Could you send just the pages with my comments on them?",
+        "options": [
+          "The pages are numbered in the corner.",
+          "Sure, I'll leave out the unmarked pages.",
+          "Your comments are written in green ink.",
+          "I can send the entire file tomorrow."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：只要有本人批注的页，限定是“just the pages with my comments”\n解析：去掉未标页遵守筛选；绿墨水、发全文件、页码位置均不按要求缩小范围。\n下次：just限定范围，先写筛选条件，再排除多发或换条件。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "范围筛选"
+        ],
+        "vocabulary": [
+          "unmarked"
+        ],
+        "rationale": "只要有本人批注的页，限定是去掉未标页遵守筛选；绿墨水、发全文件、页码位置均不按要求缩小范围。",
+        "answer_evidence": "just the pages with my comments",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L359",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I wasn't criticizing your idea, only the timing.",
+        "options": [
+          "The idea came from a book I read.",
+          "Several people liked the idea immediately.",
+          "I can describe the idea in greater detail.",
+          "I see; perhaps we can revisit it next month."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：反对的是时机，不是方案本身；焦点是“only the timing”\n解析：下月再议调整时机；来源、更多细节、他人喜欢都在辩护想法而非时机。\n下次：听到不是而是，分离评价对象，再选对应修改。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "焦点与澄清"
+        ],
+        "vocabulary": [
+          "timing"
+        ],
+        "rationale": "反对的是时机，不是方案本身；焦点是下月再议调整时机；来源、更多细节、他人喜欢都在辩护想法而非时机。",
+        "answer_evidence": "only the timing",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L360",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Does the museum allow sketching in the galleries?",
+        "options": [
+          "The galleries display works from several countries.",
+          "Yes, with pencils rather than pens.",
+          "I sketched the building from outside yesterday.",
+          "The museum shop sells illustrated books."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问展厅是否允许写生，规则是“allow sketching”\n解析：可用铅笔给许可及工具限制；展品国别、卖画册、外面画过都不说明厅内规则。\n下次：许可题核对活动地点和工具限制，别套用室外经历。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "规则与许可"
+        ],
+        "vocabulary": [
+          "sketching"
+        ],
+        "rationale": "问展厅是否允许写生，规则是可用铅笔给许可及工具限制；展品国别、卖画册、外面画过都不说明厅内规则。",
+        "answer_evidence": "allow sketching",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L361",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I think we're getting ahead of ourselves by choosing colors now.",
+        "options": [
+          "Let's finalize the layout before discussing the palette.",
+          "The brighter colors look good in daylight.",
+          "We chose blue for last year's event.",
+          "The paint samples are on the front desk."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：意为进度顺序太超前，不是走得快；线索是“getting ahead of ourselves”\n解析：先定布局再配色恢复依赖顺序；亮色效果、去年蓝色、样本位置仍停在过早的颜色决定。\n下次：先找尚未定下的前置决策，再安排依赖它的细节。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "话语功能与顺序"
+        ],
+        "vocabulary": [
+          "layout"
+        ],
+        "rationale": "意为进度顺序太超前，不是走得快；线索是先定布局再配色恢复依赖顺序；亮色效果、去年蓝色、样本位置仍停在过早的颜色决定。",
+        "answer_evidence": "getting ahead of ourselves",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L362",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Can I borrow your bicycle if I return it by six?",
+        "options": [
+          "The repair shop closes at six.",
+          "The bicycle has twenty-one gears.",
+          "I usually take a different route home.",
+          "Yes, that's early enough for my evening ride."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：借车并承诺六点前还，请求含期限；线索是“return it by six”\n解析：够赶晚间骑行说明同意；档位、回家路线、修车店关门都不是借车许可。\n下次：附期限的借用题检查出借人需求与归还点是否相容。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "条件许可"
+        ],
+        "vocabulary": [
+          "bicycle"
+        ],
+        "rationale": "借车并承诺六点前还，请求含期限；线索是够赶晚间骑行说明同意；档位、回家路线、修车店关门都不是借车许可。",
+        "answer_evidence": "return it by six",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L363",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Is that conclusion based on observation or someone's guess?",
+        "options": [
+          "The conclusion appears at the end of the report.",
+          "Someone suggested a shorter title yesterday.",
+          "We recorded the behavior on three separate occasions.",
+          "The observation room has a one-way window."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问结论证据是观察还是猜测；区分是“observation or someone's guess”\n解析：三次记录说明有观察依据；结论位置、标题建议、观察室窗户都不证明实际观察过。\n下次：证据来源题找发生过的取证行为，不用设施存在替代。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "证据与推断"
+        ],
+        "vocabulary": [
+          "recorded"
+        ],
+        "rationale": "问结论证据是观察还是猜测；区分是三次记录说明有观察依据；结论位置、标题建议、观察室窗户都不证明实际观察过。",
+        "answer_evidence": "observation or someone's guess",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L364",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: I'd rather walk than wait here another half hour.",
+        "options": [
+          "I waited here with my sister yesterday.",
+          "The waiting area has comfortable benches.",
+          "All right; we can take the path through the park.",
+          "The bus fare increased last month."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：明确宁愿走也不等，偏好是“rather walk than wait”\n解析：走公园小路落实步行；座椅、车费、昨日等待均不承接选择。\n下次：rather than比较两个行动，找被偏好的行动及落实方式。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "偏好与行动"
+        ],
+        "vocabulary": [
+          "path"
+        ],
+        "rationale": "明确宁愿走也不等，偏好是走公园小路落实步行；座椅、车费、昨日等待均不承接选择。",
+        "answer_evidence": "rather walk than wait",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L365",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Could you lower the blinds just enough to cut the glare?",
+        "options": [
+          "Sure, I'll leave some daylight coming in.",
+          "The windows were cleaned yesterday morning.",
+          "The blinds match the color of the walls.",
+          "I can switch on every ceiling light."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：只需减眩光而非全遮光，程度是“just enough to cut the glare”\n解析：仍留日光符合适量遮挡；颜色、全开顶灯、擦窗时间都不控制百叶程度。\n下次：程度限定题注意刚够与全部，检查操作没有过量。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "程度与请求"
+        ],
+        "vocabulary": [
+          "glare"
+        ],
+        "rationale": "只需减眩光而非全遮光，程度是仍留日光符合适量遮挡；颜色、全开顶灯、擦窗时间都不控制百叶程度。",
+        "answer_evidence": "just enough to cut the glare",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L366",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Do these stairs go all the way to the roof garden?",
+        "options": [
+          "The garden has several kinds of herbs.",
+          "I take the stairs when I'm not carrying much.",
+          "No, you'll need the lift for the final floor.",
+          "The roof was repaired during the summer."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问楼梯能否直达，all the way指全程；线索是“all the way”\n解析：末层需电梯否定直达；植物、屋顶维修、个人习惯都不说明连接路线。\n下次：直达题检查途中是否需换路或工具，别只确认大方向。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "路线与范围"
+        ],
+        "vocabulary": [
+          "lift"
+        ],
+        "rationale": "问楼梯能否直达，all the way指全程；线索是末层需电梯否定直达；植物、屋顶维修、个人习惯都不说明连接路线。",
+        "answer_evidence": "all the way",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L367",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I don't think the sample is representative of the whole class.",
+        "options": [
+          "The sample is displayed in a clear container.",
+          "I can print the results in larger type.",
+          "The class meets in the science building.",
+          "Let's include students from the afternoon sessions too."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：representative表示有代表性，担心覆盖不全；关键词是“representative”\n解析：纳入下午班扩大覆盖；透明容器误作实物样本；教室、字号都不改变抽样组成。\n下次：代表性问题找漏掉的群体，再看建议是否补足覆盖。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "证据与范围"
+        ],
+        "vocabulary": [
+          "sample"
+        ],
+        "rationale": "representative表示有代表性，担心覆盖不全；关键词是纳入下午班扩大覆盖；透明容器误作实物样本；教室、字号都不改变抽样组成。",
+        "answer_evidence": "representative",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L368",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Could we test the alarm without startling the visitors?",
+        "options": [
+          "The visitors arrived on two separate buses.",
+          "We can warn everyone a minute before the test.",
+          "I can show you where the control panel is.",
+          "The alarm is louder near the entrance."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：希望测试但不吓人，限制是“without startling”\n解析：提前告知减少突然惊吓；更响地点、访客车辆、控制板位置都不提醒听众。\n下次：带否定条件的操作题检查做事与避免后果两者都实现。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "条件与行动"
+        ],
+        "vocabulary": [
+          "alarm"
+        ],
+        "rationale": "希望测试但不吓人，限制是提前告知减少突然惊吓；更响地点、访客车辆、控制板位置都不提醒听众。",
+        "answer_evidence": "without startling",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L369",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: The handle feels loose again.",
+        "options": [
+          "The door opens toward the hallway.",
+          "I'll tighten the screws this time.",
+          "You can leave your bag beside the door.",
+          "I painted that handle last month."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：把手再次松动，需要固定；故障是“loose again”\n解析：拧紧螺丝处理松动；开门方向、油漆、包的位置都不能固定把手。\n下次：机械故障把症状与固定部件相连，检查修理针对原因。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "问题与解决"
+        ],
+        "vocabulary": [
+          "screws"
+        ],
+        "rationale": "把手再次松动，需要固定；故障是拧紧螺丝处理松动；开门方向、油漆、包的位置都不能固定把手。",
+        "answer_evidence": "loose again",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L370",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Is there any reason not to publish the names yet?",
+        "options": [
+          "The names are listed in alphabetical order.",
+          "The publication uses a very readable font.",
+          "I know several people on that list.",
+          "We're still waiting for two people to consent."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问为何暂不公布，consent指同意；线索是“consent”\n解析：两人尚未同意构成暂缓理由；排序、字体、认识名单人物均不解释未发布。\n下次：发布限制题找尚未获得的授权，区分排版与许可。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "原因与许可"
+        ],
+        "vocabulary": [
+          "publish"
+        ],
+        "rationale": "问为何暂不公布，consent指同意；线索是两人尚未同意构成暂缓理由；排序、字体、认识名单人物均不解释未发布。",
+        "answer_evidence": "consent",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L371",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I appreciate the offer, but I've already arranged a ride.",
+        "options": [
+          "The bus stop is just outside the gate.",
+          "The ride should take about forty minutes.",
+          "No problem; let me know if your plans change.",
+          "I can offer you a window seat."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：感谢但已有车，是婉拒搭车帮助；关键是“already arranged a ride”\n解析：接受拒绝并留后备不强迫；车程、窗座、站点都未承认已有安排。\n下次：感谢加但常是婉拒，先确认态度再选尊重安排的回应。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "委婉拒绝"
+        ],
+        "vocabulary": [
+          "arranged"
+        ],
+        "rationale": "感谢但已有车，是婉拒搭车帮助；关键是接受拒绝并留后备不强迫；车程、窗座、站点都未承认已有安排。",
+        "answer_evidence": "already arranged a ride",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L372",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Should we number the pages before binding them?",
+        "options": [
+          "The binding machine is beside the copier.",
+          "I chose a dark blue cover for mine.",
+          "The pages are made from recycled paper.",
+          "Yes, it'll be harder to fix the order afterward."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问装订前是否编页，关注顺序；线索是“before binding”\n解析：装好后难改说明先编号；机器位置、封面颜色、纸材都未回答顺序理由。\n下次：顺序建议找不可逆步骤，检查前置动作能否防错。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "顺序与因果"
+        ],
+        "vocabulary": [
+          "binding"
+        ],
+        "rationale": "问装订前是否编页，关注顺序；线索是装好后难改说明先编号；机器位置、封面颜色、纸材都未回答顺序理由。",
+        "answer_evidence": "before binding",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L373",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Could you confirm how many vegetarian meals we need?",
+        "options": [
+          "I confirmed the dining room reservation yesterday.",
+          "The vegetarian option includes roasted vegetables.",
+          "Twelve, including the two for the drivers.",
+          "The drivers will arrive just before lunch."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：要求确认素餐总数，问的是“how many”\n解析：十二且含司机给清楚总数；菜品、司机到时、订餐厅确认均不是数量。\n下次：数量确认留意包含项，核对总数是否已含特殊对象。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "数量与范围"
+        ],
+        "vocabulary": [
+          "vegetarian"
+        ],
+        "rationale": "要求确认素餐总数，问的是十二且含司机给清楚总数；菜品、司机到时、订餐厅确认均不是数量。",
+        "answer_evidence": "how many",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L374",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: The weather's improving; is the outdoor session back on?",
+        "options": [
+          "The outdoor chairs were delivered yesterday.",
+          "The indoor room has a better sound system.",
+          "The weather report is on the noticeboard.",
+          "Yes, but we're keeping the indoor room as a backup."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：back on表示恢复安排，问户外课是否恢复；线索是“back on”\n解析：确认恢复并保留室内后备回答状态；椅子、天气报告位置、室内音响都未明确恢复与否。\n下次：恢复活动题找状态变化，再区分主方案和后备方案。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "计划变化"
+        ],
+        "vocabulary": [
+          "backup"
+        ],
+        "rationale": "back on表示恢复安排，问户外课是否恢复；线索是确认恢复并保留室内后备回答状态；椅子、天气报告位置、室内音响都未明确恢复与否。",
+        "answer_evidence": "back on",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L375",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I thought the registration fee covered the materials.",
+        "options": [
+          "The materials are available in several colors.",
+          "Registration closes on Wednesday afternoon.",
+          "It covers the booklet, but not the toolkit.",
+          "I can help you carry the materials upstairs."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：以为报名费包含材料，要澄清收费范围；线索是“covered the materials”\n解析：含册子不含工具包界定范围；颜色、截止日、搬材料均不解释费用。\n下次：包含费用题把各物项拆开，核对分别是否在内。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "范围澄清"
+        ],
+        "vocabulary": [
+          "toolkit"
+        ],
+        "rationale": "以为报名费包含材料，要澄清收费范围；线索是含册子不含工具包界定范围；颜色、截止日、搬材料均不解释费用。",
+        "answer_evidence": "covered the materials",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L376",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Could you talk me through the first step?",
+        "options": [
+          "The first workshop was held last spring.",
+          "Sure, start by folding the top edge inward.",
+          "The finished paper model is over there.",
+          "You can talk to the organizer after class."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：意为逐步指导，不是随便谈话；请求是“talk me through”\n解析：说明向内折上边给具体首步；首次课日期、找主办人、成品位置不提供步骤。\n下次：指导请求先看有没有可执行动作，再核对顺序。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "习语与指导"
+        ],
+        "vocabulary": [
+          "folding"
+        ],
+        "rationale": "意为逐步指导，不是随便谈话；请求是说明向内折上边给具体首步；首次课日期、找主办人、成品位置不提供步骤。",
+        "answer_evidence": "talk me through",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L377",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: There's no point printing these until the figures are checked.",
+        "options": [
+          "The figures are shown in a colorful chart.",
+          "I prefer double-sided printing for reports.",
+          "Agreed; let's verify the totals first.",
+          "The printer is on the second floor."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：数字检查前不值得打印，前提是“until the figures are checked”\n解析：先核总数落实校验；打印机地点、双面偏好、图表颜色都未满足前提。\n下次：先后条件题把验证放在输出前，检查建议不是只优化输出。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "前提与顺序"
+        ],
+        "vocabulary": [
+          "verify"
+        ],
+        "rationale": "数字检查前不值得打印，前提是先核总数落实校验；打印机地点、双面偏好、图表颜色都未满足前提。",
+        "answer_evidence": "until the figures are checked",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L378",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Is the afternoon demonstration a repeat of the morning one?",
+        "options": [
+          "You can reserve a seat at reception.",
+          "The morning demonstration was well attended.",
+          "The afternoon sun comes through those windows.",
+          "Mostly, but it adds a short question session."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问内容是否重复，而非参加人数；关键是“a repeat”\n解析：基本重复但加问答回应相同与不同；人多、日照、预订座位都不比较内容。\n下次：比较场次题分共同部分与新增部分，检查两者不混淆。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "比较与让步"
+        ],
+        "vocabulary": [
+          "demonstration"
+        ],
+        "rationale": "问内容是否重复，而非参加人数；关键是基本重复但加问答回应相同与不同；人多、日照、预订座位都不比较内容。",
+        "answer_evidence": "a repeat",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L379",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Could you put that in writing so I don't forget?",
+        "options": [
+          "I'll send you a brief summary after we finish.",
+          "The writing course starts next September.",
+          "I put the pen back in the drawer.",
+          "You can read my handwriting quite easily."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：请求把当前内容写下来，目的防忘；线索是“put that in writing”\n解析：事后发摘要提供书面记录；写作课、笔的位置、字好读都没有记录内容。\n下次：记录请求找会交付什么文字，不用书写工具信息代替。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "请求与交付"
+        ],
+        "vocabulary": [
+          "summary"
+        ],
+        "rationale": "请求把当前内容写下来，目的防忘；线索是事后发摘要提供书面记录；写作课、笔的位置、字好读都没有记录内容。",
+        "answer_evidence": "put that in writing",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L380",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: That estimate seems optimistic for a first attempt.",
+        "options": [
+          "Our first attempt used different materials.",
+          "Let's leave ourselves an extra day.",
+          "I'm optimistic about the team's enthusiasm.",
+          "The estimate was typed on one page."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：这里指估时过于乐观，担心时间不够；关键词是“optimistic”\n解析：留额外一天增加余量；估算页数、前次材料、热情好都未处理时间风险。\n下次：估时被质疑时找缓冲，不把积极态度当进度保证。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "隐含意图"
+        ],
+        "vocabulary": [
+          "estimate"
+        ],
+        "rationale": "这里指估时过于乐观，担心时间不够；关键词是留额外一天增加余量；估算页数、前次材料、热情好都未处理时间风险。",
+        "answer_evidence": "optimistic",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L381",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: May I leave my shoes on, or should I remove them?",
+        "options": [
+          "I bought new shoes for the trip.",
+          "The shoe rack has several empty shelves.",
+          "Please take them off; the floor was just polished.",
+          "Those shoes look comfortable for walking."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问鞋要脱还是穿，明确选择是“remove them”\n解析：请脱鞋直接给要求；舒适度、鞋架空位、购鞋经历都未明确规范。\n下次：行为规范二选一，找直接指令并核对对象。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "规范与回应"
+        ],
+        "vocabulary": [
+          "polished"
+        ],
+        "rationale": "问鞋要脱还是穿，明确选择是请脱鞋直接给要求；舒适度、鞋架空位、购鞋经历都未明确规范。",
+        "answer_evidence": "remove them",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L382",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Could you distinguish between confirmed bookings and tentative ones?",
+        "options": [
+          "The booking office is near the entrance.",
+          "The bookings are currently sorted by date.",
+          "I confirmed my own booking yesterday.",
+          "I'll mark the unconfirmed ones with an asterisk."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：tentative指暂定，想区分已确定与待定；关键词是“tentative”\n解析：星号标未确认者建立区别；日期排序不是状态分类；个人预约、办公室位置也不区分全表。\n下次：分类请求先找分类标准，再检验标记是否依据同一标准。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "分类与澄清"
+        ],
+        "vocabulary": [
+          "asterisk"
+        ],
+        "rationale": "tentative指暂定，想区分已确定与待定；关键词是星号标未确认者建立区别；日期排序不是状态分类；个人预约、办公室位置也不区分全表。",
+        "answer_evidence": "tentative",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L383",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I think that remark came across more harshly than you intended.",
+        "options": [
+          "The room's acoustics make voices sound louder.",
+          "I intended to finish the report tonight.",
+          "I'll rephrase it and explain what I meant.",
+          "The remarks are written in the margin."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：指出语气比本意严厉，不只是音量；线索是“more harshly”\n解析：重述解释本意修复语气；声学大声不等于苛刻；完成报告、页边位置无关误解。\n下次：沟通效果问题区分音量与态度，再选澄清本意的做法。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "语气与修复"
+        ],
+        "vocabulary": [
+          "rephrase"
+        ],
+        "rationale": "指出语气比本意严厉，不只是音量；线索是重述解释本意修复语气；声学大声不等于苛刻；完成报告、页边位置无关误解。",
+        "answer_evidence": "more harshly",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L384",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Will I still be able to access my notes after the course ends?",
+        "options": [
+          "Yes, you can download them before your account closes.",
+          "The course includes several note-taking exercises.",
+          "The final class takes place in room twelve.",
+          "I kept notes during every lecture."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问结课后如何保留笔记使用权，时点是“after the course ends”\n解析：关账号前下载可离线保留；练习、记笔记习惯、末课教室都不解决结课后访问。\n下次：访问时限题区分在线权限与本地副本，检查保存动作是否及时。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "时间与条件"
+        ],
+        "vocabulary": [
+          "download"
+        ],
+        "rationale": "问结课后如何保留笔记使用权，时点是关账号前下载可离线保留；练习、记笔记习惯、末课教室都不解决结课后访问。",
+        "answer_evidence": "after the course ends",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L385",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: The music is fine; it's the announcements I can't hear.",
+        "options": [
+          "The band chose the music themselves.",
+          "The announcements are made every half hour.",
+          "You can stand closer to the musicians.",
+          "I'll turn up the microphone channel separately."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：音乐没问题，听不清的是播报；焦点是“announcements I can't hear”\n解析：单调麦克风频道处理播报；选曲者、播报间隔、靠近乐手都没有提升播报声。\n下次：并列音源先分哪个出问题，再选只调整它的操作。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "焦点与解决"
+        ],
+        "vocabulary": [
+          "channel"
+        ],
+        "rationale": "音乐没问题，听不清的是播报；焦点是单调麦克风频道处理播报；选曲者、播报间隔、靠近乐手都没有提升播报声。",
+        "answer_evidence": "announcements I can't hear",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L386",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Could you recommend a seat with an unobstructed view?",
+        "options": [
+          "The front rows cost more than the balcony.",
+          "The center section has no pillars in front.",
+          "I sat near the back at the last concert.",
+          "The seats on the aisle are easiest to leave."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：要视线无遮挡，unobstructed指不被挡；线索是“unobstructed view”\n解析：前无柱子满足；易离场、价格、上次座位均未保证视线。\n下次：选座题先确定视野而非交通或价格，检查前方遮挡。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "条件匹配"
+        ],
+        "vocabulary": [
+          "pillars"
+        ],
+        "rationale": "要视线无遮挡，unobstructed指不被挡；线索是前无柱子满足；易离场、价格、上次座位均未保证视线。",
+        "answer_evidence": "unobstructed view",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L387",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I can't tell if that's a six or an eight on the form.",
+        "options": [
+          "Let me rewrite it more clearly.",
+          "I filled out the form yesterday evening.",
+          "You need six copies of the receipt.",
+          "The form has eight separate sections."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：辨不清一个手写数字，需要改清晰；线索是“six or an eight”\n解析：重写能消歧义；八个栏目、六份收据只是重复数字；填表时间也未澄清。\n下次：形近数字题找澄清字形动作，不被同数字无关信息吸引。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "澄清与核实"
+        ],
+        "vocabulary": [
+          "rewrite"
+        ],
+        "rationale": "辨不清一个手写数字，需要改清晰；线索是重写能消歧义；八个栏目、六份收据只是重复数字；填表时间也未澄清。",
+        "answer_evidence": "six or an eight",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L388",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Are you saying the whole event is canceled?",
+        "options": [
+          "The event attracted many visitors last year.",
+          "No, just the outdoor portion.",
+          "The cancellation notice is on the door.",
+          "I can help you cancel your ticket."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：担心全部取消，要澄清范围；关键词是“whole event”\n解析：仅户外部分否定整场取消；去年人数、通知位置、取消票都没有限定活动范围。\n下次：听到全体判断先查部分与整体，别扩大局部变化。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "范围与否定"
+        ],
+        "vocabulary": [
+          "portion"
+        ],
+        "rationale": "担心全部取消，要澄清范围；关键词是仅户外部分否定整场取消；去年人数、通知位置、取消票都没有限定活动范围。",
+        "answer_evidence": "whole event",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L389",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Could you keep an eye on the oven while I answer the door?",
+        "options": [
+          "You can see the front door from here.",
+          "I usually bake on Sunday afternoons.",
+          "Sure, I'll watch the timer.",
+          "The oven was cleaned this morning."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：keep an eye on意为留意照看，任务是“keep an eye on”\n解析：看计时器照看烤箱；清洁时间、看见门、烘焙习惯都不承担临时代看。\n下次：照看请求先找被照看对象，再检验回复的监测动作。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "习语与请求"
+        ],
+        "vocabulary": [
+          "timer"
+        ],
+        "rationale": "keep an eye on意为留意照看，任务是看计时器照看烤箱；清洁时间、看见门、烘焙习惯都不承担临时代看。",
+        "answer_evidence": "keep an eye on",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L390",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: I don't mind the extra work, provided we share it fairly.",
+        "options": [
+          "I worked on a similar display last year.",
+          "The room has enough desks for everyone.",
+          "The extra work should improve the display.",
+          "Let's divide the tasks before we start."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：接受额外工作但要求公平分担，条件词是“provided”\n解析：先分任务回应公平；改进效果、旧经历、桌子数量都未安排责任分配。\n下次：条件接受题锁定条件，而非继续解释工作好处。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "条件与分工"
+        ],
+        "vocabulary": [
+          "fairly"
+        ],
+        "rationale": "接受额外工作但要求公平分担，条件词是先分任务回应公平；改进效果、旧经历、桌子数量都未安排责任分配。",
+        "answer_evidence": "provided",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L391",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Can we use that recording, or do we need permission first?",
+        "options": [
+          "The recording is about twenty minutes long.",
+          "Let's ask the performers before sharing it.",
+          "The performers arrived earlier than expected.",
+          "I can increase the recording volume."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问使用录音前是否要授权，关键是“permission first”\n解析：先问表演者回应许可；时长、到场时间、调音量都不能替代同意。\n下次：传播资料先查权利人许可，再考虑编辑和播放。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "许可与程序"
+        ],
+        "vocabulary": [
+          "performers"
+        ],
+        "rationale": "问使用录音前是否要授权，关键是先问表演者回应许可；时长、到场时间、调音量都不能替代同意。",
+        "answer_evidence": "permission first",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L392",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: I'm not sure this drawer can take any more weight.",
+        "options": [
+          "We should move the heavy folders to the shelf.",
+          "The drawer was painted to match the desk.",
+          "The folders are arranged alphabetically.",
+          "I can label the new folders tomorrow."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：担心抽屉承重，不是文件难找；限制是“any more weight”\n解析：重文件移走减载；字母排序、油漆、标签都不减重量。\n下次：容量问题先分重量与空间，再选实际减载措施。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "问题与解决"
+        ],
+        "vocabulary": [
+          "weight"
+        ],
+        "rationale": "担心抽屉承重，不是文件难找；限制是重文件移走减载；字母排序、油漆、标签都不减重量。",
+        "answer_evidence": "any more weight",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L393",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Would you rather meet halfway than come all the way here?",
+        "options": [
+          "The café near your house has new chairs.",
+          "The train journey takes about an hour.",
+          "I came to your office last Tuesday.",
+          "Yes, the station café is convenient for both of us."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问是否折中选地点，halfway指中间位置；线索是“meet halfway”\n解析：双方方便的车站咖啡馆回应折中；车程、曾拜访、新椅子均不确认共同地点。\n下次：会面建议看双方负担，检查地点是不是共同方便而非仅单方。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "协商与选择"
+        ],
+        "vocabulary": [
+          "halfway"
+        ],
+        "rationale": "问是否折中选地点，halfway指中间位置；线索是双方方便的车站咖啡馆回应折中；车程、曾拜访、新椅子均不确认共同地点。",
+        "answer_evidence": "meet halfway",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L394",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Could you separate the damaged copies from the usable ones?",
+        "options": [
+          "You can use the copier downstairs.",
+          "The copies were delivered in several boxes.",
+          "I read one of the copies yesterday.",
+          "I'll put the torn ones in this box."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：要求按损坏与可用分类，标准是“damaged copies”\n解析：破损本放一箱落实；送货箱数、复印机、读过哪本都不按状态分拣。\n下次：分类动作题先提取标准，再检查目标容器装的是哪类。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "分类与行动"
+        ],
+        "vocabulary": [
+          "torn"
+        ],
+        "rationale": "要求按损坏与可用分类，标准是破损本放一箱落实；送货箱数、复印机、读过哪本都不按状态分拣。",
+        "answer_evidence": "damaged copies",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L395",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: We might be able to squeeze in one more demonstration.",
+        "options": [
+          "The introductory booklet has twelve pages.",
+          "Only if we shorten the introductions.",
+          "I enjoyed the first demonstration very much.",
+          "The demonstration equipment fits in that case."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：squeeze in此处是挤出时间安排，不是塞进箱子；线索是“squeeze in”\n解析：缩短介绍腾时间给条件；设备放箱误解字面；喜欢表演、册子页数不提供时间。\n下次：挤入活动先判断挤的是时间，再查腾时间从哪来。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "习语与条件"
+        ],
+        "vocabulary": [
+          "introductions"
+        ],
+        "rationale": "squeeze in此处是挤出时间安排，不是塞进箱子；线索是缩短介绍腾时间给条件；设备放箱误解字面；喜欢表演、册子页数不提供时间。",
+        "answer_evidence": "squeeze in",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L396",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Does the warranty cover accidental damage?",
+        "options": [
+          "I accidentally dropped the receipt earlier.",
+          "No, only defects in the product itself.",
+          "The warranty card is inside the box.",
+          "You can return the product by mail."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问意外损坏是否保修，范围是“accidental damage”\n解析：只保产品自身缺陷直接排除意外；保修卡位置、邮寄方式、掉收据均不说明覆盖。\n下次：保障范围题分产品缺陷与使用事故，再核对条款。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "规则与范围"
+        ],
+        "vocabulary": [
+          "defects"
+        ],
+        "rationale": "问意外损坏是否保修，范围是只保产品自身缺陷直接排除意外；保修卡位置、邮寄方式、掉收据均不说明覆盖。",
+        "answer_evidence": "accidental damage",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L397",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Could you avoid using flash near the animals?",
+        "options": [
+          "I can take more photographs tomorrow.",
+          "Of course; I'll switch it off.",
+          "My camera has a very powerful flash.",
+          "The animals are most active at dusk."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：请不用闪光灯，动作限制是“avoid using flash”\n解析：关闭闪光满足；动物活跃时间、闪光强、明天拍照都未确认当前停用。\n下次：禁止工具使用时检查立即关闭，而非评价工具性能。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "请求与限制"
+        ],
+        "vocabulary": [
+          "flash"
+        ],
+        "rationale": "请不用闪光灯，动作限制是关闭闪光满足；动物活跃时间、闪光强、明天拍照都未确认当前停用。",
+        "answer_evidence": "avoid using flash",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L398",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: I wouldn't describe the change as permanent.",
+        "options": [
+          "So we should review it again after the trial period.",
+          "I can describe the process in more detail.",
+          "The change was announced at yesterday's meeting.",
+          "The permanent sign has already been printed."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：认为变化不是永久，关键词是“permanent”\n解析：试行后复审符合暂定；已印牌子不能证明永久；描述流程、宣布日期不回应持续性。\n下次：持续性判断先找暂行与永久，再选保留复评的安排。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "立场与范围"
+        ],
+        "vocabulary": [
+          "trial period"
+        ],
+        "rationale": "认为变化不是永久，关键词是试行后复审符合暂定；已印牌子不能证明永久；描述流程、宣布日期不回应持续性。",
+        "answer_evidence": "permanent",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L399",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: Have you checked whether the clock is fast?",
+        "options": [
+          "The hands were replaced last month.",
+          "I can read it from across the room.",
+          "Yes, it's five minutes ahead of my phone.",
+          "The clock runs on two small batteries."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：钟快指时间领先，不是移动迅速；线索是“clock is fast”\n解析：比手机快五分给校验结果；电池、看得清、换指针都未判断准确性。\n下次：钟表题给快慢换成领先落后，再比较参照时间。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "词义与核实"
+        ],
+        "vocabulary": [
+          "ahead"
+        ],
+        "rationale": "钟快指时间领先，不是移动迅速；线索是比手机快五分给校验结果；电池、看得清、换指针都未判断准确性。",
+        "answer_evidence": "clock is fast",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L400",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Can I skip the introduction if I've used the equipment before?",
+        "options": [
+          "Yes, but you still need the safety briefing.",
+          "I used the same equipment last summer.",
+          "The introduction is in the first chapter.",
+          "Most of the equipment was bought recently."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：有经验者问能否免基础介绍，要求是“skip the introduction”\n解析：可跳介绍但须安全说明区分两部分；章节、购置日、他人经验都未给豁免规则。\n下次：豁免题检查免除什么与仍必需什么，不能扩大免除范围。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "条件与范围"
+        ],
+        "vocabulary": [
+          "briefing"
+        ],
+        "rationale": "有经验者问能否免基础介绍，要求是可跳介绍但须安全说明区分两部分；章节、购置日、他人经验都未给豁免规则。",
+        "answer_evidence": "skip the introduction",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L401",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I was hoping you'd have a more definite answer by now.",
+        "options": [
+          "I gave an answer to a similar question.",
+          "I'm still waiting on one detail; I'll know by noon.",
+          "The answer is written at the bottom.",
+          "Noon is when the dining room gets busy."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：希望现在有更确定答复，关注进展；线索是“more definite answer”\n解析：尚缺一项并承诺中午知晓回应延误；答案位置、类似题、餐厅忙时均不交代本次确定性。\n下次：催进展题找阻碍与下一确认点，检查不是答非所问的时间。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "进展与承诺"
+        ],
+        "vocabulary": [
+          "detail"
+        ],
+        "rationale": "希望现在有更确定答复，关注进展；线索是尚缺一项并承诺中午知晓回应延误；答案位置、类似题、餐厅忙时均不交代本次确定性。",
+        "answer_evidence": "more definite answer",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L402",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Should we put the heavier items at the bottom?",
+        "options": [
+          "The boxes are all the same size.",
+          "The bottom shelf is painted a dark color.",
+          "I weighed those items this morning.",
+          "Yes, that will make the stack more stable."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问重物是否放底部，需要装叠建议；线索是“heavier items at the bottom”\n解析：增强稳定性支持安排；底架颜色、曾称重、同尺寸均不判断上下布局。\n下次：摆放建议找作用机制，检查能否说明为何这么放。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "因果与建议"
+        ],
+        "vocabulary": [
+          "stable"
+        ],
+        "rationale": "问重物是否放底部，需要装叠建议；线索是增强稳定性支持安排；底架颜色、曾称重、同尺寸均不判断上下布局。",
+        "answer_evidence": "heavier items at the bottom",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L403",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: This summary leaves out the reason we changed our plans.",
+        "options": [
+          "I changed the heading to a larger font.",
+          "I'll add a sentence about the road closure.",
+          "We can print the new plans tomorrow.",
+          "The summary already fits on one page."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：摘要漏掉改计划原因，需要补因果；关键是“leaves out the reason”\n解析：补封路原因对症；一页长度、标题字号、明天印计划都不补缺失信息。\n下次：内容遗漏题先定缺什么逻辑关系，再选补该关系的句子。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "信息补全"
+        ],
+        "vocabulary": [
+          "closure"
+        ],
+        "rationale": "摘要漏掉改计划原因，需要补因果；关键是补封路原因对症；一页长度、标题字号、明天印计划都不补缺失信息。",
+        "answer_evidence": "leaves out the reason",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L404",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Man: Could we get a table away from the kitchen door?",
+        "options": [
+          "You can see today's specials on the board.",
+          "Certainly; there's one beside the front window.",
+          "The door opens inward for safety.",
+          "The kitchen closes at nine tonight."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：想离厨房门远些，位置偏好是“away from the kitchen door”\n解析：前窗桌给替代地点；厨房时间、开门方式、菜单都不调整就座位置。\n下次：地点偏好题先找要避开的参照物，再检查新位置。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "地点与请求"
+        ],
+        "vocabulary": [
+          "window"
+        ],
+        "rationale": "想离厨房门远些，位置偏好是前窗桌给替代地点；厨房时间、开门方式、菜单都不调整就座位置。",
+        "answer_evidence": "away from the kitchen door",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L405",
+        "section": "listening",
+        "task_type": "listen_choose_response",
+        "prompt": "Choose the best response to the speaker.",
+        "response_type": "choice",
+        "audio_text": "Woman: I think we'd better double-check the address before we set off.",
+        "options": [
+          "We set off early for the last event.",
+          "The address has a five-digit postal code.",
+          "Good idea; the invitation may list a different entrance.",
+          "The invitation was printed on thick paper."
+        ]
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：建议出发前复核地址，先后是“before we set off”\n解析：请柬可能指另入口，支持查地址；纸厚、上次出发早、邮编位数都未回应本次核实。\n下次：出发核实题找目的地来源，检查可能差异而非文件外观。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "建议与理由"
+        ],
+        "vocabulary": [
+          "entrance"
+        ],
+        "rationale": "建议出发前复核地址，先后是请柬可能指另入口，支持查地址；纸厚、上次出发早、邮编位数都未回应本次核实。",
+        "answer_evidence": "before we set off",
+        "reviewed_on": "2026-09-27"
+      }
+    }
+  ]
+}

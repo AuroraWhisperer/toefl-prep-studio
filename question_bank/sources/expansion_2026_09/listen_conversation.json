@@ -1,0 +1,3506 @@
+{
+  "section": "listening",
+  "task_type": "listen_conversation",
+  "items": [
+    {
+      "question": {
+        "id": "L406",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why does the woman reject a wall transcript?",
+        "response_type": "choice",
+        "audio_text": "Woman: Our oral-history exhibit has room for the recording, but visitors may not catch every word.\nMan: We could put a full transcript on the wall.\nWoman: It's twelve pages. People would block the doorway trying to read it.\nMan: What about a short excerpt beside the player and the full text in a booklet?\nWoman: That works. Let's use the section where she describes arriving in town.\nMan: I'll check that the printed words match the recording before we send anything out.",
+        "options": [
+          "The speaker refused to share her story.",
+          "The recording cannot be understood at all.",
+          "It would occupy too much space and obstruct visitors.",
+          "The exhibit has no place for written information."
+        ],
+        "group_id": "listen_conversation_26",
+        "passage_title": "A transcript for the exhibit"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问不用墙面全文的原因；会挡住门口是“block the doorway”\n解析：十二页全文会让人堵门；没说完全听不懂、拒绝分享，且仍会放短摘录，非不能放文字。\n下次：听到方案被否定，找紧接的实际限制，检查别扩大成全面禁止。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "原因与范围"
+        ],
+        "vocabulary": [
+          "transcript"
+        ],
+        "rationale": "问不用墙面全文的原因；会挡住门口是十二页全文会让人堵门；没说完全听不懂、拒绝分享，且仍会放短摘录，非不能放文字。",
+        "answer_evidence": "block the doorway",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L407",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What will the man do next?",
+        "response_type": "choice",
+        "audio_text": "Woman: Our oral-history exhibit has room for the recording, but visitors may not catch every word.\nMan: We could put a full transcript on the wall.\nWoman: It's twelve pages. People would block the doorway trying to read it.\nMan: What about a short excerpt beside the player and the full text in a booklet?\nWoman: That works. Let's use the section where she describes arriving in town.\nMan: I'll check that the printed words match the recording before we send anything out.",
+        "options": [
+          "Shorten the original recording to twelve minutes.",
+          "Compare the printed text with the recording.",
+          "Ask visitors to write down what they hear.",
+          "Move the audio player away from the doorway."
+        ],
+        "group_id": "listen_conversation_26",
+        "passage_title": "A transcript for the exhibit"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问下一步；match指与录音吻合，线索是“match the recording”\n解析：送印前核对文字；十二是页数非分钟；不要求访客听写，也没决定搬播放器。\n下次：结尾承诺找动作和对象，再核对数字单位与未作出的计划。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "后续行动"
+        ],
+        "vocabulary": [
+          "excerpt"
+        ],
+        "rationale": "问下一步；match指与录音吻合，线索是送印前核对文字；十二是页数非分钟；不要求访客听写，也没决定搬播放器。",
+        "answer_evidence": "match the recording",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L408",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What is wrong with the bowl?",
+        "response_type": "choice",
+        "audio_text": "Man: I came to collect my bowl. The class ended last week.\nWoman: The pieces are out of the kiln, but yours needs a little attention.\nMan: Did it crack?\nWoman: No, the base is rough. It might scratch your table. I can smooth it tomorrow.\nMan: I wanted to give it to my sister tonight.\nWoman: You could show her a photo and bring the bowl over later.\nMan: Better that than a scratched table. I'll come back Friday.",
+        "options": [
+          "Its color differs from the man's plan.",
+          "A crack appeared during firing.",
+          "It has not yet been removed from the kiln.",
+          "Its underside needs smoothing."
+        ],
+        "group_id": "listen_conversation_27",
+        "passage_title": "A pottery pickup"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问碗的问题；底部粗糙的依据是“the base is rough”\n解析：店员确认底部粗糙，可能划伤桌面，所以需要磨平。裂缝只是男方的猜测，已被否定；陶器已出窑；颜色变化没有被提到。\n下次：区分提出的担忧和被确认的故障，检查否定纠正。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "细节与纠正"
+        ],
+        "vocabulary": [
+          "kiln"
+        ],
+        "rationale": "店员确认底部粗糙，可能划伤桌面，所以需要磨平。裂缝只是男方的猜测，已被否定；陶器已出窑；颜色变化没有被提到。",
+        "answer_evidence": "the base is rough",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L409",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What does the man decide to do?",
+        "response_type": "choice",
+        "audio_text": "Man: I came to collect my bowl. The class ended last week.\nWoman: The pieces are out of the kiln, but yours needs a little attention.\nMan: Did it crack?\nWoman: No, the base is rough. It might scratch your table. I can smooth it tomorrow.\nMan: I wanted to give it to my sister tonight.\nWoman: You could show her a photo and bring the bowl over later.\nMan: Better that than a scratched table. I'll come back Friday.",
+        "options": [
+          "Ask the woman to repair his sister's table.",
+          "Take the bowl home immediately.",
+          "Buy his sister a different finished bowl.",
+          "Wait until the bowl has been improved."
+        ],
+        "group_id": "listen_conversation_27",
+        "passage_title": "A pottery pickup"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问最后决定；周五再来说明等待，证据是“I'll come back Friday”\n解析：男方接受处理好后周五再取，以免礼物划伤桌面。今晚送礼是最初愿望，已调整；没有决定另买一只；桌面尚未受损，不需要修桌子。\n下次：决定题以最后接受的安排为准，排除较早的原愿望。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "决定与推断"
+        ],
+        "vocabulary": [
+          "scratch"
+        ],
+        "rationale": "男方接受处理好后周五再取，以免礼物划伤桌面。今晚送礼是最初愿望，已调整；没有决定另买一只；桌面尚未受损，不需要修桌子。",
+        "answer_evidence": "I'll come back Friday",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L410",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why does the man question the comparison?",
+        "response_type": "choice",
+        "audio_text": "Woman: I counted twice as many birds by the bridge as in the meadow.\nMan: Did you spend the same amount of time in both places?\nWoman: Not really. I waited at the bridge while the rest of the group caught up.\nMan: Then the totals aren't directly comparable.\nWoman: So should I throw out the bridge notes?\nMan: Keep them, but record how long you were there. Next time, use equal observation periods.\nWoman: I'll add the times before entering the numbers.",
+        "options": [
+          "The bridge birds were counted by another group.",
+          "The meadow was closed to visitors.",
+          "The birds were recorded on different days.",
+          "The observation periods differed."
+        ],
+        "group_id": "listen_conversation_28",
+        "passage_title": "A bird count route"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问为何质疑比较；关键是停留时间是否相同“same amount of time”\n解析：桥边等人更久，计数机会不同；非不同日、不同组计数，也没封草地。\n下次：比较结果先查观察条件，核对是否只是数量差而非真实密度差。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "比较与证据"
+        ],
+        "vocabulary": [
+          "comparable"
+        ],
+        "rationale": "问为何质疑比较；关键是停留时间是否相同桥边等人更久，计数机会不同；非不同日、不同组计数，也没封草地。",
+        "answer_evidence": "same amount of time",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L411",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What does the man recommend for the existing notes?",
+        "response_type": "choice",
+        "audio_text": "Woman: I counted twice as many birds by the bridge as in the meadow.\nMan: Did you spend the same amount of time in both places?\nWoman: Not really. I waited at the bridge while the rest of the group caught up.\nMan: Then the totals aren't directly comparable.\nWoman: So should I throw out the bridge notes?\nMan: Keep them, but record how long you were there. Next time, use equal observation periods.\nWoman: I'll add the times before entering the numbers.",
+        "options": [
+          "Replace both totals with the same number.",
+          "Delete all observations near the bridge.",
+          "Keep them and add the observation times.",
+          "Ask the group to estimate the missing birds."
+        ],
+        "group_id": "listen_conversation_28",
+        "passage_title": "A bird count route"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问现有笔记如何处理；保留的依据是“Keep them”\n解析：保留并补时长；删掉与原话相反；改成同数量伪造数据；估遗漏鸟也未提出。\n下次：区分补充条件信息与改动观测值，检查建议保留了什么。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "建议与数据"
+        ],
+        "vocabulary": [
+          "observation"
+        ],
+        "rationale": "问现有笔记如何处理；保留的依据是保留并补时长；删掉与原话相反；改成同数量伪造数据；估遗漏鸟也未提出。",
+        "answer_evidence": "Keep them",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L412",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why is a one-night loan not a solution?",
+        "response_type": "choice",
+        "audio_text": "Man: The antique suitcase looks perfect for our play.\nWoman: It belongs to the museum collection. We can't carry it on stage every night.\nMan: Could we borrow it just for opening night?\nWoman: The concern is handling, not the length of the loan.\nMan: Then could we photograph it and build a lightweight copy?\nWoman: That's much more practical. I'll ask the curator about taking detailed pictures.\nMan: Good. The actor has to lift it over a chair anyway.",
+        "options": [
+          "The opening performance has been canceled.",
+          "Handling the suitcase could put it at risk.",
+          "The museum needs it for a sale that evening.",
+          "The loan paperwork takes more than one night."
+        ],
+        "group_id": "listen_conversation_29",
+        "passage_title": "A theater prop"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问短借为何仍不行；问题在搬弄而非借期，线索是“handling, not the length”\n解析：女方说风险在反复搬弄，不在借多久，所以只借一晚仍不解决问题。演出取消、博物馆出售箱子、办手续太慢都不是材料给出的限制。\n下次：原因被纠正时，用不是而是重定风险，检查新方案能否消除。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "澄清与原因"
+        ],
+        "vocabulary": [
+          "handling"
+        ],
+        "rationale": "女方说风险在反复搬弄，不在借多久，所以只借一晚仍不解决问题。演出取消、博物馆出售箱子、办手续太慢都不是材料给出的限制。",
+        "answer_evidence": "handling, not the length",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L413",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What is the purpose of the planned photographs?",
+        "response_type": "choice",
+        "audio_text": "Man: The antique suitcase looks perfect for our play.\nWoman: It belongs to the museum collection. We can't carry it on stage every night.\nMan: Could we borrow it just for opening night?\nWoman: The concern is handling, not the length of the loan.\nMan: Then could we photograph it and build a lightweight copy?\nWoman: That's much more practical. I'll ask the curator about taking detailed pictures.\nMan: Good. The actor has to lift it over a chair anyway.",
+        "options": [
+          "To help make a replica for the play.",
+          "To advertise a museum auction.",
+          "To document damage after the performance.",
+          "To select a different actor for the role."
+        ],
+        "group_id": "listen_conversation_29",
+        "passage_title": "A theater prop"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问照片用途；轻质复制品是“build a lightweight copy”\n解析：男方提出做轻质复制品，女方随即说去申请细节照片，照片用于指导仿制。并未举行拍卖；还没借出使用，更无演后损伤；演员能否抬起道具也不是选演员的依据。\n下次：工具用途题追踪拍照后要做什么，不凭物件所属机构推测。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "目的与行动"
+        ],
+        "vocabulary": [
+          "lightweight"
+        ],
+        "rationale": "男方提出做轻质复制品，女方随即说去申请细节照片，照片用于指导仿制。并未举行拍卖；还没借出使用，更无演后损伤；演员能否抬起道具也不是选演员的依据。",
+        "answer_evidence": "build a lightweight copy",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L414",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why does the man suggest a short test?",
+        "response_type": "choice",
+        "audio_text": "Woman: The interview sounded fine in my headphones, but I hear a humming noise now.\nMan: Was the recorder plugged into the wall?\nWoman: Yes. Its battery was nearly empty.\nMan: Let's record a short test on battery power, away from the refrigerator.\nWoman: Before asking our guest to repeat the whole interview?\nMan: Exactly. First we need to find out where the noise came from.\nWoman: I'll charge it and save the original file separately.",
+        "options": [
+          "To rehearse a new set of interview questions.",
+          "To replace the full interview with a brief one.",
+          "To investigate the source of the noise.",
+          "To prove that the guest spoke too quietly."
+        ],
+        "group_id": "listen_conversation_30",
+        "passage_title": "A podcast interview"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问测试目的；要找噪声来源，依据是“where the noise came from”\n解析：先换供电方式和位置做短测试，是为了查噪声来源，再决定是否重录全访谈。没有要换问题；也尚未证明嘉宾音量有问题；测试录音不是要取代完整采访。\n下次：故障排查题分调查原因与已知结论，别把试验当定论。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "目的与推断"
+        ],
+        "vocabulary": [
+          "humming"
+        ],
+        "rationale": "先换供电方式和位置做短测试，是为了查噪声来源，再决定是否重录全访谈。没有要换问题；也尚未证明嘉宾音量有问题；测试录音不是要取代完整采访。",
+        "answer_evidence": "where the noise came from",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L415",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What will the woman do with the original recording?",
+        "response_type": "choice",
+        "audio_text": "Woman: The interview sounded fine in my headphones, but I hear a humming noise now.\nMan: Was the recorder plugged into the wall?\nWoman: Yes. Its battery was nearly empty.\nMan: Let's record a short test on battery power, away from the refrigerator.\nWoman: Before asking our guest to repeat the whole interview?\nMan: Exactly. First we need to find out where the noise came from.\nWoman: I'll charge it and save the original file separately.",
+        "options": [
+          "Keep a separate copy.",
+          "Erase it before charging the recorder.",
+          "Ask the guest to edit it before the noise test.",
+          "Send it to the guest for immediate publication."
+        ],
+        "group_id": "listen_conversation_30",
+        "passage_title": "A podcast interview"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问如何处理原录音；“save the original file separately”是把原文件另外保存。\n解析：另存原始文件，才能在排查噪声时保留已有采访。不是删除；尚未决定发布；测试是他们先排查，也没要求嘉宾先剪辑。\n下次：听到先测试再决定→分清原文件与新样本→核对是否保留可返回的原始资料。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "明确细节"
+        ],
+        "vocabulary": [
+          "separately"
+        ],
+        "rationale": "另存原始文件，才能在排查噪声时保留已有采访。不是删除；尚未决定发布；测试是他们先排查，也没要求嘉宾先剪辑。",
+        "answer_evidence": "save the original file separately",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L416",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What concern does the man raise?",
+        "response_type": "choice",
+        "audio_text": "Man: My father would like to join the garden tour, but he uses a walking frame.\nWoman: The standard route includes a gravel slope. There's also a paved loop near the greenhouse.\nMan: Would he miss all the plants on that route?\nWoman: Not at all. The guide can bring several potted specimens outside and discuss them there.\nMan: That sounds better than trying to manage the slope.\nWoman: Tell us the day before, and we'll arrange the modified tour.",
+        "options": [
+          "Whether the guide can speak his father's language.",
+          "Whether the greenhouse is warm enough for plants.",
+          "Whether his father can manage the tour route.",
+          "Whether the garden sells walking frames."
+        ],
+        "group_id": "listen_conversation_31",
+        "passage_title": "An accessible garden tour"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问主要顾虑；父亲用助行架，依据是“uses a walking frame”\n解析：父亲使用助行架，而标准路线有碎石坡，因此顾虑是能否顺利走完。温室温度、是否出售助行架、导游语言都不是男方提出的需求。\n下次：个人条件题把身体条件与路线障碍相连，别扩展到未提需求。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "问题识别"
+        ],
+        "vocabulary": [
+          "gravel"
+        ],
+        "rationale": "父亲使用助行架，而标准路线有碎石坡，因此顾虑是能否顺利走完。温室温度、是否出售助行架、导游语言都不是男方提出的需求。",
+        "answer_evidence": "uses a walking frame",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L417",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "How will the modified tour include plant information?",
+        "response_type": "choice",
+        "audio_text": "Man: My father would like to join the garden tour, but he uses a walking frame.\nWoman: The standard route includes a gravel slope. There's also a paved loop near the greenhouse.\nMan: Would he miss all the plants on that route?\nWoman: Not at all. The guide can bring several potted specimens outside and discuss them there.\nMan: That sounds better than trying to manage the slope.\nWoman: Tell us the day before, and we'll arrange the modified tour.",
+        "options": [
+          "The guide will bring potted specimens to the paved area.",
+          "The father will have to enter the gravel slope.",
+          "Visitors will watch a recording of the standard route.",
+          "The man will collect plants without the guide."
+        ],
+        "group_id": "listen_conversation_31",
+        "passage_title": "An accessible garden tour"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问如何仍讲植物；把盆栽带出来是“bring several potted specimens outside”\n解析：导游把盆栽带到外面，在较方便行走的区域照样讲解植物。不是用录像代替，也无需硬走碎石坡；讲解仍由导游负责，不让游客自行采集。\n下次：替代安排题检查是否保留学习目标，并改变受限的方式。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "替代方案"
+        ],
+        "vocabulary": [
+          "potted"
+        ],
+        "rationale": "导游把盆栽带到外面，在较方便行走的区域照样讲解植物。不是用录像代替，也无需硬走碎石坡；讲解仍由导游负责，不让游客自行采集。",
+        "answer_evidence": "bring several potted specimens outside",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L418",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why might the dough need more than two hours?",
+        "response_type": "choice",
+        "audio_text": "Woman: I followed the workshop recipe, but my dough hardly rose.\nMan: How warm was your kitchen?\nWoman: Pretty cold. I left the dough there for the two hours on the sheet.\nMan: That time is a guide, not a guarantee. Look for the dough to roughly double.\nWoman: So I shouldn't add more flour just because it feels sticky?\nMan: Right. Give it more time in a warmer spot first.\nWoman: I'll judge the dough rather than just the clock.",
+        "options": [
+          "The recipe was meant for a different kind of bread.",
+          "The kitchen was cold.",
+          "The woman doubled the flour.",
+          "The dough was left beside a heater."
+        ],
+        "group_id": "listen_conversation_32",
+        "passage_title": "A sourdough workshop"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问为何需更久；厨房冷的证据是“Pretty cold”\n解析：温度低与醒发慢相连；她没说加倍面粉、用错面包方或放暖器旁。\n下次：时间不足的解释先找环境条件，不把后续提问当已做动作。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "因果与条件"
+        ],
+        "vocabulary": [
+          "dough"
+        ],
+        "rationale": "问为何需更久；厨房冷的证据是温度低与醒发慢相连；她没说加倍面粉、用错面包方或放暖器旁。",
+        "answer_evidence": "Pretty cold",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L419",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What does the man advise the woman to observe?",
+        "response_type": "choice",
+        "audio_text": "Woman: I followed the workshop recipe, but my dough hardly rose.\nMan: How warm was your kitchen?\nWoman: Pretty cold. I left the dough there for the two hours on the sheet.\nMan: That time is a guide, not a guarantee. Look for the dough to roughly double.\nWoman: So I shouldn't add more flour just because it feels sticky?\nMan: Right. Give it more time in a warmer spot first.\nWoman: I'll judge the dough rather than just the clock.",
+        "options": [
+          "The increase in the dough's size.",
+          "The exact minute the timer rings.",
+          "The color of the printed recipe.",
+          "The amount of flour left in the bag."
+        ],
+        "group_id": "listen_conversation_32",
+        "passage_title": "A sourdough workshop"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问判断依据；roughly double指大约涨到两倍“roughly double”\n解析：看体积变化而非死守两小时；食谱颜色、袋内剩粉都不是发好标志。\n下次：操作标准题区分时间参考与实际状态，按状态复核。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "建议与标准"
+        ],
+        "vocabulary": [
+          "sticky"
+        ],
+        "rationale": "问判断依据；roughly double指大约涨到两倍看体积变化而非死守两小时；食谱颜色、袋内剩粉都不是发好标志。",
+        "answer_evidence": "roughly double",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L420",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What distinction does the woman make?",
+        "response_type": "choice",
+        "audio_text": "Man: We have permission to paint the wall near the bicycle racks.\nWoman: Great. Have the students who use the racks seen the design?\nMan: Not yet. I thought approval from the facilities office was enough.\nWoman: It gives us permission, but people need to like looking at it every day.\nMan: We could display two sketches and collect comments before buying paint.\nWoman: Yes. Changing a sketch is a lot easier than repainting a wall.",
+        "options": [
+          "Official permission differs from community acceptance.",
+          "Bicycle users have more authority than the facilities office.",
+          "Outdoor paint differs from indoor paint.",
+          "A mural needs no official approval if students like it."
+        ],
+        "group_id": "listen_conversation_33",
+        "passage_title": "A campus mural"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问她区分哪两点；行政许可只是其一，线索是“It gives us permission”\n解析：行政批准解决能不能画，日常使用者意见解决是否愿意天天看。女方没有比较油漆种类，也没说学生权力更高；征求意见是补充许可，并非取消许可。\n下次：对比概念时把能做与做得受欢迎分开，避免反转成无需审批。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "观点与范围"
+        ],
+        "vocabulary": [
+          "approval"
+        ],
+        "rationale": "行政批准解决能不能画，日常使用者意见解决是否愿意天天看。女方没有比较油漆种类，也没说学生权力更高；征求意见是补充许可，并非取消许可。",
+        "answer_evidence": "It gives us permission",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L421",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why will they show sketches before buying paint?",
+        "response_type": "choice",
+        "audio_text": "Man: We have permission to paint the wall near the bicycle racks.\nWoman: Great. Have the students who use the racks seen the design?\nMan: Not yet. I thought approval from the facilities office was enough.\nWoman: It gives us permission, but people need to like looking at it every day.\nMan: We could display two sketches and collect comments before buying paint.\nWoman: Yes. Changing a sketch is a lot easier than repainting a wall.",
+        "options": [
+          "To gather feedback while changes are easy.",
+          "To sell the sketches to pay for bicycles.",
+          "To request a different wall from the office.",
+          "To teach students how to mix paint."
+        ],
+        "group_id": "listen_conversation_33",
+        "passage_title": "A campus mural"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问先展示草图的原因；草图易改是“Changing a sketch is a lot easier”\n解析：先展示草图收意见，修改还容易；买漆画上墙后再改成本更高。没有出售草图买车、申请换墙或教大家调色的计划。\n下次：顺序理由题看先做一步能避免什么后续成本。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "目的与因果"
+        ],
+        "vocabulary": [
+          "sketches"
+        ],
+        "rationale": "先展示草图收意见，修改还容易；买漆画上墙后再改成本更高。没有出售草图买车、申请换墙或教大家调色的计划。",
+        "answer_evidence": "Changing a sketch is a lot easier",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L422",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why does the woman want to exchange time slots?",
+        "response_type": "choice",
+        "audio_text": "Woman: I booked the microscope for Thursday morning, but the samples won't be ready until noon.\nMan: I have the afternoon slot. Mine are ready now.\nWoman: Could we switch?\nMan: Probably, but the booking system won't let students edit each other's reservations.\nWoman: I'll ask the lab manager to change both entries.\nMan: Please copy me on the message. I don't want us both showing up at the wrong time.\nWoman: I'll wait for confirmation before bringing the samples over.",
+        "options": [
+          "Her samples will not be ready for the morning slot.",
+          "The microscope is unavailable all Thursday.",
+          "She has forgotten how to prepare the samples.",
+          "The man needs additional hours for his experiment."
+        ],
+        "group_id": "listen_conversation_34",
+        "passage_title": "A microscope reservation"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问换时段原因；样本到中午才好，线索是“until noon”\n解析：样本中午才准备好，赶不上周四上午预约，故想换下午。显微镜并非全天停用；没有不会制样的说明；男方是可以对换，不是要求延长实验时间。\n下次：时间冲突题把准备完成点与预约起点对照。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "时间关系"
+        ],
+        "vocabulary": [
+          "samples"
+        ],
+        "rationale": "样本中午才准备好，赶不上周四上午预约，故想换下午。显微镜并非全天停用；没有不会制样的说明；男方是可以对换，不是要求延长实验时间。",
+        "answer_evidence": "until noon",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L423",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What must happen before the woman uses the afternoon slot?",
+        "response_type": "choice",
+        "audio_text": "Woman: I booked the microscope for Thursday morning, but the samples won't be ready until noon.\nMan: I have the afternoon slot. Mine are ready now.\nWoman: Could we switch?\nMan: Probably, but the booking system won't let students edit each other's reservations.\nWoman: I'll ask the lab manager to change both entries.\nMan: Please copy me on the message. I don't want us both showing up at the wrong time.\nWoman: I'll wait for confirmation before bringing the samples over.",
+        "options": [
+          "Both students must create new accounts.",
+          "The man must cancel his experiment entirely.",
+          "The booking change must be confirmed.",
+          "The woman must move the microscope herself."
+        ],
+        "group_id": "listen_conversation_34",
+        "passage_title": "A microscope reservation"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问使用前所需条件；她会等确认，依据是“wait for confirmation”\n解析：双方口头同意还不够，系统由管理员更改，两条预约确认后才带样本来。男方可以对换而非取消实验；重新建账号、自己搬仪器均不是规定步骤。\n下次：共享预约题区分口头协商与系统确认，检查哪一步使安排正式生效。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "程序与条件"
+        ],
+        "vocabulary": [
+          "reservations"
+        ],
+        "rationale": "双方口头同意还不够，系统由管理员更改，两条预约确认后才带样本来。男方可以对换而非取消实验；重新建账号、自己搬仪器均不是规定步骤。",
+        "answer_evidence": "wait for confirmation",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L424",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What misunderstanding caused the man's difficulty?",
+        "response_type": "choice",
+        "audio_text": "Man: I nearly gave up during yesterday's club run. Everyone disappeared ahead of me.\nWoman: You joined the training group for the half marathon. The social group starts ten minutes later.\nMan: I thought those were just two departure times for the same run.\nWoman: No, the social group stops to regroup at each junction.\nMan: That sounds more like what I need.\nWoman: Come at six ten tomorrow. I'll introduce you to the leader.",
+        "options": [
+          "He thought the route was a full marathon.",
+          "He believed the group would lend him running shoes.",
+          "He thought the two start times were for the same kind of run.",
+          "He arrived ten minutes after the social group."
+        ],
+        "group_id": "listen_conversation_35",
+        "passage_title": "A running club pace"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问误解何在；以为只是同一种跑步活动的两个出发时刻，证据是“two departure times for the same run”\n解析：实际训练组与社交组不同；没有全马、借鞋、迟到社交组的说法。\n下次：纠正题对照原以为与实际类别，别仅抓数字。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "误解与纠正"
+        ],
+        "vocabulary": [
+          "departure"
+        ],
+        "rationale": "实际训练组与社交组不同；没有全马、借鞋、迟到社交组的说法。",
+        "answer_evidence": "two departure times for the same run",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L425",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why is the social group more suitable for the man?",
+        "response_type": "choice",
+        "audio_text": "Man: I nearly gave up during yesterday's club run. Everyone disappeared ahead of me.\nWoman: You joined the training group for the half marathon. The social group starts ten minutes later.\nMan: I thought those were just two departure times for the same run.\nWoman: No, the social group stops to regroup at each junction.\nMan: That sounds more like what I need.\nWoman: Come at six ten tomorrow. I'll introduce you to the leader.",
+        "options": [
+          "It allows participants to choose any starting time.",
+          "It pauses so participants can come together again.",
+          "It trains specifically for competitive races.",
+          "It never runs farther than one kilometer."
+        ],
+        "group_id": "listen_conversation_35",
+        "passage_title": "A running club pace"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问适合原因；停下重聚的依据是“stops to regroup”\n解析：岔口等人回应跟不上的问题；没给一公里上限；比赛训练是另一组；六点十非任意时间。\n下次：匹配需求题把原困难与新机制相连，检查不添未说明的保证。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "推断与需求"
+        ],
+        "vocabulary": [
+          "junction"
+        ],
+        "rationale": "问适合原因；停下重聚的依据是岔口等人回应跟不上的问题；没给一公里上限；比赛训练是另一组；六点十非任意时间。",
+        "answer_evidence": "stops to regroup",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L426",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "How will the date be recorded?",
+        "response_type": "choice",
+        "audio_text": "Woman: I'd like to donate these photographs of the old station.\nMan: Wonderful. Do you know when they were taken?\nWoman: Only that my grandmother was working there then. I wrote nineteen forty on the envelope, but that's a guess.\nMan: We'll record it as approximate. Could you also write down how you came to have them?\nWoman: They were in her desk, which I inherited.\nMan: That history will help future researchers understand the collection.",
+        "options": [
+          "As an approximate date rather than a certainty.",
+          "As the year the woman inherited the desk.",
+          "As the confirmed year the station opened.",
+          "As unknown because guesses cannot be recorded."
+        ],
+        "group_id": "listen_conversation_36",
+        "passage_title": "A family photograph donation"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问如何记录日期；她承认只是猜测，依据是“that's a guess”\n解析：拍摄年份是捐赠者的猜测，馆员因此标为约略日期。这个年份既不是车站开业年，也不是继承书桌的年份；不确定仍可记录，只须保留不确定性。\n下次：证据不确定时保留不确定标记，别把估值改成确定事实。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "证据与确定性"
+        ],
+        "vocabulary": [
+          "approximate"
+        ],
+        "rationale": "拍摄年份是捐赠者的猜测，馆员因此标为约略日期。这个年份既不是车站开业年，也不是继承书桌的年份；不确定仍可记录，只须保留不确定性。",
+        "answer_evidence": "that's a guess",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L427",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why does the man ask how the woman obtained the photographs?",
+        "response_type": "choice",
+        "audio_text": "Woman: I'd like to donate these photographs of the old station.\nMan: Wonderful. Do you know when they were taken?\nWoman: Only that my grandmother was working there then. I wrote nineteen forty on the envelope, but that's a guess.\nMan: We'll record it as approximate. Could you also write down how you came to have them?\nWoman: They were in her desk, which I inherited.\nMan: That history will help future researchers understand the collection.",
+        "options": [
+          "To document the collection's history.",
+          "To prove that her grandmother took every picture.",
+          "To determine what she should charge for them.",
+          "To find the desk's current market value."
+        ],
+        "group_id": "listen_conversation_36",
+        "passage_title": "A family photograph donation"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问为何追问来源；获得过程是“how you came to have them”\n解析：询问怎么得到照片是在记录藏品的传承来源，方便后续研究。不是给照片或书桌估价；祖母保存照片也不等于所有照片都是她拍的。\n下次：档案来源题区分持有史、作者与价格，按实际目的判断。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "目的与范围"
+        ],
+        "vocabulary": [
+          "inherited"
+        ],
+        "rationale": "询问怎么得到照片是在记录藏品的传承来源，方便后续研究。不是给照片或书桌估价；祖母保存照片也不等于所有照片都是她拍的。",
+        "answer_evidence": "how you came to have them",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L428",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why does the woman reject the man's suggestion?",
+        "response_type": "choice",
+        "audio_text": "Man: My front brake squeals. Could you oil it?\nWoman: Not the braking surface. Oil there could make the brake ineffective.\nMan: I assumed squeaking meant it needed lubrication.\nWoman: Sometimes, but brakes are different. Let me check whether the pads are dirty or misaligned.\nMan: Can I leave the bicycle here and walk to class?\nWoman: Yes. I'll call after the inspection, before replacing anything.",
+        "options": [
+          "Lubrication would make the bicycle heavier.",
+          "Oil could reduce the brake's effectiveness.",
+          "The bicycle has no front brake.",
+          "The shop does not have any oil."
+        ],
+        "group_id": "listen_conversation_37",
+        "passage_title": "A bicycle brake check"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问不涂油原因；可能失效的证据是“make the brake ineffective”\n解析：刹车表面沾油可能失去有效制动力，所以不能照搬其他零件吱响就润滑的办法。材料没有说缺少前刹、店里没油或担心车变重。\n下次：维修建议要核对部件功能，不能把一般经验套到特殊部件。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "原因与纠正"
+        ],
+        "vocabulary": [
+          "braking"
+        ],
+        "rationale": "刹车表面沾油可能失去有效制动力，所以不能照搬其他零件吱响就润滑的办法。材料没有说缺少前刹、店里没油或担心车变重。",
+        "answer_evidence": "make the brake ineffective",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L429",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What does the woman promise to do?",
+        "response_type": "choice",
+        "audio_text": "Man: My front brake squeals. Could you oil it?\nWoman: Not the braking surface. Oil there could make the brake ineffective.\nMan: I assumed squeaking meant it needed lubrication.\nWoman: Sometimes, but brakes are different. Let me check whether the pads are dirty or misaligned.\nMan: Can I leave the bicycle here and walk to class?\nWoman: Yes. I'll call after the inspection, before replacing anything.",
+        "options": [
+          "Contact the man before replacing parts.",
+          "Deliver the bicycle to his classroom.",
+          "Replace the pads without further discussion.",
+          "Teach a class on bicycle lubrication."
+        ],
+        "group_id": "listen_conversation_37",
+        "passage_title": "A bicycle brake check"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问承诺内容；任何更换前的限制是“before replacing anything”\n解析：女方答应检查后先电话联系，再考虑换零件，故关键是更换前沟通。直接换片跳过该步骤；送到教室和开润滑课都不是她的承诺。\n下次：维修流程题抓先检查、再确认、后更换，防止跳过授权。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "程序与承诺"
+        ],
+        "vocabulary": [
+          "inspection"
+        ],
+        "rationale": "女方答应检查后先电话联系，再考虑换零件，故关键是更换前沟通。直接换片跳过该步骤；送到教室和开润滑课都不是她的承诺。",
+        "answer_evidence": "before replacing anything",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L430",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What problem are they trying to solve?",
+        "response_type": "choice",
+        "audio_text": "Woman: Our language exchange keeps turning into an English conversation.\nMan: Everyone switches when someone gets stuck.\nWoman: Which is kind, but I barely practice Spanish.\nMan: How about fifteen minutes in each language, with a list of helpful phrases on the table?\nWoman: That would make it less awkward to keep trying.\nMan: We should explain that mistakes are expected, too.\nWoman: I'll bring the phrase sheets, and you can explain the timing.",
+        "options": [
+          "Participants refuse to talk to new members.",
+          "The group has no fluent English speakers.",
+          "The sessions are too short to introduce anyone.",
+          "One language is crowding out practice in the other."
+        ],
+        "group_id": "listen_conversation_38",
+        "passage_title": "A language exchange"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问交流活动的问题；西语练得很少是“barely practice Spanish”\n解析：卡住就切英语造成失衡；非拒绝新人、没时间介绍、无人会英语。\n下次：主问题题把抱怨与成因连起来，不用未提社交障碍补空。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "问题与原因"
+        ],
+        "vocabulary": [
+          "switches"
+        ],
+        "rationale": "问交流活动的问题；西语练得很少是卡住就切英语造成失衡；非拒绝新人、没时间介绍、无人会英语。",
+        "answer_evidence": "barely practice Spanish",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L431",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "How are the phrase sheets intended to help?",
+        "response_type": "choice",
+        "audio_text": "Woman: Our language exchange keeps turning into an English conversation.\nMan: Everyone switches when someone gets stuck.\nWoman: Which is kind, but I barely practice Spanish.\nMan: How about fifteen minutes in each language, with a list of helpful phrases on the table?\nWoman: That would make it less awkward to keep trying.\nMan: We should explain that mistakes are expected, too.\nWoman: I'll bring the phrase sheets, and you can explain the timing.",
+        "options": [
+          "Require everyone to memorize a speech.",
+          "Support participants without immediately switching languages.",
+          "Provide a test for selecting advanced members.",
+          "Replace conversation with silent reading."
+        ],
+        "group_id": "listen_conversation_38",
+        "passage_title": "A language exchange"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问短语表作用；帮助继续尝试的线索是“keep trying”\n解析：短语表帮助卡住的人继续尝试目标语言，减少立即改讲英语的情况。它支持交流，不是筛选高级成员的测试，也不是改为默读或背整篇演讲。\n下次：辅助工具题检查它支持原活动还是替代活动。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "目的与推断"
+        ],
+        "vocabulary": [
+          "phrases"
+        ],
+        "rationale": "短语表帮助卡住的人继续尝试目标语言，减少立即改讲英语的情况。它支持交流，不是筛选高级成员的测试，也不是改为默读或背整篇演讲。",
+        "answer_evidence": "keep trying",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L432",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What caused the problem with the programs?",
+        "response_type": "choice",
+        "audio_text": "Man: I ordered folded programs, but these are flat sheets.\nWoman: Let me check the order. The folding box isn't selected.\nMan: I must have missed it. Can they still be folded?\nWoman: Yes, but not before your event starts. We could score them now so volunteers can fold them more easily.\nMan: That would work. There are only sixty.\nWoman: I'll show you one before scoring the rest.",
+        "options": [
+          "The event time was changed after ordering.",
+          "The folding service was not selected.",
+          "The shop delivered another customer's order.",
+          "The printer used the wrong paper color."
+        ],
+        "group_id": "listen_conversation_39",
+        "passage_title": "A print order"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问节目单没折的原因；未选服务是“isn't selected”\n解析：订单上的折叠选项没勾，男方也承认可能漏选，因此问题是未订该项服务。纸张颜色、活动改期或拿错他人订单没有证据。\n下次：订单问题先查实际勾选服务，区分未订与未履约。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "原因与细节"
+        ],
+        "vocabulary": [
+          "folded"
+        ],
+        "rationale": "订单上的折叠选项没勾，男方也承认可能漏选，因此问题是未订该项服务。纸张颜色、活动改期或拿错他人订单没有证据。",
+        "answer_evidence": "isn't selected",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L433",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What solution do they agree on?",
+        "response_type": "choice",
+        "audio_text": "Man: I ordered folded programs, but these are flat sheets.\nWoman: Let me check the order. The folding box isn't selected.\nMan: I must have missed it. Can they still be folded?\nWoman: Yes, but not before your event starts. We could score them now so volunteers can fold them more easily.\nMan: That would work. There are only sixty.\nWoman: I'll show you one before scoring the rest.",
+        "options": [
+          "Delay the event until the shop can finish.",
+          "Print a new program with fewer pages.",
+          "Prepare fold lines for volunteers to fold the sheets.",
+          "Use the programs without folding them."
+        ],
+        "group_id": "listen_conversation_39",
+        "passage_title": "A print order"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：score在此指压出折痕，解决办法是“score them now”\n解析：店里现在可以压折痕，使志愿者来得及自行折好，兼顾开场期限。双方没有决定延期、重新印少页版，也没有放弃折叠直接用平张。\n下次：陌生操作词结合后果理解，核对是谁完成后一步。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "词义与方案"
+        ],
+        "vocabulary": [
+          "score"
+        ],
+        "rationale": "店里现在可以压折痕，使志愿者来得及自行折好，兼顾开场期限。双方没有决定延期、重新印少页版，也没有放弃折叠直接用平张。",
+        "answer_evidence": "score them now",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L434",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What may explain the cloudy sample?",
+        "response_type": "choice",
+        "audio_text": "Woman: The water in my sample bottle is cloudy. Did I do something wrong?\nMan: Where did you stand when you filled it?\nWoman: In the stream, just upstream of the bottle.\nMan: You may have stirred up sediment that drifted into it. Try collecting upstream of where you're standing.\nWoman: Should I label the first sample as unusable?\nMan: Label how it was collected. We can compare it with the second one rather than pretend it never happened.",
+        "options": [
+          "The water changed because it was heated.",
+          "Disturbed sediment entered the bottle.",
+          "The woman sampled a different stream.",
+          "The bottle was filled with rainwater."
+        ],
+        "group_id": "listen_conversation_40",
+        "passage_title": "A stream sample"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问浑浊可能原因；搅起沉积物的线索是“stirred up sediment”\n解析：她站在瓶子上游，脚步搅起的沉积物可能顺水流入瓶中，所以水变浑。雨水、另一条溪流或加热都不是材料描述的采样条件。\n下次：因果推断先画水流方向，再检查污染从哪流向哪。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "因果与空间"
+        ],
+        "vocabulary": [
+          "upstream"
+        ],
+        "rationale": "她站在瓶子上游，脚步搅起的沉积物可能顺水流入瓶中，所以水变浑。雨水、另一条溪流或加热都不是材料描述的采样条件。",
+        "answer_evidence": "stirred up sediment",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L435",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What should happen to the first sample?",
+        "response_type": "choice",
+        "audio_text": "Woman: The water in my sample bottle is cloudy. Did I do something wrong?\nMan: Where did you stand when you filled it?\nWoman: In the stream, just upstream of the bottle.\nMan: You may have stirred up sediment that drifted into it. Try collecting upstream of where you're standing.\nWoman: Should I label the first sample as unusable?\nMan: Label how it was collected. We can compare it with the second one rather than pretend it never happened.",
+        "options": [
+          "Its collection method should be documented.",
+          "It should be discarded without any record.",
+          "It should be mixed into the next sample.",
+          "Its label should be replaced with the second sample's."
+        ],
+        "group_id": "listen_conversation_40",
+        "passage_title": "A stream sample"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问第一瓶处理；记录采法的要求是“Label how it was collected”\n解析：记录第一瓶的采样方法，才能与第二瓶比较并判断影响。冒用第二瓶标签、混合两瓶会破坏比较；无记录丢弃也会抹去重要过程信息。\n下次：异常样本题区分保留并注明与掩盖异常，核对可追溯性。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "程序与证据"
+        ],
+        "vocabulary": [
+          "sediment"
+        ],
+        "rationale": "记录第一瓶的采样方法，才能与第二瓶比较并判断影响。冒用第二瓶标签、混合两瓶会破坏比较；无记录丢弃也会抹去重要过程信息。",
+        "answer_evidence": "Label how it was collected",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L436",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why is the man entering too early?",
+        "response_type": "choice",
+        "audio_text": "Man: I keep coming in too early after the piano solo.\nWoman: Are you counting the silence at the end?\nMan: I start as soon as the pianist lifts her hands.\nWoman: There's a full beat after that. Watch my breathing cue instead.\nMan: Could we practice just that transition?\nWoman: Certainly. We'll begin four bars before the solo ends.\nMan: Good. Singing the whole piece again won't help if I miss the same cue.",
+        "options": [
+          "He forgets the words of the opening line.",
+          "He treats the pianist's hand movement as his starting cue.",
+          "He is singing from an earlier version of the score.",
+          "He cannot hear the piano over the choir."
+        ],
+        "group_id": "listen_conversation_41",
+        "passage_title": "A choir entrance"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问抢入原因；抬手就进的依据是“as soon as the pianist lifts her hands”\n解析：还缺一拍，却把抬手当开始；没有听不见、旧谱或忘词。\n下次：表演顺序题标出动作与规定间隔，检查是否少等一步。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "时间与原因"
+        ],
+        "vocabulary": [
+          "beat"
+        ],
+        "rationale": "问抢入原因；抬手就进的依据是还缺一拍，却把抬手当开始；没有听不见、旧谱或忘词。",
+        "answer_evidence": "as soon as the pianist lifts her hands",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L437",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What will they practice?",
+        "response_type": "choice",
+        "audio_text": "Man: I keep coming in too early after the piano solo.\nWoman: Are you counting the silence at the end?\nMan: I start as soon as the pianist lifts her hands.\nWoman: There's a full beat after that. Watch my breathing cue instead.\nMan: Could we practice just that transition?\nWoman: Certainly. We'll begin four bars before the solo ends.\nMan: Good. Singing the whole piece again won't help if I miss the same cue.",
+        "options": [
+          "A short section around the transition.",
+          "A new piece with no piano accompaniment.",
+          "The pianist's hand position throughout the solo.",
+          "Only the final line of the entire piece."
+        ],
+        "group_id": "listen_conversation_41",
+        "passage_title": "A choir entrance"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问练习范围；只练衔接的请求是“just that transition”\n解析：从钢琴独奏结束前四小节开始，集中练进入合唱的衔接，而非整首重唱。不是只练全曲最后一句，也不是练钢琴手姿，更没有换新作品。\n下次：局部练习题把起点和难点对齐，不把整曲重唱当目标。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "范围与行动"
+        ],
+        "vocabulary": [
+          "transition"
+        ],
+        "rationale": "从钢琴独奏结束前四小节开始，集中练进入合唱的衔接，而非整首重唱。不是只练全曲最后一句，也不是练钢琴手姿，更没有换新作品。",
+        "answer_evidence": "just that transition",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L438",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What does the man think may be causing the low return rate?",
+        "response_type": "choice",
+        "audio_text": "Woman: People keep leaving reusable cups in ordinary trash bins.\nMan: Maybe the return station isn't obvious. It's behind the coffee machine.\nWoman: We put instructions on the cups.\nMan: By the time people finish drinking, they may not read them. Could we move the return station beside the exit?\nWoman: Yes, and put a picture of the cup above it.\nMan: Let's count returns for a week before ordering more cups.",
+        "options": [
+          "The cups are too large for the coffee machine.",
+          "The return station is hard to notice.",
+          "Customers are being charged twice.",
+          "The cups cannot safely be reused."
+        ],
+        "group_id": "listen_conversation_42",
+        "passage_title": "A reusable cup system"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问男方认为的原因；回收点不显眼，线索是“isn't obvious”\n解析：藏咖啡机后可能看不到；未谈安全、重复收费或尺寸。\n下次：观点题注意可能原因，别把改进假设写成已证实事实。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "推断与原因"
+        ],
+        "vocabulary": [
+          "return station"
+        ],
+        "rationale": "问男方认为的原因；回收点不显眼，线索是藏咖啡机后可能看不到；未谈安全、重复收费或尺寸。",
+        "answer_evidence": "isn't obvious",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L439",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why will they count returns for a week?",
+        "response_type": "choice",
+        "audio_text": "Woman: People keep leaving reusable cups in ordinary trash bins.\nMan: Maybe the return station isn't obvious. It's behind the coffee machine.\nWoman: We put instructions on the cups.\nMan: By the time people finish drinking, they may not read them. Could we move the return station beside the exit?\nWoman: Yes, and put a picture of the cup above it.\nMan: Let's count returns for a week before ordering more cups.",
+        "options": [
+          "To decide which customers should be fined.",
+          "To assess the new arrangement before buying more cups.",
+          "To prove that printed instructions never work.",
+          "To calculate the coffee machine's repair cost."
+        ],
+        "group_id": "listen_conversation_42",
+        "passage_title": "A reusable cup system"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问计数目的；先看结果再订杯，线索是“before ordering more cups”\n解析：评估移动和标识效果；没有罚客、证明文字永远无效或算维修费。\n下次：试行后计数一般检验效果，核对测量对象与下一决定。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "目的与证据"
+        ],
+        "vocabulary": [
+          "returns"
+        ],
+        "rationale": "问计数目的；先看结果再订杯，线索是评估移动和标识效果；没有罚客、证明文字永远无效或算维修费。",
+        "answer_evidence": "before ordering more cups",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L440",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What is missing from the portfolio?",
+        "response_type": "choice",
+        "audio_text": "Man: My portfolio shows the final website, but my adviser says it doesn't show my role.\nWoman: Did you describe which parts you built?\nMan: I wrote that the team completed it in six weeks.\nWoman: That describes the team. Add two examples of your own decisions and explain why you made them.\nMan: Would screenshots of early versions help?\nWoman: Yes, if you connect each one to a decision. A pile of pictures alone won't do much.",
+        "options": [
+          "The names of every person who visited the site.",
+          "Evidence of the man's individual contribution.",
+          "A description of all websites the team considered.",
+          "The exact date the website went online."
+        ],
+        "group_id": "listen_conversation_43",
+        "passage_title": "An internship portfolio"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问缺什么；看不出本人角色的线索是“doesn't show my role”\n解析：团队成果未说明个人决策；上线日期、访客姓名、所有参考网站均非所指出缺口。\n下次：作品展示题区分团队结果与个人贡献，找谁做了什么。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "问题与范围"
+        ],
+        "vocabulary": [
+          "portfolio"
+        ],
+        "rationale": "问缺什么；看不出本人角色的线索是团队成果未说明个人决策；上线日期、访客姓名、所有参考网站均非所指出缺口。",
+        "answer_evidence": "doesn't show my role",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L441",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "When would early screenshots be useful?",
+        "response_type": "choice",
+        "audio_text": "Man: My portfolio shows the final website, but my adviser says it doesn't show my role.\nWoman: Did you describe which parts you built?\nMan: I wrote that the team completed it in six weeks.\nWoman: That describes the team. Add two examples of your own decisions and explain why you made them.\nMan: Would screenshots of early versions help?\nWoman: Yes, if you connect each one to a decision. A pile of pictures alone won't do much.",
+        "options": [
+          "Only when the entire team appears in them.",
+          "Only when they look better than the final version.",
+          "When they replace every written explanation.",
+          "When each illustrates a decision he made."
+        ],
+        "group_id": "listen_conversation_43",
+        "passage_title": "An internship portfolio"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问截图有用的条件；须连到决策，证据是“connect each one to a decision”\n解析：女方明确要求每张早期截图对应一个本人决策，图像才说明过程。截图不必比成品更漂亮，也不能代替所有文字；全体成员入镜与所需证据无关。\n下次：证据材料题检查图与论点的连接，不把数量当解释力。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "条件与证据"
+        ],
+        "vocabulary": [
+          "screenshots"
+        ],
+        "rationale": "女方明确要求每张早期截图对应一个本人决策，图像才说明过程。截图不必比成品更漂亮，也不能代替所有文字；全体成员入镜与所需证据无关。",
+        "answer_evidence": "connect each one to a decision",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L442",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why might the book be at reception?",
+        "response_type": "choice",
+        "audio_text": "Woman: The tracking page says my book was delivered, but it isn't in my mailbox.\nMan: Was it too large for the box? Oversized packages go to the reception desk.\nWoman: It's an atlas, so probably. I checked the parcel shelves but not reception.\nMan: Ask there first. If they don't have it, bring me the tracking number and we'll contact the carrier.\nWoman: All right. I won't order a second copy yet.",
+        "options": [
+          "The woman requested gift wrapping.",
+          "The book was sent before it was paid for.",
+          "It may be too large for the mailbox.",
+          "The carrier could not read the address."
+        ],
+        "group_id": "listen_conversation_44",
+        "passage_title": "A bookstore delivery"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问为何可能在前台；超大包裹的规定是“Oversized packages”\n解析：地图册可能放不进邮箱；非礼品包装、地址难读或未付款。\n下次：物流推断把物品尺寸与分流规则相连，保留可能而非确定。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "规则与推断"
+        ],
+        "vocabulary": [
+          "atlas"
+        ],
+        "rationale": "问为何可能在前台；超大包裹的规定是地图册可能放不进邮箱；非礼品包装、地址难读或未付款。",
+        "answer_evidence": "Oversized packages",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L443",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What should the woman do first?",
+        "response_type": "choice",
+        "audio_text": "Woman: The tracking page says my book was delivered, but it isn't in my mailbox.\nMan: Was it too large for the box? Oversized packages go to the reception desk.\nWoman: It's an atlas, so probably. I checked the parcel shelves but not reception.\nMan: Ask there first. If they don't have it, bring me the tracking number and we'll contact the carrier.\nWoman: All right. I won't order a second copy yet.",
+        "options": [
+          "Contact the carrier without checking the building.",
+          "Ask at the reception desk.",
+          "Immediately order another copy.",
+          "Search the parcel shelves again with the man."
+        ],
+        "group_id": "listen_conversation_44",
+        "passage_title": "A bookstore delivery"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问首步；先去那里问的指代是前台“Ask there first”\n解析：前台尚未查过，先去询问；若没有，再带追踪号码联系承运方。立即重买或先联系承运方跳过排查；货架已经看过，不是建议的下一站。\n下次：多步建议画先后箭头，检查条件未满足时不能跳后步。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "程序与顺序"
+        ],
+        "vocabulary": [
+          "carrier"
+        ],
+        "rationale": "前台尚未查过，先去询问；若没有，再带追踪号码联系承运方。立即重买或先联系承运方跳过排查；货架已经看过，不是建议的下一站。",
+        "answer_evidence": "Ask there first",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L444",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why is the existing map inadequate for evening visitors?",
+        "response_type": "choice",
+        "audio_text": "Man: This campus map has every building label, but people still get lost at night.\nWoman: Have you tried following it after dark?\nMan: No, I checked it during the afternoon.\nWoman: The shortcut beside the pond is locked in the evening. The map doesn't say that.\nMan: So adding more labels won't fix it.\nWoman: Right. Show an evening route from the bus stop and mark the closed gate.\nMan: I'll walk that route tonight before revising it.",
+        "options": [
+          "It shows a shortcut that is closed at night.",
+          "It omits all building names.",
+          "Its paper cannot be read under artificial light.",
+          "It uses a bus stop that no longer exists."
+        ],
+        "group_id": "listen_conversation_45",
+        "passage_title": "A map for night visitors"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问夜间失效原因；小路晚上锁，证据是“locked in the evening”\n解析：缺少时间性通行限制；楼名已有，非站点消失或纸张问题。\n下次：地图问题把时段加到空间信息上，别只增加标签。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "条件与原因"
+        ],
+        "vocabulary": [
+          "shortcut"
+        ],
+        "rationale": "问夜间失效原因；小路晚上锁，证据是缺少时间性通行限制；楼名已有，非站点消失或纸张问题。",
+        "answer_evidence": "locked in the evening",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L445",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What does the man plan to do before editing the map?",
+        "response_type": "choice",
+        "audio_text": "Man: This campus map has every building label, but people still get lost at night.\nWoman: Have you tried following it after dark?\nMan: No, I checked it during the afternoon.\nWoman: The shortcut beside the pond is locked in the evening. The map doesn't say that.\nMan: So adding more labels won't fix it.\nWoman: Right. Show an evening route from the bus stop and mark the closed gate.\nMan: I'll walk that route tonight before revising it.",
+        "options": [
+          "Ask the gatekeeper to keep every gate open.",
+          "Print extra copies of the current map.",
+          "Remove the pond from the map.",
+          "Walk the proposed evening route."
+        ],
+        "group_id": "listen_conversation_45",
+        "passage_title": "A map for night visitors"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问修改前行动；今晚走路线是“walk that route tonight”\n解析：先实地夜测；不删池塘、不要求全开门、不增印旧版。\n下次：更新信息前找验证步骤，核对测试条件与使用条件一致。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "行动与验证"
+        ],
+        "vocabulary": [
+          "revising"
+        ],
+        "rationale": "问修改前行动；今晚走路线是先实地夜测；不删池塘、不要求全开门、不增印旧版。",
+        "answer_evidence": "walk that route tonight",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L446",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What is the problem with the costume?",
+        "response_type": "choice",
+        "audio_text": "Woman: The sleeves look right when I stand still, but they pull when I raise my arms.\nMan: Let's see the movement you make on stage.\nWoman: I reach up to hang a picture.\nMan: We can loosen the seam under the arm. Simply shortening the sleeve won't give you that movement.\nWoman: Could you pin it first so I can try the scene?\nMan: Absolutely. We'll test it before cutting any fabric.",
+        "options": [
+          "It restricts a movement required in the performance.",
+          "It was made for a different performer.",
+          "Its color does not match the stage background.",
+          "Its sleeves cover the woman's hands at rest."
+        ],
+        "group_id": "listen_conversation_46",
+        "passage_title": "A costume alteration"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问服装问题；抬臂时拉紧是“pull when I raise my arms”\n解析：静止时袖子合适，抬臂挂画才受拉扯，问题是服装限制演出动作。不能推成静止时袖子遮手；颜色不搭和为别人制作也没有证据。\n下次：服装功能题比较静止与动作状态，找实际受限动作。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "细节与比较"
+        ],
+        "vocabulary": [
+          "sleeves"
+        ],
+        "rationale": "静止时袖子合适，抬臂挂画才受拉扯，问题是服装限制演出动作。不能推成静止时袖子遮手；颜色不搭和为别人制作也没有证据。",
+        "answer_evidence": "pull when I raise my arms",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L447",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why will the seam be pinned first?",
+        "response_type": "choice",
+        "audio_text": "Woman: The sleeves look right when I stand still, but they pull when I raise my arms.\nMan: Let's see the movement you make on stage.\nWoman: I reach up to hang a picture.\nMan: We can loosen the seam under the arm. Simply shortening the sleeve won't give you that movement.\nWoman: Could you pin it first so I can try the scene?\nMan: Absolutely. We'll test it before cutting any fabric.",
+        "options": [
+          "To shorten both sleeves by the same amount.",
+          "To display the costume without an actor.",
+          "To test the alteration before making an irreversible cut.",
+          "To mark where a new picture should be hung."
+        ],
+        "group_id": "listen_conversation_46",
+        "passage_title": "A costume alteration"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问先别针固定的原因；裁剪前测试是“before cutting any fabric”\n解析：先别针固定调整处，再试演出动作，可以确认活动空间够不够后才裁剪。并非已决定剪短双袖；展示衣服、标记挂画位置都不是别针的用途。\n下次：试做步骤题检查它降低哪种不可逆风险。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "目的与顺序"
+        ],
+        "vocabulary": [
+          "seam"
+        ],
+        "rationale": "先别针固定调整处，再试演出动作，可以确认活动空间够不够后才裁剪。并非已决定剪短双袖；展示衣服、标记挂画位置都不是别针的用途。",
+        "answer_evidence": "before cutting any fabric",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L448",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What did the man misunderstand about the foam cover?",
+        "response_type": "choice",
+        "audio_text": "Man: I recorded the market for our sound map, but all I can hear is wind.\nWoman: Did you use the foam cover on the microphone?\nMan: I left it behind because it wasn't raining.\nWoman: It's for wind, not rain. We should try the same corner with the cover on.\nMan: Do we need the vendors to repeat what they were saying?\nWoman: No, we're documenting the place's sound, not reproducing an exact conversation.",
+        "options": [
+          "He thought it would make the microphone louder.",
+          "He assumed it could record sounds by itself.",
+          "He believed it belonged to a vendor.",
+          "He thought it was mainly protection from rain."
+        ],
+        "group_id": "listen_conversation_47",
+        "passage_title": "A neighborhood sound walk"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问误解；挡风而非挡雨的纠正是“for wind, not rain”\n解析：他因无雨没带，误认用途；不是扩音、归属或独立录音。\n下次：工具用途题对照使用决定与纠正语，找错误假设。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "纠正与用途"
+        ],
+        "vocabulary": [
+          "foam"
+        ],
+        "rationale": "问误解；挡风而非挡雨的纠正是他因无雨没带，误认用途；不是扩音、归属或独立录音。",
+        "answer_evidence": "for wind, not rain",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L449",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why is it unnecessary to repeat the vendors' words?",
+        "response_type": "choice",
+        "audio_text": "Man: I recorded the market for our sound map, but all I can hear is wind.\nWoman: Did you use the foam cover on the microphone?\nMan: I left it behind because it wasn't raining.\nWoman: It's for wind, not rain. We should try the same corner with the cover on.\nMan: Do we need the vendors to repeat what they were saying?\nWoman: No, we're documenting the place's sound, not reproducing an exact conversation.",
+        "options": [
+          "The project concerns the overall sound of the location.",
+          "The woman wants to replace the audio with music.",
+          "The vendors' words have already been transcribed.",
+          "The project excludes all human voices."
+        ],
+        "group_id": "listen_conversation_47",
+        "passage_title": "A neighborhood sound walk"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问为何无需逐字重现；目标是场所声景，依据是“the place's sound”\n解析：项目记录市场整体声音，不要求摊主把同一句话再说一次。不是已有逐字转写；人声仍可属于场所声音；也没有用配乐取代现场声音。\n下次：项目目的决定细节精度，检查不要把非必需推成禁止。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "目的与范围"
+        ],
+        "vocabulary": [
+          "documenting"
+        ],
+        "rationale": "项目记录市场整体声音，不要求摊主把同一句话再说一次。不是已有逐字转写；人声仍可属于场所声音；也没有用配乐取代现场声音。",
+        "answer_evidence": "the place's sound",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L450",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What does the man say about apple color?",
+        "response_type": "choice",
+        "audio_text": "Woman: Should we pick all the apples today? Some still look green.\nMan: This variety stays green even when it's ripe. Try lifting an apple and giving it a gentle twist.\nWoman: This one comes away easily.\nMan: Good. Leave the ones that resist. We'll come back for them next week.\nWoman: So color isn't the best guide here.\nMan: Exactly. And lower them into the basket; dropping them can bruise them.",
+        "options": [
+          "Every green apple is unsuitable for eating.",
+          "Color matters more than how easily they detach.",
+          "The apples will turn red by next week.",
+          "This variety can remain green when ripe."
+        ],
+        "group_id": "listen_conversation_48",
+        "passage_title": "An apple harvest"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问颜色说明；成熟仍绿的证据是“stays green even when it's ripe”\n解析：该品种不能仅凭绿判生；非全部绿不能吃，不保证变红，也不说颜色优先。\n下次：品种限定题保留适用对象，别把局部特性扩大为所有水果。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "范围与证据"
+        ],
+        "vocabulary": [
+          "ripe"
+        ],
+        "rationale": "问颜色说明；成熟仍绿的证据是该品种不能仅凭绿判生；非全部绿不能吃，不保证变红，也不说颜色优先。",
+        "answer_evidence": "stays green even when it's ripe",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L451",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Which apples should be left on the tree?",
+        "response_type": "choice",
+        "audio_text": "Woman: Should we pick all the apples today? Some still look green.\nMan: This variety stays green even when it's ripe. Try lifting an apple and giving it a gentle twist.\nWoman: This one comes away easily.\nMan: Good. Leave the ones that resist. We'll come back for them next week.\nWoman: So color isn't the best guide here.\nMan: Exactly. And lower them into the basket; dropping them can bruise them.",
+        "options": [
+          "Those that can be lowered gently into a basket.",
+          "Those that detach easily when lifted.",
+          "All apples whose skins are still green.",
+          "Those that resist a gentle twist."
+        ],
+        "group_id": "listen_conversation_48",
+        "passage_title": "An apple harvest"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问哪些苹果应留在树上；“Leave the ones that resist”是留下轻扭时仍不容易脱落的。\n解析：不易脱落者下周再采；轻抬轻扭就掉下的是现在可采者。该品种熟了仍绿，不能把全部绿果留下；轻放篮子是采后防碰伤的方式，不是判断成熟的标准。\n下次：听到采收条件→把测试结果配对采或留→检查颜色特性和采后处理是否被混成成熟标准。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "条件与动作"
+        ],
+        "vocabulary": [
+          "bruise"
+        ],
+        "rationale": "不易脱落者下周再采；轻抬轻扭就掉下的是现在可采者。该品种熟了仍绿，不能把全部绿果留下；轻放篮子是采后防碰伤的方式，不是判断成熟的标准。",
+        "answer_evidence": "Leave the ones that resist",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L452",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why are differences difficult to see in the original chart?",
+        "response_type": "choice",
+        "audio_text": "Man: The two lines in my chart look almost identical.\nWoman: What range did you use on the vertical axis?\nMan: Zero to ten thousand, though the values are all around three hundred.\nWoman: A narrower range would reveal the difference, but label it clearly.\nMan: Won't that exaggerate the change?\nWoman: It could if readers miss the scale. Show the full-range chart beside the detailed one.\nMan: Then they can see both the size and the pattern.",
+        "options": [
+          "The chart labels use the wrong measurement units.",
+          "The two sets of values are exactly equal.",
+          "The vertical axis has no numbers at all.",
+          "The axis covers a range much wider than the values."
+        ],
+        "group_id": "listen_conversation_49",
+        "passage_title": "A data chart axis"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问线看似相同原因；坐标范围是“Zero to ten thousand”\n解析：数据约三百，纵轴却从零到一万，微小差别被大尺度压缩了。视觉上相近不证明数值完全相等；没有单位标错；轴本身也并非没数字。\n下次：图表比较先看坐标尺度，再判断视觉相似是否等于数值相同。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "因果与数据"
+        ],
+        "vocabulary": [
+          "vertical axis"
+        ],
+        "rationale": "数据约三百，纵轴却从零到一万，微小差别被大尺度压缩了。视觉上相近不证明数值完全相等；没有单位标错；轴本身也并非没数字。",
+        "answer_evidence": "Zero to ten thousand",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L453",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why does the woman recommend showing two charts?",
+        "response_type": "choice",
+        "audio_text": "Man: The two lines in my chart look almost identical.\nWoman: What range did you use on the vertical axis?\nMan: Zero to ten thousand, though the values are all around three hundred.\nWoman: A narrower range would reveal the difference, but label it clearly.\nMan: Won't that exaggerate the change?\nWoman: It could if readers miss the scale. Show the full-range chart beside the detailed one.\nMan: Then they can see both the size and the pattern.",
+        "options": [
+          "To avoid labeling the detailed chart.",
+          "To hide the original scale from readers.",
+          "To reveal detail while preserving a sense of overall magnitude.",
+          "To replace the data with two different estimates."
+        ],
+        "group_id": "listen_conversation_49",
+        "passage_title": "A data chart axis"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问并列两图目的；兼顾幅度与模式，依据是“both the size and the pattern”\n解析：全范围图保留变化的总体幅度，细节图帮助看出局部模式，两者互补。不是藏尺度或更换原数据；细图仍要清楚标注，不能省标签。\n下次：展示取舍题看两图各补什么，检查没有牺牲尺度透明度。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "目的与权衡"
+        ],
+        "vocabulary": [
+          "scale"
+        ],
+        "rationale": "全范围图保留变化的总体幅度，细节图帮助看出局部模式，两者互补。不是藏尺度或更换原数据；细图仍要清楚标注，不能省标签。",
+        "answer_evidence": "both the size and the pattern",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L454",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why is the three o'clock ferry risky?",
+        "response_type": "choice",
+        "audio_text": "Woman: My train arrives at two forty. Can I make the three o'clock ferry?\nMan: The dock is a ten-minute walk, but boarding closes ten minutes before departure.\nWoman: That leaves no room for a late train.\nMan: Exactly. The three thirty sailing is a safer booking.\nWoman: Is the same ticket valid for that one?\nMan: Yes, it's not tied to a particular departure.\nWoman: I'll plan on three thirty and avoid rushing.",
+        "options": [
+          "Passengers must buy tickets an hour in advance.",
+          "The dock is thirty minutes from the station.",
+          "The walk would use all the time before boarding closes.",
+          "The train normally arrives after three o'clock."
+        ],
+        "group_id": "listen_conversation_50",
+        "passage_title": "A ferry connection"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问赶船风险；提前十分钟停登是“boarding closes ten minutes before departure”\n解析：二点四十到加十分钟走路正好二点五十，毫无余量；非列车本来三点后到、步行半小时或一小时前买票。\n下次：衔接题用停止登乘点而非开船点计算余量。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "时间计算"
+        ],
+        "vocabulary": [
+          "boarding"
+        ],
+        "rationale": "问赶船风险；提前十分钟停登是二点四十到加十分钟走路正好二点五十，毫无余量；非列车本来三点后到、步行半小时或一小时前买票。",
+        "answer_evidence": "boarding closes ten minutes before departure",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L455",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What does the man explain about the ticket?",
+        "response_type": "choice",
+        "audio_text": "Woman: My train arrives at two forty. Can I make the three o'clock ferry?\nMan: The dock is a ten-minute walk, but boarding closes ten minutes before departure.\nWoman: That leaves no room for a late train.\nMan: Exactly. The three thirty sailing is a safer booking.\nWoman: Is the same ticket valid for that one?\nMan: Yes, it's not tied to a particular departure.\nWoman: I'll plan on three thirty and avoid rushing.",
+        "options": [
+          "It costs more for the later ferry.",
+          "It guarantees boarding after the gate closes.",
+          "It must be exchanged at the train station.",
+          "It can be used for a different departure."
+        ],
+        "group_id": "listen_conversation_50",
+        "passage_title": "A ferry connection"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问票的性质；不绑定某班是“not tied to a particular departure”\n解析：可乘较晚班；不用去车站换、不说加价、也不允许过时登船。\n下次：弹性票题区分换班自由与无视登乘截止。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "规则与范围"
+        ],
+        "vocabulary": [
+          "departure"
+        ],
+        "rationale": "问票的性质；不绑定某班是可乘较晚班；不用去车站换、不说加价、也不允许过时登船。",
+        "answer_evidence": "not tied to a particular departure",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L456",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What does the woman recommend?",
+        "response_type": "choice",
+        "audio_text": "Man: I translated the leaflet word for word, but it sounds strange.\nWoman: What's the leaflet trying to get people to do?\nMan: Bring used batteries to the collection point, not put them in household rubbish.\nWoman: Then make that action clear. You don't need to preserve the English sentence order.\nMan: Should we keep the technical term for the battery type?\nWoman: Yes, with a short plain-language explanation. Accuracy and natural wording can work together.",
+        "options": [
+          "Remove every technical detail from the leaflet.",
+          "Translate only the leaflet's title.",
+          "Prioritize the intended action over the original sentence order.",
+          "Keep English word order even if the result sounds unnatural."
+        ],
+        "group_id": "listen_conversation_51",
+        "passage_title": "A volunteer translation"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问翻译建议；把行动说清是“make that action clear”\n解析：可变句序以传达回收指令；非删所有技术内容、死守词序或只译标题。\n下次：实用文本翻译先找读者要做什么，再检验表达是否自然准确。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "目的与表达"
+        ],
+        "vocabulary": [
+          "word for word"
+        ],
+        "rationale": "问翻译建议；把行动说清是可变句序以传达回收指令；非删所有技术内容、死守词序或只译标题。",
+        "answer_evidence": "make that action clear",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L457",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "How should the technical term be handled?",
+        "response_type": "choice",
+        "audio_text": "Man: I translated the leaflet word for word, but it sounds strange.\nWoman: What's the leaflet trying to get people to do?\nMan: Bring used batteries to the collection point, not put them in household rubbish.\nWoman: Then make that action clear. You don't need to preserve the English sentence order.\nMan: Should we keep the technical term for the battery type?\nWoman: Yes, with a short plain-language explanation. Accuracy and natural wording can work together.",
+        "options": [
+          "Retain it and explain it simply.",
+          "Replace it with an unrelated everyday word.",
+          "Print it only in English without explanation.",
+          "Leave it out to save printing space."
+        ],
+        "group_id": "listen_conversation_51",
+        "passage_title": "A volunteer translation"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问术语处理；附简明解释是“with a short plain-language explanation”\n解析：她说准确和自然可以兼顾，所以保留电池类型的术语，再用普通话语解释。乱换无关词会失真；删除会丢信息；只留英语不解释也达不到让读者理解的目的。\n下次：术语题把准确名称与可理解解释结合，避免非此即彼。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "信息与范围"
+        ],
+        "vocabulary": [
+          "technical"
+        ],
+        "rationale": "她说准确和自然可以兼顾，所以保留电池类型的术语，再用普通话语解释。乱换无关词会失真；删除会丢信息；只留英语不解释也达不到让读者理解的目的。",
+        "answer_evidence": "with a short plain-language explanation",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L458",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why can't the beginners join the independent session immediately?",
+        "response_type": "choice",
+        "audio_text": "Woman: I booked the climbing wall for our group, but two friends have never climbed.\nMan: The booking is for independent climbers. Beginners need the introductory session first.\nWoman: Could they just watch us and then have a go?\nMan: No. The session covers checks you can't learn simply by watching a few climbs.\nWoman: Can we move the whole group to that session?\nMan: There are six spaces on Saturday morning.\nWoman: Great, there are five of us.",
+        "options": [
+          "The wall is closed to groups of friends.",
+          "They are below the minimum age.",
+          "They need instruction in required safety checks.",
+          "They must buy all their own climbing equipment."
+        ],
+        "group_id": "listen_conversation_52",
+        "passage_title": "A climbing wall booking"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问为何不能直接参加；必须学安全检查，证据是“checks you can't learn simply by watching”\n解析：仅观看不够；没要求买齐装备、禁止朋友团体或提年龄不够。\n下次：准入条件题找明确培训要求，别添器材或年龄门槛。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "规则与原因"
+        ],
+        "vocabulary": [
+          "introductory"
+        ],
+        "rationale": "问为何不能直接参加；必须学安全检查，证据是仅观看不够；没要求买齐装备、禁止朋友团体或提年龄不够。",
+        "answer_evidence": "checks you can't learn simply by watching",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L459",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What does the woman arrange for her group?",
+        "response_type": "choice",
+        "audio_text": "Woman: I booked the climbing wall for our group, but two friends have never climbed.\nMan: The booking is for independent climbers. Beginners need the introductory session first.\nWoman: Could they just watch us and then have a go?\nMan: No. The session covers checks you can't learn simply by watching a few climbs.\nWoman: Can we move the whole group to that session?\nMan: There are six spaces on Saturday morning.\nWoman: Great, there are five of us.",
+        "options": [
+          "Send only the two beginners on a different day.",
+          "Move all five people to the Saturday introduction.",
+          "Split six people between two sessions.",
+          "Keep the independent booking for all five."
+        ],
+        "group_id": "listen_conversation_52",
+        "passage_title": "A climbing wall booking"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问最终安排；五人且有六空位的依据是“there are five of us”\n解析：请求整组移入并接受；不是只送两人、仍独立场或六人分班。\n下次：人数安排题区分空位数与团体人数，再核对改动范围。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "数量与安排"
+        ],
+        "vocabulary": [
+          "spaces"
+        ],
+        "rationale": "问最终安排；五人且有六空位的依据是请求整组移入并接受；不是只送两人、仍独立场或六人分班。",
+        "answer_evidence": "there are five of us",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L460",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why should the man not start scrubbing immediately?",
+        "response_type": "choice",
+        "audio_text": "Man: I spilled tea on the display cloth. Should I scrub it now?\nWoman: First check the care label. It's borrowed from the textile collection, not an ordinary tablecloth.\nMan: I didn't realize. I'll call the collection assistant.\nWoman: Good. Put a note beside it so nobody tries cleaning it while you're away.\nMan: And move the cups to the other table?\nWoman: Yes. Let's prevent another spill while we wait for advice.",
+        "options": [
+          "The cloth belongs to a visitor who is leaving now.",
+          "The stain has already disappeared.",
+          "The borrowed textile may require special care.",
+          "The woman wants to keep the tea as an exhibit."
+        ],
+        "group_id": "listen_conversation_53",
+        "passage_title": "A stained display cloth"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问为何先不擦洗；非普通桌布的线索是“not an ordinary tablecloth”\n解析：这是借来的纺织藏品，应先确认护理方法再清洁，以免错误处理损坏它。茶渍并未消失；没有要保存茶样；物品来源也不是马上离场的游客。\n下次：特殊物品故障先查护理限制，避免套普通用品处理法。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "原因与行动"
+        ],
+        "vocabulary": [
+          "textile"
+        ],
+        "rationale": "这是借来的纺织藏品，应先确认护理方法再清洁，以免错误处理损坏它。茶渍并未消失；没有要保存茶样；物品来源也不是马上离场的游客。",
+        "answer_evidence": "not an ordinary tablecloth",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L461",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why will they put a note beside the cloth?",
+        "response_type": "choice",
+        "audio_text": "Man: I spilled tea on the display cloth. Should I scrub it now?\nWoman: First check the care label. It's borrowed from the textile collection, not an ordinary tablecloth.\nMan: I didn't realize. I'll call the collection assistant.\nWoman: Good. Put a note beside it so nobody tries cleaning it while you're away.\nMan: And move the cups to the other table?\nWoman: Yes. Let's prevent another spill while we wait for advice.",
+        "options": [
+          "To prevent others from cleaning it without advice.",
+          "To identify everyone who drank tea.",
+          "To advertise a replacement cloth for sale.",
+          "To invite visitors to compare cleaning products."
+        ],
+        "group_id": "listen_conversation_53",
+        "passage_title": "A stained display cloth"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问便条目的；防他人先清理的依据是“so nobody tries cleaning it”\n解析：离开联系管理员时放便条，是防止别人擅自清理，等待合适护理建议。便条不是出售广告，不收集喝茶者名单，也不邀请试清洁产品。\n下次：临时标记题找要阻止的行动，区别提醒与宣传。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "目的与限制"
+        ],
+        "vocabulary": [
+          "spill"
+        ],
+        "rationale": "离开联系管理员时放便条，是防止别人擅自清理，等待合适护理建议。便条不是出售广告，不收集喝茶者名单，也不邀请试清洁产品。",
+        "answer_evidence": "so nobody tries cleaning it",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L462",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What concern does the man raise about the café?",
+        "response_type": "choice",
+        "audio_text": "Woman: The café would be a relaxed place for our interviews.\nMan: Relaxed, yes, but people will be discussing their experiences with unemployment. They may not want strangers listening.\nWoman: I hadn't considered that. The small meeting room is available.\nMan: Could we arrange the chairs informally and offer tea there?\nWoman: Then we'd keep the comfortable atmosphere without the public audience.\nMan: Exactly. I'll include directions in the invitation.",
+        "options": [
+          "The café refuses to serve unemployed people.",
+          "The café is too far from the campus.",
+          "Participants may lack privacy for sensitive discussions.",
+          "Participants cannot record any sounds indoors."
+        ],
+        "group_id": "listen_conversation_54",
+        "passage_title": "A research interview location"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问咖啡馆顾虑；陌生人可听到，线索是“strangers listening”\n解析：失业经历较敏感，公共场所缺私密；无拒客、距离远、室内不能录音规则。\n下次：场所选择题把话题敏感度与旁听风险相连，别推成歧视。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "隐含风险"
+        ],
+        "vocabulary": [
+          "unemployment"
+        ],
+        "rationale": "问咖啡馆顾虑；陌生人可听到，线索是失业经历较敏感，公共场所缺私密；无拒客、距离远、室内不能录音规则。",
+        "answer_evidence": "strangers listening",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L463",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What feature will they try to preserve in the new location?",
+        "response_type": "choice",
+        "audio_text": "Woman: The café would be a relaxed place for our interviews.\nMan: Relaxed, yes, but people will be discussing their experiences with unemployment. They may not want strangers listening.\nWoman: I hadn't considered that. The small meeting room is available.\nMan: Could we arrange the chairs informally and offer tea there?\nWoman: Then we'd keep the comfortable atmosphere without the public audience.\nMan: Exactly. I'll include directions in the invitation.",
+        "options": [
+          "The presence of other café customers.",
+          "An informal, comfortable atmosphere.",
+          "The café's exact seating capacity.",
+          "The café's original menu and prices."
+        ],
+        "group_id": "listen_conversation_54",
+        "passage_title": "A research interview location"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问换地点保留什么；舒适氛围是“comfortable atmosphere”\n解析：在小会议室随意摆椅并提供茶，可以保留轻松舒适而增加私密性。原咖啡馆的其他顾客正是要避开的因素；没有要求座位数、菜单或价格完全相同。\n下次：替代场地题区分必要体验与原地点附带特征。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "比较与目的"
+        ],
+        "vocabulary": [
+          "informally"
+        ],
+        "rationale": "在小会议室随意摆椅并提供茶，可以保留轻松舒适而增加私密性。原咖啡馆的其他顾客正是要避开的因素；没有要求座位数、菜单或价格完全相同。",
+        "answer_evidence": "comfortable atmosphere",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L464",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why does the woman consider the stopped fan useful?",
+        "response_type": "choice",
+        "audio_text": "Man: Our model house's little fan stops whenever someone stands in front of the lamp.\nWoman: That's actually useful for the demonstration. The fan is powered by the solar panel.\nMan: I thought we should hide that problem with a battery.\nWoman: Then visitors wouldn't see how the power depends on light. We could let them move a card between the lamp and panel.\nMan: So they can test the connection themselves.\nWoman: Exactly. Just explain that the lamp is standing in for sunlight.",
+        "options": [
+          "It proves that the solar panel is broken.",
+          "It makes the effect of reduced light visible.",
+          "It allows them to remove all explanations.",
+          "It shows that batteries cannot power fans."
+        ],
+        "group_id": "listen_conversation_55",
+        "passage_title": "A solar model"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问停转为何有用；能量依赖光照，依据是“depends on light”\n解析：卡片挡光，风扇随之停转，正好让人看见太阳能供电依赖光照。不能据此判定太阳能板坏了；仍须解释灯代表阳光；也没有证明电池不能带动风扇。\n下次：演示异常题检查它是否正好暴露要教的机制，而非自动判故障。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "因果与意图"
+        ],
+        "vocabulary": [
+          "solar panel"
+        ],
+        "rationale": "卡片挡光，风扇随之停转，正好让人看见太阳能供电依赖光照。不能据此判定太阳能板坏了；仍须解释灯代表阳光；也没有证明电池不能带动风扇。",
+        "answer_evidence": "depends on light",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L465",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What will visitors be invited to do?",
+        "response_type": "choice",
+        "audio_text": "Man: Our model house's little fan stops whenever someone stands in front of the lamp.\nWoman: That's actually useful for the demonstration. The fan is powered by the solar panel.\nMan: I thought we should hide that problem with a battery.\nWoman: Then visitors wouldn't see how the power depends on light. We could let them move a card between the lamp and panel.\nMan: So they can test the connection themselves.\nWoman: Exactly. Just explain that the lamp is standing in for sunlight.",
+        "options": [
+          "Block the light with a card.",
+          "Build a complete house model.",
+          "Replace the lamp with a new battery.",
+          "Take the solar panel apart."
+        ],
+        "group_id": "listen_conversation_55",
+        "passage_title": "A solar model"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问访客操作；卡片放灯与板之间是“move a card between the lamp and panel”\n解析：“move a card between the lamp and panel”是把卡片移到灯和太阳能板之间，从而挡光；观察风扇随遮光停转，就能检验光照与供电的关系。电池是男方先前想掩盖停转的方案，已被否定；拆板改变了实验装置，建整屋则扩大了任务，都不是双方确定的访客操作。\n下次：互动实验题锁定改变的变量，再排除额外未授意操作。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "行动与变量"
+        ],
+        "vocabulary": [
+          "sunlight"
+        ],
+        "rationale": "问访客操作；卡片放灯与板之间是“move a card between the lamp and panel”“move a card between the lamp and panel”是把卡片移到灯和太阳能板之间，从而挡光；观察风扇随遮光停转，就能检验光照与供电的关系。电池是男方先前想掩盖停转的方案，已被否定；拆板改变了实验装置，建整屋则扩大了任务，都不是双方确定的访客操作。",
+        "answer_evidence": "move a card between the lamp and panel",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L466",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why is the man uncertain about joining?",
+        "response_type": "choice",
+        "audio_text": "Woman: A place has opened in the glazing class. Do you still want it?\nMan: Definitely. But I haven't completed the introductory course.\nWoman: Have you worked with clay elsewhere?\nMan: At a community studio, for about a year.\nWoman: Then send the tutor a few photos and describe your experience. The introductory course is one way to show readiness, not the only way.\nMan: I'll do that today, rather than assume I have to start over.",
+        "options": [
+          "He cannot attend any classes this year.",
+          "He has already accepted another available place.",
+          "He has not taken the named introductory course.",
+          "He no longer enjoys working with clay."
+        ],
+        "group_id": "listen_conversation_56",
+        "passage_title": "A pottery class waiting list"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问犹豫原因；未上指定入门课是“haven't completed the introductory course”\n解析：男方明确说还想参加，只担心没修指定入门课，是否符合准备要求。已有约一年经验，并非失去兴趣；全年没空或已接受别的名额都没提到。\n下次：资格顾虑题把没修某课与没经验分开。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "原因与条件"
+        ],
+        "vocabulary": [
+          "glazing"
+        ],
+        "rationale": "男方明确说还想参加，只担心没修指定入门课，是否符合准备要求。已有约一年经验，并非失去兴趣；全年没空或已接受别的名额都没提到。",
+        "answer_evidence": "haven't completed the introductory course",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L467",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What does the woman imply about the prerequisite?",
+        "response_type": "choice",
+        "audio_text": "Woman: A place has opened in the glazing class. Do you still want it?\nMan: Definitely. But I haven't completed the introductory course.\nWoman: Have you worked with clay elsewhere?\nMan: At a community studio, for about a year.\nWoman: Then send the tutor a few photos and describe your experience. The introductory course is one way to show readiness, not the only way.\nMan: I'll do that today, rather than assume I have to start over.",
+        "options": [
+          "Only work made at this studio can be considered.",
+          "Photos automatically guarantee a place.",
+          "The class has no skill requirements at all.",
+          "Relevant experience may demonstrate equivalent readiness."
+        ],
+        "group_id": "listen_conversation_56",
+        "passage_title": "A pottery class waiting list"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问资格条件含义；不是唯一方式是“not the only way”\n解析：入门课只是证明准备程度的一种方式，其他陶艺经验也可交导师评估。可评估不等于照片保证获准；技能要求仍存在；外部工作室的经验并未被排除。\n下次：替代资格题检查可评估与必然获准的区别。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "推断与范围"
+        ],
+        "vocabulary": [
+          "readiness"
+        ],
+        "rationale": "入门课只是证明准备程度的一种方式，其他陶艺经验也可交导师评估。可评估不等于照片保证获准；技能要求仍存在；外部工作室的经验并未被排除。",
+        "answer_evidence": "not the only way",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L468",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why do they consult the map?",
+        "response_type": "choice",
+        "audio_text": "Man: Someone knocked down the trail marker at the fork.\nWoman: Do you remember which way the arrow pointed?\nMan: I think left, but I'm not certain.\nWoman: Let's not put it back based on a guess. I have the maintenance map on my phone.\nMan: It shows the stream route on the right.\nWoman: Good catch. We'll notify the ranger and leave a temporary direction card based on the map.\nMan: I'll make sure it's visible from the approach.",
+        "options": [
+          "The trail marker was missing from the original map.",
+          "The man's memory of the arrow is uncertain.",
+          "They want to create a new trail.",
+          "The woman has never visited the area."
+        ],
+        "group_id": "listen_conversation_57",
+        "passage_title": "A damaged trail marker"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问查图原因；记忆不确定是“I'm not certain”\n解析：不凭猜测复位；不是建新路、原图无标记或证明她初访。\n下次：导航纠错先验证不确定记忆，再作可能影响他人的指引。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "证据与行动"
+        ],
+        "vocabulary": [
+          "fork"
+        ],
+        "rationale": "问查图原因；记忆不确定是不凭猜测复位；不是建新路、原图无标记或证明她初访。",
+        "answer_evidence": "I'm not certain",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L469",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What do they learn from the map?",
+        "response_type": "choice",
+        "audio_text": "Man: Someone knocked down the trail marker at the fork.\nWoman: Do you remember which way the arrow pointed?\nMan: I think left, but I'm not certain.\nWoman: Let's not put it back based on a guess. I have the maintenance map on my phone.\nMan: It shows the stream route on the right.\nWoman: Good catch. We'll notify the ranger and leave a temporary direction card based on the map.\nMan: I'll make sure it's visible from the approach.",
+        "options": [
+          "The stream route goes to the right.",
+          "The ranger's office is beside the fork.",
+          "The stream route is permanently closed.",
+          "The marker should point left for both routes."
+        ],
+        "group_id": "listen_conversation_57",
+        "passage_title": "A damaged trail marker"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问地图信息；通溪流向右的依据是“stream route on the right”\n解析：维修地图确认通往溪流的路线在右侧，纠正了男方最初猜左的记忆。地图未说明永久封路或巡护员办公室位置，更不能把两条路线都标成向左。\n下次：方位题以核实来源为准，排除被纠正的最初猜测。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "空间与纠正"
+        ],
+        "vocabulary": [
+          "ranger"
+        ],
+        "rationale": "维修地图确认通往溪流的路线在右侧，纠正了男方最初猜左的记忆。地图未说明永久封路或巡护员办公室位置，更不能把两条路线都标成向左。",
+        "answer_evidence": "stream route on the right",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L470",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why does the woman want a warning?",
+        "response_type": "choice",
+        "audio_text": "Woman: We should warn people that our film discussion reveals the ending.\nMan: Isn't that obvious? It's a discussion of the film.\nWoman: Some students may be coming to decide whether to watch it.\nMan: Fair point. I'll add a warning to the invitation.\nWoman: And mention that the opening ten minutes are spoiler-free.\nMan: Then people can hear the background and leave before we discuss the ending.\nWoman: Yes, without accidentally learning the twist.",
+        "options": [
+          "The discussion will take place after midnight.",
+          "The ending has been changed for this screening.",
+          "Some attendees may not have seen the film.",
+          "The film contains unusually loud sound effects."
+        ],
+        "group_id": "listen_conversation_58",
+        "passage_title": "A film discussion spoiler"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问为何提醒；有人来决定是否看是“decide whether to watch it”\n解析：他们可能尚未看，需防剧透；非音效、午夜或版本改结局。\n下次：听众预期题先判断他们已有知识，再找需要提前告知的信息。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "目的与推断"
+        ],
+        "vocabulary": [
+          "ending"
+        ],
+        "rationale": "问为何提醒；有人来决定是否看是他们可能尚未看，需防剧透；非音效、午夜或版本改结局。",
+        "answer_evidence": "decide whether to watch it",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L471",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What can an attendee do to avoid learning the ending?",
+        "response_type": "choice",
+        "audio_text": "Woman: We should warn people that our film discussion reveals the ending.\nMan: Isn't that obvious? It's a discussion of the film.\nWoman: Some students may be coming to decide whether to watch it.\nMan: Fair point. I'll add a warning to the invitation.\nWoman: And mention that the opening ten minutes are spoiler-free.\nMan: Then people can hear the background and leave before we discuss the ending.\nWoman: Yes, without accidentally learning the twist.",
+        "options": [
+          "Read the invitation only after the event.",
+          "Watch only the last ten minutes of the film.",
+          "Attend the opening segment and leave afterward.",
+          "Stay for the full discussion without asking questions."
+        ],
+        "group_id": "listen_conversation_58",
+        "passage_title": "A film discussion spoiler"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问避剧透方式；开场十分钟无剧透是“opening ten minutes are spoiler-free”\n解析：可听背景后离开；全留仍会听到，不提问无用；晚读请柬、看片尾均不符。\n下次：限制内容题把安全时段与随后时段分开，再安排离场点。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "时间与条件"
+        ],
+        "vocabulary": [
+          "spoiler-free"
+        ],
+        "rationale": "问避剧透方式；开场十分钟无剧透是可听背景后离开；全留仍会听到，不提问无用；晚读请柬、看片尾均不符。",
+        "answer_evidence": "opening ten minutes are spoiler-free",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L472",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What does the woman recommend investigating first?",
+        "response_type": "choice",
+        "audio_text": "Man: The fountain is full of leaves again. We could ask for a stronger pump.\nWoman: A stronger pump won't stop leaves falling into it.\nMan: So should we cut back the tree?\nWoman: Before changing the tree or equipment, let's ask how often the filter is cleaned.\nMan: The maintenance log should tell us.\nWoman: Right. It might be a maintenance issue rather than a design problem.\nMan: I'll check the log and talk to the grounds staff.",
+        "options": [
+          "The filter-cleaning schedule.",
+          "The maximum height of the fountain's spray.",
+          "The date the campus first opened.",
+          "The cost of removing every nearby tree."
+        ],
+        "group_id": "listen_conversation_59",
+        "passage_title": "A campus fountain project"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问首查事项；滤网清洁频率是“how often the filter is cleaned”\n解析：先看滤网多久清洁一次，可以查出是否存在保养问题，再考虑改设备或树木。不是先估砍光树的费用；喷水高度和建校时间也不回答保养是否到位。\n下次：高成本改造前先看现有维护是否执行，区分检查与结论。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "排查与优先"
+        ],
+        "vocabulary": [
+          "filter"
+        ],
+        "rationale": "先看滤网多久清洁一次，可以查出是否存在保养问题，再考虑改设备或树木。不是先估砍光树的费用；喷水高度和建校时间也不回答保养是否到位。",
+        "answer_evidence": "how often the filter is cleaned",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L473",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What is the woman's attitude toward replacing equipment?",
+        "response_type": "choice",
+        "audio_text": "Man: The fountain is full of leaves again. We could ask for a stronger pump.\nWoman: A stronger pump won't stop leaves falling into it.\nMan: So should we cut back the tree?\nWoman: Before changing the tree or equipment, let's ask how often the filter is cleaned.\nMan: The maintenance log should tell us.\nWoman: Right. It might be a maintenance issue rather than a design problem.\nMan: I'll check the log and talk to the grounds staff.",
+        "options": [
+          "She refuses any future equipment changes.",
+          "She prefers a stronger pump regardless of the cause.",
+          "She thinks evidence is needed before deciding.",
+          "She is certain that every part must be replaced."
+        ],
+        "group_id": "listen_conversation_59",
+        "passage_title": "A campus fountain project"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问态度；可能是维护问题，语气是“might be a maintenance issue”\n解析：她用可能的语气提出维护问题，要求先查记录再决定是否更换。既不是坚持全部换，也不是永远拒绝改设备；无论原因都加大水泵更违背先取证的建议。\n下次：态度题注意might保留可能性，排除绝对立场。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "态度与确定性"
+        ],
+        "vocabulary": [
+          "maintenance"
+        ],
+        "rationale": "她用可能的语气提出维护问题，要求先查记录再决定是否更换。既不是坚持全部换，也不是永远拒绝改设备；无论原因都加大水泵更违背先取证的建议。",
+        "answer_evidence": "might be a maintenance issue",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L474",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What is the woman asking the man to improve?",
+        "response_type": "choice",
+        "audio_text": "Woman: When you hand over to me, could you mention my question rather than just my name?\nMan: You mean explain why your part follows mine?\nWoman: Exactly. Your data show a change. My section asks what might explain it.\nMan: So I'll end with that question, then you can discuss possible causes.\nWoman: That should make the presentation feel like one argument, not two separate talks.\nMan: Let's practice the last sentence of mine and the first of yours together.",
+        "options": [
+          "The pronunciation of her last name.",
+          "The order of the audience's questions.",
+          "The number of graphs in his section.",
+          "The logical transition between their sections."
+        ],
+        "group_id": "listen_conversation_60",
+        "passage_title": "A tandem presentation"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问要求改善什么；解释后一部分为何衔接是“why your part follows mine”\n解析：女方希望交接时点出下一节要回答的问题，使两部分连成同一论证。提到名字是与只报姓名作对比，不是抱怨发音；图数和观众提问顺序未被讨论。\n下次：交接请求题找内容关系，不把提到姓名误当姓名问题。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "篇章衔接"
+        ],
+        "vocabulary": [
+          "follows"
+        ],
+        "rationale": "女方希望交接时点出下一节要回答的问题，使两部分连成同一论证。提到名字是与只报姓名作对比，不是抱怨发音；图数和观众提问顺序未被讨论。",
+        "answer_evidence": "why your part follows mine",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L475",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "How will their sections connect?",
+        "response_type": "choice",
+        "audio_text": "Woman: When you hand over to me, could you mention my question rather than just my name?\nMan: You mean explain why your part follows mine?\nWoman: Exactly. Your data show a change. My section asks what might explain it.\nMan: So I'll end with that question, then you can discuss possible causes.\nWoman: That should make the presentation feel like one argument, not two separate talks.\nMan: Let's practice the last sentence of mine and the first of yours together.",
+        "options": [
+          "They will present opposing definitions without explanation.",
+          "His question period will occur after her conclusion.",
+          "His observed change will lead to her discussion of causes.",
+          "Her conclusions will replace his data."
+        ],
+        "group_id": "listen_conversation_60",
+        "passage_title": "A tandem presentation"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问衔接逻辑；什么能解释变化是“what might explain it”\n解析：前一部分的数据展示变化，后一部分讨论可能原因，形成现象到解释的关系。不是删掉数据或并列无关联定义；所谈交接也不是观众问答环节。\n下次：论述顺序题标出现象与解释，检查后一段回答前一段留下的问题。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "逻辑关系"
+        ],
+        "vocabulary": [
+          "causes"
+        ],
+        "rationale": "前一部分的数据展示变化，后一部分讨论可能原因，形成现象到解释的关系。不是删掉数据或并列无关联定义；所谈交接也不是观众问答环节。",
+        "answer_evidence": "what might explain it",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L476",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What does the woman clarify about the repair café?",
+        "response_type": "choice",
+        "audio_text": "Man: Can I leave this broken toaster for your repair café to fix and sell?\nWoman: We help owners repair their own things, but we don't accept donated appliances.\nMan: Oh, I thought you collected them.\nWoman: If you'd like to work on it with a volunteer, book a session and bring it along.\nMan: I would. I want to understand why it stopped working.\nWoman: Just don't plug it in before the volunteer checks it.",
+        "options": [
+          "It sells tools but provides no repair assistance.",
+          "It buys all broken appliances at a fixed price.",
+          "It assists owners rather than collecting items for resale.",
+          "It only repairs items that are still under warranty."
+        ],
+        "group_id": "listen_conversation_61",
+        "passage_title": "A repair café donation"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问服务性质；帮助物主修自己的物品是“repair their own things”\n解析：不是收购转卖；无保修限定，也非只卖工具。\n下次：服务澄清题辨协助自修与代收转售，别因同涉及修理而混同。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "服务与范围"
+        ],
+        "vocabulary": [
+          "appliances"
+        ],
+        "rationale": "问服务性质；帮助物主修自己的物品是不是收购转卖；无保修限定，也非只卖工具。",
+        "answer_evidence": "repair their own things",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L477",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What should the man do before using the toaster there?",
+        "response_type": "choice",
+        "audio_text": "Man: Can I leave this broken toaster for your repair café to fix and sell?\nWoman: We help owners repair their own things, but we don't accept donated appliances.\nMan: Oh, I thought you collected them.\nWoman: If you'd like to work on it with a volunteer, book a session and bring it along.\nMan: I would. I want to understand why it stopped working.\nWoman: Just don't plug it in before the volunteer checks it.",
+        "options": [
+          "Pay for a replacement toaster.",
+          "Remove its label and donate it.",
+          "Let a volunteer inspect it.",
+          "Try it in several different outlets."
+        ],
+        "group_id": "listen_conversation_61",
+        "passage_title": "A repair café donation"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问通电前要求；先由志愿者检查，依据是“before the volunteer checks it”\n解析：未检查不要插电；不换插座试、不移标签捐赠、不先买新机。\n下次：安全顺序题把禁止动作与解除前提配对。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "程序与安全"
+        ],
+        "vocabulary": [
+          "plug"
+        ],
+        "rationale": "问通电前要求；先由志愿者检查，依据是未检查不要插电；不换插座试、不移标签捐赠、不先买新机。",
+        "answer_evidence": "before the volunteer checks it",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L478",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What possible explanation does the man suggest?",
+        "response_type": "choice",
+        "audio_text": "Woman: The seedlings by the door are much shorter than the others.\nMan: Were they from the same seed packet?\nWoman: Yes, and I watered them equally.\nMan: The door opens all day. They may be exposed to cooler air.\nWoman: Should we conclude that cold slows their growth?\nMan: Not yet. Move similar plants to different positions and record the temperature. We need to separate that possibility from other differences.\nWoman: I'll label the trays before moving them.",
+        "options": [
+          "The seed packet contained no viable seeds.",
+          "The plants near the door experience cooler air.",
+          "The shorter plants received twice as much water.",
+          "The woman used a different type of seed there."
+        ],
+        "group_id": "listen_conversation_62",
+        "passage_title": "An experiment in the greenhouse"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问可能原因；靠门受冷空气，依据是“exposed to cooler air”\n解析：同一包种子、同样浇水已排除题面给出的两种差异；靠门反复受冷空气成为待检验因素。没有双倍水量；已长出幼苗，也不能说种子全都无法发芽。\n下次：假设题把已控制条件划掉，找仍可能变化的因素。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "变量与推断"
+        ],
+        "vocabulary": [
+          "seedlings"
+        ],
+        "rationale": "同一包种子、同样浇水已排除题面给出的两种差异；靠门反复受冷空气成为待检验因素。没有双倍水量；已长出幼苗，也不能说种子全都无法发芽。",
+        "answer_evidence": "exposed to cooler air",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L479",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why does he resist drawing a conclusion immediately?",
+        "response_type": "choice",
+        "audio_text": "Woman: The seedlings by the door are much shorter than the others.\nMan: Were they from the same seed packet?\nWoman: Yes, and I watered them equally.\nMan: The door opens all day. They may be exposed to cooler air.\nWoman: Should we conclude that cold slows their growth?\nMan: Not yet. Move similar plants to different positions and record the temperature. We need to separate that possibility from other differences.\nWoman: I'll label the trays before moving them.",
+        "options": [
+          "He believes observations are never useful.",
+          "The temperature explanation has not yet been tested.",
+          "The seedlings cannot be measured accurately at all.",
+          "The class is not allowed to move plants."
+        ],
+        "group_id": "listen_conversation_62",
+        "passage_title": "An experiment in the greenhouse"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问为何暂不定论；还没到下结论时是“Not yet”\n解析：移换相似植物的位置并记录温度，才能检验冷空气解释，而现在只是合理猜测。并非无法测量或不许移动；观察有用，只是还不足以证明因果。\n下次：科学推断区分解释假设与验证结论，检查还需什么证据。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "证据与确定性"
+        ],
+        "vocabulary": [
+          "temperature"
+        ],
+        "rationale": "移换相似植物的位置并记录温度，才能检验冷空气解释，而现在只是合理猜测。并非无法测量或不许移动；观察有用，只是还不足以证明因果。",
+        "answer_evidence": "Not yet",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L480",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What may be contributing to the stiff expression?",
+        "response_type": "choice",
+        "audio_text": "Man: My portrait subject keeps looking stiff.\nWoman: Are you giving instructions while you're taking the picture?\nMan: Constantly. I want his shoulders at exactly the right angle.\nWoman: Try adjusting the pose, then put the camera down and talk for a moment.\nMan: Won't I lose the pose?\nWoman: A slight change may be worth a more natural expression. Take several frames when you pick the camera up again.\nMan: I'll stop correcting every little movement.",
+        "options": [
+          "A lack of space for the subject to stand.",
+          "A broken camera shutter.",
+          "The photographer's constant corrections.",
+          "An inability to take more than one picture."
+        ],
+        "group_id": "listen_conversation_63",
+        "passage_title": "A studio portrait"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问僵硬表情可能原因；不断发指令是“Constantly”\n解析：一直纠动作使人不自然；未说快门坏、无站位或只能拍一张。\n下次：人物表现题把交流方式与反应相连，别凭摄影器材联想故障。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "原因推断"
+        ],
+        "vocabulary": [
+          "stiff"
+        ],
+        "rationale": "问僵硬表情可能原因；不断发指令是一直纠动作使人不自然；未说快门坏、无站位或只能拍一张。",
+        "answer_evidence": "Constantly",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L481",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What trade-off does the woman suggest?",
+        "response_type": "choice",
+        "audio_text": "Man: My portrait subject keeps looking stiff.\nWoman: Are you giving instructions while you're taking the picture?\nMan: Constantly. I want his shoulders at exactly the right angle.\nWoman: Try adjusting the pose, then put the camera down and talk for a moment.\nMan: Won't I lose the pose?\nWoman: A slight change may be worth a more natural expression. Take several frames when you pick the camera up again.\nMan: I'll stop correcting every little movement.",
+        "options": [
+          "Use a darker image to reduce the number of frames.",
+          "Replace the subject with a professional model.",
+          "Accept a less exact pose for a more natural expression.",
+          "Avoid speaking to the subject at any time."
+        ],
+        "group_id": "listen_conversation_63",
+        "passage_title": "A studio portrait"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问取舍；换更自然神态值得的线索是“worth a more natural expression”\n解析：女方愿意接受姿势稍微变化，以换取更自然的表情，这才是取舍两端。没有要求照片变暗或换专业模特；她还建议聊天，与完全不说话相反。\n下次：取舍题写出牺牲与所得，检查两者来自同一建议。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "权衡与态度"
+        ],
+        "vocabulary": [
+          "pose"
+        ],
+        "rationale": "女方愿意接受姿势稍微变化，以换取更自然的表情，这才是取舍两端。没有要求照片变暗或换专业模特；她还建议聊天，与完全不说话相反。",
+        "answer_evidence": "worth a more natural expression",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L482",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What does the woman want the newspaper to do?",
+        "response_type": "choice",
+        "audio_text": "Woman: The student newspaper says our cleanup collected forty bags. It was fourteen.\nMan: That's quite a difference. Should we ask them to remove the article?\nWoman: The rest is accurate. A correction to the number would be enough.\nMan: I'll send the reporter our count sheet and ask for an update.\nWoman: Please make sure the photo caption changes too. It repeats the same number.\nMan: Good point. I'll mention both places.",
+        "options": [
+          "Increase the count to match the headline's length.",
+          "Remove every photograph of the cleanup.",
+          "Correct the count while keeping the accurate article.",
+          "Replace the cleanup story with an unrelated article."
+        ],
+        "group_id": "listen_conversation_64",
+        "passage_title": "A newspaper correction"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问修改范围；只纠数量即可，依据是“A correction to the number”\n解析：其余准确，无需撤整文；非删所有图、换无关文或调数配标题。\n下次：事实修正题区分局部错误与整体失真，按最小必要范围改。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "范围与纠正"
+        ],
+        "vocabulary": [
+          "fourteen"
+        ],
+        "rationale": "问修改范围；只纠数量即可，依据是其余准确，无需撤整文；非删所有图、换无关文或调数配标题。",
+        "answer_evidence": "A correction to the number",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L483",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why does she mention the photo caption?",
+        "response_type": "choice",
+        "audio_text": "Woman: The student newspaper says our cleanup collected forty bags. It was fourteen.\nMan: That's quite a difference. Should we ask them to remove the article?\nWoman: The rest is accurate. A correction to the number would be enough.\nMan: I'll send the reporter our count sheet and ask for an update.\nWoman: Please make sure the photo caption changes too. It repeats the same number.\nMan: Good point. I'll mention both places.",
+        "options": [
+          "It describes a different cleanup site.",
+          "It has already been corrected by the editor.",
+          "It names the wrong photographer.",
+          "It contains the same numerical error."
+        ],
+        "group_id": "listen_conversation_64",
+        "passage_title": "A newspaper correction"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问提图注原因；重复错数，证据是“repeats the same number”\n解析：两处都需改；无摄影师、地点错或已改说明。\n下次：重复信息题追踪错误传播位置，检查所有相关呈现同步更正。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "目的与信息一致"
+        ],
+        "vocabulary": [
+          "caption"
+        ],
+        "rationale": "问提图注原因；重复错数，证据是两处都需改；无摄影师、地点错或已改说明。",
+        "answer_evidence": "repeats the same number",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L484",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What was reducing the fan's effectiveness?",
+        "response_type": "choice",
+        "audio_text": "Man: The fan in my room runs, but it doesn't seem to move much air.\nWoman: Has the window been opened? The screen sometimes blocks it if it's pushed against the fan.\nMan: You're right, the screen is touching it.\nWoman: Move the fan back a little and keep the screen in place so insects stay out.\nMan: That's better already. I was about to ask for a different fan.\nWoman: Let us know if the problem returns.",
+        "options": [
+          "The room had no electrical outlet.",
+          "The fan was switched off.",
+          "The window screen was pressed against it.",
+          "The window had been removed for repair."
+        ],
+        "group_id": "listen_conversation_65",
+        "passage_title": "A guest room fan"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问风弱原因；纱窗贴住风扇是“screen is touching it”\n解析：位置阻碍通风；有在运转，所以非无电或关闭；没拆窗。\n下次：故障题分运转状态与输出效果，找实际阻挡物。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "原因与细节"
+        ],
+        "vocabulary": [
+          "screen"
+        ],
+        "rationale": "问风弱原因；纱窗贴住风扇是位置阻碍通风；有在运转，所以非无电或关闭；没拆窗。",
+        "answer_evidence": "screen is touching it",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L485",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What does the woman advise?",
+        "response_type": "choice",
+        "audio_text": "Man: The fan in my room runs, but it doesn't seem to move much air.\nWoman: Has the window been opened? The screen sometimes blocks it if it's pushed against the fan.\nMan: You're right, the screen is touching it.\nWoman: Move the fan back a little and keep the screen in place so insects stay out.\nMan: That's better already. I was about to ask for a different fan.\nWoman: Let us know if the problem returns.",
+        "options": [
+          "Move the fan while keeping the insect screen.",
+          "Replace the fan immediately.",
+          "Remove the screen permanently.",
+          "Keep the window closed throughout the stay."
+        ],
+        "group_id": "listen_conversation_65",
+        "passage_title": "A guest room fan"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问建议；纱窗保留的要求是“keep the screen in place”\n解析：挪风扇兼顾风量和挡虫；不拆纱窗、不立换、不全程关窗。\n下次：双目标解决题检查改善功能同时保留原有保护。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "方案与约束"
+        ],
+        "vocabulary": [
+          "insects"
+        ],
+        "rationale": "问建议；纱窗保留的要求是挪风扇兼顾风量和挡虫；不拆纱窗、不立换、不全程关窗。",
+        "answer_evidence": "keep the screen in place",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L486",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What problem are they addressing?",
+        "response_type": "choice",
+        "audio_text": "Woman: The captions cover the map just when I point to the entrance.\nMan: Could we move them to the top for that section?\nWoman: Yes, but let's check that they don't hide the building names there.\nMan: Another option is to pause on a clean map after you finish speaking.\nWoman: I prefer that. Viewers could read the captions, then study the route without anything covering it.\nMan: I'll add three seconds and test whether that's enough.",
+        "options": [
+          "The entrance names are pronounced incorrectly.",
+          "The video contains no spoken directions.",
+          "Captions obscure important visual information.",
+          "The map shows a building that has been demolished."
+        ],
+        "group_id": "listen_conversation_66",
+        "passage_title": "A captioned campus video"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问字幕造成什么问题；cover指遮住，线索是“cover the map”\n解析：字幕挡住正在指出的入口，妨碍同时读图。原片有口头介绍，才会需要字幕；没有建筑被拆的证据；讨论的是文字摆位，不是入口名发音错误。\n下次：多媒体题先分听觉、文字和图像通道，再确定哪两者冲突。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "问题与信息整合"
+        ],
+        "vocabulary": [
+          "captions"
+        ],
+        "rationale": "问字幕造成什么问题；cover指遮住，线索是字幕挡住正在指出的入口，妨碍同时读图。原片有口头介绍，才会需要字幕；没有建筑被拆的证据；讨论的是文字摆位，不是入口名发音错误。",
+        "answer_evidence": "cover the map",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L487",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Which solution does the woman prefer?",
+        "response_type": "choice",
+        "audio_text": "Woman: The captions cover the map just when I point to the entrance.\nMan: Could we move them to the top for that section?\nWoman: Yes, but let's check that they don't hide the building names there.\nMan: Another option is to pause on a clean map after you finish speaking.\nWoman: I prefer that. Viewers could read the captions, then study the route without anything covering it.\nMan: I'll add three seconds and test whether that's enough.",
+        "options": [
+          "Speed up the spoken directions to shorten the clip.",
+          "Move every caption permanently to the top.",
+          "Remove all captions from the entire video.",
+          "Hold a clear map on screen after the speech."
+        ],
+        "group_id": "listen_conversation_66",
+        "passage_title": "A captioned campus video"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问最终选择；在清楚地图上暂停的线索是“pause on a clean map”\n解析：先读字幕再看无遮挡地图，将两种信息错开。上移字幕只是较早备选，未被选定；删全片字幕会失去文字信息；加快语速也不能解决地图被盖住。\n下次：方案选择题跟踪提出、质疑、接受三步，别把第一方案当最终方案。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "决定与比较"
+        ],
+        "vocabulary": [
+          "route"
+        ],
+        "rationale": "问最终选择；在清楚地图上暂停的线索是先读字幕再看无遮挡地图，将两种信息错开。上移字幕只是较早备选，未被选定；删全片字幕会失去文字信息；加快语速也不能解决地图被盖住。",
+        "answer_evidence": "pause on a clean map",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L488",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What does the woman clarify about returning seeds?",
+        "response_type": "choice",
+        "audio_text": "Man: I borrowed bean seeds last spring. Do I have to return the same number?\nWoman: We hope people save seeds from their plants, but a failed crop doesn't create a debt.\nMan: Mine flowered, but the pods never developed properly.\nWoman: Then tell us what happened. Notes about growing conditions can be useful too.\nMan: I kept a record of the unusually hot weeks.\nWoman: Bring that. It may help us advise the next person.",
+        "options": [
+          "An unsuccessful crop does not require repayment.",
+          "The library sells replacement seeds to settle debts.",
+          "Everyone must return twice the borrowed number.",
+          "Only people who grew flowers can return seeds."
+        ],
+        "group_id": "listen_conversation_67",
+        "passage_title": "A seed library return"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问种子归还规则；不会形成欠债是“doesn't create a debt”\n解析：希望留种不等于歉收也必须偿还。双倍返还是凭空加数量；开花不构成归还资格限制；这里明确否定债务，也没要求购买种子还债。\n下次：志愿性期待与强制义务要分开，检查失败时是否有例外。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "规则与范围"
+        ],
+        "vocabulary": [
+          "crop"
+        ],
+        "rationale": "问种子归还规则；不会形成欠债是希望留种不等于歉收也必须偿还。双倍返还是凭空加数量；开花不构成归还资格限制；这里明确否定债务，也没要求购买种子还债。",
+        "answer_evidence": "doesn't create a debt",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L489",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why are the man's weather notes useful?",
+        "response_type": "choice",
+        "audio_text": "Man: I borrowed bean seeds last spring. Do I have to return the same number?\nWoman: We hope people save seeds from their plants, but a failed crop doesn't create a debt.\nMan: Mine flowered, but the pods never developed properly.\nWoman: Then tell us what happened. Notes about growing conditions can be useful too.\nMan: I kept a record of the unusually hot weeks.\nWoman: Bring that. It may help us advise the next person.",
+        "options": [
+          "They may help explain difficulties to future growers.",
+          "They replace the need to label any future seeds.",
+          "They establish the exact amount of money he owes.",
+          "They prove that every bean variety fails in summer."
+        ],
+        "group_id": "listen_conversation_67",
+        "passage_title": "A seed library return"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问记录价值；能给下一位建议是“advise the next person”\n解析：高温周的记录提供栽培背景，可能帮助解释失败，而非证明所有品种夏季都失败。天气记录不替代品种标签；既不欠债，也不需要用它计算金额。\n下次：经验记录题用背景支持可能解释，别把一次经历扩大成普遍定律。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "目的与证据"
+        ],
+        "vocabulary": [
+          "pods"
+        ],
+        "rationale": "问记录价值；能给下一位建议是高温周的记录提供栽培背景，可能帮助解释失败，而非证明所有品种夏季都失败。天气记录不替代品种标签；既不欠债，也不需要用它计算金额。",
+        "answer_evidence": "advise the next person",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L490",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What can the man offer immediately?",
+        "response_type": "choice",
+        "audio_text": "Woman: I bought a ticket for the evening talk, but I've selected tomorrow instead of today.\nMan: Today's event has a waiting list. I can add your name, but I can't promise a seat.\nWoman: Would I lose tomorrow's ticket by joining the list?\nMan: No. Keep it until we confirm a place for tonight. Then we'll exchange it.\nWoman: Good. Please put me down, and I'll wait for your message.",
+        "options": [
+          "A guaranteed seat at today's event.",
+          "A refund plus free admission tomorrow.",
+          "A place on the waiting list for today's talk.",
+          "A private repeat of the talk."
+        ],
+        "group_id": "listen_conversation_68",
+        "passage_title": "A ticket for the wrong date"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问目前能提供什么；不能保证座位是“can't promise a seat”\n解析：他只可加候补名单，不能把候补说成确认入场。无退款加免票承诺，也没有私人重讲安排；后两项都超出了售票员实际提供的选择。\n下次：候补题区分申请状态与确认状态，检查承诺强度。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "承诺与限制"
+        ],
+        "vocabulary": [
+          "waiting list"
+        ],
+        "rationale": "问目前能提供什么；不能保证座位是他只可加候补名单，不能把候补说成确认入场。无退款加免票承诺，也没有私人重讲安排；后两项都超出了售票员实际提供的选择。",
+        "answer_evidence": "can't promise a seat",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L491",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "When will tomorrow's ticket be exchanged?",
+        "response_type": "choice",
+        "audio_text": "Woman: I bought a ticket for the evening talk, but I've selected tomorrow instead of today.\nMan: Today's event has a waiting list. I can add your name, but I can't promise a seat.\nWoman: Would I lose tomorrow's ticket by joining the list?\nMan: No. Keep it until we confirm a place for tonight. Then we'll exchange it.\nWoman: Good. Please put me down, and I'll wait for your message.",
+        "options": [
+          "Before the man checks whether there are vacancies.",
+          "As soon as the woman's name enters the waiting list.",
+          "After a place for tonight is confirmed.",
+          "Only after she attends both events."
+        ],
+        "group_id": "listen_conversation_68",
+        "passage_title": "A ticket for the wrong date"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问换票条件；须等确认有位，依据是“until we confirm a place”\n解析：保留明日票作为保障，今晚确认后才换。入候补不等于确认；不必两场都参加；先换后查空位会违背保留原票的安排。\n下次：有条件变更题画清触发点，避免把申请动作当生效条件。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "条件与时间"
+        ],
+        "vocabulary": [
+          "exchange"
+        ],
+        "rationale": "问换票条件；须等确认有位，依据是保留明日票作为保障，今晚确认后才换。入候补不等于确认；不必两场都参加；先换后查空位会违背保留原票的安排。",
+        "answer_evidence": "until we confirm a place",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L492",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What issue does the woman identify?",
+        "response_type": "choice",
+        "audio_text": "Man: My observation journal is mostly a list of what happened.\nWoman: That's a start. Can you separate what you saw from what you think it means?\nMan: For example, I wrote that the child was bored because she looked out of the window.\nWoman: Looking out is observable. Boredom is one interpretation. She might have heard something outside.\nMan: I'll put observations in one column and possible explanations in another.\nWoman: And use more than one explanation when the evidence allows it.",
+        "options": [
+          "An interpretation has been written as though it were directly observed.",
+          "The journal contains too many alternative explanations.",
+          "The child was certainly listening to an outdoor announcement.",
+          "The man failed to record any visible behavior."
+        ],
+        "group_id": "listen_conversation_69",
+        "passage_title": "A class observation journal"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问记录问题；无聊只是一个解释，依据是“one interpretation”\n解析：看窗外可观察，无聊是推断，两者需分栏。已记下可见动作，非完全没观察；他尚未列多种解释；听外声也只是可能，不是已证实事实。\n下次：人物行为题分可见动作与心理归因，检查有没有其他合理解释。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "事实与推断"
+        ],
+        "vocabulary": [
+          "observable"
+        ],
+        "rationale": "问记录问题；无聊只是一个解释，依据是看窗外可观察，无聊是推断，两者需分栏。已记下可见动作，非完全没观察；他尚未列多种解释；听外声也只是可能，不是已证实事实。",
+        "answer_evidence": "one interpretation",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L493",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "How will the man revise the journal?",
+        "response_type": "choice",
+        "audio_text": "Man: My observation journal is mostly a list of what happened.\nWoman: That's a start. Can you separate what you saw from what you think it means?\nMan: For example, I wrote that the child was bored because she looked out of the window.\nWoman: Looking out is observable. Boredom is one interpretation. She might have heard something outside.\nMan: I'll put observations in one column and possible explanations in another.\nWoman: And use more than one explanation when the evidence allows it.",
+        "options": [
+          "Use separate columns for observations and possible meanings.",
+          "Remove all observations of children's behavior.",
+          "Replace every interpretation with the woman's preferred one.",
+          "Record only events that prove children were bored."
+        ],
+        "group_id": "listen_conversation_69",
+        "passage_title": "A class observation journal"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问修订方式；两栏分别记观察和解释，线索是“one column and possible explanations in another”\n解析：分栏保留原始事实与待验证解读。删除所有行为失去资料；并非照搬女方唯一解释，她还鼓励多个可能；只记能证实无聊的事件会倒果为因。\n下次：修改观察记录先保留事实，再把解释标为可能并检验替代解释。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "方法与证据"
+        ],
+        "vocabulary": [
+          "journal"
+        ],
+        "rationale": "问修订方式；两栏分别记观察和解释，线索是分栏保留原始事实与待验证解读。删除所有行为失去资料；并非照搬女方唯一解释，她还鼓励多个可能；只记能证实无聊的事件会倒果为因。",
+        "answer_evidence": "one column and possible explanations in another",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L494",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why are the people blurred despite the tripod?",
+        "response_type": "choice",
+        "audio_text": "Woman: The buildings are sharp, but the people are blurred.\nMan: How long was the exposure?\nWoman: Two seconds. I used a tripod, so I thought everything would be sharp.\nMan: The tripod keeps the camera still, not the people. For moving subjects, you need a shorter exposure.\nWoman: Or I could keep the blur if I want the square to look busy.\nMan: Exactly. It depends on what you're trying to show.",
+        "options": [
+          "They moved while the camera remained steady.",
+          "The lens focused only after the people left.",
+          "The photograph was taken without any exposure.",
+          "The tripod changed the buildings' positions."
+        ],
+        "group_id": "listen_conversation_70",
+        "passage_title": "A long exposure photograph"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问三脚架下人仍模糊的原因；固定不了人是“not the people”\n解析：两秒中人可移动，支架只防相机动。建筑位置未改变；未说人走后才对焦；照片本就有两秒曝光，不是无曝光。\n下次：成像问题区分相机运动与主体运动，再看工具控制哪一种。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "因果与区分"
+        ],
+        "vocabulary": [
+          "tripod"
+        ],
+        "rationale": "问三脚架下人仍模糊的原因；固定不了人是两秒中人可移动，支架只防相机动。建筑位置未改变；未说人走后才对焦；照片本就有两秒曝光，不是无曝光。",
+        "answer_evidence": "not the people",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L495",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What does the man imply about the blur?",
+        "response_type": "choice",
+        "audio_text": "Woman: The buildings are sharp, but the people are blurred.\nMan: How long was the exposure?\nWoman: Two seconds. I used a tripod, so I thought everything would be sharp.\nMan: The tripod keeps the camera still, not the people. For moving subjects, you need a shorter exposure.\nWoman: Or I could keep the blur if I want the square to look busy.\nMan: Exactly. It depends on what you're trying to show.",
+        "options": [
+          "It can only be fixed by buying a larger tripod.",
+          "It must be removed from every successful photograph.",
+          "It can be useful if it serves the intended effect.",
+          "It proves that the camera needs repair."
+        ],
+        "group_id": "listen_conversation_70",
+        "passage_title": "A long exposure photograph"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问对模糊的看法；取决于要表达什么，依据是“what you're trying to show”\n解析：若想表现广场忙碌，动态模糊可保留。不是好照片必须全清晰；无器材坏的证据；大支架同样不能阻止行人走动。\n下次：效果评价题先确认创作目标，再判断缺陷是否也能是表达手段。"
+      },
+      "review": {
+        "difficulty": "hard",
+        "skills": [
+          "态度与目的"
+        ],
+        "vocabulary": [
+          "exposure"
+        ],
+        "rationale": "问对模糊的看法；取决于要表达什么，依据是若想表现广场忙碌，动态模糊可保留。不是好照片必须全清晰；无器材坏的证据；大支架同样不能阻止行人走动。",
+        "answer_evidence": "what you're trying to show",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L496",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What did the man misunderstand?",
+        "response_type": "choice",
+        "audio_text": "Man: The library computer logged me out while I was filling in a form.\nWoman: The sessions end after an hour. Did you see the five-minute warning?\nMan: I saw it, but I thought it meant the whole library was closing.\nWoman: No, just your session. Next time you can request an extension before it ends if nobody is waiting.\nMan: I'll save my draft separately as well.\nWoman: Good idea. The form may not save it automatically.",
+        "options": [
+          "The form was meant to be completed on paper only.",
+          "The warning guaranteed that his draft was saved.",
+          "The warning referred to his computer session, not library closing.",
+          "The library computers could not connect to the internet."
+        ],
+        "group_id": "listen_conversation_71",
+        "passage_title": "A public computer session"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问误解；只关本次电脑使用时段是“just your session”\n解析：他把会话结束当闭馆。没有只能纸填或不能联网规定；警告也不等于自动保存，末尾还提醒可能不存。\n下次：服务提示题核对通知影响范围，别由个别会话扩大到整馆。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "范围与纠正"
+        ],
+        "vocabulary": [
+          "logged"
+        ],
+        "rationale": "问误解；只关本次电脑使用时段是他把会话结束当闭馆。没有只能纸填或不能联网规定；警告也不等于自动保存，末尾还提醒可能不存。",
+        "answer_evidence": "just your session",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L497",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Under what condition can he request more computer time?",
+        "response_type": "choice",
+        "audio_text": "Man: The library computer logged me out while I was filling in a form.\nWoman: The sessions end after an hour. Did you see the five-minute warning?\nMan: I saw it, but I thought it meant the whole library was closing.\nWoman: No, just your session. Next time you can request an extension before it ends if nobody is waiting.\nMan: I'll save my draft separately as well.\nWoman: Good idea. The form may not save it automatically.",
+        "options": [
+          "Before the session ends, if no one is waiting.",
+          "Whenever his form contains more than one page.",
+          "Only when the library closes for the day.",
+          "After logging out, regardless of the queue."
+        ],
+        "group_id": "listen_conversation_71",
+        "passage_title": "A public computer session"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问延时条件；无人排队是“if nobody is waiting”\n解析：结束前申请且无人等待，两点须同时满足。不是退出后无条件加时；闭馆或表格页数都不是规则给出的资格。\n下次：复合条件题同时核对申请时点与资源是否有人等。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "条件整合"
+        ],
+        "vocabulary": [
+          "extension"
+        ],
+        "rationale": "问延时条件；无人排队是结束前申请且无人等待，两点须同时满足。不是退出后无条件加时；闭馆或表格页数都不是规则给出的资格。",
+        "answer_evidence": "if nobody is waiting",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L498",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why do they reject open bowls?",
+        "response_type": "choice",
+        "audio_text": "Woman: We want visitors to smell the herbs used in historical kitchens.\nMan: Open bowls would let the scent spread through the whole gallery.\nWoman: That might bother people who are sensitive to smells.\nMan: What about sealed jars visitors can choose to open?\nWoman: Better. We'll label each jar and keep the rest of the room scent-free.\nMan: And place a clear notice before the station, so people can decide whether to approach.\nWoman: I'll include that in the design.",
+        "options": [
+          "Visitors could not easily avoid the spreading scents.",
+          "Open bowls would hide the names of the herbs.",
+          "The herbs cannot survive in any container.",
+          "The gallery prohibits all historical kitchen displays."
+        ],
+        "group_id": "listen_conversation_72",
+        "passage_title": "A museum scent display"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问弃用敞口碗原因；气味会漫全厅是“spread through the whole gallery”\n解析：敏感者无法选择避开。并非植物不能放容器；仍要做历史厨房展示；名字可以贴标签，问题并不在名称被遮住。\n下次：体验设计题检查参与是否自愿，区分局部互动与全场暴露。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "原因与约束"
+        ],
+        "vocabulary": [
+          "sensitive"
+        ],
+        "rationale": "问弃用敞口碗原因；气味会漫全厅是敏感者无法选择避开。并非植物不能放容器；仍要做历史厨房展示；名字可以贴标签，问题并不在名称被遮住。",
+        "answer_evidence": "spread through the whole gallery",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L499",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What is the purpose of the notice before the station?",
+        "response_type": "choice",
+        "audio_text": "Woman: We want visitors to smell the herbs used in historical kitchens.\nMan: Open bowls would let the scent spread through the whole gallery.\nWoman: That might bother people who are sensitive to smells.\nMan: What about sealed jars visitors can choose to open?\nWoman: Better. We'll label each jar and keep the rest of the room scent-free.\nMan: And place a clear notice before the station, so people can decide whether to approach.\nWoman: I'll include that in the design.",
+        "options": [
+          "To let visitors decide whether to approach.",
+          "To require every visitor to open all the jars.",
+          "To explain that all gallery rooms contain scents.",
+          "To advertise herbs for sale."
+        ],
+        "group_id": "listen_conversation_72",
+        "passage_title": "A museum scent display"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 0,
+        "explanation": "读懂：问提前标识用途；决定是否靠近是“decide whether to approach”\n解析：先知道有气味，再自主选择。不是强制闻全罐、卖草药；其余房间刻意无味，不能说全馆有味。\n下次：提示位置题看它是否让人行动前知情，排除与选择权相反的要求。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "目的与范围"
+        ],
+        "vocabulary": [
+          "sealed"
+        ],
+        "rationale": "问提前标识用途；决定是否靠近是先知道有气味，再自主选择。不是强制闻全罐、卖草药；其余房间刻意无味，不能说全馆有味。",
+        "answer_evidence": "decide whether to approach",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L500",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What error does the woman correct?",
+        "response_type": "choice",
+        "audio_text": "Man: The forecast says a sixty percent chance of rain. Should I say it will rain for sixty percent of the day?\nWoman: No, that's not what the probability means. Use the wording from the weather service.\nMan: So just say there's a sixty percent chance of rain this afternoon?\nWoman: Yes, and mention the period it applies to. Don't turn a chance into a duration.\nMan: I'll check the afternoon forecast again before we go on air.",
+        "options": [
+          "Confusing afternoon temperatures with morning temperatures.",
+          "Treating rain probability as the proportion of time it will rain.",
+          "Assuming that every forecast must contain a percentage.",
+          "Reporting a forecast for another town."
+        ],
+        "group_id": "listen_conversation_73",
+        "passage_title": "A student radio forecast"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问错误类型；把可能性当持续时长是“a chance into a duration”\n解析：六成机会不等于下午六成时间下雨。无温度、地点混淆，也未规定所有预报都须百分比；她强调保留原概率意义与时段。\n下次：百分比题先确定分母与含义，不把概率换成时间占比。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "数字与概念"
+        ],
+        "vocabulary": [
+          "probability"
+        ],
+        "rationale": "问错误类型；把可能性当持续时长是六成机会不等于下午六成时间下雨。无温度、地点混淆，也未规定所有预报都须百分比；她强调保留原概率意义与时段。",
+        "answer_evidence": "a chance into a duration",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L501",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What will the man do before broadcasting?",
+        "response_type": "choice",
+        "audio_text": "Man: The forecast says a sixty percent chance of rain. Should I say it will rain for sixty percent of the day?\nWoman: No, that's not what the probability means. Use the wording from the weather service.\nMan: So just say there's a sixty percent chance of rain this afternoon?\nWoman: Yes, and mention the period it applies to. Don't turn a chance into a duration.\nMan: I'll check the afternoon forecast again before we go on air.",
+        "options": [
+          "Replace the percentage with a guaranteed prediction.",
+          "Recheck the forecast for the relevant afternoon.",
+          "Omit the period to make the report shorter.",
+          "Read yesterday's forecast without updating it."
+        ],
+        "group_id": "listen_conversation_73",
+        "passage_title": "A student radio forecast"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 1,
+        "explanation": "读懂：问播出前动作；再查下午预报是“check the afternoon forecast again”\n解析：他将复核对应时段。改成保证必下会抹去不确定性；删时段违背明确提醒；昨日报也不等于当前下午预报。\n下次：发布前核实题把时间范围、版本与确定程度一起检查。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "行动与信息核实"
+        ],
+        "vocabulary": [
+          "forecast"
+        ],
+        "rationale": "问播出前动作；再查下午预报是他将复核对应时段。改成保证必下会抹去不确定性；删时段违背明确提醒；昨日报也不等于当前下午预报。",
+        "answer_evidence": "check the afternoon forecast again",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L502",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What will they try first?",
+        "response_type": "choice",
+        "audio_text": "Woman: The machine keeps bunching thread underneath the fabric.\nMan: Did you change the needle or rethread it since the last user?\nWoman: I changed the needle but left the thread as it was.\nMan: Let's rethread it following the diagram before adjusting the tension.\nWoman: I was about to turn all those dials.\nMan: If we change everything at once, we won't know what helped.\nWoman: I'll take a photo of the current settings first.",
+        "options": [
+          "Switch to a different type of fabric without checking the machine.",
+          "Change all tension dials simultaneously.",
+          "Rethread the machine using the diagram.",
+          "Replace the newly fitted needle immediately."
+        ],
+        "group_id": "listen_conversation_74",
+        "passage_title": "A shared sewing machine"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问先做哪步；调张力前先穿线，依据是“before adjusting the tension”\n解析：明确先按图重穿，针已换；不能把准备乱拧旋钮当最终方案；也没提出只换布来回避检查。\n下次：排查顺序题区分已做、打算做与共同选定的下一步。"
+      },
+      "review": {
+        "difficulty": "easy",
+        "skills": [
+          "程序与顺序"
+        ],
+        "vocabulary": [
+          "rethread"
+        ],
+        "rationale": "问先做哪步；调张力前先穿线，依据是明确先按图重穿，针已换；不能把准备乱拧旋钮当最终方案；也没提出只换布来回避检查。",
+        "answer_evidence": "before adjusting the tension",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L503",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why should they avoid changing all settings at once?",
+        "response_type": "choice",
+        "audio_text": "Woman: The machine keeps bunching thread underneath the fabric.\nMan: Did you change the needle or rethread it since the last user?\nWoman: I changed the needle but left the thread as it was.\nMan: Let's rethread it following the diagram before adjusting the tension.\nWoman: I was about to turn all those dials.\nMan: If we change everything at once, we won't know what helped.\nWoman: I'll take a photo of the current settings first.",
+        "options": [
+          "The diagram requires them to discard the fabric.",
+          "The machine has only one adjustable setting.",
+          "They would lose track of which change solved the problem.",
+          "All settings are permanently locked."
+        ],
+        "group_id": "listen_conversation_74",
+        "passage_title": "A shared sewing machine"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问为何一次不改全；无法知道哪项有效是“won't know what helped”\n解析：同时改多因素难定位原因；不是仅一旋钮、图示要求扔布或设置全锁。拍照只是保存起点，不代表禁止所有调整。\n下次：控制变量题一次改变一因素，再比较结果确认作用。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "因果与方法"
+        ],
+        "vocabulary": [
+          "tension"
+        ],
+        "rationale": "问为何一次不改全；无法知道哪项有效是同时改多因素难定位原因；不是仅一旋钮、图示要求扔布或设置全锁。拍照只是保存起点，不代表禁止所有调整。",
+        "answer_evidence": "won't know what helped",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L504",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "Why did the man's search miss early records?",
+        "response_type": "choice",
+        "audio_text": "Man: I searched the archive for the factory's current name and found almost nothing.\nWoman: It used a different name before the merger. Have you tried that one?\nMan: No. I assumed the catalog would link them automatically.\nWoman: Some records do, but the older handwritten index doesn't.\nMan: Could you show me the old name?\nWoman: It's on this company timeline. Try both names and note the years each was used.\nMan: That should explain why the early records seemed missing.",
+        "options": [
+          "The archive destroyed every record before the merger.",
+          "The older index contains only records of other industries.",
+          "He searched only the company's later name.",
+          "The company never existed before the merger."
+        ],
+        "group_id": "listen_conversation_75",
+        "passage_title": "A community archive search"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 2,
+        "explanation": "读懂：问早期资料难找原因；合并前异名是“a different name before the merger”\n解析：旧索引未自动链接，新名检索漏旧名；无销毁记录、公司不存在或索引只收其他行业的证据。\n下次：历史检索题先查实体更名，别把检索不到等同资料不存在。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "原因与推断"
+        ],
+        "vocabulary": [
+          "merger"
+        ],
+        "rationale": "问早期资料难找原因；合并前异名是旧索引未自动链接，新名检索漏旧名；无销毁记录、公司不存在或索引只收其他行业的证据。",
+        "answer_evidence": "a different name before the merger",
+        "reviewed_on": "2026-09-27"
+      }
+    },
+    {
+      "question": {
+        "id": "L505",
+        "section": "listening",
+        "task_type": "listen_conversation",
+        "prompt": "What search strategy does the woman recommend?",
+        "response_type": "choice",
+        "audio_text": "Man: I searched the archive for the factory's current name and found almost nothing.\nWoman: It used a different name before the merger. Have you tried that one?\nMan: No. I assumed the catalog would link them automatically.\nWoman: Some records do, but the older handwritten index doesn't.\nMan: Could you show me the old name?\nWoman: It's on this company timeline. Try both names and note the years each was used.\nMan: That should explain why the early records seemed missing.",
+        "options": [
+          "Ignore the handwritten index entirely.",
+          "Limit the search to years after the merger.",
+          "Search the current name repeatedly without changes.",
+          "Use both names and track their periods of use."
+        ],
+        "group_id": "listen_conversation_75",
+        "passage_title": "A community archive search"
+      },
+      "answer": {
+        "type": "choice",
+        "correct_index": 3,
+        "explanation": "读懂：问建议策略；两名都试是“Try both names”\n解析：配合各名称使用年份覆盖历史。反复同名不解决索引缺链接；弃旧索引或限合并后会继续漏早期资料。\n下次：更名资料题建立名称—时段对应，再跨版本检索核对遗漏。"
+      },
+      "review": {
+        "difficulty": "medium",
+        "skills": [
+          "方法与范围"
+        ],
+        "vocabulary": [
+          "timeline"
+        ],
+        "rationale": "问建议策略；两名都试是配合各名称使用年份覆盖历史。反复同名不解决索引缺链接；弃旧索引或限合并后会继续漏早期资料。",
+        "answer_evidence": "Try both names",
+        "reviewed_on": "2026-09-27"
+      }
+    }
+  ]
+}
