@@ -6,7 +6,7 @@
 
 五套 ETS 官方练习的内容来源比原创题库更可靠，但它们是公开的纸面适配样卷，不是泄露真题、完整在线自适应考试，或可直接预测官方分数的等值试卷。本地导入、语音和评分实现仍有独立局限。
 
-本次只新增这份报告和 `artifacts/realism-audit-20260927/` 审查证据。**没有改题目、答案、难度标签、审阅指纹、应用代码或用户学习历史，也没有重启服务。**
+本次只新增这份报告和 `tmp/artifacts-2026-09-28/qa/question-bank-realism-2026-09-27/` 审查证据。**没有改题目、答案、难度标签、审阅指纹、应用代码或用户学习历史，也没有重启服务。**
 
 ## 依据与方法
 
@@ -115,8 +115,8 @@
 
 ## 本次证据文件
 
-- `artifacts/realism-audit-20260927/source-verification.json`：官网响应、文件大小和SHA-256。
-- `artifacts/realism-audit-20260927/measure.py`、`metrics.json`：可复跑的字数与选项统计。
-- `artifacts/realism-audit-20260927/design-findings.json`：造句/插入题计数、主观评分反例与测试命令。
-- `artifacts/realism-audit-20260927/audio-parser-check.json`：特殊说话人标记复现结果。
+- `tmp/artifacts-2026-09-28/qa/question-bank-realism-2026-09-27/source-verification.json`：官网响应、文件大小和SHA-256。
+- `tmp/artifacts-2026-09-28/qa/question-bank-realism-2026-09-27/measure.py`、`metrics.json`：当时的字数与选项统计脚本及结果；脚本已停用，原根目录假设不适用于迁移后的路径。
+- `tmp/artifacts-2026-09-28/qa/question-bank-realism-2026-09-27/design-findings.json`：造句/插入题计数、主观评分反例与测试命令。
+- `tmp/artifacts-2026-09-28/qa/question-bank-realism-2026-09-27/audio-parser-check.json`：特殊说话人标记复现结果。
 - 同目录规范/样卷文本为本次联网下载内容的提取结果；原始参考PDF未覆盖。

@@ -47,13 +47,25 @@ app.add_middleware(
     allow_headers=["Content-Type"],
 )
 app.mount("/frontend", StaticFiles(directory=str(ROOT / "frontend")), name="frontend")
-app.mount('/mock-pages', StaticFiles(directory=str(ROOT / 'question_bank' / 'mock' / 'pages')), name='mock-pages')
+mock_pages = ROOT / 'question_bank' / 'mock' / 'pages'
+if mock_pages.is_dir():
+    app.mount('/mock-pages', StaticFiles(directory=str(mock_pages)), name='mock-pages')
 app.include_router(mock_router)
 app.include_router(history_router)
 app.include_router(test_router)
 
 
 @app.get("/", include_in_schema=False)
+@app.get("/practice/{section}", include_in_schema=False)
+@app.get("/practice/{section}/run/{run_id}", include_in_schema=False)
+@app.get("/exam/{section}/{run_id}", include_in_schema=False)
+@app.get("/history", include_in_schema=False)
+@app.get("/history/{category}/{record_id}", include_in_schema=False)
+@app.get("/tests", include_in_schema=False)
+@app.get("/tests/{session_id}", include_in_schema=False)
+@app.get("/mocks", include_in_schema=False)
+@app.get("/mocks/sessions/{session_id}", include_in_schema=False)
+@app.get("/mocks/{paper_id}", include_in_schema=False)
 def home() -> FileResponse:
     return FileResponse(FRONTEND)
 
@@ -84,16 +96,25 @@ def exam(
             if timer_mode not in config["timer_modes"]:
                 raise ValueError("该题型仅支持倒计时练习")
             questions = store.practice_questions(
-                section, task_type, count,
+                section,
+                task_type,
+                count,
                 submission_counts=submitted_material_counts() if repeat_decay else None,
                 repeat_decay=repeat_decay,
             )
-            time_limit = sum(config['group_seconds'][str(len(group))] for group in material_groups(questions).values())
+            time_limit = sum(
+                config['group_seconds'][str(len(group))]
+                for group in material_groups(questions).values()
+            )
         else:
             if count is not None or timer_mode is not None:
                 raise ValueError("题量和计时选项仅适用于专项练习")
             questions = store.questions_for(section, mode, task_type)
-            time_limit = sum(info["time_minutes"] * 60 for key, info in store.manifest()["sections"].items() if section in ("all", key))
+            time_limit = sum(
+                info["time_minutes"] * 60
+                for key, info in store.manifest()["sections"].items()
+                if section in ("all", key)
+            )
             timer_mode = "countdown" if mode == "exam" else "countup"
     except ValueError as exc:
         raise HTTPException(status_code=422, detail=str(exc)) from exc
@@ -108,7 +129,9 @@ def exam(
         "estimated_time_seconds": time_limit if mode != "bank" else None,
         "questions": questions,
         "total": len(questions),
-        "bank_total": store.manifest()["sections"].get(section, {}).get("question_count") if section != "all" else store.manifest()["total_questions"],
+        "bank_total": store.manifest()["sections"].get(section, {}).get("question_count")
+        if section != "all"
+        else store.manifest()["total_questions"],
         "note": "Question content is original practice material. Answer keys remain on the server until submission.",
     }
 
@@ -131,8 +154,12 @@ def submit(payload: ExamSubmitRequest) -> dict:
     save_submission(payload, result)
     logger.info(
         "Submission scored section=%s mode=%s task=%s received=%d answered=%d total=%d elapsed_ms=%.1f",
-        payload.section, payload.mode, payload.task_type or "all",
-        len(payload.responses), result["answered_questions"], result["total_questions"],
+        payload.section,
+        payload.mode,
+        payload.task_type or "all",
+        len(payload.responses),
+        result["answered_questions"],
+        result["total_questions"],
         (perf_counter() - started) * 1000,
     )
     return result
@@ -166,7 +193,8 @@ async def tts(payload: TTSRequest, request: Request) -> Response:
     headers = {"Cache-Control": "no-store"}
     try:
         done, _ = await asyncio.wait(
-            {synthesis, disconnected}, timeout=TTS_TIMEOUT_SECONDS,
+            {synthesis, disconnected},
+            timeout=TTS_TIMEOUT_SECONDS,
             return_when=asyncio.FIRST_COMPLETED,
         )
         if disconnected in done:
@@ -186,7 +214,9 @@ async def tts(payload: TTSRequest, request: Request) -> Response:
 # Compatibility routes for the original three-question speaking trainer.
 @app.get("/questions", include_in_schema=False)
 def legacy_questions() -> dict:
-    repeats = [item for item in store.questions_for("speaking") if item["task_type"] == "listen_repeat"][:3]
+    repeats = [
+        item for item in store.questions_for("speaking") if item["task_type"] == "listen_repeat"
+    ][:3]
     return {
         "title": "TOEFL Speaking · Listen and Repeat",
         "questions": [{"id": item["id"], "text": item["audio_text"]} for item in repeats],

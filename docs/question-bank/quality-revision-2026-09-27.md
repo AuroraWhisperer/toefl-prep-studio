@@ -46,7 +46,7 @@ Word counts use the same tokenizer on both versions. Listening counts exclude sp
 - The isolated full browser sweep passed 117 cases; its three remaining listening checks used a server started before the concurrent bilingual-key regeneration. All affected checks passed after synchronization in an **11-case focused review/insertion rerun**. The final ordered-position insertion check then passed again for all four revised tasks. No observed failure remains unresolved.
 - Inspected screenshots of expanded email and discussion tasks, sentence building, and insertion questions. The browser suite verifies desktop layouts at 100%, 125%, and 150% device-scale emulation, plus narrower desktop safeguards. Real microphone capture and online voice quality were not tested.
 - JavaScript syntax checks pass for the audio parser and changed browser tests. Local documentation links resolve. Test services use separate ports and owned data/output directories.
-- Revision evidence is saved locally in `tmp/quality-revision-20260927/`: baseline snapshots, reviewed item IDs, changed IDs, before/after metrics, and test logs. Official-source verification remains in `artifacts/realism-audit-20260927/source-verification.json`.
+- Revision evidence is saved locally in `tmp/quality-revision-20260927/`: baseline snapshots, reviewed item IDs, changed IDs, before/after metrics, and test logs. Official-source verification remains in `tmp/artifacts-2026-09-28/qa/question-bank-realism-2026-09-27/source-verification.json`.
 
 An already-running application may retain the old bank in memory. Restart it when convenient to load the regenerated content; this revision does not stop the owner's service.
 

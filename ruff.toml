@@ -1,0 +1,7 @@
+target-version = "py310"
+line-length = 100
+extend-exclude = ["question_bank"]
+
+[format]
+quote-style = "preserve"
+line-ending = "lf"

@@ -6,15 +6,22 @@ async function onlyView(page, id) {
   await expect(page.locator('.app-shell > section:not([hidden])')).toHaveAttribute('id', id);
 }
 
-test('practice, setup and history round trips keep one view and one request per action', async ({ page, request }) => {
-  const errors = [], loads = [], details = [];
-  page.on('pageerror', error => errors.push(error.message));
-  page.on('request', r => {
+test('practice, setup and history round trips keep one view and one request per action', async ({
+  page,
+  request,
+}) => {
+  const errors = [],
+    loads = [],
+    details = [];
+  page.on('pageerror', (error) => errors.push(error.message));
+  page.on('request', (r) => {
     if (r.url().includes('/api/v1/exam?')) loads.push(r.url());
     if (r.url().includes('/api/v1/history/practice/')) details.push(r.url());
   });
   expect((await request.get('/')).status()).toBe(200);
-  await page.route('**/api/v1/tts', route => route.fulfill({ json: { url: null, fallback: true } }));
+  await page.route('**/api/v1/tts', (route) =>
+    route.fulfill({ json: { url: null, fallback: true } }),
+  );
   await page.goto('/');
   await onlyView(page, 'landing-view');
   await openSettings(page, 'writing', 'write_email', 1);
@@ -28,7 +35,9 @@ test('practice, setup and history round trips keep one view and one request per 
   }
   await start(page);
   expect(loads).toHaveLength(3);
-  await page.locator('#answer-input').fill('Dear Professor, I would like to ask about the next assignment. Thank you.');
+  await page
+    .locator('#answer-input')
+    .fill('Dear Professor, I would like to ask about the next assignment. Thank you.');
   await submit(page);
   await onlyView(page, 'result-view');
   const newest = (await (await request.get('/api/v1/history')).json()).items[0];
@@ -55,7 +64,10 @@ test('practice, setup and history round trips keep one view and one request per 
   expect(errors).toEqual([]);
 });
 
-test('adaptive and mock entry screens return to a single landing view', async ({ page, request }) => {
+test('adaptive and mock entry screens return to a single landing view', async ({
+  page,
+  request,
+}) => {
   expect((await request.get('/')).status()).toBe(200);
   await page.goto('/');
   for (let round = 0; round < 2; round += 1) {
@@ -66,6 +78,11 @@ test('adaptive and mock entry screens return to a single landing view', async ({
     await onlyView(page, 'landing-view');
   }
   await page.locator('#open-mocks').click();
+  if (!(await (await request.get('/api/v1/resources')).json()).mock.length) {
+    await expect(page.getByRole('heading', { name: '尚未导入模考试卷' })).toBeVisible();
+    await onlyView(page, 'landing-view');
+    return;
+  }
   await page.locator('[data-paper=ets-test-1]').click();
   await onlyView(page, 'mock-view');
   await page.locator('[data-mock-home]').click();

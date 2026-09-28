@@ -2,7 +2,9 @@ const { test, expect } = require('@playwright/test');
 const { openSettings, start } = require('./browser_practice_helpers.cjs');
 
 test.beforeEach(async ({ page, request }) => {
-  await page.route('**/api/v1/tts', route => route.fulfill({ json: { url: null, fallback: true } }));
+  await page.route('**/api/v1/tts', (route) =>
+    route.fulfill({ json: { url: null, fallback: true } }),
+  );
   expect((await request.get('/')).status()).toBe(200);
   await page.goto('/');
 });
@@ -15,8 +17,13 @@ for (const viewport of [
   { width: 1000, height: 800, scale: 1 },
 ]) {
   test.describe(`${viewport.width}px setup`, () => {
-    test.use({ viewport: { width: viewport.width, height: viewport.height }, deviceScaleFactor: viewport.scale });
-    test('four subjects keep clear choices and an unclipped start action', async ({ page }, testInfo) => {
+    test.use({
+      viewport: { width: viewport.width, height: viewport.height },
+      deviceScaleFactor: viewport.scale,
+    });
+    test('four subjects keep clear choices and an unclipped start action', async ({
+      page,
+    }, testInfo) => {
       for (const [section, task, count, title] of [
         ['reading', 'complete_words', 1, '阅读'],
         ['listening', 'listen_choose_response', 8, '听力'],
@@ -28,7 +35,9 @@ for (const viewport of [
         await expect(page.locator('#practice-settings')).toHaveCount(1);
         await expect(page.locator('#start-practice')).toBeInViewport();
         await expect(page.locator('.format-details summary')).toBeInViewport();
-        expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
+        expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(
+          true,
+        );
         const choices = await page.locator('.setup-task-options .setting-choice').all();
         for (const choice of choices) {
           const bounds = await choice.boundingBox();
@@ -45,7 +54,11 @@ for (const viewport of [
           await expect(audioDetails.locator('p')).toContainText('非 ETS 官方比例或原声');
           await audioDetails.locator('summary').click();
         } else await expect(audioDetails).toHaveCount(0);
-        if (section === 'listening') await page.screenshot({ path: testInfo.outputPath('listening-setup.png'), fullPage: true });
+        if (section === 'listening')
+          await page.screenshot({
+            path: testInfo.outputPath('listening-setup.png'),
+            fullPage: true,
+          });
       }
     });
   });
@@ -62,7 +75,9 @@ test('keyboard choices preserve focus, update estimates, and start only once', a
   await page.keyboard.press('ArrowRight');
   await expect(page.locator('input[value="countdown"]')).toBeChecked();
   await expect(page.locator('#selection-summary')).toContainText('到时自动交卷');
-  const focusStyle = await page.locator('input[value="countdown"]').evaluate(input => getComputedStyle(input.closest('label')).outlineStyle);
+  const focusStyle = await page
+    .locator('input[value="countdown"]')
+    .evaluate((input) => getComputedStyle(input.closest('label')).outlineStyle);
   expect(focusStyle).toBe('solid');
   await page.locator('.setup-audio-details summary').focus();
   await page.keyboard.press('Enter');
@@ -72,7 +87,9 @@ test('keyboard choices preserve focus, update estimates, and start only once', a
   await expect(page.locator('input[name="count"]:checked')).toHaveValue('2');
   await expect(page.locator('#selection-summary')).toContainText('到时自动交卷');
   let examRequests = 0;
-  page.on('request', request => { if (request.url().includes('/api/v1/exam?')) examRequests += 1; });
+  page.on('request', (request) => {
+    if (request.url().includes('/api/v1/exam?')) examRequests += 1;
+  });
   const selected = await start(page);
   expect(selected.timer_mode).toBe('countdown');
   expect(examRequests).toBe(1);

@@ -1,18 +1,18 @@
 <!doctype html>
 <html lang="zh-CN">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#17202A">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#17202A" />
     <title>TOEFL 26 / Practice Workbench</title>
-    <link rel="stylesheet" href="/frontend/styles.css?v=20260928-cleanup">
-    <link rel="stylesheet" href="/frontend/landing.css?v=20260928-cleanup">
-    <link rel="stylesheet" href="/frontend/practice.css?v=20260928-cleanup">
-    <link rel="stylesheet" href="/frontend/practice-setup.css?v=20260927-modules">
-    <link rel="stylesheet" href="/frontend/practice-review.css?v=20260927-modules">
-    <link rel="stylesheet" href="/frontend/mock-exam.css?v=20260928-cleanup">
-    <link rel="stylesheet" href="/frontend/adaptive-test.css?v=20260927">
-    <link rel="stylesheet" href="/frontend/history.css?v=20260927-workbench-colors">
+    <link rel="stylesheet" href="/frontend/styles.css?v=20260928-cleanup" />
+    <link rel="stylesheet" href="/frontend/landing.css?v=20260928-cleanup" />
+    <link rel="stylesheet" href="/frontend/practice.css?v=20260928-cleanup" />
+    <link rel="stylesheet" href="/frontend/practice-setup.css?v=20260927-modules" />
+    <link rel="stylesheet" href="/frontend/practice-review.css?v=20260927-modules" />
+    <link rel="stylesheet" href="/frontend/mock-exam.css?v=20260928-cleanup" />
+    <link rel="stylesheet" href="/frontend/adaptive-test.css?v=20260927" />
+    <link rel="stylesheet" href="/frontend/history.css?v=20260927-workbench-colors" />
   </head>
   <body>
     <main class="app-shell">
@@ -20,9 +20,19 @@
         <header class="landing-header">
           <div class="training-brand">
             <svg class="brand-mark" viewBox="0 0 56 56" fill="none" aria-hidden="true">
-              <rect width="56" height="56" rx="14" fill="currentColor"/>
-              <path d="M12 16h10c3 0 6 2 6 5v22c0-4-3-6-7-6h-9V16Zm32 0H34c-3 0-6 2-6 5v22c0-4 3-6 7-6h9V16Z" stroke="white" stroke-width="2.2" stroke-linejoin="round"/>
-              <path d="M18 23h4m-4 6h4m12-6h4m-4 6h4" stroke="white" stroke-width="2" stroke-linecap="round"/>
+              <rect width="56" height="56" rx="14" fill="currentColor" />
+              <path
+                d="M12 16h10c3 0 6 2 6 5v22c0-4-3-6-7-6h-9V16Zm32 0H34c-3 0-6 2-6 5v22c0-4 3-6 7-6h9V16Z"
+                stroke="white"
+                stroke-width="2.2"
+                stroke-linejoin="round"
+              />
+              <path
+                d="M18 23h4m-4 6h4m12-6h4m-4 6h4"
+                stroke="white"
+                stroke-width="2"
+                stroke-linecap="round"
+              />
             </svg>
             <div>
               <h1 id="landing-title" class="brand-wordmark">TOEFL <span>TRAINING</span></h1>
@@ -35,25 +45,88 @@
           <div class="exam-entry-grid">
             <article class="training-card exam-entry mock-entry">
               <div class="exam-entry-copy">
-                <svg class="card-icon" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4h13l4 4v20H9V4Z"/><path d="M22 4v5h4M5 8v20M13 14h9m-9 5h9m-9 5h5"/></svg>
-                <div><h2>全真模考 <span>Mock Test</span></h2><p>五套 ETS 练习卷，连贯完成四科，熟悉整场节奏。</p></div>
+                <svg
+                  class="card-icon"
+                  viewBox="0 0 32 32"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.6"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  aria-hidden="true"
+                >
+                  <path d="M9 4h13l4 4v20H9V4Z" />
+                  <path d="M22 4v5h4M5 8v20M13 14h9m-9 5h9m-9 5h5" />
+                </svg>
+                <div>
+                  <h2>全真模考 <span>Mock Test</span></h2>
+                  <p>本地导入 ETS 练习卷后，连贯完成四科，熟悉整场节奏。</p>
+                </div>
               </div>
-              <button id="open-mocks" class="primary-button" type="button" aria-expanded="false" aria-controls="mock-papers">选择模考试卷 →</button>
+              <button
+                id="open-mocks"
+                class="primary-button"
+                type="button"
+                aria-expanded="false"
+                aria-controls="mock-papers"
+              >
+                选择模考试卷 →
+              </button>
             </article>
             <article class="training-card exam-entry test-entry" aria-labelledby="test-entry-title">
               <div class="exam-entry-copy">
-                <svg class="card-icon" viewBox="0 0 32 32" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="6" y="4" width="20" height="24" rx="3"/><path d="m10 12 2 2 4-4m2 3h4m-12 8h12"/></svg>
-                <div><h2 id="test-entry-title">综合测验 <span>Test</span></h2><p>五套难度方案，模块自适应。</p></div>
+                <svg
+                  class="card-icon"
+                  viewBox="0 0 32 32"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.6"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  aria-hidden="true"
+                >
+                  <rect x="6" y="4" width="20" height="24" rx="3" />
+                  <path d="m10 12 2 2 4-4m2 3h4m-12 8h12" />
+                </svg>
+                <div>
+                  <h2 id="test-entry-title">综合测验 <span>Test</span></h2>
+                  <p>五套难度方案，模块自适应。</p>
+                </div>
               </div>
-              <button id="open-tests" class="secondary-button" type="button" aria-describedby="test-entry-note">选择难度开始 →</button>
-              <span id="test-entry-note" class="sr-only">可选 1–10 档本地训练难度，非 ETS 官方难度标定</span>
+              <button
+                id="open-tests"
+                class="secondary-button"
+                type="button"
+                aria-describedby="test-entry-note"
+              >
+                选择难度开始 →
+              </button>
+              <span id="test-entry-note" class="sr-only"
+                >可选 1–10 档本地训练难度，非 ETS 官方难度标定</span
+              >
             </article>
           </div>
         </div>
         <article class="training-card history-entry" aria-labelledby="history-entry-title">
-          <svg class="archive-mark" viewBox="0 0 56 56" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round" aria-hidden="true"><path d="M10 16V9h15l5 5h16v33H10V16Z"/><path d="M6 20h44v8H6zM10 28v19h36V28M22 34h12M22 39h8"/></svg>
-          <div class="history-entry-copy"><h2 id="history-entry-title">答题记录 <span>Learning Archive</span></h2><p>回看已提交的答案与反馈，找到下一次练习的起点。</p></div>
-          <button id="open-history" class="text-button" type="button">打开学习档案 <span aria-hidden="true">↗</span></button>
+          <svg
+            class="archive-mark"
+            viewBox="0 0 56 56"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="1.5"
+            stroke-linejoin="round"
+            aria-hidden="true"
+          >
+            <path d="M10 16V9h15l5 5h16v33H10V16Z" />
+            <path d="M6 20h44v8H6zM10 28v19h36V28M22 34h12M22 39h8" />
+          </svg>
+          <div class="history-entry-copy">
+            <h2 id="history-entry-title">答题记录 <span>Learning Archive</span></h2>
+            <p>回看已提交的答案与反馈，找到下一次练习的起点。</p>
+          </div>
+          <button id="open-history" class="text-button" type="button">
+            打开学习档案 <span aria-hidden="true">↗</span>
+          </button>
         </article>
         <div id="mock-resume"></div>
         <section id="mock-papers" class="resource-library" aria-label="选择模考试卷" hidden>
@@ -62,43 +135,133 @@
       </section>
 
       <section id="mock-view" class="mock-view" hidden aria-label="完整模考"></section>
-      <section id="test-setup" class="test-setup setup-view" hidden aria-label="分级综合测验"></section>
+      <section
+        id="test-setup"
+        class="test-setup setup-view"
+        hidden
+        aria-label="分级综合测验"
+      ></section>
 
       <section id="history-view" class="history-view" hidden aria-labelledby="history-title">
         <header class="history-heading">
           <h1 id="history-title" tabindex="-1">答题记录</h1>
           <div class="history-heading-actions">
-            <button id="history-home" class="text-button home-button return-button" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m10 5-7 7 7 7M3 12h18"/></svg><span>返回首页</span></button>
+            <button id="history-home" class="text-button home-button return-button" type="button">
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.8"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                aria-hidden="true"
+              >
+                <path d="m10 5-7 7 7 7M3 12h18" /></svg
+              ><span>返回首页</span>
+            </button>
             <details id="history-management" class="history-management">
-              <summary>记录管理<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></summary>
+              <summary>
+                记录管理<svg
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.8"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  aria-hidden="true"
+                >
+                  <path d="m6 9 6 6 6-6" />
+                </svg>
+              </summary>
               <div class="history-management-options">
-                <button type="button" data-history-reset="probability"><strong>重置概率</strong><span>保留答题记录与录音</span></button>
-                <button type="button" data-history-reset="all" class="history-delete"><strong>全部清空</strong><span>删除全部记录与录音，同时重置概率</span></button>
+                <button type="button" data-history-reset="probability">
+                  <strong>重置概率</strong><span>保留答题记录与录音</span>
+                </button>
+                <button type="button" data-history-reset="all" class="history-delete">
+                  <strong>全部清空</strong><span>删除全部记录与录音，同时重置概率</span>
+                </button>
               </div>
             </details>
           </div>
         </header>
-        <p id="history-management-status" class="history-management-status" role="status" hidden></p>
+        <p
+          id="history-management-status"
+          class="history-management-status"
+          role="status"
+          hidden
+        ></p>
         <div class="history-workspace">
           <div class="history-toolbar">
             <div id="history-tabs" class="history-tabs" role="tablist" aria-label="答题记录分类">
-              <button id="history-tab-practice" type="button" role="tab" data-history-category="practice" aria-controls="history-panel" aria-selected="true">单项训练</button>
-              <button id="history-tab-mock" type="button" role="tab" data-history-category="mock" aria-controls="history-panel" aria-selected="false" tabindex="-1">模拟考</button>
-              <button id="history-tab-test" type="button" role="tab" data-history-category="test" aria-controls="history-panel" aria-selected="false" tabindex="-1">测验</button>
+              <button
+                id="history-tab-practice"
+                type="button"
+                role="tab"
+                data-history-category="practice"
+                aria-controls="history-panel"
+                aria-selected="true"
+              >
+                单项训练
+              </button>
+              <button
+                id="history-tab-mock"
+                type="button"
+                role="tab"
+                data-history-category="mock"
+                aria-controls="history-panel"
+                aria-selected="false"
+                tabindex="-1"
+              >
+                模拟考
+              </button>
+              <button
+                id="history-tab-test"
+                type="button"
+                role="tab"
+                data-history-category="test"
+                aria-controls="history-panel"
+                aria-selected="false"
+                tabindex="-1"
+              >
+                测验
+              </button>
             </div>
             <form id="history-filters" class="history-filters">
-              <label><span class="history-field-label">起始日期</span><input id="history-from" type="date" name="from"></label>
+              <label
+                ><span class="history-field-label">起始日期</span
+                ><input id="history-from" type="date" name="from"
+              /></label>
               <span class="history-date-separator" aria-hidden="true">至</span>
-              <label><span class="history-field-label">截止日期</span><input id="history-to" type="date" name="to"></label>
+              <label
+                ><span class="history-field-label">截止日期</span
+                ><input id="history-to" type="date" name="to"
+              /></label>
               <button class="primary-button" type="submit">查找记录</button>
               <button id="history-clear" class="text-button" type="button">清除日期</button>
             </form>
           </div>
           <p id="history-filter-error" class="history-error" role="alert" hidden></p>
-          <section id="history-panel" role="tabpanel" aria-labelledby="history-tab-practice" tabindex="0">
-            <div class="history-list-meta"><p id="history-count" class="history-count" role="status"></p><span class="archive-order">最新在前</span></div>
+          <section
+            id="history-panel"
+            role="tabpanel"
+            aria-labelledby="history-tab-practice"
+            tabindex="0"
+          >
+            <div class="history-list-meta">
+              <p id="history-count" class="history-count" role="status"></p>
+              <span class="archive-order">最新在前</span>
+            </div>
             <div id="history-list" class="history-list"></div>
-            <nav id="history-pagination" class="history-pagination" aria-label="历史记录分页" hidden><button id="history-prev" class="secondary-button" type="button">上一页</button><span id="history-page"></span><button id="history-next" class="secondary-button" type="button">下一页</button></nav>
+            <nav
+              id="history-pagination"
+              class="history-pagination"
+              aria-label="历史记录分页"
+              hidden
+            >
+              <button id="history-prev" class="secondary-button" type="button">上一页</button
+              ><span id="history-page"></span
+              ><button id="history-next" class="secondary-button" type="button">下一页</button>
+            </nav>
           </section>
         </div>
       </section>
@@ -106,7 +269,17 @@
       <section id="setup-view" class="setup-view" hidden aria-label="练习设置">
         <div class="setup-nav">
           <button id="setup-home" class="text-button home-button return-button" type="button">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 6h11M9 12h11M9 18h11M4 6h.01M4 12h.01M4 18h.01"/></svg>
+            <svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.8"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              aria-hidden="true"
+            >
+              <path d="M9 6h11M9 12h11M9 18h11M4 6h.01M4 12h.01M4 18h.01" />
+            </svg>
             <span>返回科目</span>
           </button>
           <div id="setup-tabs" class="setup-tabs" role="tablist" aria-label="选择练习科目"></div>
@@ -117,7 +290,17 @@
       <section id="exam-view" class="exam-view" hidden aria-labelledby="exam-title">
         <div class="exam-topline">
           <button id="back-home" class="text-button home-button return-button" type="button">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m10 5-7 7 7 7M3 12h18"/></svg>
+            <svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.8"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              aria-hidden="true"
+            >
+              <path d="m10 5-7 7 7 7M3 12h18" />
+            </svg>
             <span>返回上一页</span>
           </button>
           <h2 id="exam-title">Reading</h2>
@@ -157,10 +340,25 @@
       </section>
 
       <section id="result-view" class="result-view" hidden aria-labelledby="result-title">
-        <p id="recording-archive-status" class="library-note" role="status" hidden><span></span> <button id="retry-recording-archive" class="text-button" type="button">重试保存录音</button></p>
+        <p id="recording-archive-status" class="library-note" role="status" hidden>
+          <span></span>
+          <button id="retry-recording-archive" class="text-button" type="button">
+            重试保存录音
+          </button>
+        </p>
         <div class="result-header">
           <button id="result-home" class="text-button home-button return-button" type="button">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 6h11M9 12h11M9 18h11M4 6h.01M4 12h.01M4 18h.01"/></svg>
+            <svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.8"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              aria-hidden="true"
+            >
+              <path d="M9 6h11M9 12h11M9 18h11M4 6h.01M4 12h.01M4 18h.01" />
+            </svg>
             <span>返回科目</span>
           </button>
           <h2 id="result-title">练习结果</h2>
@@ -174,13 +372,13 @@
     </main>
 
     <script src="/frontend/audio-cache.js?v=20260928-cleanup" defer></script>
-    <script src="/frontend/view-navigation.js?v=20260927-modules" defer></script>
+    <script src="/frontend/view-navigation.js?v=20260928-routes" defer></script>
     <script src="/frontend/practice-sentence.js?v=20260927-modules" defer></script>
     <script src="/frontend/practice-review.js?v=20260927-adaptive" defer></script>
     <script src="/frontend/practice-recorder.js?v=20260927-modules" defer></script>
-    <script src="/frontend/adaptive-test.js?v=20260928-cleanup" defer></script>
-    <script src="/frontend/app.js?v=20260928-cleanup" defer></script>
-    <script src="/frontend/mock-exam.js?v=20260928-cleanup" defer></script>
-    <script src="/frontend/history.js?v=20260927-navigation" defer></script>
+    <script src="/frontend/adaptive-test.js?v=20260928-routes" defer></script>
+    <script src="/frontend/app.js?v=20260928-routes" defer></script>
+    <script src="/frontend/mock-exam.js?v=20260928-routes" defer></script>
+    <script src="/frontend/history.js?v=20260928-routes" defer></script>
   </body>
 </html>

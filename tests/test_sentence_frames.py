@@ -1,4 +1,5 @@
 """Sentence frames model public blanks, not the private solution order."""
+
 from collections import Counter
 from backend.question_store import QuestionStore
 from backend.exam_service import normalize_text, score_one
@@ -11,14 +12,14 @@ def can_assemble(question, sentence):
 
     def visit(slot, offset, used):
         fixed = normalize_text(parts[slot]).split()
-        if target[offset:offset + len(fixed)] != fixed:
+        if target[offset : offset + len(fixed)] != fixed:
             return False
         offset += len(fixed)
         if slot == len(parts) - 1:
             return offset == len(target)
         for i, token in enumerate(bank):
             words = normalize_text(token).split()
-            if i not in used and target[offset:offset + len(words)] == words:
+            if i not in used and target[offset : offset + len(words)] == words:
                 if visit(slot + 1, offset + len(words), used | {i}):
                     return True
         return False

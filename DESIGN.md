@@ -52,6 +52,8 @@ The archive header keeps destructive actions behind a compact 记录管理 discl
 
 The comprehensive-test entry is active, with a checklist icon and “选择难度开始” action. Its setup reuses the workbench typography, sage selection and visible keyboard focus: five preset buttons, a labeled native 1–10 select, the linked routing range and one start action. Directions separate untimed instructions from each server-timed stage. Reuse the practice task renderer; show current module and local target level in the title, and lock submitted modules. Completed Test review displays the starting level, two routing outcomes and objective counts; open responses say “待人工复核”, not a fabricated zero score. See [adaptive test behavior](specs/adaptive-tests.md).
 
+An empty Test archive directs the learner to complete the comprehensive test on the homepage; it must not describe the available feature as pending release.
+
 Complete the Words passage review keeps one separate underline per missing letter, matching the practice input spacing. Unfilled positions remain empty underlined slots; switching between submitted and correct answers preserves the slots and the existing correct/incorrect colors.
 
 Build a Sentence practice follows the screen example in the ETS overview: context, word bank, then the inline answer frame. The frame has solid underline blanks and immutable fixed words or punctuation; used tiles remain visible but disabled. Empty slots have accessible numbered labels without visible numbers. Click, keyboard, drag, undo and reset preserve individual tile identity. Mock sentence slots retain their separate rendering, exam state and persistence.

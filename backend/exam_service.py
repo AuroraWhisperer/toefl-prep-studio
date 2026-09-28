@@ -48,7 +48,12 @@ def _score_text(key: dict, answer: Any) -> tuple[float, float, str, bool]:
     correct = bool(received) and received in accepted
     if correct:
         return 1.0, 1.0, "填对了。继续核对这个词在句中的意思和作用。", True
-    return 0.0, 1.0, key.get("explanation", "先判断空格需要表示什么，再用前后搭配和已给字母检查拼写。"), False
+    return (
+        0.0,
+        1.0,
+        key.get("explanation", "先判断空格需要表示什么，再用前后搭配和已给字母检查拼写。"),
+        False,
+    )
 
 
 def _score_sentence(key: dict, answer: Any) -> tuple[float, float, str, bool]:
@@ -57,7 +62,12 @@ def _score_sentence(key: dict, answer: Any) -> tuple[float, float, str, bool]:
     correct = bool(received) and received in accepted
     if correct:
         return 1.0, 1.0, "词序符合本题的可接受答案。可以对照解析理解句子结构。", True
-    return 0.0, 1.0, key.get("explanation", "先找谁做什么，再安排其他词块；有些词块可能不需要使用。"), False
+    return (
+        0.0,
+        1.0,
+        key.get("explanation", "先找谁做什么，再安排其他词块；有些词块可能不需要使用。"),
+        False,
+    )
 
 
 def _score_repeat(key: dict, answer: Any) -> tuple[float, float, str, bool]:
@@ -86,15 +96,24 @@ def _score_subjective(key: dict, answer: Any, section: str) -> tuple[float, floa
         trigrams = list(zip(tokens, tokens[1:], tokens[2:]))
         # A local anti-stuffing safeguard, not a semantic or official rubric score.
         if len(set(trigrams)) <= len(trigrams) / 2:
-            return 1.0, 5.0, ('回答主要在重复堆砌（repeated wording）。不要反复写关键词，'
-                              '应补充具体原因和例子；这只是文字层面的练习检查。'), False
+            return (
+                1.0,
+                5.0,
+                (
+                    '回答主要在重复堆砌（repeated wording）。不要反复写关键词，'
+                    '应补充具体原因和例子；这只是文字层面的练习检查。'
+                ),
+                False,
+            )
     keywords = [normalize_text(item) for item in key.get("keywords", [])]
     keyword_hits = sum(1 for keyword in keywords if keyword and keyword in lower)
     min_words = int(key.get("min_words", 20))
     length_points = min(2.0, words / max(min_words, 1) * 2.0)
     content_points = min(2.0, keyword_hits / max(len(keywords), 1) * 2.0)
     sentence_count = len(re.findall(r"[.!?]", text))
-    organization_points = 1.0 if sentence_count >= 2 and words >= min_words else 0.5 if words >= 8 else 0.0
+    organization_points = (
+        1.0 if sentence_count >= 2 and words >= min_words else 0.5 if words >= 8 else 0.0
+    )
     points = round(min(5.0, length_points + content_points + organization_points), 1)
     if not text:
         feedback = "这题没有提交文字回答。可以先按下面的思路列出要点，再组织成句子。"
@@ -158,7 +177,9 @@ def score_submission(
     question_map = {item["id"]: item for item in questions}
     submitted: dict[str, Any] = {}
     durations: dict[str, int] = {}
-    section_totals = {section: {"earned": 0.0, "possible": 0.0, "answered": 0, "total": 0} for section in SECTIONS}
+    section_totals = {
+        section: {"earned": 0.0, "possible": 0.0, "answered": 0, "total": 0} for section in SECTIONS
+    }
     feedback: list[dict] = []
 
     for item in responses:
@@ -205,7 +226,9 @@ def score_submission(
                 "explanation": key.get("explanation", ""),
                 "duration_seconds": durations.get(question_id, 0),
                 "correct_index": key.get("correct_index"),
-                "missing_letters": key["reference"][len(question["prefix"]):] if question["task_type"] == "complete_words" else None,
+                "missing_letters": key["reference"][len(question["prefix"]) :]
+                if question["task_type"] == "complete_words"
+                else None,
             }
         )
 
@@ -214,7 +237,15 @@ def score_submission(
     completed_bands: list[float] = []
     for section, totals in section_totals.items():
         if totals["possible"] == 0:
-            sections[section] = {"answered": 0, "total": 0, "earned": 0, "possible": 0, "percentage": None, "legacy_score": None, "band6": None}
+            sections[section] = {
+                "answered": 0,
+                "total": 0,
+                "earned": 0,
+                "possible": 0,
+                "percentage": None,
+                "legacy_score": None,
+                "band6": None,
+            }
             continue
         percentage = totals["earned"] / totals["possible"]
         legacy_score = round(percentage * 30, 1)
@@ -233,7 +264,9 @@ def score_submission(
 
     return {
         "sections": sections,
-        "overall_band6": _half_band(sum(completed_bands) / len(completed_bands)) if completed_bands else None,
+        "overall_band6": _half_band(sum(completed_bands) / len(completed_bands))
+        if completed_bands
+        else None,
         "legacy_total": round(sum(completed_legacy), 1) if len(completed_legacy) == 4 else None,
         "feedback": feedback,
         "answered_questions": sum(item["answered"] for item in feedback),

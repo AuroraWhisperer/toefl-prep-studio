@@ -1,4 +1,5 @@
 """Flag copied question content between original practice and ETS mock papers."""
+
 from __future__ import annotations
 
 import json
@@ -24,18 +25,26 @@ def audit():
         tokens = [words(text) for text in texts]
         papers[paper['id']] = {
             'text': '\n'.join(' ' + ' '.join(row) + ' ' for row in tokens),
-            'phrases': {' '.join(row[i:i + 14]) for row in tokens for i in range(len(row) - 13)},
+            'phrases': {' '.join(row[i : i + 14]) for row in tokens for i in range(len(row) - 13)},
         }
     counts, matches = {}, []
     for section in SECTIONS:
         folder = ROOT / 'question_bank'
-        questions = json.loads((folder / section / 'questions.json').read_text(encoding='utf-8'))['questions']
+        questions = json.loads((folder / section / 'questions.json').read_text(encoding='utf-8'))[
+            'questions'
+        ]
         keys = json.loads((folder / 'answers' / f'{section}.json').read_text(encoding='utf-8'))
         counts[section] = len(questions)
         for question in questions:
-            fields = {field: question[field] for field in ('passage', 'audio_text') if question.get(field)}
+            fields = {
+                field: question[field] for field in ('passage', 'audio_text') if question.get(field)
+            }
             if section == 'writing':
-                fields['prompt'] = question['prompt'].splitlines()[0] if question['task_type'] == 'build_sentence' else question['prompt']
+                fields['prompt'] = (
+                    question['prompt'].splitlines()[0]
+                    if question['task_type'] == 'build_sentence'
+                    else question['prompt']
+                )
                 if question['task_type'] == 'build_sentence':
                     for index, answer in enumerate(keys[question['id']]['accepted']):
                         fields[f'reference_{index}'] = answer
@@ -45,12 +54,29 @@ def audit():
                 if len(tokens) < 6:
                     continue
                 size = min(14, len(tokens))
-                phrases = [' '.join(tokens[i:i + size]) for i in range(len(tokens) - size + 1)]
+                phrases = [' '.join(tokens[i : i + size]) for i in range(len(tokens) - size + 1)]
                 for paper_id, corpus in papers.items():
-                    match = next((phrase for phrase in phrases if
-                                  (phrase in corpus['phrases'] if size == 14 else ' ' + phrase + ' ' in corpus['text'])), None)
+                    match = next(
+                        (
+                            phrase
+                            for phrase in phrases
+                            if (
+                                phrase in corpus['phrases']
+                                if size == 14
+                                else ' ' + phrase + ' ' in corpus['text']
+                            )
+                        ),
+                        None,
+                    )
                     if match:
-                        matches.append({'question_id': question['id'], 'field': field, 'paper': paper_id, 'phrase': match})
+                        matches.append(
+                            {
+                                'question_id': question['id'],
+                                'field': field,
+                                'paper': paper_id,
+                                'phrase': match,
+                            }
+                        )
     return {'practice_counts': counts, 'paper_count': len(papers), 'matches': matches}
 
 

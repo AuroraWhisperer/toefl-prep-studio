@@ -12,6 +12,7 @@
 - Extend the existing history module and page, with no new dependency or duplicate sampler.
 - `POST /api/v1/history/reset` accepts a validated `scope` (`probability` or `all`) and required `confirm: true`. Reject mismatched browser Origin headers. The application remains local-only, without new account/authentication infrastructure.
 - Store an atomic snapshot of excluded submission IDs in `practice-history/.repeat-reset`, outside the archive's `*.json` enumeration. Read it under the existing lock. This persists across restarts, preserves submission-ID idempotency, and avoids clock-based reset boundaries.
+- Practice archives, mock/test session JSON and the reset marker share `archive_io.write_archive`: write UTF-8 JSON to a sibling temporary file, then atomically replace the destination. Retry replacement only on `PermissionError`, up to four attempts with 20/40/60 ms waits. Failed serialization, writes or exhausted retries preserve the previous destination; temporary cleanup is best effort and must not mask the original outcome. Callers retain directory creation, locks and index invalidation after success. Recording writes keep their separate lifecycle.
 - Full clearing uses both existing storage locks, validates UUID filenames and resolved paths before deletion, and removes only selected record files and their associated recording directories. Filesystem failures report possible partial clearing rather than falsely claiming success.
 
 ## Verification

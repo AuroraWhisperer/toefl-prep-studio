@@ -61,8 +61,11 @@ class TTSRequest(BaseModel):
     @classmethod
     def restrict_voice(cls, value: str) -> str:
         allowed = {
-            "en-US-AriaNeural", "en-US-GuyNeural",
-            "en-GB-SoniaNeural", "en-GB-RyanNeural",
-            "en-AU-NatashaNeural", "en-AU-WilliamMultilingualNeural",
+            "en-US-AriaNeural",
+            "en-US-GuyNeural",
+            "en-GB-SoniaNeural",
+            "en-GB-RyanNeural",
+            "en-AU-NatashaNeural",
+            "en-AU-WilliamMultilingualNeural",
         }
         return value if value in allowed else "en-US-AriaNeural"

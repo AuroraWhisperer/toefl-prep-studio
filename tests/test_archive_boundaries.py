@@ -1,4 +1,5 @@
 """History consumes mock business functions, not HTTP handlers or timer mutations."""
+
 from collections import Counter
 import os
 from pathlib import Path
@@ -23,7 +24,7 @@ def completed_session():
     return session
 
 
-def test_history_review_does_not_call_the_mock_route_handler(monkeypatch):
+def test_history_review_does_not_call_the_mock_route_handler(monkeypatch, local_mock_bank):
     session = completed_session()
     expected = client.get(f"/api/v1/mock/sessions/{session['id']}/result").json()
 
@@ -36,7 +37,9 @@ def test_history_review_does_not_call_the_mock_route_handler(monkeypatch):
     assert actual['result'] == expected
 
 
-def test_mock_list_reads_each_snapshot_once_without_advancing_active_sessions(monkeypatch):
+def test_mock_list_reads_each_snapshot_once_without_advancing_active_sessions(
+    monkeypatch, local_mock_bank
+):
     completed = [completed_session(), completed_session()]
     active = client.post('/api/v1/mock/sessions', json={'paper_id': 'ets-test-1'}).json()
     session = mock_exam.read_session(active['id'])
@@ -85,8 +88,11 @@ with patch('uvicorn.run', side_effect=check) as run:
     assert run.call_count == 1
 '''
     response = subprocess.run(
-        [sys.executable, '-c', code, mode], cwd=root,
+        [sys.executable, '-c', code, mode],
+        cwd=root,
         env={**os.environ, 'TOEFL_DATA_DIR': str(tmp_path)},
-        capture_output=True, text=True, timeout=30,
+        capture_output=True,
+        text=True,
+        timeout=30,
     )
     assert response.returncode == 0, response.stderr

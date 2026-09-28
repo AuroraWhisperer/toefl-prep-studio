@@ -43,10 +43,10 @@
 2026-09-27 最终验证结果：
 
 - 生成器成功写入 2,115 题；12 个题型的数量分别为原来的三倍。全库简单 634 题、适中 1,119 题、困难 362 题，仅表示本地内容分级。
-- 原有 705 道题的题面、答案和审阅记录逐项一致；82 份既有源稿与模考文件的 SHA-256 一致，见[保留检查记录](../../artifacts/expansion-2026-09-27-preservation.json)。
-- `./.venv/Scripts/python.exe -m pytest -q`：**362 passed**，见[最终测试输出](../../artifacts/expansion-pytest-final.txt)。覆盖全库三行解析、英文引用依据，以及新增造句的可接受答案和全部新题型的真实提交。
-- 浏览器全量执行 154 项，初次 152 项通过；另外两项误把 `Man/Woman` 标签算入实际朗读文本。按现有播放器去除说话人标签的行为修正断言后，与 6 项新增内容测试一起复跑，**8 项全部通过**。见[全量输出](../../artifacts/expansion-browser-results.txt)及[复跑输出](../../artifacts/expansion-browser-recheck.txt)。
-- 核对 125%／150% 桌面缩放的新阅读、邮件、讨论题面和复盘截图，检查键盘选答、展开解析、完整范文、返回切题及窗口缩放，无水平溢出或脚本错误。截图保留于 `artifacts/expansion-browser-recheck/`；截图时结束过渡动画，避免把淡入过程当作最终显示。
+- 原有 705 道题的题面、答案和审阅记录逐项一致；82 份既有源稿与模考文件的 SHA-256 一致，见[保留检查记录](../../tmp/artifacts-2026-09-28/qa/question-bank-expansion-2026-09-27/preservation-check.json)。
+- `./.venv/Scripts/python.exe -m pytest -q`：**362 passed**，见[最终测试输出](../../tmp/artifacts-2026-09-28/qa/question-bank-expansion-2026-09-27/pytest-final.log)。覆盖全库三行解析、英文引用依据，以及新增造句的可接受答案和全部新题型的真实提交。
+- 浏览器全量执行 154 项，初次 152 项通过；另外两项误把 `Man/Woman` 标签算入实际朗读文本。按现有播放器去除说话人标签的行为修正断言后，与 6 项新增内容测试一起复跑，**8 项全部通过**。见[全量输出](../../tmp/artifacts-2026-09-28/qa/question-bank-expansion-2026-09-27/browser-suite.log)及[复跑输出](../../tmp/artifacts-2026-09-28/qa/question-bank-expansion-2026-09-27/browser-recheck.log)。
+- 核对 125%／150% 桌面缩放的新阅读、邮件、讨论题面和复盘截图，检查键盘选答、展开解析、完整范文、返回切题及窗口缩放，无水平溢出或脚本错误。截图保留于 `tmp/artifacts-2026-09-28/qa/question-bank-expansion-2026-09-27/browser-recheck-results/`；截图时结束过渡动画，避免把淡入过程当作最终显示。
 - 修改的两个浏览器测试文件均通过 `node --check`。文档本地链接已核对；隔离测试服务退出，测试数据按现有清理流程移除。
 
 ## 边界

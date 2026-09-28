@@ -1,4 +1,5 @@
 """Local submission archive; active and abandoned mock sessions are not history."""
+
 from __future__ import annotations
 
 import hashlib
@@ -21,13 +22,25 @@ from pydantic import BaseModel
 try:
     from . import mock_exam
     from .archive_index import ArchiveIndex
-    from .archive_io import MaterialArchive, PracticeArchive, RepeatReset, read_archive
+    from .archive_io import (
+        MaterialArchive,
+        PracticeArchive,
+        RepeatReset,
+        read_archive,
+        write_archive,
+    )
     from .exam_service import reference_answer
     from .question_store import material_groups, store
 except ImportError:
     import mock_exam
     from archive_index import ArchiveIndex
-    from archive_io import MaterialArchive, PracticeArchive, RepeatReset, read_archive
+    from archive_io import (
+        MaterialArchive,
+        PracticeArchive,
+        RepeatReset,
+        read_archive,
+        write_archive,
+    )
     from exam_service import reference_answer
     from question_store import material_groups, store
 
@@ -39,23 +52,33 @@ _MATERIAL_INDEX = ArchiveIndex()
 router = APIRouter(prefix='/api/v1/history')
 logger = logging.getLogger(__name__)
 Category = Literal['practice', 'mock', 'test']
-SECTION_NAMES = {'reading': '阅读', 'listening': '听力', 'speaking': '口语', 'writing': '写作', 'all': '四科综合'}
+SECTION_NAMES = {
+    'reading': '阅读',
+    'listening': '听力',
+    'speaking': '口语',
+    'writing': '写作',
+    'all': '四科综合',
+}
 TASK_NAMES = {
-    'complete_words': '补全文词', 'read_daily_life': '日常阅读',
-    'read_academic_passage': '学术阅读', 'listen_choose_response': '听力应答',
-    'listen_conversation': '对话理解', 'listen_announcement': '公告理解',
-    'listen_academic_talk': '学术讲座', 'listen_repeat': '听后复述',
-    'take_interview': '模拟访谈', 'build_sentence': '句子构建',
-    'write_email': '邮件写作', 'academic_discussion': '学术讨论',
+    'complete_words': '补全文词',
+    'read_daily_life': '日常阅读',
+    'read_academic_passage': '学术阅读',
+    'listen_choose_response': '听力应答',
+    'listen_conversation': '对话理解',
+    'listen_announcement': '公告理解',
+    'listen_academic_talk': '学术讲座',
+    'listen_repeat': '听后复述',
+    'take_interview': '模拟访谈',
+    'build_sentence': '句子构建',
+    'write_email': '邮件写作',
+    'academic_discussion': '学术讨论',
 }
 
 
 def write_record(record):
     HISTORY_DIR.mkdir(parents=True, exist_ok=True)
     path = HISTORY_DIR / f"{record['id']}.json"
-    temporary = path.with_suffix('.tmp')
-    temporary.write_text(json.dumps(record, ensure_ascii=False), encoding='utf-8')
-    temporary.replace(path)
+    write_archive(path, record)
     _SUMMARY_INDEX.invalidate(path)
     _MATERIAL_INDEX.invalidate(path)
 
@@ -78,14 +101,22 @@ def save_submission(payload, result):
             if existing['fingerprint'] != fingerprint:
                 raise HTTPException(409, '该次提交已归档，请开始新一轮练习')
             return
-        write_record({
-            'id': str(record_id), 'fingerprint': fingerprint,
-            'category': 'test' if payload.section == 'all' and payload.mode == 'exam' else 'practice',
-            'completed_at': time.time(), 'section': payload.section, 'mode': payload.mode,
-            'task_type': payload.task_type,
-            'questions': [store.question(item['question_id']) for item in result['feedback']],
-            'result': result, 'recordings': {},
-        })
+        write_record(
+            {
+                'id': str(record_id),
+                'fingerprint': fingerprint,
+                'category': 'test'
+                if payload.section == 'all' and payload.mode == 'exam'
+                else 'practice',
+                'completed_at': time.time(),
+                'section': payload.section,
+                'mode': payload.mode,
+                'task_type': payload.task_type,
+                'questions': [store.question(item['question_id']) for item in result['feedback']],
+                'result': result,
+                'recordings': {},
+            }
+        )
 
 
 def submitted_material_counts() -> Counter[str]:
@@ -121,25 +152,33 @@ def reset_history(payload: ResetRequest, request: Request):
             if payload.scope == 'probability':
                 # Snapshot IDs, not dates: old retries and clock changes must not restore weight.
                 HISTORY_DIR.mkdir(parents=True, exist_ok=True)
-                temporary = reset_path.with_suffix('.tmp')
-                temporary.write_text(json.dumps(sorted(path.stem for path in paths)), encoding='utf-8')
-                temporary.replace(reset_path)
-                logger.info('Practice repeat probability reset; preserved %d submissions', len(paths))
+                write_archive(reset_path, sorted(path.stem for path in paths))
+                logger.info(
+                    'Practice repeat probability reset; preserved %d submissions', len(paths)
+                )
                 return {'scope': payload.scope, 'deleted': 0}
-            paths += [path for path in mock_exam.SESSION_DIR.glob('*.json')
-                      if mock_exam.read_session(path.stem)['status'] == 'completed']
+            paths += [
+                path
+                for path in mock_exam.SESSION_DIR.glob('*.json')
+                if mock_exam.read_session(path.stem)['status'] == 'completed'
+            ]
             try:
                 from . import adaptive_test
             except ImportError:
                 import adaptive_test
-            test_sessions = [path for path in adaptive_test.SESSION_DIR.glob('*.json')
-                             if adaptive_test.read_session(path.stem)['status'] == 'completed']
+            test_sessions = [
+                path
+                for path in adaptive_test.SESSION_DIR.glob('*.json')
+                if adaptive_test.read_session(path.stem)['status'] == 'completed'
+            ]
             paths += test_sessions
             # Validate every resolved target before any deletion; never remove a data root.
             for path in paths:
                 directory = path.with_suffix('')
-                if (path.resolve().parent != path.parent.resolve()
-                        or directory.resolve().parent != path.parent.resolve()):
+                if (
+                    path.resolve().parent != path.parent.resolve()
+                    or directory.resolve().parent != path.parent.resolve()
+                ):
                     raise HTTPException(409, '记录路径无效，未执行清空')
                 try:
                     UUID(path.stem)
@@ -152,11 +191,17 @@ def reset_history(payload: ResetRequest, request: Request):
                 path.unlink()
             reset_path.unlink(missing_ok=True)
             deleted = len(paths) - len(test_sessions)
-            logger.info('Cleared %d completed archive records and reset repeat probability', deleted)
+            logger.info(
+                'Cleared %d completed archive records and reset repeat probability', deleted
+            )
             return {'scope': payload.scope, 'deleted': deleted}
         except OSError:
             logger.exception('Archive reset failed scope=%s', payload.scope)
-            message = '未能重置抽题概率，请重试。' if payload.scope == 'probability' else '未能完成清空，部分记录可能已删除，请重试。'
+            message = (
+                '未能重置抽题概率，请重试。'
+                if payload.scope == 'probability'
+                else '未能完成清空，部分记录可能已删除，请重试。'
+            )
             raise HTTPException(500, message) from None
 
 
@@ -164,25 +209,52 @@ def summary(record, category):
     if category == 'mock':
         result = mock_exam.build_completed_result(record)
         return {
-            'id': record['id'], 'category': 'mock', 'completed_at': record['completed_at'],
-            'title': result['paper']['title'], 'subtitle': '完整四科 · 写作与口语待复核',
+            'id': record['id'],
+            'category': 'mock',
+            'completed_at': record['completed_at'],
+            'title': result['paper']['title'],
+            'subtitle': '完整四科 · 写作与口语待复核',
             'total': len(result['review']),
-            'answered': sum(bool(item['answer'].strip() or item['recording_url']) for item in result['review']),
-            'earned': result['objective_correct'], 'possible': result['objective_total'],
+            'answered': sum(
+                bool(item['answer'].strip() or item['recording_url']) for item in result['review']
+            ),
+            'earned': result['objective_correct'],
+            'possible': result['objective_total'],
             'score_label': '客观题参考正确数',
         }
     result = record['result']
     section = SECTION_NAMES[record['section']]
     task = TASK_NAMES.get(record['task_type'])
-    mode = '专项练习' if record['mode'] == 'practice' else '题库练习' if record['mode'] == 'bank' else '综合测验' if category == 'test' else '整科练习'
+    mode = (
+        '专项练习'
+        if record['mode'] == 'practice'
+        else '题库练习'
+        if record['mode'] == 'bank'
+        else '综合测验'
+        if category == 'test'
+        else '整科练习'
+    )
     return {
-        'id': record['id'], 'category': category, 'completed_at': record['completed_at'],
-        'title': result['adaptive']['profile']['title'] if 'adaptive' in result else f'{section} · {task}' if task else f'{section} · {mode}',
-        'subtitle': f"起始 {result['adaptive']['starting_level']} / 10 · 分级综合测验" if 'adaptive' in result else mode if task else '已提交',
-        'total': result['total_questions'], 'answered': result['answered_questions'],
+        'id': record['id'],
+        'category': category,
+        'completed_at': record['completed_at'],
+        'title': result['adaptive']['profile']['title']
+        if 'adaptive' in result
+        else f'{section} · {task}'
+        if task
+        else f'{section} · {mode}',
+        'subtitle': f"起始 {result['adaptive']['starting_level']} / 10 · 分级综合测验"
+        if 'adaptive' in result
+        else mode
+        if task
+        else '已提交',
+        'total': result['total_questions'],
+        'answered': result['answered_questions'],
         'earned': round(sum(item['earned'] for item in result['sections'].values()), 1),
         'possible': sum(item['possible'] for item in result['sections'].values()),
-        'score_label': '客观题参考正确数 · 非官方成绩' if 'adaptive' in result else '练习原始分 · 非官方成绩',
+        'score_label': '客观题参考正确数 · 非官方成绩'
+        if 'adaptive' in result
+        else '练习原始分 · 非官方成绩',
     }
 
 
@@ -223,9 +295,16 @@ def list_history(
     total = len(records)
     pages = max(1, (total + page_size - 1) // page_size)
     page = min(page, pages)
-    selected = records[(page - 1) * page_size:page * page_size]
-    return {'items': [summary(record, category) if category == 'mock' else dict(record) for record in selected],
-            'total': total, 'page': page, 'pages': pages, 'page_size': page_size}
+    selected = records[(page - 1) * page_size : page * page_size]
+    return {
+        'items': [
+            summary(record, category) if category == 'mock' else dict(record) for record in selected
+        ],
+        'total': total,
+        'page': page,
+        'pages': pages,
+        'page_size': page_size,
+    }
 
 
 @router.get('/{category}/{record_id}')
@@ -241,21 +320,46 @@ def detail(category: Category, record_id: UUID):
     for question in record['questions']:
         current = store.question(question['id'])
         key = store.answer(question['id'])
-        if current == question and key and reference_answer(current, key) == feedback[question['id']]['reference_answer']:
+        if (
+            current == question
+            and key
+            and reference_answer(current, key) == feedback[question['id']]['reference_answer']
+        ):
             learning_explanations[question['id']] = key['explanation']
-    return {**{key: record[key] for key in ('id', 'category', 'completed_at', 'section', 'mode', 'task_type', 'questions', 'result')},
-            'learning_explanations': learning_explanations,
-            'recordings': {question_id: f'/api/v1/history/{category}/{record_id}/recordings/{question_id}' for question_id in record['recordings']}}
+    return {
+        **{
+            key: record[key]
+            for key in (
+                'id',
+                'category',
+                'completed_at',
+                'section',
+                'mode',
+                'task_type',
+                'questions',
+                'result',
+            )
+        },
+        'learning_explanations': learning_explanations,
+        'recordings': {
+            question_id: f'/api/v1/history/{category}/{record_id}/recordings/{question_id}'
+            for question_id in record['recordings']
+        },
+    }
 
 
 @router.put('/{category}/{record_id}/recordings/{question_id}')
-async def upload_recording(category: Literal['practice', 'test'], record_id: UUID, question_id: str, request: Request):
+async def upload_recording(
+    category: Literal['practice', 'test'], record_id: UUID, question_id: str, request: Request
+):
     content_type = request.headers.get('content-type', '').split(';')[0]
     if content_type not in ('audio/webm', 'audio/ogg', 'audio/mp4'):
         raise HTTPException(415, '仅支持浏览器音频录音')
     with LOCK:
         record = read_record(record_id)
-        if record['category'] != category or not any(q['id'] == question_id and q['section'] == 'speaking' for q in record['questions']):
+        if record['category'] != category or not any(
+            q['id'] == question_id and q['section'] == 'speaking' for q in record['questions']
+        ):
             raise HTTPException(422, '录音不属于这次提交的口语题目')
     data = bytearray()
     async for chunk in request.stream():
@@ -284,4 +388,6 @@ def recording(category: Literal['practice', 'test'], record_id: UUID, question_i
         record = read_record(record_id)
     if record['category'] != category or question_id not in record['recordings']:
         raise HTTPException(404, '录音不存在')
-    return FileResponse(HISTORY_DIR / str(record_id) / question_id, media_type=record['recordings'][question_id])
+    return FileResponse(
+        HISTORY_DIR / str(record_id) / question_id, media_type=record['recordings'][question_id]
+    )

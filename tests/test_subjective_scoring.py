@@ -31,9 +31,11 @@ def test_reference_responses_are_not_flagged_as_repetition():
 
 def test_natural_reuse_of_topic_words_is_not_keyword_stuffing():
     key = store.answer('S08')
-    response = ('I study in the library because it is quiet. My favorite place is the upstairs '
-                'reading room. I study there after class because I can spread out my notes, '
-                'and a librarian can help when I cannot find a source.')
+    response = (
+        'I study in the library because it is quiet. My favorite place is the upstairs '
+        'reading room. I study there after class because I can spread out my notes, '
+        'and a librarian can help when I cannot find a source.'
+    )
     earned, _, feedback, correct = score_one({'section': 'speaking'}, key, response)
     assert earned >= 3.5 and correct
     assert 'repeated' not in feedback.lower()
@@ -46,6 +48,7 @@ def test_empty_response_still_scores_zero():
 
 def test_short_interview_keyword_loop_is_also_rejected():
     earned, _, feedback, correct = score_one(
-        {'section': 'speaking'}, store.answer('S08'), 'study place because ' * 6)
+        {'section': 'speaking'}, store.answer('S08'), 'study place because ' * 6
+    )
     assert earned <= 1 and not correct
     assert 'repeated' in feedback.lower()

@@ -11,16 +11,21 @@ const colors = {
   incorrect: { color: 'rgb(170, 68, 59)', background: 'rgb(251, 239, 236)' },
 };
 
-test('new results and historical review reset material selection and reveal state', async ({ page, request }) => {
+test('new results and historical review reset material selection and reveal state', async ({
+  page,
+  request,
+}) => {
   expect((await request.get('/')).status()).toBe(200);
   const errors = [];
-  page.on('pageerror', error => errors.push(error.message));
+  page.on('pageerror', (error) => errors.push(error.message));
   await page.goto('/');
   expect(errors).toEqual([]);
   expect(await page.evaluate(() => typeof window.createPracticeReview)).toBe('function');
   await openSettings(page, 'reading', 'complete_words', 2);
   await start(page);
-  const submitted = page.waitForRequest(request => request.url().endsWith('/api/v1/exam/submit') && request.method() === 'POST');
+  const submitted = page.waitForRequest(
+    (request) => request.url().endsWith('/api/v1/exam/submit') && request.method() === 'POST',
+  );
   await submit(page);
   const historyId = (await submitted).postDataJSON().submission_id;
   await page.locator('[data-review-index="1"]').click();
@@ -54,26 +59,56 @@ test('new results and historical review reset material selection and reveal stat
   expect(errors).toEqual([]);
 });
 
-test('review instances keep DOM local and register navigation only once', async ({ page, request }) => {
+test('review instances keep DOM local and register navigation only once', async ({
+  page,
+  request,
+}) => {
   expect((await request.get('/')).status()).toBe(200);
   await page.goto('/');
   const result = await page.evaluate(() => {
     const root = document.createElement('section');
-    root.innerHTML = '<h2 id="result-title"></h2><dl id="result-summary"></dl><div id="review-index"></div><div id="feedback-list"></div><button id="result-home"><span></span></button><div id="recording-archive-status"></div>';
-    const escapeHtml = value => String(value ?? '').replace(/[&<>"']/g, character => `&#${character.charCodeAt(0)};`);
+    root.innerHTML =
+      '<h2 id="result-title"></h2><dl id="result-summary"></dl><div id="review-index"></div><div id="feedback-list"></div><button id="result-home"><span></span></button><div id="recording-archive-status"></div>';
+    const escapeHtml = (value) =>
+      String(value ?? '').replace(/[&<>"']/g, (character) => `&#${character.charCodeAt(0)};`);
     let selections = 0;
     const review = window.createPracticeReview({
-      root, sectionLabels: { reading: 'Reading' }, taskLabels: { read_daily_life: 'Daily life' },
-      format: { escapeHtml, formatTime: String, formatAnswer: value => String(value ?? '') },
+      root,
+      sectionLabels: { reading: 'Reading' },
+      taskLabels: { read_daily_life: 'Daily life' },
+      format: { escapeHtml, formatTime: String, formatAnswer: (value) => String(value ?? '') },
       content: { materialMarkup: () => '', clozeMarkup: () => '', audioMarkup: () => '' },
-      onSelectMaterial: () => { selections += 1; }, onPlayAudio: () => {},
+      onSelectMaterial: () => {
+        selections += 1;
+      },
+      onPlayAudio: () => {},
     });
     const snapshot = {
-      section: 'reading', historyReview: false, recordings: {}, tasks: { read_daily_life: { label: '短文' } },
-      questions: ['first', 'second'].map(id => ({ id, task_type: 'read_daily_life', response_type: 'choice', prompt: '<b>Question</b>', options: ['A', 'B'] })),
+      section: 'reading',
+      historyReview: false,
+      recordings: {},
+      tasks: { read_daily_life: { label: '短文' } },
+      questions: ['first', 'second'].map((id) => ({
+        id,
+        task_type: 'read_daily_life',
+        response_type: 'choice',
+        prompt: '<b>Question</b>',
+        options: ['A', 'B'],
+      })),
       result: {
         sections: { reading: { earned: 2, possible: 2, percentage: 100, answered: 2, total: 2 } },
-        feedback: ['first', 'second'].map(question_id => ({ question_id, task_type: 'read_daily_life', correct: true, answer: 0, correct_index: 0, answered: true, earned: 1, possible: 1, duration_seconds: 1, reference_answer: 'A' })),
+        feedback: ['first', 'second'].map((question_id) => ({
+          question_id,
+          task_type: 'read_daily_life',
+          correct: true,
+          answer: 0,
+          correct_index: 0,
+          answered: true,
+          earned: 1,
+          possible: 1,
+          duration_seconds: 1,
+          reference_answer: 'A',
+        })),
       },
     };
     const before = JSON.stringify(snapshot);
@@ -87,13 +122,22 @@ test('review instances keep DOM local and register navigation only once', async 
     review.dispose();
     root.querySelector('[data-review-index="1"]').click();
     return {
-      selectedOnce, afterDispose: selections, reset,
+      selectedOnce,
+      afterDispose: selections,
+      reset,
       unchangedInput: JSON.stringify(snapshot) === before,
       unchangedPage: document.querySelector('#result-title').textContent === pageTitle,
       injectedElements: root.querySelectorAll('.review-original b').length,
     };
   });
-  expect(result).toEqual({ selectedOnce: 1, afterDispose: 1, reset: 'step', unchangedInput: true, unchangedPage: true, injectedElements: 0 });
+  expect(result).toEqual({
+    selectedOnce: 1,
+    afterDispose: 1,
+    reset: 'step',
+    unchangedInput: true,
+    unchangedPage: true,
+    injectedElements: 0,
+  });
 });
 
 async function expectResultColor(locator, correct) {
@@ -109,21 +153,31 @@ for (const desktop of [
   { scale: 1.5, width: 1707, height: 960 },
 ]) {
   test.describe(`choice review at ${desktop.scale * 100}% desktop scaling`, () => {
-    test.use({ viewport: { width: desktop.width, height: desktop.height }, deviceScaleFactor: desktop.scale });
+    test.use({
+      viewport: { width: desktop.width, height: desktop.height },
+      deviceScaleFactor: desktop.scale,
+    });
 
     for (const [section, task, count] of [
       ['listening', 'listen_choose_response', 8],
       ['reading', 'read_daily_life', 4],
     ]) {
-      test(`${section} colors correct, wrong and unanswered results after submission and reload`, async ({ page, request }, testInfo) => {
+      test(`${section} colors correct, wrong and unanswered results after submission and reload`, async ({
+        page,
+        request,
+      }, testInfo) => {
         const errors = [];
-        page.on('pageerror', error => errors.push(error.message));
+        page.on('pageerror', (error) => errors.push(error.message));
         expect((await request.get('/')).status()).toBe(200);
-        await page.route('**/api/v1/tts', route => route.fulfill({ json: { url: null, fallback: true } }));
+        await page.route('**/api/v1/tts', (route) =>
+          route.fulfill({ json: { url: null, fallback: true } }),
+        );
         await page.goto('/');
         await openSettings(page, section, task, count);
         const exam = await start(page);
-        const groups = [...new Set(exam.questions.map(question => question.group_id || question.id))];
+        const groups = [
+          ...new Set(exam.questions.map((question) => question.group_id || question.id)),
+        ];
         expect(groups.length).toBeGreaterThanOrEqual(3);
         const first = exam.questions[0];
         const correctIndex = answerKeys[section][first.id].correct_index;
@@ -148,16 +202,26 @@ for (const desktop of [
         const nav = page.locator('#review-index button');
         await expect(nav).toHaveCount(groups.length);
         for (let index = 0; index < groups.length; index += 1) {
-          const questions = exam.questions.filter(question => (question.group_id || question.id) === groups[index]);
-          const allCorrect = questions.every(question => result.feedback.find(item => item.question_id === question.id).correct);
+          const questions = exam.questions.filter(
+            (question) => (question.group_id || question.id) === groups[index],
+          );
+          const allCorrect = questions.every(
+            (question) => result.feedback.find((item) => item.question_id === question.id).correct,
+          );
           expect(allCorrect).toBe(index !== 0 && index !== 2);
           await expectResultColor(nav.nth(index), allCorrect);
-          await expect(nav.nth(index)).toHaveAttribute('aria-label', new RegExp(allCorrect ? '全部正确' : '有错题或未作答'));
+          await expect(nav.nth(index)).toHaveAttribute(
+            'aria-label',
+            new RegExp(allCorrect ? '全部正确' : '有错题或未作答'),
+          );
         }
 
         async function expectWrongAnswer() {
-          const firstFeedback = result.feedback.find(item => item.question_id === first.id);
-          const explanation = page.locator('.review-answer').first().locator('.review-explanations');
+          const firstFeedback = result.feedback.find((item) => item.question_id === first.id);
+          const explanation = page
+            .locator('.review-answer')
+            .first()
+            .locator('.review-explanations');
           await explanation.locator('summary').click();
           await expect(explanation.locator('p')).toHaveText([firstFeedback.explanation]);
           await expect(explanation.locator('p')).toHaveCSS('white-space', 'pre-line');
@@ -167,8 +231,14 @@ for (const desktop of [
           const options = page.locator('.review-options').first().locator('li');
           await expectResultColor(options.nth(wrongIndex), false);
           await expectResultColor(options.nth(correctIndex), true);
-          await expect(options.nth(wrongIndex).locator('.choice-letter')).toHaveCSS('color', colors.incorrect.color);
-          await expect(options.nth(correctIndex).locator('.choice-letter')).toHaveCSS('color', colors.correct.color);
+          await expect(options.nth(wrongIndex).locator('.choice-letter')).toHaveCSS(
+            'color',
+            colors.incorrect.color,
+          );
+          await expect(options.nth(correctIndex).locator('.choice-letter')).toHaveCSS(
+            'color',
+            colors.correct.color,
+          );
           await expect(page.locator('.review-options .option-incorrect')).toHaveCount(1);
           for (let index = 0; index < first.options.length; index += 1) {
             if (index !== wrongIndex && index !== correctIndex) {
@@ -194,21 +264,28 @@ for (const desktop of [
         await expectWrongAnswer();
         await expect(nav.nth(0)).toHaveAttribute('aria-current', 'step');
         await expectResultColor(nav.nth(0), false);
-        expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
-        await page.locator('.review-answer').first().locator('.review-explanations summary').press('Enter');
+        expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(
+          true,
+        );
+        await page
+          .locator('.review-answer')
+          .first()
+          .locator('.review-explanations summary')
+          .press('Enter');
         await page.screenshot({ path: testInfo.outputPath('choice-review.png'), fullPage: true });
 
         const newest = (await (await request.get('/api/v1/history')).json()).items[0];
         await page.reload();
-        await page.locator('#open-history').click();
-        await page.locator(`[data-history-id='${newest.id}']`).click();
+        await expect(page).toHaveURL(new RegExp(`/history/practice/${newest.id}$`));
         await expect(page.locator('#result-title')).toContainText('历史复盘');
         await expectWrongAnswer();
         await expectResultColor(nav.nth(0), false);
         await expectResultColor(nav.nth(1), true);
         await expectResultColor(nav.nth(2), false);
         await page.setViewportSize({ width: 1280, height: 900 });
-        expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(true);
+        expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(
+          true,
+        );
         await nav.nth(1).press('Space');
         await expect(nav.nth(1)).toHaveAttribute('aria-current', 'step');
         await expectResultColor(nav.nth(1), true);
@@ -225,15 +302,19 @@ for (const scenario of ['distinct feedback', 'repeated reference', 'whitespace d
     await openSettings(page, 'writing', 'write_email', 1);
     await start(page);
     let expected;
-    await page.route('**/api/v1/exam/submit', async route => {
+    await page.route('**/api/v1/exam/submit', async (route) => {
       const response = await route.fetch();
       const result = await response.json();
       const item = result.feedback[0];
       item.feedback = '内容反馈：请补充 deadline 对计划的影响。';
-      item.explanation = scenario === 'repeated reference' ? item.reference_answer
-        : scenario === 'whitespace duplicate' ? `  ${item.feedback}\n`
-        : '结构解析：先说明 request，再用 because 补充原因；不要写成 <request> 标签。';
-      expected = scenario === 'distinct feedback' ? [item.feedback, item.explanation] : [item.feedback];
+      item.explanation =
+        scenario === 'repeated reference'
+          ? item.reference_answer
+          : scenario === 'whitespace duplicate'
+            ? `  ${item.feedback}\n`
+            : '结构解析：先说明 request，再用 because 补充原因；不要写成 <request> 标签。';
+      expected =
+        scenario === 'distinct feedback' ? [item.feedback, item.explanation] : [item.feedback];
       await route.fulfill({ response, json: result });
     });
     await submit(page);
@@ -244,21 +325,30 @@ for (const scenario of ['distinct feedback', 'repeated reference', 'whitespace d
   });
 }
 
-test('deadline response shows one evidence-based bilingual explanation in history', async ({ page, request }, testInfo) => {
+test('deadline response shows one evidence-based bilingual explanation in history', async ({
+  page,
+  request,
+}, testInfo) => {
   const id = randomUUID();
   const questionIds = ['L62', 'L01', 'L02', 'L03', 'L04', 'L05', 'L06', 'L07'];
-  const response = await request.post('/api/v1/exam/submit', { data: {
-    submission_id: id, section: 'listening', mode: 'practice',
-    task_type: 'listen_choose_response', count: 8, question_ids: questionIds,
-    responses: [{ question_id: 'L62', answer: 0, duration_seconds: 61 }],
-  } });
+  const response = await request.post('/api/v1/exam/submit', {
+    data: {
+      submission_id: id,
+      section: 'listening',
+      mode: 'practice',
+      task_type: 'listen_choose_response',
+      count: 8,
+      question_ids: questionIds,
+      responses: [{ question_id: 'L62', answer: 0, duration_seconds: 61 }],
+    },
+  });
   expect(response.status()).toBe(200);
   expect((await request.get('/')).status()).toBe(200);
   await page.setViewportSize({ width: 2048, height: 1152 });
-  await page.route(`**/api/v1/history/practice/${id}`, async route => {
+  await page.route(`**/api/v1/history/practice/${id}`, async (route) => {
     const response = await route.fetch();
     const record = await response.json();
-    const item = record.result.feedback.find(entry => entry.question_id === 'L62');
+    const item = record.result.feedback.find((entry) => entry.question_id === 'L62');
     item.explanation = 'The deadline is later, but revise sooner.';
     item.feedback = `  ${item.explanation}\n`;
     await route.fulfill({ response, json: record });
@@ -267,7 +357,9 @@ test('deadline response shows one evidence-based bilingual explanation in histor
   await page.locator('#open-history').click();
   await page.locator(`[data-history-id='${id}']`).click();
   const answer = page.locator('.review-answer').first();
-  await expect(answer.locator('.reference-answer')).toHaveText("D. That's a relief; I can revise my draft.");
+  await expect(answer.locator('.reference-answer')).toHaveText(
+    "D. That's a relief; I can revise my draft.",
+  );
   const explanation = answer.locator('.review-explanations');
   await explanation.locator('summary').press('Enter');
   await expect(explanation.locator('p')).toHaveText([answerKeys.listening.L62.explanation]);

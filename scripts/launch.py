@@ -45,7 +45,11 @@ def main() -> None:
     sys.path.insert(0, str(ROOT))
     from backend.logging_config import server_log_config
 
-    server = uvicorn.Server(uvicorn.Config("backend.app:app", host="127.0.0.1", port=38761, log_config=server_log_config()))
+    server = uvicorn.Server(
+        uvicorn.Config(
+            "backend.app:app", host="127.0.0.1", port=38761, log_config=server_log_config()
+        )
+    )
     stopped = threading.Event()
 
     def open_when_ready() -> None:

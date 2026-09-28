@@ -22,16 +22,19 @@ def install_voice(monkeypatch, stream):
     monkeypatch.setitem(sys.modules, 'edge_tts', SimpleNamespace(Communicate=Voice))
 
 
-@pytest.mark.parametrize(('requested', 'expected'), [
-    ('en-US-AriaNeural', 'en-US-AriaNeural'),
-    ('en-US-GuyNeural', 'en-US-GuyNeural'),
-    ('en-GB-SoniaNeural', 'en-GB-SoniaNeural'),
-    ('en-GB-RyanNeural', 'en-GB-RyanNeural'),
-    ('en-AU-NatashaNeural', 'en-AU-NatashaNeural'),
-    ('en-AU-WilliamMultilingualNeural', 'en-AU-WilliamMultilingualNeural'),
-    ('en-NZ-MollyNeural', 'en-US-AriaNeural'),
-    ('en-US-UnknownVoice', 'en-US-AriaNeural'),
-])
+@pytest.mark.parametrize(
+    ('requested', 'expected'),
+    [
+        ('en-US-AriaNeural', 'en-US-AriaNeural'),
+        ('en-US-GuyNeural', 'en-US-GuyNeural'),
+        ('en-GB-SoniaNeural', 'en-GB-SoniaNeural'),
+        ('en-GB-RyanNeural', 'en-GB-RyanNeural'),
+        ('en-AU-NatashaNeural', 'en-AU-NatashaNeural'),
+        ('en-AU-WilliamMultilingualNeural', 'en-AU-WilliamMultilingualNeural'),
+        ('en-NZ-MollyNeural', 'en-US-AriaNeural'),
+        ('en-US-UnknownVoice', 'en-US-AriaNeural'),
+    ],
+)
 def test_only_supported_prompt_voices_reach_synthesis(monkeypatch, requested, expected):
     async def stream(self):
         assert self.voice == expected
@@ -98,7 +101,12 @@ def test_synthesis_is_cancelled_when_request_ends(monkeypatch, exit_reason):
             return {'type': 'http.disconnect'}
 
         install_voice(monkeypatch, stream)
-        monkeypatch.setattr(app_module, 'TTS_TIMEOUT_SECONDS', 0.05 if exit_reason == 'timeout' else 20, raising=False)
+        monkeypatch.setattr(
+            app_module,
+            'TTS_TIMEOUT_SECONDS',
+            0.05 if exit_reason == 'timeout' else 20,
+            raising=False,
+        )
         request = SimpleNamespace(receive=receive)
         task = asyncio.create_task(app_module.tts(TTSRequest(text='Pending prompt.'), request))
         await asyncio.wait_for(started.wait(), timeout=1)

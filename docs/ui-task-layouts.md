@@ -4,7 +4,7 @@
 
 ## 一手资料
 
-- ETS [Updated TOEFL iBT Test Overview](https://www.ets.org/pdfs/toefl/toefl-ibt-test-overview.pdf)，28 页。重新在线获取返回 HTTP 200、`application/pdf`，SHA-256：`ce5e0eef3ea47b9964b0b1b034e96fa3b2aa0681347f17b381196cb0661249f0`，与上轮文件一致。以下页码为 PDF 页码，与页脚一致。依据是文档中**内嵌的电脑题面截图**，不是周围的说明正文或纸质题目排版。提取的核验图位于 `artifacts/ets-reference/screen-examples/`，没有放入产品的静态资源。
+- ETS [Updated TOEFL iBT Test Overview](https://www.ets.org/pdfs/toefl/toefl-ibt-test-overview.pdf)，28 页。重新在线获取返回 HTTP 200、`application/pdf`，SHA-256：`ce5e0eef3ea47b9964b0b1b034e96fa3b2aa0681347f17b381196cb0661249f0`，与上轮文件一致。以下页码为 PDF 页码，与页脚一致。依据是文档中**内嵌的电脑题面截图**，不是周围的说明正文或纸质题目排版。提取的核验图位于 `tmp/artifacts-2026-09-28/ets-derived/screen-examples/`，没有放入产品的静态资源。
 - ETS [Speaking Section](https://www.ets.org/toefl/test-takers/ibt/about/content/speaking.html)：在线页面核对了复述、模拟面试与麦克风回答；此说明页面本身不作为屏幕布局证据。
 - [Build a Sentence 格式记录](question-bank/sentence-format.md)：另列 ETS 纸质练习题页码，支持固定词、空位和可能多余的词块。纸质排版不能证明机考像素布局。
 

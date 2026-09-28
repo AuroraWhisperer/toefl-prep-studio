@@ -23,6 +23,8 @@ def server_log_config() -> dict:
     config['filters'] = {'static_access': {'()': StaticAccessFilter}}
     config['loggers']['uvicorn.access']['filters'] = ['static_access']
     config['loggers']['toefl_trainer'] = {
-        'handlers': ['default'], 'level': 'INFO', 'propagate': False,
+        'handlers': ['default'],
+        'level': 'INFO',
+        'propagate': False,
     }
     return config

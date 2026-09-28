@@ -7,7 +7,8 @@
 
 ## Documentation
 - `AGENTS.md`: repository-wide working rules and desktop-only scope.
-- `README.md`: setup, launch, APIs, and test commands.
+- `README.md` / `README.en.md`: Chinese and English project overviews, quick start, capabilities, and documentation navigation; keep both versions aligned.
+- `docs/technical/`: current architecture, API contracts, setup, and verification commands.
 - `PRODUCT.md`: product behavior and feature boundaries.
 - `DESIGN.md`: visual language, layout, and interaction conventions.
 - `question_bank/README.md`: content sources, generation, review, and import procedures.
@@ -19,7 +20,7 @@ Read the relevant document before editing. Update its owning document when behav
 - `frontend/`: vanilla HTML, CSS, and JavaScript served by FastAPI; no frontend framework or build step.
 - `question_bank/`: questions, separate answer keys, source materials, and mock-test resources.
 - `scripts/`: launch, question generation/import, and audits; `tests/`: pytest and Playwright regression tests.
-- `artifacts/`: local sessions, practice history, recordings, and test output.
+- `artifacts/`: local sessions, practice history, recordings, reference PDFs, and active development output; follow the [directory guide](docs/technical/artifacts.md). Name task folders `<purpose>-YYYY-MM-DD`; put active QA output under `artifacts/qa/` and move retired development artifacts to `tmp/`. When moving or renaming, update local README indexes and current path references; preserve machine-owned IDs and snapshot source filenames. Do not create source backups unless requested.
 - Local hosting does not imply fully offline operation; speech synthesis may require network access.
 
 ## Change Rules

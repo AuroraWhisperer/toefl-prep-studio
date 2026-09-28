@@ -7,10 +7,15 @@ const python = process.platform === 'win32' ? '.venv\\Scripts\\python.exe' : '.v
 const port = process.env.TOEFL_TEST_PORT || '8765';
 const baseURL = `http://127.0.0.1:${port}`;
 // Workers reload this configuration; keep the runner's owned data root across processes.
-const dataRoot = path.resolve('artifacts/browser-data');
-const dataDirectory = path.resolve(process.env.TOEFL_BROWSER_DATA_DIR || path.join(dataRoot, randomUUID()));
-if (path.dirname(dataDirectory) !== dataRoot || !/^[0-9a-f]{8}(?:-[0-9a-f]{4}){3}-[0-9a-f]{12}$/i.test(path.basename(dataDirectory))) {
-  throw new Error('Browser test data must use a UUID directory inside artifacts/browser-data');
+const dataRoot = path.resolve('artifacts/qa/browser-data');
+const dataDirectory = path.resolve(
+  process.env.TOEFL_BROWSER_DATA_DIR || path.join(dataRoot, randomUUID()),
+);
+if (
+  path.dirname(dataDirectory) !== dataRoot ||
+  !/^[0-9a-f]{8}(?:-[0-9a-f]{4}){3}-[0-9a-f]{12}$/i.test(path.basename(dataDirectory))
+) {
+  throw new Error('Browser test data must use a UUID directory inside artifacts/qa/browser-data');
 }
 process.env.TOEFL_BROWSER_DATA_DIR = dataDirectory;
 
@@ -20,7 +25,7 @@ module.exports = defineConfig({
   workers: 1,
   timeout: 60000,
   reporter: 'list',
-  outputDir: 'artifacts/browser-tests',
+  outputDir: 'artifacts/qa/browser-tests',
   globalTeardown: require.resolve('./tests/browser_cleanup.cjs'),
   use: {
     baseURL,

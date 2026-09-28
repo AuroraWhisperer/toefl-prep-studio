@@ -1,4 +1,5 @@
 """Coverage and review gates for the private, locally authored teaching notes."""
+
 import json
 import re
 from pathlib import Path
@@ -17,7 +18,7 @@ def read_json(path):
 
 
 @pytest.mark.parametrize('number', range(1, 6))
-def test_mock_teaching_notes_cover_the_reviewed_paper(number):
+def test_mock_teaching_notes_cover_the_reviewed_paper(number, local_mock_supplements):
     paper_id = f'ets-test-{number}'
     paper = read_json(f'question_bank/mock/{paper_id}.json')
     answers = read_json(f'question_bank/answers/mock/{paper_id}.json')
@@ -29,7 +30,9 @@ def test_mock_teaching_notes_cover_the_reviewed_paper(number):
     assert set(explanations) == {item['id'] for item in items}
     assert notes['source_sha256'] == paper['source_sha256']
     assert re.fullmatch(r'\d{4}-\d{2}-\d{2}', notes['reviewed_on'])
-    assert notes['content_sha256'] == mock_explanation_fingerprint(paper, answers, variants, explanations)
+    assert notes['content_sha256'] == mock_explanation_fingerprint(
+        paper, answers, variants, explanations
+    )
     for item in items:
         assert not {'explanation', 'reference', 'correct_index', 'accepted'} & item.keys()
         explanation = explanations[item['id']]
@@ -37,7 +40,7 @@ def test_mock_teaching_notes_cover_the_reviewed_paper(number):
         assert len(lines) == 3, item['id']
         for line, label in zip(lines, ('读懂：', '解析：', '下次：')):
             assert line.startswith(label), item['id']
-            assert re.search(r'[\u3400-\u9fff]', line[len(label):]), item['id']
+            assert re.search(r'[\u3400-\u9fff]', line[len(label) :]), item['id']
         assert re.search(r'[A-Za-z]{2,}', explanation), item['id']
 
     for phase in paper['phases']:
@@ -54,8 +57,15 @@ def test_mock_teaching_notes_cover_the_reviewed_paper(number):
                 if re.search(r'[A-Za-z]', quote) and not re.search(r'[\u3400-\u9fff]', quote):
                     assert normalize(quote) in source, (item['id'], quote)
 
-    result = build_completed_result({'id': str(uuid4()), 'paper_id': paper_id,
-                                     'status': 'completed', 'answers': {}, 'recordings': {}})
+    result = build_completed_result(
+        {
+            'id': str(uuid4()),
+            'paper_id': paper_id,
+            'status': 'completed',
+            'answers': {},
+            'recordings': {},
+        }
+    )
     assert len(result['review']) == 97
     assert result['objective_total'] == len(answers)
     assert result['objective_correct'] == 0
@@ -70,6 +80,10 @@ def test_mock_review_fingerprint_detects_changed_notes_and_accepted_answers():
     variants = {'sentence-1': {'answers': ['Another valid answer.']}}
     notes = {'sentence-1': 'Original explanation.'}
     expected = mock_explanation_fingerprint(paper, answers, variants, notes)
-    assert expected != mock_explanation_fingerprint(paper, answers, variants, {'sentence-1': 'Changed explanation.'})
+    assert expected != mock_explanation_fingerprint(
+        paper, answers, variants, {'sentence-1': 'Changed explanation.'}
+    )
     assert expected != mock_explanation_fingerprint(paper, answers, {}, notes)
-    assert expected == mock_explanation_fingerprint(paper, answers, {**variants, 'other-paper': {}}, notes)
+    assert expected == mock_explanation_fingerprint(
+        paper, answers, {**variants, 'other-paper': {}}, notes
+    )

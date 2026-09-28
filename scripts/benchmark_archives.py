@@ -1,4 +1,5 @@
 """Measure JSON archive scans using synthetic records in an owned temporary root."""
+
 from __future__ import annotations
 
 import argparse
@@ -37,21 +38,42 @@ def measure(operation, directories, repeats):
             operation()
             durations.append(round((time.perf_counter() - started) * 1000, 2))
         read_counts.append(reads)
-    return {'milliseconds': durations, 'median_ms': statistics.median(durations), 'archive_reads': read_counts}
+    return {
+        'milliseconds': durations,
+        'median_ms': statistics.median(durations),
+        'archive_reads': read_counts,
+    }
 
 
 def benchmark(counts, repeats):
     result = score_submission(store, [], section='reading', mode='exam')
     practice = {
-        'id': '', 'fingerprint': 'synthetic-benchmark', 'category': 'practice',
-        'completed_at': 1700000000, 'section': 'reading', 'mode': 'exam', 'task_type': None,
-        'questions': store.questions_for('reading', 'exam'), 'result': result, 'recordings': {},
+        'id': '',
+        'fingerprint': 'synthetic-benchmark',
+        'category': 'practice',
+        'completed_at': 1700000000,
+        'section': 'reading',
+        'mode': 'exam',
+        'task_type': None,
+        'questions': store.questions_for('reading', 'exam'),
+        'result': result,
+        'recordings': {},
     }
     mock = {
-        'id': '', 'paper_id': 'ets-test-1', 'status': 'completed', 'phase_index': 9,
-        'item_index': 0, 'started_at': 1700000000, 'completed_at': 1700000100,
-        'phase_state': 'directions', 'deadline': None, 'response_deadline': None,
-        'answers': {}, 'recordings': {}, 'word_orders': {}, 'heard_groups': [],
+        'id': '',
+        'paper_id': 'ets-test-1',
+        'status': 'completed',
+        'phase_index': 9,
+        'item_index': 0,
+        'started_at': 1700000000,
+        'completed_at': 1700000100,
+        'phase_state': 'directions',
+        'deadline': None,
+        'response_deadline': None,
+        'answers': {},
+        'recordings': {},
+        'word_orders': {},
+        'heard_groups': [],
     }
     measurements = []
     with tempfile.TemporaryDirectory(prefix='toefl-archive-benchmark-') as temporary:
@@ -59,13 +81,19 @@ def benchmark(counts, repeats):
         practice_dir, mock_dir = root / 'practice-history', root / 'mock-sessions'
         practice_dir.mkdir()
         mock_dir.mkdir()
-        with patch.object(history, 'HISTORY_DIR', practice_dir), patch.object(mock_exam, 'SESSION_DIR', mock_dir):
+        with (
+            patch.object(history, 'HISTORY_DIR', practice_dir),
+            patch.object(mock_exam, 'SESSION_DIR', mock_dir),
+        ):
             written, size = 0, 0
             for count in sorted(set(counts)):
                 for index in range(written, count):
                     record_id = str(UUID(int=index + 1))
                     for template, directory in [(practice, practice_dir), (mock, mock_dir)]:
-                        text = json.dumps({**template, 'id': record_id, 'completed_at': 1700000100 + index}, ensure_ascii=False)
+                        text = json.dumps(
+                            {**template, 'id': record_id, 'completed_at': 1700000100 + index},
+                            ensure_ascii=False,
+                        )
                         (directory / f'{record_id}.json').write_text(text, encoding='utf-8')
                         size += len(text.encode('utf-8'))
                 written = count
@@ -73,10 +101,19 @@ def benchmark(counts, repeats):
                 history._MATERIAL_INDEX.clear()
                 mock_exam._ARCHIVE_INDEX.clear()
                 operations = {
-                    'practice_list': lambda: history.list_history(category='practice', page=1, page_size=10),
+                    'practice_list': lambda: history.list_history(
+                        category='practice', page=1, page_size=10
+                    ),
                     'weighted_draw': lambda: store.practice_questions(
-                        'reading', 'complete_words', 1, submission_counts=history.submitted_material_counts(), repeat_decay=1),
-                    'completed_mock_list': lambda: history.list_history(category='mock', page=1, page_size=10),
+                        'reading',
+                        'complete_words',
+                        1,
+                        submission_counts=history.submitted_material_counts(),
+                        repeat_decay=1,
+                    ),
+                    'completed_mock_list': lambda: history.list_history(
+                        category='mock', page=1, page_size=10
+                    ),
                 }
                 sample = {'records_per_category': count, 'total_bytes': size}
                 for name, operation in operations.items():
@@ -85,10 +122,13 @@ def benchmark(counts, repeats):
                 print(json.dumps(sample), flush=True)
     assert not root.exists(), 'Benchmark temporary data must be removed'
     return {
-        'python': platform.python_version(), 'platform': platform.platform(),
+        'python': platform.python_version(),
+        'platform': platform.platform(),
         'dataset': 'Synthetic 50-question Reading submissions and blank completed 97-question mocks; no user data',
         'method': 'In-process wall time including instrumented archive read counts; first sample rebuilds indexes, later samples are warm; filesystem caches are not flushed',
-        'repeats': repeats, 'temporary_data_removed': True, 'measurements': measurements,
+        'repeats': repeats,
+        'temporary_data_removed': True,
+        'measurements': measurements,
     }
 
 

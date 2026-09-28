@@ -19,16 +19,16 @@
 | `sources/sentence_answers.py` | 50 道造句的对话语境、固定词／空位、可选干扰词与可接受词序 | 与造句词库一起审阅；见[官方格式依据](../docs/question-bank/sentence-format.md) |
 | `sources/cloze_explanations.json` | 150 个补词空格的逐空学习解析 | 与完整段落、目标词和缺失字母一起审阅 |
 | `sources/productive_explanations.json` | 150 道写作与 55 道口语的逐题学习解析 | 独立于参考范文、可接受词序与评分输入，生成时使用 |
-| `sources/mock_explanations/ets-test-*.json` | 五套模考 485 题的本地学习解析 | 非 ETS 官方解析；只在整套完成后读取，复核题面、答案与版本指纹 |
+| `sources/mock_explanations/ets-test-*.json` | 五套模考 485 题的本地学习解析 | 本地可选补充，不随源码分发；非 ETS 官方解析；只在整套完成后读取，复核题面、答案与版本指纹 |
 | `sources/review_notes.json` | 每题难度、考点、词汇、理由、答案证据与指纹 | 私有维护记录 |
 | `sources/expansion_2026_09/*.json` | 12 题型新增 1,410 题的完整材料、私有答案、教学解析、参考表达与审阅依据 | 编辑原创源稿；[扩充源稿约定](sources/expansion_2026_09/README.md) |
 | `sources/timing.py` | 12 题型每份时间、可变题数材料时间、依据和来源 | 时间配置的单一来源 |
 | `reading/`、`listening/`、`writing/`、`speaking/` | 供后端读取的题目 JSON | 生成产物，不直接编辑 |
 | `answers/` | 答案键、评分要点和参考范文 JSON | 私有生成产物 |
 | `manifest.json` | 数量、选题单位、时间、分级分布及来源 | 生成产物 |
-| `mock/ets-test-*.json` | 五套 ETS 纸卷的独立阶段、题面与脚本 | 由模考导入器生成 |
-| `mock/pages/` | 阅读和写作原 PDF 题面 PNG | 唯一静态公开的模考资源目录 |
-| `answers/mock/` | 五套模考的私有答案键 | 整套结束后才由复盘接口返回 |
+| `mock/ets-test-*.json` | 五套 ETS 纸卷的独立阶段、题面与脚本 | 本地导入生成，Git 忽略 |
+| `mock/pages/` | 阅读和写作原 PDF 题面 PNG | 本地导入生成，Git 忽略；仅在本机存在时挂载 |
+| `answers/mock/` | 五套模考的私有答案键与可选补充答案 | 本地保留，Git 忽略；整套结束后才由复盘接口返回 |
 
 生成入口仍为 [`scripts/build_question_bank.py`](../scripts/build_question_bank.py)；内容指纹校验和目录输出在 [`scripts/question_bank_review.py`](../scripts/question_bank_review.py)。`scripts/` 保留工具，题目内容集中在 `sources/`。
 
@@ -37,7 +37,7 @@
 - [英文出题指南](../docs/question-bank/generation-guidelines.md)：生成和修订前必读，区分官方要求、样题观察和本地训练目标。
 - [2026-09-27 质量修订](../docs/question-bank/quality-revision-2026-09-27.md)：本轮问题、实际修改范围、前后指标和验证结果。
 
-- [项目运行与验证](../README.md)、[产品约定](../PRODUCT.md)、[设计约定](../DESIGN.md)：分别维护启动与接口、产品规则和界面约定；本文件负责题库维护流程。
+- [开发与验证](../docs/technical/development.md)、[接口说明](../docs/technical/api.md)、[产品约定](../PRODUCT.md)、[设计约定](../DESIGN.md)：分别维护运行与测试、API、产品规则和界面约定；本文件负责题库维护流程。
 - [专项练习规格](../specs/exam_aligned_practice_design.md)：完整材料组抽取、计时和提交校验。
 - [逐题清单](../docs/question-bank/catalogue.csv)：2,115 行，含题号、源文件、难度、考点、词汇证据、答案依据及计时单位，可用表格软件筛选。
 - [审阅报告](../docs/question-bank/audit.md)：分级统计、内容修订和质量边界。
@@ -45,20 +45,29 @@
 - [造句题格式](../docs/question-bank/sentence-format.md)、[题面布局依据](../docs/ui-task-layouts.md)：题型格式与本地交互取舍。
 - [模考隔离报告](../docs/question-bank/mock-isolation.md)：官方试卷来源、导入审计与练习隔离边界。
 
-上述清单和源稿含答案证据，供本地维护使用。应用仅静态公开 `/frontend` 对应的前端文件和 `/mock-pages` 对应的 `question_bank/mock/pages/` 原卷题面图片；不会挂载整个题库、答案、源稿或审阅记录目录。`audio/` 不静态公开，TTS 接口直接返回临时音频字节；提示音与用户录音的区别见[项目资源说明](../README.md#目录)。练习题面接口只返回题面、难度与考点，交卷后才返回本轮参考答案。
+上述清单和源稿含答案证据，供本地维护使用。应用仅静态公开 `/frontend` 对应的前端文件和 `/mock-pages` 对应的 `question_bank/mock/pages/` 原卷题面图片；不会挂载整个题库、答案、源稿或审阅记录目录。`audio/` 不静态公开，TTS 接口直接返回临时音频字节；提示音与用户录音的区别见[音频与录音](../docs/technical/architecture.md#音频与录音)。练习题面接口只返回题面、难度与考点，交卷后才返回本轮参考答案。
 
 ## 模考导入与隔离
 
-将 ETS Practice Test 1–5 下载为 `artifacts/ets-reference/test-1.pdf` 至 `test-5.pdf`，使用开发依赖 PyMuPDF 执行：
+公开源码包含原创题库和导入工具，不包含 ETS 官方试卷、答案、图片或引用原题的本地解析。首次启动时模考列表可以为空，不影响原创练习与综合测验。
+
+请先确认对材料的使用符合适用条款并取得必要授权，见[第三方材料说明](../THIRD_PARTY_NOTICES.md)。原卷链接：[Test 1](https://www.ets.org/pdfs/toefl/toefl-ibt-teachers-resources-practice-test-1.pdf)、[Test 2](https://www.ets.org/pdfs/toefl/toefl-ibt-teachers-resources-practice-test-2.pdf)、[Test 3](https://www.ets.org/pdfs/toefl/toefl-ibt-teachers-resources-practice-test-3.pdf)、[Test 4](https://www.ets.org/pdfs/toefl/toefl-ibt-teachers-resources-practice-test-4.pdf)、[Test 5](https://www.ets.org/pdfs/toefl/toefl-ibt-teachers-resources-practice-test-5.pdf)。
+
+将有权使用的五份 PDF 保存为 `artifacts/ets-reference/test-1.pdf` 至 `test-5.pdf`，安装开发依赖后执行：
 
 ```powershell
+./.venv/Scripts/python.exe -m pip install -r requirements-dev.txt
 ./.venv/Scripts/python.exe scripts/import_mock_tests.py
 ./.venv/Scripts/python.exe scripts/audit_mock_isolation.py
 ./.venv/Scripts/python.exe -m pytest tests/test_mock_exam.py -q
 npx playwright test tests/browser_mock.test.cjs
 ```
 
-导入器保存来源 URL 和 PDF SHA-256，原始 PDF 和运行会话不进入版本控制。已生成的 JSON 和题面 PNG 可直接运行，不要求运行时安装 PyMuPDF 或在线下载试卷。审计方法及边界见[模考隔离报告](../docs/question-bank/mock-isolation.md)。
+导入器保存来源 URL 和 PDF SHA-256。PDF、导入 JSON、题面 PNG、补充答案、模考解析和运行会话均不进入当前版本控制；已经存在的本地文件会保留。导入后重启服务再刷新页面；运行时只读取 JSON 和 PNG，不要求安装 PyMuPDF 或在线下载试卷。资源目录仅列出题面和对应答案键都存在的卷。审计方法及边界见[模考隔离报告](../docs/question-bank/mock-isolation.md)。
+
+PDF 导入器只生成题面、原卷答案和图片，不生成 `answers/mock/sentence-variants.json` 或 `sources/mock_explanations/` 的审阅补充。没有这些文件时仍能完成模考，复盘明确提示解析缺失、造句仅匹配原参考键及需人工复核的限制；不会编造解析或静默修正官方答案。已有的补充文件照常读取，不能为发布而删除或刷新其指纹。历史模考复盘依赖对应本地试卷，备份个人记录时应同时保留这些材料。
+
+隔离审计报告的 `paper_count` 必须为 5 才覆盖全部官方卷；未导入时的零命中不代表已经完成隔离核对。依赖本地卷或审阅补充的测试会在文件缺失时明确跳过。
 
 ## 解析写作约定
 

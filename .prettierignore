@@ -1,0 +1,8 @@
+.venv/
+node_modules/
+artifacts/
+audio/
+tmp/
+question_bank/
+frontend/fonts/
+*.md

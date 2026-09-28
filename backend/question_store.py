@@ -65,10 +65,17 @@ class QuestionStore:
         if self._manifest is None:
             self.manifest()
         task_types = self._manifest["sections"][item["section"]]["task_types"]
-        return SECTIONS.index(item["section"]), task_types.index(item["task_type"]), int(item["id"][1:])
+        return (
+            SECTIONS.index(item["section"]),
+            task_types.index(item["task_type"]),
+            int(item["id"][1:]),
+        )
 
     def all_questions(self) -> list[dict]:
-        return [copy.deepcopy(item) for item in sorted(self._load_questions().values(), key=self._sort_key)]
+        return [
+            copy.deepcopy(item)
+            for item in sorted(self._load_questions().values(), key=self._sort_key)
+        ]
 
     def practice_config(self, section: str, task_type: str | None, count: int | None) -> dict:
         if section not in SECTIONS:
@@ -81,8 +88,14 @@ class QuestionStore:
         return config
 
     def practice_questions(
-        self, section: str, task_type: str, count: int, question_ids: list[str] | None = None,
-        *, submission_counts: dict[str, int] | None = None, repeat_decay: float = 1.0,
+        self,
+        section: str,
+        task_type: str,
+        count: int,
+        question_ids: list[str] | None = None,
+        *,
+        submission_counts: dict[str, int] | None = None,
+        repeat_decay: float = 1.0,
     ) -> list[dict]:
         config = self.practice_config(section, task_type, count)
         groups = material_groups(self.questions_for(section, 'bank', task_type))
@@ -94,20 +107,31 @@ class QuestionStore:
             weights = {key: 1 / (1 + counts.get(key, 0)) ** repeat_decay for key in available}
 
             def draw(candidates):
-                key = random.choices(candidates, weights=[weights[key] for key in candidates], k=1)[0]
+                key = random.choices(candidates, weights=[weights[key] for key in candidates], k=1)[
+                    0
+                ]
                 available.remove(key)
                 return key
 
             selected = []
             for _ in range(sets):
                 # Reserve one non-easy material per block, without requiring any easy items.
-                anchor = draw([key for key in available if any(q['difficulty'] != 'easy' for q in groups[key])])
+                anchor = draw(
+                    [
+                        key
+                        for key in available
+                        if any(q['difficulty'] != 'easy' for q in groups[key])
+                    ]
+                )
                 block = [anchor] + [draw(available) for _ in range(units - 1)]
                 random.shuffle(block)
                 selected.extend(block)
             return [question for key in selected for question in groups[key]]
         minimum, maximum = config['items_per_set_range']
-        if len(question_ids) != len(set(question_ids)) or not sets * minimum <= len(question_ids) <= sets * maximum:
+        if (
+            len(question_ids) != len(set(question_ids))
+            or not sets * minimum <= len(question_ids) <= sets * maximum
+        ):
             raise ValueError("本轮题目重复或数量与所选题量不一致")
         by_id = {q['id']: q for group in groups.values() for q in group}
         if any(question_id not in by_id for question_id in question_ids):
@@ -116,16 +140,26 @@ class QuestionStore:
         selected_groups = [groups[key] for key in material_groups(ordered)]
         selected_ids = set(question_ids)
         expected_ids = {q["id"] for group in selected_groups for q in group}
-        if expected_ids != selected_ids or len(selected_groups) != count or any(len(group) not in config['group_sizes'] for group in selected_groups):
+        if (
+            expected_ids != selected_ids
+            or len(selected_groups) != count
+            or any(len(group) not in config['group_sizes'] for group in selected_groups)
+        ):
             raise ValueError("本轮题目必须由该题型的完整材料组组成")
         if [q['id'] for group in selected_groups for q in group] != question_ids:
             raise ValueError('本轮须保留完整材料的题目顺序')
         for start in range(0, len(selected_groups), units):
-            if all(q['difficulty'] == 'easy' for group in selected_groups[start:start + units] for q in group):
+            if all(
+                q['difficulty'] == 'easy'
+                for group in selected_groups[start : start + units]
+                for q in group
+            ):
                 raise ValueError('每份练习须包含适中或困难题，不能全是简单题')
         return ordered
 
-    def questions_for(self, section: str = "all", mode: str = "exam", task_type: str | None = None) -> list[dict]:
+    def questions_for(
+        self, section: str = "all", mode: str = "exam", task_type: str | None = None
+    ) -> list[dict]:
         if section != "all" and section not in SECTIONS:
             raise ValueError("unknown section")
         if mode not in {"exam", "bank"}:
@@ -136,13 +170,19 @@ class QuestionStore:
             if task_type not in self.manifest()["sections"][section]["task_types"]:
                 raise ValueError("unknown task_type for this section")
         requested_sections = SECTIONS if section == "all" else (section,)
-        all_items = self.all_questions()
+        all_items = [
+            item
+            for item in self._load_questions().values()
+            if task_type is None or item["task_type"] == task_type
+        ]
         selected: list[dict] = []
         targets = self.manifest().get("exam_task_targets", {})
         for requested in requested_sections:
-            section_items = [item for item in all_items if item["section"] == requested]
+            section_items = sorted(
+                (item for item in all_items if item["section"] == requested), key=self._sort_key
+            )
             if mode == "bank":
-                selected.extend(item for item in section_items if task_type is None or item["task_type"] == task_type)
+                selected.extend(section_items)
                 continue
             for task_type, target in targets.get(requested, {}).items():
                 task_items = [item for item in section_items if item['task_type'] == task_type]
@@ -150,7 +190,10 @@ class QuestionStore:
                     groups = list(material_groups(task_items).values())
                     # One fixed section form; random practice permits any mix of 2/3-question texts.
                     pattern = [2, 3]
-                    by_size = {size: [group for group in groups if len(group) == size] for size in set(pattern)}
+                    by_size = {
+                        size: [group for group in groups if len(group) == size]
+                        for size in set(pattern)
+                    }
                     for size in pattern * (target // sum(pattern)):
                         selected.extend(by_size[size].pop(0))
                 else:
@@ -188,15 +231,24 @@ class QuestionStore:
             for task_type, config in info["practice_tasks"].items():
                 task_items = [item for item in items if item["task_type"] == task_type]
                 groups = material_groups(task_items)
-                if len(task_items) != config["bank_questions"] or len(groups) != config["bank_units"]:
+                if (
+                    len(task_items) != config["bank_questions"]
+                    or len(groups) != config["bank_units"]
+                ):
                     raise ValueError(f"Unexpected practice bank count for {task_type}")
                 units = config['units_per_set']
                 if any(count % units for count in config['count_options']):
-                    raise ValueError(f'Practice choices must contain complete blocks for {task_type}')
+                    raise ValueError(
+                        f'Practice choices must contain complete blocks for {task_type}'
+                    )
                 sizes = Counter(len(group) for group in groups.values())
-                if set(sizes) != set(config['group_sizes']) or len(groups) < max(config['count_options']):
+                if set(sizes) != set(config['group_sizes']) or len(groups) < max(
+                    config['count_options']
+                ):
                     raise ValueError(f"Incomplete or insufficient groups for {task_type}")
-                non_easy = sum(any(q['difficulty'] != 'easy' for q in group) for group in groups.values())
+                non_easy = sum(
+                    any(q['difficulty'] != 'easy' for q in group) for group in groups.values()
+                )
                 if non_easy < max(config['count_options']) // units:
                     raise ValueError(f'Insufficient non-easy materials for {task_type}')
 

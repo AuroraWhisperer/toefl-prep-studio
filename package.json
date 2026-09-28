@@ -1,10 +1,14 @@
 {
   "name": "toefl-prep-studio",
   "private": true,
+  "license": "SEE LICENSE IN LICENSE",
   "scripts": {
+    "format": "prettier --write \"frontend/**/*.{js,css,html}\" \"tests/**/*.cjs\" \"*.cjs\" \"package*.json\" .prettierrc.json",
+    "format:check": "prettier --check \"frontend/**/*.{js,css,html}\" \"tests/**/*.cjs\" \"*.cjs\" \"package*.json\" .prettierrc.json",
     "test:browser": "playwright test"
   },
   "devDependencies": {
-    "@playwright/test": "1.63.0"
+    "@playwright/test": "1.63.0",
+    "prettier": "3.9.9"
   }
 }

@@ -20,8 +20,10 @@ def start(level=5):
 
 
 def event(session, action, **values):
-    response = client.post(f"/api/v1/tests/sessions/{session['id']}",
-                           json={'phase_index': session['phase_index'], 'action': action, **values})
+    response = client.post(
+        f"/api/v1/tests/sessions/{session['id']}",
+        json={'phase_index': session['phase_index'], 'action': action, **values},
+    )
     assert response.status_code == 200, response.text
     return response.json()
 
@@ -30,7 +32,11 @@ def answers(session, correct=True):
     result = []
     for question in session['phase']['questions']:
         key = store.answer(question['id'])
-        value = key.get('correct_index', key.get('accepted', [key.get('reference', '')])[0]) if correct else None
+        value = (
+            key.get('correct_index', key.get('accepted', [key.get('reference', '')])[0])
+            if correct
+            else None
+        )
         result.append({'question_id': question['id'], 'answer': value, 'duration_seconds': 1})
     return result
 
@@ -41,7 +47,14 @@ def test_presets_and_private_boundaries(level):
     assert session['profile']['bounds'][0] <= level <= session['profile']['bounds'][1]
     assert len(session['phase']['questions']) == 20
     public = json.dumps(session)
-    for forbidden in ('correct_index', 'accepted', 'explanation', 'answer_evidence', 'keys', 'routes'):
+    for forbidden in (
+        'correct_index',
+        'accepted',
+        'explanation',
+        'answer_evidence',
+        'keys',
+        'routes',
+    ):
         assert f'"{forbidden}"' not in public
     assert 'phases' not in session
     assert len(client.get('/api/v1/resources').json()['test']) == 5
@@ -52,8 +65,12 @@ def test_routing_thresholds(correct, expected):
     assert tests.route_level(5, correct, 100, [4, 6]) == expected
 
 
-@pytest.mark.parametrize('level,reading,listening', [(2, 3, 1), (4, 5, 3), (5, 6, 4), (7, 8, 6), (10, 10, 8)])
-def test_complete_test_has_whole_materials_unique_ids_and_independent_routes(level, reading, listening):
+@pytest.mark.parametrize(
+    'level,reading,listening', [(2, 3, 1), (4, 5, 3), (5, 6, 4), (7, 8, 6), (10, 10, 8)]
+)
+def test_complete_test_has_whole_materials_unique_ids_and_independent_routes(
+    level, reading, listening
+):
     session = start(level)
     questions = []
     for index in range(9):
@@ -73,7 +90,12 @@ def test_complete_test_has_whole_materials_unique_ids_and_independent_routes(lev
         assert retried['phase_index'] == session['phase_index']
     assert session['status'] == 'completed'
     assert len(questions) == len({q['id'] for q in questions}) == 120
-    assert Counter(q['section'] for q in questions) == {'reading': 50, 'listening': 47, 'writing': 12, 'speaking': 11}
+    assert Counter(q['section'] for q in questions) == {
+        'reading': 50,
+        'listening': 47,
+        'writing': 12,
+        'speaking': 11,
+    }
     bank = material_groups(store.all_questions())
     for group_id, group in material_groups(questions).items():
         assert {q['id'] for q in group} == {q['id'] for q in bank[group_id]}
@@ -95,7 +117,12 @@ def test_harder_profiles_shift_mix_over_many_forms():
         for seed in range(50):
             used = set()
             for index in range(7):
-                labels.extend(q['difficulty'] for q in tests.select_phase(index, level, used, random.Random(seed * 10 + index))['questions'])
+                labels.extend(
+                    q['difficulty']
+                    for q in tests.select_phase(
+                        index, level, used, random.Random(seed * 10 + index)
+                    )['questions']
+                )
         means.append(sum({'easy': 1, 'medium': 5, 'hard': 9}[x] for x in labels) / len(labels))
     assert means[1] > means[0] + 1
 
@@ -109,11 +136,41 @@ def test_saved_drafts_timer_and_expiry_do_not_reset(monkeypatch):
     assert session['deadline'] == deadline
     resumed = client.get(f"/api/v1/tests/sessions/{session['id']}").json()
     assert resumed['responses'] == session['responses']
-    monkeypatch.setattr(tests.time, 'time', lambda: deadline + 1)
+    monkeypatch.setattr(tests.time, 'time', lambda: deadline + 6)
     expired = client.get(f"/api/v1/tests/sessions/{session['id']}").json()
     assert expired['phase_index'] == 1
     assert expired['deadline'] is None
     assert expired['phase']['level'] == 6
+
+
+@pytest.mark.parametrize('offset,accepted', [(-0.01, True), (0.01, True), (4.99, True), (5, False)])
+def test_final_snapshot_has_a_bounded_delivery_window(monkeypatch, offset, accepted):
+    session = event(start(), 'begin')
+    url = f"/api/v1/tests/sessions/{session['id']}"
+    final = answers(session)
+    event(session, 'save', responses=answers(session, correct=False))
+    monkeypatch.setattr(tests.time, 'time', lambda: session['deadline'] + offset)
+    if 0 <= offset < 5:
+        assert client.get(url).json()['phase_index'] == 0
+        assert (
+            client.post(
+                url, json={'phase_index': 0, 'action': 'save', 'responses': final}
+            ).status_code
+            == 409
+        )
+    result = client.post(url, json={'phase_index': 0, 'action': 'submit', 'responses': final})
+    assert result.status_code == (200 if accepted else 409)
+    stored = tests.read_session(session['id'])
+    assert stored['routes'][0]['correct'] == (20 if accepted else 0)
+    if accepted:
+        assert event(session, 'submit', responses=final)['phase_index'] == 1
+        final[0]['answer'] = 'changed after submission'
+        assert (
+            client.post(
+                url, json={'phase_index': 0, 'action': 'submit', 'responses': final}
+            ).status_code
+            == 409
+        )
 
 
 def test_validation_and_corrupt_archive():
@@ -124,7 +181,17 @@ def test_validation_and_corrupt_archive():
     assert client.post(url, json={'phase_index': 0, 'action': 'submit'}).status_code == 409
     session = event(session, 'begin')
     assert client.post(url, json={'phase_index': 1, 'action': 'submit'}).status_code == 409
-    assert client.post(url, json={'phase_index': 0, 'action': 'save', 'responses': [{'question_id': 'W01', 'answer': 'oops'}]}).status_code == 422
+    assert (
+        client.post(
+            url,
+            json={
+                'phase_index': 0,
+                'action': 'save',
+                'responses': [{'question_id': 'W01', 'answer': 'oops'}],
+            },
+        ).status_code
+        == 422
+    )
     file = tests.SESSION_DIR / f"{session['id']}.json"
     original = '{broken'
     file.write_text(original)
@@ -138,13 +205,17 @@ def test_recordings_survive_resume_and_completed_history():
         session = event(event(session, 'begin'), 'submit')
     qid = session['phase']['questions'][0]['id']
     url = f"/api/v1/tests/sessions/{session['id']}/recordings/{qid}"
-    assert client.put(url, content=b'audio', headers={'content-type': 'audio/webm'}).status_code == 200
+    assert (
+        client.put(url, content=b'audio', headers={'content-type': 'audio/webm'}).status_code == 200
+    )
     assert client.get(url).content == b'audio'
     assert qid in client.get(f"/api/v1/tests/sessions/{session['id']}").json()['recordings']
     while session['status'] == 'active':
         session = event(event(session, 'begin'), 'submit')
     assert client.get(f"/api/v1/history/test/{session['id']}/recordings/{qid}").content == b'audio'
-    assert client.put(url, content=b'retry', headers={'content-type': 'audio/webm'}).status_code == 200
+    assert (
+        client.put(url, content=b'retry', headers={'content-type': 'audio/webm'}).status_code == 200
+    )
     assert client.get(url).content == b'audio'
     assert not list(history.HISTORY_DIR.glob('*.tmp'))
 
@@ -165,13 +236,26 @@ def test_history_clear_removes_completed_session_copies_but_preserves_active_tes
 def test_invalid_response_does_not_partially_save_and_directions_do_not_accept_answers():
     session = start()
     url = f"/api/v1/tests/sessions/{session['id']}"
-    assert client.post(url, json={'phase_index': 0, 'action': 'begin', 'responses': answers(session)}).status_code == 422
+    assert (
+        client.post(
+            url, json={'phase_index': 0, 'action': 'begin', 'responses': answers(session)}
+        ).status_code
+        == 422
+    )
     session = event(session, 'begin')
     valid = answers(session)
     bad = valid + [{'question_id': 'W01', 'answer': 'not in module'}]
-    assert client.post(url, json={'phase_index': 0, 'action': 'save', 'responses': bad}).status_code == 422
+    assert (
+        client.post(url, json={'phase_index': 0, 'action': 'save', 'responses': bad}).status_code
+        == 422
+    )
     assert client.get(url).json()['responses'] == []
-    assert client.post(url, json={'phase_index': 0, 'action': 'save', 'responses': [valid[0], valid[0]]}).status_code == 422
+    assert (
+        client.post(
+            url, json={'phase_index': 0, 'action': 'save', 'responses': [valid[0], valid[0]]}
+        ).status_code
+        == 422
+    )
 
 
 def test_sessions_keep_question_and_key_snapshots_after_bank_changes(monkeypatch):
@@ -200,4 +284,7 @@ def test_session_save_retries_a_brief_windows_file_lock(monkeypatch):
     monkeypatch.setattr(Path, 'replace', locked_once)
     session = event(session, 'begin')
     assert len(calls) == 2
-    assert client.get(f"/api/v1/tests/sessions/{session['id']}").json()['deadline'] == session['deadline']
+    assert (
+        client.get(f"/api/v1/tests/sessions/{session['id']}").json()['deadline']
+        == session['deadline']
+    )

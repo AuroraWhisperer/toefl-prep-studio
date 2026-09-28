@@ -7,8 +7,23 @@ async function openHome(page, request) {
   await page.evaluate(() => document.fonts.ready);
 }
 
-for (const [width, height] of [[2560, 1440], [2048, 1152], [2048, 1040], [1707, 960], [1707, 840], [1440, 800], [1280, 720], [1024, 1000], [768, 1000], [390, 844], [320, 800]]) {
-  test(`homepage cards and wordmark fit at ${width}x${height}`, async ({ page, request }, testInfo) => {
+for (const [width, height] of [
+  [2560, 1440],
+  [2048, 1152],
+  [2048, 1040],
+  [1707, 960],
+  [1707, 840],
+  [1440, 800],
+  [1280, 720],
+  [1024, 1000],
+  [768, 1000],
+  [390, 844],
+  [320, 800],
+]) {
+  test(`homepage cards and wordmark fit at ${width}x${height}`, async ({
+    page,
+    request,
+  }, testInfo) => {
     await page.setViewportSize({ width, height });
     await openHome(page, request);
     await expect(page.locator('#landing-title')).toBeVisible();
@@ -22,10 +37,14 @@ for (const [width, height] of [[2560, 1440], [2048, 1152], [2048, 1040], [1707, 
     const layout = await page.evaluate(() => ({
       fits: document.documentElement.scrollWidth <= innerWidth,
       fitsHeight: document.documentElement.scrollHeight <= innerHeight,
-      wordmarkLoaded: [...document.fonts].some(font => font.family === 'Workbench Wordmark' && font.status === 'loaded'),
+      wordmarkLoaded: [...document.fonts].some(
+        (font) => font.family === 'Workbench Wordmark' && font.status === 'loaded',
+      ),
       gap: parseFloat(getComputedStyle(document.querySelector('#section-grid')).gap),
-      cards: [...document.querySelectorAll('.training-card')].map(card => card.getBoundingClientRect().toJSON()),
-      frames: [...document.querySelectorAll('.training-card')].map(card => ({
+      cards: [...document.querySelectorAll('.training-card')].map((card) =>
+        card.getBoundingClientRect().toJSON(),
+      ),
+      frames: [...document.querySelectorAll('.training-card')].map((card) => ({
         border: getComputedStyle(card).borderTopWidth,
         inner: getComputedStyle(card, '::before').content,
         pointerEvents: getComputedStyle(card, '::before').pointerEvents,
@@ -47,7 +66,7 @@ for (const [width, height] of [[2560, 1440], [2048, 1152], [2048, 1040], [1707, 
       expect(writing.y).toBeGreaterThan(reading.bottom);
       expect(mock.x).toBeGreaterThan(listening.right);
       expect(real.y).toBeGreaterThan(mock.bottom);
-      expect(Math.max(...layout.cards.map(card => card.bottom))).toBeLessThan(height);
+      expect(Math.max(...layout.cards.map((card) => card.bottom))).toBeLessThan(height);
       if (height >= 800) {
         expect(reading.height).toBeGreaterThan(240);
         expect(layout.gap).toBeGreaterThan(20);
@@ -60,7 +79,12 @@ for (const [width, height] of [[2560, 1440], [2048, 1152], [2048, 1040], [1707, 
 
 test('desktop resizing keeps every homepage action on screen', async ({ page, request }) => {
   await openHome(page, request);
-  for (const [width, height] of [[2048, 1040], [1707, 840], [1280, 720], [1440, 800]]) {
+  for (const [width, height] of [
+    [2048, 1040],
+    [1707, 840],
+    [1280, 720],
+    [1440, 800],
+  ]) {
     await page.setViewportSize({ width, height });
     for (const button of await page.locator('#landing-view .training-card button').all()) {
       await expect(button).toBeInViewport({ ratio: 1 });
@@ -74,22 +98,31 @@ test('desktop resizing keeps every homepage action on screen', async ({ page, re
   await expect(history).toBeInViewport({ ratio: 1 });
 });
 
-test('all seven cards follow the pointer and reset on exit', async ({ page, request }, testInfo) => {
+test('all seven cards follow the pointer and reset on exit', async ({
+  page,
+  request,
+}, testInfo) => {
   await openHome(page, request);
   const cards = page.locator('.training-card');
   for (let index = 0; index < 7; index += 1) {
     const card = cards.nth(index);
     const box = await card.boundingBox();
-    await page.mouse.move(box.x + box.width * .2, box.y + box.height * .2);
+    await page.mouse.move(box.x + box.width * 0.2, box.y + box.height * 0.2);
     await expect(card).toHaveClass(/is-tilting/);
-    await expect.poll(() => card.evaluate(node => parseFloat(node.style.getPropertyValue('--tilt-y')))).toBeLessThan(0);
-    await page.mouse.move(box.x + box.width * .8, box.y + box.height * .8);
-    await expect.poll(() => card.evaluate(node => parseFloat(node.style.getPropertyValue('--tilt-y')))).toBeGreaterThan(0);
+    await expect
+      .poll(() => card.evaluate((node) => parseFloat(node.style.getPropertyValue('--tilt-y'))))
+      .toBeLessThan(0);
+    await page.mouse.move(box.x + box.width * 0.8, box.y + box.height * 0.8);
+    await expect
+      .poll(() => card.evaluate((node) => parseFloat(node.style.getPropertyValue('--tilt-y'))))
+      .toBeGreaterThan(0);
     await expect(card).not.toHaveCSS('transform', 'none');
     if (index === 0) await page.screenshot({ path: testInfo.outputPath('homepage-tilt.png') });
     await page.mouse.move(0, 0);
     await expect(card).not.toHaveClass(/is-tilting/);
-    await expect.poll(() => card.evaluate(node => node.style.getPropertyValue('--tilt-y'))).toBe('');
+    await expect
+      .poll(() => card.evaluate((node) => node.style.getPropertyValue('--tilt-y')))
+      .toBe('');
   }
 });
 
@@ -129,7 +162,10 @@ test.describe('touchscreen', () => {
   });
 });
 
-test('card surface, keyboard actions and mock toggle keep their original behavior', async ({ page, request }) => {
+test('card surface, keyboard actions and mock toggle keep their original behavior', async ({
+  page,
+  request,
+}) => {
   await openHome(page, request);
   for (const section of ['reading', 'listening', 'writing', 'speaking']) {
     const button = page.locator(`[data-action="configure"][data-section="${section}"]`);

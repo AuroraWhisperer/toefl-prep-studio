@@ -1,4 +1,5 @@
 """Rebuildable process-local projections; callers hold their storage module's lock."""
+
 import os
 from pathlib import Path
 
@@ -41,7 +42,13 @@ class ArchiveIndex:
                         continue
                     path = Path(entry.path)
                     stat = entry.stat()
-                    signature = (stat.st_mtime_ns, stat.st_ctime_ns, stat.st_size, stat.st_ino, stat.st_mode)
+                    signature = (
+                        stat.st_mtime_ns,
+                        stat.st_ctime_ns,
+                        stat.st_size,
+                        stat.st_ino,
+                        stat.st_mode,
+                    )
                     cached = self.entries.get(entry.name)
                     if cached is None or cached[0] != signature:
                         self.entries.pop(entry.name, None)

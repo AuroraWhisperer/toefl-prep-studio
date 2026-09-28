@@ -1,4 +1,5 @@
 """In-memory projections must remain subordinate to the JSON archive."""
+
 import os
 from pathlib import Path
 from uuid import uuid4
@@ -15,7 +16,12 @@ PRACTICE = {'section': 'reading', 'mode': 'practice', 'task_type': 'complete_wor
 
 def submit():
     record_id = str(uuid4())
-    assert client.post('/api/v1/exam/submit', json={'section': 'reading', 'submission_id': record_id}).status_code == 200
+    assert (
+        client.post(
+            '/api/v1/exam/submit', json={'section': 'reading', 'submission_id': record_id}
+        ).status_code
+        == 200
+    )
     return history.HISTORY_DIR / f'{record_id}.json'
 
 
@@ -71,7 +77,9 @@ def test_atomic_replacement_with_preserved_size_and_mtime_is_not_stale():
     assert client.get('/api/v1/history').status_code == 409
 
 
-def test_mock_warm_list_detects_new_completion_without_reparsing_unchanged_sessions(monkeypatch):
+def test_mock_warm_list_detects_new_completion_without_reparsing_unchanged_sessions(
+    monkeypatch, local_mock_bank
+):
     session = client.post('/api/v1/mock/sessions', json={'paper_id': 'ets-test-1'}).json()
     assert client.get('/api/v1/history?category=mock').json()['total'] == 0
     stored = mock_exam.read_session(session['id'])
@@ -121,7 +129,9 @@ def test_failed_submit_does_not_change_counts_and_retry_counts_once(monkeypatch)
     assert client.get('/api/v1/history').json()['total'] == 1
     for _ in range(2):
         assert client.post('/api/v1/exam/submit', json=payload).status_code == 200
-        assert history.submitted_material_counts() == {key: value * 2 for key, value in before.items()}
+        assert history.submitted_material_counts() == {
+            key: value * 2 for key, value in before.items()
+        }
         assert client.get('/api/v1/history').json()['total'] == 2
 
 

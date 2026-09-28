@@ -1,11 +1,14 @@
 const { test, expect } = require('@playwright/test');
 
 async function expectLeftAlignedReturn(page, titleSelector, buttonSelector) {
-  const { title, button, fitsViewport } = await page.evaluate(({ titleSelector, buttonSelector }) => ({
-    title: document.querySelector(titleSelector).getBoundingClientRect().toJSON(),
-    button: document.querySelector(buttonSelector).getBoundingClientRect().toJSON(),
-    fitsViewport: document.documentElement.scrollWidth <= innerWidth,
-  }), { titleSelector, buttonSelector });
+  const { title, button, fitsViewport } = await page.evaluate(
+    ({ titleSelector, buttonSelector }) => ({
+      title: document.querySelector(titleSelector).getBoundingClientRect().toJSON(),
+      button: document.querySelector(buttonSelector).getBoundingClientRect().toJSON(),
+      fitsViewport: document.documentElement.scrollWidth <= innerWidth,
+    }),
+    { titleSelector, buttonSelector },
+  );
   expect(button.x + button.width).toBeLessThanOrEqual(title.x + 1);
   expect(Math.abs(button.y + button.height / 2 - title.y - title.height / 2)).toBeLessThan(2);
   expect(button.height).toBeGreaterThanOrEqual(44);
@@ -16,9 +19,14 @@ async function expectLeftAlignedReturn(page, titleSelector, buttonSelector) {
 }
 
 for (const width of [2048, 1440, 390, 320]) {
-  test(`subject tabs and return controls stay in place at ${width}px`, async ({ page, request }, testInfo) => {
+  test(`subject tabs and return controls stay in place at ${width}px`, async ({
+    page,
+    request,
+  }, testInfo) => {
     await page.setViewportSize({ width, height: 1000 });
-    await page.route('**/api/v1/tts', route => route.fulfill({ json: { url: null, fallback: true } }));
+    await page.route('**/api/v1/tts', (route) =>
+      route.fulfill({ json: { url: null, fallback: true } }),
+    );
     expect((await request.get('/')).status()).toBe(200);
     await page.goto('/');
     await page.locator('[data-action="configure"][data-section="reading"]').click();
@@ -29,11 +37,17 @@ for (const width of [2048, 1440, 390, 320]) {
       await expect(page.locator('#setup-tabs [role="tab"]')).toHaveCount(4);
       await expect(page.locator('.setup-nav #setup-home')).toHaveCount(1);
       await expect(page.locator('#setup-tabs #setup-home')).toHaveCount(0);
-      await expect(page.locator('#setup-content h2, .setup-intro, .task-description, .setup-bank-count')).toHaveCount(0);
+      await expect(
+        page.locator('#setup-content h2, .setup-intro, .task-description, .setup-bank-count'),
+      ).toHaveCount(0);
       await expectLeftAlignedReturn(page, '#setup-tabs', '#setup-home');
-      const tabs = await page.locator('#setup-tabs [role="tab"]').evaluateAll(nodes => nodes.map(node => node.getBoundingClientRect().y));
+      const tabs = await page
+        .locator('#setup-tabs [role="tab"]')
+        .evaluateAll((nodes) => nodes.map((node) => node.getBoundingClientRect().y));
       expect(Math.max(...tabs) - Math.min(...tabs)).toBeLessThan(2);
-      const [quantity, timer] = await page.locator('.setup-options-row fieldset').evaluateAll(nodes => nodes.map(node => node.getBoundingClientRect().toJSON()));
+      const [quantity, timer] = await page
+        .locator('.setup-options-row fieldset')
+        .evaluateAll((nodes) => nodes.map((node) => node.getBoundingClientRect().toJSON()));
       if (width > 760) {
         expect(Math.abs(quantity.y - timer.y)).toBeLessThan(2);
         expect(quantity.x + quantity.width).toBeLessThanOrEqual(timer.x);
@@ -66,7 +80,9 @@ for (const width of [2048, 1440, 390, 320]) {
       await page.locator('input[name="task_type"]').last().check();
       await page.locator('input[name="count"]').last().check();
       await page.locator('input[name="timer_mode"]').last().check();
-      const selection = await page.locator('#practice-settings').evaluate(form => Object.fromEntries(new FormData(form)));
+      const selection = await page
+        .locator('#practice-settings')
+        .evaluate((form) => Object.fromEntries(new FormData(form)));
       await page.locator('#start-practice').click();
       await expect(page.locator('#exam-view')).toBeVisible();
       await expect(page.locator('#back-home')).toHaveText('返回上一页');
@@ -76,7 +92,11 @@ for (const width of [2048, 1440, 390, 320]) {
       await expect(page.locator('#landing-view')).toBeHidden();
       await expect(page.locator(`#tab-${section}`)).toHaveAttribute('aria-selected', 'true');
       await expect(page.locator('#start-practice')).toBeFocused();
-      expect(await page.locator('#practice-settings').evaluate(form => Object.fromEntries(new FormData(form)))).toEqual(selection);
+      expect(
+        await page
+          .locator('#practice-settings')
+          .evaluate((form) => Object.fromEntries(new FormData(form))),
+      ).toEqual(selection);
       await page.locator('#start-practice').click();
       await expect(page.locator('#exam-view')).toBeVisible();
       await page.locator('#submit-exam').click();
