@@ -1,55 +1,40 @@
-# TOEFL Prep Studio
+<div align="center">
 
-**Local practice, mock exams, and review for TOEFL iBT 2026.**
+<img src="docs/assets/readme-mark.svg" width="64" height="64" alt="">
 
-[简体中文](README.md) · **English**
+<h1>TOEFL Prep Studio</h1>
 
-TOEFL Prep Studio brings Reading, Listening, Writing, and Speaking into one desktop browser application. Work on individual task types, complete a comprehensive test, and return to saved answers, recordings, and explanations. The application runs on a personal Windows computer. Practice materials are in English; the interface and learning explanations are primarily in Chinese.
+<p><strong>TOEFL iBT 2026 · Local practice, mock exams, and review</strong></p>
+<p>English questions, Chinese explanations. Practice all four sections and keep your work on your own computer.</p>
 
-[Highlights](#highlights) · [Practice modes](#practice-modes) · [Question bank](#question-bank) · [Quick start](#quick-start) · [Usage notes](#usage-notes) · [Documentation](#documentation)
+<p>
+  <a href="docs/technical/development.md"><img src="https://img.shields.io/badge/Python-3.10%2B-28675D?style=flat-square&amp;labelColor=303B37" alt="Python 3.10+"></a>
+  <img src="https://img.shields.io/badge/Windows-Desktop-28675D?style=flat-square&amp;labelColor=303B37" alt="Windows desktop browser">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Noncommercial-28675D?style=flat-square&amp;labelColor=303B37" alt="Source available · Noncommercial license"></a>
+</p>
 
-## Highlights
+<p><a href="README.md">简体中文</a> · <strong>English</strong></p>
 
-- **A complete practice workflow.** Train by task type or section, take a fixed mock exam, or choose a comprehensive test by difficulty. Sampling preserves complete passages, conversations, and interviews.
-- **Explanations grounded in the material.** Review each material alongside your responses and reference answers. Three-part learning notes—understand, reason, and apply next time—explain the decisive cues and a reusable approach.
-- **Listening and speaking tools.** Synthesized prompts support multiple English accents and distinct dialogue voices. Speaking practice includes microphone recording, playback, and text transcription.
-- **Review history stored locally.** Save question snapshots, answers, feedback, time spent, and uploaded recordings. Filter history by category or date, and resume saved mock exams and comprehensive tests.
+<p>
+  <a href="#quick-start">Quick start</a> ·
+  <a href="#practice-and-review">Practice and review</a> ·
+  <a href="#question-bank">Question bank</a> ·
+  <a href="#usage-notes">Usage notes</a> ·
+  <a href="#documentation">Documentation</a>
+</p>
 
-## Practice modes
-
-| Mode | Purpose | How it works |
-| --- | --- | --- |
-| **Task practice** | Focus on one task type | Choose quantity and timing, then receive complete materials sampled at random. Materials do not repeat within a round; previously submitted materials receive lower sampling weights. |
-| **Section practice** | Work on pacing and completion | Complete a fixed set for one section within its time limit, then review the submission. |
-| **Mock exams** | Practice the full sequence with published papers | Locally import ETS Practice Tests 1–5 that you are entitled to use, with 97 questions per form. Official materials are not included in the public source distribution. |
-| **Comprehensive tests** | Practice all four sections at different difficulty levels | Sample 120 questions from the original bank using five profiles and starting levels 1–10. Reading and Listening each adjust material selection between modules. |
-
-In task practice, Reading, Listening, and Writing offer count-up and countdown timers; Speaking uses a countdown. Missing-letter tasks are answered directly in the passage. Sentence building supports selecting, dragging, and removing word tiles.
-
-## Question bank
-
-The original practice bank contains **2,115 scored items across 12 task types**. ETS mock papers are stored separately and are excluded from original-practice sampling.
-
-| Section | Task types | Bank items | Section practice items |
-| --- | --- | ---: | ---: |
-| Reading | Complete the Words; Read in Daily Life; Read an Academic Passage | 795 | 50 |
-| Listening | Choose a Response; Conversation; Announcement; Academic Talk | 705 | 47 |
-| Writing | Build a Sentence; Write an Email; Academic Discussion | 450 | 12 |
-| Speaking | Listen and Repeat; Take an Interview | 165 | 11 |
-
-Question content and answer keys are stored separately, with scoring handled by the server. See the [question-bank guide](question_bank/README.md) for sources, review requirements, and generation procedures.
+</div>
 
 ## Quick start
 
-You need **Windows, Python 3.10+, and a desktop browser**. Installing dependencies for the first time requires an internet connection. Speaking recordings require browser permission to use the microphone.
+You need **Windows, Python 3.10+, and a desktop browser**. Download and extract the source, then double-click **[TOEFL Prep Studio.cmd](<TOEFL Prep Studio.cmd>)** in the project root.
 
-### One-click launch
+On the first run, the launcher creates a Python environment, installs dependencies, and opens the [local workbench](http://127.0.0.1:38761/) once the service is ready. If the service is already running, it opens the page directly. Everyday use requires no Node.js or frontend build.
 
-Double-click **[TOEFL Prep Studio.cmd](<TOEFL Prep Studio.cmd>)** in the project root. The launcher prepares the Python environment and opens [http://127.0.0.1:38761](http://127.0.0.1:38761/) when the service is ready. If the practice service is already running, it opens the page directly.
+<details>
+<summary><strong>Prefer the command line? Start from PowerShell</strong></summary>
 
-### Command-line launch
-
-Open PowerShell in the project root:
+Run these commands from the project root:
 
 ```powershell
 python -m venv .venv
@@ -57,40 +42,175 @@ python -m venv .venv
 .\.venv\Scripts\python.exe scripts/launch.py
 ```
 
-For subsequent launches, run only the last command. Normal use requires neither Node.js nor a frontend build.
+For later launches, run only the last line. See the [development guide](docs/technical/development.md) for configuration and startup troubleshooting.
 
-Keep the service window open while practicing. Closing it stops the service; closing only the browser page does not. The interface targets 2560×1440 desktop displays with 125% or 150% Windows display scaling. A maximized browser window is recommended.
+</details>
 
-See [development and verification](docs/technical/development.md) for environment configuration, tests, and startup diagnostics.
+> **First session:** Pick a section and start task or section practice. The original question bank is included, and comprehensive tests are ready to use. ETS mock exams require a separate [local import of papers you are entitled to use](question_bank/README.md#模考导入与隔离); official materials are not included in the public source.
 
-Original practice and comprehensive tests work immediately after installation. Without a local paper import, the mock picker explains how to get started. See the optional [local import procedure](question_bank/README.md#模考导入与隔离).
+Keep the service window open while practicing; minimizing it is fine. Closing it stops the service, but closing the browser page does not. The first installation needs internet access, and recording requires microphone permission in your browser.
+
+## Practice and review
+
+Use task practice to work on a particular question type, or section practice to work on pacing. For a full run through all four sections, choose a mock exam or a comprehensive test.
+
+<table>
+  <thead>
+    <tr>
+      <th width="200" align="left">Mode</th>
+      <th width="250" align="left">When to use it</th>
+      <th width="550" align="left">What you do</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr valign="top">
+      <td><strong>Task practice</strong></td>
+      <td>Focus on one task type</td>
+      <td>Choose the quantity and timer. Practice with randomly selected, complete passages, conversations, or interviews.</td>
+    </tr>
+    <tr valign="top">
+      <td><strong>Section practice</strong></td>
+      <td>Get used to a section's pace</td>
+      <td>Complete a fixed set within the section time limit, then review your submission.</td>
+    </tr>
+    <tr valign="top">
+      <td><strong>Mock exams</strong></td>
+      <td>Follow a published paper from start to finish</td>
+      <td>Locally import ETS Practice Tests 1–5, with 97 questions per form.</td>
+    </tr>
+    <tr valign="top">
+      <td><strong>Comprehensive tests</strong></td>
+      <td>Practice all four sections at a chosen difficulty</td>
+      <td>Take 120 questions from the original bank. Choose one of five profiles and a starting level from 1–10; Reading and Listening adjust material selection between modules.</td>
+    </tr>
+  </tbody>
+</table>
+
+After submitting, compare your responses and reference answers with the original material. Learning notes follow **“Understand → Reason → Try next time”**: identify the key cue, see why an answer works, and take away a method for the next question.
+
+Answers, time spent, feedback, and uploaded recordings are saved locally. Find a previous session by category or date to revisit an explanation or listen to a recording. Saved mock exams and comprehensive tests can also be resumed.
+
+<details>
+<summary><strong>More about sampling, timers, and audio</strong></summary>
+
+- **Sampling:** Task practice keeps materials intact and avoids repeats within a round. Materials you have already submitted are less likely to appear again.
+- **Timers:** Reading, Listening, and Writing task practice offer count-up and countdown timers. Speaking uses a countdown.
+- **Answering:** Fill missing letters directly in the passage. Build sentences by selecting, dragging, and removing word tiles.
+- **Audio:** Synthesized prompts support multiple English accents and distinct dialogue voices. Speaking includes microphone recording, playback, and text transcription.
+
+</details>
+
+## Question bank
+
+The original bank contains **2,115 scored items across 12 task types**. “Section set” below is the number of items in one fixed section practice session.
+
+<table>
+  <thead>
+    <tr>
+      <th width="180" align="left">Section</th>
+      <th width="500" align="left">Task types</th>
+      <th width="160" align="right">Bank items</th>
+      <th width="160" align="right">Section set</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr valign="top">
+      <td><strong>Reading</strong></td>
+      <td>Complete the Words<br>Read in Daily Life · Read an Academic Passage</td>
+      <td align="right">795</td>
+      <td align="right">50</td>
+    </tr>
+    <tr valign="top">
+      <td><strong>Listening</strong></td>
+      <td>Choose a Response · Conversation<br>Announcement · Academic Talk</td>
+      <td align="right">705</td>
+      <td align="right">47</td>
+    </tr>
+    <tr valign="top">
+      <td><strong>Writing</strong></td>
+      <td>Build a Sentence · Write an Email<br>Academic Discussion</td>
+      <td align="right">450</td>
+      <td align="right">12</td>
+    </tr>
+    <tr valign="top">
+      <td><strong>Speaking</strong></td>
+      <td>Listen and Repeat · Take an Interview</td>
+      <td align="right">165</td>
+      <td align="right">11</td>
+    </tr>
+  </tbody>
+</table>
+
+ETS mock papers are stored separately and excluded from original-practice sampling. Question content and answer keys are kept apart, with scoring handled by the server. See the [question-bank guide](question_bank/README.md) for sources, review requirements, and generation procedures.
 
 ## Usage notes
 
-**Page navigation.** Screens have their own paths, such as `/practice/reading`, `/history` and `/tests`, and support browser Back and Forward. Archived reviews and saved mock/comprehensive-test sessions can reopen directly or after refresh. See [navigation behavior](docs/technical/architecture.md#页面路径与浏览器导航) for paths and recovery limits.
+The interface is primarily in Chinese and targets **2560×1440 desktop displays with 125% or 150% Windows scaling**. A maximized browser window works best.
 
-**Progress and data.** Regular practice is archived after a successful submission. Back and Forward retain the current round within the current tab; refreshing discards unsubmitted work and returns to setup or home. Mock exams and comprehensive tests release answers and review only after completion. Once started, timers do not pause or reset when you leave or refresh the page. Records are stored under the local `artifacts/` directory by default; set `TOEFL_DATA_DIR` to use another location. See [storage and recovery](docs/technical/architecture.md#存储与归档) for details.
+<details>
+<summary><strong>What happens if I leave or refresh the page?</strong></summary>
 
-**Audio dependencies.** Prompts use an online speech service first, with a matching browser voice as a fallback. Mock exam audio is synthesized from the paper's scripts. Speech recognition depends on browser support; transcripts can be entered or corrected manually. If a recording upload fails, retry before leaving the page.
+Regular practice is archived after a successful submission. Back and Forward retain the current round within the same tab. **Refreshing discards unsubmitted work** and returns you to setup or home.
 
-**Scoring and exam fidelity.** Regular practice provides raw scores and text feedback, with heuristic checks for open responses. Mock exams and comprehensive tests report objective correct-answer counts; open writing responses and speaking tasks require manual review. Difficulty levels, module routing, and some time limits are local training settings. The application does not predict official scores or assess pronunciation, intonation, or fluency. Mock exam learning notes are authored by this project.
+Mock exams and comprehensive tests can resume saved progress, but their timers do not pause or reset when you leave or refresh. Answers and review are available only after you complete the test.
 
-## License and distribution
+Screens have their own paths, such as `/practice/reading`, `/history`, and `/tests`. Archived reviews and saved exam sessions can be opened directly. See [navigation behavior](docs/technical/architecture.md#页面路径与浏览器导航) for paths and recovery limits.
 
-Original project code and content use the **TOEFL Prep Studio Noncommercial License 1.0**, a source-available license rather than an OSI open-source license. It permits noncommercial learning, research, modification, and sharing under its conditions. Sales, paid hosting, commercial teaching, business use, advertising, and other commercial exploitation require separate written permission. Redistribution must retain notices, identify changes, and include corresponding source. The full [LICENSE](LICENSE) controls.
+</details>
 
-This license does not grant rights in ETS materials, fonts, dependencies, or personal data. See [third-party notices](THIRD_PARTY_NOTICES.md) and [distribution boundaries](docs/distribution.md), including the separate treatment required for previously published Git history.
+<details>
+<summary><strong>Where are my records and recordings stored?</strong></summary>
+
+Data is saved under the local `artifacts/` directory by default. Set `TOEFL_DATA_DIR` before starting the service to use a different location. See [storage and recovery](docs/technical/architecture.md#存储与归档) for details.
+
+If a recording upload fails, retry before leaving the page.
+
+</details>
+
+<details>
+<summary><strong>Do listening and speaking need internet access?</strong></summary>
+
+Prompts use an online speech service first, with a matching browser voice as a fallback. Mock exam audio is synthesized from the paper's scripts. Running locally does not mean everything works offline.
+
+Speech recognition depends on browser support. You can correct a transcript manually or enter text yourself.
+
+</details>
+
+<details>
+<summary><strong>How should I interpret the scores?</strong></summary>
+
+Regular practice gives raw scores and text feedback, with heuristic checks for open responses. Mock exams and comprehensive tests report objective correct-answer counts; open writing responses and speaking tasks need manual review.
+
+These results are for practice. **They do not predict official scores or assess pronunciation, intonation, or fluency.** Difficulty levels, module routing, and some time limits are local training settings. Mock exam learning notes are written for this project, not supplied by ETS.
+
+</details>
 
 ## Documentation
 
-The README provides the project overview. Product rules, implementation details, and maintenance workflows are documented separately. Technical and question-bank guides are currently in Chinese.
+For a closer look at a feature or before changing the code, start with the relevant guide. Technical and question-bank documentation is currently in Chinese.
 
-| Document | Covers |
-| --- | --- |
-| [Product specification](PRODUCT.md) | Feature behavior, practice rules, and scope |
-| [Design specification](DESIGN.md) | Visual language, page layouts, and keyboard and mouse interaction |
-| [System architecture](docs/technical/architecture.md) | Stack, module responsibilities, data flow, and storage |
-| [API reference](docs/technical/api.md) | Practice, mock exams, comprehensive tests, history, and speech endpoints |
-| [Development guide](docs/technical/development.md) | Environment setup, launch commands, tests, and formatting |
-| [Question-bank guide](question_bank/README.md) | Sources, review, generation, and mock paper import |
-| [Development conventions](AGENTS.md) | Change scope, data protection, and verification requirements |
+<table>
+  <thead>
+    <tr>
+      <th width="300" align="left">Document</th>
+      <th width="700" align="left">What you will find</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td><a href="docs/technical/development.md"><strong>Development guide</strong></a></td><td>Environment setup, startup troubleshooting, tests, and formatting</td></tr>
+    <tr><td><a href="PRODUCT.md"><strong>Product specification</strong></a></td><td>Feature behavior, practice rules, and scope</td></tr>
+    <tr><td><a href="DESIGN.md"><strong>Design specification</strong></a></td><td>Visual language, layouts, and keyboard and mouse interaction</td></tr>
+    <tr><td><a href="docs/technical/architecture.md"><strong>System architecture</strong></a></td><td>Stack, module responsibilities, data flow, and storage</td></tr>
+    <tr><td><a href="docs/technical/api.md"><strong>API reference</strong></a></td><td>Practice, exams, history, and speech endpoints</td></tr>
+    <tr><td><a href="question_bank/README.md"><strong>Question-bank guide</strong></a></td><td>Sources, review, generation, and mock paper import</td></tr>
+    <tr><td><a href="AGENTS.md"><strong>Development conventions</strong></a></td><td>Change scope, data protection, and verification requirements</td></tr>
+  </tbody>
+</table>
+
+## License and distribution
+
+Original code and content use the **[TOEFL Prep Studio Noncommercial License 1.0](LICENSE)**. This is a source-available, noncommercial license, not a standard open-source license.
+
+Noncommercial learning, research, modification, and sharing are permitted under its terms. Sales, paid hosting, commercial teaching, business use, advertising, and other commercial exploitation require separate written permission. Redistribution must retain license and copyright notices, identify changes, and include corresponding source. The full LICENSE controls.
+
+The license does not grant rights in ETS materials, fonts, dependencies, or personal data. See [third-party notices](THIRD_PARTY_NOTICES.md) and [distribution boundaries](docs/distribution.md), which also cover previously published Git history.
