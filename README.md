@@ -20,7 +20,8 @@
   <a href="#练习与复盘">练习与复盘</a> ·
   <a href="#题库覆盖">题库覆盖</a> ·
   <a href="#使用须知">使用须知</a> ·
-  <a href="#文档导航">文档导航</a>
+  <a href="#文档导航">文档导航</a> ·
+  <a href="https://github.com/AuroraWhisperer/toefl-prep-studio/releases">版本管理（v1.0.0）</a>
 </p>
 
 </div>
@@ -57,31 +58,31 @@ python -m venv .venv
 <table>
   <thead>
     <tr>
-      <th width="180" align="left">模式</th>
-      <th width="260" align="left">适合什么时候用</th>
-      <th width="560" align="left">怎么练</th>
+      <th width="180" align="center" valign="middle">模式</th>
+      <th width="260" align="center" valign="middle">适合什么时候用</th>
+      <th width="560" align="center" valign="middle">怎么练</th>
     </tr>
   </thead>
   <tbody>
-    <tr valign="top">
-      <td><strong>专项练习</strong></td>
-      <td>集中练一种题型</td>
-      <td>自选题量和计时方式，随机抽取完整文章、对话或访谈材料。</td>
+    <tr>
+      <td align="center" valign="middle"><strong>专项练习</strong></td>
+      <td align="center" valign="middle">集中练一种题型</td>
+      <td align="center" valign="middle">自选题量和计时方式，随机抽取完整文章、对话或访谈材料。</td>
     </tr>
-    <tr valign="top">
-      <td><strong>整科练习</strong></td>
-      <td>熟悉单科节奏</td>
-      <td>按科目限时完成固定题组，交卷后一起复盘。</td>
+    <tr>
+      <td align="center" valign="middle"><strong>整科练习</strong></td>
+      <td align="center" valign="middle">熟悉单科节奏</td>
+      <td align="center" valign="middle">按科目限时完成固定题组，交卷后一起复盘。</td>
     </tr>
-    <tr valign="top">
-      <td><strong>模拟考</strong></td>
-      <td>按公开试卷走完整流程</td>
-      <td>本地导入 ETS Practice Test 1–5 后使用，每套 97 题。</td>
+    <tr>
+      <td align="center" valign="middle"><strong>模拟考</strong></td>
+      <td align="center" valign="middle">按公开试卷走完整流程</td>
+      <td align="center" valign="middle">本地导入 ETS Practice Test 1–5 后使用，每套 97 题。</td>
     </tr>
-    <tr valign="top">
-      <td><strong>综合测验</strong></td>
-      <td>按难度练习四科</td>
-      <td>从原创题库组成 120 题；可选五套方案、1–10 档起始难度，阅读和听力在模块间调整选材。</td>
+    <tr>
+      <td align="center" valign="middle"><strong>综合测验</strong></td>
+      <td align="center" valign="middle">按难度练习四科</td>
+      <td align="center" valign="middle">从原创题库组成 120 题；可选五套方案、1–10 档起始难度，阅读和听力在模块间调整选材。</td>
     </tr>
   </tbody>
 </table>
@@ -107,36 +108,36 @@ python -m venv .venv
 <table>
   <thead>
     <tr>
-      <th width="180" align="left">科目</th>
-      <th width="500" align="left">题型</th>
-      <th width="160" align="right">原创题数</th>
-      <th width="160" align="right">整科题数</th>
+      <th width="120" align="center" valign="middle">科目</th>
+      <th width="560" align="center" valign="middle">题型</th>
+      <th width="160" align="center" valign="middle">原创题数</th>
+      <th width="160" align="center" valign="middle">整科题数</th>
     </tr>
   </thead>
   <tbody>
-    <tr valign="top">
-      <td><strong>阅读</strong><br><sub>Reading</sub></td>
-      <td>补词 · 日常生活阅读 · 学术文章</td>
-      <td align="right">795</td>
-      <td align="right">50</td>
+    <tr>
+      <td align="center" valign="middle"><strong>阅读</strong></td>
+      <td align="center" valign="middle">补词 · 日常生活阅读 · 学术文章</td>
+      <td align="center" valign="middle">795</td>
+      <td align="center" valign="middle">50</td>
     </tr>
-    <tr valign="top">
-      <td><strong>听力</strong><br><sub>Listening</sub></td>
-      <td>应答 · 对话 · 公告 · 学术讲座</td>
-      <td align="right">705</td>
-      <td align="right">47</td>
+    <tr>
+      <td align="center" valign="middle"><strong>听力</strong></td>
+      <td align="center" valign="middle">应答 · 对话 · 公告 · 学术讲座</td>
+      <td align="center" valign="middle">705</td>
+      <td align="center" valign="middle">47</td>
     </tr>
-    <tr valign="top">
-      <td><strong>写作</strong><br><sub>Writing</sub></td>
-      <td>造句 · 邮件 · 学术讨论</td>
-      <td align="right">450</td>
-      <td align="right">12</td>
+    <tr>
+      <td align="center" valign="middle"><strong>写作</strong></td>
+      <td align="center" valign="middle">造句 · 邮件 · 学术讨论</td>
+      <td align="center" valign="middle">450</td>
+      <td align="center" valign="middle">12</td>
     </tr>
-    <tr valign="top">
-      <td><strong>口语</strong><br><sub>Speaking</sub></td>
-      <td>听后复述 · 模拟访谈</td>
-      <td align="right">165</td>
-      <td align="right">11</td>
+    <tr>
+      <td align="center" valign="middle"><strong>口语</strong></td>
+      <td align="center" valign="middle">听后复述 · 模拟访谈</td>
+      <td align="center" valign="middle">165</td>
+      <td align="center" valign="middle">11</td>
     </tr>
   </tbody>
 </table>
@@ -207,10 +208,14 @@ ETS 模考试卷独立存放，不参与原创练习抽题。题面与答案键�
   </tbody>
 </table>
 
-## 许可与分发
+## 重要说明
 
-原创代码和内容采用 **[TOEFL Prep Studio Noncommercial License 1.0](LICENSE)**。这是源码可见的非商业许可，不是标准开源许可。
+### 非商业使用，商用须另行取得书面授权
 
-可以按条款用于非商业学习、研究、修改和分享。售卖、收费部署、商业培训、企业业务使用及广告等商业获利，需要另行取得书面授权。分发时须保留许可与版权说明、标注修改并提供对应源码；完整条款以 LICENSE 为准。
+原创代码和内容采用[非商业许可](LICENSE)：**源码可见，不是标准开源许可**。
 
-ETS 材料、字体、第三方依赖和个人数据不由该协议授权。详见[第三方说明](THIRD_PARTY_NOTICES.md)及[分发说明](docs/distribution.md)，后者也说明了已发布 Git 历史的处理要求。
+- **可以做什么：** 按许可条款用于非商业学习、研究、修改和分享。
+- **哪些需要授权：** 售卖、收费部署、商业培训、企业业务使用及广告获利等商业用途。
+- **分享时须保留：** 许可与版权说明，标注修改，并提供对应源码。
+
+ETS 材料、字体、第三方依赖及个人数据**不在此许可授权范围内**。完整条款见 [LICENSE](LICENSE)；第三方权利见[第三方说明](THIRD_PARTY_NOTICES.md)，分发边界及已发布 Git 历史的处理要求见[分发说明](docs/distribution.md)。

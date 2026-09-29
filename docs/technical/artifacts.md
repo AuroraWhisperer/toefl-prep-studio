@@ -13,20 +13,21 @@ artifacts/
 ├─ mock-sessions/                个人模考进度、归档及录音
 ├─ test-sessions/                综合测验进度，使用时自动创建
 ├─ ets-reference/                七份原始 PDF 与资料索引
-├─ backups/                     其他进行中任务新建的源码副本
-└─ qa/                          当前验证输出
+└─ qa/                          当前验证输出，任务开始时按需创建
    ├─ browser-data/<UUID>/       正在使用的隔离测试数据
    ├─ browser-tests/             最近一轮浏览器测试输出
    └─ <用途>-YYYY-MM-DD/         进行中的人工验证资料
 
 tmp/
 ├─ README.md                     临时与待清理文件索引
-└─ artifacts-2026-09-28/
+└─ cleanup-2026-09-29/
    ├─ README.md                  本次移入内容及原位置
-   ├─ qa/                       已完成任务的截图、日志和旧测试数据
-   ├─ backups/                  旧源码快照
-   ├─ release-verification/     已完成的发布验证副本及恢复材料
-   └─ ets-derived/              PDF 提取文本、截图和网页副本
+   ├─ artifacts/qa/             已完成任务的报告、截图、日志和隔离测试数据
+   ├─ artifacts/backups/        旧源码快照
+   ├─ docs/superpowers/plans/   已完成的导航与学习流程实施计划
+   ├─ .pytest_cache/           pytest 缓存
+   ├─ .ruff_cache/             Ruff 缓存
+   └─ <原源码目录>/__pycache__/ Python 字节码缓存，保留原目录层级
 ```
 
 前三个运行目录及 `TOEFL_DATA_DIR` 的含义保持不变。个人记录和录音由应用管理，不按日期或文件大小当作开发垃圾清理。`ets-reference/test-1.pdf` 至 `test-5.pdf` 仍是[模考导入器](../../question_bank/README.md#模考导入与隔离)的输入；当前题库和原卷题面图片仍在 `question_bank/`。
@@ -41,10 +42,10 @@ tmp/
 
 ## 本次迁移与索引
 
-后续清理将 15 份已完成的实施计划、旧项目清理记录，以及 `.pytest_cache`、`.ruff_cache` 和项目源码目录中的 `__pycache__` 直接移入 `tmp/`，未另建分类目录。缓存可自动生成；`docs/superpowers/plans/2026-09-28-browser-history.md` 及 `artifacts/` 中仍在使用的导航、学习流程验证资料保留原位。
+2026-09-29 确认相关验证任务结束、没有相关测试进程后，将现有 `artifacts/qa/`、`artifacts/backups/`、两份已完成实施计划及项目源码缓存移入 `tmp/cleanup-2026-09-29/`，共 981 个文件，约 78.4 MiB。按原相对路径保存，移动后、更新导航前逐文件 SHA-256 核对一致。
 
-2026-09-28 移入 `tmp/artifacts-2026-09-28/` 的旧文件共 1,774 个，约 203 MiB；移动前后内容校验一致。进行中的学习流程检查、当前浏览器输出及其数据未迁移。迁移后其他任务新建的 `backups/browser-history-2026-09-28/` 也保留原位。具体内容与原位置见[本机迁移索引](../../tmp/artifacts-2026-09-28/README.md)。
+本机迁移清单、文件校验及报告入口见 [tmp 索引](../../tmp/README.md)。归档中的脚本、命令、端口及源码行号记录执行时的环境，不作为当前生成或测试入口；日志、数据、源码副本保持原内容，导航链接按新位置更新。
 
-发布验证副本已移入 `release-verification/`。`.public-checkout/.venv` 仍是指向主项目环境的目录联接；移动没有复制环境，后续清理不要沿联接进入主环境。发布候选信息随目录保留，Git 中的发布分支未变。
+个人历史、录音、题库、ETS 原始 PDF、依赖环境，以及仍被规范引用的架构决策和题库维护记录保留原位。pytest、Ruff 和 Python 缓存可能随以后运行重新生成；浏览器测试仍使用上述约定路径。
 
-[名称变更对照](../../tmp/artifacts-2026-09-28/qa/artifacts-naming-2026-09-28/renamed-paths.md)和[文件路径索引](../../tmp/artifacts-2026-09-28/qa/artifacts-naming-2026-09-28/path-index.json)指向现位置；原始日志、迁移操作记录和校验报告保留执行时的信息。这些本机文件不随 Git 分发。
+2026-09-28 的旧迁移目录在本次整理前已不在工作区；旧报告中的历史路径不表示这些文件仍存在。当前索引只链接本次实际保留的文件。这些本机归档不随 Git 分发。

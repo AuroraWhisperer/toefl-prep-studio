@@ -101,6 +101,7 @@
     submission: null,
     historyReview: false,
     testSession: null,
+    testSubmission: null,
   };
   const setupSelections = new Map();
   const pendingRecordingArchives = new Map();
@@ -400,6 +401,7 @@
     if (state.loading || state.submitting) return;
     state.loading = true;
     state.testSession = null;
+    state.testSubmission = null;
     dom.submit.textContent = '提交本部分';
     dom.sectionGrid.querySelectorAll('button').forEach((button) => {
       button.disabled = true;
@@ -505,7 +507,8 @@
   }
 
   function scheduleTestSave() {
-    if (!state.testSession?.deadline || state.submitting || dom.exam.hidden) return;
+    if (!state.testSession?.deadline || state.submitting || state.testSubmission || dom.exam.hidden)
+      return;
     const body = testBody();
     adaptiveTest.keepDraft(body);
     clearTimeout(testSaveTimer);
@@ -520,6 +523,7 @@
   }
 
   function showTestSession(payload) {
+    state.testSubmission = null;
     state.practicePath = null;
     const path = `/tests/${payload.id}`;
     clearTimeout(testSaveTimer);
@@ -674,8 +678,11 @@
     disposeSentenceControls?.();
     disposeSentenceControls = null;
     stopRecording(true);
-    dom.questionContent.inert = false;
-    dom.questionIndex.inert = false;
+    const frozen =
+      Boolean(state.testSubmission) ||
+      (state.timerMode === 'countdown' && state.deadline !== null && Date.now() >= state.deadline);
+    dom.questionContent.inert = frozen;
+    dom.questionIndex.inert = frozen;
     stopAudio();
     const question = currentQuestion();
     if (!question) return;
@@ -1031,7 +1038,7 @@
   }
 
   function goToQuestion(index) {
-    if (state.submitting) return;
+    if (state.submitting || state.testSubmission) return;
     saveCurrentAnswer();
     if (index < 0 || index >= state.questions.length) return;
     state.currentIndex = index;
@@ -1065,9 +1072,9 @@
       if (state.testSession) {
         clearTimeout(testSaveTimer);
         await saveTestRecordings();
-        const body = testBody();
-        adaptiveTest.keepDraft(body);
-        await adaptiveTest.submit(body);
+        state.testSubmission ||= structuredClone(testBody());
+        adaptiveTest.keepDraft(state.testSubmission);
+        await adaptiveTest.submit(state.testSubmission);
         state.submitting = false;
         return;
       }
@@ -1113,12 +1120,13 @@
       await archiveRecordings();
     } catch (error) {
       showToast(`提交失败：${error.message}`);
+      if (error.status === 422) state.testSubmission = null;
       dom.submit.disabled = false;
-      dom.next.disabled = false;
+      dom.next.disabled = Boolean(state.testSubmission);
       state.submitting = false;
       const expired = state.timerMode === 'countdown' && Date.now() >= state.deadline;
-      dom.questionContent.inert = expired;
-      dom.questionIndex.inert = expired;
+      dom.questionContent.inert = expired || Boolean(state.testSubmission);
+      dom.questionIndex.inert = expired || Boolean(state.testSubmission);
       if (state.timerMode === 'countup' || state.remaining > 0) startTimer();
       dom.saveState.textContent = '提交失败，答案仍保留。请点击提交重试。';
       return;
@@ -1354,6 +1362,15 @@
     else showLanding();
   });
   document.querySelector('#retry-recording-archive').addEventListener('click', archiveRecordings);
+  window.addEventListener('history-cleared', () => {
+    for (const clips of pendingRecordingArchives.values()) {
+      for (const [id, url] of Object.entries(clips)) {
+        URL.revokeObjectURL(url);
+        if (state.recordings[id] === url) delete state.recordings[id];
+      }
+    }
+    pendingRecordingArchives.clear();
+  });
   window.addEventListener('history-opened', () => {
     state.practicePath = null;
     state.practiceId += 1;
@@ -1458,7 +1475,7 @@
         if (state.testSession) {
           await stopped;
           await saveTestRecordings();
-          const body = testBody();
+          const body = state.testSubmission || testBody();
           adaptiveTest.keepDraft(body);
           await adaptiveTest.save(body);
         }

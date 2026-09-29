@@ -20,7 +20,8 @@
   <a href="#practice-and-review">Practice and review</a> ·
   <a href="#question-bank">Question bank</a> ·
   <a href="#usage-notes">Usage notes</a> ·
-  <a href="#documentation">Documentation</a>
+  <a href="#documentation">Documentation</a> ·
+  <a href="https://github.com/AuroraWhisperer/toefl-prep-studio/releases">Releases (v1.0.0)</a>
 </p>
 
 </div>
@@ -57,31 +58,31 @@ Use task practice to work on a particular question type, or section practice to 
 <table>
   <thead>
     <tr>
-      <th width="200" align="left">Mode</th>
-      <th width="250" align="left">When to use it</th>
-      <th width="550" align="left">What you do</th>
+      <th width="200" align="center" valign="middle">Mode</th>
+      <th width="250" align="center" valign="middle">When to use it</th>
+      <th width="550" align="center" valign="middle">What you do</th>
     </tr>
   </thead>
   <tbody>
-    <tr valign="top">
-      <td><strong>Task practice</strong></td>
-      <td>Focus on one task type</td>
-      <td>Choose the quantity and timer. Practice with randomly selected, complete passages, conversations, or interviews.</td>
+    <tr>
+      <td align="center" valign="middle"><strong>Task practice</strong></td>
+      <td align="center" valign="middle">Focus on one task type</td>
+      <td align="center" valign="middle">Choose the quantity and timer. Practice with randomly selected, complete passages, conversations, or interviews.</td>
     </tr>
-    <tr valign="top">
-      <td><strong>Section practice</strong></td>
-      <td>Get used to a section's pace</td>
-      <td>Complete a fixed set within the section time limit, then review your submission.</td>
+    <tr>
+      <td align="center" valign="middle"><strong>Section practice</strong></td>
+      <td align="center" valign="middle">Get used to a section's pace</td>
+      <td align="center" valign="middle">Complete a fixed set within the section time limit, then review your submission.</td>
     </tr>
-    <tr valign="top">
-      <td><strong>Mock exams</strong></td>
-      <td>Follow a published paper from start to finish</td>
-      <td>Locally import ETS Practice Tests 1–5, with 97 questions per form.</td>
+    <tr>
+      <td align="center" valign="middle"><strong>Mock exams</strong></td>
+      <td align="center" valign="middle">Follow a published paper from start to finish</td>
+      <td align="center" valign="middle">Locally import ETS Practice Tests 1–5, with 97 questions per form.</td>
     </tr>
-    <tr valign="top">
-      <td><strong>Comprehensive tests</strong></td>
-      <td>Practice all four sections at a chosen difficulty</td>
-      <td>Take 120 questions from the original bank. Choose one of five profiles and a starting level from 1–10; Reading and Listening adjust material selection between modules.</td>
+    <tr>
+      <td align="center" valign="middle"><strong>Comprehensive tests</strong></td>
+      <td align="center" valign="middle">Practice all four sections at a chosen difficulty</td>
+      <td align="center" valign="middle">Take 120 questions from the original bank. Choose one of five profiles and a starting level from 1–10; Reading and Listening adjust material selection between modules.</td>
     </tr>
   </tbody>
 </table>
@@ -107,36 +108,36 @@ The original bank contains **2,115 scored items across 12 task types**. “Secti
 <table>
   <thead>
     <tr>
-      <th width="180" align="left">Section</th>
-      <th width="500" align="left">Task types</th>
-      <th width="160" align="right">Bank items</th>
-      <th width="160" align="right">Section set</th>
+      <th width="120" align="center" valign="middle">Section</th>
+      <th width="560" align="center" valign="middle">Task types</th>
+      <th width="160" align="center" valign="middle">Bank items</th>
+      <th width="160" align="center" valign="middle">Section set</th>
     </tr>
   </thead>
   <tbody>
-    <tr valign="top">
-      <td><strong>Reading</strong></td>
-      <td>Complete the Words<br>Read in Daily Life · Read an Academic Passage</td>
-      <td align="right">795</td>
-      <td align="right">50</td>
+    <tr>
+      <td align="center" valign="middle"><strong>Reading</strong></td>
+      <td align="center" valign="middle">Complete the Words<br>Read in Daily Life · Read an Academic Passage</td>
+      <td align="center" valign="middle">795</td>
+      <td align="center" valign="middle">50</td>
     </tr>
-    <tr valign="top">
-      <td><strong>Listening</strong></td>
-      <td>Choose a Response · Conversation<br>Announcement · Academic Talk</td>
-      <td align="right">705</td>
-      <td align="right">47</td>
+    <tr>
+      <td align="center" valign="middle"><strong>Listening</strong></td>
+      <td align="center" valign="middle">Choose a Response · Conversation<br>Announcement · Academic Talk</td>
+      <td align="center" valign="middle">705</td>
+      <td align="center" valign="middle">47</td>
     </tr>
-    <tr valign="top">
-      <td><strong>Writing</strong></td>
-      <td>Build a Sentence · Write an Email<br>Academic Discussion</td>
-      <td align="right">450</td>
-      <td align="right">12</td>
+    <tr>
+      <td align="center" valign="middle"><strong>Writing</strong></td>
+      <td align="center" valign="middle">Build a Sentence · Write an Email<br>Academic Discussion</td>
+      <td align="center" valign="middle">450</td>
+      <td align="center" valign="middle">12</td>
     </tr>
-    <tr valign="top">
-      <td><strong>Speaking</strong></td>
-      <td>Listen and Repeat · Take an Interview</td>
-      <td align="right">165</td>
-      <td align="right">11</td>
+    <tr>
+      <td align="center" valign="middle"><strong>Speaking</strong></td>
+      <td align="center" valign="middle">Listen and Repeat · Take an Interview</td>
+      <td align="center" valign="middle">165</td>
+      <td align="center" valign="middle">11</td>
     </tr>
   </tbody>
 </table>
@@ -207,10 +208,14 @@ For a closer look at a feature or before changing the code, start with the relev
   </tbody>
 </table>
 
-## License and distribution
+## Important notes
 
-Original code and content use the **[TOEFL Prep Studio Noncommercial License 1.0](LICENSE)**. This is a source-available, noncommercial license, not a standard open-source license.
+### Noncommercial use; commercial use requires separate written permission
 
-Noncommercial learning, research, modification, and sharing are permitted under its terms. Sales, paid hosting, commercial teaching, business use, advertising, and other commercial exploitation require separate written permission. Redistribution must retain license and copyright notices, identify changes, and include corresponding source. The full LICENSE controls.
+Original code and content use the [noncommercial license](LICENSE): **source available, not a standard open-source license**.
 
-The license does not grant rights in ETS materials, fonts, dependencies, or personal data. See [third-party notices](THIRD_PARTY_NOTICES.md) and [distribution boundaries](docs/distribution.md), which also cover previously published Git history.
+- **Permitted uses:** Noncommercial learning, research, modification, and sharing under the license terms.
+- **Permission required:** Sales, paid hosting, commercial teaching, business use, advertising, and other commercial exploitation.
+- **When sharing:** Retain license and copyright notices, identify changes, and provide corresponding source.
+
+ETS materials, fonts, third-party dependencies, and personal data **are not covered by this permission**. The full [LICENSE](LICENSE) controls. See [third-party notices](THIRD_PARTY_NOTICES.md) for third-party rights and [distribution boundaries](docs/distribution.md) for distribution and previously published Git history.

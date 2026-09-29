@@ -344,16 +344,21 @@
     if (busy) return;
     busy = true;
     clearTimeout(saveTimer);
+    freezeAnswers(true);
     try {
       await act('navigate', { item_index: index });
       draft = { ...session.answers };
       draftOrders = structuredClone(session.word_orders || {});
       renderPhase();
     } catch (e) {
-      if (e.status === 409) await sync();
+      if (e.status === 409 && answerTimeEnded()) {
+        busy = false;
+        await next(true);
+      } else if (e.status === 409) await sync();
       else error(e.message);
     } finally {
       busy = false;
+      freezeAnswers(answerTimeEnded());
     }
   }
 
@@ -567,8 +572,10 @@
       draftOrders = structuredClone(session.word_orders || {});
       renderPhase();
     } catch (e) {
-      if (e.status === 409) {
-        await sync();
+      const recordingExpired =
+        speaking && e.status === 422 && answerTimeEnded() && e.message === '录音不属于当前口语题目';
+      if (e.status === 409 || recordingExpired) {
+        await sync(recordingExpired);
         if (!speaking) error(`本次提交未确认保存：${e.message}。已显示服务端保存的进度。`);
       } else {
         error(e.message);
@@ -583,10 +590,10 @@
     }
   }
 
-  async function sync() {
+  async function sync(recordingExpired = false) {
     clearTimeout(saveTimer);
-    let recordingWarning;
     if (
+      !recordingExpired &&
       session?.phase?.section === 'speaking' &&
       ((session.deadline !== null && now() >= session.deadline) ||
         (responseDeadline !== null && now() >= responseDeadline))
@@ -595,7 +602,7 @@
         await uploadRecording();
       } catch (e) {
         if (![409, 422].includes(e.status)) throw e;
-        recordingWarning = '上一阶段录音未能在上传窗口内保存；考试计时不暂停，请继续当前阶段。';
+        recordingExpired = true;
       }
     }
     await requestChain;
@@ -606,7 +613,8 @@
     if (recorder?.state === 'recording') recorder.stop();
     if (recordingStopped) await recordingStopped;
     renderPhase();
-    if (recordingWarning) error(recordingWarning);
+    if (recordingExpired)
+      error('上一阶段录音未能在上传窗口内保存；考试计时不暂停，请继续当前阶段。');
   }
 
   function answerTimeEnded() {

@@ -272,6 +272,34 @@ def read_session(session_id):
         raise invalid_archive(path) from None
 
 
+def recover_completion(session):
+    record_path = history.HISTORY_DIR / f"{session['id']}.json"
+    if (
+        session['status'] != 'active'
+        or session['phase_index'] != len(PHASES) - 1
+        or not record_path.is_file()
+    ):
+        return
+    record = history.read_record(UUID(session['id']))
+    ids = {q['id'] for q in session['phases'][-1]['questions']}
+    # Older archives have only display feedback; new archives retain exact nullable
+    # response fields so a lost completion response can be retried byte-for-byte.
+    final_responses = record.get('test_final_responses')
+    if final_responses is None:
+        final_responses = {
+            row['question_id']: {
+                key: row[key] for key in ('question_id', 'answer', 'duration_seconds')
+            }
+            for row in record['result']['feedback']
+            if row['question_id'] in ids
+        }
+    for qid in ids:
+        session['responses'].pop(qid, None)
+    session['responses'].update(final_responses)
+    session.update(status='completed', phase_index=len(PHASES), deadline=None, item_index=0)
+    persist(session)
+
+
 def append_phase(session, level):
     used = {q['id'] for phase in session['phases'] for q in phase['questions']}
     phase = select_phase(session['phase_index'], level, used)
@@ -362,6 +390,11 @@ def advance(session):
                     'questions': [q for p in session['phases'] for q in p['questions']],
                     'result': build_result(session),
                     'recordings': session['recordings'],
+                    'test_final_responses': {
+                        q['id']: session['responses'][q['id']]
+                        for q in previous['questions']
+                        if q['id'] in session['responses']
+                    },
                 }
             )
         session['status'] = 'completed'
@@ -455,6 +488,7 @@ def start(payload: StartRequest):
 def resume(session_id: UUID):
     with LOCK:
         session = read_session(session_id)
+        recover_completion(session)
         expire(session)
         return public_session(session)
 
@@ -463,6 +497,7 @@ def resume(session_id: UUID):
 def event(session_id: UUID, payload: EventRequest):
     with LOCK:
         session = read_session(session_id)
+        recover_completion(session)
         expire(session)
         # Network retries never grade twice or advance another module.
         if payload.phase_index < session['phase_index']:

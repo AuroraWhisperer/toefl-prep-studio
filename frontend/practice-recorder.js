@@ -86,10 +86,13 @@
         mediaStream = stream;
         const recorder = (mediaRecorder = new MediaRecorder(stream));
         const chunks = [];
+        let takeTimer;
         recorder.ondataavailable = (event) => {
           if (event.data.size) chunks.push(event.data);
         };
         recorder.onstop = () => {
+          window.clearTimeout(takeTimer);
+          if (mediaRecorder === recorder) stop();
           if (chunks.length)
             onRecording({ ...target, blob: new Blob(chunks, { type: recorder.mimeType }) });
         };
@@ -108,7 +111,12 @@
         pending.add(stopped);
         onStatus('recording');
         startRecognition(target);
-        timer = window.setTimeout(stop, (maxSeconds || 45) * 1000);
+        timer = takeTimer = window.setTimeout(
+          () => {
+            if (mediaRecorder === recorder) stop();
+          },
+          (maxSeconds || 45) * 1000,
+        );
       } catch (error) {
         if (request !== requestId) return;
         const message =

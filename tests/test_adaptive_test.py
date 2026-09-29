@@ -288,3 +288,52 @@ def test_session_save_retries_a_brief_windows_file_lock(monkeypatch):
         client.get(f"/api/v1/tests/sessions/{session['id']}").json()['deadline']
         == session['deadline']
     )
+
+
+@pytest.mark.parametrize('recovery', ['identical', 'changed', 'get', 'legacy_get'])
+@pytest.mark.parametrize('duration', [None, 1])
+def test_final_archive_recovers_failed_session_write_before_retry(monkeypatch, recovery, duration):
+    session = start()
+    for _ in range(8):
+        session = event(event(session, 'begin'), 'submit')
+    session = event(session, 'begin')
+    qid = session['phase']['questions'][0]['id']
+    url = f"/api/v1/tests/sessions/{session['id']}"
+    body = {
+        'phase_index': 8,
+        'action': 'submit',
+        'responses': [
+            {'question_id': qid, 'answer': 'The accepted answer.', 'duration_seconds': duration},
+        ],
+    }
+    original_write = tests.write_archive
+
+    def fail_completed(path, value):
+        if value.get('status') == 'completed':
+            raise PermissionError('Final session cannot be committed')
+        return original_write(path, value)
+
+    with monkeypatch.context() as fault:
+        fault.setattr(tests, 'write_archive', fail_completed)
+        failed = TestClient(app, raise_server_exceptions=False).post(url, json=body)
+    assert failed.status_code == 500
+    disk = json.loads((tests.SESSION_DIR / f"{session['id']}.json").read_text('utf-8'))
+    assert disk['status'] == 'active'
+    archived = history.read_record(session['id'])
+    if recovery == 'legacy_get':
+        del archived['test_final_responses']
+        history.write_record(archived)
+    if recovery == 'changed':
+        body['responses'][0]['answer'] = 'A different answer.'
+    if recovery in ('identical', 'changed'):
+        retry = client.post(url, json=body)
+        assert retry.status_code == (409 if recovery == 'changed' else 200)
+    resumed = client.get(url).json()
+    assert resumed['status'] == 'completed'
+    assert (
+        next(row for row in resumed['result']['feedback'] if row['question_id'] == qid)['answer']
+        == 'The accepted answer.'
+    )
+    assert tests.read_session(session['id'])['responses'][qid]['answer'] == 'The accepted answer.'
+    assert history.read_record(session['id']) == archived
+    assert len(list(history.HISTORY_DIR.glob('*.json'))) == 1

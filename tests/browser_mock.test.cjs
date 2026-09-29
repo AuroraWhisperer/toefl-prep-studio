@@ -24,7 +24,9 @@ test('module timeout sends the last edit without waiting for autosave', async ({
   await expect(input).toBeVisible();
   const qid = await input.getAttribute('data-answer');
   await input.fill('a');
-  await page.clock.runFor(1900);
+  await page.clock.runFor(300);
+  await expect(page.locator('#mock-save')).toHaveText('已保存');
+  await page.clock.runFor(1600);
   await input.fill('b');
   const sent = page.waitForRequest(
     (r) => r.method() === 'POST' && r.postDataJSON()?.action === 'advance',
@@ -131,6 +133,87 @@ async function submitPhase(page) {
   await beginStage(page);
 }
 
+test('deadline-crossing navigation submits the preserved final answer', async ({
+  page,
+  context,
+  request,
+}, testInfo) => {
+  await prepare(page, context);
+  await begin(page);
+  const id = await page.evaluate(() => localStorage.getItem('toefl-mock-session'));
+  const url = `/api/v1/mock/sessions/${id}`;
+  const file = path.join(
+    testInfo.config.webServer.env.TOEFL_DATA_DIR,
+    'mock-sessions',
+    `${id}.json`,
+  );
+  const stored = JSON.parse(await fs.readFile(file, 'utf8'));
+  stored.deadline = Date.now() / 1000 + 3;
+  await fs.writeFile(file, JSON.stringify(stored));
+  await page.reload();
+  const calls = [];
+  await page.route(`**${url}`, async (route) => {
+    const body = route.request().method() === 'POST' ? route.request().postDataJSON() : null;
+    if (body?.action === 'navigate')
+      await new Promise((resolve) =>
+        setTimeout(resolve, Math.max(0, (stored.deadline + 0.5) * 1000 - Date.now())),
+      );
+    const response = await route.fetch();
+    calls.push({ action: body?.action, answers: body?.answers, status: response.status() });
+    await route.fulfill({ response });
+  });
+  const input = page.locator('.mock-letter-input').first();
+  const qid = await input.getAttribute('data-answer');
+  await input.fill('b');
+  await page.locator('#mock-next').click();
+  await expect(page.locator('.mock-heading h2')).toHaveText('Reading · Module 2');
+  expect(calls.find((call) => call.action === 'navigate').status).toBe(409);
+  expect(calls.find((call) => call.action === 'advance').answers[qid]).toBe('b');
+  expect((await (await request.get(url)).json()).answers[qid]).toBe('b');
+});
+
+for (const fails of [false, true]) {
+  test(`pending mock navigation freezes answers and recovers (failure: ${fails})`, async ({
+    page,
+    context,
+  }) => {
+    await prepare(page, context);
+    await begin(page);
+    let release;
+    const held = new Promise((resolve) => {
+      release = resolve;
+    });
+    await page.route('**/api/v1/mock/sessions/*', async (route) => {
+      if (
+        route.request().method() !== 'POST' ||
+        route.request().postDataJSON().action !== 'navigate'
+      )
+        return route.continue();
+      await held;
+      if (fails)
+        await route.fulfill({ status: 503, json: { detail: 'Temporary navigation failure' } });
+      else await route.continue();
+    });
+    const input = page.locator('.mock-letter-input').first();
+    await input.fill('a');
+    await page.locator('#mock-next').click();
+    try {
+      await expect(page.locator('.mock-reading-cloze')).toHaveJSProperty('inert', true);
+    } finally {
+      release();
+    }
+    if (fails) {
+      await expect(page.locator('#mock-error')).toContainText('Temporary navigation failure');
+      await expect(page.locator('.mock-reading-cloze')).toHaveJSProperty('inert', false);
+      await input.fill('b');
+    } else {
+      await expect(page.locator('.mock-native-workspace')).toBeVisible();
+      await page.locator('#mock-prev').click();
+      await expect(input).toHaveValue('a');
+    }
+  });
+}
+
 async function prepareMockRecording(page, context, request) {
   await prepare(page, context);
   await page.addInitScript(() => {
@@ -214,6 +297,53 @@ async function prepareMockRecording(page, context, request) {
   await beginStage(page);
   await expect(page.locator('#mock-record-state')).toHaveText('正在录音，请回答。');
   return { url, questionId: session.phase.items[0].id };
+}
+
+for (const expired of [true, false]) {
+  test(`recording 422 only syncs an expired question (expired: ${expired})`, async ({
+    page,
+    context,
+    request,
+  }, testInfo) => {
+    const { url, questionId } = await prepareMockRecording(page, context, request);
+    const id = url.split('/').at(-1);
+    const file = path.join(
+      testInfo.config.webServer.env.TOEFL_DATA_DIR,
+      'mock-sessions',
+      `${id}.json`,
+    );
+    const stored = JSON.parse(await fs.readFile(file, 'utf8'));
+    stored.response_deadline = Date.now() / 1000 + 2;
+    await fs.writeFile(file, JSON.stringify(stored));
+    await page.reload();
+    let attempts = 0;
+    await page.route(`**${url}/recordings/${questionId}`, async (route) => {
+      attempts += 1;
+      if (attempts === 1)
+        await route.fulfill({ status: 503, json: { detail: 'Temporary upload failure' } });
+      else if (!expired)
+        await route.fulfill({ status: 422, json: { detail: '没有收到录音，请检查麦克风' } });
+      else await route.continue();
+    });
+    await expect.poll(() => page.evaluate(() => mockRecordingProbe.stops)).toBe(1);
+    await page.evaluate(() => mockRecordingProbe.current.finish());
+    await expect(page.locator('#mock-save')).toContainText('保存失败');
+    if (expired) {
+      // Move only this owned session beyond its upload grace; do not wait eleven real seconds.
+      stored.response_deadline = Date.now() / 1000 - 11;
+      await fs.writeFile(file, JSON.stringify(stored));
+    }
+    await page.locator('#mock-next').click();
+    if (expired) {
+      await expect(page.locator('.mock-question > .mock-status').first()).toContainText('第 2 / 4');
+      await expect(page.locator('#mock-error')).toContainText('录音未能在上传窗口内保存');
+      expect((await (await request.get(url)).json()).recordings[questionId]).toBeUndefined();
+    } else {
+      await expect(page.locator('#mock-error')).toContainText('没有收到录音');
+      await expect(page.locator('.mock-question > .mock-status').first()).toContainText('第 1 / 4');
+    }
+    expect(attempts).toBe(2);
+  });
 }
 
 test('browser Back saves a stopped mock recording and Forward keeps its deadline', async ({

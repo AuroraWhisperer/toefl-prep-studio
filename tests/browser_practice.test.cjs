@@ -75,6 +75,29 @@ test('timers and failed submissions preserve the original selection', async ({ p
   await timingAndRecovery(page, baseURL);
 });
 
+test('expired practice remains read-only after navigating and can retry submission', async ({
+  page,
+}) => {
+  await page.route('**/api/v1/exam?*', async (route) => {
+    const response = await route.fetch();
+    await route.fulfill({ response, json: { ...(await response.json()), time_limit_seconds: 2 } });
+  });
+  await page.route(
+    '**/api/v1/exam/submit',
+    (route) => route.fulfill({ status: 503, json: { detail: 'Temporary failure' } }),
+    { times: 1 },
+  );
+  await openSettings(page, 'writing', 'write_email', 2);
+  await page.locator('input[name=timer_mode][value=countdown]').check();
+  await start(page);
+  await expect(page.locator('#save-state')).toContainText('提交失败');
+  await page.locator('#next-question').click();
+  await expect(page.locator('#timer-value')).toHaveText('00:00');
+  await expect(page.locator('#question-content')).toHaveJSProperty('inert', true);
+  const result = await submit(page);
+  expect(result.answered_questions).toBe(0);
+});
+
 test('all audio scripts keep compact spacing and line breaks in practice and review', async ({
   page,
 }, testInfo) => {

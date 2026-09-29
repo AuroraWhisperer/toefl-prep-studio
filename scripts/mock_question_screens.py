@@ -15,11 +15,11 @@ def paragraphs(text):
     return '\n\n'.join(compact(p) for p in re.split(r'\n\s*\n', text.strip()) if p.strip())
 
 
-def source_text(page):
+def source_text(page, *, sort=False):
     # Geometric sorting interleaves PDF accessibility spans and corrupts blanks.
     return '\n'.join(
         line.strip().replace('\u00a0', ' ')
-        for line in page.get_text(sort=False).splitlines()
+        for line in page.get_text(sort=sort).splitlines()
         if 'TOEFL iBT' not in line
         and not re.fullmatch(r'\s*\d+\s*', line)
         and not re.fullmatch(r'\s*(Reading|Writing) Section(?:, Module [12])?\s*', line)
@@ -122,7 +122,15 @@ def sentences(phase, text):
 
 def enrich_paper(paper, document):
     for phase in paper['phases']:
-        page_texts = [source_text(document[p['page'] - 1]) for p in phase['pages']]
+        page_texts = []
+        for entry in phase['pages']:
+            page = document[entry['page'] - 1]
+            text = source_text(page)
+            # Q13–15 share the notice page. Its floating headings need visual order;
+            # cloze accessibility spans and academic page continuations do not.
+            if phase['section'] == 'reading' and re.search(r'(?m)^\s*13\.\s', text):
+                text = source_text(page, sort=True)
+            page_texts.append(text)
         text = '\n\n'.join(page_texts)
         if phase['section'] == 'reading':
             reading(phase, page_texts)

@@ -82,6 +82,74 @@ async function speaking(page) {
   return start(page);
 }
 
+test('unexpected recorder stop cannot cut short the next take', async ({ page }) => {
+  await speaking(page);
+  await page.clock.install();
+  await page.clock.pauseAt(new Date());
+  await page.locator('[data-record]').click();
+  await page.clock.runFor(10000);
+  await page.evaluate(() => {
+    const recorder = recordingProbe.recorders[0];
+    recorder.state = 'inactive';
+    recorder.finish();
+  });
+  await expect(page.locator('[data-record]')).toContainText('开始录音');
+  await page.clock.runFor(1000);
+  await page.locator('[data-record]').click();
+  await page.clock.runFor(34000);
+  expect(await page.evaluate(() => recordingProbe.recorders[1].state)).toBe('recording');
+  await page.clock.runFor(11000);
+  expect(await page.evaluate(() => recordingProbe.recorders[1].state)).toBe('inactive');
+  await page.evaluate(() => recordingProbe.recorders[1].finish());
+  await expect(page.locator('[data-recording-playback]')).toHaveAttribute('src', /^blob:/);
+});
+
+for (const reset of ['all', 'probability', 'failed']) {
+  test(`pending recording cleanup follows successful history deletion (${reset})`, async ({
+    page,
+  }) => {
+    await speaking(page);
+    await page.locator('[data-record]').click();
+    await page.locator('[data-record]').click();
+    await page.evaluate(() => recordingProbe.recorders[0].finish());
+    const clip = await page.locator('[data-recording-playback]').getAttribute('src');
+    await page.route('**/recordings/*', (route) =>
+      route.request().method() === 'PUT'
+        ? route.fulfill({ status: 503, json: { detail: 'Temporary upload failure' } })
+        : route.continue(),
+    );
+    await page.locator('#submit-exam').click();
+    await expect(page.locator('#recording-archive-status')).toContainText('1 段录音尚未保存');
+    await page.locator('#result-home').click();
+    await page.locator('#open-history').click();
+    await expect(page.locator('.history-row').first()).toBeVisible();
+    if (reset === 'failed')
+      await page.route('**/api/v1/history/reset', (route) =>
+        route.fulfill({ status: 503, json: { detail: 'Temporary reset failure' } }),
+      );
+    await page.locator('#history-management summary').click();
+    page.once('dialog', (dialog) => dialog.accept());
+    await page
+      .locator(`[data-history-reset=${reset === 'probability' ? 'probability' : 'all'}]`)
+      .click();
+    await expect(page.locator('#history-management-status')).toContainText(
+      reset === 'failed' ? '操作未完成' : reset === 'all' ? '已清空' : '已保留',
+    );
+    const result = await page.evaluate(async (url) => {
+      const event = new Event('beforeunload', { cancelable: true });
+      window.dispatchEvent(event);
+      return {
+        warning: event.defaultPrevented,
+        readable: await fetch(url).then(
+          () => true,
+          () => false,
+        ),
+      };
+    }, clip);
+    expect(result).toEqual({ warning: reset !== 'all', readable: reset !== 'all' });
+  });
+}
+
 for (const destination of ['question', 'setup']) {
   test(`late microphone permission is cancelled after leaving for ${destination}`, async ({
     page,

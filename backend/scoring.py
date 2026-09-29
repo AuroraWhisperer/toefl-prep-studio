@@ -1,5 +1,6 @@
-from difflib import SequenceMatcher
 import re
+from collections import Counter
+from difflib import SequenceMatcher
 
 
 def normalize(text):
@@ -11,7 +12,13 @@ def compare(original, answer):
     o = normalize(original)
     a = normalize(answer)
 
-    missing = [x for x in o if x not in a]
+    remaining = Counter(a)
+    missing = []
+    for word in o:
+        if remaining[word]:
+            remaining[word] -= 1
+        else:
+            missing.append(word)
 
     ratio = SequenceMatcher(None, " ".join(o), " ".join(a)).ratio()
 

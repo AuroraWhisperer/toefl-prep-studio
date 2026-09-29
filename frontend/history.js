@@ -221,6 +221,7 @@
           ? '抽题概率已重置，答题记录与录音已保留。'
           : '全部答题记录与已归档录音已清空，抽题概率已重置。';
       if (scope === 'all') {
+        window.dispatchEvent(new Event('history-cleared'));
         from.value = to.value = startDate = endDate = '';
         filterError.hidden = true;
         page = 1;

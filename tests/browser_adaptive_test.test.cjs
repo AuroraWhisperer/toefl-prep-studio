@@ -17,6 +17,33 @@ async function openPhase(page, request, phaseIndex) {
   return { session, url };
 }
 
+test('lost successful stage response retries the identical frozen submission', async ({
+  page,
+  request,
+}) => {
+  const { url } = await openPhase(page, request, 5);
+  await page.locator('#answer-input').fill('My final answer.');
+  const bodies = [];
+  await page.route(`**${url}`, async (route) => {
+    if (route.request().method() !== 'POST' || route.request().postDataJSON().action !== 'submit')
+      return route.continue();
+    bodies.push(route.request().postData());
+    const response = await route.fetch();
+    expect(response.status()).toBe(200);
+    if (bodies.length === 1) await route.abort('connectionreset');
+    else await route.fulfill({ response });
+  });
+  await page.locator('#submit-exam').click();
+  await expect(page.locator('#save-state')).toContainText('提交失败');
+  await expect(page.locator('#question-content')).toHaveJSProperty('inert', true);
+  // Enough time to change rounded duration if the retry rebuilt its payload.
+  await page.waitForTimeout(1100);
+  await page.locator('#submit-exam').click();
+  await expect(page.locator('#test-title')).toHaveText('写作 · 学术讨论');
+  expect(bodies).toHaveLength(2);
+  expect(bodies[1]).toBe(bodies[0]);
+});
+
 test('pasted letters and custom Backspace survive immediate refresh', async ({ page, request }) => {
   await openPhase(page, request, 0);
   const letters = page.locator('.cloze-letters').first().locator('input');

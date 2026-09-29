@@ -6,6 +6,7 @@
 - 重置概率 preserves every record and recording; prior submissions stop contributing to repeat penalties. New successful submissions accrue penalties again. This restores original sampling weights, not guaranteed equal probabilities across difficulty constraints.
 - 全部清空 removes all archived practice/test submissions and completed mock sessions, including their recordings, irrespective of the current tab or date filter. Active and abandoned mock sessions, question banks, and unrelated files remain untouched.
 - Both actions require confirmation. Cancel sends no request; pending actions cannot be submitted twice; errors remain visible and retryable.
+- After successful 全部清空, discard pending browser recordings belonging to deleted archives and revoke their Blob URLs. Probability reset, failed clearing and unrelated active recordings retain their existing state.
 
 ## Implementation and security
 
