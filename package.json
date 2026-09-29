@@ -1,7 +1,7 @@
 {
   "name": "toefl-prep-studio",
   "private": true,
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "SEE LICENSE IN LICENSE.md",
   "scripts": {
     "format": "prettier --write \"frontend/**/*.{js,css,html}\" \"tests/**/*.cjs\" \"*.cjs\" \"package*.json\" .prettierrc.json",
     "format:check": "prettier --check \"frontend/**/*.{js,css,html}\" \"tests/**/*.cjs\" \"*.cjs\" \"package*.json\" .prettierrc.json",

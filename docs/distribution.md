@@ -7,7 +7,7 @@
 | `backend/`、`frontend/`、原创题库、导入工具 | 保留 | 运行所需 |
 | README、PRODUCT、DESIGN、AGENTS、`docs/`、`specs/` | 保留 | 使用或维护说明 |
 | `tests/`、`requirements*.txt`、`package*.json`、Playwright/Ruff/Prettier 配置、`.gitattributes`、`.gitignore` | 保留 | 开发维护需要；普通运行不需要 Node |
-| `LICENSE`、`THIRD_PARTY_NOTICES.md`、字体 OFL | 保留 | 分发时一起保留 |
+| `LICENSE.md`、`THIRD_PARTY_NOTICES.md`、字体 OFL | 保留 | 分发时一起保留 |
 | `.venv/`、`node_modules/`、Python/测试/格式化缓存 | 忽略 | 可以重建 |
 | `artifacts/`、录音、个人历史和会话 | 忽略 | 用户数据，不作为清理垃圾 |
 | `tmp/`、临时音频、`.env*`（`.env.example` 除外） | 忽略 | 按实际用途保留，勿公开个人配置 |
@@ -17,7 +17,7 @@
 
 ## 许可
 
-原创代码和内容使用项目定制的 **TOEFL Prep Studio Noncommercial License 1.0**，正式条文为根目录 [LICENSE](../LICENSE)。它是源码可见的非商业许可，不是 OSI 标准开源许可。
+原创代码和内容使用项目定制的 **TOEFL Prep Studio Noncommercial License 1.0**，正式条文为根目录 [LICENSE.md](../LICENSE.md)。它是源码可见的非商业许可，不是 OSI 标准开源许可。
 
 允许非商业学习、教学、研究、测试、修改和按条款分享；分发时须保留许可和版权说明，标注修改并提供对应源码。销售、收费课程、商业培训、企业业务使用、收费或广告获利的在线服务等须另行取得相关权利人的书面许可。学校或非营利机构身份本身不构成商用豁免。个人学习不会仅因学习者有工作就被视作商用。
 

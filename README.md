@@ -10,7 +10,7 @@
 <p>
   <a href="docs/technical/development.md"><img src="https://img.shields.io/badge/Python-3.10%2B-28675D?style=flat-square&amp;labelColor=303B37" alt="Python 3.10+"></a>
   <img src="https://img.shields.io/badge/Windows-Desktop-28675D?style=flat-square&amp;labelColor=303B37" alt="Windows 桌面浏览器">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Noncommercial-28675D?style=flat-square&amp;labelColor=303B37" alt="源码可见 · 非商业许可"></a>
+  <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-Noncommercial-28675D?style=flat-square&amp;labelColor=303B37" alt="源码可见 · 非商业许可"></a>
 </p>
 
 <p><strong>简体中文</strong> · <a href="README.en.md">English</a></p>
@@ -212,10 +212,10 @@ ETS 模考试卷独立存放，不参与原创练习抽题。题面与答案键�
 
 ### 非商业使用，商用须另行取得书面授权
 
-原创代码和内容采用[非商业许可](LICENSE)：**源码可见，不是标准开源许可**。
+原创代码和内容采用[非商业许可](LICENSE.md)：**源码可见，不是标准开源许可**。
 
 - **可以做什么：** 按许可条款用于非商业学习、研究、修改和分享。
 - **哪些需要授权：** 售卖、收费部署、商业培训、企业业务使用及广告获利等商业用途。
 - **分享时须保留：** 许可与版权说明，标注修改，并提供对应源码。
 
-ETS 材料、字体、第三方依赖及个人数据**不在此许可授权范围内**。完整条款见 [LICENSE](LICENSE)；第三方权利见[第三方说明](THIRD_PARTY_NOTICES.md)，分发边界及已发布 Git 历史的处理要求见[分发说明](docs/distribution.md)。
+ETS 材料、字体、第三方依赖及个人数据**不在此许可授权范围内**。完整条款见 [LICENSE.md](LICENSE.md)；第三方权利见[第三方说明](THIRD_PARTY_NOTICES.md)，分发边界及已发布 Git 历史的处理要求见[分发说明](docs/distribution.md)。

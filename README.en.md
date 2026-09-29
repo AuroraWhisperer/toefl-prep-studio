@@ -10,7 +10,7 @@
 <p>
   <a href="docs/technical/development.md"><img src="https://img.shields.io/badge/Python-3.10%2B-28675D?style=flat-square&amp;labelColor=303B37" alt="Python 3.10+"></a>
   <img src="https://img.shields.io/badge/Windows-Desktop-28675D?style=flat-square&amp;labelColor=303B37" alt="Windows desktop browser">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Noncommercial-28675D?style=flat-square&amp;labelColor=303B37" alt="Source available · Noncommercial license"></a>
+  <a href="LICENSE.md"><img src="https://img.shields.io/badge/License-Noncommercial-28675D?style=flat-square&amp;labelColor=303B37" alt="Source available · Noncommercial license"></a>
 </p>
 
 <p><a href="README.md">简体中文</a> · <strong>English</strong></p>
@@ -212,10 +212,10 @@ For a closer look at a feature or before changing the code, start with the relev
 
 ### Noncommercial use; commercial use requires separate written permission
 
-Original code and content use the [noncommercial license](LICENSE): **source available, not a standard open-source license**.
+Original code and content use the [noncommercial license](LICENSE.md): **source available, not a standard open-source license**.
 
 - **Permitted uses:** Noncommercial learning, research, modification, and sharing under the license terms.
 - **Permission required:** Sales, paid hosting, commercial teaching, business use, advertising, and other commercial exploitation.
 - **When sharing:** Retain license and copyright notices, identify changes, and provide corresponding source.
 
-ETS materials, fonts, third-party dependencies, and personal data **are not covered by this permission**. The full [LICENSE](LICENSE) controls. See [third-party notices](THIRD_PARTY_NOTICES.md) for third-party rights and [distribution boundaries](docs/distribution.md) for distribution and previously published Git history.
+ETS materials, fonts, third-party dependencies, and personal data **are not covered by this permission**. The full [LICENSE.md](LICENSE.md) controls. See [third-party notices](THIRD_PARTY_NOTICES.md) for third-party rights and [distribution boundaries](docs/distribution.md) for distribution and previously published Git history.
