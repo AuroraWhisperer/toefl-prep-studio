@@ -105,42 +105,12 @@ Answers, time spent, feedback, and uploaded recordings are saved locally. Find a
 
 The original bank contains **2,115 scored items across 12 task types**. “Section set” below is the number of items in one fixed section practice session.
 
-<table>
-  <thead>
-    <tr>
-      <th width="120" align="center" valign="middle">Section</th>
-      <th width="560" align="center" valign="middle">Task types</th>
-      <th width="160" align="center" valign="middle">Bank items</th>
-      <th width="160" align="center" valign="middle">Section set</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle"><strong>Reading</strong></td>
-      <td align="center" valign="middle">Complete the Words<br>Read in Daily Life · Read an Academic Passage</td>
-      <td align="center" valign="middle">795</td>
-      <td align="center" valign="middle">50</td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle"><strong>Listening</strong></td>
-      <td align="center" valign="middle">Choose a Response · Conversation<br>Announcement · Academic Talk</td>
-      <td align="center" valign="middle">705</td>
-      <td align="center" valign="middle">47</td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle"><strong>Writing</strong></td>
-      <td align="center" valign="middle">Build a Sentence · Write an Email<br>Academic Discussion</td>
-      <td align="center" valign="middle">450</td>
-      <td align="center" valign="middle">12</td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle"><strong>Speaking</strong></td>
-      <td align="center" valign="middle">Listen and Repeat · Take an Interview</td>
-      <td align="center" valign="middle">165</td>
-      <td align="center" valign="middle">11</td>
-    </tr>
-  </tbody>
-</table>
+| Section | Bank items | Section set | Task types |
+| :--- | ---: | ---: | :--- |
+| **Reading** | **795** | 50 | Complete the Words<br>Read in Daily Life · Read an Academic Passage |
+| **Listening** | **705** | 47 | Choose a Response · Conversation<br>Announcement · Academic Talk |
+| **Writing** | **450** | 12 | Build a Sentence · Write an Email<br>Academic Discussion |
+| **Speaking** | **165** | 11 | Listen and Repeat · Take an Interview |
 
 ETS mock papers are stored separately and excluded from original-practice sampling. Question content and answer keys are kept apart, with scoring handled by the server. See the [question-bank guide](question_bank/README.md) for sources, review requirements, and generation procedures.
 

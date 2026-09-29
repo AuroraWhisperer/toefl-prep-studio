@@ -105,42 +105,12 @@ python -m venv .venv
 
 原创练习库有 **2,115 道计分小题，覆盖 12 种题型**。下面的「整科题数」指一次固定整科练习的题量。
 
-<table>
-  <thead>
-    <tr>
-      <th width="120" align="center" valign="middle">科目</th>
-      <th width="560" align="center" valign="middle">题型</th>
-      <th width="160" align="center" valign="middle">原创题数</th>
-      <th width="160" align="center" valign="middle">整科题数</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle"><strong>阅读</strong></td>
-      <td align="center" valign="middle">补词 · 日常生活阅读 · 学术文章</td>
-      <td align="center" valign="middle">795</td>
-      <td align="center" valign="middle">50</td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle"><strong>听力</strong></td>
-      <td align="center" valign="middle">应答 · 对话 · 公告 · 学术讲座</td>
-      <td align="center" valign="middle">705</td>
-      <td align="center" valign="middle">47</td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle"><strong>写作</strong></td>
-      <td align="center" valign="middle">造句 · 邮件 · 学术讨论</td>
-      <td align="center" valign="middle">450</td>
-      <td align="center" valign="middle">12</td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle"><strong>口语</strong></td>
-      <td align="center" valign="middle">听后复述 · 模拟访谈</td>
-      <td align="center" valign="middle">165</td>
-      <td align="center" valign="middle">11</td>
-    </tr>
-  </tbody>
-</table>
+| 科目 | 原创题数 | 整科题数 | 题型 |
+| :--- | ---: | ---: | :--- |
+| **阅读** | **795** | 50 | 补词 · 日常生活阅读 · 学术文章 |
+| **听力** | **705** | 47 | 应答 · 对话 · 公告 · 学术讲座 |
+| **写作** | **450** | 12 | 造句 · 邮件 · 学术讨论 |
+| **口语** | **165** | 11 | 听后复述 · 模拟访谈 |
 
 ETS 模考试卷独立存放，不参与原创练习抽题。题面与答案键分开保存，评分在服务端完成。来源、审阅和生成流程见[题库维护文档](question_bank/README.md)。
 
