@@ -19,6 +19,7 @@
   <a href="#quick-start">Quick start</a> ·
   <a href="#practice-and-review">Practice and review</a> ·
   <a href="#question-bank">Question bank</a> ·
+  <a href="#task-previews">Task previews</a> ·
   <a href="#usage-notes">Usage notes</a> ·
   <a href="#documentation">Documentation</a> ·
   <a href="https://github.com/AuroraWhisperer/toefl-prep-studio/releases">Releases (v1.0.0)</a>
@@ -113,6 +114,90 @@ The original bank contains **2,115 scored items across 12 task types**. “Secti
 | **Speaking** | **165** | 11 | Listen and Repeat · Take an Interview |
 
 ETS mock papers are stored separately and excluded from original-practice sampling. Question content and answer keys are kept apart, with scoring handled by the server. See the [question-bank guide](question_bank/README.md) for sources, review requirements, and generation procedures.
+
+## Task previews
+
+These screenshots show original practice questions in the app. Expand a section and click an image to enlarge it. Each crop keeps the question, essential material, and relevant answer controls; speaking previews have the practice script expanded so you can read the prompt.
+
+<details open>
+<summary><strong>Reading · 3 task types</strong></summary>
+
+<p align="center"><strong>Complete the Words</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/reading-complete-words.png"><img src="docs/assets/questions/reading-complete-words.png" width="760" alt="Complete the Words: fill the missing letters in ten words within a paragraph"></a>
+</p>
+
+<p align="center"><strong>Read in Daily Life</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/reading-daily-life.png"><img src="docs/assets/questions/reading-daily-life.png" width="760" alt="Daily-life reading: a lunch menu, combination rules, and a question with four choices"></a>
+</p>
+
+<p align="center"><strong>Read an Academic Passage</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/reading-academic-passage.png"><img src="docs/assets/questions/reading-academic-passage.png" width="760" alt="Academic reading: a passage about sound maps and a main-purpose question with four choices"></a>
+</p>
+
+</details>
+
+<details>
+<summary><strong>Listening · 4 task types</strong></summary>
+
+<p align="center"><strong>Choose a Response</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/listening-choose-response.png"><img src="docs/assets/questions/listening-choose-response.png" width="680" alt="Choose a Response: the instruction and four possible replies to a speaker"></a>
+</p>
+
+<p align="center"><strong>Conversation</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/listening-conversation.png"><img src="docs/assets/questions/listening-conversation.png" width="680" alt="Conversation: a question asking which problem the speakers are addressing"></a>
+</p>
+
+<p align="center"><strong>Announcement</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/listening-announcement.png"><img src="docs/assets/questions/listening-announcement.png" width="680" alt="Announcement: a market opening-time question with four time choices"></a>
+</p>
+
+<p align="center"><strong>Academic Talk</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/listening-academic-talk.png"><img src="docs/assets/questions/listening-academic-talk.png" width="680" alt="Academic Talk: a main-idea question about preserving paper, with four choices"></a>
+</p>
+
+</details>
+
+<details>
+<summary><strong>Writing · 3 task types</strong></summary>
+
+<p align="center"><strong>Build a Sentence</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/writing-build-sentence.png"><img src="docs/assets/questions/writing-build-sentence.png" width="680" alt="Build a Sentence: a context question, word tiles, and answer slots with fixed text"></a>
+</p>
+
+<p align="center"><strong>Write an Email</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/writing-email.png"><img src="docs/assets/questions/writing-email.png" width="640" alt="Email task: report inconsistent feedback to an app developer, with three requirements, a recipient, and a subject"></a>
+</p>
+
+<p align="center"><strong>Write for an Academic Discussion</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/writing-academic-discussion.png"><img src="docs/assets/questions/writing-academic-discussion.png" width="760" alt="Academic Discussion: a professor asks about grading projects, followed by two student viewpoints"></a>
+</p>
+
+</details>
+
+<details>
+<summary><strong>Speaking · 2 task types</strong></summary>
+
+<p align="center"><strong>Listen and Repeat</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/speaking-listen-repeat.png"><img src="docs/assets/questions/speaking-listen-repeat.png" width="680" alt="Listen and Repeat: a costume-room sentence with the practice script, playback, and recording controls"></a>
+</p>
+
+<p align="center"><strong>Take an Interview</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/speaking-interview.png"><img src="docs/assets/questions/speaking-interview.png" width="680" alt="Take an Interview: a question about study tools with the practice script, playback, and recording controls"></a>
+</p>
+
+</details>
 
 ## Usage notes
 

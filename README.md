@@ -19,6 +19,7 @@
   <a href="#快速开始">快速开始</a> ·
   <a href="#练习与复盘">练习与复盘</a> ·
   <a href="#题库覆盖">题库覆盖</a> ·
+  <a href="#题型预览">题型预览</a> ·
   <a href="#使用须知">使用须知</a> ·
   <a href="#文档导航">文档导航</a> ·
   <a href="https://github.com/AuroraWhisperer/toefl-prep-studio/releases">版本管理（v1.0.0）</a>
@@ -113,6 +114,90 @@ python -m venv .venv
 | **口语** | **165** | 11 | 听后复述 · 模拟访谈 |
 
 ETS 模考试卷独立存放，不参与原创练习抽题。题面与答案键分开保存，评分在服务端完成。来源、审阅和生成流程见[题库维护文档](question_bank/README.md)。
+
+## 题型预览
+
+以下是原创练习题的实际界面，按科目展开查看，点击图片可放大。截图只保留题目、必要材料和作答控件；口语图展开了练习脚本，便于预览题目内容。
+
+<details open>
+<summary><strong>阅读 · 3 种题型</strong></summary>
+
+<p align="center"><strong>补词 · Complete the Words</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/reading-complete-words.png"><img src="docs/assets/questions/reading-complete-words.png" width="760" alt="补词题：在英文段落中补全十处单词的缺失字母"></a>
+</p>
+
+<p align="center"><strong>日常生活阅读 · Read in Daily Life</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/reading-daily-life.png"><img src="docs/assets/questions/reading-daily-life.png" width="760" alt="日常生活阅读：午餐菜单、套餐规则及一道四选一问题"></a>
+</p>
+
+<p align="center"><strong>学术文章 · Read an Academic Passage</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/reading-academic-passage.png"><img src="docs/assets/questions/reading-academic-passage.png" width="760" alt="学术阅读：声音地图文章与文章主旨题的四个选项"></a>
+</p>
+
+</details>
+
+<details>
+<summary><strong>听力 · 4 种题型</strong></summary>
+
+<p align="center"><strong>应答 · Choose a Response</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/listening-choose-response.png"><img src="docs/assets/questions/listening-choose-response.png" width="680" alt="听力应答题：选择最合适回应的题干与四个选项"></a>
+</p>
+
+<p align="center"><strong>对话 · Conversation</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/listening-conversation.png"><img src="docs/assets/questions/listening-conversation.png" width="680" alt="听力对话题：判断谈话双方正在处理的问题"></a>
+</p>
+
+<p align="center"><strong>公告 · Announcement</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/listening-announcement.png"><img src="docs/assets/questions/listening-announcement.png" width="680" alt="听力公告题：从四个时间选项中选择市场的开放时间"></a>
+</p>
+
+<p align="center"><strong>学术讲座 · Academic Talk</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/listening-academic-talk.png"><img src="docs/assets/questions/listening-academic-talk.png" width="680" alt="听力学术讲座题：关于纸张保存的主旨题与四个选项"></a>
+</p>
+
+</details>
+
+<details>
+<summary><strong>写作 · 3 种题型</strong></summary>
+
+<p align="center"><strong>造句 · Build a Sentence</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/writing-build-sentence.png"><img src="docs/assets/questions/writing-build-sentence.png" width="680" alt="造句题：情境问题、可选词块与带固定文字的句子空位"></a>
+</p>
+
+<p align="center"><strong>邮件 · Write an Email</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/writing-email.png"><img src="docs/assets/questions/writing-email.png" width="640" alt="邮件写作题：向应用开发者报告反馈不一致的问题，包含三项写作要求、收件人与主题"></a>
+</p>
+
+<p align="center"><strong>学术讨论 · Write for an Academic Discussion</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/writing-academic-discussion.png"><img src="docs/assets/questions/writing-academic-discussion.png" width="760" alt="学术讨论写作题：教授提出项目评分问题，并给出两位学生的不同观点"></a>
+</p>
+
+</details>
+
+<details>
+<summary><strong>口语 · 2 种题型</strong></summary>
+
+<p align="center"><strong>听后复述 · Listen and Repeat</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/speaking-listen-repeat.png"><img src="docs/assets/questions/speaking-listen-repeat.png" width="680" alt="听后复述题：服装间位置的练习脚本、播放提示音与录音按钮"></a>
+</p>
+
+<p align="center"><strong>模拟访谈 · Take an Interview</strong></p>
+<p align="center">
+  <a href="docs/assets/questions/speaking-interview.png"><img src="docs/assets/questions/speaking-interview.png" width="680" alt="模拟访谈题：关于学习工具的访谈问题、播放提示音与录音按钮"></a>
+</p>
+
+</details>
 
 ## 使用须知
 
