@@ -3,10 +3,24 @@ import re
 from pathlib import Path
 
 from backend.question_store import store
+from backend.exam_service import score_one
 from scripts import build_question_bank as builder
 from scripts.question_bank_review import content_fingerprint
 
 ROOT = Path(__file__).resolve().parents[1]
+
+
+def test_recognize_accepts_both_spellings_with_the_fixed_prefix():
+    question = store.question('R125')
+    key = store.answer('R125')
+    for word in ('recognize', 'recognise'):
+        suffix = word[len(question['prefix']) :]
+        assert word.startswith(question['prefix'])
+        assert len(suffix) == question['missing_length']
+        assert score_one(question, key, suffix)[3]
+        assert score_one(question, key, word)[3]
+    for wrong in ('recognice', 'gnizes', 'recognized'):
+        assert not score_one(question, key, wrong)[3]
 
 
 def test_generated_bank_matches_authoritative_sources():

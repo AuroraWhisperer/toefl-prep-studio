@@ -28,14 +28,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别行动要求"
+          "行动细节"
         ],
         "vocabulary": [
-          "brand"
+          "reply with the brand"
         ],
-        "rationale": "识别行动要求：题目问下一步；“Please reply with the brand”是请回复衣服品牌。",
-        "answer_evidence": "Please reply with the brand",
-        "reviewed_on": "2026-09-27"
+        "rationale": "需品牌与口袋内容认领；票号无关联、排练关门、尚未捐赠。原解析具体，保留。",
+        "answer_evidence": "reply with the brand",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -64,14 +64,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "解释沟通目的"
+          "原因推断"
         ],
         "vocabulary": [
-          "pockets"
+          "several coats of that color"
         ],
-        "rationale": "解释沟通目的：题目问索取细节的原因；“several coats of that color”说明同色外套有好几件。",
+        "rationale": "多件同色须再区分；未清洗估价或嫌票照模糊。保留。",
         "answer_evidence": "several coats of that color",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -100,14 +100,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "区分费用项目"
+          "费用条件"
         ],
         "vocabulary": [
-          "increase"
+          "pay any increase in ticket price"
         ],
-        "rationale": "区分费用项目：题目问换成更贵座位要付多少；“pay any increase in ticket price”指补票价差额。",
+        "rationale": "免费的是手续费，涨价补差额。保留。",
         "answer_evidence": "pay any increase in ticket price",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -136,14 +136,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "判断政策适用范围"
+          "适用范围"
         ],
         "vocabulary": [
-          "availability"
+          "a different play"
         ],
-        "rationale": "判断政策适用范围：题目问哪项不适用换票政策；“a different play”是另一部戏，不是同剧另一场。",
+        "rationale": "异剧退订重买；网上渠道和同剧低价票不排除换票政策。保留。",
         "answer_evidence": "a different play",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -172,14 +172,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解操作与目的"
+          "操作目的"
         ],
         "vocabulary": [
-          "deducts"
+          "deducts the container's weight"
         ],
-        "rationale": "理解操作与目的：题目问保留标签的作用；“deducts the container's weight”是扣掉容器自身重量。",
+        "rationale": "称皮重用于只收食物价，不证明付款、来源或勺子归属。保留。",
         "answer_evidence": "deducts the container's weight",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -208,14 +208,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别规则例外"
+          "例外细节"
         ],
         "vocabulary": [
-          "recorded"
+          "already have their weight recorded"
         ],
-        "rationale": "识别规则例外：题目问谁可省去单独打印；“already have their weight recorded”表示重量已有记录。",
-        "answer_evidence": "Our paper bags already have their weight recorded",
-        "reviewed_on": "2026-09-27"
+        "rationale": "纸袋已有皮重是唯一例外，小瓶、少种商品、坏标签不是。保留。",
+        "answer_evidence": "already have their weight recorded",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -244,14 +244,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "按使用条件筛选路线"
+          "路线细节"
         ],
         "vocabulary": [
-          "strollers"
+          "The lower loop"
         ],
-        "rationale": "四个选项对应不同路线；需结合路面条件和开放状态，确认唯一推荐的下方环线。",
-        "answer_evidence": "the only recommended route for strollers",
-        "reviewed_on": "2026-09-27"
+        "rationale": "下环线推荐婴儿车；其他路有台阶陡坡或关闭。保留。",
+        "answer_evidence": "the lower loop",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -280,14 +280,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "区分预期与生效条件"
+          "状态与条件整合"
         ],
         "vocabulary": [
-          "inspection"
+          "green OPEN sign at both ends"
         ],
-        "rationale": "复核新增河边路线后，栈道重新开放仍以检查后的两端绿色标志为准，不能按预计完工日判断。",
-        "answer_evidence": "only after inspection",
-        "reviewed_on": "2026-09-27"
+        "rationale": "完工预计日和完工本身不等于验收开放，须两端绿牌。保留。",
+        "answer_evidence": "green OPEN sign at both ends",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -311,19 +311,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问没有取件码的可能原因；“only when”表必要条件：收件名须匹配住户名单。\n解析：Nora承认用了昵称，未满足姓名匹配条件。追踪记录已显示送达，不能推断卖家未交货或记录未更新；他人的码只能开他人的格口，不能代替身份匹配。\n下次：看到系统未发通知→查触发条件→把已确认送达和未完成身份匹配分开。"
+        "explanation": "读懂：题目问为什么没有取件码；“only when”是“只有……才”，收件姓名必须和住户名单一致。\n解析：Nora 承认用了昵称，所以没有满足发码条件。追踪页已显示送达，不是卖家还没发货；别人的码只能开别人的格子。\n下次：没收到取件通知时，先找通知发出的条件，再检查包裹是否送达、姓名是否写对；别把没有取件码当成没有包裹。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "从条件推断原因"
+          "原因推断"
         ],
         "vocabulary": [
-          "recipient"
+          "recipient name matches our resident list"
         ],
-        "rationale": "从条件推断原因：题目问没有取件码的可能原因；“only when”表必要条件：收件名须匹配住户名单。",
-        "answer_evidence": "only when the recipient name matches our resident list",
-        "reviewed_on": "2026-09-27"
+        "rationale": "昵称未匹配住户，非未送达或需借别人码。将触发条件术语改成可直接照做的核对。",
+        "answer_evidence": "recipient name matches our resident list",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -347,19 +347,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：题目问现在如何取件；“release it manually”表示核实后由人工办理放行。\n解析：带学生证及追踪号码到前台即可核验。补寄无必要，原包裹已送达；邻居的码不适用；改变地址是另一个操作，前台并未要求等待卖家处理。\n下次：看到自动流程失败→找人工替代流程→核对所需证件和记录是否齐全。"
+        "explanation": "读懂：题目问现在怎样取包裹；“release it manually”是前台核实后人工把包裹交给你。\n解析：带学生证和追踪号码到前台即可。包裹已送到，无须让卖家补寄或改地址；邻居的码不能开她的格子。\n下次：自动取件失败时，找文中有没有人工办理办法，再核对要带的证件和号码。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别问题解决步骤"
+          "补救步骤"
         ],
         "vocabulary": [
-          "manually"
+          "Bring your student card and the tracking number"
         ],
-        "rationale": "识别问题解决步骤：题目问现在如何取件；“release it manually”表示核实后由人工办理放行。",
-        "answer_evidence": "release it manually",
-        "reviewed_on": "2026-09-27"
+        "rationale": "学生证与追踪号人工取件；非补寄、改地址或借邻居码。改放行为拿包裹。",
+        "answer_evidence": "Bring your student card and the tracking number",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -388,14 +388,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "解释例子作用"
+          "细节作用"
         ],
         "vocabulary": [
-          "crop"
+          "check the edges carefully"
         ],
-        "rationale": "解释例子作用：题目问为什么特别提到右边的人；“check the edges carefully”是仔细查看裁切边缘。",
+        "rationale": "裁方形会切掉右边人，不是索许可、设色彩或安排取件。保留。",
         "answer_evidence": "check the edges carefully",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -424,14 +424,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解时间条件"
+          "时间后果"
         ],
         "vocabulary": [
-          "approval"
+          "later approval moves collection to the following day"
         ],
-        "rationale": "理解时间条件：题目问下午两点后确认的结果；“the following day”在这里接明天，表示再晚一天。",
+        "rationale": "晚确认比明天再晚一天，不改价格也不重传。保留。",
         "answer_evidence": "later approval moves collection to the following day",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -460,14 +460,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "比较服务差异"
+          "服务对比"
         ],
         "vocabulary": [
-          "observers"
+          "do not take bookings for this table"
         ],
-        "rationale": "比较服务差异：题目比较两种桌位；“we do not take bookings for this table”指教学桌不接受预订。",
-        "answer_evidence": "we do not take bookings for this table",
-        "reviewed_on": "2026-09-27"
+        "rationale": "教学桌有主持不预约，普通桌相反。其他项错配收费与服务。保留。",
+        "answer_evidence": "do not take bookings for this table",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -496,14 +496,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别包含关系"
+          "范围细节"
         ],
         "vocabulary": [
-          "purchase"
+          "including observers"
         ],
-        "rationale": "识别包含关系：题目问旁观者的义务；“including observers”说明买饮料要求也包括旁观者。",
+        "rationale": "观众也买饮料；不需另付教课费、订座或留到结束。保留。",
         "answer_evidence": "including observers",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -532,14 +532,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别委婉请求"
+          "建议目的"
         ],
         "vocabulary": [
-          "savory"
+          "bringing something savory"
         ],
-        "rationale": "甜点已足够，尚未选菜者宜补咸味菜；热菜须保温送达即食，现场没有重加热设施。",
-        "answer_evidence": "We already have four desserts",
-        "reviewed_on": "2026-09-27"
+        "rationale": "甜点已足建议咸食；餐具已备、电保温器禁止。保留。",
+        "answer_evidence": "bringing something savory",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -566,16 +566,16 @@
         "explanation": "读懂：题目问禁带电保温器的原因；“reserved for the sound system”表示插座留给音响。\n解析：限制来自插座用途已分配，并非大厅完全没电。烤箱不可用，不能靠主办方统一加热；冰箱是可用设施，也未要求全程清空。\n下次：遇到禁用设备题→找紧跟禁令的具体资源限制→别扩大成整栋设施都不可用。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "定位因果关系"
+          "明示原因"
         ],
         "vocabulary": [
-          "sockets"
+          "reserved for the sound system"
         ],
-        "rationale": "禁带电保温器的直接原因是插座已留给音响，不是场地完全没电；热菜须自行保温送达。",
+        "rationale": "插座用于音响直接明示，无需推断；降为简单，解析保留。",
         "answer_evidence": "reserved for the sound system",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -604,14 +604,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "提取申请条件"
+          "申请材料"
         ],
         "vocabulary": [
-          "receipt"
+          "Photograph the error code"
         ],
-        "rationale": "提取申请条件：题目问退款所需材料；“Photograph the error code”是拍下错误代码，还须附付款凭据。",
+        "rationale": "照片与收据是明确两证；不用维修报告或邻居签名，也不需再付钱。保留。",
         "answer_evidence": "Photograph the error code",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -638,16 +638,16 @@
         "explanation": "读懂：题目问换机器后的收费；“charged separately”指另行收费。\n解析：故障洗涤会退回原卡，新洗涤仍需付费。原支付不自动转移；前台不退现金；衣服可移到可用机器，没有先修好7号机这一要求。\n下次：看到补救服务→把旧交易退款和新交易付款分开→检查能否立即开始新流程。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "区分独立交易"
+          "明示费用"
         ],
         "vocabulary": [
-          "separately"
+          "that wash is charged separately"
         ],
-        "rationale": "区分独立交易：题目问换机器后的收费；“charged separately”指另行收费。",
+        "rationale": "新洗单独收费直接明示，非旧款转移；降为简单。",
         "answer_evidence": "that wash is charged separately",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -671,19 +671,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问不回复时的默认安排；“we will include kale”表示会放入羽衣甘蓝。\n解析：默认是等价替换蔬菜，不是暂停整箱。账户抵用额须选择不放替代品，且不抵本次配送费；原文没有承诺菠菜之后单独补送。\n下次：看到不回复怎么办→锁定默认分支→不要把可选处理当成系统自动行为。"
+        "explanation": "读懂：题目问 Sam 不回复会怎样；“we will include kale”是“我们会放入羽衣甘蓝”。\n解析：店家会用羽衣甘蓝替代菠菜。暂停整箱和不放替代菜都要主动选择；也没承诺另送菠菜，抵用额更不能抵本次配送费。\n下次：看到“如果没收到回复”，记下店家接着会做什么；把需要你主动提出的其他办法分开。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别默认处理"
+          "未回复时的安排"
         ],
         "vocabulary": [
-          "replace"
+          "we will include kale"
         ],
-        "rationale": "识别默认处理：题目问不回复时的默认安排；“we will include kale”表示会放入羽衣甘蓝。",
+        "rationale": "不回复默认换羽衣甘蓝；其他选项须主动选择或无依据。改默认分支术语。",
         "answer_evidence": "we will include kale",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -712,14 +712,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "区分并行截止时间"
+          "操作与期限配对"
         ],
         "vocabulary": [
-          "deadline"
+          "by Wednesday evening"
         ],
-        "rationale": "区分并行截止时间：题目问暂停整箱的期限；“a day before the substitution deadline”指比替换选择截止早一天。",
-        "answer_evidence": "a day before the substitution deadline",
-        "reviewed_on": "2026-09-27"
+        "rationale": "周三晚停整箱，周四五点只改替代菜；须区分操作和时限。保留。",
+        "answer_evidence": "by Wednesday evening",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -748,14 +748,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "读取时段与区域"
+          "读取时刻表"
         ],
         "vocabulary": [
-          "lanes"
+          "lanes 3–4, public swimming"
         ],
-        "rationale": "读取时段与区域：题目问12:15的开放范围；“lessons”指教学，不能算公共泳道。",
-        "answer_evidence": "12:00–12:30: Lanes 1–2, lessons; lanes 3–4, public swimming.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "12:15在12点至12:30时段，1、2上课，浅水区关闭；材料与解释清楚。",
+        "answer_evidence": "lanes 3–4, public swimming",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -782,16 +782,16 @@
         "explanation": "读懂：题目问为何重新看速度标牌；“may be moved”说明标牌可能移位。\n解析：课程结束后各泳道速度分配可能改变，不能沿用原来的判断。标牌不显示人数；12:30后是公共游泳而非全池教学；浅水区仍不可用。\n下次：看到重新确认的要求→找可能发生变化的信息→不要把时间变化误解成用途完全反转。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "推断提醒原因"
+          "明示原因"
         ],
         "vocabulary": [
-          "pace"
+          "Lane signs may be moved"
         ],
-        "rationale": "推断提醒原因：题目问为何重新看速度标牌；“may be moved”说明标牌可能移位。",
+        "rationale": "标牌可能移动直接说明需重看；不是人数牌或改成教学。改简单。",
         "answer_evidence": "Lane signs may be moved",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -820,14 +820,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "限定信息定位"
+          "编号与位置"
         ],
         "vocabulary": [
-          "cupboard"
+          "units ending in 02"
         ],
-        "rationale": "限定信息定位：题目问哪些住户要安排入室；“units ending in 02”指房号末尾为02，不是二楼。",
+        "rationale": "02是房号末尾，不是楼层；这类水表在屋内。保留。",
         "answer_evidence": "units ending in 02",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -856,14 +856,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "整合操作要求"
+          "组合操作条件"
         ],
         "vocabulary": [
-          "permission"
+          "leave written permission"
         ],
-        "rationale": "整合操作要求：题目问合规准备；“leave written permission”是留下书面入室许可。",
+        "rationale": "清柜前空间加不在家时书面授权同时满足要求；口头、拆板、停水、挪表均不合。保留。",
         "answer_evidence": "leave written permission",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -892,14 +892,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "整合工具与数量"
+          "工具与用量"
         ],
         "vocabulary": [
-          "scoop"
+          "Half a scoop in the morning"
         ],
-        "rationale": "整合工具与数量：题目问喂食用哪把勺及用量；“for filling the storage jar”说明大勺只用于补充储粮罐。",
-        "answer_evidence": "The larger scoop in the cupboard is for filling the storage jar",
-        "reviewed_on": "2026-09-27"
+        "rationale": "碗边勺半勺每次；柜内勺补储物罐。工具用途与数量要同时符合。保留。",
+        "answer_evidence": "Half a scoop in the morning",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -907,7 +907,7 @@
         "id": "R591",
         "section": "reading",
         "task_type": "read_daily_life",
-        "prompt": "What is implied about Monday morning?",
+        "prompt": "What is Lena's arrangement with Ivo for Monday morning?",
         "response_type": "choice",
         "group_id": "read_daily_life_43",
         "passage_title": "Instructions for a pet sitter",
@@ -928,14 +928,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "判断承诺强度"
+          "确认安排状态"
         ],
         "vocabulary": [
-          "separately"
+          "I'll confirm that separately"
         ],
-        "rationale": "判断承诺强度：题目问周一早上的安排状态；“I'll confirm that separately”表示会另行确认。",
+        "rationale": "周一可能需要但另行确认，已明示而非隐含；将题干改为安排现状，保留答案和解释。",
         "answer_evidence": "I'll confirm that separately",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -964,14 +964,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "解决时间冲突"
+          "时间条件应用"
         ],
         "vocabulary": [
-          "sliced"
+          "collect it the afternoon before"
         ],
-        "rationale": "解决时间冲突：题目问早八点需要切片面包怎么办；“collect it the afternoon before”指前一天下午取。",
+        "rationale": "8点需切片只能前日下午取；多早下单和预付不改变10点切片限制。保留。",
         "answer_evidence": "collect it the afternoon before",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -995,19 +995,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问预付触发条件；“six or more loaves”包括正好六条。\n解析：六条整面包达数量门槛，须预付。五条虽切片仍不足六条；早九点前取货和提前多日订购都不是付款门槛，不能替代数量条件。\n下次：看到数量门槛→检查是否包含临界值→忽略与付款无关的取货或加工条件。"
+        "explanation": "读懂：题目问哪笔订单要提前付款；“six or more loaves”是六条或更多，也包括正好六条。\n解析：六条整面包达到预付数量。五条切片仍不到六条；早取货、提前多天下单都不是预付的理由。\n下次：看到“某数量或更多”，把刚好达到数量的情况算进去，再检查其他条件是否真的影响付款。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解数量边界"
+          "数量门槛"
         ],
         "vocabulary": [
-          "prepayment"
+          "six or more loaves"
         ],
-        "rationale": "理解数量边界：题目问预付触发条件；“six or more loaves”包括正好六条。",
+        "rationale": "六个及以上包括六个，付款门槛与切片和取货时间无关。把触发条件换普通问法。",
         "answer_evidence": "six or more loaves",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1034,16 +1034,16 @@
         "explanation": "读懂：题目问为什么记录墨迹；“condition on arrival”指收到衣服时的状态。\n解析：墨迹属于送洗前检查记录，不是去渍保证。补纽扣已受理且含在总价内，不是遭拒；既然到店时已有墨迹，也不能说是清洗造成。\n下次：看到收据上的问题备注→确认记录发生在服务前还是后→区分既有状态与服务承诺。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "区分记录与承诺"
+          "记录目的"
         ],
         "vocabulary": [
-          "inspection"
+          "condition on arrival"
         ],
-        "rationale": "区分记录与承诺：题目问为什么记录墨迹；“condition on arrival”指收到衣服时的状态。",
+        "rationale": "检查备注记录到店状态，原文明示非承诺去渍或新增损坏；下调简单。",
         "answer_evidence": "condition on arrival",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1072,14 +1072,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别替代凭证"
+          "代领条件"
         ],
         "vocabulary": [
-          "receipt"
+          "email us their name in advance"
         ],
-        "rationale": "识别替代凭证：题目问无收据时代领方式；“in advance”表示须提前，不是到了才说明。",
+        "rationale": "主人提前邮件朋友姓名是收据替代授权；照片、描述或新服务都不符合。保留。",
         "answer_evidence": "email us their name in advance",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1103,19 +1103,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问无信号时如何使用地图；“rather than saving a map automatically”说明打开网页不等于已下载。\n解析：要点开链接再选离线保存。只留消息没有地图文件；到采石场才下可能已无信号；虚线路线是返程选项，不是下载开关。\n下次：看到网页和离线文件的区别→完成显式保存→在失去网络前确认文件可用。"
+        "explanation": "读懂：题目问没有信号时怎样用地图；“Save for Offline Use”是保存下来，断网后也能打开。\n解析：先打开链接，再选离线保存。只留着消息还没保存地图；到采石场才下载可能已没信号；虚线只是短路线，不负责下载。\n下次：出发前先保存地图，再试着断网打开；能打开，才说明不依赖现场信号。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解数字操作步骤"
+          "离线使用步骤"
         ],
         "vocabulary": [
-          "offline"
+          "Save for Offline Use"
         ],
-        "rationale": "理解数字操作步骤：题目问无信号时如何使用地图；“rather than saving a map automatically”说明打开网页不等于已下载。",
-        "answer_evidence": "rather than saving a map automatically",
-        "reviewed_on": "2026-09-27"
+        "rationale": "开网页后需离线保存，虚线不是下载功能；把显式保存改直白操作。",
+        "answer_evidence": "Save for Offline Use",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1144,14 +1144,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "推断行程安排"
+          "路线信息整合"
         ],
         "vocabulary": [
-          "dotted"
+          "Both finish at the railway station"
         ],
-        "rationale": "推断行程安排：题目问终点安排；“Both finish at the railway station”说明两条路线都结束于火车站。",
+        "rationale": "两条终点同为车站非起点咖啡馆，另需票钱且纸图归领队。保留。",
         "answer_evidence": "Both finish at the railway station",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1180,14 +1180,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别更正范围"
+          "更正对象"
         ],
         "vocabulary": [
-          "corrected"
+          "The correct day is the first Tuesday"
         ],
-        "rationale": "识别更正范围：题目問更正哪条信息；“The correct day is the first Tuesday”把原来首个周一改为首个周二。",
+        "rationale": "更正对象只扫街日期；垃圾未变、印刷日期与板位无关。保留。",
         "answer_evidence": "The correct day is the first Tuesday",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1216,14 +1216,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "推断版本差异"
+          "版本差异"
         ],
         "vocabulary": [
-          "downloaded"
+          "will not update automatically"
         ],
-        "rationale": "推断版本差异：题目问为什么要换已下载版本；“will not update automatically”表示它们不会同步更新。",
+        "rationale": "网页已更正而下载版不自动更新，所以换副本；其他项误读未变垃圾和未来更正栏。保留。",
         "answer_evidence": "will not update automatically",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1252,14 +1252,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "读取流程分类"
+          "加工阶段"
         ],
         "vocabulary": [
-          "firing"
+          "waiting for their first firing"
         ],
-        "rationale": "读取流程分类：题目问未烧过但已干透作品放哪；“waiting for their first firing”就是等待首次烧制。",
+        "rationale": "已干未烧进绿架；蓝架已烧，黄架上釉待终烧，编号箱成品。保留。",
         "answer_evidence": "waiting for their first firing",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1288,14 +1288,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "解释警示目的"
+          "提醒目的"
         ],
         "vocabulary": [
-          "glazed"
+          "awaiting their final firing"
         ],
-        "rationale": "解释警示目的：题目问提醒的用意；“awaiting their final firing”是仍在等最后一次烧制。",
+        "rationale": "亮釉仍待烧，外观不等工序完成；其余项错配架子或签名。保留。",
         "answer_evidence": "awaiting their final firing",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1303,7 +1303,7 @@
         "id": "R602",
         "section": "reading",
         "task_type": "read_daily_life",
-        "prompt": "What will Milo most likely do next?",
+        "prompt": "What does Milo decide to do before climbing?",
         "response_type": "choice",
         "group_id": "read_daily_life_49",
         "passage_title": "Finding climbing shoes that fit",
@@ -1324,14 +1324,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "追踪决定变化"
+          "对话行动细节"
         ],
         "vocabulary": [
-          "fitting"
+          "I'll check the smaller pair here"
         ],
-        "rationale": "追踪决定变化：题目问Milo的下一步；“check the smaller pair here”指先在试鞋区测试小一号。",
+        "rationale": "最后一句已明确决定，非未明示未来推断；题干改问已决定步骤，保留解释。",
         "answer_evidence": "I'll check the smaller pair here",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1355,19 +1355,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：题目问免费换鞋的条件；“unused pair”在此指尚未上墙使用的鞋。\n解析：关键是未上墙，而不是尺码是否为平时尺码。已经穿两双攀爬就不满足条件；换型号本身不构成豁免，鞋是否使用过仍重要。\n下次：看到换用规则→识别使权利失效的使用节点→别用型号或通常尺码替代条件。"
+        "explanation": "读懂：题目问什么情况下能免费换鞋；“an unused pair”指还没穿上攀岩墙用过的鞋。\n解析：能否免费换，取决于有没有上墙。换型号、是不是平时尺码都不能代替这个条件；两双都穿去攀爬后再比较已经太晚。\n下次：遇到试用和退换规定，先找哪一步之后不能再换；本题要在上墙前试好并决定。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "识别服务限制"
+          "换用条件"
         ],
         "vocabulary": [
-          "unused"
+          "an unused pair"
         ],
-        "rationale": "识别服务限制：题目问免费换鞋的条件；“unused pair”在此指尚未上墙使用的鞋。",
-        "answer_evidence": "switch an unused pair",
-        "reviewed_on": "2026-09-27"
+        "rationale": "免费换条件明确为未上墙，不是型号或常穿尺码；降简单并重写抽象的权利失效节点。",
+        "answer_evidence": "an unused pair",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1396,14 +1396,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "理解金额口径"
+          "金额范围"
         ],
         "vocabulary": [
-          "eligible"
+          "before delivery charges"
         ],
-        "rationale": "理解金额口径：题目问满额门槛算哪些钱；“before delivery charges”表示先不算配送费。",
+        "rationale": "门槛排除运费礼品卡、包含促销品；先用会员折扣不合不可叠加规则。保留。",
         "answer_evidence": "before delivery charges",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1432,14 +1432,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "应用优惠条件"
+          "门槛应用"
         ],
         "vocabulary": [
-          "coupon"
+          "falls below $30"
         ],
-        "rationale": "应用优惠条件：题目问修改后只剩28元的结果；“falls below $30”指跌破30元门槛。",
+        "rationale": "改后28低于30，券移除；运费不计、折扣不叠加，未提供小额券。保留。",
         "answer_evidence": "falls below $30",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1463,19 +1463,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问如何延期又保留顺序；“choose Deliver Later”是明确的延期功能。\n解析：选择延期并设日期可排在新申请前。无操作会取消预约；先借再重新预约不获优先权；打开通知既不开始借阅，也不办理延期。\n下次：看到保留资格的延期→找到主动确认入口→不要把不操作等同于自动顺延。"
+        "explanation": "读懂：题目问怎样晚些借书又保留排队顺序；“Deliver Later”是“稍后提供”，用于主动延期。\n解析：选这个功能并设日期，仍排在新申请者前。什么都不做会失去预约；打开邮件不是延期；先借再重新预约也没有额外优先权。\n下次：想延期时，找明确的延期按钮并完成日期选择；不要以为不回复就会自动替你保留。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "区分延期与失效"
+          "延期操作"
         ],
         "vocabulary": [
-          "expire"
+          "Deliver Later"
         ],
-        "rationale": "区分延期与失效：题目问如何延期又保留顺序；“choose Deliver Later”是明确的延期功能。",
-        "answer_evidence": "choose Deliver Later",
-        "reviewed_on": "2026-09-27"
+        "rationale": "按钮和设日期是明确延期操作；无动作取消，重借无优先权。降简单，译按钮并去入口术语。",
+        "answer_evidence": "Deliver Later",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1504,14 +1504,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "理解否定范围"
+          "否定范围"
         ],
         "vocabulary": [
-          "availability"
+          "availability on that exact date is not guaranteed"
         ],
-        "rationale": "理解否定范围：题目问哪项不保证；“on that exact date”限定到所选的那个具体日期。",
+        "rationale": "明确不保具体日期有书，但保留预约及相对优先；否定范围准确。保留。",
         "answer_evidence": "availability on that exact date is not guaranteed",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1540,14 +1540,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别更正对既有操作的影响"
+          "更正后已有提交"
         ],
         "vocabulary": [
-          "valid"
+          "remain valid"
         ],
-        "rationale": "识别更正对既有操作的影响：题目问已提交的人怎么办；“remain valid”表示原投票仍有效。",
-        "answer_evidence": "Votes already submitted remain valid",
-        "reviewed_on": "2026-09-27"
+        "rationale": "原提交有效，无需重投删除；客服不能看所选人。保留。",
+        "answer_evidence": "remain valid",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1576,14 +1576,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "区分过程与完成状态"
+          "提交完成标志"
         ],
         "vocabulary": [
-          "submission"
+          "confirmation screen"
         ],
-        "rationale": "区分过程与完成状态：题目问完成投票的标志；“wait for the confirmation screen”指提交后应见到确认画面。",
-        "answer_evidence": "wait for the confirmation screen",
-        "reviewed_on": "2026-09-27"
+        "rationale": "确认画面区分已提交和草稿；正确院系、已打开、期限内均不足。保留。",
+        "answer_evidence": "confirmation screen",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1612,14 +1612,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "读取区间有效时间"
+          "预约区间"
         ],
         "vocabulary": [
-          "reserved"
+          "free before Brookford"
         ],
-        "rationale": "读取区间有效时间：题目问临时使用时段；“free before Brookford”指到Brookford之前座位可用。",
+        "rationale": "座位预约起点为Brookford，之前可坐而非到Northport；行李和始发站不授权。保留。",
         "answer_evidence": "free before Brookford",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1648,14 +1648,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "限制由缺失信息作出的推断"
+          "显示状态推断"
         ],
         "vocabulary": [
-          "conductor"
+          "the conductor will use the printed reservation list"
         ],
-        "rationale": "限制由缺失信息作出的推断：题目问标签不亮能说明什么；“during a display fault”提示显示设备可能出故障。",
-        "answer_evidence": "during a display fault",
-        "reviewed_on": "2026-09-27"
+        "rationale": "显示坏时纸单仍有效，所以需问列车员；不能由空白断言无人订或取消。保留。",
+        "answer_evidence": "the conductor will use the printed reservation list",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1684,14 +1684,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解顺序要求"
+          "步骤先后"
         ],
         "vocabulary": [
-          "unloading"
+          "then move your vehicle"
         ],
-        "rationale": "理解顺序要求：题目问卸货后的下一步；“then move your vehicle”明确先移车。",
+        "rationale": "卸货后先停车场移车再布展，不能留院停车。保留。",
         "answer_evidence": "then move your vehicle",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1720,14 +1720,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "结合时刻表与补救安排"
+          "到达时间应用"
         ],
         "vocabulary": [
-          "handcart"
+          "use a handcart from the gate"
         ],
-        "rationale": "结合时刻表与补救安排：题目问8:10的运输方式；“Setup on foot only”说明此时已禁止车入。",
-        "answer_evidence": "Setup on foot only",
-        "reviewed_on": "2026-09-27"
+        "rationale": "8:10已过车入时段，用共享推车且不能整天占用；无需等闭市。保留。",
+        "answer_evidence": "use a handcart from the gate",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1756,14 +1756,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "定位解释性细节"
+          "原因细节"
         ],
         "vocabulary": [
-          "informal"
+          "after the informal opening chat"
         ],
-        "rationale": "定位解释性细节：题目问视频为什么较短；“after the informal opening chat”指闲聊结束后才开始录入。",
+        "rationale": "缺课前闲聊，不缺正课，字幕未加入不是时长差原因。保留。",
         "answer_evidence": "after the informal opening chat",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1792,14 +1792,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "整合多项完成条件"
+          "补课要求整合"
         ],
         "vocabulary": [
-          "reflection"
+          "watch the lesson and submit the short reflection by Sunday"
         ],
-        "rationale": "整合多项完成条件：题目问缺席者如何完成要求；“and”连接看课与交简短反思两个必要动作。",
-        "answer_evidence": "watch the lesson and submit the short reflection",
-        "reviewed_on": "2026-09-27"
+        "rationale": "观看与反思两项加期限，打开页面或提问不替代。保留。",
+        "answer_evidence": "watch the lesson and submit the short reflection by Sunday",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1823,19 +1823,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问取消公开电话的效果；“does not remove it from the private contact details”表示私下联络档案不跟着删除。\n解析：通讯录展示与办公室联系档案是两套用途。不能说办公室全失联；姓名和角色自动展示，不随电话号码消失；成员可见目录要夜间刷新，不是保存即全员可见。\n下次：看到隐私展示设置→区分谁可见与后台是否保存→再核对同步时间。"
+        "explanation": "读懂：题目问在会员通讯录里隐藏电话后会怎样；“private contact details”是办公室另行保存的联系资料。\n解析：其他会员看不到，不等于办公室也删了号码。姓名仍会显示；通讯录要夜间更新，不是保存后大家立刻看到变化。\n下次：遇到隐藏联系方式，分别确认“谁还能看到”和“谁仍保存这个号码”，再检查何时更新。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "区分显示与存储"
+          "展示与记录区别"
         ],
         "vocabulary": [
-          "directory"
+          "private contact details held by the membership office"
         ],
-        "rationale": "区分显示与存储：题目问取消公开电话的效果；“does not remove it from the private contact details”表示私下联络档案不跟着删除。",
-        "answer_evidence": "does not remove it from the private contact details",
-        "reviewed_on": "2026-09-27"
+        "rationale": "通讯录隐藏不删除办公室记录，页面次夜刷新；原说公开易误解为所有人可见，改明确会员可见。",
+        "answer_evidence": "private contact details held by the membership office",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1859,19 +1859,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：题目问改办公室联络电话用什么入口；“separate Contact Details form”指独立联系资料表。\n解析：需要改私下联系记录，应提交该表。隐藏公开电话只改展示；删照片与电话无关；预览只能查看效果，不会修改后台联系档案。\n下次：看到同一信息有多个入口→按使用方找到所属记录→别用查看或隐藏替代修改。"
+        "explanation": "读懂：题目问怎样修改办公室发紧急通知时用的电话；“Contact Details form”是联系资料表。\n解析：应提交这张单独的表。隐藏通讯录电话只影响其他会员能否看见；删照片不改电话；预览只让你看看显示效果。\n下次：先确定要改的是给谁用的号码，再找对应表格；隐藏号码和修改号码不是同一件事。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "匹配操作与数据用途"
+          "办理渠道"
         ],
         "vocabulary": [
-          "separate"
+          "Contact Details form"
         ],
-        "rationale": "匹配操作与数据用途：题目问改办公室联络电话用什么入口；“separate Contact Details form”指独立联系资料表。",
-        "answer_evidence": "use the separate Contact Details form",
-        "reviewed_on": "2026-09-27"
+        "rationale": "改紧急联系号码须单独联系资料表；预览、隐藏、删照片不改办公室记录。去后台/所属记录术语。",
+        "answer_evidence": "Contact Details form",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1900,14 +1900,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "区分缺失信息与免除要求"
+          "规则例外"
         ],
         "vocabulary": [
-          "unlabeled"
+          "An unknown name is acceptable"
         ],
-        "rationale": "区分缺失信息与免除要求：题目问不知植物名怎么办；“An unknown name is acceptable”允许名称未知，但不是允许无标签。",
-        "answer_evidence": "An unknown name is acceptable; an unlabeled plant is not.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "可以不知名称但仍要标签及光照；不是未知者等3点，也不能空盆桌摆植株。保留。",
+        "answer_evidence": "An unknown name is acceptable",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1936,14 +1936,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别人群限制"
+          "适用人群"
         ],
         "vocabulary": [
-          "cuttings"
+          "only collecting"
         ],
-        "rationale": "识别人群限制：题目问谁要等到三点；“only collecting”指只领取、没带植物交换的人。",
-        "answer_evidence": "if you are only collecting",
-        "reviewed_on": "2026-09-27"
+        "rationale": "未带植物只领取者须等3点，植物形式和未知名称不决定等待。保留。",
+        "answer_evidence": "only collecting",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1972,14 +1972,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "理解建议原因"
+          "试穿原因"
         ],
         "vocabulary": [
-          "hems"
+          "may look different with formal shoes"
         ],
-        "rationale": "理解建议原因：题目问为何带实际要穿的鞋；“may look different with formal shoes”说明换鞋后裤长效果可能不同。",
+        "rationale": "实际鞋影响裤长呈现，不是入店着装或鞋寄存改造。保留。",
         "answer_evidence": "may look different with formal shoes",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2006,16 +2006,16 @@
         "explanation": "读懂：题目问检查后会怎样；“stay here afterward for stitching”表示裤子还要留店缝制。\n解析：十分钟是检查时间，不是全部完工时间。腰围修改不含在原报价内；裤子不能检查完马上拿走；十二点到一点师傅不在，不能安排该时段复查。\n下次：看到短时服务描述→确认它覆盖检查还是完整加工→按后续步骤判断能否当场带走。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "区分检查与完工"
+          "后续步骤"
         ],
         "vocabulary": [
-          "stitching"
+          "stay here afterward for stitching"
         ],
-        "rationale": "区分检查与完工：题目问检查后会怎样；“stay here afterward for stitching”表示裤子还要留店缝制。",
-        "answer_evidence": "will stay here afterward for stitching",
-        "reviewed_on": "2026-09-27"
+        "rationale": "十分钟只检查，之后留店缝；非即取、免费改腰或午休再检。明示信息降简单。",
+        "answer_evidence": "stay here afterward for stitching",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2042,16 +2042,16 @@
         "explanation": "读懂：题目问内置电池设备放哪；“must be handed to the attendant”要求交给现场人员。\n解析：这是整台内置电池设备的专门接收路径。散装电池箱不接整机；蓝箱只收纸类，包纸不会改变物品类别；无人时不能放门边，要带回后再来。\n下次：看到带组件的物品→按整件类别而非其中一部分分类→核对是否需要有人接收。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "应用分类与接收条件"
+          "回收方式"
         ],
         "vocabulary": [
-          "attendant"
+          "handed to the attendant"
         ],
-        "rationale": "应用分类与接收条件：题目问内置电池设备放哪；“must be handed to the attendant”要求交给现场人员。",
-        "answer_evidence": "must be handed to the attendant",
-        "reviewed_on": "2026-09-27"
+        "rationale": "内置电池整机须工作人员接收，纸包不改类别，不能乱放；明示接收规则，降简单。",
+        "answer_evidence": "handed to the attendant",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2080,14 +2080,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解预处理要求"
+          "准备步骤"
         ],
         "vocabulary": [
-          "wrapping"
+          "Remove plastic wrapping first"
         ],
-        "rationale": "理解预处理要求：题目问塑料包装为何被特别说明；“Remove plastic wrapping first”指投纸板前先去掉塑料。",
+        "rationale": "先去塑料再投纸板，未收混投包装也未关联电池和大件。保留。",
         "answer_evidence": "Remove plastic wrapping first",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2116,14 +2116,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解固定时间约束"
+          "迟到后果"
         ],
         "vocabulary": [
-          "briefing"
+          "reduces playing time"
         ],
-        "rationale": "理解固定时间约束：题目问迟到后果；“reduces playing time”说明会缩短游戏时长。",
-        "answer_evidence": "Late arrival reduces playing time",
-        "reviewed_on": "2026-09-27"
+        "rationale": "后组开场固定，迟到缩时；非自动延期或删讲解保时长。保留。",
+        "answer_evidence": "reduces playing time",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2152,14 +2152,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "整合人数与费用规则"
+          "人数条件应用"
         ],
         "vocabulary": [
-          "spectators"
+          "add up to two more"
         ],
-        "rationale": "整合人数与费用规则：题目问第五人如何加入；“add up to two more”表示最多还能加两位。",
-        "answer_evidence": "add up to two more at reception",
-        "reviewed_on": "2026-09-27"
+        "rationale": "第五人属四人外可加两人的范围，须付款；不能免费旁观或借减人数政策抵扣。保留。",
+        "answer_evidence": "add up to two more",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2188,14 +2188,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "计算截止时间并核对条件"
+          "时限计算"
         ],
         "vocabulary": [
-          "departure"
+          "five minutes before departure"
         ],
-        "rationale": "计算截止时间并核对条件：题目问14:10班次登船截止；“five minutes before departure”表示比开船早五分钟。",
-        "answer_evidence": "Boarding closes five minutes before departure",
-        "reviewed_on": "2026-09-27"
+        "rationale": "14:10前五分钟14:05，步行不能车辆入口；其他项错时间或入口。保留。",
+        "answer_evidence": "five minutes before departure",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2224,14 +2224,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "区分核心权益与附加服务"
+          "保证范围"
         ],
         "vocabulary": [
-          "guarantees"
+          "travel on the booked sailing"
         ],
-        "rationale": "区分核心权益与附加服务：题目问票保障什么；“not a seat in the indoor cabin”明确不保证室内座位。",
-        "answer_evidence": "not a seat in the indoor cabin",
-        "reviewed_on": "2026-09-27"
+        "rationale": "保证班次运输，不保室内座位、自行车、固定入口；读排除条款后范围清楚。保留。",
+        "answer_evidence": "travel on the booked sailing",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2260,14 +2260,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解菜单替换范围"
+          "套餐替换"
         ],
         "vocabulary": [
-          "combination"
+          "replace the soup with a side salad"
         ],
-        "rationale": "理解菜单替换范围：题目问套餐内允许怎样替换；“replace the soup with a side salad”明确汤可换配菜沙拉。",
+        "rationale": "汤换沙拉是允许替换，三明治不能换，面包也不另附。保留。",
         "answer_evidence": "replace the soup with a side salad",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2294,16 +2294,16 @@
         "explanation": "读懂：题目问套餐外带的收费；“including those used for a combination”说明套餐容器也计费。\n解析：每个外带盒另收50美分，餐价不含盒费。套餐没有免费盒豁免；小汤本无额外面包，不能以不拿面包换折扣；套餐只卖到两点，不是全天供应。\n下次：看到附加费用→查包含是否指也要收费→避免把套餐价误读为所有服务全包。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "识别附加费用"
+          "附加费用"
         ],
         "vocabulary": [
-          "containers"
+          "Takeaway containers cost 50 cents each"
         ],
-        "rationale": "识别附加费用：题目问套餐外带的收费；“including those used for a combination”说明套餐容器也计费。",
-        "answer_evidence": "including those used for a combination",
-        "reviewed_on": "2026-09-27"
+        "rationale": "盒子包括套餐都收费，无免费或全天套餐；直接费用规则，降简单。",
+        "answer_evidence": "Takeaway containers cost 50 cents each",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2332,14 +2332,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "理解词义与规则范围"
+          "规则含义"
         ],
         "vocabulary": [
-          "audible"
+          "should not be audible at neighboring pitches"
         ],
-        "rationale": "理解词义与规则范围：题目问安静时段的具体含义；“audible”是听得见，限制的是声音传到邻近营位。",
+        "rationale": "限制声音传邻位，不要求睡觉也不关洗手间或禁步行。保留。",
         "answer_evidence": "should not be audible at neighboring pitches",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2368,14 +2368,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "整合夜间到达条件"
+          "时间与通行整合"
         ],
         "vocabulary": [
-          "entrance"
+          "park at the entrance until morning"
         ],
-        "rationale": "整合夜间到达条件：题目问晚到车辆如何处理；“not to drive through the site”说明营位号不构成夜间驾车许可。",
-        "answer_evidence": "not to drive through the site",
-        "reviewed_on": "2026-09-27"
+        "rationale": "10:30车留入口步行到预订营位，先领号不授权驾车入内。保留。",
+        "answer_evidence": "park at the entrance until morning",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2404,14 +2404,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解计费单位"
+          "计费单位"
         ],
         "vocabulary": [
-          "credits"
+          "two credits"
         ],
-        "rationale": "理解计费单位：题目问三张黑白双面打印的额度；“one printed side”按一面算，而不是按一张纸。",
-        "answer_evidence": "one printed side in black and white",
-        "reviewed_on": "2026-09-27"
+        "rationale": "三双面=六面黑白六额度，其他错面数或颜色价。保留。",
+        "answer_evidence": "two credits",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2435,19 +2435,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问从未确认输出的任务会怎样；“without using credits”说明没有扣额度。\n解析：未释放的任务24小时后自动消失且不收费。不会转成自动打印；上传不等于扣费；没有打印就没有坏纸可交，凭坏纸核查只针对已输出失败的任务。\n下次：看到数字任务状态→分清上传、释放和输出→按所属状态判断扣费和补救。"
+        "explanation": "读懂：题目问没有确认开始打印的任务会怎样；“without using credits”是不会扣打印额度。\n解析：任务等了24小时还没开始打印，就自动删除且不收费。上传文件不等于开始打印；也不会到时自动印出来。凭坏纸申请核查，是已经打印后才用的办法。\n下次：先确认文件只是上传了，还是已经按下开始打印；再按这一步判断是否扣费、怎样处理。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "区分流程状态"
+          "打印前后状态"
         ],
         "vocabulary": [
-          "unreleased"
+          "without using credits"
         ],
-        "rationale": "区分流程状态：题目问从未确认输出的任务会怎样；“without using credits”说明没有扣额度。",
+        "rationale": "未批准打印24小时消失不扣费，上传和实际打印分开；原释放术语难懂，重写，降简单。",
         "answer_evidence": "without using credits",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2471,19 +2471,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：题目问保存新车牌后还要做什么；“does not automatically move”表示许可不会自动转过去。\n解析：须进入有效许可选择新车牌。检查靠号码，无须再印卡；添加车辆不生成第二张许可；账户有两车也不能任意同时使用一个许可。\n下次：看到添加对象与分配资格分离→完成资格绑定→检查是否出现生效确认。"
+        "explanation": "读懂：题目问保存新车牌后还要做什么；“does not automatically move”是停车资格不会自动转到新车上。\n解析：还要打开正在使用的停车证，选中新车牌。添加两辆车不会多出一张证，也不表示两辆都能同时使用；检查按车牌进行，不用再印纸卡。\n下次：看到车辆添加成功，再检查停车证选的是哪块车牌、是否出现生效确认；别只看账号里有没有这辆车。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "理解账户配置步骤"
+          "停车证办理步骤"
         ],
         "vocabulary": [
-          "registration"
+          "choose the new registration"
         ],
-        "rationale": "理解账户配置步骤：题目问保存新车牌后还要做什么；“does not automatically move”表示许可不会自动转过去。",
-        "answer_evidence": "does not automatically move your active parking permit",
-        "reviewed_on": "2026-09-27"
+        "rationale": "添加车牌不转停车证，须在有效证中选择新牌；改资格绑定抽象口令。",
+        "answer_evidence": "choose the new registration",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2507,19 +2507,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：题目问许可何时生效；“when the confirmation appears”把生效点定在确认画面出现时。\n解析：完成许可切换并见确认后才生效。输入或保存车牌不等于切换；重印旧卡无作用；可以保留两辆车记录，只须同一时间绑定一辆，并非必须删除旧车。\n下次：看到有效时间题→找到最终确认节点→排除只录资料和不必要删除步骤。"
+        "explanation": "读懂：题目问新车何时能用停车证；“when the confirmation appears”是切换后出现确认提示时。\n解析：完成切换并看到确认，新车才可使用。只输入车牌还不够；重印旧卡没用；旧车信息可以保留，不必先删除。\n下次：问何时生效，找到最后的确认提示；别把填好资料当成已经办完。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "定位生效节点"
+          "生效时间"
         ],
         "vocabulary": [
-          "effective"
+          "when the confirmation appears"
         ],
-        "rationale": "定位生效节点：题目问许可何时生效；“when the confirmation appears”把生效点定在确认画面出现时。",
+        "rationale": "确认切换后生效，不是只输入或删旧车重印卡；去绑定节点术语。",
         "answer_evidence": "when the confirmation appears",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2548,14 +2548,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解提醒目的"
+          "安排变化"
         ],
         "vocabulary": [
-          "pairings"
+          "Table numbers may change each round"
         ],
-        "rationale": "理解提醒目的：题目问为何每轮查看桌号；“may change each round”说明不保证仍在原桌。",
+        "rationale": "每轮桌号可能变化，非成绩清零、再打同人或退赛证据。保留。",
         "answer_evidence": "Table numbers may change each round",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2584,14 +2584,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "推断操作时机"
+          "通知时机"
         ],
         "vocabulary": [
-          "withdrawing"
+          "before the next pairings are made"
         ],
-        "rationale": "推断操作时机：题目问怎样退赛不影响下一轮；“before the next pairings are made”强调配对编排之前。",
+        "rationale": "配对之前通知避免对手空等，离开或配对后通知太晚。保留。",
         "answer_evidence": "before the next pairings are made",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2615,19 +2615,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：题目问整车照片之外还要什么；“not a substitute for typing it”说明照片中的号码不能代替输入。\n解析：必须把车架号填入专栏，便于记录检索。价格贴纸不是车架号来源；登记免费且不要求保险单；登记也不授予限制区域停车权。\n下次：看到图片和结构化字段并存→检查哪些信息必须单独输入→别用照片包含了来替代填写。"
+        "explanation": "读懂：题目问交整车照片外还要做什么；“type the frame number”是把车架号单独打进表格。\n解析：照片即使拍到了号码，也不能代替填写。价格贴纸不是车架号；登记不要求付保险费，也不代表可以在受限区域停车。\n下次：上传照片后，再看表格有没有要求单独填写的号码；照片里看得到，不等于这一栏已经填好。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解数据提交要求"
+          "登记材料"
         ],
         "vocabulary": [
-          "frame"
+          "type the frame number into the separate number field"
         ],
-        "rationale": "理解数据提交要求：题目问整车照片之外还要什么；“not a substitute for typing it”说明照片中的号码不能代替输入。",
-        "answer_evidence": "not a substitute for typing it",
-        "reviewed_on": "2026-09-27"
+        "rationale": "整车照片之外要手输车架号，价贴、保险和停车许可均不代替。改结构化字段术语。",
+        "answer_evidence": "type the frame number into the separate number field",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2659,11 +2659,11 @@
           "必要条件推断"
         ],
         "vocabulary": [
-          "searchable"
+          "only after you submit the completed form"
         ],
-        "rationale": "必要条件推断：题目问草稿状态；“only after”把可检索条件限定为完成并提交之后。",
-        "answer_evidence": "searchable only after you submit the completed form",
-        "reviewed_on": "2026-09-27"
+        "rationale": "可检索需要提交，保存草稿不足；推断是条件否定，非自动一天转正或保险。保留。",
+        "answer_evidence": "only after you submit the completed form",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2687,19 +2687,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：题目问改门的目的；“keep sacks and carts out”是避免面粉袋和推车占用人行入口。\n解析：改用后门是让早高峰前门畅通。时间明确不变；后门标线不能停车；住户大厅也不作为替代货运通道，三者都不是改动目的。\n下次：看到动线调整→找原动线造成的冲突→别把换入口误读为换时段或增加停车位。"
+        "explanation": "读懂：题目问面包店为什么改送货入口；“keep sacks and carts out”是别让面粉袋和推车挡在人行入口。\n解析：后门送货可让早高峰的前门保持畅通。送货时间不变；后门不是新停车位；住户大厅也不能改作送货通道。\n下次：通知说换入口时，先找原入口有什么问题，再检查变的是地点还是时间。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别安排目的"
+          "改动目的"
         ],
         "vocabulary": [
-          "pedestrian"
+          "keep sacks and carts out of the narrow pedestrian entrance"
         ],
-        "rationale": "识别安排目的：题目问改门的目的；“keep sacks and carts out”是避免面粉袋和推车占用人行入口。",
+        "rationale": "改后门为避免货物堵行人入口，非改时间、加车位或改住户大厅。把动线换入口。",
         "answer_evidence": "keep sacks and carts out of the narrow pedestrian entrance",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2728,14 +2728,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解时间范围"
+          "时段范围"
         ],
         "vocabulary": [
-          "overnight"
+          "including overnight"
         ],
-        "rationale": "理解时间范围：题目问夜间标线区怎么用；“including overnight”明确连夜里也须保持空。",
+        "rationale": "夜间也保持空供7点送货，非早上再清、存货或转大厅。保留。",
         "answer_evidence": "including overnight",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2764,14 +2764,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "理解近似信息的限制"
+          "样品用途"
         ],
         "vocabulary": [
-          "approximate"
+          "only approximate"
         ],
-        "rationale": "理解近似信息的限制：题目问为何看墙面色样；“only approximate”说明屏幕草图色彩只是近似。",
-        "answer_evidence": "the colors on the online sketch are only approximate",
-        "reviewed_on": "2026-09-27"
+        "rationale": "在线色是近似，实墙样色用于判断真实搭配；非改文字、全画完或代投票。保留。",
+        "answer_evidence": "only approximate",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2800,14 +2800,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别变更边界"
+          "变化范围"
         ],
         "vocabulary": [
-          "delayed"
+          "not the vote"
         ],
-        "rationale": "识别变更边界：题目问雨天影响了哪一步；“not the vote”明确排除投票。",
+        "rationale": "只画墙延迟，投票未改、文字已批；保留。",
         "answer_evidence": "not the vote",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2836,14 +2836,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "推断重复核查的必要性"
+          "要求目的推断"
         ],
         "vocabulary": [
-          "current"
+          "current walking route"
         ],
-        "rationale": "推断重复核查的必要性：题目问每班为何重读卡片；“current walking route”强调执行当前安排。",
+        "rationale": "强调每班看当前说明，合理推出路线人员可能更新；绳色只长短，不改指示。保留。",
         "answer_evidence": "current walking route",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2870,16 +2870,16 @@
         "explanation": "读懂：题目问找不到搭档的处理；“after checking with the supervisor”说明改领别的狗前要确认。\n解析：人数条件不满足，应找主管改安排。缩短路线被明令禁止；换短绳不代替人员；抹掉要求只是篡改说明，不是解决缺人。\n下次：看到安全或人员前提不足→用规定的替代安排→不要自行缩小任务来取消前提。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "应用前提与替代流程"
+          "人员不足处理"
         ],
         "vocabulary": [
-          "supervisor"
+          "after checking with the supervisor"
         ],
-        "rationale": "应用前提与替代流程：题目问找不到搭档的处理；“after checking with the supervisor”说明改领别的狗前要确认。",
-        "answer_evidence": "choose another dog after checking with the supervisor",
-        "reviewed_on": "2026-09-27"
+        "rationale": "无第二人要主管同意改领狗，短绳短路线不替代人。明示流程降简单。",
+        "answer_evidence": "after checking with the supervisor",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2908,14 +2908,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "理解标识设计目的"
+          "操作原因"
         ],
         "vocabulary": [
-          "circulate"
+          "circulate among households"
         ],
-        "rationale": "理解标识设计目的：题目问地址为何写在可拆牌上；“circulate among households”指桶清洗后在各户之间周转。",
-        "answer_evidence": "buckets circulate among households after washing",
-        "reviewed_on": "2026-09-27"
+        "rationale": "桶循环给各家，地址应可转移；不是买桶、不洗桶或只退订时用。保留。",
+        "answer_evidence": "circulate among households",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2944,14 +2944,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "定位归还与保留要求"
+          "归还与保留"
         ],
         "vocabulary": [
-          "retain"
+          "retain your address tag"
         ],
-        "rationale": "定位归还与保留要求：题目问结束服务时保留什么；“retain your address tag”表示留下地址牌。",
+        "rationale": "退订归还桶留下牌，收费服务不买桶，也不能留下厨余。保留。",
         "answer_evidence": "retain your address tag",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2975,19 +2975,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问暂停且保留剩余时长；“does not clear”表示不会清零。\n解析：计时中再按一次Start可暂停且保留。长按Reset会取消重新设置；改时钟不控制倒计时；计时器与烤箱无连接，关烤箱不能自动断开它。\n下次：看到同一个按钮有状态相关动作→先确认当前正在计时→再区分暂停与重置。"
+        "explanation": "读懂：题目问怎样暂停又保留剩余时间；“does not clear”是不会把时间清零。\n解析：计时正在运行时，按一次 Start（开始键）会暂停。长按 Reset（重设键）会取消本次计时；改时钟或关烤箱都不能暂停这个独立计时器。\n下次：同一按钮有多种作用时，先确定设备当前在做什么，再找“暂停”与“取消”的不同操作。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解设备状态与操作"
+          "按钮与状态"
         ],
         "vocabulary": [
-          "countdown"
+          "pauses the countdown"
         ],
-        "rationale": "理解设备状态与操作：题目问暂停且保留剩余时长；“does not clear”表示不会清零。",
-        "answer_evidence": "it does not clear the remaining time",
-        "reviewed_on": "2026-09-27"
+        "rationale": "运行时再按开始暂停且不清零；重设和改时钟均非暂停。补按钮中文。",
+        "answer_evidence": "pauses the countdown",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3014,16 +3014,16 @@
         "explanation": "读懂：题目问消除响铃的效果；“has no connection to those appliances”说明它不控制灶具。\n解析：按键只停声音，烤箱仍需单独操作。没有连接可供联动关闭；未说停铃会重新倒计时；时钟与倒计时独立，也不会互相同步。\n下次：看到提醒设备→查它只是提示还是能控制设备→不要用不响了推断加热已停。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "限制功能推断"
+          "功能范围"
         ],
         "vocabulary": [
-          "independent"
+          "has no connection to those appliances"
         ],
-        "rationale": "限制功能推断：题目问消除响铃的效果；“has no connection to those appliances”说明它不控制灶具。",
+        "rationale": "停铃不关烤箱直接说明，非联动、重新计时或同步时钟；下调简单。",
         "answer_evidence": "has no connection to those appliances",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3052,14 +3052,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "比较接收状态"
+          "报告对象"
         ],
         "vocabulary": [
-          "missing"
+          "Only your roommate"
         ],
-        "rationale": "比较接收状态：题目问谁要报故障；“Only your roommate”把需要报告的人限定为漏收者。",
-        "answer_evidence": "Only your roommate needs to report a missing message",
-        "reviewed_on": "2026-09-27"
+        "rationale": "只有室友漏首条，Jules全收；结束测试不取消报漏收。保留。",
+        "answer_evidence": "Only your roommate",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3088,14 +3088,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别有效反馈渠道"
+          "报告渠道"
         ],
         "vocabulary": [
-          "monitored"
+          "alert-settings page"
         ],
-        "rationale": "识别有效反馈渠道：题目问用什么渠道报告；“replies are not monitored”表示直接回复短信无人查看。",
-        "answer_evidence": "replies are not monitored",
-        "reviewed_on": "2026-09-27"
+        "rationale": "设置页表格唯一报告渠道，不看短信回复也不要全截图或等第三条。保留。",
+        "answer_evidence": "alert-settings page",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3124,14 +3124,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "应用空间分类"
+          "物品分区"
         ],
         "vocabulary": [
-          "labeled"
+          "Middle shelf"
         ],
-        "rationale": "正常私人食品应放中层；标签不全者移到仍在柜内的收集箱，等待本人取回。",
-        "answer_evidence": "Middle shelf: members' labeled personal food.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "私人标好食物放中层；上层活动下层冰袋，收集箱非捐赠。保留。",
+        "answer_evidence": "Middle shelf",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3160,14 +3160,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "推断管理措施边界"
+          "管理动作含义"
         ],
         "vocabulary": [
-          "collection"
+          "collect them promptly"
         ],
-        "rationale": "收集箱位于冷冻柜内以维持存放条件；转移位置不改变归属，仍须通知物主取回。",
-        "answer_evidence": "members will be notified to collect them promptly",
-        "reviewed_on": "2026-09-27"
+        "rationale": "挪箱仍原主人取，非出售共享或活动获批。保留。",
+        "answer_evidence": "collect them promptly",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3191,19 +3191,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：题目问下一步；“before requesting a replacement”把检查实物放在要求换货之前。\n解析：先核实灯是否裂损或缺件，再决定是否申请。未开箱就退忽略必要检查；若灯坏，包装要保留待确认，不能先全扔；另买再取消也不是客服给出的方案。\n下次：看到外包装损伤→先区分包装与商品状态→按检查结果选择下一分支。"
+        "explanation": "读懂：题目问顾客首先要做什么；“before requesting a replacement”是申请换货之前。\n解析：先拆开外箱，看灯有无裂损或缺件。没检查就退货太早；若灯坏了还要留包装，不能先全扔；另买一盏再取消也不是客服要求。\n下次：外包装坏时，先检查商品本身。商品完好就按说明使用；确有损坏，再准备换货所需照片和订单号。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别诊断先后"
+          "补救先后"
         ],
         "vocabulary": [
-          "packaging"
+          "before requesting a replacement"
         ],
-        "rationale": "识别诊断先后：题目问下一步；“before requesting a replacement”把检查实物放在要求换货之前。",
-        "answer_evidence": "check the desk lamp before requesting a replacement",
-        "reviewed_on": "2026-09-27"
+        "rationale": "先查灯，外箱损坏不足以定换货；分支改成具体检查步骤。",
+        "answer_evidence": "before requesting a replacement",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3211,7 +3211,7 @@
         "id": "R655",
         "section": "reading",
         "task_type": "read_daily_life",
-        "prompt": "What does the support team imply about a crushed carton?",
+        "prompt": "What does the support team say about a crushed carton?",
         "response_type": "choice",
         "group_id": "read_daily_life_75",
         "passage_title": "A crushed box at the doorstep",
@@ -3232,14 +3232,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "区分迹象与结论"
+          "证据能说明什么"
         ],
         "vocabulary": [
-          "intact"
+          "does not necessarily mean the lamp is damaged"
         ],
-        "rationale": "区分迹象与结论：题目问压坏纸箱意味着什么；“does not necessarily mean”是否定必然关联。",
+        "rationale": "外箱不必然表示灯坏已明示；改事实题而非声称隐含推断，解释仍有效。",
         "answer_evidence": "does not necessarily mean the lamp is damaged",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3263,19 +3263,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问输入比分后为何排名未变；“provisional until confirmed”表示确认前仍属暂定。\n解析：对手尚未确认是规则直接给出的原因。赛后由胜者填写正是要求；没有指定球场导致无效的信息；也无所有成绩月底才更新的统一延迟。\n下次：看到录入但结果未更新→找审核或双方确认节点→别擅自增加场地和月度周期限制。"
+        "explanation": "读懂：题目问录入比分后排名为何没变；“provisional until confirmed”是确认前只能算暂定。\n解析：胜者输入后，还要对手确认才影响排名。赛后输入正是规定步骤；文中没有指定场地或月底统一更新的限制。\n下次：看到“已录入但还没生效”，查还有谁需要确认；别把输入成功当成双方已经认可。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "理解暂定状态"
+          "成绩状态原因"
         ],
         "vocabulary": [
-          "provisional"
+          "provisional until confirmed"
         ],
-        "rationale": "理解暂定状态：题目问输入比分后为何排名未变；“provisional until confirmed”表示确认前仍属暂定。",
-        "answer_evidence": "remains provisional until confirmed",
-        "reviewed_on": "2026-09-27"
+        "rationale": "对手未确认使分数暂定，非月底统计或场地无效；去确认节点术语。",
+        "answer_evidence": "provisional until confirmed",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3304,14 +3304,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "区分中途领先与最终胜负"
+          "比赛状态"
         ],
         "vocabulary": [
-          "interrupted"
+          "Incomplete"
         ],
-        "rationale": "区分中途领先与最终胜负：题目问雨停赛如何记录；“marked Incomplete”是标为未完成。",
-        "answer_evidence": "marked Incomplete",
-        "reviewed_on": "2026-09-27"
+        "rationale": "雨停未完成，不因领先判胜，也非平局或未开始挑战。保留。",
+        "answer_evidence": "Incomplete",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3340,14 +3340,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解备选活动安排"
+          "备用安排"
         ],
         "vocabulary": [
-          "demonstration"
+          "at the same starting time"
         ],
-        "rationale": "理解备选活动安排：题目问阴云无法观测时的安排；“at the same starting time”表示时间不变，只改活动地点与形式。",
+        "rationale": "阴云转室内演示同8点，非推两小时下周或强制双筒。保留。",
         "answer_evidence": "at the same starting time",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3376,14 +3376,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "理解让步与独立条件"
+          "替代安排范围"
         ],
         "vocabulary": [
-          "beforehand"
+          "whether or not the roof session goes ahead"
         ],
-        "rationale": "理解让步与独立条件：题目问不能爬楼者怎么办；“whether or not”说明无论屋顶活动是否举行都可安排替代参与。",
+        "rationale": "无论屋顶照常都可提前联系地面参与；非等阴天或有电梯。保留。",
         "answer_evidence": "whether or not the roof session goes ahead",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3412,14 +3412,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "区分代领与参赛资格"
+          "代领与转让区别"
         ],
         "vocabulary": [
-          "confirmation"
+          "A friend may collect for you"
         ],
-        "rationale": "区分代领与参赛资格：题目问朋友持确认邮件能做什么；“collect for you”是代领，不是代替本人参赛。",
+        "rationale": "邮件授权周六代领，不授权代跑、比赛早晨领或改紧急资料。保留。",
         "answer_evidence": "A friend may collect for you",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3443,19 +3443,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：题目问为何必须正式转让；“attached to the wrong person”表示号码与紧急联系人会错配。\n解析：网站流程给替补者分配新号，使身份和记录一致。不是让原选手多领一号；不是免填联系资料；也不是维持原号码原归属不变，恰恰要纠正记录对应关系。\n下次：看到身份绑定物品→追踪背后关联记录→用正式更名流程避免物品与人员错配。"
+        "explanation": "读懂：题目问为什么转让参赛名额必须上网站办理；“attached to the wrong person”是号码对应了错误的人。\n解析：正式转让会给替补者分配新号，紧急联系资料才能对上实际参赛者。不是让原选手领两号，也不是免填联系方式或保留原号码归属。\n下次：拿到别人的参赛物品时，先检查参赛者姓名和联系资料是否已正式改好；能拿到号码，不等于手续已转给你。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "推断实名流程目的"
+          "规定目的"
         ],
         "vocabulary": [
-          "transfer"
+          "emergency contact record attached to the wrong person"
         ],
-        "rationale": "推断实名流程目的：题目问为何必须正式转让；“attached to the wrong person”表示号码与紧急联系人会错配。",
+        "rationale": "网上转让把号码和新选手资料对应，非沿用原人或多领号；去身份绑定术语。",
         "answer_evidence": "emergency contact record attached to the wrong person",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3484,14 +3484,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解价格单位"
+          "价格单位"
         ],
         "vocabulary": [
-          "remnant"
+          "for the entire piece"
         ],
-        "rationale": "理解价格单位：题目问零布标签价怎样算；“not per meter”明确不是每米单价。",
-        "answer_evidence": "for the entire piece, not per meter",
-        "reviewed_on": "2026-09-27"
+        "rationale": "整块价非按米、样布或订金。保留。",
+        "answer_evidence": "for the entire piece",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3520,14 +3520,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "综合尺寸信息"
+          "尺寸原因"
         ],
         "vocabulary": [
-          "width"
+          "two pieces of equal length may provide different amounts"
         ],
-        "rationale": "综合尺寸信息：题目问为何长宽都要看；“equal length”不代表布料总量相同。",
-        "answer_evidence": "two pieces of equal length may provide different amounts of fabric",
-        "reviewed_on": "2026-09-27"
+        "rationale": "等长不同宽面积不同，不保同色或可分割，更无长宽反比规律。保留。",
+        "answer_evidence": "two pieces of equal length may provide different amounts",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3556,14 +3556,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "推断行为规则原因"
+          "原因推断"
         ],
         "vocabulary": [
-          "headphones"
+          "spoken call"
         ],
-        "rationale": "耳机不能消除通话者自己的声音；干扰项分别混淆设备许可、电话间时长和桌位预约。",
-        "answer_evidence": "headphones alone do not make a spoken call suitable",
-        "reviewed_on": "2026-09-27"
+        "rationale": "戴耳机仍出声干扰安静桌，需联系两句推断；其他项将预约及会议室规则错配。保留。",
+        "answer_evidence": "spoken call",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3587,19 +3587,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问提前结束怎样释放电话间；“mark the booth free”是把预约屏幕上的状态改为空闲。\n解析：按通知应在回桌前更新状态，使别人可使用。空房也应关门，开门不是许可的信号；等原时段到点会继续占用空房；会议室使用另一套日历，不能代替电话间的状态更新。\n下次：看到资源提前归还→找到该资源指定的状态记录→更新后检查是否已对其他使用者显示空闲。"
+        "explanation": "读懂：题目问提前结束通话后怎样让别人能用房间；“mark the booth free”是把电话间标成空闲。\n解析：回座位前要在电话间预约屏上改状态。空房也要关门，开门不能代替这一步；等原预约到期会白占时间；会议室日历不管电话间。\n下次：房间提前用完，去当初预约它的地方结束占用，再看页面是否已显示空闲。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "识别资源状态信号"
+          "使用后操作"
         ],
         "vocabulary": [
-          "occupied"
+          "mark the booth free"
         ],
-        "rationale": "释放电话间须在回桌前更新所属预约显示，不能靠开门、等到期或改会议室日历。",
-        "answer_evidence": "mark the booth free in the booking display",
-        "reviewed_on": "2026-09-27"
+        "rationale": "提前结束需该预约屏改空闲；门关开不代表状态，另会议室日历无效。去释放资源术语，直接明示降简单。",
+        "answer_evidence": "mark the booth free",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3628,14 +3628,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "整合预算与议程信息"
+          "比较报价"
         ],
         "vocabulary": [
-          "maintenance"
+          "only the seating estimate includes"
         ],
-        "rationale": "需将报价差异与问答环节的维护说明联系起来。",
-        "answer_evidence": "only the seating estimate includes the first year's maintenance",
-        "reviewed_on": "2026-09-27"
+        "rationale": "两报价维护包含不同，问答补自行车维护；非多票、邮件投或定开工。保留。",
+        "answer_evidence": "only the seating estimate includes",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3664,14 +3664,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "应用资格与次数限制"
+          "人数与票额"
         ],
         "vocabulary": [
-          "household"
+          "should not collect another"
         ],
-        "rationale": "需同时遵守一户一票、已投不重领及旁听许可。",
-        "answer_evidence": "You may listen to both presentations without voting.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "按户一票已投仍可听，不再投；人数增加不增票，邮件不接受。保留。",
+        "answer_evidence": "should not collect another",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3679,7 +3679,7 @@
         "id": "R668",
         "section": "reading",
         "task_type": "read_daily_life",
-        "prompt": "What can be concluded about the winning project?",
+        "prompt": "What must happen after a proposal wins the vote, before work is ordered?",
         "response_type": "choice",
         "group_id": "read_daily_life_81",
         "passage_title": "Choosing a use for the courtyard fund",
@@ -3698,16 +3698,16 @@
         "explanation": "读懂：题目问获胜后是否能直接施工；“before any work is ordered”指下达施工订单之前。\n解析：获胜方案仍要完成最终安全检查，说明投票不是施工许可。计票结束不能保证开工；未安排落选团队出维护费；资金只够做一个项目，不是两案平分。\n下次：看到投票、审批或选定结果→找后续必要条件→确认结果是否已经允许执行。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "区分选择结果与执行条件"
+          "后续必要条件"
         ],
         "vocabulary": [
-          "undergo"
+          "final safety check"
         ],
-        "rationale": "投票与安全检查是不同环节，结论须保留检查条件。",
-        "answer_evidence": "The winning proposal will undergo a final safety check",
-        "reviewed_on": "2026-09-27"
+        "rationale": "获胜后仍需最终安全检查是明示要求；改问下一必要步骤并降简单。",
+        "answer_evidence": "final safety check",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3736,14 +3736,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别提交材料"
+          "首次提交材料"
         ],
         "vocabulary": [
-          "submit"
+          "a separate contact sheet"
         ],
-        "rationale": "需要连接字数要求与独立联系资料要求。",
-        "answer_evidence": "Send a written piece of 300–400 words by Friday.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "先文字故事与联系资料，非录音、入选后修稿或往绩。保留。",
+        "answer_evidence": "a separate contact sheet",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3772,14 +3772,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "解释程序说明的目的"
+          "条款作用"
         ],
         "vocabulary": [
-          "approval"
+          "ask for approval before recording"
         ],
-        "rationale": "须识别入选与定稿的区别，并保留作者审批这一条件。",
-        "answer_evidence": "Selection therefore does not mean the first version will be read unchanged.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "入选仍可能改稿需作者同意；不要求自读或付费，非听众选。保留。",
+        "answer_evidence": "ask for approval before recording",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3808,14 +3808,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "整合隐私与参与方式"
+          "多项要求整合"
         ],
         "vocabulary": [
-          "ownership"
+          "ask our presenter to read it"
         ],
-        "rationale": "需同时满足笔名规则、联系资料与代读选项。",
-        "answer_evidence": "Writers may read their own work at the studio or ask our presenter to read it.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "可用笔名并主持人读，仍交真实联系方式；不弃版权不获往绩优先。保留。",
+        "answer_evidence": "ask our presenter to read it",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3844,14 +3844,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别默认安排"
+          "未回复的后果"
         ],
         "vocabulary": [
-          "release"
+          "leave Monday unchanged"
         ],
-        "rationale": "关键是区分释放新时段与保留已有预约。",
-        "answer_evidence": "No reply will leave Monday unchanged and release Thursday",
-        "reviewed_on": "2026-09-27"
+        "rationale": "不回复只丢周四offer，周一不变也不延长。保留。",
+        "answer_evidence": "leave Monday unchanged",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3880,14 +3880,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "判断附加需求的处理步骤"
+          "新增需求步骤"
         ],
         "vocabulary": [
-          "routine"
+          "tell us in your reply"
         ],
-        "rationale": "追加事项须先核实时长，不能从常规检查推及所有需求。",
-        "answer_evidence": "tell us in your reply so we can check whether a longer visit is needed",
-        "reviewed_on": "2026-09-27"
+        "rationale": "额外问题先回复供核时长，非到院再填表或按原20分钟均可。保留。",
+        "answer_evidence": "tell us in your reply",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3916,14 +3916,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "应用例外条件"
+          "例外条件应用"
         ],
         "vocabulary": [
-          "unless"
+          "unless something has changed"
         ],
-        "rationale": "区分始终需要的联系表与仅健康史变化时要重复的表。",
-        "answer_evidence": "You do not need to repeat the health-history form unless something has changed",
-        "reviewed_on": "2026-09-27"
+        "rationale": "联系表必须，健康史没变不用重填；不是两者都免或重填健康表。保留。",
+        "answer_evidence": "unless something has changed",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3952,14 +3952,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "追踪对话中的行动分工"
+          "人物行动顺序"
         ],
         "vocabulary": [
-          "intercom"
+          "I'll message you"
         ],
-        "rationale": "需要将门禁故障与两步通知链合并，找出Luis的具体职责。",
-        "answer_evidence": "Could you then go downstairs?",
-        "reviewed_on": "2026-09-27"
+        "rationale": "公司到→Maya接电话→发消息→Luis下楼；搬桌Maya做，非全程街边等。保留。",
+        "answer_evidence": "I'll message you",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3988,14 +3988,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解保留设备状态的原因"
+          "保留状态原因"
         ],
         "vocabulary": [
-          "warning"
+          "see its warning lights"
         ],
-        "rationale": "保持通电是为了观察现有故障指示，而非门禁或预约功能。",
-        "answer_evidence": "they want to see its warning lights before testing anything",
-        "reviewed_on": "2026-09-27"
+        "rationale": "保持通电供观察灯，非门禁电源或取消预约条件。保留。",
+        "answer_evidence": "see its warning lights",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4024,14 +4024,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "整合时限与备用安排"
+          "多时间安排"
         ],
         "vocabulary": [
-          "necessary"
+          "don't wait beyond 3:30"
         ],
-        "rationale": "需区分三点的跟进电话与三点半的等待上限。",
-        "answer_evidence": "If they haven't arrived by 3, I'll phone the company.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "3点Maya联系，3:30Luis可走；两个时间及人物不可互换。保留。",
+        "answer_evidence": "don't wait beyond 3:30",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4060,14 +4060,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "识别集体规则的适用层级"
+          "统一要求范围"
         ],
         "vocabulary": [
-          "courses"
+          "either the tasting menu or the regular menu"
         ],
-        "rationale": "须区分菜单选择必须一致与套餐菜品可以不同。",
-        "answer_evidence": "Guests choosing the tasting menu may select different main courses and desserts",
-        "reviewed_on": "2026-09-27"
+        "rationale": "统一菜单类别而非每道菜，7点入座非吃完。保留。",
+        "answer_evidence": "either the tasting menu or the regular menu",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4094,16 +4094,16 @@
         "explanation": "读懂：题目问想避开乳制品时选什么甜点；“contains butter”表示梨蛋糕里含黄油。\n解析：菜单明确推荐鲜果作为不含乳制品的甜点。黄油已在配方中，不能烤后取走；不点饮料不会改变蛋糕成分；店家也不为单份订单改配方。这里是菜单成分选择，不能据此保证过敏安全。\n下次：看到饮食偏好→查菜品明确列出的成分与替代项→核对是否把普通成分说明误当完整过敏保证。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "按成分与替换限制选餐"
+          "菜单成分选择"
         ],
         "vocabulary": [
-          "dairy"
+          "Choose fruit"
         ],
-        "rationale": "以明确成分说明选择鲜果，同时保留菜单的过敏咨询边界。",
-        "answer_evidence": "Choose fruit if you prefer a dessert without dairy.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "水果无奶选项，蛋糕不可个改，饮料不影响蛋糕黄油；清楚直接下调简单。",
+        "answer_evidence": "Choose fruit",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4132,14 +4132,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "计算按人与按份收费"
+          "份数与总价"
         ],
         "vocabulary": [
-          "serves"
+          "per person"
         ],
-        "rationale": "计算两份28元套餐加一壶4元茶，题目只问所列标价。",
-        "answer_evidence": "A pot of tea costs $4 and serves two people.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "两人各28加一壶4=60；不能把茶已含、茶按人或饭按桌。保留。",
+        "answer_evidence": "per person",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4168,14 +4168,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解提前到场的目的"
+          "提前到场目的"
         ],
         "vocabulary": [
-          "rental"
+          "fit your skates before the introduction"
         ],
-        "rationale": "将到场时点与五分钟后的讲解相连，而非与自由滑行相连。",
-        "answer_evidence": "Please arrive by 5:40 to fit your skates",
-        "reviewed_on": "2026-09-27"
+        "rationale": "提前5分钟为试鞋，非另买讲解票、拆绳或进公共区。保留。",
+        "answer_evidence": "fit your skates before the introduction",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4204,14 +4204,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "区分可选进阶与完成要求"
+          "可选步骤"
         ],
         "vocabulary": [
-          "optional"
+          "remain in the beginner area until 7"
         ],
-        "rationale": "不愿转区者仍可在初学区完成本场，避免把建议进阶当硬性要求。",
-        "answer_evidence": "You may also remain in the beginner area until 7.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "6:30换区可选，留初学区无需付费也不必走；两条件清楚。保留。",
+        "answer_evidence": "remain in the beginner area until 7",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4240,14 +4240,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "整合押币与保管规则"
+          "储物条件"
         ],
         "vocabulary": [
-          "lockers"
+          "returned when the key is put back"
         ],
-        "rationale": "需结合退币条件与课中不能换零的限制。",
-        "answer_evidence": "which is returned when the key is put back",
-        "reviewed_on": "2026-09-27"
+        "rationale": "硬币归钥退回但要先自备，非门票含费或长椅可放包。保留。",
+        "answer_evidence": "returned when the key is put back",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4276,14 +4276,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "匹配活动阶段与入口"
+          "时间地点配对"
         ],
         "vocabulary": [
-          "entrance"
+          "side entrance at 1:05"
         ],
-        "rationale": "从三个不同活动时点中定位导览集合要求。",
-        "answer_evidence": "Meet the access host at the side entrance at 1:05.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "集合侧门1:05，非1:15自己上台或大厅1:45演出2:30。保留。",
+        "answer_evidence": "side entrance at 1:05",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4312,14 +4312,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "区分导览预约与演出门票"
+          "两活动票务整合"
         ],
         "vocabulary": [
-          "companion"
+          "both of you need performance tickets"
         ],
-        "rationale": "需要将同伴的导览豁免与双方的演出购票义务同时应用。",
-        "answer_evidence": "A companion may join without a separate tour reservation",
-        "reviewed_on": "2026-09-27"
+        "rationale": "陪伴免另约导览，但看戏两人各买票，确认单不替代。保留。",
+        "answer_evidence": "both of you need performance tickets",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4346,16 +4346,16 @@
         "explanation": "读懂：题目问为何提前告知导盲犬信息；“arrange a suitable waiting space”是安排合适的等候空间。\n解析：团队为设备演示环节做准备，告知与否不改变已确认名额。不是重新审核资格；没有改为独自上台的安排；候补名单只在有人退出后获得空位，不是把此人转候补。\n下次：看到提前收集协助信息→寻找具体准备用途→检查它是否真的构成资格条件。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "解释信息收集目的"
+          "提前告知目的"
         ],
         "vocabulary": [
-          "demonstration"
+          "arrange a suitable waiting space"
         ],
-        "rationale": "将辅助准备与资格筛选区分，保留已确认预约的状态。",
-        "answer_evidence": "so we can arrange a suitable waiting space",
-        "reviewed_on": "2026-09-27"
+        "rationale": "报导盲犬用于等候空间准备，不影响已有名额；非审批或转候补。直接原因降简单。",
+        "answer_evidence": "arrange a suitable waiting space",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4384,14 +4384,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "区分入口尺寸与容纳空间"
+          "尺寸与搬运条件"
         ],
         "vocabulary": [
-          "usable"
+          "usable space inside"
         ],
-        "rationale": "需要区分物件通过开口与在车内平放两种尺寸条件。",
-        "answer_evidence": "The outside opening alone doesn't tell you whether a 120-centimeter piece will lie flat.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "车口85足80不保里面可平放120长，框不拆而腿可拆。保留。",
+        "answer_evidence": "usable space inside",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4420,14 +4420,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "整合搬运条件"
+          "取货准备"
         ],
         "vocabulary": [
-          "stairway"
+          "bring another person to carry it"
         ],
-        "rationale": "将自备帮手与电梯尺寸限制联系，确定搬运方案。",
-        "answer_evidence": "the table top is too wide for the lift",
-        "reviewed_on": "2026-09-27"
+        "rationale": "须带帮手走楼梯；进不了电梯，Nina不送，凳不卖。保留。",
+        "answer_evidence": "bring another person to carry it",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4456,14 +4456,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解时间指代与临时保留"
+          "指代时间"
         ],
         "vocabulary": [
-          "hold"
+          "I'll hold it until then"
         ],
-        "rationale": "then回指明日中午确认期限，不能扩展出降价或配件承诺。",
-        "answer_evidence": "I'll hold it until then.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "then回指明天中午，保留桌不是减价、送凳、拆框。保留。",
+        "answer_evidence": "I'll hold it until then",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4492,14 +4492,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别服务边界与后续动作"
+          "剩余办理步骤"
         ],
         "vocabulary": [
-          "upload"
+          "must still upload"
         ],
-        "rationale": "拍照交付与提交申请是两个环节，须识别后续上传责任。",
-        "answer_evidence": "You must still upload that file through your own card account",
-        "reviewed_on": "2026-09-27"
+        "rationale": "服务仅交照片文件，自己上传；非纸件、代审批或其他机构核验。保留。",
+        "answer_evidence": "must still upload",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4528,14 +4528,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "解释补充材料的用途"
+          "补充资料目的"
         ],
         "vocabulary": [
-          "rejection"
+          "identify the problem"
         ],
-        "rationale": "拒收信息用于纠正具体问题，不能扩展成费用或审批豁免。",
-        "answer_evidence": "It helps staff identify the problem rather than simply repeat the same photograph.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "拒收信息用于修原失败原因，不免钱不重开已批准件或保证护照。保留。",
+        "answer_evidence": "identify the problem",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4564,14 +4564,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "按申请状态选择渠道"
+          "服务对象区分"
         ],
         "vocabulary": [
-          "approved"
+          "already approved"
         ],
-        "rationale": "已批准申请的偏好性换照与首次申请补照分属不同流程。",
-        "answer_evidence": "use the online replacement request instead",
-        "reviewed_on": "2026-09-27"
+        "rationale": "已批只因喜好换照走online；被拒和无文件是此台服务，戴眼镜允许。保留。",
+        "answer_evidence": "already approved",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4600,14 +4600,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "理解代理安排的目的"
+          "表格用途"
         ],
         "vocabulary": [
-          "behalf"
+          "on your behalf"
         ],
-        "rationale": "签字表授权有限额代竞价，不等于锁定购买或电话代办。",
-        "answer_evidence": "A volunteer will bid in $5 steps on your behalf, stopping at that limit.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "签表委托限价代竞，非私购、预留或每步电话报告。保留。",
+        "answer_evidence": "on your behalf",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4636,14 +4636,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "区分竞价上限与实际价格"
+          "价格规则应用"
         ],
         "vocabulary": [
-          "maximum"
+          "will not automatically become your opening bid"
         ],
-        "rationale": "题干的数字用于应用三个不同价格概念，不要求推测最终成交价。",
-        "answer_evidence": "Your stated maximum will not automatically become your opening bid.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "60是上限非起拍或必付，20起步5递增且不得越60。保留。",
+        "answer_evidence": "will not automatically become your opening bid",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4672,14 +4672,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "匹配延后领取条件"
+          "领取条件"
         ],
         "vocabulary": [
-          "packing"
+          "between 10 and noon Sunday"
         ],
-        "rationale": "已付买家可使用明确的次日领取窗口，但不产生额外包装或延期权利。",
-        "answer_evidence": "Paid works can be collected until 5 p.m. Saturday or between 10 and noon Sunday.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "已付款可周日10至12取且自备包装，非取后付或随意晚取。保留。",
+        "answer_evidence": "between 10 and noon Sunday",
+        "reviewed_on": "2026-09-30"
       }
     }
   ]

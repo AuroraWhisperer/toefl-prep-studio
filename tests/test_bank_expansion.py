@@ -31,17 +31,21 @@ BASE_TOTALS = {section: sum(tasks.values()) for section, tasks in BASE_COUNTS.it
 SOURCES = ROOT / 'question_bank/sources/expansion_2026_09'
 
 
-def test_each_practice_task_is_exactly_tripled():
+def test_each_practice_task_has_its_current_expansion_factor():
     store = QuestionStore()
-    assert store.manifest()['total_questions'] == 2115
+    assert store.manifest()['total_questions'] == 3615
     for section, tasks in BASE_COUNTS.items():
         questions = store.questions_for(section, 'bank')
         assert Counter(q['task_type'] for q in questions) == {
-            task: count * 3 for task, count in tasks.items()
+            task: count * (6 if section in {'reading', 'listening'} else 3)
+            for task, count in tasks.items()
         }
         ids = sorted((q['id'] for q in questions), key=lambda qid: int(qid[1:]))
         assert ids == [
-            f'{section[0].upper()}{i:02d}' for i in range(1, BASE_TOTALS[section] * 3 + 1)
+            f'{section[0].upper()}{i:02d}'
+            for i in range(
+                1, BASE_TOTALS[section] * (6 if section in {'reading', 'listening'} else 3) + 1
+            )
         ]
 
 
@@ -154,11 +158,11 @@ def test_full_bank_submission_limit_supports_the_expanded_bank_and_remains_bound
     request = ExamSubmitRequest(
         mode='bank', question_ids=ids, responses=[{'question_id': qid} for qid in ids]
     )
-    assert len(request.responses) == len(request.question_ids) == 2115
+    assert len(request.responses) == len(request.question_ids) == 3615
     with pytest.raises(ValidationError):
-        ExamSubmitRequest(mode='bank', responses=[{'question_id': 'R01'}] * 2116)
+        ExamSubmitRequest(mode='bank', responses=[{'question_id': 'R01'}] * 3616)
     with pytest.raises(ValidationError):
-        ExamSubmitRequest(mode='bank', question_ids=['R01'] * 2116)
+        ExamSubmitRequest(mode='bank', question_ids=['R01'] * 3616)
 
 
 @pytest.mark.parametrize(

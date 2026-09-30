@@ -232,6 +232,8 @@ test('all nine stages complete, archive under tests and reopen manual-review fee
         'aria-current',
         'step',
       );
+      // Let the new question's scheduled autofocus finish before targeting navigation.
+      await page.evaluate(() => new Promise(requestAnimationFrame));
       await page.locator('#previous-question').press('Enter');
       await expect(page.locator('#question-index button').first()).toHaveAttribute(
         'aria-current',

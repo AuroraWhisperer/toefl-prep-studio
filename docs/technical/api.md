@@ -36,9 +36,13 @@ GET /api/v1/exam?section=writing&mode=bank&task_type=write_email
 
 材料提交 `n` 次后的相对抽取权重为 `1 / (1 + n) ** repeat_decay`；完整材料、同轮不重复及难度约束仍优先，权重不是固定中选概率。完整规则见[产品约定](../../PRODUCT.md#capabilities-and-constraints)。
 
-提交主体包含 `section`、`mode`、`task_type` 和 `responses`；每条回答包含 `question_id`、`answer` 及可选的 `duration_seconds`。专项还必须提交 `count` 和取题返回的完整 `question_ids`，服务端按该题组评分，漏答计零。
+提交主体包含 `section`、`mode`、`task_type` 和 `responses`；每条回答包含 `question_id`、`answer` 及可选的 `duration_seconds`。专项还必须提交 `count` 和取题返回的完整 `question_ids`，服务端按该题组核对，可自动判分的题目漏答计零。
 
-客户端应生成并复用 `submission_id`（UUID）：相同 ID 和内容的重试不重复归档，同一 ID 改交其他内容返回 `409`。提交模型见 [models.py](../../backend/models.py)，题型校验及评分见 [exam_service.py](../../backend/exam_service.py)。
+邮件、讨论和访谈的反馈为 `manual_review: true`、`correct: null`、`earned: 0`、`possible: 0`；两个零表示不参与计分，而非判为零分。这些题保留在 `answered` / `total` 中，文字反馈仅提供字数与重复措辞提示，不使用范文关键词判定质量。只有开放题的科目 `percentage` 为 `null`；混合科目的百分比只统计可自动核对部分。含人工复核题的科目不返回数字 `band6` / `legacy_score`，该次提交的 `overall_band6` / `legacy_total` 也为 `null`。复述仍按转写文字比对。
+
+原创题号为 `R`、`L`、`S` 或 `W` 加 2–4 位数字（例如 `R01`、`R1000`）；通过格式校验后仍须属于当前题库与所提交题组。`responses` 和 `question_ids` 各最多 3,615 项，专项另按完整材料和可选题量校验。
+
+客户端应生成并复用 `submission_id`（UUID）：相同 ID 和内容的重试返回已归档结果，不重复归档或用新版评分替换旧结果；同一 ID 改交其他内容返回 `409`。历史摘要的 `manual_review_count` 表示待人工复核题数，旧记录按原始反馈统计，不追溯改分。提交模型见 [models.py](../../backend/models.py)，题型校验及评分见 [exam_service.py](../../backend/exam_service.py)。
 
 ## 模考与综合测验
 

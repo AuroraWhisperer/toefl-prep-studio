@@ -33,9 +33,9 @@
         "vocabulary": [
           "reverberation"
         ],
-        "rationale": "整合课堂清晰度与音乐厅丰满度的不同目标。",
+        "rationale": "课堂清晰与音乐丰满感的对比共同支持按用途设计；三项分别抹平差别、过度推广吸音、改换房形话题。原解释已把主旨和错因讲清，保留。",
         "answer_evidence": "So the aim depends on what people do in the space.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -69,9 +69,9 @@
         "vocabulary": [
           "absorb"
         ],
-        "rationale": "直接定位吸收声能与词语重叠减少的因果链。",
+        "rationale": "窗帘吸音→少反射→连续词语少重叠，答案直接且唯一；干扰改变说话速度、能量或反射方向。保留清楚的因果说明。",
         "answer_evidence": "speech may become easier to understand because one word overlaps less with the next.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -105,9 +105,9 @@
         "vocabulary": [
           "fullness"
         ],
-        "rationale": "识别音乐厅例子对一味增加吸音的反例作用。",
+        "rationale": "音乐厅例子限制“吸音越多越好”，不是支持课堂和乐厅一律处理。原说明已解释举例作用及另外三项的错误。",
         "answer_evidence": "Too much absorption could make that hall sound lifeless.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -141,9 +141,9 @@
         "vocabulary": [
           "acoustic"
         ],
-        "rationale": "把按用途设计的原则迁移到房间改用情境。",
-        "answer_evidence": "Before recommending materials, an acoustic designer asks what listeners need to hear clearly.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "新情境要求把乐厅反射需求与讨论清晰度重新比较；重新评估用途得到唯一答案，不能一律保留原配置。原解析有具体操作，保留。",
+        "answer_evidence": "A room for rapid conversation and a room for an orchestra don't necessarily need the same treatment.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -177,9 +177,9 @@
         "vocabulary": [
           "phenology"
         ],
-        "rationale": "主旨需包含不同时间信号及伙伴活动错开的结果。",
+        "rationale": "花与昆虫响应信号不同，导致活动时间错配；主旨保留两方关系，另三项变更物种、因果或删去昆虫。材料自足且解释具体。",
         "answer_evidence": "Each species has responded to its own signals, yet the partnership is now less well timed.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -213,9 +213,9 @@
         "vocabulary": [
           "emergence"
         ],
-        "rationale": "区分温度与日长两种季节信号。",
+        "rationale": "昆虫还受日长影响，暖春不必同步提前，不能套用植物信号。原解析说明每项误读，无科学常识作答门槛。",
         "answer_evidence": "A plant might respond mainly to warmer air, while an insect's emergence could also depend on how long the days are.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -249,9 +249,9 @@
         "vocabulary": [
           "pollinating"
         ],
-        "rationale": "识别假想暖春用于展示不同信号造成的时间差。",
-        "answer_evidence": "But imagine a spring when warm weather arrives unusually early.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "imagine明确是假设暖春，花早虫照常展示时间分离；不是命名实测、共同延长或相同响应。保留假设与事实区别。",
+        "answer_evidence": "The flowers open earlier, while the insects appear close to their usual date.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -277,17 +277,17 @@
         "explanation": "读懂：问怎样研究时间配合；“throughout the season”是整个季节持续记录。\n解析：要比较双方活动期及多年变化。单次花数不能呈现时间重合；单年的首只昆虫漏掉花期与持续活动；鸟种名单改成了另一个对象组合。\n下次：研究问题含时间关系，就记录双方的时间序列，再查次数和对象是否足够。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "推断",
-          "研究设计"
+          "研究方法",
+          "信息整合"
         ],
         "vocabulary": [
           "flowering"
         ],
-        "rationale": "从重合时间的研究目标推导双对象跨季记录方案。",
+        "rationale": "跨季比较花期与昆虫活动是材料直接给出的研究办法，答题需对应双方及时间范围但无需困难推断；降为适中，原解析保留。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
         "answer_evidence": "You would record flowering dates and insect activity throughout the season, ideally over several years.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -321,9 +321,9 @@
         "vocabulary": [
           "replica"
         ],
-        "rationale": "概括原件与可操作模型的互补教育功能。",
+        "rationale": "原件保历史实物、模型演示使用过程，两项功能互补；其余项颠倒功能、错误比较可靠性或要求取代。解析清楚，保留。",
         "answer_evidence": "One preserves direct evidence from the past; the other helps visitors explore an action that the protected object can no longer safely demonstrate.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -357,9 +357,9 @@
         "vocabulary": [
           "resistance"
         ],
-        "rationale": "将操作努力的展示目标与模型阻力对应。",
-        "answer_evidence": "The replica should match the relevant features of the original, such as its size and the resistance a user would feel.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "问题限定操作费力程度，所以阻力比木材年代、漆色、展示位置直接相关；答案唯一，解释按活动目标区分特征。",
+        "answer_evidence": "such as its size and the resistance a user would feel.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -393,9 +393,9 @@
         "vocabulary": [
           "mechanism"
         ],
-        "rationale": "从材料和机构可改变体验推断演示不能等同历史操作。",
+        "rationale": "简化机构可能改变体验是明示限制，不代表漆色能修复动作或模型能断代。当前适中标签与谨慎may结论恰当。",
         "answer_evidence": "Modern wood or a simplified mechanism could change the experience.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -428,9 +428,9 @@
         "vocabulary": [
           "fragile"
         ],
-        "rationale": "识别问题、补充展示工具、局限说明的组织链。",
+        "rationale": "通读全组确认依次为易损原件的展示难题、复制品方法、材料及机构局限，再强调互补；无历史演变和调查。保留结构题。",
         "answer_evidence": "The two displays answer different questions.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -464,9 +464,9 @@
         "vocabulary": [
           "deposition"
         ],
-        "rationale": "归纳外岸移除与内岸堆积共同引起河道位移。",
+        "rationale": "外岸侵蚀与内岸沉积共同让弯道侧移；干扰错置内岸作用、稳定效果、恒速假设，原解析完整。",
         "answer_evidence": "These two processes work together, shifting the channel sideways over time.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -500,9 +500,9 @@
         "vocabulary": [
           "gravel"
         ],
-        "rationale": "定位内岸流速降低与沙砾沉降的对应。",
-        "answer_evidence": "Near the inner bank, slower water can drop sand and gravel, a process called deposition.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "内岸慢水沉积沙砾明确；选项区分外岸机制和两岸同时但不同过程。基本细节题保留。",
+        "answer_evidence": "Near the inner bank, slower water can drop sand and gravel",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -535,9 +535,9 @@
         "vocabulary": [
           "transparent"
         ],
-        "rationale": "识别叠图用于展示时间变化而非处理河流本身。",
+        "rationale": "透明年图叠放只直观比较岸线位移，不能仅凭宽度算流速或预测恒速。原解释没有超出材料，保留。",
         "answer_evidence": "Place the sheets on top of one another, and the shifting bend becomes visible.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -571,9 +571,9 @@
         "vocabulary": [
           "corridor"
         ],
-        "rationale": "把河道会移动且速度不恒定的原则用于路径选址。",
+        "rationale": "把河道动态边界用于新步道选址，需联系冲淤、洪水导致的不恒速变化和今日水线局限。唯一审慎结论是安全性会变，保留。",
         "answer_evidence": "The space a river may occupy matters as well as the space it occupies now.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -606,9 +606,9 @@
         "vocabulary": [
           "magnifying"
         ],
-        "rationale": "对应清晰度改善与信息年代不变两层关系。",
+        "rationale": "旧信类比对应清楚程度与消息年代的分离，不涉及可靠性高低或替换观测；三项错因已明说。",
         "answer_evidence": "The glass helps you see the writing; it doesn't update the news.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -642,9 +642,9 @@
         "vocabulary": [
           "light-year"
         ],
-        "rationale": "依据直接定义区分距离、时间、亮度与次数。",
+        "rationale": "光年定义清楚为距离，亮度、次数、持续时间均换测量量；基础定义题可保留，非靠冷门天文知识。",
         "answer_evidence": "A light-year is a distance, the distance light travels in one year.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -678,9 +678,9 @@
         "vocabulary": [
           "fainter"
         ],
-        "rationale": "整合传播时延和观测清晰度无法消除时延的区别。",
+        "rationale": "全文中心为传播时延让观察显示过去，大镜收光不改变这点；其余选项把亮度、放大能力或传播时间关系扭曲。",
         "answer_evidence": "Distance gives astronomy a built-in view of the past.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -706,7 +706,7 @@
         "explanation": "读懂：问由距离差能推什么；“left that star”指星光离开恒星的时刻。\n解析：同一时刻收到的光，较远者走得更久，所以更早出发。距离不能决定恒星生命阶段；望远镜不能消除两者时差；较远也不意味着光速更快。\n下次：推断传播时差时固定接收时刻，再比较路程，检查是否混入天体年龄或速度变化。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "推断",
           "时间关系"
@@ -714,9 +714,9 @@
         "vocabulary": [
           "observations"
         ],
-        "rationale": "把固定光速和传播距离的关系应用于同时观测两颗星。",
+        "rationale": "由固定光速传播与同一接收时刻推远者更早出发，只需一步应用；不需要恒星年龄或专业计算，调为适中，原解释已分清。",
         "answer_evidence": "The light entering our telescope tonight left that star one hundred years ago.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -750,9 +750,9 @@
         "vocabulary": [
           "desire path"
         ],
-        "rationale": "兼顾自发路径的需求线索价值和代表性、场地限制。",
+        "rationale": "草地足迹提示需求而不自动要求铺路，还要研究积水、根系及无足迹人群。主旨唯一，原解释兼顾价值和限制。",
         "answer_evidence": "So designers should combine the physical trace with observations and conversations.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -786,9 +786,9 @@
         "vocabulary": [
           "diagonally"
         ],
-        "rationale": "连接对角捷径与原规划漏掉的通行联系。",
+        "rationale": "自发斜路显示规划漏掉直达需求，不能推出所有人偏好或轮椅可用。基础行为推断有完整材料证据。",
         "answer_evidence": "It can reveal a connection that the original design overlooked.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -822,9 +822,9 @@
         "vocabulary": [
           "wheelchair"
         ],
-        "rationale": "说明已有足迹不能代表所有用户的需要。",
+        "rationale": "轮椅者走长路可能是被迫，足迹遗漏其需求；例子作用与三种错误推广已说清。",
         "answer_evidence": "Someone using a wheelchair may have been forced to take the longer sidewalk and left no visible track.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -858,9 +858,9 @@
         "vocabulary": [
           "shortcut"
         ],
-        "rationale": "区分连接需求与危险现有路径，推导替代设计。",
+        "rationale": "积水情境要求保留直达需求同时另找安全路线，整合证据价值和实施限制；另外三项分别过信、否认或丢弃证据。保留。",
         "answer_evidence": "It's which connection people need, and how to provide it safely for a wider range of users.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -894,9 +894,9 @@
         "vocabulary": [
           "closure"
         ],
-        "rationale": "从语法、声音及视觉线索归纳话轮协调主题。",
+        "rationale": "语法、语调、目光及通信延迟共同解释轮流接话，不是防止停顿、抢控制权或喜欢重叠。原主旨说明保留。",
         "answer_evidence": "These signals often work together.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -930,9 +930,9 @@
         "vocabulary": [
           "unfinished"
         ],
-        "rationale": "定位未完成的语法结构对停顿解释的限制。",
+        "rationale": "未完句法说明仍有后文，不能仅凭停顿判断让出话轮；另项挪用完整问句、臆造换话题或目光。原说明具体。",
         "answer_evidence": "The unfinished grammar tells you more words are probably coming.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -958,17 +958,17 @@
         "explanation": "读懂：问延迟电话中同时开口能推什么；“neither intended to interrupt”是双方都未打算打断。\n解析：看不到目光又有时延，可能误判接话时机。双方想控制谈话擅加动机；句子必须未完把一个例子变必要条件；忽略可见邀请与电话缺少视觉线索矛盾。\n下次：同时发生的行为先查环境限制，再判断意图，排除带必然动机的推断。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "推断",
+          "原因",
           "行为与意图"
         ],
         "vocabulary": [
           "overlap"
         ],
-        "rationale": "利用视觉线索缺失和时延解释非故意的同时发言。",
-        "answer_evidence": "Two people may start together even though neither intended to interrupt.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "电话缺视觉、回复延迟导致同时开口且无打断意图，材料已直接展开这条因果，不应标困难推断；改适中并保留完整解释。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
+        "answer_evidence": "You lose the visual cue, and the timing of the reply changes.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1002,9 +1002,9 @@
         "vocabulary": [
           "interruption"
         ],
-        "rationale": "区分可听见的重叠现象与需要上下文判断的交际意图。",
+        "rationale": "重叠是声学现象，抢话多了控制意图；区分旨在防止仅凭声音判断社会含义。原解析恰当，不宣称录音无用。",
         "answer_evidence": "The sound pattern alone doesn't settle the social meaning.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1038,9 +1038,9 @@
         "vocabulary": [
           "decomposition"
         ],
-        "rationale": "依据空气通道机制概括材料结构对分解条件的作用。",
+        "rationale": "成分与堆放结构共同影响微生物的水氧条件；其余选项夸大压实、加水或引入未比大小。解释明确。",
         "answer_evidence": "The point is that what a pile contains and how those contents are arranged both matter.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1074,9 +1074,9 @@
         "vocabulary": [
           "oxygen"
         ],
-        "rationale": "直接检查水占据空隙阻碍氧气到达内部的关系。",
+        "rationale": "湿且压紧填塞空气通道，氧气不易进入；干燥、气孔扩大、氧气过多均反转原机制，保留。",
         "answer_evidence": "Oxygen then has trouble reaching the interior.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1110,9 +1110,9 @@
         "vocabulary": [
           "compressing"
         ],
-        "rationale": "识别保持配方和湿度一致用于比较堆放结构。",
-        "answer_evidence": "we could prepare two containers with the same ingredients and moisture level, leaving one loosely packed and compressing the other.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "配料和湿度相同，把松紧安排作为主要比较项；不意味着湿度无效或速率必同。合理实验理解，保留。",
+        "answer_evidence": "two containers with the same ingredients and moisture level, leaving one loosely packed and compressing the other.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1146,9 +1146,9 @@
         "vocabulary": [
           "coarser"
         ],
-        "rationale": "结合过湿与压实状态，应用通气而非继续增湿的解释。",
-        "answer_evidence": "Mixing in coarser dry material can help keep passages open, while turning the pile brings material into contact with fresh air.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "情境已湿透压实，应改善通气，另外三项加压或加湿使问题更重。原解释把措施与故障相连。",
+        "answer_evidence": "Mixing in coarser dry material can help keep passages open",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1182,9 +1182,9 @@
         "vocabulary": [
           "projection"
         ],
-        "rationale": "整合投影不可兼顾全部性质与任务适配的评价原则。",
-        "answer_evidence": "It's one whose choices fit the reader's task and whose limitations are understood.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "曲面投影无法保全部关系，应按面积或导航任务评价；局部图、印刷清晰及保角选项均过度推广。原解释保留。",
+        "answer_evidence": "ask what it was designed to show.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1217,9 +1217,9 @@
         "vocabulary": [
           "curved"
         ],
-        "rationale": "将橘皮铺平的难处映射到曲面与平面的转换。",
-        "answer_evidence": "That gives you a sense of the problem mapmakers face when representing a curved world on a flat sheet.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "橘皮从曲到平演示投影难题，干扰反向转换或误把缩放当消除变形；定义与类比通俗自足。",
+        "answer_evidence": "Try flattening the peel of an orange without tearing or stretching it.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1253,9 +1253,9 @@
         "vocabulary": [
           "proportional"
         ],
-        "rationale": "区分面积比例与位置、边界复杂度和角度。",
+        "rationale": "二倍真实面积对应二倍图面面积，另外三项混入角度、边界复杂度和中心距离；无额外数学门槛，保留简单题。",
         "answer_evidence": "a region twice as large on Earth occupies twice as much space on the map.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1289,9 +1289,9 @@
         "vocabulary": [
           "distortion"
         ],
-        "rationale": "用具体报告任务应用保面积投影的选择原则。",
+        "rationale": "比较国土大小需保相对面积，可接受形状变化；印刷、局部角度或北方国家放大不能回应任务。当前适中合理。",
         "answer_evidence": "If we're comparing how much land different countries contain, an area-preserving map helps answer that question.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1325,9 +1325,9 @@
         "vocabulary": [
           "syncopation"
         ],
-        "rationale": "归纳稳定脉动与偏离预期的重音之间的关系。",
-        "answer_evidence": "We're separating the underlying pulse from the placement of emphasis.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "错位重音以稳定拍子作参照而形成切分，不要求加速、替代鼓声或消除合奏张力。概念原文释义充分。",
+        "answer_evidence": "This is one way to create syncopation, an emphasis where the listener doesn't normally expect it.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1361,9 +1361,9 @@
         "vocabulary": [
           "accents"
         ],
-        "rationale": "识别听觉预期是感知错位重音的基础。",
+        "rationale": "规律提供预期，偏离才突出；不能把偏离当规律或把重音位置当速度。原解析解释作用和错误映射。",
         "answer_evidence": "a listener needs some sense of a regular pattern to hear the surprise.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1396,9 +1396,9 @@
         "vocabulary": [
           "pulse"
         ],
-        "rationale": "对应先听稳定低音再听人声的比较性练习目的。",
+        "rationale": "先追低音再听歌声是听辨重音与拍子的比较方法，不是音量、失误或演出分开要求。清楚的练耳目的题保留。",
         "answer_evidence": "Comparing the two makes the displaced accents easier to notice.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1432,9 +1432,9 @@
         "vocabulary": [
           "unpredictable"
         ],
-        "rationale": "根据规律参照的作用推断所有声部失序后反差难辨。",
+        "rationale": "全部不可预测会削弱参照，错位反差更难辨；不必变快、不再有稳定低音、也非全部同拍。保留有条件结论。",
         "answer_evidence": "If every part becomes unpredictable at once, the contrast can be harder to hear.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1468,9 +1468,9 @@
         "vocabulary": [
           "insulation"
         ],
-        "rationale": "整合蓬松、静止空气和减缓散热的因果链。",
+        "rationale": "保温来自羽层排列留住静止空气，不是颜色、增重或羽毛产热；材料解释隔热术语，原三行完整清楚。",
         "answer_evidence": "It shows how changing the arrangement of a covering can change the movement of heat through it.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1504,9 +1504,9 @@
         "vocabulary": [
           "retain"
         ],
-        "rationale": "依据明确说明区分热源与隔热层。",
+        "rationale": "身体才是热源，空气和羽毛减慢流失；答案明确，另三项将保存混同产生，原解释保留。",
         "answer_evidence": "The feathers don't manufacture heat; they help retain heat the body produces.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1540,9 +1540,9 @@
         "vocabulary": [
           "compressed"
         ],
-        "rationale": "把空气隔热机制应用于层间空气减少的情境。",
+        "rationale": "留气减少可能降低隔热能力，需结合空气作用与压扁后果；材料不变不代表结构作用不变。现有适中题合理。",
         "answer_evidence": "If the layers are compressed or badly disrupted, they may hold less still air.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1565,7 +1565,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问夹克类比有什么用；“air held within it”是被保留在内部的空气。\n解析：熟悉的夹克帮助理解羽毛层留气保暖。把布厚当热源混淆保存与产生；比较布和羽毛产热也错把隔热层当热源；压紧更保暖则忽略空气减少的后果。\n下次：生活类比题提取共同机制，再检查是否误把隔热层当成产热装置。"
+        "explanation": "读懂：问夹克类比有什么用。air held within it 是“留在夹克内部的空气”。\n解析：夹克和羽毛都靠内部空气减慢散热，熟悉的衣服帮助理解鸟的保温方式。重点不是布料厚重，也不是比较谁产热；把覆盖层压紧还可能挤走空气，不能因此断定更保暖。\n下次：遇到生活类比，先找两者相同的工作方式，再检查选项是否只抓外形、重量或换了机制。"
       },
       "review": {
         "difficulty": "easy",
@@ -1575,9 +1575,9 @@
         "vocabulary": [
           "fabric"
         ],
-        "rationale": "将夹克保留空气的机制与羽毛保温相连。",
+        "rationale": "类比核心为留气减慢散热；修改“布厚当热源”的过窄解释，准确区分原选项的厚度强调和材料产热，其他内容保留。",
         "answer_evidence": "Much of its usefulness comes from the air held within it, not simply from the weight of the fabric.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1611,9 +1611,9 @@
         "vocabulary": [
           "sightline"
         ],
-        "rationale": "概括布景表现与不同位置观看条件的协调。",
+        "rationale": "舞台布景表现剧情与多个座位的可见性必须兼顾；其余选项只保一方目标。原说明给出具体取舍，保留。",
         "answer_evidence": "The task is to coordinate what the stage represents with what spectators can actually see.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1647,9 +1647,9 @@
         "vocabulary": [
           "spectator"
         ],
-        "rationale": "直接识别中心可见不代表侧面可见的空间差异。",
+        "rationale": "中央可见不代表侧席可见，门宽、演员路线和模型比例是不同问题；答案唯一且原解释逐项区分。",
         "answer_evidence": "Scenery that looks harmless from the center can block that line from seats near the sides.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1683,9 +1683,9 @@
         "vocabulary": [
           "platforms"
         ],
-        "rationale": "依据模型可移动布景来识别建造前检查的价值。",
-        "answer_evidence": "In a small model of the stage, they can move walls and platforms before anything is built at full size.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "小模型允许实建前移动墙台检验视线，不能取消布景目标或假定单一观众位置。原解释完整。",
+        "answer_evidence": "they can move walls and platforms before anything is built at full size.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1719,9 +1719,9 @@
         "vocabulary": [
           "scenery"
         ],
-        "rationale": "对比局部调整和完全移除，识别兼顾两个目标的收益。",
+        "rationale": "旋转书柜兼顾侧席视线及场景氛围，既不继续遮挡也不将书柜变焦点；材料直接给出双目标，保留适中。",
         "answer_evidence": "Turning it slightly might preserve the intended room design while opening the view.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1755,9 +1755,9 @@
         "vocabulary": [
           "emulsion"
         ],
-        "rationale": "整合形成液滴与防止液滴聚合对混合稳定性的作用。",
-        "answer_evidence": "The useful result is a slower return to separate layers, not simply a smoother appearance just after shaking.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "摇动形成分散油滴，乳化剂延缓聚合再分层；主旨是稳定时间而非营养或永久转化，术语文内解释。",
+        "answer_evidence": "The useful result is a slower return to separate layers",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1791,9 +1791,9 @@
         "vocabulary": [
           "emulsifier"
         ],
-        "rationale": "直接识别乳化剂减缓液滴聚合的作用环节。",
-        "answer_evidence": "Mustard contains substances that help keep the droplets from joining, so the mixture can remain blended longer.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "芥末帮助液滴不聚合，非把油去掉、水变油或免摇匀。原因果和三项错因已清楚。",
+        "answer_evidence": "Mustard contains substances that help keep the droplets from joining",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1819,7 +1819,7 @@
         "explanation": "读懂：问刚摇完同样均匀能说明多少；“over time”指随时间推移。\n解析：瞬间外观不能判定维持多久，还要追踪分层。芥末无后效把当前相同当未来相同；乳化剂等量无法从外观推出；不必再观察恰好漏掉稳定性的时间维度。\n下次：稳定性题看到一次结果，先问能维持多久，再检查是否已有跨时证据。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "推断",
           "证据限度"
@@ -1827,9 +1827,9 @@
         "vocabulary": [
           "stability"
         ],
-        "rationale": "区分即时外观与需要持续观察的混合稳定性。",
-        "answer_evidence": "we're investigating the stability of the mixture over time.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "即时外观不足判断保持混合多久，原文已明说需随时间观察；仅将该限制应用于两瓶同样平滑，降为适中并保留解析。",
+        "answer_evidence": "because we're investigating the stability of the mixture over time.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1863,9 +1863,9 @@
         "vocabulary": [
           "droplets"
         ],
-        "rationale": "保持处理时长一致，使加芥末成为主要比较变量。",
-        "answer_evidence": "we could compare two equal mixtures, adding mustard to only one and shaking both for the same length of time.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "固定摇动时长避免另一个分层影响因素，让芥末差异可比较；不保证预定结果，也不是比较口味。原解释完整。",
+        "answer_evidence": "adding mustard to only one and shaking both for the same length of time.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1899,9 +1899,9 @@
         "vocabulary": [
           "glacier"
         ],
-        "rationale": "区分冰体运动和冰川末端位置变化。",
-        "answer_evidence": "Individual pieces of ice can still be moving downhill throughout that process.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "冰体运动与前端边界位置为不同对象，下流与上退可并存；另外三项混淆速度、停止条件或增减范围，原解析保留。",
+        "answer_evidence": "a glacier can move downhill while its front edge retreats uphill.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1935,9 +1935,9 @@
         "vocabulary": [
           "melting"
         ],
-        "rationale": "定位末端退缩取决于当地损失超过流动补给。",
+        "rationale": "末端融化快于补给才退缩，不能倒置比例或把上部积雪、整川停流当同一条件。答案可直接从局部收支得出。",
         "answer_evidence": "If melting removes ice faster than flowing ice replaces it there, the end of the glacier shifts uphill.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1971,9 +1971,9 @@
         "vocabulary": [
           "conveyor"
         ],
-        "rationale": "识别传送带只类比输送与融失，不类比动力来源。",
-        "answer_evidence": "Still, it helps us separate movement from loss.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "传送带保持前送但冰块融化导致末端后撤，类比只迁移移动与损失的分离，不迁移机器和固定速度。原解释合适。",
+        "answer_evidence": "it helps us separate movement from loss.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1999,17 +1999,16 @@
         "explanation": "读懂：问只画末端位置为何不够；“One measurement cannot stand in for the other”是两种测量不能互相代替。\n解析：边界可退而冰体仍前进，只测末端不能直接知道冰体运动。只有追标记能知退缩否认末端地图的用途；测得流入速度调换测量对象；与标记信息相同又混同物体和边界。\n下次：测量充分性题把每种数据配到对象，再检查未测的变量是否被擅自推出。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "推断",
-          "测量边界"
+          "测量对象"
         ],
         "vocabulary": [
           "markers"
         ],
-        "rationale": "从边界与物质运动的区别推断需要独立测量。",
-        "answer_evidence": "researchers can track markers on the ice and also map the end position.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "材料明说测端点与追踪冰标记不能替代，对题目只需将测量与对象相配；不构成困难推断，降适中，保留解释。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
+        "answer_evidence": "researchers can track markers on the ice and also map the end position. One measurement cannot stand in for the other.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2043,9 +2042,9 @@
         "vocabulary": [
           "sunk cost"
         ],
-        "rationale": "概括不可收回投入不应独立决定后续选择的原则。",
-        "answer_evidence": "The decision should compare what happens from this point onward: the work still needed and the value of each finished set.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "沉没成本不可追回但经验可影响未来，主旨是比较未来结果；不是永远换简方案或否定学习价值。原说明无经济知识门槛。",
+        "answer_evidence": "The decision should compare what happens from this point onward",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2079,9 +2078,9 @@
         "vocabulary": [
           "recovered"
         ],
-        "rationale": "用两个方案下均无法取回的时间解释沉没性质。",
+        "rationale": "六下午在两种选择下都已过去，不能和未来一下午、四下午相加混同。基础定义题唯一且解释具体。",
         "answer_evidence": "The six afternoons are gone whichever design the group chooses.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2115,9 +2114,9 @@
         "vocabulary": [
           "technique"
         ],
-        "rationale": "避免把忽略沉没投入扩大成忽略一切历史经验。",
+        "rationale": "先前经验可能用于新方案，区别时间不可追回与知识仍有价值；另三项错误限定使用对象、学习时点或省时数量。",
         "answer_evidence": "That knowledge can affect the future and belongs in the comparison.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2143,17 +2142,16 @@
         "explanation": "读懂：问继续原方案的合理依据；“future benefits”是今后能得到的好处。\n解析：若未来价值足以支持剩余投入，继续可以合理。想追回六个下午不能改变时间不可回收；先被选中只是历史顺序；承认过去付出也没有比较两种未来结果。\n下次：评估坚持理由时看它能否改变未来收益或代价，再排除只描述既往投入的理由。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "推断",
-          "原则应用"
+          "决策依据"
         ],
         "vocabulary": [
           "benefits"
         ],
-        "rationale": "依据末句的条件性支持判断继续项目的有效理由。",
-        "answer_evidence": "Continuing can be sensible when future benefits support it, but having started is not enough to show that finishing is the best choice.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "继续原方案需未来收益支持剩余投入，结尾直接说明；此题辨别合理依据而非复杂推断，降适中。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
+        "answer_evidence": "Continuing can be sensible when future benefits support it",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2187,9 +2185,9 @@
         "vocabulary": [
           "refrain"
         ],
-        "rationale": "整合固定复句的支撑作用与表演可变性。",
+        "rationale": "复句固定、细节按观众反应变化，两者并存；主旨不能推广到每字相同或否定互动。原解析保留。",
         "answer_evidence": "The refrain can remain stable while the surrounding details change.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2223,9 +2221,9 @@
         "vocabulary": [
           "episode"
         ],
-        "rationale": "定位复句给讲者组织后续情节的时间功能。",
+        "rationale": "复句给讲述者组织下一段的时间，区别于观众重读、固定时长或忽略反应；题目对象和解释对应。",
         "answer_evidence": "It can also give the teller a moment to prepare the next episode.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2259,9 +2257,9 @@
         "vocabulary": [
           "restless"
         ],
-        "rationale": "将按观众缩短描述与保留复句合并，判断为有稳定结构的现场适应。",
-        "answer_evidence": "The refrain can remain stable while the surrounding details change.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "情境直接体现稳定位点与可变细节相配，保留复句不等于失效或书面固化。适中应用标签合理。",
+        "answer_evidence": "The teller might shorten one description for a restless audience",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2294,9 +2292,9 @@
         "vocabulary": [
           "transcript"
         ],
-        "rationale": "识别特征介绍、功能与变化说明、研究记录方法的顺序。",
-        "answer_evidence": "A recording, together with notes about the event, can reveal those features.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "讲座从反复句现象到用途与变化，再到录音和现场笔记研究；三次拜访是故事情节而非三篇作品，结构解释完整。",
+        "answer_evidence": "So we should examine oral storytelling as an interaction unfolding in time",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2330,9 +2328,9 @@
         "vocabulary": [
           "dormant"
         ],
-        "rationale": "概括休眠种子需要特定先后条件且具有物种差异。",
+        "rationale": "休眠的活种子需特定条件顺序，冷后暖适用于部分种类；没有把所有延迟都等同死亡。定义、机制和结论限制清楚。",
         "answer_evidence": "Notice the order of the signals: cold first, then warmth.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2366,9 +2364,9 @@
         "vocabulary": [
           "germination"
         ],
-        "rationale": "连接温度顺序要求与减少秋末过早萌发风险。",
+        "rationale": "先冷后暖帮助避免冬前短暖诱发萌发，不保证同步或免水，原解析准确区分生态作用。",
         "answer_evidence": "This sequence can help prevent a seed released in autumn from starting during a brief warm spell just before winter.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2394,17 +2392,16 @@
         "explanation": "读懂：问实验能支持到哪一层；“for this batch”是限于这一批种子。\n解析：两组后期同样温暖，差别支持前期冷处理的作用。推到所有植物扩大样本范围；后期温暖无用未被单独检验；未冷组全死不能由没发芽直接判定。\n下次：实验结论先划物种、批次和被改变的条件，再检查选项有没有跨出这三条边界。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "推断",
-          "研究范围"
+          "实验结论范围"
         ],
         "vocabulary": [
           "chilled"
         ],
-        "rationale": "限定实验支持的处理效应，排除跨物种泛化和死亡推断。",
+        "rationale": "实验结论及该批次范围在原文明确给出；辨别死种、全物种、无暖需求三个过度结论属适中，不应虚标困难。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
         "answer_evidence": "the result would support the role of that earlier cold period for this batch.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2437,9 +2434,9 @@
         "vocabulary": [
           "requirements"
         ],
-        "rationale": "识别纠正初始推断、给机制、提出有范围限制的验证路径。",
-        "answer_evidence": "It wouldn't show that every plant needs the same treatment.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "开头否定没萌发就死亡，再解释条件顺序，设计有限对照；未报告疾病诊断和产量计算，原结构说明保留。",
+        "answer_evidence": "If a seed doesn't sprout after a few days in a warm pot, is it dead? Not necessarily.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2473,9 +2470,9 @@
         "vocabulary": [
           "expansion joint"
         ],
-        "rationale": "归纳允许热变形以维护结构稳定的原理。",
-        "answer_evidence": "a structure can achieve stability by allowing controlled change rather than by making every connection completely rigid.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "伸缩缝允许热变避免内部力累积，体现稳定依赖受控移动；不能等同误测、恒温或绝对刚性。原解析清楚。",
+        "answer_evidence": "a structure can achieve stability by allowing controlled change",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2509,9 +2506,9 @@
         "vocabulary": [
           "slide"
         ],
-        "rationale": "识别覆盖通行面与下部滑动可同时实现。",
-        "answer_evidence": "In some designs, a cover lets traffic cross the opening while parts beneath it slide.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "盖板让交通通行而下层滑动，不是恒温或免维护装置；答案保留同时两项作用，原解释准确。",
+        "answer_evidence": "a cover lets traffic cross the opening while parts beneath it slide.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2545,9 +2542,9 @@
         "vocabulary": [
           "debris"
         ],
-        "rationale": "由杂物限制滑动推断温度适应功能受到影响。",
-        "answer_evidence": "They also inspect the joints, because debris or damaged parts can interfere with movement.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "杂物阻挡设计位移会妨碍温差适应，不能视为更坚固或不再需伸缩缝。适中机制应用保留。",
+        "answer_evidence": "debris or damaged parts can interfere with movement.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2580,9 +2577,9 @@
         "vocabulary": [
           "rigid"
         ],
-        "rationale": "从表面异常、机制说明上升到一般工程设计原则。",
-        "answer_evidence": "The larger principle is that a structure can achieve stability by allowing controlled change",
-        "reviewed_on": "2026-09-27"
+        "rationale": "以看似缺陷的桥缝引入热胀冷缩，再概括受控变化原则；无费用、材料排行或维护排名，原解释完整。",
+        "answer_evidence": "They aren't necessarily signs that the builders measured badly.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2616,9 +2613,9 @@
         "vocabulary": [
           "pixels"
         ],
-        "rationale": "区分数字显示插值与新增观测信息。",
+        "rationale": "插值可改善呈现却无新增实拍数据，既不等同真实性也不必完全无用。主旨保留双面范围。",
         "answer_evidence": "More pixels can change how an image looks without increasing what we know about the scene.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2652,9 +2649,9 @@
         "vocabulary": [
           "interpolation"
         ],
-        "rationale": "依据定义识别新像素的计算来源。",
+        "rationale": "插值从已有像素估算颜色，不是新拍摄、核实未知细节或扩充原始观察；基础定义题解释恰当。",
         "answer_evidence": "it can add pixels by estimating values between the existing ones.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2687,9 +2684,9 @@
         "vocabulary": [
           "mosaic"
         ],
-        "rationale": "将平滑外观与不能恢复未观测细节的区别具体化。",
-        "answer_evidence": "you haven't learned which tiny scratches were on the original wall.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "大网格马赛克说明过渡平滑不补墙上小划痕证据，类比限制清楚，原解释逐项排除。",
+        "answer_evidence": "yet you haven't learned which tiny scratches were on the original wall.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2715,7 +2712,7 @@
         "explanation": "读懂：问怎样支持招牌文字的判断；“a separate source”是独立的另一资料来源。\n解析：清楚拍到招牌的新证据能核实文字。同一小图再放大仍同源；增加估计像素没有增加观测；换大屏变平滑只改显示，均不能独立确认原字。\n下次：证据不足时找能独立观察同一对象的资料，再查是否只是重复加工旧数据。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "推断",
           "证据核验"
@@ -2723,9 +2720,9 @@
         "vocabulary": [
           "enlargement"
         ],
-        "rationale": "应用信息来源原则，选择独立实拍而非同源再次处理。",
+        "rationale": "独立清晰照片对应材料明示的更近照片或另一来源，另外三个只是再加工同源数据；证据选择直接，降适中。",
         "answer_evidence": "For that, you might need a closer photograph or a separate source.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2759,9 +2756,9 @@
         "vocabulary": [
           "permeability"
         ],
-        "rationale": "概括孔隙储水能力与孔隙连接控制流动的区别。",
+        "rationale": "储水容量与易流通程度有别，湿样不保证供井速度；材料将孔隙、连通和渗透性解释自足，原说明保留。",
         "answer_evidence": "Storage and movement are related questions, but answering one does not automatically answer the other.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2795,9 +2792,9 @@
         "vocabulary": [
           "pores"
         ],
-        "rationale": "直接定位流动条件是孔隙连通性。",
+        "rationale": "孔隙间连通直接关系流动，湿样和容量只表含水，附近大湖非材料通水证据。答案唯一。",
         "answer_evidence": "For movement, the connections between pores matter.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2830,9 +2827,9 @@
         "vocabulary": [
           "doorways"
         ],
-        "rationale": "以房间与门区分储存空间和连通程度。",
+        "rationale": "同房间空间但门通畅不同类比相近容量而流动不一，不能把门当房间容量或堵门当提速。原解析保留。",
         "answer_evidence": "Similar amounts of room space don't mean equal freedom of movement.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2858,7 +2855,7 @@
         "explanation": "读懂：问湿层放水很慢可能意味着什么；“intended demand”是预计要满足的用水需求。\n解析：有储水不保证输送够快，因此供井速度可能不足。必比所有干层孔隙少无法由湿度推出；湿即够用混淆库存与供给；堵连接更快与通水机制相反。\n下次：资源可用性题同时看存量与释放速度，再检查能否满足具体需求。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "推断",
           "条件应用"
@@ -2866,9 +2863,9 @@
         "vocabulary": [
           "well"
         ],
-        "rationale": "将储量与流量区别用于井的实际供水能力判断。",
+        "rationale": "慢出水层可能赶不上用水需求是末段明确条件的一步应用；保留可能性和库存/供给区别，降为适中。",
         "answer_evidence": "They also need to learn whether water can flow toward the well fast enough to meet the intended demand.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2902,9 +2899,9 @@
         "vocabulary": [
           "Camouflage"
         ],
-        "rationale": "整合背景匹配和观察者感官差异对隐蔽效果的影响。",
+        "rationale": "迷彩效果同时取决于背景和观察者；不能把人类平面找纸蛾推广为全捕食者保护。原解释清楚保留实验条件。",
         "answer_evidence": "What works against one background may stand out against another.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2938,9 +2935,9 @@
         "vocabulary": [
           "outline"
         ],
-        "rationale": "直接理解打散轮廓是花纹降低可见性的一种方式。",
-        "answer_evidence": "A pattern can break up an animal's outline or match features in its surroundings.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "花纹打散轮廓有助隐蔽，但不能替代背景选择或保证各背景同效果；基本机制题材料已说明。",
+        "answer_evidence": "A pattern can break up an animal's outline",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2966,17 +2963,16 @@
         "explanation": "读懂：问找得较慢能得出什么结论；“those observers”限于参加观察的那些人。\n解析：数据只支持人在该图片中更难发现。所有天敌防护扩大对象；嗅觉无关超出纯视觉实验；真实寿命更长且不受运动影响把搜索时间升级为生存保证。\n下次：模拟实验结论列出对象、场景和测量指标，再核对是否越界到真实生存结果。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "推断",
-          "实验边界"
+          "实验结论范围"
         ],
         "vocabulary": [
           "predator"
         ],
-        "rationale": "限定纸片搜寻任务支持的人类视觉检测结论。",
-        "answer_evidence": "we can conclude that it was harder for those observers to detect under those conditions.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "受试者、图片和检测时间的结论范围已由原文明示，选择原文允许的结论无需困难推理，降为适中。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
+        "answer_evidence": "it was harder for those observers to detect under those conditions.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3009,9 +3005,9 @@
         "vocabulary": [
           "concealment"
         ],
-        "rationale": "识别演示、机制解释、实验外推限制的组织方式。",
+        "rationale": "纸蛾演示→迷彩机制→解释边界，未报告世代演变或捕食者排行。原结构说明准确，保留。",
         "answer_evidence": "Our paper exercise also has limits.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3045,9 +3041,9 @@
         "vocabulary": [
           "queue"
         ],
-        "rationale": "区分共享等待结构带来的分配变化与固定服务能力。",
-        "answer_evidence": "The lesson is to distinguish the organization of waiting from the capacity to provide service.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "共享队列分配延迟更公平但不增加每位员工能力，例外为专门窗口；主旨同时保留效果和限制。",
+        "answer_evidence": "A better queue can distribute delays more evenly without creating extra staff",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3081,9 +3077,9 @@
         "vocabulary": [
           "counter"
         ],
-        "rationale": "识别共享队列按下一空闲窗口动态分配顾客。",
+        "rationale": "首位顾客去下一个空闲窗口，与固定分配、复杂窗口、最长分队不同；简单流程题适合保留。",
         "answer_evidence": "The person at its front goes to whichever counter becomes free next.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3106,20 +3102,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问窗口一直忙时合队能否提高总速度；“the same work to do”是工作量仍一样。\n解析：人员和办理时间未变，合队本身不必提高吞吐量。每人必多办预设速度提升；请求全等时抹掉复杂度差异；总速度未升不等于先来顺序更难辨。\n下次：效率推断题先看瓶颈是否改变，再区分总产出、个人等待和公平性。"
+        "explanation": "读懂：问窗口一直忙时，合并队伍会不会让总办理速度提高。the same work to do 是“仍有同样的工作要做”。\n解析：人员和每件业务的办理过程没变，只合队不一定能多办业务。请求也不会因此都变成相同时长；即使总速度没提高，先来先办的顺序仍可能更清楚。\n下次：听效率变化时，分开检查“每件办多快、每人等多久、先后是否公平”，别用其中一项代替其他项。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "推断",
-          "系统边界"
+          "排队与服务能力"
         ],
         "vocabulary": [
           "transactions"
         ],
-        "rationale": "在服务台持续满负荷的条件下区分排队改革和吞吐能力。",
-        "answer_evidence": "If every counter is continuously busy, the same staff still have the same work to do.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "办理速度不变已明示，降适中；用“总办理速度”替代未解释的吞吐量，解释四项对应的不同指标。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
+        "answer_evidence": "But combining lines doesn't make the actual ticket transactions faster.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3153,9 +3148,9 @@
         "vocabulary": [
           "specialist"
         ],
-        "rationale": "说明窗口能力不互换时独立分流可能更合适。",
-        "answer_evidence": "Nor is one queue ideal when some customers need a specialist available at only one counter.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "唯一专员窗口限制任意分配，说明独立路线可能必要；非专家一定快、顺序无用或复杂请求消失。原解释保留。",
+        "answer_evidence": "some customers need a specialist available at only one counter. Then a separate route may be useful.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3189,9 +3184,9 @@
         "vocabulary": [
           "humidity"
         ],
-        "rationale": "整合纸的水分反应与储存、搬移时的环境管理。",
+        "rationale": "湿度变化使纸形状变化，盒子仅缓冲；保存需环境与轻拿并重，原文专业词及时定义，解析完整。",
         "answer_evidence": "Protecting paper therefore involves managing its environment as well as handling its pages carefully.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3225,9 +3220,9 @@
         "vocabulary": [
           "dimensions"
         ],
-        "rationale": "直接定位页面不同区域响应速率不一造成不均匀变形。",
+        "rationale": "各部位吸放湿速度不同导致变形，触摸、全同速和盒子完全阻断均不成立。简单因果题保留。",
         "answer_evidence": "If different parts of a page respond at different rates, the page may become uneven or distorted.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3261,9 +3256,9 @@
         "vocabulary": [
           "buffer"
         ],
-        "rationale": "由缓冲而非永久屏蔽推断长期不良环境仍需处理。",
+        "rationale": "盒子仅延缓而不永久隔离环境，长期不合适仍可能失护；解释正确保留“可能”，不绝对断定破坏时间。",
         "answer_evidence": "It isn't a permanent shield against an unsuitable environment.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3296,9 +3291,9 @@
         "vocabulary": [
           "conservators"
         ],
-        "rationale": "识别材料机制、有限保护、转移环境应用三层推进。",
+        "rationale": "开头损伤机制、中段措施限制、结尾转移环境的应用；其他结构选项误造印刷史、美观比较和具体毁损事件。",
         "answer_evidence": "And when a book is moved to a different space for an exhibition, the change in conditions deserves attention.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3332,9 +3327,9 @@
         "vocabulary": [
           "disturbance"
         ],
-        "rationale": "整合行波、局部往复和实际漂移的区别。",
+        "rationale": "波的传播图样与具体水体或物件的路程不同，原文又保留洋流及净漂移，避免人浪类比过度；解析准确。",
         "answer_evidence": "the traveling pattern and the motion of the water aren't the same thing.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3368,9 +3363,9 @@
         "vocabulary": [
           "stadium"
         ],
-        "rationale": "用人浪区分参与者局部运动与图样长距离传播。",
+        "rationale": "看台人浪表现参与者原地起坐而模式周行；不能把水绝对固定或个体动作当传播路径，原解析具体。",
         "answer_evidence": "People stand up and sit down while the rising pattern moves around the seats.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3404,9 +3399,9 @@
         "vocabulary": [
           "crest"
         ],
-        "rationale": "保留洋流和波引起净运动，避免将类比绝对化。",
+        "rationale": "补充说明真实水能整体移动，否定过度照搬固定座位；洋流不等于波峰，后退动作也有材料支持。",
         "answer_evidence": "Currents can carry it over long distances, and waves can produce some net movement too.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3429,20 +3424,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问怎样判断总体漂移；“overall drift”是经过一段时间后位置的总体变化。\n解析：追踪物体并分开往复与净变化。只测波峰用错对象；单次最高点只有瞬间位置；预设前后完全抵消把待测结果先当事实。\n下次：净位移题比较同一物体跨时位置，再扣除周期动作，检查是否用了别的对象代测。"
+        "explanation": "读懂：问怎样判断漂浮物最终有没有漂走。overall drift 是“一段时间后总体位置的移动”。\n解析：要持续跟踪同一个物体，分清来回起伏和整体位置变化。波峰速度测的是另一对象；某一刻的最高点没有长期信息；前后移动也不能预先认定完全抵消。\n下次：判断是否漂移，记录同一物体一段时间的位置，再检查它是否只是来回重复，还是整体逐渐移向一边。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "推断",
           "测量方法"
         ],
         "vocabulary": [
           "drift"
         ],
-        "rationale": "据波形与物体轨迹不同，选择直接追踪并区分净运动。",
-        "answer_evidence": "we need to follow the object over time and separate its repeated motions from any overall drift.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "原文直接说明测量方法，降适中；避免“扣除周期动作”引入不必要计算，改为易操作的同物跨时位置观察。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
+        "answer_evidence": "follow the object over time and separate its repeated motions from any overall drift.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3476,9 +3470,9 @@
         "vocabulary": [
           "sensory adaptation"
         ],
-        "rationale": "概括感觉变化不必对应外界刺激减少的原理。",
-        "answer_evidence": "Feeling less of something doesn't always mean there is less of it.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "持续刺激下反应会因适应减弱，但其他环境原因也可能存在；主旨恰当，未把感觉变化唯一归源。",
+        "answer_evidence": "Our response to a steady sensory signal can decrease with continued exposure",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3512,9 +3506,9 @@
         "vocabulary": [
           "exposure"
         ],
-        "rationale": "依据离开再返回的例子理解感觉恢复的可能性。",
+        "rationale": "离开再入可恢复同气味显著度，不必源更强或更换；简单细节题已有明确解释。",
         "answer_evidence": "Leaving for a while and returning can make the same smell noticeable again.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3548,9 +3542,9 @@
         "vocabulary": [
           "ventilation"
         ],
-        "rationale": "通过固定气味源和空气流动，聚焦接触时长差异。",
-        "answer_evidence": "imagine two groups entering a room at different times while the odor source and ventilation stay unchanged.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "保持气源和通风减少环境替代解释，实际变化是接触时长；控制条件不等于普遍无作用或保证报告相同。",
+        "answer_evidence": "while the odor source and ventilation stay unchanged.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3576,7 +3570,7 @@
         "explanation": "读懂：问仅凭一人觉得味淡能判定什么；“hasn't necessarily disappeared”是未必真的消失。\n解析：既可能刺激变弱，也可能人适应，资料不足以选定原因。凡味淡必适应扩大规律；诚实感觉不保证外界消失；人未离开也不能排除空气流动。\n下次：单次主观报告先列替代解释，再找能区分它们的证据，检查是否过早定因。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "推断",
           "证据限度"
@@ -3584,9 +3578,9 @@
         "vocabulary": [
           "odor"
         ],
-        "rationale": "保留讲稿明确提出的适应、源减弱和通风等候选机制。",
+        "rationale": "原文逐一给出适应、气源减弱和通风变化，单报告不能定因是直接应用这些已明示备选，降适中。",
         "answer_evidence": "The source may weaken, or moving air may carry the odor away.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3620,9 +3614,9 @@
         "vocabulary": [
           "runoff"
         ],
-        "rationale": "抓住雨水花园暂存径流并促进下渗的核心功能。",
-        "answer_evidence": "The garden briefly holds water while it soaks into the soil, reducing the sudden rush toward drains or streams.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "雨水花园暂留径流再下渗以削弱骤增水流，非永久塘、挡雨或迅速排管；基础功能解释清楚。",
+        "answer_evidence": "The garden briefly holds water while it soaks into the soil",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3656,9 +3650,9 @@
         "vocabulary": [
           "depression"
         ],
-        "rationale": "将景观外观与地面入渗的功能性条件分开。",
-        "answer_evidence": "Plants help hold the soil and use some water, but the soil's ability to absorb water is crucial.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "花卉外观不足保证下渗，土壤和容量才支撑功能；另外三项把暂存改展示、密植改无限容量或倒转缓流目标。",
+        "answer_evidence": "the soil's ability to absorb water is crucial.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3692,9 +3686,9 @@
         "vocabulary": [
           "overflow"
         ],
-        "rationale": "利用排水慢导致久积水的机制判断现场评估重点。",
+        "rationale": "积水过久提示需核排水，不证明功能完成，也不能省溢流；当前适中判断材料支持。",
         "answer_evidence": "If the ground drains very slowly, water may remain longer than intended.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3728,9 +3722,9 @@
         "vocabulary": [
           "downpipe"
         ],
-        "rationale": "说明超过入渗储水能力时需要预设溢流路径。",
+        "rationale": "超容量暴雨用来解释多余水出口，不把超限情景推广为每场永久淹没；原解释保留范围。",
         "answer_evidence": "Designers also consider where excess water will go during a storm larger than the garden can handle.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3764,9 +3758,9 @@
         "vocabulary": [
           "unreliable narrator"
         ],
-        "rationale": "归纳以文本内部差异审视叙述声音的阅读方法。",
+        "rationale": "不可靠叙述者可能误解而非撒谎，读者需对照事实与概括且区分作者；定义和例子可自足作答。",
         "answer_evidence": "we follow the events and also evaluate the voice presenting them.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3800,9 +3794,9 @@
         "vocabulary": [
           "objection"
         ],
-        "rationale": "用被转述的明确批评反驳无人反对的总称判断。",
-        "answer_evidence": "the same writer reports that a neighbor called the plan a waste of the village's money.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "无人反对和邻居批评相冲突，邻居不是概括者也没有赞成省钱；简单矛盾识别题保留。",
+        "answer_evidence": "The writer says nobody objected to a plan. A few lines later, the same writer reports that a neighbor called the plan a waste of the village's money.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3836,9 +3830,9 @@
         "vocabulary": [
           "interpretation"
         ],
-        "rationale": "从真实细节可反驳偏见推断其独立证据价值。",
+        "rationale": "准确细节可反驳叙述者解释，而非保证其每个判断或作者赞同；原解释很好地区分事实与解读。",
         "answer_evidence": "accurate details can allow us to question the writer's interpretation.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3872,9 +3866,9 @@
         "vocabulary": [
           "fictional"
         ],
-        "rationale": "识别概念、假想矛盾例子、阅读方法的推进。",
+        "rationale": "概念→虚构日记矛盾→双层阅读策略，非真实文件鉴定或经济方案决策；原解释明确示例身份。",
         "answer_evidence": "This creates two levels of reading",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3882,35 +3876,36 @@
         "id": "L694",
         "section": "listening",
         "task_type": "listen_academic_talk",
-        "prompt": "What is the main point of the talk?",
+        "prompt": "What is the main purpose of the talk?",
         "response_type": "choice",
-        "audio_text": "A library wants to know whether a new catalog layout helps users find books faster. It lets visitors choose between the old and new versions, then compares search times. The new version wins. Have we shown that its design caused the difference? Not yet. People comfortable with unfamiliar software may have been more likely to choose it, and their experience could explain some of the speed. That's a confounding factor: another difference that could account for the result. Random assignment addresses this problem by using chance to decide which version each participant uses. It prevents participants' preferences from determining the groups. However, chance doesn't guarantee perfectly matched groups in a small study. Researchers can still record prior experience and examine whether it is unevenly distributed. They should also give participants comparable search tasks, because finding a familiar title is different from locating an unfamiliar topic. The goal is to make the layout the clearest difference between the conditions. A faster result becomes more informative when we have reduced other reasonable explanations for it.",
-        "passage_title": "Separating a design effect from a user difference",
+        "audio_text": "Let's use a small, flexible bag to model one feature of a cell membrane. This bag lets water through but keeps dissolved sugar from crossing. That's what selective means here: some substances can pass, and others can't. In our first setup, there's pure water inside the bag and sugar water outside. The pressure starts out equal on both sides. At first, more water leaves the bag than enters it, so the bag gets smaller. Notice that I said more water leaves, not that water moves in only one direction. Individual water molecules cross both ways. The difference between those movements produces the overall change. This net movement of water through a selective membrane is called osmosis. With equal pressure, water initially moves overall toward the side with the higher concentration of sugar that cannot cross. Now let's try a second bag, with matching sugar concentrations inside and outside and equal pressure. Its size stays about the same, although water continues crossing in both directions. So an unchanged bag doesn't mean motion has stopped. We're focusing on what happens at the start of each setup; pressure changes that may develop later would also affect water movement.",
+        "passage_title": "Water movement through a selective membrane",
         "group_id": "listen_academic_talk_43",
         "options": [
-          "Random assignment guarantees identical experience in groups of any size.",
-          "The most popular layout must be the one that makes every task fastest.",
-          "Allowing users to choose a design is enough to show which one causes faster searches.",
-          "Comparing designs requires reducing other explanations for a performance difference."
+          "To show how dissolved sugar passes through a membrane and spreads out.",
+          "To explain how a membrane stops molecular movement at equal concentrations.",
+          "To compare the sizes of bags made from different membrane materials.",
+          "To explain how water movement across a membrane can change a bag's size."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问主旨；“other reasonable explanations”是其他同样可能解释结果的原因。\n解析：需控制用户背景和任务差异，才更能判断版式作用。自由选择足够忽视自选偏差；随机必完全匹配夸大保证；最受欢迎等于每项最快混淆偏好与效率。\n下次：比较效果题先列可能同时变化的因素，再检查是否真能把结果归给目标因素。"
+        "explanation": "读懂：问讲座主要解释什么；“net movement”是两边流动相抵后，水总体往哪边走。\n解析：两个袋子分别变小和基本不变，都是用水的进出量解释体积变化。糖不能穿膜；浓度相同也不代表水停止运动；两个实验没有比较不同膜材料。\n下次：听完各个实验，找它们共同解释的现象，再检查选项是否把水、糖或膜的作用说反。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
           "主旨",
-          "因果识别"
+          "机制理解"
         ],
         "vocabulary": [
-          "confounding factor"
+          "selective",
+          "osmosis"
         ],
-        "rationale": "整合自选、先验经验和任务难度对设计效果判断的干扰。",
-        "answer_evidence": "A faster result becomes more informative when we have reduced other reasonable explanations for it.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "两个袋子分别变小和基本不变，都是用水的进出量解释体积变化。糖不能穿膜；浓度相同也不代表水停止运动；两个实验没有比较不同膜材料。",
+        "answer_evidence": "The difference between those movements produces the overall change.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3918,35 +3913,35 @@
         "id": "L695",
         "section": "listening",
         "task_type": "listen_academic_talk",
-        "prompt": "Why might the visitors' initial choices distort the comparison?",
+        "prompt": "What happens to the first bag at the beginning of the demonstration?",
         "response_type": "choice",
-        "audio_text": "A library wants to know whether a new catalog layout helps users find books faster. It lets visitors choose between the old and new versions, then compares search times. The new version wins. Have we shown that its design caused the difference? Not yet. People comfortable with unfamiliar software may have been more likely to choose it, and their experience could explain some of the speed. That's a confounding factor: another difference that could account for the result. Random assignment addresses this problem by using chance to decide which version each participant uses. It prevents participants' preferences from determining the groups. However, chance doesn't guarantee perfectly matched groups in a small study. Researchers can still record prior experience and examine whether it is unevenly distributed. They should also give participants comparable search tasks, because finding a familiar title is different from locating an unfamiliar topic. The goal is to make the layout the clearest difference between the conditions. A faster result becomes more informative when we have reduced other reasonable explanations for it.",
-        "passage_title": "Separating a design effect from a user difference",
+        "audio_text": "Let's use a small, flexible bag to model one feature of a cell membrane. This bag lets water through but keeps dissolved sugar from crossing. That's what selective means here: some substances can pass, and others can't. In our first setup, there's pure water inside the bag and sugar water outside. The pressure starts out equal on both sides. At first, more water leaves the bag than enters it, so the bag gets smaller. Notice that I said more water leaves, not that water moves in only one direction. Individual water molecules cross both ways. The difference between those movements produces the overall change. This net movement of water through a selective membrane is called osmosis. With equal pressure, water initially moves overall toward the side with the higher concentration of sugar that cannot cross. Now let's try a second bag, with matching sugar concentrations inside and outside and equal pressure. Its size stays about the same, although water continues crossing in both directions. So an unchanged bag doesn't mean motion has stopped. We're focusing on what happens at the start of each setup; pressure changes that may develop later would also affect water movement.",
+        "passage_title": "Water movement through a selective membrane",
         "group_id": "listen_academic_talk_43",
         "options": [
-          "Choosing freely makes search times independent of prior software experience.",
-          "The old version is tested by librarians while visitors test the new one.",
-          "More experienced software users may disproportionately choose the new layout.",
-          "The new layout attracts mainly visitors who are unfamiliar with software."
+          "It becomes larger because dissolved sugar enters from the surrounding water.",
+          "It keeps its size because water can travel through the membrane both ways.",
+          "It becomes smaller because more water moves out of it than moves in.",
+          "It becomes smaller because the membrane prevents water from moving back in."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问自选为何干扰比较；“their experience”指使用陌生软件的经验。\n解析：熟练者可能更多选新版，速度优势未必来自版式。自由选择隔绝经验作用忽视选择和能力相关；管理员测旧版改变了两组都为访客的设置；新版主要吸引生手倒转讲者提出的可能方向。\n下次：自选分组题先问谁更可能选哪组，再查这类人本来是否在结果上占优。"
+        "explanation": "读懂：问第一个袋子刚开始怎样变化；“more water leaves”是流出的水更多。\n解析：袋里是纯水，外面是糖水，起初出水多于进水，所以变小。糖被膜挡住，不会流进去；水能双向通过不等于进出量相等，也不是膜只许出、不许进。\n下次：先标清袋内和袋外，再比较进水量与出水量，用两者之差判断变大还是变小。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "细节",
-          "混杂因素"
+          "明确细节",
+          "数量比较"
         ],
         "vocabulary": [
-          "unfamiliar"
+          "more water leaves"
         ],
-        "rationale": "识别技术熟练度既影响选择又影响搜索速度的可能链条。",
-        "answer_evidence": "People comfortable with unfamiliar software may have been more likely to choose it, and their experience could explain some of the speed.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "袋里是纯水，外面是糖水，起初出水多于进水，所以变小。糖被膜挡住，不会流进去；水能双向通过不等于进出量相等，也不是膜只许出、不许进。",
+        "answer_evidence": "At first, more water leaves the bag than enters it, so the bag gets smaller.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3954,35 +3949,35 @@
         "id": "L696",
         "section": "listening",
         "task_type": "listen_academic_talk",
-        "prompt": "What can be inferred about a small study using random assignment?",
+        "prompt": "Why does the instructor discuss a second bag with matching sugar concentrations?",
         "response_type": "choice",
-        "audio_text": "A library wants to know whether a new catalog layout helps users find books faster. It lets visitors choose between the old and new versions, then compares search times. The new version wins. Have we shown that its design caused the difference? Not yet. People comfortable with unfamiliar software may have been more likely to choose it, and their experience could explain some of the speed. That's a confounding factor: another difference that could account for the result. Random assignment addresses this problem by using chance to decide which version each participant uses. It prevents participants' preferences from determining the groups. However, chance doesn't guarantee perfectly matched groups in a small study. Researchers can still record prior experience and examine whether it is unevenly distributed. They should also give participants comparable search tasks, because finding a familiar title is different from locating an unfamiliar topic. The goal is to make the layout the clearest difference between the conditions. A faster result becomes more informative when we have reduced other reasonable explanations for it.",
-        "passage_title": "Separating a design effect from a user difference",
+        "audio_text": "Let's use a small, flexible bag to model one feature of a cell membrane. This bag lets water through but keeps dissolved sugar from crossing. That's what selective means here: some substances can pass, and others can't. In our first setup, there's pure water inside the bag and sugar water outside. The pressure starts out equal on both sides. At first, more water leaves the bag than enters it, so the bag gets smaller. Notice that I said more water leaves, not that water moves in only one direction. Individual water molecules cross both ways. The difference between those movements produces the overall change. This net movement of water through a selective membrane is called osmosis. With equal pressure, water initially moves overall toward the side with the higher concentration of sugar that cannot cross. Now let's try a second bag, with matching sugar concentrations inside and outside and equal pressure. Its size stays about the same, although water continues crossing in both directions. So an unchanged bag doesn't mean motion has stopped. We're focusing on what happens at the start of each setup; pressure changes that may develop later would also affect water movement.",
+        "passage_title": "Water movement through a selective membrane",
         "group_id": "listen_academic_talk_43",
         "options": [
-          "The researchers can assume every relevant background factor is equal.",
-          "Participants' preferences will necessarily determine their assigned version.",
-          "Checking prior experience can still help interpret the comparison.",
-          "Differences in search-task difficulty no longer affect the results."
+          "To test whether sugar can pass through the same membrane as water.",
+          "To show that adding sugar outside a bag reverses its water movement.",
+          "To show that water can keep moving without an overall change in size.",
+          "To isolate a pressure difference as the cause of a change in size."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问小样本随机分组后还需注意什么；“doesn't guarantee”是不保证。\n解析：偶然仍会不平衡，记录原有经验有助解释。所有背景相等夸大随机的效果；偏好必决定分组违背按机会分配；任务难度不再影响混淆分人和控制任务。\n下次：随机实验题区分减少系统偏差与保证完全相同，再核对剩余差异。"
+        "explanation": "读懂：问第二个袋子用来说明什么；“an unchanged bag”指体积基本没变的袋子。\n解析：两边糖浓度和压力相同，水仍双向流动，但没有总体增减。这个例子区分“体积不变”和“分子不动”；它没测试糖能否过膜，没单独向外侧加糖，也没设置压力差。\n下次：听到第二个实验，比较改了什么条件、观察到什么，再把结果接到讲者要澄清的误解上。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "推断",
-          "方法局限"
+          "例子作用",
+          "区分整体与个体变化"
         ],
         "vocabulary": [
-          "Random assignment"
+          "an unchanged bag"
         ],
-        "rationale": "依据随机分配不保证小组完全匹配推导背景检查价值。",
-        "answer_evidence": "However, chance doesn't guarantee perfectly matched groups in a small study.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "两边糖浓度和压力相同，水仍双向流动，但没有总体增减。这个例子区分“体积不变”和“分子不动”；它没测试糖能否过膜，没单独向外侧加糖，也没设置压力差。",
+        "answer_evidence": "So an unchanged bag doesn't mean motion has stopped.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3990,35 +3985,35 @@
         "id": "L697",
         "section": "listening",
         "task_type": "listen_academic_talk",
-        "prompt": "Why does the speaker contrast a familiar title with an unfamiliar topic?",
+        "prompt": "A third bag contains sugar water and is placed in pure water. The pressure is initially equal on both sides. What would the instructor predict at first?",
         "response_type": "choice",
-        "audio_text": "A library wants to know whether a new catalog layout helps users find books faster. It lets visitors choose between the old and new versions, then compares search times. The new version wins. Have we shown that its design caused the difference? Not yet. People comfortable with unfamiliar software may have been more likely to choose it, and their experience could explain some of the speed. That's a confounding factor: another difference that could account for the result. Random assignment addresses this problem by using chance to decide which version each participant uses. It prevents participants' preferences from determining the groups. However, chance doesn't guarantee perfectly matched groups in a small study. Researchers can still record prior experience and examine whether it is unevenly distributed. They should also give participants comparable search tasks, because finding a familiar title is different from locating an unfamiliar topic. The goal is to make the layout the clearest difference between the conditions. A faster result becomes more informative when we have reduced other reasonable explanations for it.",
-        "passage_title": "Separating a design effect from a user difference",
+        "audio_text": "Let's use a small, flexible bag to model one feature of a cell membrane. This bag lets water through but keeps dissolved sugar from crossing. That's what selective means here: some substances can pass, and others can't. In our first setup, there's pure water inside the bag and sugar water outside. The pressure starts out equal on both sides. At first, more water leaves the bag than enters it, so the bag gets smaller. Notice that I said more water leaves, not that water moves in only one direction. Individual water molecules cross both ways. The difference between those movements produces the overall change. This net movement of water through a selective membrane is called osmosis. With equal pressure, water initially moves overall toward the side with the higher concentration of sugar that cannot cross. Now let's try a second bag, with matching sugar concentrations inside and outside and equal pressure. Its size stays about the same, although water continues crossing in both directions. So an unchanged bag doesn't mean motion has stopped. We're focusing on what happens at the start of each setup; pressure changes that may develop later would also affect water movement.",
+        "passage_title": "Water movement through a selective membrane",
         "group_id": "listen_academic_talk_43",
         "options": [
-          "To show that random assignment makes measuring search time unnecessary.",
-          "To identify task difficulty as another influence that should be controlled.",
-          "To explain why user preferences matter more than search speed.",
-          "To suggest that catalog studies should include only familiar books."
+          "More water would leave the bag than enter it, making the bag smaller.",
+          "More water would enter the bag than leave it, making the bag larger.",
+          "Equal amounts of water would cross each way, leaving the size unchanged.",
+          "Sugar would leave the bag through the membrane, making the bag smaller."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问两类检索任务对比的用途；“comparable search tasks”是难度等条件可比较的检索任务。\n解析：任务不同也影响速度，不能只控制人员。只用熟悉书名把可比较缩成一种题；偏好更重要换了研究目标；随机后无需计时误把分组方法当效果数据。\n下次：实验中的第二个对比例子常提示另一变量，先找它影响哪项结果，再查控制要求。"
+        "explanation": "读懂：这次把糖水放在袋内；“higher concentration”是浓度更高，题目只问压力相同时的起初变化。\n解析：材料说水总体流向糖浓度更高的一侧，现在这一侧在袋内，所以袋子进水、变大。选变小把方向套成了第一个实验；选不变漏看浓度差；糖流出又违反了糖不能过膜的条件。\n下次：条件调换时重新标出哪边糖浓度高，再画水的总体流向，最后检查袋子体积是否与箭头一致。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "举例目的",
-          "控制变量"
+          "新情境应用",
+          "条件与方向"
         ],
         "vocabulary": [
-          "comparable"
+          "higher concentration"
         ],
-        "rationale": "将熟悉书名与陌生主题用于说明任务本身应保持可比。",
-        "answer_evidence": "They should also give participants comparable search tasks, because finding a familiar title is different from locating an unfamiliar topic.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "材料说水总体流向糖浓度更高的一侧，现在这一侧在袋内，所以袋子进水、变大。选变小把方向套成了第一个实验；选不变漏看浓度差；糖流出又违反了糖不能过膜的条件。",
+        "answer_evidence": "With equal pressure, water initially moves overall toward the side with the higher concentration of sugar that cannot cross.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4052,9 +4047,9 @@
         "vocabulary": [
           "leap day"
         ],
-        "rationale": "概括历法增补是为协调整数计数与非整数自然周期。",
+        "rationale": "季节年非整数天导致日历计数需调整，改变记录而非地球运动；原解析清晰，不依赖闰年口诀。",
         "answer_evidence": "they keep a human system of labels aligned with the cycle it is intended to represent.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4088,9 +4083,9 @@
         "vocabulary": [
           "accumulates"
         ],
-        "rationale": "把周期非整数的微小年差与多年漂移相连。",
+        "rationale": "年度小差额累积导致日历偏移，非自然年每冬增长整天或闰日造成误差；简单因果成立。",
         "answer_evidence": "The difference in one year is small, but it accumulates.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4123,9 +4118,9 @@
         "vocabulary": [
           "approximation"
         ],
-        "rationale": "借钟的累计误差说明校正标签而非改变自然时间。",
-        "answer_evidence": "Correcting it changes the reading, not the passage of time.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "慢钟类比共同点是小误差积累与修正读数，不能改变时间本身；原解释准确。",
+        "answer_evidence": "after many weeks the error is noticeable. Correcting it changes the reading, not the passage of time.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4159,9 +4154,9 @@
         "vocabulary": [
           "adjustments"
         ],
-        "rationale": "从近似及长期需校正推断简单闰年规则的精度边界。",
-        "answer_evidence": "Adding a day every fourth year is a useful first approximation, although smaller adjustments are needed over longer periods.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "初步近似保留长期微调需求，不意味着自然周期变整数或永远吻合；题与适中标签相符。",
+        "answer_evidence": "smaller adjustments are needed over longer periods.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4195,9 +4190,9 @@
         "vocabulary": [
           "Movement notation"
         ],
-        "rationale": "整合动作结构记录与具体表演影像的互补价值。",
-        "answer_evidence": "For a teaching archive, the two records can therefore support each other.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "记谱与影像分别保结构及具体演绎，互补而非替代，摄像视角限制已解释；原说明保留。",
+        "answer_evidence": "the two records can therefore support each other.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4231,9 +4226,9 @@
         "vocabulary": [
           "symbols"
         ],
-        "rationale": "依据列举直接定位记谱可表示的动作参数。",
-        "answer_evidence": "A symbol might indicate which part of the body moves, in what direction, and for how long.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "符号可记身体部位、方向、时长，非全部摄像视角、唯一表情或观众内心；直接列举型简单题保留。",
+        "answer_evidence": "which part of the body moves, in what direction, and for how long.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4267,9 +4262,9 @@
         "vocabulary": [
           "interpretation"
         ],
-        "rationale": "从同谱可有表达变化推断差别并不必然改变动作结构。",
+        "rationale": "同结构允许力度、能量和情感变化，差异不必是误读或另一序列；原解释区分规定与留白。",
         "answer_evidence": "The same written movement may be carried out with different weight, energy, or expression.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -4302,9 +4297,9 @@
         "vocabulary": [
           "archive"
         ],
-        "rationale": "识别保存问题、媒介能力比较、组合使用建议的结构。",
-        "answer_evidence": "A learner can consult the score for the movement sequence and watch recordings to examine different realizations.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "保存舞蹈的问题→两种记录优势限制→组合建议，非技术排名、禁解释或历史兴衰；完整组一致，原结构解析保留。",
+        "answer_evidence": "For a teaching archive, the two records can therefore support each other.",
+        "reviewed_on": "2026-09-30"
       }
     }
   ]

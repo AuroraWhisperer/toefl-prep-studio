@@ -3,6 +3,7 @@ const { openSettings, start, submit } = require('./browser_practice_helpers.cjs'
 
 const banks = {
   reading: require('../question_bank/reading/questions.json').questions,
+  listening: require('../question_bank/listening/questions.json').questions,
   writing: require('../question_bank/writing/questions.json').questions,
 };
 
@@ -16,26 +17,41 @@ for (const desktop of [
       deviceScaleFactor: desktop.scale,
     });
 
-    for (const [section, task, oldTotal] of [
-      ['reading', 'read_academic_passage', 265],
-      ['writing', 'write_email', 150],
-      ['writing', 'academic_discussion', 150],
+    for (const [section, task, oldTotal, count] of [
+      ['reading', 'complete_words', 1005, 1],
+      ['reading', 'read_daily_life', 795, 2],
+      ['reading', 'read_academic_passage', 795, 1],
+      ['listening', 'listen_choose_response', 705, 8],
+      ['listening', 'listen_conversation', 705, 2],
+      ['listening', 'listen_announcement', 705, 1],
+      ['listening', 'listen_academic_talk', 705, 1],
+      ['writing', 'write_email', 150, 1],
+      ['writing', 'academic_discussion', 150, 1],
     ]) {
       test(`${task} renders new material and reveals its complete explanation only after submission`, async ({
         page,
         request,
       }, testInfo) => {
-        expect((await request.get('/')).status()).toBe(200);
+        expect((await request.get(`/practice/${section}`)).status()).toBe(200);
         const errors = [];
         page.on('pageerror', (error) => errors.push(error.message));
-        const first = banks[section].find(
-          (q) =>
-            q.task_type === task && Number(q.id.slice(1)) > oldTotal && q.difficulty !== 'easy',
+        const groups = new Map();
+        for (const question of banks[section]) {
+          if (question.task_type !== task || Number(question.id.slice(1)) <= oldTotal) continue;
+          const key = question.group_id || question.id;
+          if (!groups.has(key)) groups.set(key, []);
+          groups.get(key).push(question);
+        }
+        const materials = [...groups.values()].sort(
+          (a, b) =>
+            Number(a.every((q) => q.difficulty === 'easy')) -
+              Number(b.every((q) => q.difficulty === 'easy')) || b.length - a.length,
         );
-        expect(first).toBeTruthy();
-        const questions = first.group_id
-          ? banks[section].filter((q) => q.group_id === first.group_id)
-          : [first];
+        expect(materials.length).toBeGreaterThanOrEqual(count);
+        const questions = materials.slice(0, count).flat();
+        await page.route('**/api/v1/tts', (route) =>
+          route.fulfill({ json: { url: null, fallback: true } }),
+        );
         // Select reviewed new material deterministically; scoring and review use the real server.
         // Only public generated questions enter the page, never private reference answers.
         await page.route('**/api/v1/exam?**', async (route) => {
@@ -53,7 +69,7 @@ for (const desktop of [
           });
         });
         await page.goto('/');
-        await openSettings(page, section, task, 1);
+        await openSettings(page, section, task, count);
         const selected = await start(page);
         expect(selected.questions.map((q) => q.id)).toEqual(questions.map((q) => q.id));
         for (const question of selected.questions) {
@@ -62,7 +78,13 @@ for (const desktop of [
           }
         }
         await expect(page.locator('#question-content')).not.toContainText('读懂：');
-        if (section === 'reading') {
+        if (task === 'complete_words') {
+          await expect(page.locator('.cloze-letters')).toHaveCount(10);
+          const input = page.locator('[data-answer-id]').first();
+          expect(await input.getAttribute('data-answer-id')).toMatch(/^R\d{4}$/);
+          await input.fill('x');
+          await expect(input).toHaveValue('x');
+        } else if (questions[0].response_type === 'choice') {
           await page.locator('.choice-option').first().focus();
           await page.keyboard.press('Enter');
           await expect(page.locator('.choice-option').first()).toHaveAttribute(
@@ -71,12 +93,29 @@ for (const desktop of [
           );
           await page.locator('#next-question').click();
           await page.locator('#previous-question').click();
+          await expect(page.locator('.choice-option').first()).toHaveAttribute(
+            'aria-pressed',
+            'true',
+          );
         } else {
           await page
             .locator('#answer-input')
             .fill(
               'I would first clarify the constraints, then suggest a practical approach with a specific example.',
             );
+        }
+        if (section === 'listening') {
+          const script = page.locator('#question-content .script-details');
+          await expect(script).not.toHaveAttribute('open', '');
+          await script.locator('summary').click();
+          await expect(script).toContainText(questions[0].audio_text.split('\n')[0]);
+          if (task === 'listen_conversation') {
+            await expect(script.locator('p')).toHaveCount(
+              questions[0].audio_text.split('\n').length,
+            );
+          }
+          await script.locator('summary').click();
+          await expect(script).not.toHaveAttribute('open', '');
         }
         expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(
           true,

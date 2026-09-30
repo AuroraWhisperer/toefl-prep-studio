@@ -1,6 +1,6 @@
 # 原创练习三倍扩充源稿
 
-这里按 12 个题型存放新增 1,410 题，追加到原有 705 题之后。原题的 ID、内容和审阅指纹不变；ETS 五套模考不属于此次扩充。总量为阅读 795、听力 705、写作 450、口语 165。
+这里按 12 个题型存放新增 1,410 题，追加到原有 705 题之后。扩充时保留原题的 ID、内容和审阅指纹；随后 [2026-09-30 的阅读、听力逐题修订](../../../docs/question-bank/receptive-repair-2026-09-30.md)仍保留题号，已复核的内容和指纹按需更新。ETS 五套模考不属于此次扩充或改写。本批完成时总量为阅读 795、听力 705、写作 450、口语 165；后续阅读与听力新增源稿位于 [expansion_2026_09_30](../expansion_2026_09_30/README.md)，当前全库数量见[题库目录](../../README.md)。
 
 每个 JSON 包含 `section`、`task_type` 和 `items`。每条记录包括：
 
@@ -11,3 +11,5 @@
 完整材料与其全部小题必须一起审阅。源稿审阅记录与 `../review_notes.json` 中对应记录（除指纹字段）须一致；指纹由现有 `content_fingerprint(question, answer)` 算法计算，只能在实际核对题面、答案、解析、范例后登记。修改题面或答案而未重新审阅会使生成失败；不得批量刷新既有或未审阅题目的指纹以绕过检查。
 
 维护步骤和官方格式边界见[题库维护说明](../../README.md)和[出题指南](../../../docs/question-bank/generation-guidelines.md)。运行 `./.venv/Scripts/python.exe scripts/build_question_bank.py` 生成公共题面、私有答案和清单，再运行 `./.venv/Scripts/python.exe -m pytest -q`。源文件不可作为静态资源公开。
+
+本轮将 L694–L697 的完整讲座组替换为渗透作用：选择膜只让水通过、起初压力相同、比较两边浓度及水的净流动。科学事实核对 [OpenStax Biology 2e：Passive Transport](https://openstax.org/books/biology-2e/pages/5-2-passive-transport)，脚本、问题和三行解析为本地原创；独立交叉作答后再更新审阅指纹。

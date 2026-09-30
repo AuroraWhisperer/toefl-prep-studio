@@ -102,7 +102,7 @@
     "min_words": 100,
     "max_score": 5,
     "reference": "Dear Housing Office,\n\nI am a resident of Willow Hall, and I would like to report a problem in our laundry room. Machines two and four stop shortly after starting, even when a small load is selected. Several residents have experienced the same problem since Monday evening.\n\nWith only two working machines, the waiting time is especially long after classes. Could your maintenance team inspect the broken machines and post an estimated repair date?\n\nAs a temporary solution, would it be possible for our residents to use the laundry room in Maple Hall? A sign explaining that arrangement would help people avoid unnecessary trips.\n\nThank you for your assistance.\n\nBest regards,\nAlex",
-    "explanation": "读懂：宿舍两台洗衣机失灵，其他住户也洗衣困难。写给住宿办公室，交代故障及影响、请求检查维修，并提出维修期间的临时办法。\n解析：范文描述启动后停止、晚间排队长，随后询问检查和预计修复日期，建议借用另一栋宿舍洗衣房并张贴指引。temporary solution 是“临时解决办法”，不能只催快修却不给过渡安排；也别把借用邻楼写成已获批准。\n下次：分“可观察的故障→影响多少人或什么时段→维修请求→待批准的替代设施”四步。机器编号等可用自洽示例，不必复制范文楼名，重点是让工作人员能调查和回复。"
+    "explanation": "读懂：宿舍两台洗衣机失灵，其他住户也洗衣困难。写给住宿办公室，交代故障及影响、请求检查维修，并提出维修期间的临时办法。\n解析：范文描述启动后停止、课后排队时间长，随后询问检查和预计修复日期，建议借用另一栋宿舍洗衣房并张贴指引。temporary solution 是“临时解决办法”，不能只催快修却不给过渡安排；也别把借用邻楼写成已获批准。\n下次：分“可观察的故障→影响多少人或什么时段→维修请求→待批准的替代设施”四步。机器编号等可用自洽示例，不必复制范文楼名，重点是让工作人员能调查和回复。"
   },
   "W13": {
     "type": "subjective",
@@ -338,9 +338,11 @@
     "type": "sentence",
     "accepted": [
       "Although the experiment failed, the results raised an interesting question.",
-      "The results raised an interesting question although the experiment failed."
+      "The results raised an interesting question although the experiment failed.",
+      "The experiment failed but the results raised an interesting question.",
+      "The results raised an interesting question but the experiment failed."
     ],
-    "explanation": "读懂：实验虽然失败，结果却引出一个有趣的问题，回答失败是否仍有收获。\n解析：although 是虽然，用它连两件事时不要再加 but（但是）。当前接受 although 小句在句首或句尾；只用 but 连接两句在语法上也可行，但未列入本题自动判分清单，不能因此认定它语法错误。\n下次：先拼 the experiment failed（实验失败）与 the results raised an interesting question（结果引出有趣问题），再选一种转折连接方式；raised 的对象是 question，别倒错动作与对象。"
+    "explanation": "读懂：实验失败了，结果却引出一个有趣的问题，回答失败是否仍有收获。\n解析：although 是“虽然”，可引出句首或句尾的让步部分；也可用 but（但是）把“实验失败”与“结果有收获”连接起来。两种方式都接受，但不能在这一句中同时用 although 和 but；只使用一个连接词，另一个词块不使用。\n下次：先拼“实验失败”与“结果引出问题”两件事，再选一个转折连接词；最后检查 raised 的对象是 question，并核对没有多放连接词。"
   },
   "W34": {
     "type": "sentence",
@@ -367,9 +369,10 @@
   "W37": {
     "type": "sentence",
     "accepted": [
-      "Were the tutor and the students both available on Monday?"
+      "Were the tutor and the students both available on Monday?",
+      "On Monday, were the tutor and the students both available?"
     ],
-    "explanation": "读懂：上周安排见面时，你想确认导师和学生双方在周一是否都有空。\n解析：Were 放前面表示询问过去的情况；the tutor and the students 是两方，合起来接 both available（双方都有空）。别被单个 the tutor 迷惑而忽略 and the students，也不要将 both available 塞进两个对象之间。on Monday 是会议相关的时间，放在整件事之后。\n下次：先把“导师和学生”连成一个整体，再排“Were—双方—都有空—周一”。available 在这里指有时间，不是“东西可以买到”，要结合约见语境理解。"
+    "explanation": "读懂：上周安排见面时，你想确认导师和学生双方在周一是否都有空。\n解析：Were 引出对过去情况的提问；the tutor and the students 要连成整体，再接 both available（双方都有空）。on Monday 表示询问的时间，可放句末，也可放整个问句前；无论在哪，Were 都要在主语前。\n下次：先把两方连起来，排好“Were—双方—都有空”，再加周一这个时间；检查时间移动后，主语内部没有被拆开，问句词序也没变。"
   },
   "W38": {
     "type": "sentence",
@@ -410,9 +413,10 @@
   "W43": {
     "type": "sentence",
     "accepted": [
-      "Had the last train already left when you reached the station?"
+      "Had the last train already left when you reached the station?",
+      "When you reached the station, had the last train already left?"
     ],
-    "explanation": "读懂：你们到车站比计划晚，你问到站时末班车是不是已经离开了。\n解析：Had the last train already left 表示询问“在另一个过去时点之前已经开走了吗”。when you reached the station 是那个较晚的到站时点，里面按 you reached 排，不再倒装。did 是多余词，不能替代 Had 后还保留 already left；last train 指末班车，不是上一列随便的车。\n下次：画两点时间线：“车可能先离开—你后来到站”。先排 Had 与 already left，再接 when 引出的到站句，检查 station 属于 reached。"
+    "explanation": "读懂：你们到车站比计划晚，你问到站时末班车是否已经离开。\n解析：Had the last train already left 询问过去某个时点之前是否已完成；when you reached the station 给出到站时点，可在整个问句前或后。when 内部按 you reached 排，主要问句仍以 Had 引出；did 是多余词，不能替换 Had 后还保留 already left。\n下次：画出“车可能先离开—你后来到站”两点，再拼主要问句与 when 时间部分；最后检查时间部分用陈述顺序，Had 仍在 the last train 前。"
   },
   "W44": {
     "type": "sentence",
@@ -439,9 +443,12 @@
     "type": "sentence",
     "accepted": [
       "The equipment is too heavy for one person to carry safely.",
-      "The equipment is too heavy for one person to safely carry."
+      "The equipment is too heavy for one person to safely carry.",
+      "The equipment is too heavy for one person safely to carry.",
+      "For one person, the equipment is too heavy to carry safely.",
+      "For one person, the equipment is too heavy to safely carry."
     ],
-    "explanation": "读懂：设备太重，单靠一个人无法安全搬运；too heavy 不只是“很重”，还表示超过了能力范围。\n解析：先排 the equipment is too heavy，再用 for one person 指明对谁而言太重，to carry 说难以完成的动作。不要排成设备去搬人，也不要漏掉 to。safely 是“安全地”，可接 carry 后；参考也接受 to safely carry，不应认定这种位置一定错误。\n下次：按“物品—过于重—对谁—难以做什么”分组。最后检查 safely 保留了安全限制，而不是说任何情况下都绝对搬不动。"
+    "explanation": "读懂：设备太重，单靠一个人无法安全搬运；too heavy 表示重量超过了安全搬运的范围。\n解析：the equipment is too heavy 是主线，for one person 说明一个人来搬，to carry 是搬运动作。safely（安全地）可放 carry 后、to 后，或 for one person 与 to 之间；for one person 也可放整句前。各接受词序都保留“一个人无法安全搬”的意思。\n下次：先连好“设备—太重—搬运”，再加搬运者和安全限制；移动修饰语后读回整句，核对设备是被搬的物品，to 与 carry 仍构成动作。"
   },
   "W48": {
     "type": "sentence",
@@ -525,23 +532,28 @@
   "W59": {
     "type": "sentence",
     "accepted": [
-      "Is the footpath shorter than the road through town?"
+      "Is the footpath shorter than the road through town?",
+      "Is the road through town shorter than the footpath?",
+      "Is the footpath through town shorter than the road?",
+      "Is the road shorter than the footpath through town?"
     ],
-    "explanation": "读懂：去车站的小路是否比穿过镇子的公路更短？这里比较的是两条路线的长度。\n解析：Is the footpath shorter 是“这条步道更短吗”，不是询问做某个动作，所以不用干扰块 does。shorter 要配 than，引出比较对象 the road through town；through town 是“穿过镇子”，修饰公路，不能丢在步道后改变路线指代。\n下次：先确定比较的甲是 footpath，乙是 road，把 shorter than 放在两者之间，再让 Is 开头提问。核对 through town 仍然描述公路，避免把两条路线调换。"
+    "explanation": "读懂：听说有步道通向车站，可以追问它与公路的长度；前一句没有说明哪条路更短，也没指定哪条穿过镇子。\n解析：用 Is 把“一条路线＋shorter than＋另一条路线”变成比较问句；does 是多余词。through town 是“穿过镇子”，应紧跟它描述的路线。本题接受步道与公路交换比较位置，也接受该短语描述其中任一条路线，不能凭参考答案添加题面没有的限制。\n下次：先明确要问哪条路是否更短，再排 Is、两条路线和 shorter than；将 through town 紧贴所描述的名词，最后检查比较关系完整、没有多用 does。"
   },
   "W60": {
     "type": "sentence",
     "accepted": [
-      "Can we begin the analysis before all the samples have arrived?"
+      "Can we begin the analysis before all the samples have arrived?",
+      "Before all the samples have arrived, can we begin the analysis?"
     ],
-    "explanation": "读懂：还有样本没送到，你问是否可以不等全部到齐就开始分析；并非说样本已经全到。\n解析：Can we begin the analysis 是主要请求；before all the samples have arrived 表示“所有样本到齐之前”。before 必须连到到齐这一时间点，all 不能漏。have arrived 在时间部分描述“已经全部到达”这个完成状态，不要据此把全句读成到齐后才开始。\n下次：先排“Can—我们—开始分析”，再接 before 和“所有样本—到齐”。用中文复核先后：先开始分析，后等齐样本，避免将 before 理解成 after。"
+    "explanation": "读懂：还有样本没到，你问是否可以在全部到齐前开始分析，并非说样本已经全到。\n解析：Can we begin the analysis 是主要请求；before all the samples have arrived 表示“所有样本到齐之前”，可放整个问句前或后。have arrived 描述到齐这个完成状态，但 before 指明分析可以更早开始；all 不能漏。\n下次：先排“Can—我们—开始分析”，再拼完整的 before 时间部分；无论把时间放前还是放后，都检查是先开始、后到齐，别把 before 读成 after。"
   },
   "W61": {
     "type": "sentence",
     "accepted": [
-      "She suggested that we discuss the budget before choosing a venue."
+      "She suggested that we discuss the budget before choosing a venue.",
+      "She suggested that before choosing a venue we discuss the budget."
     ],
-    "explanation": "读懂：她建议我们先讨论预算，再选活动场地，回答讨论内容与行动先后的问题。\n解析：固定 She 后接 suggested，that 引出建议内容 we discuss the budget。这里 discuss 用原形表达建议，不加多余词块 to。before choosing a venue 是“选择场地之前”，venue 指办活动的地方；它放在讨论预算之后，说明应先讨论再决定地点。\n下次：先拼“她建议—我们讨论—预算”，再加“选场地前”。确认 that 后既有人 we 也有动作 discuss，不写成 we to discuss，也别把先后顺序读反。"
+    "explanation": "读懂：她建议我们先讨论预算，再选活动场地，回答建议讨论什么以及行动先后。\n解析：固定 She 后接 suggested，that 引出建议内容 we discuss the budget，discuss 用原形，多余词块 to 不使用。before choosing a venue 是“选择场地之前”，可在预算之后，也可紧接 that 放在 we 前；两种词序都说明先讨论预算。\n下次：先拼“她建议—我们讨论—预算”，再加入选场地前这个时间条件；检查固定 She、that 后的人与动作都保留，且没有排成 we to discuss。"
   },
   "W62": {
     "type": "sentence",
@@ -562,9 +574,11 @@
     "type": "sentence",
     "accepted": [
       "The report would be clearer if it included a diagram.",
-      "If it included a diagram, the report would be clearer."
+      "If it included a diagram, the report would be clearer.",
+      "If the report included a diagram, it would be clearer.",
+      "It would be clearer if the report included a diagram."
     ],
-    "explanation": "读懂：如果报告加入一张示意图，就会更清楚，这是改进建议，不是说图已经存在。\n解析：the report would be clearer 是设想的效果；if it included a diagram 是“如果它包含示意图”。it 指报告，included 在这里用于假设，不必理解成过去真的加过。would be 不能拆掉 be，否则 clearer 没有连接。参考也接受 if 这一段在句首。\n下次：先排“报告—会更清楚”，再加“如果—它—包含示意图”。读回去检查图是条件、清晰是结果，不把 clearer 当成图的名称或把 it 当作图。"
+    "explanation": "读懂：报告如果加入示意图，就会更清楚；这是改进建议，不是说已经加了图。\n解析：would be clearer 是设想的效果，if 后的 included a diagram 是条件。the report 和 it 指同一份报告，可分别放在条件与结果中，if 部分也可在句首或句尾。included 用于假设，不说明过去真的做过；would be 是完整词块。\n下次：先分出“加图”条件和“更清楚”结果，再安排 if 部分的位置；把 it 换回“报告”检查指代，确认图仍是条件、清晰仍是结果。"
   },
   "W65": {
     "type": "sentence",
@@ -591,9 +605,11 @@
   "W68": {
     "type": "sentence",
     "accepted": [
-      "Which of the ideas discussed at the meeting came from first-year students?"
+      "Which of the ideas discussed at the meeting came from first-year students?",
+      "At the meeting, which of the ideas discussed came from first-year students?",
+      "Which of the ideas discussed came from first-year students at the meeting?"
     ],
-    "explanation": "读懂：会议讨论过的那些想法中，哪些来自一年级学生？问的是想法的提出者。\n解析：Which of the ideas 是要找的“哪些想法”，discussed at the meeting 紧跟它，说明讨论范围；came from first-year students 才是主要动作和来源。did 是干扰，因为这里用“哪些想法”直接作 came 的主角，不是 did 加 came。discussed 也不是本句主要的提问动作。\n下次：先搭“哪些想法—来自一年级学生”，再把“会上讨论的”插在 ideas 后。区分限定想法的 discussed 与说明来源的 came。"
+    "explanation": "读懂：前一句说一年级学生在会上提出了有用想法；这题追问讨论过的想法中，哪些来自他们。\n解析：Which of the ideas 是提问的主语，discussed 表示这些想法被讨论过，came from first-year students 说明来源。at the meeting 可紧接 discussed，也可在句首或句尾交代会上这个场景，都与前句一致。这里直接用“哪些想法”作 came 的主语，多余词块 did 不使用。\n下次：先搭“哪些想法—来自一年级学生”，再加 discussed 限定所问想法，最后安放会议场景；核对主要动作仍是 came，别在它前面另加 did。"
   },
   "W69": {
     "type": "sentence",
@@ -607,7 +623,8 @@
     "accepted": [
       "Rather than repeat the whole experiment, we tested the uncertain measurement again.",
       "We tested the uncertain measurement again rather than repeat the whole experiment.",
-      "Rather than repeat the whole experiment, we again tested the uncertain measurement."
+      "Rather than repeat the whole experiment, we again tested the uncertain measurement.",
+      "We again tested the uncertain measurement rather than repeat the whole experiment."
     ],
     "explanation": "读懂：我们没有重做整个实验，而是只把不确定的那项测量重新测了一次，强调缩小复查范围。\n解析：rather than repeat the whole experiment 是“而不是重复整个实验”，整块不可拆。we tested the uncertain measurement 才是实际做的事；again 指重测，可放对象后，参考也接受放 tested 前。对照短语可以在句首或句尾，但不能把它误读成两件事都做了。\n下次：先分清“没有做的广泛工作”和“实际做的针对性复查”，再把 tested 与 uncertain measurement 连好，最后加 again，保留只重测有疑问数据的重点。"
   },
@@ -784,8 +801,8 @@
       "version"
     ],
     "min_words": 100,
-    "reference": "Hi everyone,\nI accidentally replaced part of our shared report while uploading my revised section this afternoon. I am sorry for the confusion. I have already checked the version history and restored the most recent complete draft, but please review your own section to confirm that no final changes are missing. My new text is now in a separate file so we can compare it carefully before merging. To prevent this happening again, I suggest editing our assigned sections in the shared document instead of uploading whole replacement files. We could also save a dated backup before major revisions. Please tell me if anything still needs recovering, and I will help fix it.\nBest,\nAlex",
-    "explanation": "读懂：你误覆盖了小组共享文档，已开始查找旧版本。要及时说明经过和受影响内容、汇报或提出恢复步骤，再建议防止重演。\n解析：范文直接认错，说明已恢复最近完整稿，但仍请组员核对最后修改，把新文字单独存放后再合并，并建议只改负责段落、重大修订前做备份。version history 是“历史版本”。只道歉不交代恢复状态，或未核对就保证没损失，都不利于协作。\n下次：依次写“我何时误改哪部分→已做与尚待检查的步骤→需要队友核对什么→今后怎样编辑和备份”。把恢复事实与计划分清，别把责任推给软件。"
+    "reference": "Hi everyone,\nI accidentally replaced the methods section and the opening paragraph of the results while uploading my revised section this afternoon. I am sorry for the confusion. I have already checked the version history and restored the most recent complete draft, but please review your own section to confirm that no final changes are missing. My new text is now in a separate file so we can compare it carefully before merging. To prevent this happening again, I suggest editing our assigned sections in the shared document instead of uploading whole replacement files. We could also save a dated backup before major revisions. Please tell me if anything still needs recovering, and I will help fix it.\nBest,\nAlex",
+    "explanation": "读懂：你误覆盖了小组共享文档，已开始查找旧版本。要及时说明经过和受影响内容、汇报或提出恢复步骤，再建议防止重演。\n解析：范文先点明方法部分和结果开头被覆盖，再认错并说明已恢复最近完整稿，但仍请组员核对最后修改，把新文字单独存放后再合并，并建议只改负责段落、重大修订前做备份。version history 是“历史版本”。只道歉不交代恢复状态，或未核对就保证没损失，都不利于协作。\n下次：依次写“我何时误改哪部分→已做与尚待检查的步骤→需要队友核对什么→今后怎样编辑和备份”。把恢复事实与计划分清，别把责任推给软件。"
   },
   "W87": {
     "type": "subjective",
@@ -796,7 +813,7 @@
     ],
     "min_words": 100,
     "reference": "Dear Club Leader,\nSeveral commuter members have mentioned that our eight o'clock evening meetings finish after the last convenient train. I enjoy participating, but leaving early means missing decisions and volunteer assignments. Could we try meeting at six on alternate weeks? This would let commuters stay for the full discussion while preserving some later meetings for members with afternoon classes. We could also circulate the agenda beforehand and keep routine announcements in a written update, making the meeting shorter. A brief survey after a month would show whether the trial improves attendance without creating new difficulties. Thank you for considering a schedule that includes more of the club's members.\nBest regards,\nAlex",
-    "explanation": "读懂：通勤社员难以参加现有会议时间，但其他人也有课。给负责人说明通勤困难、提出具体改时方案，并回应其他成员的顾虑。\n解析：范文说明晚会结束赶不上方便的火车，提议隔周提前到六点、保留部分晚场，兼顾下午有课者，并用提前发议程和试行调查检查效果。alternate weeks 是“隔周”，不是所有会议都改。只按自己方便定时间，违背公平考虑。\n下次：按“通勤者具体错过什么→哪几次改到何时→谁可能受影响→如何兼顾并检查”写。不要重复一般的出席率建议而漏掉交通末班时间这一原因。"
+    "explanation": "读懂：通勤社员难以参加现有会议时间，但其他人也有课。给负责人说明通勤困难、提出具体改时方案，并回应其他成员的顾虑。\n解析：范文说明晚间会议结束后赶不上方便乘坐的火车，提议隔周提前到六点、保留部分晚场，兼顾下午有课者，并用提前发议程和试行调查检查效果。alternate weeks 是“隔周”，不是所有会议都改。只按自己方便定时间，违背公平考虑。\n下次：按“通勤者具体错过什么→哪几次改到何时→谁可能受影响→如何兼顾并检查”写。不要重复一般的出席率建议而漏掉返程列车安排这一具体原因。"
   },
   "W88": {
     "type": "subjective",
@@ -1082,7 +1099,7 @@
     ],
     "min_words": 100,
     "reference": "Students should have a limited opportunity to revise assignments because using feedback is itself an important academic skill. A comment has little value if students read the grade and never apply the advice. However, unlimited resubmissions would create the workload problem mentioned by the second student. I would allow one revision of a major assignment and require a short explanation of the changes. Instructors could then focus on whether students addressed the central issues rather than marking every sentence again. For example, revising an essay's evidence and organization would demonstrate deeper learning than merely correcting punctuation. This approach connects assessment with improvement while keeping the process manageable for teachers and students.",
-    "explanation": "读懂：学生收到批改后能否修改作业争取更多学分？要看反馈能否转化为学习，也要考虑教师重复评阅和首次提交态度。\n解析：范文允许主要作业修改一次，附改动说明，让教师关注证据和结构等核心问题，既回应学生只看分数，又限制无限重交。revision 是“修改后改进”，不只是改几个标点。赞成或反对都可以，不必把一次机会当通用规则。\n下次：按“是否允许→哪种修改体现学习→教师如何控制评阅量→怎样保留首次认真完成的动力”展开。用一个作文或项目的改进例子支撑，而非只重复错误中学习。"
+    "explanation": "读懂：学生收到批改后能否修改作业争取更高分数？要看反馈能否转化为学习，也要考虑教师重复评阅和首次提交态度。\n解析：范文允许主要作业修改一次，附改动说明，让教师关注证据和结构等核心问题，既回应学生只看分数，又限制无限重交。revision 是“修改后改进”，不只是改几个标点。赞成或反对都可以，不必把一次机会当通用规则。\n下次：按“是否允许→哪种修改体现学习→教师如何控制评阅量→怎样保留首次认真完成的动力”展开。用一个作文或项目的改进例子支撑，而非只重复错误中学习。"
   },
   "W114": {
     "type": "subjective",
@@ -1114,7 +1131,7 @@
       "objects"
     ],
     "min_words": 100,
-    "reference": "Museums should use clearly labeled touchable replicas alongside selected original objects. Physical interaction can reveal details that are difficult to understand through glass, such as the weight or shape of a tool. It can also make an exhibition more accessible to visitors who benefit from tactile information. The concern about authenticity is reasonable, but accurate labeling can distinguish evidence from interpretation. For instance, a replica pot could accompany a fragile original, with a note explaining which features are certain and which were reconstructed. The goal would be to help visitors ask better questions about the original. Replicas become distracting only when they replace meaningful explanation with an activity unrelated to the exhibition's ideas.",
+    "reference": "Museums should use clearly labeled touchable replicas alongside selected original objects. Physical interaction can reveal details that are difficult to understand through glass, such as the weight or shape of a tool. It can also make an exhibition more accessible to visitors who benefit from tactile information. The concern about authenticity is reasonable, but accurate labeling can distinguish evidence from interpretation. For instance, a replica pot could accompany a fragile original, with a note explaining which features are certain and which were reconstructed. The goal would be to help visitors ask better questions about the original. To limit distraction, each hands-on activity should lead visitors back to an important feature of the original.",
     "explanation": "读懂：博物馆应否在玻璃保护的原件旁放可触摸复制品？要考虑触觉学习与可达性，也要回应复制品会不会分散对真品的关注。\n解析：范文支持清楚标识的复制品，用陶罐形状、重量帮助理解原件，并区分已知特征和重建部分，让活动导向历史问题。replica 是“复制品”，不是把复制物冒充真品。其他立场也可以，但须解释如何达成理解而非只说好玩。\n下次：选一件具体物品，说明触摸能补充哪种认识，再写标识或讲解如何让访客回到原件证据。若担心分心，提出有针对性的限制，别把所有互动都认作没有学习价值。"
   },
   "W117": {
@@ -1214,7 +1231,7 @@
     ],
     "min_words": 100,
     "reference": "Employers should allow flexible starting times when the work can support them, with a shared period for collaboration. The two students' concerns are compatible: people can avoid the busiest commute while still being available for meetings and joint decisions. For example, a team might require everyone to be present from ten to three but let employees choose their remaining hours. Customer-facing roles would need a different arrangement to maintain coverage, so one rule should not be imposed on every job. Managers should evaluate completed work and service quality instead of treating identical arrival times as evidence of productivity. A trial with clear expectations would show whether flexibility helps the team without creating gaps in communication.",
-    "explanation": "读懂：员工总工时相同，但可在一定范围选择上班时间，这是否值得允许？要比较通勤和专注收益与团队同时在线的需要。\n解析：范文支持适合岗位的弹性，并设共同协作时段，面向客户的岗位另保值守，用完成工作和服务质量检验试行。overlapping hours 是“共同工作的重叠时段”。这不是少工作，也不是任何岗位都能随意来去。\n下次：选一个具体团队，说明弹性解决什么问题，再安排必须一起工作的时间和无法弹性的岗位。支持固定时间也可以，但理由要解释实际协作而不是把同点打卡当成效率证明。"
+    "explanation": "读懂：员工总工时相同，但可在一定范围选择上班时间，这是否值得允许？要比较通勤和专注收益与团队同时在线的需要。\n解析：范文支持适合岗位的弹性，并设共同协作时段，面向客户的岗位另行安排值守，用完成工作和服务质量检验试行。overlapping hours 是“共同工作的重叠时段”。这不是少工作，也不是任何岗位都能随意来去。\n下次：选一个具体团队，说明弹性解决什么问题，再安排必须一起工作的时间和无法弹性的岗位。支持固定时间也可以，但理由要解释实际协作而不是把同点打卡当成效率证明。"
   },
   "W126": {
     "type": "subjective",
@@ -1225,7 +1242,7 @@
     ],
     "min_words": 100,
     "reference": "School gardens can support science learning if they are designed around manageable investigations rather than simply as attractive spaces. Students could compare soil moisture, observe pollinators, or record how plants respond to different conditions. These activities connect classroom ideas with evidence collected over time. The holiday maintenance concern is important, so the garden should use suitable plants and have a realistic care plan before it is created. A small plot with clear responsibilities is better than a large neglected one. Schools could also partner with a community gardening group while keeping students responsible for their own measurements and explanations. The educational benefit depends on thoughtful use and sustained care, not on the presence of plants alone.",
-    "explanation": "读懂：学校花园是否应成为科学教育的一部分？学生可持续观察生物，但放假后仍有人要养护，不能只谈布置漂亮校园。\n解析：范文支持小而可管理的调查园地，例如测土壤湿度、观察传粉者，再制定适宜植物和照料分工，也可与社区合作但保留学生自己的测量责任。investigation 是“用证据展开调查”。反对建园也能有理由，关键是教学收益与维护条件。\n下次：先选一项学生能连续观察的问题，再说明记录怎样联系课堂概念，最后安排周末假期谁照料。不要把有植物就自动等同于有科学学习，也别把学生工作全部外包。"
+    "explanation": "读懂：学校花园是否应成为科学教育的一部分？学生可持续观察生物，但放假后仍有人要养护，不能只谈布置漂亮校园。\n解析：范文支持小而可管理的调查园地，例如测土壤湿度、观察传粉者，再选择适宜的植物并明确照料分工，也可与社区合作但保留学生自己的测量责任。investigation 是“用证据展开调查”。反对建园也能有理由，关键是教学收益与维护条件。\n下次：先选一项学生能连续观察的问题，再说明记录怎样联系课堂概念，最后安排周末假期谁照料。不要把有植物就自动等同于有科学学习，也别把学生工作全部外包。"
   },
   "W127": {
     "type": "subjective",
@@ -1291,7 +1308,7 @@
     ],
     "min_words": 100,
     "reference": "Universities should make a gap semester possible with clear planning support, rather than encourage it as the best choice for everyone. Time away can help a student gain experience, address personal responsibilities, or reconsider academic goals. Yet the second student's concern matters: unclear credit rules or course sequences can make returning unnecessarily difficult. Before leaving, students should create a return plan with an adviser and understand any financial or scheduling consequences. A student pursuing a defined internship might benefit greatly, while someone leaving without a purpose may prefer a lighter course load. The university's role is to provide reliable options and continuity, allowing an informed decision that fits the individual's circumstances.",
-    "explanation": "读懂：大学是否应鼓励学生暂停一学期去工作、志愿服务或探索兴趣？要比较明确目标的可能性与返校、财务和课程衔接困难。\n解析：范文支持有规划的选择而非人人休学，强调离校前和导师确认返校计划、学分与排课后果；有明确实习目标者与只想逃避安排者需要不同办法。gap semester 是“暂停一个学期”。这不是结束学业，其他合理建议也可成立。\n下次：选一种具体学生处境，说明离校能完成什么，再规划何时回来和哪门连续课程如何衔接。不要只描绘旅行成长，而忘掉题目关于毕业进度的担忧。"
+    "explanation": "读懂：大学是否应鼓励学生暂停一学期去工作、志愿服务或探索兴趣？要比较明确目标的可能性与返校、财务和课程衔接困难。\n解析：范文支持有规划的选择而非人人休学，强调离校前和导师确认返校计划、学分与排课后果；有明确实习目标者与尚无明确离校计划者需要不同办法。gap semester 是“暂停一个学期”。这不是结束学业，其他合理建议也可成立。\n下次：选一种具体学生处境，说明离校能完成什么，再规划何时回来和哪门连续课程如何衔接。不要只描绘旅行成长，而忘掉题目关于毕业进度的担忧。"
   },
   "W133": {
     "type": "subjective",
@@ -3428,7 +3445,7 @@
     ],
     "min_words": 100,
     "max_score": 5,
-    "reference": "Hi Quinn,\nThe time capsule could be a meaningful way to reconnect at our reunion, but contributors need to know now if their letters might be read aloud ten years later. A letter someone imagines opening privately may contain very different thoughts from one written for a public audience. We should not make that choice for them after collection.\nCould we offer separate options: return the sealed letter to its author, or allow it to be shared with the reunion group? Each envelope could carry the chosen instruction, with a matching record kept by the class organizer. We should also decide who will pass that record to future organizers if our roles change. I can add these choices to the collection notice before more letters arrive, so the future event respects the intentions people express today.\nAlex",
+    "reference": "Hi Quinn,\nThe time capsule could be a meaningful way to reconnect at our reunion, but contributors need to know now if their letters might be read aloud ten years later. A letter someone imagines opening privately may contain very different thoughts from one written for a public audience. We should not make that choice for them after collection.\nCould we offer separate options: return the sealed letter to its author, or allow it to be shared with the reunion group? Each envelope could carry the chosen instruction, with a matching record kept by the class organizer. We should also decide who will pass that record to future organizers if our roles change. I can add these choices to the collection notice before we begin collecting the letters, so the future event respects the intentions people express today.\nAlex",
     "explanation": "读懂：read aloud 是公开朗读；十年后用途需在现在收信时说明。\n解析：范文区分私下返还与允许分享，信封和登记双记选择，并考虑组织者更替；只靠现任口头记住许可无法跨越十年。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：长期保存私人内容→事前解释未来使用→提供清晰选择→让记录随物品和职责一起传递。"
   },
   "W351": {
@@ -3933,7 +3950,7 @@
     "min_words": 100,
     "max_score": 5,
     "reference": "A clearly explained discounted section would be the better starting point because it makes both the price and the reason for the discount visible. Student A is right that presentation can imply poor quality, so the sign should describe shape differences rather than use language suggesting failure. A photograph of sliced vegetables in a finished dish could show why appearance matters little for many uses. For example, an irregular carrot can still be convenient for soup when the store has already confirmed that it meets its normal checks. Student B's savings argument then becomes concrete rather than hidden. Staff should monitor whether the display actually sells through; a neglected corner would reinforce the very stigma it is meant to challenge, regardless of how carefully the sign is written.",
-    "explanation": "读懂：unusual shapes 指外形不规则，题干已限定通过同等质量检查。\n解析：范文独立折扣区突出价格，用切入汤里的胡萝卜说明外形未必影响用途；但冷落角落会强化次品印象。不能把外观不同直接当质量差。\n下次：先分清折扣缘由与质量条件，再用具体用途解释价值，检查摆放是否与宣传相矛盾。"
+    "explanation": "读懂：unusual shapes 指外形不规则，题干已限定通过同等质量检查。\n解析：范文独立折扣区突出价格，以外形不规则的胡萝卜仍可煮汤为例，说明外形未必影响用途；但冷落角落会强化次品印象。不能把外观不同直接当质量差。\n下次：先分清折扣缘由与质量条件，再用具体用途解释价值，检查摆放是否与宣传相矛盾。"
   },
   "W393": {
     "type": "subjective",
@@ -3957,7 +3974,7 @@
     "min_words": 100,
     "max_score": 5,
     "reference": "One clearly announced daily reduction would be preferable, even if it is less precise for the store. Student A sees a useful stock management tool, but shoppers also need to plan. Someone buying food during a fixed lunch break should not have to wonder whether waiting another hour would make the same basket much cheaper. A predictable reduction time lets customers decide whether the offer fits their schedule without repeatedly checking. The store could still vary the discount between products according to remaining stock, while keeping each displayed price stable for the stated period. Deadlines and relevant product information must remain clear; a low price should not obscure them. If surplus continues, the store should review ordering quantities rather than assume that increasingly frequent price changes are the only way to avoid unsold goods.",
-    "explanation": "读懂：predictable daily reduction 是可预期的每日降价，比较清库存效率与购物安排。\n解析：范文用固定午休购物者说明频繁改价的成本，允许不同商品折扣但时段内稳定。卖不完也可调整进货，不能只靠刺激顾客反复等价。\n下次：先看消费者何时能行动，再说明价格承诺持续多久，检查期限信息与上游订货是否被忽略。"
+    "explanation": "读懂：predictable daily reduction 是可预期的每日降价，比较清库存效率与购物安排。\n解析：范文用固定午休购物者说明频繁改价的成本，允许不同商品折扣但时段内稳定。卖不完也可调整进货，不能只靠让顾客反复等待更低价格。\n下次：先看消费者何时能行动，再说明价格承诺持续多久，检查期限信息与上游订货是否被忽略。"
   },
   "W395": {
     "type": "subjective",
@@ -3993,7 +4010,7 @@
     "min_words": 100,
     "max_score": 5,
     "reference": "The university should compare the cost of keeping each kitchen usable, not just the price printed on the appliance. Student B's repair argument is persuasive only if staff can actually obtain and install the parts. For example, a replaceable kettle switch offers little value if delivery takes months and the kitchen has no spare kettle. The purchasing team should ask about part prices, delivery times, and which repairs require qualified staff. Student A's immediate budget concern also matters, so the university might select repairable models for frequently used equipment while making simpler choices elsewhere. I would favor the second supplier where those practical checks support its promise. Paying more for a repair label alone would be no wiser than choosing the cheapest product without considering how it will be maintained.",
-    "explanation": "读懂：replacement parts 是替换零件，承诺可修不等于及时恢复使用。\n解析：范文用水壶开关等数月说明零件供应和备用机的重要性，按使用强度选择；不建议学生自行维修。只比购买价或只看可修标签都不够。\n下次：先算保持设备可用需哪些环节，再问零件、到货和合格维修人手，检查额外购价是否买到真实能力。"
+    "explanation": "读懂：replacement parts 是替换零件，承诺可修不等于及时恢复使用。\n解析：范文用更换水壶开关却要等数月到货的例子说明零件供应和备用机的重要性，按使用强度选择；不建议学生自行维修。只比购买价或只看可修标签都不够。\n下次：先算保持设备可用需哪些环节，再问零件、到货和合格维修人手，检查多付的购置费是否换来实际维修条件。"
   },
   "W398": {
     "type": "subjective",
@@ -4041,7 +4058,7 @@
     "min_words": 100,
     "max_score": 5,
     "reference": "Editors should judge the quality of the question and method before deciding whether a result is interesting. Student B correctly notes that finding no effect can be difficult to interpret, but a positive finding can also come from a weak study. Suppose students compare two study routines and observe no clear difference in their small class. A useful article would explain the limited sample and avoid claiming that the routines are universally equivalent. That account could help another group design a larger comparison, supporting Student A's point about cumulative learning. Equal consideration would not require publishing every unsuccessful project. It would mean using the same standards of careful description and appropriately limited conclusions, rather than treating a dramatic result as proof that the underlying research deserves more attention.",
-    "explanation": "读懂：no effect 指未观察到效应，不等于证明永远没有差别。\n解析：范文用小班比较学习方法说明结果须限定样本，后续可扩大研究；阳性结果也可能方法弱。公平考虑不是所有失败项目都必发。\n下次：先看问题与方法，再写结果能支持的范围，检查有没有把未发现偷换成不存在。"
+    "explanation": "读懂：no effect 指未观察到效应，不等于证明永远没有差别。\n解析：范文用小班比较学习方法说明结果须限定样本，后续可扩大研究；观察到预期效果的结果也可能来自薄弱的方法。公平考虑不是所有失败项目都必发。\n下次：先看问题与方法，再写结果能支持的范围，检查有没有把未发现偷换成不存在。"
   },
   "W402": {
     "type": "subjective",
@@ -4077,7 +4094,7 @@
     "min_words": 100,
     "max_score": 5,
     "reference": "Beginners should collect a small dataset themselves before examining a larger existing one. Student A rightly wants enough information for analysis, but Student B identifies a foundation that cannot be supplied by a clean spreadsheet alone. Students counting bicycles at one entrance might discover that their choice of time changes the apparent level of use. That experience gives them a concrete reason to ask how the larger dataset was collected. The initial exercise need not support an ambitious conclusion; its purpose is to reveal measurement decisions. Most analysis time could still use the prepared material. This sequence would take some time away from advanced calculations, but it would help students avoid treating a large collection of numbers as automatically representative simply because it looks organized and complete.",
-    "explanation": "读懂：existing dataset 是已有数据集，干净表格不意味着采集过程没有选择。\n解析：范文先数一次入口自行车，发现时段影响，再分析大数据；小样本用于认识测量，不用于雄心勃勃的结论。只比数据多少会漏掉来源理解。\n下次：先亲自作一个采集决定，再把疑问带到现成数据，检查样本覆盖谁、何时、何地。"
+    "explanation": "读懂：existing dataset 是已有数据集，干净表格不意味着采集过程没有选择。\n解析：范文先在一个入口统计自行车数量，发现时段影响，再分析规模更大的现成数据；小样本用于认识测量，不用于雄心勃勃的结论。只比数据多少会漏掉来源理解。\n下次：先亲自作一个采集决定，再把疑问带到现成数据，检查样本覆盖谁、何时、何地。"
   },
   "W405": {
     "type": "subjective",
@@ -4100,8 +4117,8 @@
     ],
     "min_words": 100,
     "max_score": 5,
-    "reference": "An engaging opening can pose a concrete question without promising a result that the study has not established. I agree with Student B that essential limits belong near the main finding. Imagine a study showing that students who use a particular library space also report better concentration. An article could explore why that space attracts focused students, rather than claim that entering the room improves concentration. This distinction leaves room for an interesting story while showing that an association does not identify its cause. Student A is right that readers need a clear message, so not every technical detail belongs in the opening. Editors should prioritize the limitation most likely to change the reader's interpretation, then use an accessible example to explain it instead of adding a long list of defensive qualifications.",
-    "explanation": "读懂：association 是关联，不代表已确定因果。\n解析：范文以特定阅览室使用者更专注为假设例子，不能写成进房间就提高专注；开头放最影响理解的限制，而非堆技术细节。\n下次：先写读者最可能得出的结论，再核对研究真能支持什么，检查标题与首段是否偷偷加强了主张。"
+    "reference": "An engaging opening can pose a concrete question without promising a result that the study has not established. I agree with Student B that essential limits belong near the main finding. Imagine a study showing that students who use a particular library space also report better concentration. An article could ask whether students who already concentrate well are more likely to choose that space or whether features of the room help them focus, rather than claim that entering the room improves concentration. This distinction leaves room for an interesting story while showing that an association does not identify its cause. Student A is right that readers need a clear message, so not every technical detail belongs in the opening. Editors should prioritize the limitation most likely to change the reader's interpretation, then use an accessible example to explain it instead of adding a long list of defensive qualifications.",
+    "explanation": "读懂：association 是关联，不代表已确定因果。\n解析：范文假设某阅览室的使用者自报更专注，但更专注者主动选择该房间和房间帮助专注这两种解释都还需调查，不能直接写成进房间就提高专注；开头放最影响理解的限制，而非堆技术细节。\n下次：先写读者最可能得出的结论，再核对研究真能支持什么，检查标题与首段是否偷偷加强了主张。"
   },
   "W407": {
     "type": "subjective",
@@ -4197,7 +4214,7 @@
     "min_words": 100,
     "max_score": 5,
     "reference": "A visitor trying to download a bus map should not need to create a lasting relationship with a sponsor. I would offer basic access without an account and make service notifications optional. Student A wants usage information, but that goal does not by itself justify collecting contact details from every person. The plaza could count connections in a way that avoids publishing individual activity and ask willing users for feedback. Student B's concern about access is especially relevant when someone cannot open an email verification message until already connected. The sponsor should explain what information the service needs and how it is handled. Direct access does not mean making promises about complete privacy or security that the plaza cannot support; it means keeping registration separate from the basic public function.",
-    "explanation": "读懂：registration 是注册，测使用量不自然等于必须收邮箱。\n解析：范文用下载公交地图的访客说明短时需求，并指出验证邮件可能反而先要联网；基础接入与自愿通知分开。不承诺无账号就绝对安全或匿名。\n下次：先问完成基本服务真需哪些信息，再拆开必需和自愿环节，检查流程是否形成进入前的循环门槛。"
+    "explanation": "读懂：registration 是注册，统计使用量不等于必须收集邮箱。\n解析：范文用下载公交地图的访客说明短时需求，并指出验证邮件可能反而先要联网；基础接入与自愿通知分开。不承诺无账号就绝对安全或匿名。\n下次：先问完成基本服务真需哪些信息，再拆开必需和自愿环节，检查流程是否形成进入前的循环门槛。"
   },
   "W415": {
     "type": "subjective",
@@ -4389,7 +4406,7 @@
     "min_words": 100,
     "max_score": 5,
     "reference": "Most of the session should allow child directed play, with staff providing a clear starting invitation and intervening when access becomes unequal. Student B values negotiation, but Student A is right that an empty instruction to play can leave some children outside the group. A box of approved building materials could come with a shared challenge, such as creating a place for imaginary animals. Children could then decide what to build and how to divide tasks. Staff would watch whether a confident child takes every important role and help others enter without designing the whole project. A brief organized game could still open or close the session. Purpose does not require constant adult control, but freedom should come with attentive support rather than the assumption that every child can negotiate participation alone.",
-    "explanation": "读懂：child directed play 是儿童主导游戏，不等于成人完全不支持。\n解析：范文用共同搭建想象动物住所开局，孩子决定做法，教师关注角色是否被垄断。只说自由培养能力，会忽略难以加入的孩子。\n下次：先给可加入的共同起点，再留出真实选择，检查成人帮助是否支持参与而非接管所有决定。"
+    "explanation": "读懂：child directed play 是儿童主导游戏，不等于成人完全不支持。\n解析：范文用共同搭建想象动物住所开局，孩子决定做法，工作人员关注角色是否被垄断。只说自由培养能力，会忽略难以加入的孩子。\n下次：先给可加入的共同起点，再留出真实选择，检查成人帮助是否支持参与而非接管所有决定。"
   },
   "W431": {
     "type": "subjective",
@@ -4449,7 +4466,7 @@
     "min_words": 100,
     "max_score": 5,
     "reference": "I favor a public vote after a panel checks feasibility and presents comparable information about each eligible proposal. Student A's argument for resident choice is convincing, but Student B shows why popularity alone is an incomplete test. The panel should not rank projects according to its own tastes. Instead, it could require every proposal to explain who will maintain it and what that work involves. For example, a small reading shelter might need fewer weekly volunteer hours than a garden with many separate beds, even if their construction costs are similar. Voters could then weigh that difference alongside their preferences. The town should offer paper ballots and a public explanation of any rejected proposal. Otherwise, a supposedly open vote could exclude residents or conceal important decisions made before voting begins.",
-    "explanation": "读懂：published criteria 是公开的评选标准；争点是居民决定权与项目后续是否养得起。\n解析：范文让小组先查可行性、居民再投票，新增比较持续维护工时的理由；阅读棚与分床花园是假设比较，并非断言花园总更贵。公开剔除理由与纸票让投票前后的程序也可检查。\n下次：遇到投票与专家筛选→分清可行性审查和偏好选择→举隐藏后续成本→检查筛选理由与参与渠道是否公开。"
+    "explanation": "读懂：published criteria 是公开的评选标准；争点是居民决定权与项目后续是否养得起。\n解析：范文让小组先查可行性、居民再投票，新增比较持续维护工时的理由；阅读棚与分成多块种植区的花园是假设比较，并非断言花园总更贵。公开剔除理由与纸票让投票前后的程序也可检查。\n下次：遇到投票与专家筛选→分清可行性审查和偏好选择→举隐藏后续成本→检查筛选理由与参与渠道是否公开。"
   },
   "W436": {
     "type": "subjective",
@@ -4580,8 +4597,8 @@
     ],
     "min_words": 100,
     "max_score": 5,
-    "reference": "Most of the hour should go to one guided repair, followed by a short attempt without instructions. Student B explains the importance of physical practice, but independence also requires remembering the sequence after help is removed. For example, participants could first sew a button onto practice fabric with the instructor's guidance, then repeat the repair on a second piece while checking a simple diagram. The instructor could observe which step still causes difficulty. Student A is right that learners need to recognize other possibilities, so a closing display could show examples of repairs taught in future sessions. That overview should not replace successful practice today. Participants would leave knowing one manageable action they can repeat and understanding that a different kind of damage may require a technique they have not yet learned.",
-    "explanation": "读懂：independently 是独立完成；题目权衡看多种技法与亲手掌握一种修补。\n解析：范文新增撤去指导后再做一次的检验：先跟着缝纽扣，再借图示独立重复，才知道记住了哪步；末尾展示其他修补的用途，但不把看过当成已经会做。\n下次：入门教学在广度与熟练间取舍→选一个可完成动作→安排减少帮助后的重复→检查能否独立做及何时需要另学。"
+    "reference": "Most of the hour should go to one guided repair, followed by a short attempt without the instructor's step-by-step help. Student B explains the importance of physical practice, but independence also requires remembering the sequence after help is removed. For example, participants could first sew a button onto practice fabric with the instructor's guidance, then repeat the repair on a second piece while checking a simple diagram. The instructor could observe which step still causes difficulty. Student A is right that learners need to recognize other possibilities, so a closing display could show examples of repairs taught in future sessions. That overview should not replace successful practice today. Participants would leave knowing one manageable action they can repeat and understanding that a different kind of damage may require a technique they have not yet learned.",
+    "explanation": "读懂：independently 是独立完成；题目权衡看多种技法与亲手掌握一种修补。\n解析：范文新增撤去教师逐步指导后再做一次的检验：先跟着缝纽扣，再借图示独立重复，才知道记住了哪步；末尾展示其他修补的用途，但不把看过当成已经会做。\n下次：入门教学在广度与熟练间取舍→选一个可完成动作→安排减少帮助后的重复→检查能否独立做及何时需要另学。"
   },
   "W447": {
     "type": "subjective",
@@ -4593,7 +4610,7 @@
     "min_words": 100,
     "max_score": 5,
     "reference": "I would test later hours on selected days while preserving a predictable pattern of short visits during the week. Student A shows that total opening hours are a poor measure of access, and Student B explains why concentrating them can exclude other shoppers. The decision should therefore use information about missed visits, not only current sales. For example, asking customers at noon whether they want evening access would omit the workers who cannot enter the store at noon. Members could report times when they wanted to shop but found it closed, alongside the amount they can comfortably carry. The cooperative could use that information to design a trial within the existing staffing budget. It should announce the schedule for the whole trial, since changing hours repeatedly would make planning difficult for both groups.",
-    "explanation": "读懂：opening hours 是营业时段；总小时相同仍要权衡下班后购物与多次少量采购。\n解析：范文新增收集“想来却进不来”的记录：只问中午店内顾客会漏掉上班者；连同携带量设计固定试行时表，并守住原人员预算，不能凭现有销量代表所有需求。\n下次：相同资源改时段→找现有使用数据漏掉谁→收集未满足需求→检查试行是否可预测且符合资源限制。"
+    "explanation": "读懂：opening hours 是营业时段；总小时相同仍要权衡下班后购物与多次少量采购。\n解析：范文新增收集“想来却进不来”的记录：只问中午店内顾客会漏掉上班者；连同携带量设计固定的试行时间表，并守住原人员预算，不能凭现有销量代表所有需求。\n下次：相同资源改时段→找现有使用数据漏掉谁→收集未满足需求→检查试行是否可预测且符合资源限制。"
   },
   "W448": {
     "type": "subjective",
@@ -4605,7 +4622,7 @@
     "min_words": 100,
     "max_score": 5,
     "reference": "The school should first move some existing club meetings into the current lunch period and examine what still prevents participation. Student A identifies an access problem, but adding time to everyone's day may solve it by creating another barrier. For example, a short club session on a rotating lunch schedule could let a student participate and still catch the usual bus afterward. This would address Student B's concern without assuming that all activities fit into a shorter meeting. If several clubs genuinely require longer sessions, the school could consult students about a limited timetable trial rather than adopting a permanent change immediately. Feedback should include people who would skip the clubs as well as enthusiastic members. A schedule affects everyone, so the benefits for participants must be weighed against the commitments of those who gain little from the extension.",
-    "explanation": "读懂：fixed commitments 是时间固定的安排；题目权衡午间活动机会与推迟放学的影响。\n解析：范文新增先轮流安排短社团时段的办法，以参加后仍赶上原班车为假设例子；长活动未必适用，需有限试行并听取不参加者意见，不能只问受益成员就决定全校时表。\n下次：集体改时间以增加活动→追踪新增时间从谁那里取走→先试较小调整→检查未受益者的固定安排。"
+    "explanation": "读懂：fixed commitments 是时间固定的安排；题目权衡午间活动机会与推迟放学的影响。\n解析：范文新增先轮流安排短社团时段的办法，以参加后仍赶上原班车为假设例子；长活动未必适用，需有限试行并听取不参加者意见，不能只问受益成员就决定全校作息表。\n下次：集体改时间以增加活动→追踪新增时间从谁那里取走→先试较小调整→检查未受益者的固定安排。"
   },
   "W449": {
     "type": "subjective",

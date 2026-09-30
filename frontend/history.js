@@ -81,7 +81,11 @@
       minute: '2-digit',
       hour12: false,
     });
-    return `<article class="history-row"><div class="history-row-copy"><h2>${esc(record.title)}</h2><p>${esc(record.subtitle)} · 已答 ${record.answered} / ${record.total} 题</p></div><time datetime="${date.toISOString()}">${day}<span>${time}</span></time><div class="history-row-score">${record.earned} / ${record.possible}<small>${esc(record.score_label)}</small></div><button class="text-button" type="button" data-history-id="${esc(record.id)}" aria-label="复盘 ${esc(record.title)} ${day} ${time}">查看复盘 →</button></article>`;
+    const score =
+      record.possible === 0 && record.manual_review_count > 0
+        ? '待人工复核'
+        : `${record.earned} / ${record.possible}`;
+    return `<article class="history-row"><div class="history-row-copy"><h2>${esc(record.title)}</h2><p>${esc(record.subtitle)} · 已答 ${record.answered} / ${record.total} 题</p></div><time datetime="${date.toISOString()}">${day}<span>${time}</span></time><div class="history-row-score">${esc(score)}<small>${esc(record.score_label)}</small></div><button class="text-button" type="button" data-history-id="${esc(record.id)}" aria-label="复盘 ${esc(record.title)} ${day} ${time}">查看复盘 →</button></article>`;
   }
 
   async function load() {

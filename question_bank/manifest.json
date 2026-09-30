@@ -1,9 +1,9 @@
 {
-  "version": "2026-09-tripled-original-practice",
-  "verified_on": "2026-09-27",
+  "version": "2026-09-30-doubled-receptive-practice",
+  "verified_on": "2026-09-30",
   "title": "TOEFL iBT 2026 Practice Bank",
   "source": "Original practice items aligned with ETS task descriptions; not official ETS questions.",
-  "total_questions": 2115,
+  "total_questions": 3615,
   "distribution_note": "Fixed practice form within ETS published task ranges; not an adaptive exam.",
   "difficulty_note": "简单、适中、困难是本项目按材料与任务要求作出的内容分级，未经 ETS 难度标定。",
   "difficulty_policy": "每份至少含适中或困难题，可混合、全适中或全困难；不抽取整份全简单的组合。材料不拆分，保留题目原有难度。",
@@ -43,7 +43,7 @@
         "read_daily_life",
         "read_academic_passage"
       ],
-      "question_count": 795,
+      "question_count": 1590,
       "exam_question_count": 50,
       "exam_task_targets": {
         "complete_words": 30,
@@ -109,12 +109,12 @@
             "countup",
             "countdown"
           ],
-          "bank_questions": 450,
-          "bank_units": 45,
+          "bank_questions": 900,
+          "bank_units": 90,
           "difficulty_counts": {
-            "easy": 138,
-            "medium": 252,
-            "hard": 60
+            "easy": 362,
+            "medium": 524,
+            "hard": 14
           }
         },
         "read_daily_life": {
@@ -181,12 +181,12 @@
             "countup",
             "countdown"
           ],
-          "bank_questions": 195,
-          "bank_units": 90,
+          "bank_questions": 390,
+          "bank_units": 180,
           "difficulty_counts": {
-            "easy": 78,
-            "medium": 108,
-            "hard": 9
+            "easy": 239,
+            "medium": 149,
+            "hard": 2
           }
         },
         "read_academic_passage": {
@@ -243,12 +243,12 @@
             "countup",
             "countdown"
           ],
-          "bank_questions": 150,
-          "bank_units": 30,
+          "bank_questions": 300,
+          "bank_units": 60,
           "difficulty_counts": {
-            "easy": 22,
-            "medium": 88,
-            "hard": 40
+            "easy": 76,
+            "medium": 215,
+            "hard": 9
           }
         }
       }
@@ -262,7 +262,7 @@
         "listen_announcement",
         "listen_academic_talk"
       ],
-      "question_count": 705,
+      "question_count": 1410,
       "exam_question_count": 47,
       "exam_task_targets": {
         "listen_choose_response": 17,
@@ -329,12 +329,12 @@
             "countup",
             "countdown"
           ],
-          "bank_questions": 255,
-          "bank_units": 255,
+          "bank_questions": 510,
+          "bank_units": 510,
           "difficulty_counts": {
-            "easy": 119,
-            "medium": 113,
-            "hard": 23
+            "easy": 224,
+            "medium": 276,
+            "hard": 10
           }
         },
         "listen_conversation": {
@@ -395,12 +395,12 @@
             "countup",
             "countdown"
           ],
-          "bank_questions": 150,
-          "bank_units": 75,
+          "bank_questions": 300,
+          "bank_units": 150,
           "difficulty_counts": {
-            "easy": 51,
-            "medium": 88,
-            "hard": 11
+            "easy": 93,
+            "medium": 207,
+            "hard": 0
           }
         },
         "listen_announcement": {
@@ -457,12 +457,12 @@
             "countup",
             "countdown"
           ],
-          "bank_questions": 120,
-          "bank_units": 60,
+          "bank_questions": 240,
+          "bank_units": 120,
           "difficulty_counts": {
-            "easy": 55,
-            "medium": 59,
-            "hard": 6
+            "easy": 106,
+            "medium": 134,
+            "hard": 0
           }
         },
         "listen_academic_talk": {
@@ -519,12 +519,12 @@
             "countup",
             "countdown"
           ],
-          "bank_questions": 180,
-          "bank_units": 45,
+          "bank_questions": 360,
+          "bank_units": 90,
           "difficulty_counts": {
-            "easy": 36,
-            "medium": 109,
-            "hard": 35
+            "easy": 87,
+            "medium": 256,
+            "hard": 17
           }
         }
       }

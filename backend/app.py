@@ -39,7 +39,7 @@ TTS_TIMEOUT_SECONDS = 20
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger("toefl_trainer")
 
-app = FastAPI(title="TOEFL iBT 2026 Practice API", version="1.0.0")
+app = FastAPI(title="TOEFL iBT 2026 Practice API", version="1.1.0")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://127.0.0.1:38761", "http://localhost:38761"],
@@ -151,7 +151,7 @@ def submit(payload: ExamSubmitRequest) -> dict:
         )
     except ValueError as exc:
         raise HTTPException(status_code=422, detail=str(exc)) from exc
-    save_submission(payload, result)
+    result = save_submission(payload, result)
     logger.info(
         "Submission scored section=%s mode=%s task=%s received=%d answered=%d total=%d elapsed_ms=%.1f",
         payload.section,

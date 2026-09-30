@@ -172,7 +172,7 @@ def select_phase(index, level, used, rng=None):
     rng = rng or random.SystemRandom()
     section, title, seconds, blueprint = PHASES[index]
     chosen = []
-    for task, count, size in blueprint:
+    for task_index, (task, count, size) in enumerate(blueprint):
         selected_groups = []
         groups = [
             group
@@ -190,6 +190,11 @@ def select_phase(index, level, used, rng=None):
                 and size <= 2
             ):
                 pool = [g for g in groups if all(q['difficulty'] == 'easy' for q in g)] or groups
+            if task_index == len(blueprint) - 1 and position == count - 1:
+                earlier = chosen + [q for group in selected_groups for q in group]
+                # A phase with several materials must retain some non-easy content.
+                if earlier and all(q['difficulty'] == 'easy' for q in earlier):
+                    pool = [g for g in groups if any(q['difficulty'] != 'easy' for q in g)] or pool
             counts = Counter(q['difficulty'] for group in pool for q in group)
             mixture = dict(zip(('easy', 'medium', 'hard'), MIXES[level - 1]))
             weights = [

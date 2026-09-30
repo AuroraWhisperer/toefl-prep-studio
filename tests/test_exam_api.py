@@ -47,15 +47,15 @@ def test_exam_counts_and_distribution(client, section):
 def test_meta_and_bank_counts(client):
     store.validate_integrity()
     data = client.get('/api/v1/meta').json()
-    assert data['total_questions'] == 2115
+    assert data['total_questions'] == 3615
     assert data['exam_total_questions'] == 120
     assert {s: m['question_count'] for s, m in data['sections'].items()} == {
-        'reading': 795,
-        'listening': 705,
+        'reading': 1590,
+        'listening': 1410,
         'writing': 450,
         'speaking': 165,
     }
-    assert len(client.get('/api/v1/exam?mode=bank').json()['questions']) == 2115
+    assert len(client.get('/api/v1/exam?mode=bank').json()['questions']) == 3615
 
 
 @pytest.mark.parametrize('task_type', TARGETS['writing'])
@@ -69,7 +69,7 @@ def test_writing_bank_filter_and_submission(client, task_type):
     assert response.json()['sections']['writing']['total'] == 150
 
 
-@pytest.mark.parametrize('mode,count', [('exam', 120), ('bank', 2115)])
+@pytest.mark.parametrize('mode,count', [('exam', 120), ('bank', 3615)])
 def test_full_submission_above_old_100_item_limit(client, mode, count):
     questions = client.get('/api/v1/exam', params={'mode': mode}).json()['questions']
     response = client.post(

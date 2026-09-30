@@ -22,10 +22,12 @@
   <a href="#task-previews">Task previews</a> ·
   <a href="#usage-notes">Usage notes</a> ·
   <a href="#documentation">Documentation</a> ·
-  <a href="https://github.com/AuroraWhisperer/toefl-prep-studio/releases">Releases (v1.0.0)</a>
+  <a href="https://github.com/AuroraWhisperer/toefl-prep-studio/releases">Releases (v1.1.0)</a>
 </p>
 
 </div>
+
+**New in v1.1.0:** Each Reading and Listening task pool has doubled, bringing the original bank to 3,615 items. This release revises questions and explanations, marks open writing and interview responses for manual review, and improves review typography. See the [release notes](docs/releases/v1.1.0.md).
 
 ## Quick start
 
@@ -104,12 +106,12 @@ Answers, time spent, feedback, and uploaded recordings are saved locally. Find a
 
 ## Question bank
 
-The original bank contains **2,115 scored items across 12 task types**. “Section set” below is the number of items in one fixed section practice session.
+The original bank contains **3,615 practice items across 12 task types**. Every Reading and Listening task pool has doubled from the previous version. A subsequent review of all 3,000 Reading and Listening items revised topics, answers, distractors, and explanations; difficulty follows the actual task demands, without fixed proportions. See the [expansion details](docs/question-bank/receptive-expansion-2026-09-30.md) and [item-by-item revision report](docs/question-bank/receptive-repair-2026-09-30.md). “Section set” below is the number of items in one fixed section practice session.
 
 | Section | Bank items | Section set | Task types |
 | :--- | ---: | ---: | :--- |
-| **Reading** | **795** | 50 | Complete the Words<br>Read in Daily Life · Read an Academic Passage |
-| **Listening** | **705** | 47 | Choose a Response · Conversation<br>Announcement · Academic Talk |
+| **Reading** | **1,590** | 50 | Complete the Words<br>Read in Daily Life · Read an Academic Passage |
+| **Listening** | **1,410** | 47 | Choose a Response · Conversation<br>Announcement · Academic Talk |
 | **Writing** | **450** | 12 | Build a Sentence · Write an Email<br>Academic Discussion |
 | **Speaking** | **165** | 11 | Listen and Repeat · Take an Interview |
 
@@ -235,7 +237,7 @@ Speech recognition depends on browser support. You can correct a transcript manu
 <details>
 <summary><strong>How should I interpret the scores?</strong></summary>
 
-Regular practice gives raw scores and text feedback, with heuristic checks for open responses. Mock exams and comprehensive tests report objective correct-answer counts; open writing responses and speaking tasks need manual review.
+Regular practice totals only automatically checked items. Emails, discussions, and interviews are marked for manual review, with word-count and repetition hints but no grades based on reference keywords. Repetition tasks compare transcripts only. Mock exams and comprehensive tests report objective correct-answer counts; open writing responses and speaking tasks need manual review. Existing records retain their original scores and feedback.
 
 These results are for practice. **They do not predict official scores or assess pronunciation, intonation, or fluency.** Difficulty levels, module routing, and some time limits are local training settings. Mock exam learning notes are written for this project, not supplied by ETS.
 

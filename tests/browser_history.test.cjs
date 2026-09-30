@@ -113,11 +113,15 @@ test('real submission survives reload and reopens the original answer review', a
   await expect(page.locator('#result-title')).toContainText('历史复盘');
   await expect(page.locator('.submitted-answer')).toContainText('<img src=x onerror=alert(1)>');
   expect(await page.locator('.submitted-answer img').count()).toBe(0);
-  await expect(page.locator('#result-summary')).toContainText(
-    `${result.sections.writing.earned} / ${result.sections.writing.possible}`,
-  );
+  expect(result.feedback[0].manual_review).toBe(true);
+  await expect(page.locator('#result-summary')).toContainText('待人工复核');
+  await expect(page.locator('#result-summary')).toContainText('1 / 1');
+  await expect(page.locator('#result-summary')).not.toContainText('0 / 0');
+  await expect(page.locator('.review-answer-head')).toContainText('待人工复核');
   await page.locator('#result-home').click();
   await expect(page.locator('#history-view')).toBeVisible();
+  await expect(page.locator('.history-row-score').first()).toContainText('待人工复核');
+  await expect(page.locator('.history-row-score').first()).not.toContainText('0 / 0');
   await page.screenshot({ path: testInfo.outputPath('history-desktop.png'), fullPage: true });
   await page.locator('#history-home').click();
   await expect(page.locator('#open-history')).toBeFocused();

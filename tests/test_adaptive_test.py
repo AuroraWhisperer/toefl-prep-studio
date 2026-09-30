@@ -110,6 +110,31 @@ def test_complete_test_has_whole_materials_unique_ids_and_independent_routes(
     assert record['result']['adaptive']['starting_level'] == level
 
 
+@pytest.mark.parametrize('phase_index', range(5))
+def test_multi_material_phase_keeps_non_easy_content_when_draws_prefer_easy(phase_index):
+    class EasyFirst:
+        def choices(self, population, weights, k):
+            return [
+                next(
+                    (
+                        group
+                        for group in population
+                        if all(q['difficulty'] == 'easy' for q in group)
+                    ),
+                    population[0],
+                )
+            ]
+
+        def shuffle(self, groups):
+            pass
+
+    phase = tests.select_phase(phase_index, 1, set(), EasyFirst())
+    assert any(question['difficulty'] != 'easy' for question in phase['questions'])
+    bank = material_groups(store.all_questions())
+    for group_id, group in material_groups(phase['questions']).items():
+        assert [q['id'] for q in group] == [q['id'] for q in bank[group_id]]
+
+
 def test_harder_profiles_shift_mix_over_many_forms():
     means = []
     for level in (2, 10):

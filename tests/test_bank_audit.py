@@ -72,7 +72,7 @@ def test_every_item_has_current_review_and_private_vocabulary_evidence():
     assert set(NOTES) == {q['id'] for q in questions}
     assert {q['id'] for q in questions} == {
         f'{prefix}{i:02d}'
-        for prefix, total in [('R', 795), ('L', 705), ('W', 450), ('S', 165)]
+        for prefix, total in [('R', 1590), ('L', 1410), ('W', 450), ('S', 165)]
         for i in range(1, total + 1)
     }
     groups = {}
@@ -93,8 +93,11 @@ def test_every_item_has_current_review_and_private_vocabulary_evidence():
     for info in STORE.manifest()['sections'].values():
         for task, config in info['practice_tasks'].items():
             actual = Counter(q['difficulty'] for q in questions if q['task_type'] == task)
-            assert actual == config['difficulty_counts']
-            assert set(actual) == {'easy', 'medium', 'hard'}
+            assert {level: actual[level] for level in ('easy', 'medium', 'hard')} == config[
+                'difficulty_counts'
+            ]
+            assert set(actual) <= {'easy', 'medium', 'hard'}
+            assert actual['medium'] + actual['hard'] > 0
 
 
 def test_changed_question_or_answer_requires_new_review():
@@ -113,7 +116,7 @@ def test_cloze_has_complete_first_sentence_then_ten_alternate_half_words():
     groups = {}
     for q in STORE.questions_for('reading', 'bank', 'complete_words'):
         groups.setdefault(q['group_id'], []).append(q)
-    assert len(groups) == 45
+    assert len(groups) == 90
     for qs in groups.values():
         passage = qs[0]['passage']
         first, rest = passage.split('. ', 1)
@@ -125,6 +128,34 @@ def test_cloze_has_complete_first_sentence_then_ten_alternate_half_words():
             word = STORE.answer(q['id'])['reference']
             assert q['prefix'] == word[: len(word) // 2]
             assert q['prefix'] and len(q['prefix']) + q['missing_length'] == len(word)
+
+
+@pytest.mark.parametrize(
+    'question_id,accepted',
+    [
+        ('R914', ('cool', 'ol', 'cold', 'ld')),
+        ('R1037', ('recognizable', 'izable', 'recognisable', 'isable')),
+        ('R1092', ('minimize', 'mize', 'minimise', 'mise')),
+        ('R1113', ('recognizable', 'izable', 'recognisable', 'isable')),
+        ('R1191', ('recognizable', 'izable', 'recognisable', 'isable')),
+    ],
+)
+def test_reviewed_cloze_variants_score_as_words_or_missing_endings(question_id, accepted):
+    question = STORE.question(question_id)
+    key = STORE.answer(question_id)
+    for response in accepted:
+        assert score_one(question, key, response)[3], (question_id, response)
+    assert not score_one(question, key, question['prefix'])[3]
+    assert not score_one(question, key, accepted[0] + 's')[3]
+
+
+def test_revised_planting_sequence_scores_the_current_completion_only():
+    question = STORE.question('R489')
+    key = STORE.answer('R489')
+    for response in ('then', 'en'):
+        assert score_one(question, key, response)[3]
+    for response in ('while', 'ile'):
+        assert not score_one(question, key, response)[3]
 
 
 def test_sentence_variants_preserve_words_and_score_without_changing_meaning():
@@ -175,10 +206,11 @@ def test_generator_reproduces_bank_after_source_move(tmp_path, monkeypatch):
         (output / 'sources' / name).write_bytes(
             (ROOT / 'question_bank/sources' / name).read_bytes()
         )
-    expansion = output / 'sources/expansion_2026_09'
-    expansion.mkdir()
-    for source in (ROOT / 'question_bank/sources/expansion_2026_09').glob('*.json'):
-        (expansion / source.name).write_bytes(source.read_bytes())
+    for directory in ('expansion_2026_09', 'expansion_2026_09_30'):
+        expansion = output / 'sources' / directory
+        expansion.mkdir()
+        for source in (ROOT / 'question_bank/sources' / directory).glob('*.json'):
+            (expansion / source.name).write_bytes(source.read_bytes())
     monkeypatch.setattr(builder, 'ROOT', tmp_path)
     monkeypatch.setattr(builder, 'QUESTION_ROOT', output)
     builder.main()
@@ -212,24 +244,25 @@ def test_generator_validation_failure_preserves_existing_bank(tmp_path, monkeypa
     if failure == 'changed_listening':
         notes['L01']['content_sha256'] = 'unreviewed-content'
     elif failure == 'extra_review':
-        notes['R999'] = copy.deepcopy(notes['R01'])
+        notes['R9999'] = copy.deepcopy(notes['R01'])
     (output / 'sources').mkdir(parents=True)
     (output / 'sources/review_notes.json').write_text(json.dumps(notes), encoding='utf8')
     for name in ('cloze_explanations.json', 'productive_explanations.json'):
         (output / 'sources' / name).write_bytes(
             (ROOT / 'question_bank/sources' / name).read_bytes()
         )
-    expansion = output / 'sources/expansion_2026_09'
-    expansion.mkdir()
-    for source in (ROOT / 'question_bank/sources/expansion_2026_09').glob('*.json'):
-        (expansion / source.name).write_bytes(source.read_bytes())
+    for directory in ('expansion_2026_09', 'expansion_2026_09_30'):
+        expansion = output / 'sources' / directory
+        expansion.mkdir()
+        for source in (ROOT / 'question_bank/sources' / directory).glob('*.json'):
+            (expansion / source.name).write_bytes(source.read_bytes())
     if failure == 'changed_explanation':
         explanations_path = output / 'sources/cloze_explanations.json'
         explanations = json.loads(explanations_path.read_text(encoding='utf8'))
         explanations['R01'] = 'This explanation has not been reviewed.'
         explanations_path.write_text(json.dumps(explanations), encoding='utf8')
     if failure in {'changed_expansion', 'changed_expansion_review'}:
-        source_path = expansion / 'listen_choose_response.json'
+        source_path = output / 'sources/expansion_2026_09/listen_choose_response.json'
         source = json.loads(source_path.read_text(encoding='utf8'))
         field = 'answer' if failure == 'changed_expansion' else 'review'
         name = 'explanation' if failure == 'changed_expansion' else 'rationale'

@@ -20,7 +20,9 @@ The homepage retains its existing local tokens. Setup, practice, results, mock e
 - Structural rule / secondary-control border: `#D4DBD3` / `#7D8D84`
 - Correct result: olive green `#356343` on `#EDF4E8`
 - Incorrect result / recording / destructive action: terracotta `#AA443B` on `#FBEFEC`
-- Body: system sans for controls and reading copy; compact monospace only for question IDs and timers.
+- Body: system sans with explicit Microsoft YaHei UI / Microsoft YaHei Chinese fallbacks for controls and reading copy; compact monospace only for question IDs and timers.
+
+Core review text follows a restrained examination style: explanations, expanded audio transcripts, submitted answers, references, and review prompts use `1rem` (16px in ordinary windows, 18px at desktop widths of at least 1600px). Long writing prompts use paragraph markup and regular weight; short question headings use weight 600. Explanations and transcripts use 1.75 line height. Open-response examples and reference points use the normal ink color; objective reference answers and result states retain semantic colors. Writing word counts and timing guidance use 0.8rem sans-serif with tabular numerals. Result notices occupy their own row beneath the heading and score summary so they do not compress the title.
 
 Primary actions use a solid accent; secondary controls use neutral outlines, and return/utility text remains neutral. Audio playback uses a lighter accent surface so it does not compete with navigation. Selection retains native radio marks or explicit checks and does not imply correctness; result labels and recording text preserve non-color cues. Do not introduce per-subject palettes or change the homepage when adjusting internal tokens.
 
@@ -42,7 +44,7 @@ The practice cards show section names, question counts, task practice and fixed 
 
 The result view combines its title, score, answered count, and elapsed time into one compact header. Single-group review hides the material navigation. Missing-letter review uses a narrow answer column with one line per blank; correct words emphasize only the missing letters. The passage title and answer-reveal control share one row, and explanations are collapsed until requested.
 
-Expanded learning explanations preserve three short text lines: 读懂, 解析, and 下次. Plain Chinese explains the necessary English evidence, with an actionable next-time method rather than another paraphrase of the answer. The existing disclosure and typography remain in use, without extra cards or repeated panels. Completed mock review labels its learning notes as locally authored rather than ETS explanations.
+Expanded learning explanations preserve three short text lines: 读懂, 解析, and 下次. Plain Chinese explains the necessary English evidence, with an actionable next-time method rather than another paraphrase of the answer. The existing disclosure uses a compact label and body-sized explanation text, without extra cards or repeated panels. Completed mock review labels its learning notes as locally authored rather than ETS explanations.
 
 After submission, multiple-choice review navigation uses green for fully correct material groups and red for groups containing a wrong or unanswered question. The active group keeps an inset underline without replacing its result color, and accessible labels and tooltips describe the status. Correct options are green; a selected wrong option is red; other options stay neutral. These states also apply when reopening saved practice history; pre-submission selection remains blue.
 

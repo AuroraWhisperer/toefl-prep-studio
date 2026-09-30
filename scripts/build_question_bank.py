@@ -58,16 +58,22 @@ EXPANSION_TASKS = {
 
 def expansion_records(section: str) -> list[dict]:
     records = []
-    for task in EXPANSION_TASKS[section]:
-        path = QUESTION_ROOT / 'sources' / 'expansion_2026_09' / f'{task}.json'
-        source = json.loads(path.read_text(encoding='utf-8'))
-        if source['section'] != section or source['task_type'] != task:
-            raise ValueError(f'Expansion source has the wrong section or task: {path.name}')
-        for record in source['items']:
-            question = record['question']
-            if question['section'] != section or question['task_type'] != task:
-                raise ValueError(f'Expansion item has the wrong section or task: {question["id"]}')
-            records.append(record)
+    directories = ['expansion_2026_09']
+    if section in {'reading', 'listening'}:
+        directories.append('expansion_2026_09_30')
+    for directory in directories:
+        for task in EXPANSION_TASKS[section]:
+            path = QUESTION_ROOT / 'sources' / directory / f'{task}.json'
+            source = json.loads(path.read_text(encoding='utf-8'))
+            if source['section'] != section or source['task_type'] != task:
+                raise ValueError(f'Expansion source has the wrong section or task: {path.name}')
+            for record in source['items']:
+                question = record['question']
+                if question['section'] != section or question['task_type'] != task:
+                    raise ValueError(
+                        f'Expansion item has the wrong section or task: {question["id"]}'
+                    )
+                records.append(record)
     return sorted(records, key=lambda record: int(record['question']['id'][1:]))
 
 
@@ -201,6 +207,8 @@ def build_reading() -> tuple[list[dict], dict[str, dict]]:
     add_choice_groups(questions, answers, "reading", "read_daily_life", DAILY_PASSAGES)
     add_choice_groups(questions, answers, "reading", "read_academic_passage", ACADEMIC_PASSAGES)
     add_cloze_groups(questions, answers, expanded_reading.CLOZE_PASSAGES, start=4)
+    for question_id, variants in expanded_reading.CLOZE_ALTERNATIVES.items():
+        answers[question_id]['accepted'].extend(variants)
     add_choice_groups(
         questions,
         answers,
@@ -597,7 +605,7 @@ def main() -> None:
         "speaking": build_speaking,
         "writing": build_writing,
     }
-    expected_bank_counts = {"reading": 795, "listening": 705, "speaking": 165, "writing": 450}
+    expected_bank_counts = {"reading": 1590, "listening": 1410, "speaking": 165, "writing": 450}
     exam_task_targets = {
         "reading": {"complete_words": 30, "read_daily_life": 10, "read_academic_passage": 10},
         "listening": {
@@ -638,8 +646,8 @@ def main() -> None:
         bank_answers[section] = answers
 
     manifest = {
-        "version": "2026-09-tripled-original-practice",
-        "verified_on": "2026-09-27",
+        "version": "2026-09-30-doubled-receptive-practice",
+        "verified_on": "2026-09-30",
         "title": "TOEFL iBT 2026 Practice Bank",
         "source": "Original practice items aligned with ETS task descriptions; not official ETS questions.",
         "total_questions": sum(counts.values()),

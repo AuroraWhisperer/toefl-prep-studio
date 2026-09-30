@@ -13,28 +13,28 @@
         "passage_title": "Empty spaces on archaeological maps",
         "passage": "A map of ancient settlements can appear to show where people preferred to live. Yet an empty area on such a map does not necessarily indicate an uninhabited region. It may instead mark a place where researchers have not looked, or where traces of buildings are difficult to detect.\n\nConsider two neighboring valleys. In one, fields are regularly plowed, bringing broken tools and pottery to the surface. In the other, grass covers the ground and no soil is disturbed. A survey based on walking across visible surfaces may record more sites in the first valley even if both once supported similar populations. The difference arises partly from the opportunity to discover evidence, not simply from ancient choices about where to settle.\n\nArchaeologists therefore record how much land was examined and how easily objects could be seen. They may revisit selected areas using a different method or compare surface finds with limited excavations. These steps cannot guarantee that every settlement will be found. They can, however, make comparisons more responsible. A map becomes more informative when it shows not only discoveries but also the conditions under which researchers searched. Blank areas then become questions to investigate rather than automatic proof of past absence.",
         "options": [
-          "To argue that excavations should replace maps in archaeological research.",
+          "To explain why surface surveys can replace excavations of ancient settlements.",
           "To explain why settlement maps must be interpreted with survey conditions in mind.",
-          "To describe how pottery production changed the location of ancient towns.",
-          "To show why ancient people generally preferred plowed valleys to grassy ones."
+          "To show that the number of mapped sites reveals the population of each region.",
+          "To argue that ancient residents favored places where objects are now easy to find."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问全文目的；“conditions under which researchers searched”指考古人员寻找证据时的条件。\n解析：文章从空白区可能漏查，讲到两谷可见度差异，再提出记录调查条件，核心是谨慎解读地图。不是证明古人偏爱耕地；没有主张废弃地图；陶片只是遗迹线索，不是讨论制陶如何推动城镇迁移。\n下次：遇到研究方法主旨题→串起误判风险、例子和改进→选能覆盖三步的概括。"
+        "explanation": "读懂：题目问全文目的；survey conditions 指调查时查了哪里、东西是否容易看见。\n解析：空白处可能没查过，两条山谷也可能只是发现条件不同，所以看遗址地图时要考虑调查过程。文中没有让地表调查取代挖掘；遗址数不能直接当人口数；今天容易发现，也不代表古人更爱住在那里。\n下次：先把每段各说了什么连起来，再选能同时解释空白区、山谷例子和调查建议的概括。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "概括方法与限制"
+          "main_idea"
         ],
         "vocabulary": [
-          "survey"
+          "conditions under which researchers searched"
         ],
-        "rationale": "概括方法与限制：题目问全文目的；“conditions under which researchers searched”指考古人员寻找证据时的条件。",
+        "rationale": "空白区域、两谷例子和末段改进共同说明地图解读须考虑调查条件；原错误选项有无关制陶内容，改为调查量与人口的混淆。",
         "answer_evidence": "conditions under which researchers searched",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -49,27 +49,27 @@
         "passage": "A map of ancient settlements can appear to show where people preferred to live. Yet an empty area on such a map does not necessarily indicate an uninhabited region. It may instead mark a place where researchers have not looked, or where traces of buildings are difficult to detect.\n\nConsider two neighboring valleys. In one, fields are regularly plowed, bringing broken tools and pottery to the surface. In the other, grass covers the ground and no soil is disturbed. A survey based on walking across visible surfaces may record more sites in the first valley even if both once supported similar populations. The difference arises partly from the opportunity to discover evidence, not simply from ancient choices about where to settle.\n\nArchaeologists therefore record how much land was examined and how easily objects could be seen. They may revisit selected areas using a different method or compare surface finds with limited excavations. These steps cannot guarantee that every settlement will be found. They can, however, make comparisons more responsible. A map becomes more informative when it shows not only discoveries but also the conditions under which researchers searched. Blank areas then become questions to investigate rather than automatic proof of past absence.",
         "options": [
           "The valley is known to have had a larger population.",
-          "Researchers excavate every field before walking across it.",
-          "Grass preserves tools better than cultivated soil does.",
+          "Researchers use excavation instead of surface observation in that valley.",
+          "The grass in the other valley has destroyed most traces of settlement.",
           "Disturbed soil makes objects easier to see."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：题目问耕作谷地为何记录更多遗址；“bringing broken tools and pottery to the surface”指翻土把物件带到地表。\n解析：翻出的物件更易被步行调查发现。两地人口可能相似，不能把人口更多当已知；文中没比较草地保存能力；也没说先挖遍全部农田，调查正是看可见地表。\n下次：看到数量差异→区分真实存在量与可发现量→优先核对作者给出的观察机制。"
+        "explanation": "读懂：题目问耕作山谷为什么记录到更多遗址；to the surface 是“到地表”。\n解析：翻土把陶片和工具带到地面，调查者更容易看见。文中说两地过去人口可能相近；两地例子用的都是地表观察；草遮住痕迹，不等于把痕迹毁掉。\n下次：遇到“为什么发现得更多”，回到发现过程，检查是东西更多，还是更容易被看见。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "定位发现机制"
+          "detail"
         ],
         "vocabulary": [
-          "surface"
+          "bringing broken tools and pottery to the surface"
         ],
-        "rationale": "定位发现机制：题目问耕作谷地为何记录更多遗址；“bringing broken tools and pottery to the surface”指翻土把物件带到地表。",
+        "rationale": "翻土露出陶片和工具，提高地表步行调查的发现机会；重写为同场景错因，保持直接细节难度。",
         "answer_evidence": "bringing broken tools and pottery to the surface",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -95,16 +95,16 @@
         "explanation": "读懂：题目问记录数量相等能推出什么；“not simply”提醒记录并不只由古代定居行为决定。\n解析：可发现程度也影响记录，所以遗址数相等不保证人口相等。不能反推调查方法相同；调查仍会漏发现；更不能据数量相等认定地表可见度相同。\n下次：遇到相同观测结果→检查是否有多个影响因素→不要直接推出底层实际情况相同。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "控制推断范围"
+          "inference"
         ],
         "vocabulary": [
-          "populations"
+          "opportunity to discover evidence"
         ],
-        "rationale": "控制推断范围：题目问记录数量相等能推出什么；“not simply”提醒记录并不只由古代定居行为决定。",
-        "answer_evidence": "not simply from ancient choices about where to settle",
-        "reviewed_on": "2026-09-27"
+        "rationale": "须将可见度影响记录数量推广到记录数相等的情形：不能据此断定人口相等；一步迁移，medium足够，原hard偏高。",
+        "answer_evidence": "opportunity to discover evidence",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -132,14 +132,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "语境词义"
+          "vocabulary"
         ],
         "vocabulary": [
-          "detect"
+          "traces of buildings are difficult to detect"
         ],
-        "rationale": "语境词义：题目问detect的意思；“traces of buildings are difficult to detect”说的是难以发现建筑痕迹。",
+        "rationale": "句中detect以建筑痕迹为对象，后文搜索和可见度明确支持notice；另三项均是发现后的研究操作。",
         "answer_evidence": "traces of buildings are difficult to detect",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -154,27 +154,27 @@
         "passage": "A map of ancient settlements can appear to show where people preferred to live. Yet an empty area on such a map does not necessarily indicate an uninhabited region. It may instead mark a place where researchers have not looked, or where traces of buildings are difficult to detect.\n\nConsider two neighboring valleys. In one, fields are regularly plowed, bringing broken tools and pottery to the surface. In the other, grass covers the ground and no soil is disturbed. A survey based on walking across visible surfaces may record more sites in the first valley even if both once supported similar populations. The difference arises partly from the opportunity to discover evidence, not simply from ancient choices about where to settle.\n\nArchaeologists therefore record how much land was examined and how easily objects could be seen. They may revisit selected areas using a different method or compare surface finds with limited excavations. These steps cannot guarantee that every settlement will be found. They can, however, make comparisons more responsible. A map becomes more informative when it shows not only discoveries but also the conditions under which researchers searched. Blank areas then become questions to investigate rather than automatic proof of past absence.",
         "options": [
           "To illustrate how visibility can affect apparent settlement patterns.",
-          "To compare the market value of pottery found in different locations.",
-          "To show that grassy regions were unsuitable for human settlement.",
-          "To establish which farming technique ancient residents used most often."
+          "To show that buried pottery is preserved better in regularly plowed fields.",
+          "To explain why ancient populations moved from grassy valleys into farmland.",
+          "To show that recorded site totals can establish which valley had more residents."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：题目问两条山谷例子的作用；“opportunity to discover evidence”指发现证据的机会。\n解析：人口可相似而发现数量不同，例子把调查偏差具体化。并非调查古代农法频率；完全没谈陶器售价；草地只是遮挡证据，不能据此说古代不适宜住人。\n下次：看到对照例子→找保持相近和发生变化的因素→用变化因素解释它服务的论点。"
+        "explanation": "读懂：题目问作者举两条山谷的例子有什么用；even if 是“即使”。\n解析：即使过去人口相近，翻过的土也让遗物更容易露出来，地图上的遗址数量就可能不同。例子没比较保存效果，也没讲人口迁移；它正是在提醒我们，不能把记录数量直接当作过去人口。\n下次：看对比例子时，先找两边可能相同的条件，再找作者特意写出的差别，用这个差别解释例子的作用。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "分析例证功能"
+          "purpose"
         ],
         "vocabulary": [
-          "examined"
+          "even if both once supported similar populations"
         ],
-        "rationale": "分析例证功能：题目问两条山谷例子的作用；“opportunity to discover evidence”指发现证据的机会。",
-        "answer_evidence": "The difference arises partly from the opportunity to discover evidence",
-        "reviewed_on": "2026-09-27"
+        "rationale": "两谷在可能人口相近时仍记录不同，例子说明可见度影响判断；改去售价等文外错项。",
+        "answer_evidence": "even if both once supported similar populations",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -202,14 +202,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "主旨与权衡"
+          "main_idea"
         ],
         "vocabulary": [
-          "temporary"
+          "protect the field"
         ],
-        "rationale": "主旨与权衡：题目问主旨；“grown mainly to protect the field”说明临时覆盖作物主要保护田地。",
-        "answer_evidence": "grown mainly to protect the field",
-        "reviewed_on": "2026-09-27"
+        "rationale": "全文既解释覆盖作物防止土壤流失，也说明下次种植前必须控制其生长；第二季销售和永久荒置不合原文。",
+        "answer_evidence": "protect the field",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -223,28 +223,28 @@
         "passage_title": "A cover between harvests",
         "passage": "After a crop is harvested, a field may remain bare for several months. During this interval, rain can strike the exposed soil directly, and moving water can carry loose particles away. [A] Some farmers sow a temporary cover crop rather than leave the ground empty. This crop is grown mainly to protect the field, not to produce a second harvest for sale.\n\n[B] Above the surface, its leaves soften the impact of falling rain. Below the surface, its roots help hold soil particles in place. [C] Together, these effects can reduce soil loss while the main crop is absent. The cover also changes how the field must be managed. Before planting the next main crop, the farmer needs to stop the cover crop from continuing to grow, so that the two crops do not compete for resources.\n\n[D] The choice of cover therefore depends on the farming schedule as well as local conditions. A plant that grows vigorously may provide useful protection but become difficult to manage before the next planting. Cover cropping is thus a way of treating the interval between harvests as an active part of farming, rather than as a period in which nothing important happens.",
         "options": [
-          "They prevent the leaves from receiving rain.",
-          "They produce a second crop ready for sale.",
-          "They stop all other plants from using water.",
+          "They soften the impact of raindrops before the water reaches the ground.",
+          "They replace the loose soil particles carried away by moving water.",
+          "They prevent the next main crop from competing for soil resources.",
           "They help keep soil particles in place."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：题目问根部怎样保护土壤；“hold soil particles in place”是把土粒固定在原处。\n解析：根连住土粒，帮助减轻流失。根不会阻止叶片淋雨；卖第二季收成不是这里的保护机制；文中也没有说根能阻止其他所有植物用水。\n下次：看到植物部位题→把该部位对应到具体动作和作用对象→检查是否误换成另一部位或夸大作用。"
+        "explanation": "读懂：题目问根部怎样保护土壤；hold soil particles in place 是“把土粒留在原处”。\n解析：根帮助固定土粒，减少被水冲走的土。减轻雨滴冲击是叶片的作用；文中没说根能补回流失的土；下一季作物的资源竞争要靠农民控制覆盖作物生长来避免。\n下次：题目点名植物某个部位，就找到这个部位做的事，别把叶、根或农民的作用互换。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "对应结构与功能"
+          "detail"
         ],
         "vocabulary": [
-          "particles"
+          "hold soil particles in place"
         ],
-        "rationale": "将根固定土粒的功能与叶片减缓雨滴冲击区分，逐项排除用途和作用范围的误读。",
-        "answer_evidence": "its roots help hold soil particles in place",
-        "reviewed_on": "2026-09-27"
+        "rationale": "根固定土粒，叶片减缓雨滴冲击；换成混淆两个部位及资源竞争的错项。",
+        "answer_evidence": "hold soil particles in place",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -272,14 +272,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "推断措施代价"
+          "inference"
         ],
         "vocabulary": [
-          "vigorously"
+          "difficult to manage before the next planting"
         ],
-        "rationale": "推断措施代价：题目问生长旺盛的覆盖作物意味着什么；“difficult to manage before the next planting”说明后续可能难处理。",
+        "rationale": "快速生长的好处与下季播种前停止生长的负担并列，需合并两处信息；原解释清楚。",
         "answer_evidence": "difficult to manage before the next planting",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -307,14 +307,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "语境词义"
+          "vocabulary"
         ],
         "vocabulary": [
-          "interval"
+          "remain bare for several months"
         ],
-        "rationale": "语境词义：题目问interval的意思；“remain bare for several months”描述两次种植间裸露的一段时间。",
-        "answer_evidence": "a field may remain bare for several months",
-        "reviewed_on": "2026-09-27"
+        "rationale": "数月提供时间范围，interval指收获与后续种植之间的时期；其余空间、品种、数量维度不合。",
+        "answer_evidence": "remain bare for several months",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -340,16 +340,16 @@
         "explanation": "读懂：题目要求插入句子；原文“Above the surface, its leaves”开始解释地上叶片的作用。\n解析：应放Position B：前段已说明保护目的，插句先提出地上、地下两层，后文依次解释叶和根。Position A尚未引入覆盖作物，保护无明确所指；Position C已讲完两层，再预告显得倒序；Position D前面转入管理，插入会打断管理到选种的联系。\n下次：看到总分句中的两个层次→先找前文所指→再确认后面是否按顺序展开两项。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "衔接与句子插入"
+          "sentence_insertion"
         ],
         "vocabulary": [
-          "surface"
+          "Above the surface, its leaves"
         ],
-        "rationale": "衔接与句子插入：题目要求插入句子；原文“Above the surface, its leaves”开始解释地上叶片的作用。",
+        "rationale": "This protection回指首段保护目的，two levels预告后面叶根两个层次；B两侧衔接最顺，难度从hard调整为medium。",
         "answer_evidence": "Above the surface, its leaves",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -377,14 +377,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "概括制图原则"
+          "main_idea"
         ],
         "vocabulary": [
-          "generalization"
+          "features that matter for its purpose"
         ],
-        "rationale": "概括制图原则：题目问全文主旨；“features that matter for its purpose”指对使用目的重要的地形。",
-        "answer_evidence": "preserves features that matter for its purpose",
-        "reviewed_on": "2026-09-27"
+        "rationale": "首段空间比例、第二段用途取舍、末段图间比较都支持按比例和用途选择细节；原解释覆盖三段。",
+        "answer_evidence": "features that matter for its purpose",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -412,14 +412,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "定位用途细节"
+          "detail"
         ],
         "vocabulary": [
-          "peninsula"
+          "orient themselves"
         ],
-        "rationale": "定位用途细节：题目问保留大半岛的原因；“orient themselves”指辨认方位。",
-        "answer_evidence": "helps travelers orient themselves",
-        "reviewed_on": "2026-09-27"
+        "rationale": "半岛帮助旅行者定位，原文直接给出目的；其余印刷极限、航道、海岸不变均不支持。",
+        "answer_evidence": "orient themselves",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -442,19 +442,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：题目问比较前应做什么；“different scales or purposes”提示画法差异可能来自比例和用途。\n解析：先保证表示方法可比，才讨论真实海岸变化。平滑不对应更新；先数弯而不看用途会忽略混杂因素；图上省略小湾不代表当时没有小湾。\n下次：看到两图差异→先查表示规则是否一致→再判断差异来自地形还是绘图。"
+        "explanation": "读懂：题目问比较两幅海岸地图前该先做什么；scales or purposes 是“比例尺或用途”。\n解析：同一条海岸也可能因比例尺、用途不同而画得不同，所以先查两图是否适合比较。直接数弯会漏掉这些差别；更平滑不等于更新；图上没画小湾也不等于当时没有小湾。\n下次：看到两张图不一样，先查怎么画、给谁用，再判断真实地形是否发生了变化。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "easy",
         "skills": [
-          "评价比较有效性"
+          "detail"
         ],
         "vocabulary": [
-          "comparable"
+          "The maps may have different scales or purposes."
         ],
-        "rationale": "评价比较有效性：题目问比较前应做什么；“different scales or purposes”提示画法差异可能来自比例和用途。",
-        "answer_evidence": "different scales or purposes",
-        "reviewed_on": "2026-09-27"
+        "rationale": "题目只要求复述末段比较前提，没有额外推断；原hard虚高，改easy，并去掉解释中的混杂因素术语。",
+        "answer_evidence": "The maps may have different scales or purposes.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -482,14 +482,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "利用对比理解词义"
+          "vocabulary"
         ],
         "vocabulary": [
-          "negligible"
+          "may be essential on the boating map"
         ],
-        "rationale": "利用对比理解词义：题目问negligible的语境义；“negligible on the road map”与航船图中重要形成对比。",
-        "answer_evidence": "negligible on the road map",
-        "reviewed_on": "2026-09-27"
+        "rationale": "negligible与essential对照，指对公路地图用途不重要，并非水道物理大小深浅或发现时间。",
+        "answer_evidence": "may be essential on the boating map",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -512,19 +512,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：题目问航船图例子的段落作用；“requires different choices”强调不同用途需不同取舍。\n解析：公路图可忽略的水道，航船图却可能必须保留，支撑按用途选细节。不是细节越多越好；未说半岛都会被删；也没研究公路是否多沿海岸建。\n下次：看到第二个用途例子→找与第一个例子的同物异用→用它检验段落原则。"
+        "explanation": "读懂：题目问航船地图这个例子如何帮助第二段说明问题；different choices 是“不同的取舍”。\n解析：同一条窄水道，开车的人可能用不上，驾船的人却必须知道。它说明细节要按使用目的选择，不是越多越好，也没说明公路大多沿海修建或半岛会被删掉。\n下次：看第二个例子时，先比较使用者需要什么，再找同一项细节为什么从不重要变成重要。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "分析对照结构"
+          "purpose"
         ],
         "vocabulary": [
-          "essential"
+          "requires different choices"
         ],
-        "rationale": "分析对照结构：题目问航船图例子的段落作用；“requires different choices”强调不同用途需不同取舍。",
+        "rationale": "同一水道在公路图可省、航船图必需，说明用途不同导致选取细节不同；修正不自然的同物异用表达。",
         "answer_evidence": "requires different choices",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -552,14 +552,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "概括方法及前提"
+          "main_idea"
         ],
         "vocabulary": [
-          "proportion"
+          "their heights and shadow lengths form the same proportion"
         ],
-        "rationale": "概括方法及前提：题目问全文目的；“checks the setup as well as the numbers”表示既看测值也查布置条件。",
-        "answer_evidence": "checks the setup as well as the numbers",
-        "reviewed_on": "2026-09-27"
+        "rationale": "先教影长比例估高，再说明水平地面、竖直和同日照角度条件，选同时概括方法和条件的主旨。",
+        "answer_evidence": "their heights and shadow lengths form the same proportion",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -573,28 +573,28 @@
         "passage_title": "Measuring with a shadow",
         "passage": "The height of a tall object can sometimes be estimated without climbing it. One method uses its shadow together with the shadow of a shorter object whose height is known. If both objects stand upright on level ground and receive sunlight at the same angle, their heights and shadow lengths form the same proportion.\n\nImagine a student measuring a flagpole. She places a one-meter stick upright nearby, then measures both shadows within a short period. If the flagpole's shadow is six times as long as the stick's, the flagpole is approximately six meters high. The method uses a relationship between measurements rather than requiring direct access to the top of the pole.\n\nSeveral conditions can weaken the estimate. A slope may change the geometry, and a leaning stick no longer provides the intended comparison. Measurements taken far apart in time are also problematic because the direction of sunlight changes during the day. Repeating the measurements can reveal inconsistent results, but repetition alone does not correct a stick that leans in the same way each time. A careful observer checks the setup as well as the numbers. The method is valuable precisely because its assumptions are simple enough to inspect, not because it works under every possible condition.",
         "options": [
-          "To ensure that the stick's shadow is exactly one meter long.",
-          "To make the ground become level before the second measurement.",
+          "To make the stick's shadow equal to its known height.",
+          "To make the two objects cast shadows of approximately equal length.",
           "To keep the sunlight angle approximately the same for both measurements.",
-          "To prevent the flagpole from changing its physical height."
+          "To collect several estimates before checking whether the stick is upright."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：题目问为何近同时测量；“the direction of sunlight changes during the day”说明日照方向随时间变。\n解析：时间接近可保持两次日照角度近似相同。不是旗杆会迅速变高；一米是木棍高度，不保证影长一米；缩短时间也不会把斜地变平。\n下次：看到实验限定时间→找随时间变化的量→区分控制条件与被测对象属性。"
+        "explanation": "读懂：题目问为什么要在很短的时间内测两条影子；sunlight angle 是“日光照射的角度”。\n解析：太阳照射方向会随时间改变；两次测量时间接近，角度才近似相同，影长比例才可用。不是要让两影一样长，也不是让木棍影长等于棍高；木棍是否竖直应检查，不能等多测几次来代替。\n下次：看到测量规定“同一时间”或“紧接着”，找会随时间改变的条件，再查它为什么会影响结果。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "理解控制条件"
+          "detail"
         ],
         "vocabulary": [
-          "angle"
+          "the direction of sunlight changes during the day"
         ],
-        "rationale": "理解控制条件：题目问为何近同时测量；“the direction of sunlight changes during the day”说明日照方向随时间变。",
+        "rationale": "短时间测两影是控制日照角度；原斜地变平、旗杆变高错项太离题，改为影长和测量过程误读。",
         "answer_evidence": "the direction of sunlight changes during the day",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -617,19 +617,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：题目问多次结果一致能保证什么；“repetition alone does not correct a stick that leans”说明重复不能修复斜放。\n解析：同一种布置错误可每次重现，因此一致不等于准确。结果不能证明地平、棍直；比例法仍需已知棍高；也不能从几次一致推出太阳全天不动。\n下次：看到重复测量一致→再检查是否共用同一个错误条件→把稳定性与正确性分开。"
+        "explanation": "读懂：题目问多次结果一致说明什么；repetition alone 是“只靠重复测量”。\n解析：木棍如果每次都一样斜，测出的高度可能每次都一样错，所以一致仍可能不准确。它不能证明地面平、木棍直，也不能省去已知棍高，更不能证明太阳一整天都没变位置。\n下次：多测几次结果一样时，再检查每次是否都用了同一个错误的摆放方法。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "区分一致与准确"
+          "inference"
         ],
         "vocabulary": [
-          "repetition"
+          "repetition alone does not correct a stick that leans"
         ],
-        "rationale": "区分一致与准确：题目问多次结果一致能保证什么；“repetition alone does not correct a stick that leans”说明重复不能修复斜放。",
+        "rationale": "同样斜放导致同样偏差，稳定不保证准确；这一点文章直接解释，medium而非hard。",
         "answer_evidence": "repetition alone does not correct a stick that leans",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -657,14 +657,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "语境词义"
+          "vocabulary"
         ],
         "vocabulary": [
-          "upright"
+          "a leaning stick"
         ],
-        "rationale": "语境词义：题目问upright的意思；“a leaning stick”是倾斜的木棍，与要求相反。",
-        "answer_evidence": "a leaning stick no longer provides the intended comparison",
-        "reviewed_on": "2026-09-27"
+        "rationale": "leaning为反例，upright应为vertical；位置近、不动、可见都不说明竖直。",
+        "answer_evidence": "a leaning stick",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -679,27 +679,27 @@
         "passage": "The height of a tall object can sometimes be estimated without climbing it. One method uses its shadow together with the shadow of a shorter object whose height is known. If both objects stand upright on level ground and receive sunlight at the same angle, their heights and shadow lengths form the same proportion.\n\nImagine a student measuring a flagpole. She places a one-meter stick upright nearby, then measures both shadows within a short period. If the flagpole's shadow is six times as long as the stick's, the flagpole is approximately six meters high. The method uses a relationship between measurements rather than requiring direct access to the top of the pole.\n\nSeveral conditions can weaken the estimate. A slope may change the geometry, and a leaning stick no longer provides the intended comparison. Measurements taken far apart in time are also problematic because the direction of sunlight changes during the day. Repeating the measurements can reveal inconsistent results, but repetition alone does not correct a stick that leans in the same way each time. A careful observer checks the setup as well as the numbers. The method is valuable precisely because its assumptions are simple enough to inspect, not because it works under every possible condition.",
         "options": [
           "It balances the method's usefulness with its limited assumptions.",
-          "It introduces a new formula that removes the earlier limitations.",
-          "It states that the method should be used only on cloudy days.",
-          "It rejects the flagpole example as an unsuitable application."
+          "It argues that repeating the measurements makes the setup unimportant.",
+          "It presents consistency between measurements as sufficient proof of accuracy.",
+          "It recommends direct measurement because the shadow method is unreliable."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：题目问末句作用；“not because it works under every possible condition”否定任何情况下都有效。\n解析：末句肯定方法易检查的价值，同时保留前提限制。没有新公式消除限制；未推翻旗杆例子；阴天建议不存在，也与依赖清晰日影的方法无关。\n下次：看到结尾肯定后接否定→分别提炼价值与边界→判断它是在限定而非推翻前文。"
+        "explanation": "读懂：题目问最后一句的作用；simple enough to inspect 是“条件简单，能够检查”。\n解析：作者认可这个方法，因为使用者能检查它是否满足条件，同时提醒它并非处处适用。不是说重复测量就不用管摆放，也不是说结果一致就一定准确，更没有放弃影子法、只准直接测量。\n下次：结尾既肯定方法又讲条件时，选同时保留这两层意思的概括。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "分析结尾限定作用"
+          "purpose"
         ],
         "vocabulary": [
-          "assumptions"
+          "its assumptions are simple enough to inspect"
         ],
-        "rationale": "分析结尾限定作用：题目问末句作用；“not because it works under every possible condition”否定任何情况下都有效。",
-        "answer_evidence": "not because it works under every possible condition",
-        "reviewed_on": "2026-09-27"
+        "rationale": "末句肯定方法可用，并限定其条件；将无关阴天选项换成误把重复等同准确的选项。",
+        "answer_evidence": "its assumptions are simple enough to inspect",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -727,14 +727,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "概括研究问题"
+          "main_idea"
         ],
         "vocabulary": [
-          "wear"
+          "a record of repeated contact"
         ],
-        "rationale": "概括研究问题：题目问中心议题；“distinguishing the effects of use from the effects of manufacture”指区分使用和制作留下的痕迹。",
-        "answer_evidence": "distinguishing the effects of use from the effects of manufacture",
-        "reviewed_on": "2026-09-27"
+        "rationale": "全文从磨光推测使用并排除制作和后期接触等成因；留存清楚原解释及唯一主旨。",
+        "answer_evidence": "a record of repeated contact",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -748,28 +748,28 @@
         "passage_title": "The polished handle",
         "passage": "A wooden tool handle often changes during years of use. Areas touched repeatedly may become smoother than surfaces that rarely meet the hand. Such wear can reveal something about how the tool was held, although the marks must be interpreted with care. A smooth surface may also result from deliberate finishing before the tool was ever used.\n\nTo explore this problem, imagine a researcher comparing several weaving tools from a workshop. She records where the polished areas occur, then watches a craft worker use a similar tool. If the worker's fingers repeatedly contact the same locations, the observation supports a possible explanation for the old marks. It does not establish that every earlier user held the tool identically. Different tasks or hand sizes could produce variations within a shared technique.\n\nThe researcher can strengthen the interpretation by examining several tools with known histories and by looking for other evidence, such as scratches near a working edge. The combination is more informative than smoothness alone. Wear is therefore useful not as a complete instruction manual left by an earlier maker, but as a record of repeated contact. Reading that record requires distinguishing the effects of use from the effects of manufacture and later handling.",
         "options": [
-          "To ensure that the old tools are polished more evenly.",
-          "To prove that all historical users had the same hand size.",
+          "To learn how to remove the old polished areas before examining the tools.",
+          "To determine whether every earlier worker followed an identical technique.",
           "To compare current contact points with the old polished areas.",
-          "To measure the market price of the workshop's products."
+          "To establish when the old tools were manufactured from the speed of weaving."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：题目问观看织工的目的；“fingers repeatedly contact the same locations”是手指反复触及相同位置。\n解析：将现在的接触位置与旧磨光区比较，可支持握法解释。不是替旧工具补抛光；没有估价内容；不同手型可能产生差异，不能证明历史使用者手一样大。\n下次：看到观察现代操作→寻找与旧物痕迹的对应点→不要把提供支持说成证明所有人相同。"
+        "explanation": "读懂：题目问为什么观察今天的织工；contact the same locations 是“接触同样的位置”。\n解析：如果织工常摸的位置与旧工具磨光处相同，就支持“长期握持留下痕迹”的解释。不是要去掉旧痕迹；一次观察不能证明过去人人动作一样；编织速度也不能给旧工具定年代。\n下次：看到用今天的操作研究旧物，找两者具体比较了什么，并区分“支持一种解释”和“证明所有情况”。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别比较证据"
+          "detail"
         ],
         "vocabulary": [
-          "polished"
+          "fingers repeatedly contact the same locations"
         ],
-        "rationale": "识别比较证据：题目问观看织工的目的；“fingers repeatedly contact the same locations”是手指反复触及相同位置。",
+        "rationale": "观察现代织工的接触位置以支持古代磨损解释；原价格错项无关，改为研究目的上的合理混淆。",
         "answer_evidence": "fingers repeatedly contact the same locations",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -797,14 +797,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "比较竞争性解释"
+          "inference"
         ],
         "vocabulary": [
-          "finishing"
+          "deliberate finishing before the tool was ever used"
         ],
-        "rationale": "比较竞争性解释：题目问未使用工具的光滑面说明什么；“deliberate finishing”是制作时有意打磨。",
+        "rationale": "未使用排除了长期握持，制造时的打磨仍能造成光滑；需结合题设与首段成因。",
         "answer_evidence": "deliberate finishing before the tool was ever used",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -832,14 +832,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "语境词义"
+          "vocabulary"
         ],
         "vocabulary": [
-          "variations"
+          "Different tasks or hand sizes"
         ],
-        "rationale": "语境词义：题目问variations的意思；“Different tasks or hand sizes”给出任务和手型的差异来源。",
+        "rationale": "不同任务或手型导致相同技法中的操作差别；variations不是损伤、测值或说明指令。",
         "answer_evidence": "Different tasks or hand sizes",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -867,14 +867,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "理解比喻与论证边界"
+          "purpose"
         ],
         "vocabulary": [
-          "manufacture"
+          "not as a complete instruction manual"
         ],
-        "rationale": "理解比喻与论证边界：题目问说明书这个比喻的作用；“not as a complete instruction manual”表示磨损并非完整操作指南。",
+        "rationale": "比喻用完整说明书反衬磨损证据不完整，后半句record of repeated contact说明其真实能力。",
         "answer_evidence": "not as a complete instruction manual",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -888,28 +888,28 @@
         "passage_title": "A neighborhood heard at different hours",
         "passage": "A neighborhood sound map records where particular sounds can be heard. It may include traffic, conversations, machinery, and birds. Unlike a map of buildings, however, it can change noticeably within hours. A quiet street at dawn may become a busy delivery route later in the morning. A single visit therefore captures a moment rather than a permanent acoustic identity.\n\nSuppose a class plans to compare two public squares. If students visit one during a lunch break and the other early on Sunday, their recordings will reflect different schedules as well as different places. A more informative plan uses repeated visits at matching times. Students can also note temporary events, such as construction, so that an unusual recording is not mistaken for a typical one.\n\nDescriptions matter alongside sound levels. Two places with similar measured volume may contain very different mixtures of sound. A steady fan and a series of short conversations need not produce the same listening experience. For this reason, a sound map can combine measurements with brief observations about sources and timing. The aim is not to label a neighborhood permanently quiet or noisy. It is to reveal patterns in how activities occupy space and time, while making the conditions of observation visible.",
         "options": [
-          "To show that sound maps can replace maps of buildings.",
-          "To argue that numerical sound measurements have no value.",
-          "To rank neighborhood sounds from most to least pleasant.",
+          "To explain why sound maps are best made during a single quiet period.",
+          "To show how matching volume readings can identify similar neighborhoods.",
+          "To describe a method of separating permanent sounds from temporary ones.",
           "To explain how timing and description improve sound maps."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：题目问全文目的；“sources and timing”指声音来源与发生时段。\n解析：文章说明多时段观察、匹配比较和来源描述如何补强声音地图。没给悦耳程度排名；没要替代建筑地图；测量值仍被采用，只是单独不够。\n下次：看到方法补充型文章→列作者添加的观察维度→不要把补充理解成完全弃用原方法。"
+        "explanation": "读懂：题目问全文目的；sources and timing 是“声音来源和出现时间”。\n解析：文章要求多次到访、在相近时段比较，并记录音源，说明怎样让声音地图更有用。单次安静时段不够；音量相同不代表社区相似；记录临时施工只是其中一步，不是全文都在分永久声和临时声。\n下次：先把各段建议连起来，选能同时包含“何时观察”和“记录什么”的概括。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "概括调查方法"
+          "main_idea"
         ],
         "vocabulary": [
-          "timing"
+          "sources and timing"
         ],
-        "rationale": "概括调查方法：题目问全文目的；“sources and timing”指声音来源与发生时段。",
-        "answer_evidence": "combine measurements with brief observations about sources and timing",
-        "reviewed_on": "2026-09-27"
+        "rationale": "全文依次说明时间变化、匹配时段和声音来源描述；改进主旨错项，使其对应文中可发生的片面概括。",
+        "answer_evidence": "sources and timing",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -923,28 +923,28 @@
         "passage_title": "A neighborhood heard at different hours",
         "passage": "A neighborhood sound map records where particular sounds can be heard. It may include traffic, conversations, machinery, and birds. Unlike a map of buildings, however, it can change noticeably within hours. A quiet street at dawn may become a busy delivery route later in the morning. A single visit therefore captures a moment rather than a permanent acoustic identity.\n\nSuppose a class plans to compare two public squares. If students visit one during a lunch break and the other early on Sunday, their recordings will reflect different schedules as well as different places. A more informative plan uses repeated visits at matching times. Students can also note temporary events, such as construction, so that an unusual recording is not mistaken for a typical one.\n\nDescriptions matter alongside sound levels. Two places with similar measured volume may contain very different mixtures of sound. A steady fan and a series of short conversations need not produce the same listening experience. For this reason, a sound map can combine measurements with brief observations about sources and timing. The aim is not to label a neighborhood permanently quiet or noisy. It is to reveal patterns in how activities occupy space and time, while making the conditions of observation visible.",
         "options": [
-          "The measuring equipment stops working outside lunchtime.",
+          "A single recording measures the permanent sound pattern of each square.",
           "The results reflect different activity schedules as well as locations.",
-          "The squares necessarily contain the same buildings and machinery.",
-          "Early Sunday recordings cannot capture any human voices."
+          "The location difference is removed when both recordings use the same equipment.",
+          "Repeated visits at different times make notes about temporary events unnecessary."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问比较为何可能误导；“as well as”说明时间安排和地点都在影响声音。\n解析：若时间不匹配，无法把差别只归于地点。两地建筑设备不必相同；周日早晨不是绝无人声；也没有设备午餐之外失效的技术限制。\n下次：看到两地比较→检查观察时段是否同类→排除地点之外的活动节奏差异。"
+        "explanation": "读懂：题目问两广场在不同时段录音为何可能误导；as well as 是“除了……还包括……”。\n解析：午餐时和周日清晨本来就有不同活动，录音差异可能来自时间安排，也可能来自地点。一次录音不代表长期特点；用同一设备不会消除地点差别；多次到访也仍需注明施工等临时事件。\n下次：比较两个地方时，先核对观察时段和活动是否相近，再判断差异是不是地点造成的。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "识别比较中的混杂因素"
+          "detail"
         ],
         "vocabulary": [
-          "schedules"
+          "different schedules as well as different places"
         ],
-        "rationale": "识别比较中的混杂因素：题目问比较为何可能误导；“as well as”说明时间安排和地点都在影响声音。",
+        "rationale": "不同时间比较混入活动时间差；去除设备失效等无关错项，明确不是仅比较地点。",
         "answer_evidence": "different schedules as well as different places",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -952,7 +952,7 @@
         "id": "R723",
         "section": "reading",
         "task_type": "read_academic_passage",
-        "prompt": "What can be inferred about two recordings with similar volume levels?",
+        "prompt": "What does the passage say about two recordings with similar volume levels?",
         "response_type": "choice",
         "group_id": "read_academic_passage_16",
         "passage_title": "A neighborhood heard at different hours",
@@ -967,19 +967,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：题目问音量相似能推断什么；“very different mixtures of sound”说明组成仍可大不相同。\n解析：同样音量可来自持续风扇或断续交谈，听感未必一样。不能推出录制时间相同；音源数量也未必相等；更不足以认定整个社区日常活动完全一致。\n下次：看到一个数值相同→检查它没描述的来源和变化方式→不把单指标相等扩大成整体相同。"
+        "explanation": "读懂：题目问音量相近的两段录音还可能有什么区别；mixtures of sound 是“多种声音的组合”。\n解析：文中直接说，音量相近，音源和听感仍可不同，例如持续的风扇声与断断续续的交谈。这个读数不能说明声音数量相同、录制时间相同或社区日常活动完全一样。\n下次：遇到某个数值相同，先确认这个数值只测了什么，再找它没有说明的声音特点。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "限制单指标推断"
+          "detail"
         ],
         "vocabulary": [
-          "mixtures"
+          "Two places with similar measured volume"
         ],
-        "rationale": "限制单指标推断：题目问音量相似能推断什么；“very different mixtures of sound”说明组成仍可大不相同。",
-        "answer_evidence": "very different mixtures of sound",
-        "reviewed_on": "2026-09-27"
+        "rationale": "题干把原文明确陈述包装成推断，改成询问原文对相近音量的说明并降easy。",
+        "answer_evidence": "Two places with similar measured volume",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1007,14 +1007,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "语境词义"
+          "vocabulary"
         ],
         "vocabulary": [
-          "captures"
+          "captures a moment"
         ],
-        "rationale": "语境词义：题目问captures的意思；“a moment rather than a permanent acoustic identity”对比当下一刻与长期声音特征。",
-        "answer_evidence": "captures a moment rather than a permanent acoustic identity",
-        "reviewed_on": "2026-09-27"
+        "rationale": "captures以当下一刻为宾语，指记录；预测未来、创造或控制声音都不符合观察行为。",
+        "answer_evidence": "captures a moment",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1042,14 +1042,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "分析例证功能"
+          "purpose"
         ],
         "vocabulary": [
-          "steady"
+          "A steady fan and a series of short conversations"
         ],
-        "rationale": "分析例证功能：题目问风扇与交谈的例子作用；“need not produce the same listening experience”表示未必有相同听感。",
-        "answer_evidence": "need not produce the same listening experience",
-        "reviewed_on": "2026-09-27"
+        "rationale": "风扇持续、交谈间断，例子展示音量之外的差别；原解析说明数值之外新增描述的价值。",
+        "answer_evidence": "a steady fan and a series of short conversations",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1063,28 +1063,28 @@
         "passage_title": "A seed carried by water",
         "passage": "A seed need not remain close to the plant that produced it. Along streams and shorelines, moving water can transport seeds to new locations. [A] The journey may reduce competition with the parent plant, but it also exposes the seed to an uncertain destination. A successful trip involves more than simply moving a long distance.\n\n[B] Some seeds have structures that help them remain at the surface. In certain species, small air spaces inside the outer covering contribute to buoyancy. [C] The outer covering may also slow the entry of water, helping the seed survive the journey. Currents and obstacles influence where the seed finally leaves the water. A floating seed can be trapped among branches or deposited on a bank as water levels fall.\n\nReaching land is not the same as establishing a new plant. The destination must provide conditions in which the seed can germinate and the young plant can grow. [D] A seed carried farther than its neighbors may land on a dry rock, while one that travels only a short distance may reach suitable soil. Distance is therefore only one measure of dispersal. To understand its biological outcome, researchers must follow the journey through arrival and early growth, not stop at the moment of transport.",
         "options": [
-          "Water dispersal prevents seeds from competing with any other plants.",
+          "Water dispersal succeeds mainly by increasing the distance from the parent plant.",
           "Successful water dispersal depends on both transport and conditions after arrival.",
-          "Air spaces allow every plant species to spread across oceans.",
-          "Seeds that travel farthest have the greatest chance of becoming plants."
+          "The outer covering determines where a seed will finally leave the water.",
+          "Floating structures help seeds grow after they have reached a dry surface."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问主旨；“establishing a new plant”指真正长成并立足，而不只是到岸。\n解析：文章先讲漂浮运输，再强调落点与萌发，成功需要两阶段。远距离未必落好地方；只说某些种子有空气腔，不能扩至所有植物和海洋；减少与母株竞争不等于消除所有竞争。\n下次：看到传播过程→分开移动与存活定居→检查选项是否把中间成功当最终成功。"
+        "explanation": "读懂：题目问主旨；early growth 是“刚开始生长的阶段”。\n解析：文章既讲种子怎样漂走，也讲到岸后是否有适合发芽、生长的条件，因此成功要看全过程。离母株远还不够；水流和障碍也影响落点；帮助漂浮的结构不能保证种子在干燥表面长成植物。\n下次：看到种子传播，分别检查“运到了哪里”和“能否在那里长起来”，别把漂得远当作已经成功。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "概括多阶段机制"
+          "main_idea"
         ],
         "vocabulary": [
-          "dispersal"
+          "through arrival and early growth"
         ],
-        "rationale": "概括多阶段机制：题目问主旨；“establishing a new plant”指真正长成并立足，而不只是到岸。",
-        "answer_evidence": "Reaching land is not the same as establishing a new plant",
-        "reviewed_on": "2026-09-27"
+        "rationale": "全文跨越运输、落地和成长三个阶段，关键是运输距离不保证成活；去除所有植物跨海等显眼绝对错项。",
+        "answer_evidence": "through arrival and early growth",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1099,27 +1099,27 @@
         "passage": "A seed need not remain close to the plant that produced it. Along streams and shorelines, moving water can transport seeds to new locations. [A] The journey may reduce competition with the parent plant, but it also exposes the seed to an uncertain destination. A successful trip involves more than simply moving a long distance.\n\n[B] Some seeds have structures that help them remain at the surface. In certain species, small air spaces inside the outer covering contribute to buoyancy. [C] The outer covering may also slow the entry of water, helping the seed survive the journey. Currents and obstacles influence where the seed finally leaves the water. A floating seed can be trapped among branches or deposited on a bank as water levels fall.\n\nReaching land is not the same as establishing a new plant. The destination must provide conditions in which the seed can germinate and the young plant can grow. [D] A seed carried farther than its neighbors may land on a dry rock, while one that travels only a short distance may reach suitable soil. Distance is therefore only one measure of dispersal. To understand its biological outcome, researchers must follow the journey through arrival and early growth, not stop at the moment of transport.",
         "options": [
           "A fall in the water level.",
-          "The disappearance of its parent plant.",
-          "Growth of roots during its entire journey.",
-          "A complete absence of obstacles in the stream."
+          "The gradual absorption of water that makes the seed sink in midstream.",
+          "An increase in buoyancy that carries the seed away from the bank.",
+          "The young plant taking root while the seed is still being carried by the current."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：题目问种子如何落到岸上；“as water levels fall”指水位下降时。\n解析：水退可把漂浮种子留在岸边。文中未说它沿途一直生根；母株是否消失无此作用；障碍本可截住种子，不是必须完全无障碍才到岸。\n下次：看到过程细节题→定位伴随事件→只采用文中给出的落地机制。"
+        "explanation": "读懂：题目问漂浮的种子怎样留在岸上；water levels fall 是“水位下降”。\n解析：水退下去时，种子可能被留在河岸。文中没说种子在河中吸水下沉就能到岸，也没说浮得更好会把它送上岸；生根是在到达合适地点后的事。\n下次：看到过程题，按“漂浮—离开水面—发芽”排顺序，找到题目问的那一步。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "定位过程条件"
+          "detail"
         ],
         "vocabulary": [
-          "deposited"
+          "as water levels fall"
         ],
-        "rationale": "定位过程条件：题目问种子如何落到岸上；“as water levels fall”指水位下降时。",
-        "answer_evidence": "deposited on a bank as water levels fall",
-        "reviewed_on": "2026-09-27"
+        "rationale": "退水留下种子是直接明示细节；将生根和母株消失等错项换为传播过程内的误读。",
+        "answer_evidence": "as water levels fall",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1142,19 +1142,19 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：题目问哪种观察支持距离不等于成功；“suitable soil”是适合生长的土壤。\n解析：近处能生长、远处落石头失败，直接把距离和定居结果分开。漂流方向相同不比较存活；有气腔能漂仅支持浮力；不同时段数量不同也没检验远近与成功关系。\n下次：看到要求支持某警示→确定要拆开的两个指标→找结果反转而非仅相关现象。"
+        "explanation": "读懂：题目问哪种观察支持“漂得远不一定更成功”；suitable soil 是“适合生长的土壤”。\n解析：近处种子能长起来，远处种子却在石头上失败，说明距离长不保证生长成功。漂流方向、种子数量和空气腔能否让种子浮起来，都没有比较最终成活情况。\n下次：题目要检验“越远越好”时，同时看距离和生长结果，找能说明两者不一定一起增加的例子。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "选择支持性证据"
+          "supporting_evidence"
         ],
         "vocabulary": [
-          "germinate"
+          "one that travels only a short distance may reach suitable soil"
         ],
-        "rationale": "选择支持性证据：题目问哪种观察支持距离不等于成功；“suitable soil”是适合生长的土壤。",
+        "rationale": "近处成活而远处落石头失败正是文中的反例，所需判断简单；hard降medium，原解释换掉拆开指标等术语。",
         "answer_evidence": "one that travels only a short distance may reach suitable soil",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1169,27 +1169,27 @@
         "passage": "A seed need not remain close to the plant that produced it. Along streams and shorelines, moving water can transport seeds to new locations. [A] The journey may reduce competition with the parent plant, but it also exposes the seed to an uncertain destination. A successful trip involves more than simply moving a long distance.\n\n[B] Some seeds have structures that help them remain at the surface. In certain species, small air spaces inside the outer covering contribute to buoyancy. [C] The outer covering may also slow the entry of water, helping the seed survive the journey. Currents and obstacles influence where the seed finally leaves the water. A floating seed can be trapped among branches or deposited on a bank as water levels fall.\n\nReaching land is not the same as establishing a new plant. The destination must provide conditions in which the seed can germinate and the young plant can grow. [D] A seed carried farther than its neighbors may land on a dry rock, while one that travels only a short distance may reach suitable soil. Distance is therefore only one measure of dispersal. To understand its biological outcome, researchers must follow the journey through arrival and early growth, not stop at the moment of transport.",
         "options": [
           "the ability to float",
-          "the length of a shoreline",
-          "the speed of root growth",
-          "the force of competition"
+          "resistance to water entering",
+          "the capacity to begin growing",
+          "protection from physical damage"
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：题目问buoyancy；“remain at the surface”就是留在水面。\n解析：空气腔帮助漂在水面，因此指浮力或漂浮能力。不是根的生长速度；竞争强弱另属生态关系；岸线长度是地点尺度，不是种子的性质。\n下次：遇到专业词→先找前一句的通俗功能描述→把术语换回能做什么。"
+        "explanation": "读懂：题目问buoyancy的意思；remain at the surface 是“留在水面”。\n解析：前句说有些结构帮助种子留在水面，后句说空气腔提供这种帮助，因此是漂浮能力。减慢进水是外壳的另一作用；发芽和防止破损也不是这里对空气腔的说明。\n下次：遇到专业名词，先找它前后的通俗解释，再把候选意思放回句子核对。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "利用定义理解词义"
+          "vocabulary"
         ],
         "vocabulary": [
-          "buoyancy"
+          "remain at the surface"
         ],
-        "rationale": "利用定义理解词义：题目问buoyancy；“remain at the surface”就是留在水面。",
-        "answer_evidence": "help them remain at the surface",
-        "reviewed_on": "2026-09-27"
+        "rationale": "术语buoyancy紧接保持水面这一通俗说明，不需要课外生物知识；将岸线长度等无关义项换成种子特征。",
+        "answer_evidence": "remain at the surface",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1215,16 +1215,16 @@
         "explanation": "读懂：题目要求插句；“small air spaces inside the outer covering”指外壳内的小空气腔。\n解析：应放Position C：插句的这些空气袋紧接气腔，并解释浮力，随后转入外壳的另一功能。Position A只讲水运，还没气腔；Position B刚要引入漂浮结构，指代提前；Position D已讨论陆上萌发，返回浮力会打断落点与生长例子。\n下次：看到这些加具体名词→向前找最近的同义先行词→再检查后句是否自然转到另一功能。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "指代衔接与句子插入"
+          "sentence_insertion"
         ],
         "vocabulary": [
-          "buoyancy"
+          "small air spaces inside the outer covering"
         ],
-        "rationale": "指代衔接与句子插入：题目要求插句；“small air spaces inside the outer covering”指外壳内的小空气腔。",
+        "rationale": "These pockets of air必须紧接air spaces，后文also转到外壳另一作用；指代清楚，medium更合适。",
         "answer_evidence": "small air spaces inside the outer covering",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1252,14 +1252,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "概括指标适用性"
+          "main_idea"
         ],
         "vocabulary": [
-          "occupancy"
+          "The counting method should follow the planning question."
         ],
-        "rationale": "概括指标适用性：题目问中心观点；“follow the planning question”表示统计方式应服务于规划问题。",
-        "answer_evidence": "The counting method should follow the planning question",
-        "reviewed_on": "2026-09-27"
+        "rationale": "三个总数含义不同，方法应服从问题；原文和解析均区分在场人数、入场次数与不同来访者。",
+        "answer_evidence": "The counting method should follow the planning question.",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1273,28 +1273,28 @@
         "passage_title": "How many people used the square?",
         "passage": "A question that sounds simple can require several different kinds of counting. To ask how many people used a public square, a planner might count everyone present at noon, everyone entering during the day, or the number of different individuals who visited. These totals describe different aspects of use and should not be treated as interchangeable.\n\nA noon count measures occupancy at one moment. It may be useful when estimating demand for seats at lunchtime, but it misses people who passed through earlier. Counting entries over the whole day captures movement across the boundary. However, a person who leaves to buy food and then returns contributes two entries. The total therefore does not automatically represent the number of distinct visitors.\n\nThe counting method should follow the planning question. If a narrow entrance is becoming congested, the number of crossings during busy periods may matter more than the number of unique users. If planners want to know how broadly the square serves the neighborhood, repeat visits require attention. No single total answers every question. Before comparing figures from two squares, researchers must check whether the same event was counted over comparable periods. A precise number can still mislead when its definition is unclear.",
         "options": [
-          "Each available seat is counted as a separate visitor.",
-          "Entries are recorded only during the quietest hour.",
+          "A noon count includes people who have not yet arrived.",
+          "An entry count omits people whose visits are very brief.",
           "One person may leave and enter again.",
-          "A noon count always includes people outside the square."
+          "The number present at noon is added to the number of daily entries."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：题目问入场次数为何多于独立人数；“contributes two entries”指一个人也可能贡献两次入场。\n解析：出去买东西再返回会重复计次，却仍是同一人。不是把场外人算进正午统计；未按座位冒充人数；也不是只取最安静时段，文中讨论的是全日入场量。\n下次：看到次数与人数比较→找同一人能否重复产生事件→先确认统计单位再解释大小。"
+        "explanation": "读懂：题目问一天的入场次数为什么可能多于来过的人数；two entries 是“两次入场”。\n解析：同一个人出去买东西再回来，会计两次入场，但仍只有一个人。正午人数不含尚未来的人；文中没说短暂停留不计，也没把正午人数与全天入场次数相加。\n下次：先看统计的是“人”还是“进入这件事发生几次”，再检查同一个人会不会被重复计入。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "区分人次与人数"
+          "detail"
         ],
         "vocabulary": [
-          "distinct"
+          "contributes two entries"
         ],
-        "rationale": "区分人次与人数：题目问入场次数为何多于独立人数；“contributes two entries”指一个人也可能贡献两次入场。",
+        "rationale": "同人离开再回来计两次，次数可超过人数；重写成统计口径上的真实误读，删除座位冒充人数。",
         "answer_evidence": "contributes two entries",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1320,16 +1320,16 @@
         "explanation": "读懂：题目问研究入口拥堵用哪个量；“crossings during busy periods”是忙时穿越入口的次数。\n解析：入口拥堵直接与该时段通行量有关。全年独立人数抹掉峰值；正午座位占用不是入口流量；附近居民平均年龄也不直接测量通过量。\n下次：看到具体设施问题→找造成该处压力的事件→把观察地点和时间缩到问题发生处。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "选择合适证据"
+          "detail"
         ],
         "vocabulary": [
-          "congested"
+          "crossings during busy periods"
         ],
-        "rationale": "选择合适证据：题目问研究入口拥堵用哪个量；“crossings during busy periods”是忙时穿越入口的次数。",
-        "answer_evidence": "number of crossings during busy periods",
-        "reviewed_on": "2026-09-27"
+        "rationale": "入口拥堵与忙时穿越次数的对应在末段直接写明，调整为easy。",
+        "answer_evidence": "crossings during busy periods",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1357,14 +1357,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "语境词义"
+          "vocabulary"
         ],
         "vocabulary": [
-          "interchangeable"
+          "different aspects of use"
         ],
-        "rationale": "语境词义：题目问interchangeable；“different aspects of use”说明这些总数表示不同方面。",
-        "answer_evidence": "These totals describe different aspects of use",
-        "reviewed_on": "2026-09-27"
+        "rationale": "三种总数表示不同方面，不可彼此代用；interchangeable不是波动、同步采集或计算困难。",
+        "answer_evidence": "different aspects of use",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1392,14 +1392,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "识别结论限定"
+          "purpose"
         ],
         "vocabulary": [
-          "definition"
+          "A precise number can still mislead"
         ],
-        "rationale": "识别结论限定：题目问末句的作用；“A precise number can still mislead”表示数字精确仍可能误导。",
+        "rationale": "末句限定精确数字的用途：含义不清仍会误导，非反对所有比较或主张粗估更好。",
         "answer_evidence": "A precise number can still mislead",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1427,14 +1427,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "概括证据与限制"
+          "main_idea"
         ],
         "vocabulary": [
-          "garment"
+          "its meaning is rarely obvious from appearance alone"
         ],
-        "rationale": "概括证据与限制：题目问写作目的；“as informative as the original design”表示修补也能提供和原设计同样有价值的线索。",
-        "answer_evidence": "the repair may be as informative as the original design",
-        "reviewed_on": "2026-09-27"
+        "rationale": "从修补获得历史线索也需谨慎解释，贵布和叠压为例；原文未要求手工操作或否定原设计价值。",
+        "answer_evidence": "its meaning is rarely obvious from appearance alone",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1462,14 +1462,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "从叠压推断顺序"
+          "detail"
         ],
         "vocabulary": [
-          "seam"
+          "A seam covered by a later patch must already have existed"
         ],
-        "rationale": "从叠压推断顺序：题目问盖在接缝上的补丁能确认什么；“already have existed”表示补丁加上时缝已存在。",
-        "answer_evidence": "must already have existed when that patch was added",
-        "reviewed_on": "2026-09-27"
+        "rationale": "物理覆盖仅确定缝早于补丁；不确定人、价格、是否穿过，原解析边界清楚。",
+        "answer_evidence": "A seam covered by a later patch must already have existed",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1483,28 +1483,28 @@
         "passage_title": "What a repaired coat can tell us",
         "passage": "A repaired garment contains evidence of more than the person who first made it. Patches, replaced fasteners, and altered seams can reveal how later owners adapted an object instead of discarding it. For a historian, the repair may be as informative as the original design, but its meaning is rarely obvious from appearance alone.\n\nConsider an old coat with a patch inside one elbow. The location suggests repeated bending or contact, yet it does not identify the owner's occupation. A patch of expensive cloth might indicate that valuable scraps were reused, not that the owner was wealthy. Materials move between garments, households, and purposes, so their earlier histories can complicate a simple interpretation of social status.\n\nResearchers examine stitching, fabric differences, and the sequence in which alterations overlap. A seam covered by a later patch must already have existed when that patch was added. Written inventories or photographs may provide additional context, although they do not always survive. Together, these clues can help reconstruct a garment's changing life. The aim is not to assign a dramatic story to every tear. It is to understand maintenance as an ordinary practice through which people extended usefulness, adjusted fit, and managed the materials available to them.",
         "options": [
-          "Expensive cloth cannot be sewn onto an inexpensive coat.",
+          "The repair may be older than the original seam beneath it.",
           "The cloth may have been reused from another source.",
-          "All patches were supplied free by wealthy households.",
-          "The location of a patch identifies its maker's income."
+          "The location of the patch proves that the owner worked with costly fabrics.",
+          "The value of a patch depends only on where it was sewn onto the coat."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问贵补丁为何不足以推财富；“valuable scraps were reused”指高价布料可能只是旧碎料再用。\n解析：布料会跨衣物、家庭和用途流转，现主人未必买得起整匹贵布。文中没说贵布不能补廉价衣；位置不能量出收入；也没有所有补丁都由富户免费提供的普遍规则。\n下次：看到物品价值推主人身份→检查物品来源和转手路径→别把材料价格直接等同持有人财富。"
+        "explanation": "读懂：题目问为什么贵补丁不能证明主人富有；scraps were reused 是“旧碎布被再次使用”。\n解析：贵布可能从别的衣物或家庭转来，现主人未必花钱买过整件贵衣。盖在缝上的补丁比缝晚；补丁位置不能证明职业；文中也没说补在哪决定布料价格。\n下次：看到贵材料就想判断主人身份时，先查材料是否买来的，还是转手或重复利用的。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "识别替代解释"
+          "detail"
         ],
         "vocabulary": [
-          "scraps"
+          "valuable scraps were reused"
         ],
-        "rationale": "识别替代解释：题目问贵补丁为何不足以推财富；“valuable scraps were reused”指高价布料可能只是旧碎料再用。",
+        "rationale": "贵布可作为旧碎料再用，不能直接推定现主人富有；换成布料来源和身份判断中的误读。",
         "answer_evidence": "valuable scraps were reused",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1532,14 +1532,14 @@
       "review": {
         "difficulty": "easy",
         "skills": [
-          "语境词义"
+          "vocabulary"
         ],
         "vocabulary": [
-          "discarding"
+          "adapted an object instead of discarding it"
         ],
-        "rationale": "语境词义：题目问discarding的意思；“instead of”将改造继续用与另一动作对立。",
+        "rationale": "instead of把修补继续用与丢弃对照，throwing away唯一；移交下一代仍可能持续使用。",
         "answer_evidence": "adapted an object instead of discarding it",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1553,28 +1553,28 @@
         "passage_title": "What a repaired coat can tell us",
         "passage": "A repaired garment contains evidence of more than the person who first made it. Patches, replaced fasteners, and altered seams can reveal how later owners adapted an object instead of discarding it. For a historian, the repair may be as informative as the original design, but its meaning is rarely obvious from appearance alone.\n\nConsider an old coat with a patch inside one elbow. The location suggests repeated bending or contact, yet it does not identify the owner's occupation. A patch of expensive cloth might indicate that valuable scraps were reused, not that the owner was wealthy. Materials move between garments, households, and purposes, so their earlier histories can complicate a simple interpretation of social status.\n\nResearchers examine stitching, fabric differences, and the sequence in which alterations overlap. A seam covered by a later patch must already have existed when that patch was added. Written inventories or photographs may provide additional context, although they do not always survive. Together, these clues can help reconstruct a garment's changing life. The aim is not to assign a dramatic story to every tear. It is to understand maintenance as an ordinary practice through which people extended usefulness, adjusted fit, and managed the materials available to them.",
         "options": [
-          "To recommend writing fictional biographies before examining garments.",
-          "To explain why photographs are more entertaining than inventories.",
+          "To suggest that a repair is valuable mainly when it can be linked to a famous event.",
+          "To argue that written accounts should take priority over physical evidence.",
           "To discourage unsupported narratives about small pieces of evidence.",
-          "To establish that all repairs resulted from exceptional historical events."
+          "To explain why ordinary repairs contain less useful evidence than original designs."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：题目问生动故事的说法起什么作用；“not to assign”是在提醒不要硬给每处破损套故事。\n解析：作者强调日常维护，避免从少量痕迹编出夸张经历。不是建议先写虚构传记；没比较照片和清单谁更有趣；也反对把普通修补都说成重大事件造成。\n下次：看到作者否定过度叙事→回到可观察的普通行为→检查解释是否超过证据承载范围。"
+        "explanation": "读懂：题目问“dramatic story”（曲折夸张的故事）这句话有什么作用。\n解析：作者提醒我们别给每一处破损硬编经历，要研究延长使用、调整尺寸等有证据的日常做法。不是只重视重大事件，也没让文字资料压过实物，更没贬低普通修补的研究价值。\n下次：解释旧物痕迹时，把“能看到的线索”和“自己补出的故事”分开，只保留线索支持的结论。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "辨识作者谨慎立场"
+          "purpose"
         ],
         "vocabulary": [
-          "maintenance"
+          "not to assign a dramatic story to every tear"
         ],
-        "rationale": "辨识作者谨慎立场：题目问生动故事的说法起什么作用；“not to assign”是在提醒不要硬给每处破损套故事。",
+        "rationale": "作者反对给有限痕迹套夸张经历，提倡研究日常维护；将无关娱乐比较等错项改为研究方法误读。",
         "answer_evidence": "not to assign a dramatic story to every tear",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1602,14 +1602,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "概括工程设计逻辑"
+          "main_idea"
         ],
         "vocabulary": [
-          "joints"
+          "contribute to reliability"
         ],
-        "rationale": "概括工程设计逻辑：题目问主旨；“rather than”把提高可靠性与设计失败区分开。",
-        "answer_evidence": "contribute to reliability rather than represent a failure of design",
-        "reviewed_on": "2026-09-27"
+        "rationale": "有意设缝使混凝土变化时仍可用，首段反直觉开头和末句呼应；不支持装饰、无缝最强或所有裂纹计划内。",
+        "answer_evidence": "contribute to reliability",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1623,28 +1623,28 @@
         "passage_title": "Why a paved path needs joints",
         "passage": "A paved path may look more carefully finished when it forms an uninterrupted surface. In practice, however, engineers often divide concrete paving into sections separated by narrow joints. These divisions are not necessarily signs of poor workmanship. They help a rigid surface respond to changes that occur after it has been laid.\n\nConcrete can expand as it warms and contract as it cools. It also undergoes changes while drying. If movement is strongly constrained, stress can build within a large continuous slab. Joints provide planned locations that accommodate movement or guide where cracking occurs. The exact design depends on the pavement and the conditions it must withstand; not every visible joint serves precisely the same function.\n\nThe idea illustrates a broader design principle. Trying to prevent every small movement may be less effective than providing a controlled way for movement to occur. Similar reasoning appears whenever a structure must remain useful while its materials respond to the environment. This does not mean that any crack should be ignored. A planned joint and an unexpected crack may indicate very different conditions. Maintenance workers need to distinguish them and check whether the surface remains safe and even. An intentional division can thus contribute to reliability rather than represent a failure of design.",
         "options": [
-          "Drying no longer affects the concrete.",
+          "Temperature changes cause less expansion of the material.",
           "Stress can build within the slab.",
-          "The slab stops responding to temperature.",
-          "All visible joints immediately disappear."
+          "Drying makes the slab more able to move freely.",
+          "Cracks are directed to safe locations even without planned joints."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问大板变形受限的结果；“stress can build”表示应力会积累。\n解析：温度与干燥仍会使材料改变，限制变形可积累内部应力。约束不是让材料不受温度影响；也不会自动抹去接缝；更不能让干燥效应停止。\n下次：看到约束与变化并存→区分变化原因仍在和位移被挡住→找由此积累的内部作用。"
+        "explanation": "读懂：题目问大块混凝土不能自由变形时会怎样；stress 是材料内部受到的力，这里说它会逐渐积累。\n解析：混凝土仍会因温度、干燥而变化，活动被限制就可能积累内部作用力。限制移动不等于热胀变小，也不等于干燥后能自由移动；没有预设接缝，更不能保证裂缝会出现在指定位置。\n下次：看见“本来要变化，却被限制”，先找原文写出的结果，不要误以为变化本身被取消了。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "定位因果机制"
+          "detail"
         ],
         "vocabulary": [
-          "constrained"
+          "stress can build within a large continuous slab"
         ],
-        "rationale": "定位因果机制：题目问大板变形受限的结果；“stress can build”表示应力会积累。",
+        "rationale": "约束变形造成应力累积为直接陈述，原medium调easy，换掉接缝消失等明显离题选项。",
         "answer_evidence": "stress can build within a large continuous slab",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1652,7 +1652,7 @@
         "id": "R743",
         "section": "reading",
         "task_type": "read_academic_passage",
-        "prompt": "What would the author most likely recommend when an unfamiliar crack is found?",
+        "prompt": "According to the passage, what should maintenance workers do when they find an unfamiliar crack?",
         "response_type": "choice",
         "group_id": "read_academic_passage_20",
         "passage_title": "Why a paved path needs joints",
@@ -1670,16 +1670,16 @@
         "explanation": "读懂：题目问发现陌生裂缝应如何处理；“very different conditions”提示计划接缝与意外裂缝性质可能不同。\n解析：须识别性质并查表面安全平整。不能把所有裂缝都当无害设计；先填而不查无法判断原因；取消所有接缝反而忽略它们容纳变形的作用。\n下次：看到外观相似的缺口→先确认计划内外→再按安全状态判断，不直接一概忽略或填平。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "从设计原则推断检查步骤"
+          "detail"
         ],
         "vocabulary": [
-          "unexpected"
+          "check whether the surface remains safe and even"
         ],
-        "rationale": "从设计原则推断检查步骤：题目问发现陌生裂缝应如何处理；“very different conditions”提示计划接缝与意外裂缝性质可能不同。",
-        "answer_evidence": "A planned joint and an unexpected crack may indicate very different conditions",
-        "reviewed_on": "2026-09-27"
+        "rationale": "末段明确要求区分意外裂纹和接缝并查安全；将most likely recommendation改为直接询问维护人员该做什么。",
+        "answer_evidence": "check whether the surface remains safe and even",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1707,14 +1707,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "语境词义"
+          "vocabulary"
         ],
         "vocabulary": [
-          "accommodate"
+          "accommodate movement"
         ],
-        "rationale": "语境词义：题目问accommodate；“movement”指材料变形，而非住客入住。",
-        "answer_evidence": "accommodate movement or guide where cracking occurs",
-        "reviewed_on": "2026-09-27"
+        "rationale": "接缝作用是为变形留空间；词义依赖材料变形情境，非测量、预测或消除。",
+        "answer_evidence": "accommodate movement",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1728,28 +1728,28 @@
         "passage_title": "Why a paved path needs joints",
         "passage": "A paved path may look more carefully finished when it forms an uninterrupted surface. In practice, however, engineers often divide concrete paving into sections separated by narrow joints. These divisions are not necessarily signs of poor workmanship. They help a rigid surface respond to changes that occur after it has been laid.\n\nConcrete can expand as it warms and contract as it cools. It also undergoes changes while drying. If movement is strongly constrained, stress can build within a large continuous slab. Joints provide planned locations that accommodate movement or guide where cracking occurs. The exact design depends on the pavement and the conditions it must withstand; not every visible joint serves precisely the same function.\n\nThe idea illustrates a broader design principle. Trying to prevent every small movement may be less effective than providing a controlled way for movement to occur. Similar reasoning appears whenever a structure must remain useful while its materials respond to the environment. This does not mean that any crack should be ignored. A planned joint and an unexpected crack may indicate very different conditions. Maintenance workers need to distinguish them and check whether the surface remains safe and even. An intentional division can thus contribute to reliability rather than represent a failure of design.",
         "options": [
-          "The third argues that temperature changes are unrelated to the second paragraph.",
-          "The third explains how to decorate the joints described in the second.",
+          "The third proposes a new cause for the material changes described in the second.",
+          "The third narrows the discussion to choosing the spacing of concrete joints.",
           "The third draws a general design lesson from the mechanism in the second.",
-          "The third presents measurements that disprove the mechanism in the second."
+          "The third rejects the second paragraph because unexpected cracks still occur."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：题目问段落关系；“a broader design principle”表示从具体铺装推广到较一般的设计原则。\n解析：第二段讲混凝土变形及设缝，第三段提炼允许受控变化的原则并补维护限制。不是用数据反驳；没有转讲装饰；也没否定温度影响，而是以之为推理基础。\n下次：看到更广泛原则的转折→辨认具体机制到概念推广→检查后段是延伸还是推翻。"
+        "explanation": "读懂：题目问第二、三段是什么关系；a broader design principle 是“一条适用范围更广的设计原则”。\n解析：第二段讲混凝土为何变化、接缝如何应对；第三段由此提出“给变化留下受控的空间”这一原则，再提醒仍要检查安全。它没有提出新的变形原因、计算接缝间距，也没有因意外裂缝而否定接缝作用。\n下次：先各用一句话概括两段，再判断后段是在解释原因、举例，还是从具体情况总结一般做法。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "分析段落功能"
+          "organization"
         ],
         "vocabulary": [
-          "principle"
+          "a broader design principle"
         ],
-        "rationale": "分析段落功能：题目问段落关系；“a broader design principle”表示从具体铺装推广到较一般的设计原则。",
+        "rationale": "第二段解释设缝机制，第三段归纳一般设计原则并补安全限制；重写成段落关系的合理错误解读。",
         "answer_evidence": "a broader design principle",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1777,14 +1777,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "概括多源记录价值"
+          "main_idea"
         ],
         "vocabulary": [
-          "notation"
+          "complement one another"
         ],
-        "rationale": "概括多源记录价值：题目问核心观点；“complement one another”指互相补充。",
+        "rationale": "乐谱、录音和背景笔记各保存不同信息，全文落在互补；留存原题及清楚解析。",
         "answer_evidence": "complement one another",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1798,28 +1798,28 @@
         "passage_title": "Writing down a melody",
         "passage": "A written melody is not the same thing as a performance. Musical notation can specify pitches and durations with considerable precision, yet a singer may also vary emphasis, timing, and tone in ways that a simple score does not fully record. This distinction matters when researchers document music that has often been learned by listening rather than from a page.\n\nImagine two experienced singers performing what they regard as the same song. One holds a note slightly longer before a phrase ends; the other moves through it quickly and emphasizes the next word. A researcher who writes down only one version may create the impression that the alternative is an error. Comparing several performances instead can reveal which features remain stable and which are open to variation within the tradition.\n\nRecordings provide useful evidence, but they also capture particular occasions rather than every acceptable form of a song. Notes about the setting, performers, and purpose can help explain a version. A lullaby sung softly to a child may differ from the same melody demonstrated to an interviewer. Documentation is therefore strongest when the written score, the recording, and contextual notes complement one another. Each preserves information that the others may leave out.",
         "options": [
-          "The song becomes impossible for another person to recognize.",
-          "The singer necessarily forgets all the original words.",
+          "The recorded version provides no evidence about the melody itself.",
+          "The singer’s timing choices become part of every later performance.",
           "Legitimate variations could be mistaken for errors.",
-          "Written notation cannot represent any note durations."
+          "Differences in emphasis show that the singers are performing unrelated songs."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：题目问单一版本为何可能误导；“the alternative is an error”指把另一唱法当错。\n解析：若唯一记录被当标准，传统允许的变化会误判。不是歌者必然忘词；乐谱能准确表示相当多时值；也没说别人从此认不出歌，问题在规范被过度收窄。\n下次：看到只收一个样本→检查它是否被误当唯一标准→用更多实例区分变体与错误。"
+        "explanation": "读懂：题目问只记录一个歌者的版本为什么可能误导；the alternative is an error 是“另一种唱法是错的”。\n解析：只留下一版，后来的人可能误把它当成唯一正确唱法，忽略传统本来允许的变化。这一版仍有研究价值；它不会决定以后每次怎么唱；重音不同也不等于唱的是不同歌曲。\n下次：看到只记录一个例子，先问还有没有被允许的其他版本，别把“留下来的”直接当成“唯一正确的”。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "识别单一样本偏差"
+          "detail"
         ],
         "vocabulary": [
-          "variation"
+          "the alternative is an error"
         ],
-        "rationale": "识别单一样本偏差：题目问单一版本为何可能误导；“the alternative is an error”指把另一唱法当错。",
-        "answer_evidence": "create the impression that the alternative is an error",
-        "reviewed_on": "2026-09-27"
+        "rationale": "只记录一版会误把传统允许的差异判错；原忘词和无法辨认错项离题，改为记录范围的具体误读。",
+        "answer_evidence": "the alternative is an error",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1847,14 +1847,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "推断情境影响"
+          "inference"
         ],
         "vocabulary": [
-          "lullaby"
+          "A lullaby sung softly to a child may differ"
         ],
-        "rationale": "推断情境影响：题目问摇篮曲例子能推出什么；“the same melody”强调旋律相同而呈现情境不同。",
-        "answer_evidence": "may differ from the same melody demonstrated to an interviewer",
-        "reviewed_on": "2026-09-27"
+        "rationale": "哄孩子和接受采访用途不同，可能改变同曲唱法；无需推出质量优劣或没有稳定旋律。",
+        "answer_evidence": "A lullaby sung softly to a child may differ",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1869,27 +1869,27 @@
         "passage": "A written melody is not the same thing as a performance. Musical notation can specify pitches and durations with considerable precision, yet a singer may also vary emphasis, timing, and tone in ways that a simple score does not fully record. This distinction matters when researchers document music that has often been learned by listening rather than from a page.\n\nImagine two experienced singers performing what they regard as the same song. One holds a note slightly longer before a phrase ends; the other moves through it quickly and emphasizes the next word. A researcher who writes down only one version may create the impression that the alternative is an error. Comparing several performances instead can reveal which features remain stable and which are open to variation within the tradition.\n\nRecordings provide useful evidence, but they also capture particular occasions rather than every acceptable form of a song. Notes about the setting, performers, and purpose can help explain a version. A lullaby sung softly to a child may differ from the same melody demonstrated to an interviewer. Documentation is therefore strongest when the written score, the recording, and contextual notes complement one another. Each preserves information that the others may leave out.",
         "options": [
           "consistent across versions",
-          "performed without emotion",
-          "written in small letters",
-          "easy for children to learn"
+          "independent of any performer",
+          "written before performance",
+          "restricted to one occasion"
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：题目问stable；原文把它与“open to variation”即允许变化相对照。\n解析：比较多个版本后仍保持一致的特征就是稳定特征。不是乐谱字体小；没有感情是演唱风格；儿童易学是难度，都不属于版本间变或不变这个维度。\n下次：遇到成对对照词→先确定对照轴→用同维度反义解释词义。"
+        "explanation": "读懂：题目问stable的意思；open to variation 是“允许有变化”。\n解析：作者比较多个演唱版本，看哪些地方不变、哪些可以变，所以stable指“各版本中保持一致的”。不是说没人演唱也能独立存在，不是指先写好乐谱，也不是仅在一次场合出现。\n下次：看到“不变”与“可变”放在一起，按同一个比较范围代入词义，看它指的是多个版本之间是否一致。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "利用对比理解词义"
+          "vocabulary"
         ],
         "vocabulary": [
-          "stable"
+          "open to variation"
         ],
-        "rationale": "利用对比理解词义：题目问stable；原文把它与“open to variation”即允许变化相对照。",
-        "answer_evidence": "which features remain stable and which are open to variation",
-        "reviewed_on": "2026-09-27"
+        "rationale": "stable与可变化的特征对照，指跨版本保持一致；原字体小等错项无关，改为表现特征的错误理解。",
+        "answer_evidence": "open to variation",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1917,14 +1917,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "代词指代与篇章衔接"
+          "reference"
         ],
         "vocabulary": [
-          "contextual"
+          "the written score, the recording, and contextual notes"
         ],
-        "rationale": "末句指回乐谱、录音和情境笔记这三种记录形式；需把每一种与其余形式对应。",
+        "rationale": "Each与the others承接三种记录方式；三者都可保存信息，歌者或歌曲不合最后句主语动作。",
         "answer_evidence": "the written score, the recording, and contextual notes",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1938,28 +1938,28 @@
         "passage_title": "The living surface between desert plants",
         "passage": "Between widely spaced desert shrubs, the ground can look empty. Yet the surface may contain a biological soil crust: a community of small organisms living among the uppermost grains. [A] Its dark or uneven appearance is easy to mistake for a simple layer of dirt. Cyanobacteria, which are microscopic organisms, can be important members of this community.\n\nSome cyanobacteria grow in fine threads that extend between soil grains. These threads help bind particles together, making the surface more resistant to wind. [B] The crust therefore protects soil in places where larger plants provide little cover. A boot pressing through it can tear the connections between grains. [C] The damage matters even if no shrub has been crushed and the footprint seems small.\n\nRecovering the appearance of a smooth surface is not the same as rebuilding the living community. Different members can return at different rates, and recovery depends on local conditions as well as the severity of disturbance. [D] A recently disturbed patch should not be judged healthy merely because its edges are becoming difficult to see. For visitors, the practical lesson is to use established paths. Avoiding the spaces between plants can protect living structures that are much less noticeable than the plants themselves.",
         "options": [
-          "Why dark desert soil always indicates recent disturbance.",
-          "Why desert shrubs prevent microscopic organisms from growing.",
+          "Why the visible outline of a footprint indicates how fully desert soil has recovered.",
+          "How desert shrubs supply the threads that hold the surrounding soil together.",
           "How a living soil surface protects desert ground and can be damaged.",
-          "How visitors can create soil crusts by smoothing their footprints."
+          "Why recovery of a smooth surface is the main goal of protecting desert soil."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：题目问主旨；“a biological soil crust”指由微小生物组成的土壤表层。\n解析：全文先介绍看似空地的生物群落，再解释细丝固土、踩踏破坏和恢复判断，重点是这种表层的作用与脆弱性。灌木并非阻止其生长；抹平脚印不等于重建群落；颜色深也不代表近期受损。\n下次：看到不起眼事物的功能说明→串起它是什么、起什么作用、怎样受损→检查概括是否覆盖全文。"
+        "explanation": "读懂：题目问主旨；biological soil crust 是“由微小生物形成的土壤表层”。\n解析：文章讲这种表层怎样连接土粒、防止风蚀，以及踩踏损伤和恢复问题。细丝来自蓝细菌，不是灌木；脚印消失或表面变平都不能证明生物群落已经恢复。\n下次：把各段连成“是什么—有什么用—怎样受损和保护”，再检查主旨有没有只抓住外观。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "概括机制与保护意义"
+          "main_idea"
         ],
         "vocabulary": [
-          "crust"
+          "a biological soil crust"
         ],
-        "rationale": "主旨须同时包括生物结皮的固土作用与踩踏影响。",
-        "answer_evidence": "These threads help bind particles together",
-        "reviewed_on": "2026-09-27"
+        "rationale": "首段定义生物土壤结皮、第二段固土与损伤、末段恢复与保护，主旨应涵盖功能和脆弱性；改掉显眼绝对错项。",
+        "answer_evidence": "a biological soil crust",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1973,28 +1973,28 @@
         "passage_title": "The living surface between desert plants",
         "passage": "Between widely spaced desert shrubs, the ground can look empty. Yet the surface may contain a biological soil crust: a community of small organisms living among the uppermost grains. [A] Its dark or uneven appearance is easy to mistake for a simple layer of dirt. Cyanobacteria, which are microscopic organisms, can be important members of this community.\n\nSome cyanobacteria grow in fine threads that extend between soil grains. These threads help bind particles together, making the surface more resistant to wind. [B] The crust therefore protects soil in places where larger plants provide little cover. A boot pressing through it can tear the connections between grains. [C] The damage matters even if no shrub has been crushed and the footprint seems small.\n\nRecovering the appearance of a smooth surface is not the same as rebuilding the living community. Different members can return at different rates, and recovery depends on local conditions as well as the severity of disturbance. [D] A recently disturbed patch should not be judged healthy merely because its edges are becoming difficult to see. For visitors, the practical lesson is to use established paths. Avoiding the spaces between plants can protect living structures that are much less noticeable than the plants themselves.",
         "options": [
-          "They make shrubs grow close enough to cover the whole surface.",
-          "They prevent visitors from seeing spaces between plants.",
+          "They make larger plants grow close enough to cover the spaces between them.",
+          "They cover damaged patches with a smooth layer that restores the whole community.",
           "They produce threads that connect separate particles.",
-          "They turn loose grains into a continuous layer of solid rock."
+          "They prevent wind from reaching the ground by forming tall barriers."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：题目问蓝细菌如何固土；“bind particles together”是把分散的土粒连在一起。\n解析：细丝伸展在土粒之间，连接后使表层更能抵抗风。并非把颗粒变成岩石；也没有通过让灌木密布或遮住空地来保护土壤，关键是颗粒间的连接。\n下次：看到机制题→找执行动作的结构与作用对象→核对保护来自连接、覆盖还是化学变化。"
+        "explanation": "读懂：题目问蓝细菌如何保护土壤；bind particles together 是“把土粒连在一起”。\n解析：细丝伸在土粒之间，让颗粒连得更牢，所以更不容易被风吹走。不是让灌木长满空地，也不是竖起高墙挡风；把表面弄平也不能恢复整个生物群落。\n下次：问保护机制时，找“谁用什么结构、对什么做了什么”，核对答案是否把连接土粒误换成遮挡或抹平。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别生物结构的功能"
+          "detail"
         ],
         "vocabulary": [
-          "particles"
+          "bind particles together"
         ],
-        "rationale": "答案来自细丝连接土粒的明确机制，无需外部生物学知识。",
-        "answer_evidence": "Some cyanobacteria grow in fine threads that extend between soil grains.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "蓝细菌细丝连接土粒，NPS机构资料证实该机制；将实体岩石等荒诞错项改成固土作用的误读。",
+        "answer_evidence": "bind particles together",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2022,14 +2022,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "区分外观证据与生态恢复"
+          "inference"
         ],
         "vocabulary": [
-          "recovering"
+          "not the same as rebuilding the living community"
         ],
-        "rationale": "外表平滑不足以证明结皮中的生物群落已经恢复。",
-        "answer_evidence": "Different members can return at different rates",
-        "reviewed_on": "2026-09-27"
+        "rationale": "外观平复与群落恢复不同，脚印淡化仍可能未恢复；原题结论有may限定，保持medium。",
+        "answer_evidence": "not the same as rebuilding the living community",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2057,14 +2057,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "理解语境中的程度词"
+          "vocabulary"
         ],
         "vocabulary": [
-          "severity"
+          "severity of disturbance"
         ],
-        "rationale": "在恢复条件语境中区分损伤程度与其他事件属性。",
-        "answer_evidence": "the severity of disturbance",
-        "reviewed_on": "2026-09-27"
+        "rationale": "severity修饰扰动程度，seriousness唯一；时间、地点、次数均非严重程度。",
+        "answer_evidence": "severity of disturbance",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2090,16 +2090,16 @@
         "explanation": "读懂：题目要给句子选位置；“The loosened grains”是变松的土粒，“then”表示接着出现的结果。\n解析：应放在位置C：前句说鞋踩断颗粒间的连接，土粒才变松，插句接着说明更易被风吹走。A尚未解释细丝；B刚讲连接牢固，不能紧接土粒变松；D前面已转入恢复速度，不能把恢复直接接成吹蚀原因。\n下次：看到结果句中的接着→向前找真正造成该结果的事件→再核对后文评价是否承接这条因果链。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "句子插入与因果衔接"
+          "sentence_insertion"
         ],
         "vocabulary": [
-          "loosened"
+          "tear the connections between grains"
         ],
-        "rationale": "只有C紧接连接被踩断这一原因，能解释土粒为何松动。",
-        "answer_evidence": "A boot pressing through it can tear the connections between grains.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "踩断连接后才有loosened grains，C构成因果衔接；其余未有松动原因或已谈恢复，hard调medium。",
+        "answer_evidence": "tear the connections between grains",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2125,16 +2125,16 @@
         "explanation": "读懂：题目问全文概括；“reducing the amount available for shell building”指可用于造壳的碳酸根减少。\n解析：文章先解释二氧化碳引起的化学变化，再说明不同生物的反应未必相同，因此要兼顾机制和差异。酸化不要求碳酸根消失；食物不是唯一因素；某种生物的实验结果也不能证明整体影响很小。\n下次：看到机制后接限制条件→把发生什么与能推到多大范围同时写入概括→排除单因素或全体一致的结论。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "概括化学机制与结论边界"
+          "main_idea"
         ],
         "vocabulary": [
-          "carbonate"
+          "different species and life stages"
         ],
-        "rationale": "主旨兼顾碳酸根供应变化及生物反应的差异。",
-        "answer_evidence": "different species and life stages do not necessarily respond in identical ways",
-        "reviewed_on": "2026-09-27"
+        "rationale": "二氧化碳引起化学变化，物种阶段和环境导致不同反应；术语已解释，篇章整合medium，不因科学词汇标hard。",
+        "answer_evidence": "different species and life stages",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2148,28 +2148,28 @@
         "passage_title": "When seawater chemistry changes",
         "passage": "Seawater contains dissolved substances that many marine animals use to construct shells. Among these substances are carbonate ions, small charged particles that combine with calcium to form shell material. The availability of carbonate therefore matters even when an animal has enough food.\n\nWhen the ocean absorbs additional carbon dioxide from the air, a series of chemical reactions increases the concentration of hydrogen ions in the water. Some of these ions react with carbonate, reducing the amount available for shell building. The process also lowers pH, a measure used to describe how acidic or alkaline a solution is. A falling pH does not require seawater to cross into the acidic range. A solution can become less alkaline while remaining alkaline; the change in that direction is still called acidification.\n\nFor a shell-building animal, the difficulty may be obtaining and maintaining its building material rather than finding calcium alone. However, different species and life stages do not necessarily respond in identical ways. Food supply and other environmental conditions can also influence the outcome. Consequently, evidence that one species maintains shell growth under particular laboratory conditions does not settle the question for every marine organism. Understanding the chemical change provides a starting point for studying biological effects, not a single prediction for all species.",
         "options": [
-          "Calcium preventing carbon dioxide from entering seawater.",
-          "A complete removal of dissolved substances from the ocean.",
+          "Calcium reacting with carbon dioxide before it can enter the water.",
+          "The ocean losing all its dissolved calcium as pH falls.",
           "Hydrogen ions reacting with some of the carbonate.",
-          "Shell-building animals receiving more food than they need."
+          "Shell-building animals switching from carbonate to food as their shell material."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：题目问可用碳酸根为什么减少；“react with carbonate”是与碳酸根发生反应。\n解析：增加的氢离子与一部分碳酸根反应，使造壳可用的部分减少。并非食物过多；没有钙阻止二氧化碳入海的过程；也不是海水全部溶解物被清除，不能扩大变化范围。\n下次：看到连续反应过程→沿着物质增加、发生反应、可用量下降逐步追踪→不要把过程中的物质角色互换。"
+        "explanation": "读懂：题目问造壳可用的碳酸根为什么减少；react with carbonate 是“与碳酸根发生反应”。\n解析：文中过程是二氧化碳入海后氢离子增加，一部分氢离子再与碳酸根反应。不是钙在海水外挡住二氧化碳，也没说海水失去所有钙，更没说动物把食物改当造壳材料。\n下次：遇到连续反应，按原文圈出每一步“哪种物质增加、与谁反应、谁减少”，别交换物质的作用。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "追踪因果过程"
+          "detail"
         ],
         "vocabulary": [
-          "hydrogen"
+          "Some of these ions react with carbonate"
         ],
-        "rationale": "识别氢离子是直接参与减少可用碳酸根的反应者。",
+        "rationale": "氢离子与碳酸根反应减少可用碳酸根；改成材料中物质作用混淆的错项，保持语言而非课外化学作答。",
         "answer_evidence": "Some of these ions react with carbonate",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2184,27 +2184,27 @@
         "passage": "Seawater contains dissolved substances that many marine animals use to construct shells. Among these substances are carbonate ions, small charged particles that combine with calcium to form shell material. The availability of carbonate therefore matters even when an animal has enough food.\n\nWhen the ocean absorbs additional carbon dioxide from the air, a series of chemical reactions increases the concentration of hydrogen ions in the water. Some of these ions react with carbonate, reducing the amount available for shell building. The process also lowers pH, a measure used to describe how acidic or alkaline a solution is. A falling pH does not require seawater to cross into the acidic range. A solution can become less alkaline while remaining alkaline; the change in that direction is still called acidification.\n\nFor a shell-building animal, the difficulty may be obtaining and maintaining its building material rather than finding calcium alone. However, different species and life stages do not necessarily respond in identical ways. Food supply and other environmental conditions can also influence the outcome. Consequently, evidence that one species maintains shell growth under particular laboratory conditions does not settle the question for every marine organism. Understanding the chemical change provides a starting point for studying biological effects, not a single prediction for all species.",
         "options": [
           "To clarify that acidification describes a direction of change.",
-          "To identify the laboratory condition required by every species.",
-          "To show that pH measures only the amount of calcium.",
-          "To argue that shell-building animals do not need carbonate."
+          "To suggest that pH cannot indicate a change until water becomes acidic.",
+          "To show that remaining alkaline prevents carbonate from being reduced.",
+          "To distinguish a change in calcium supply from a change in food supply."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：题目问仍呈碱性的说明有什么作用；“less alkaline while remaining alkaline”是碱性减弱，但仍为碱性。\n解析：作者用它澄清酸化描述变化方向，并非必须已经变成酸性。pH不是只测钙；这段没有否定碳酸根作用；也不是规定所有物种的统一实验环境。\n下次：看到术语后补充看似相反的状态→区分变化方向与最终类别→检查例子是在澄清定义还是报告结果。"
+        "explanation": "读懂：题目问为什么强调海水仍可呈碱性；less alkaline 是“碱性减弱”。\n解析：作者在澄清“酸化”说的是向更酸的方向变化，并不要求已经变成酸性。pH可以显示这种变化；仍呈碱性也不等于碳酸根不会减少；这里不是比较钙和食物的供应。\n下次：遇到“变得更……”的术语，分开看变化方向与最后属于哪一类，别把两者当成一回事。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "理解定义澄清的论证功能"
+          "purpose"
         ],
         "vocabulary": [
-          "alkaline"
+          "less alkaline while remaining alkaline"
         ],
-        "rationale": "区分酸化过程和最终是否处于酸性范围。",
-        "answer_evidence": "the change in that direction is still called acidification",
-        "reviewed_on": "2026-09-27"
+        "rationale": "解释酸化为变化方向，不要求跨过中性；段内明确说出定义，hard调medium并改进三个错项。",
+        "answer_evidence": "less alkaline while remaining alkaline",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2230,16 +2230,16 @@
         "explanation": "读懂：题目问“maintains shell growth”中的动词，即让壳的生长继续保持。\n解析：某种动物在实验条件下仍能继续长壳，才形成后文限制推广范围的例子。不是动物测量、预测或比较生长；这些更像研究者的工作，换进去会改变主语在做什么。\n下次：看到动词词义题→先确认主语是谁→把候选义代回动作与宾语，检查是否仍表达原过程。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "根据主语与搭配判断词义"
+          "vocabulary"
         ],
         "vocabulary": [
-          "maintains"
+          "maintains shell growth"
         ],
-        "rationale": "由生物在特定条件下仍持续生长确定词义。",
-        "answer_evidence": "one species maintains shell growth",
-        "reviewed_on": "2026-09-27"
+        "rationale": "动物在实验中继续长壳，maintains为continues；其余均改成研究者的观察活动。",
+        "answer_evidence": "maintains shell growth",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2265,16 +2265,16 @@
         "explanation": "读懂：题目问一次壳生长良好的实验能说明多大范围；“under particular laboratory conditions”限定了特定实验环境。\n解析：物种、生命阶段及其他环境条件都可能影响反应，因此结果要限定于被测对象和条件。不能推广到所有阶段；不能取消化学研究；更不能归为钙这一单一因素。\n下次：看到某个实验支持一种结果→列出对象和环境条件→检查选项是否偷偷推广到未测试的情形。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "识别研究结论的适用范围"
+          "inference"
         ],
         "vocabulary": [
-          "particular"
+          "under particular laboratory conditions"
         ],
-        "rationale": "单个物种的实验不能直接代表其他物种或条件。",
-        "answer_evidence": "does not settle the question for every marine organism",
-        "reviewed_on": "2026-09-27"
+        "rationale": "末段限定对象与条件，一种实验成功不能推出所有物种阶段；不需要多步复杂推断，hard调medium。",
+        "answer_evidence": "under particular laboratory conditions",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2302,14 +2302,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "概括形成过程与证据限制"
+          "main_idea"
         ],
         "vocabulary": [
-          "cast"
+          "a record of its shape"
         ],
-        "rationale": "主旨必须区分原壳材料与后来记录壳形的矿物填充。",
-        "answer_evidence": "its material entered after the shell disappeared",
-        "reviewed_on": "2026-09-27"
+        "rationale": "全文区分原壳、空腔外模和后填铸型，形状保存不等于原料保存；原题主旨及说明合理。",
+        "answer_evidence": "a record of its shape",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2324,27 +2324,27 @@
         "passage": "A fossil shaped like a shell does not necessarily contain the material of the original shell. Sometimes what survives is a record of its shape. Distinguishing such a record from the original object helps explain why fossils can preserve some features clearly while losing others.\n\nSuppose a shell is buried in soft sediment, which later hardens into rock. Water moving through the rock may dissolve the shell and carry its material away. If the surrounding rock retains the resulting cavity, the cavity is called an external mold. Its inner surface records details from the outside of the vanished shell. If minerals later fill that cavity, the solid filling forms a cast. The cast occupies the space once occupied by the shell, but its material entered after the shell disappeared.\n\nA useful comparison is pressing a patterned button into clay and then removing it. The hollow impression and a solid copy made by filling it are related, but they are not the same object. Neither guarantees that the button's original color has been preserved. Similarly, an external mold or cast may retain the ridges on a shell without revealing its color or the soft body once inside it. A recognizable shape is valuable evidence, provided that researchers ask which features the preservation process could actually record.",
         "options": [
           "Minerals fill the cavity left after the shell dissolves.",
-          "The shell moves out of the rock without leaving a cavity.",
-          "The original shell grows new ridges while buried.",
-          "Soft sediment prevents the shell material from dissolving."
+          "The original shell is pressed outward to form a hollow space around itself.",
+          "Water deposits a copy of the shell before the original shell disappears.",
+          "The surrounding sediment hardens while the shell material remains in place."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：题目问铸型怎样形成；“minerals later fill that cavity”是矿物后来填入空腔。\n解析：顺序是壳溶失、岩石留下空腔、矿物再填充，固体填充物就是铸型。并非旧壳继续生长；这一路径确实发生了溶解；也不是壳移走却不留下空腔。\n下次：看到过程步骤题→先写出前一步产生了什么→检查下一步作用的对象是不是这个产物。"
+        "explanation": "读懂：题目问cast（铸型）形成时发生了什么；fill that cavity 是“填满那个空腔”。\n解析：顺序是原壳被溶解带走，岩石留下空腔，矿物后来填满它，成为实体铸型。不是原壳向外撑出空间，也不是壳还没消失就先形成复制品；沉积物变硬本身还不等于铸型形成。\n下次：过程题先找目标步骤前后各发生什么，特别检查“先消失”和“后填入”的顺序。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别形成顺序"
+          "detail"
         ],
         "vocabulary": [
-          "cavity"
+          "minerals later fill that cavity"
         ],
-        "rationale": "铸型是填入外模空腔的物质，不是原壳本身。",
-        "answer_evidence": "If minerals later fill that cavity, the solid filling forms a cast.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "铸型为原壳溶失后矿物填入空腔的固体；重写成同一形成过程中的先后混淆。",
+        "answer_evidence": "minerals later fill that cavity",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2370,16 +2370,16 @@
         "explanation": "读懂：题目问“Its inner surface”的指代，即谁的内表面；前句刚把岩石里的空腔定义为外模。\n解析：是空腔的内壁印下原壳的外部细节，内外描述属于不同物体。不是原壳内壁；流动水没有这里所说的固定印痕面；动物软体也尚未进入这段形成步骤。\n下次：看到内外表面的指代→先给每个物体分别命名→检查代入后能否解释哪一面接触了原物。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "代词指代与空间关系"
+          "reference"
         ],
         "vocabulary": [
-          "external"
+          "the cavity is called an external mold"
         ],
-        "rationale": "代词回指空腔而非已溶失的壳，需区分空腔内壁与壳外表面。",
+        "rationale": "Its紧接空腔外模，空腔内面对应原壳外面；确有内外物体区分但无多重歧义，hard调medium。",
         "answer_evidence": "the cavity is called an external mold",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2393,28 +2393,28 @@
         "passage_title": "A fossil without its original shell",
         "passage": "A fossil shaped like a shell does not necessarily contain the material of the original shell. Sometimes what survives is a record of its shape. Distinguishing such a record from the original object helps explain why fossils can preserve some features clearly while losing others.\n\nSuppose a shell is buried in soft sediment, which later hardens into rock. Water moving through the rock may dissolve the shell and carry its material away. If the surrounding rock retains the resulting cavity, the cavity is called an external mold. Its inner surface records details from the outside of the vanished shell. If minerals later fill that cavity, the solid filling forms a cast. The cast occupies the space once occupied by the shell, but its material entered after the shell disappeared.\n\nA useful comparison is pressing a patterned button into clay and then removing it. The hollow impression and a solid copy made by filling it are related, but they are not the same object. Neither guarantees that the button's original color has been preserved. Similarly, an external mold or cast may retain the ridges on a shell without revealing its color or the soft body once inside it. A recognizable shape is valuable evidence, provided that researchers ask which features the preservation process could actually record.",
         "options": [
-          "To show that every object buried in clay becomes a fossil.",
+          "To show that the original material remains inside a recognizable copy.",
           "To make the distinction between an impression and a filled copy easier to understand.",
-          "To describe the usual laboratory method for coloring fossils.",
-          "To claim that shells and buttons are made from the same material."
+          "To explain why a surface pattern also reveals an object’s original color.",
+          "To suggest that making a solid copy requires leaving the button in the clay."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问纽扣压黏土例子的作用；“hollow impression”是空的凹痕，对应外模。\n解析：移走纽扣留下凹痕，再填满得到实体复制品，用熟悉过程解释外模和铸型的区别。没有说纽扣和贝壳同材质；不是化石染色实验；也不能从类比推成埋入黏土都必然成化石。\n下次：看到日常物品类比→把例子各步骤对应到科学过程→只保留作者比较的关系，不扩展到其他属性。"
+        "explanation": "读懂：题目问纽扣压黏土这个例子有什么作用；impression 是“压下的凹痕”，filled copy 是“填满凹痕得到的实体复制品”。\n解析：移走纽扣后有空痕，填进去后才有实体，帮助理解外模与铸型不同。纽扣已拿走，不是原料还留在复制品里；形状也不能保证保留颜色。\n下次：看类比时，把日常例子的每一步对应到原过程，再核对作者比较的是形状、材料还是颜色。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "理解类比的解释作用"
+          "purpose"
         ],
         "vocabulary": [
-          "impression"
+          "hollow impression and a solid copy"
         ],
-        "rationale": "类比用于形象区分负形凹痕和正形填充，不宣称材料相同。",
-        "answer_evidence": "The hollow impression and a solid copy made by filling it are related",
-        "reviewed_on": "2026-09-27"
+        "rationale": "纽扣压痕与填满的复制品对应外模与铸型；去掉染色等无关错项，保留可读的类比说明。",
+        "answer_evidence": "hollow impression and a solid copy",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2442,14 +2442,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "按保存机制限定推断"
+          "inference"
         ],
         "vocabulary": [
-          "ridges"
+          "without revealing its color"
         ],
-        "rationale": "形貌证据不能自动扩展成色彩、原材料或软体证据。",
-        "answer_evidence": "may retain the ridges on a shell without revealing its color",
-        "reviewed_on": "2026-09-27"
+        "rationale": "清晰壳纹只能说明表面形状被保存，不能推出颜色、软体、原材或没有进水；解析未越过材料。",
+        "answer_evidence": "without revealing its color",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2463,28 +2463,28 @@
         "passage_title": "Keeping an acorn store in working order",
         "passage": "An acorn woodpecker's food store can resemble a tree covered with small buttons. The buttons are acorns fitted into holes that the birds have made in the bark. A storage tree of this kind is often called a granary. [A] Members of a group collect food, maintain storage holes, and help defend the shared supply.\n\nA hole is useful only if it fits its contents. The birds select holes into which individual acorns can be pushed tightly. A loose acorn is easier to remove, including by animals seeking to steal it. [B] Acorns, however, do not keep exactly the same dimensions throughout storage. As they dry, they shrink. [C] An acorn that originally fitted securely may gradually become loose. The birds respond by moving it to a smaller hole and may adjust its position again as drying continues. [D]\n\nThe labor invested in this system extends beyond the initial harvest. Empty holes can be useful later, and a tree with many well-maintained holes represents accumulated work. The store also requires protection while some group members are away collecting food. Consequently, describing the behavior simply as hiding nuts misses much of its complexity. Successful storage involves matching food to spaces, revisiting earlier decisions, and preserving a shared resource over time.",
         "options": [
-          "Why acorn woodpeckers have difficulty recognizing their own food.",
-          "How dry acorns grow larger inside a tree.",
-          "Why storage holes are made only after the food supply is exhausted.",
+          "Why collecting a large harvest removes the need to revisit a food store.",
+          "How the size of a storage hole determines the original size of an acorn.",
+          "Why defending stored food is more important than maintaining storage holes.",
           "How maintaining a shared food store requires continuing work."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：题目问主旨；“extends beyond the initial harvest”表示工作不止于最初采集。\n解析：文章解释选合适洞孔、果实变小时重新安放以及共同守护，突出持续维护。没有说鸟认不出自己的食物；干燥使橡果缩小而非变大；也不是吃完之后才开始造储藏孔。\n下次：看到一个行为被分成多项工作→概括各阶段共同服务的目标→避免只抓开头的采集动作。"
+        "explanation": "读懂：题目问主旨；extends beyond the initial harvest 是“工作不止于最初采集”。\n解析：鸟不仅采橡果，还要选孔、果实缩小后重新安放，并共同守护，所以储藏需要持续维护。收得多不能免去后续工作；孔不是橡果大小的成因；文章也没有把守护排在修孔之上。\n下次：看到一个行为分成多步，找这些步骤共同说明什么，别把其中一步当成全部。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "概括行为系统"
+          "main_idea"
         ],
         "vocabulary": [
-          "granary"
+          "extends beyond the initial harvest"
         ],
-        "rationale": "全文强调食物储藏包含持续调整与守护。",
-        "answer_evidence": "Successful storage involves matching food to spaces, revisiting earlier decisions",
-        "reviewed_on": "2026-09-27"
+        "rationale": "采集、配孔、反复调整、守护组成持续工作；重写原来认不出食物、干燥长大等离题错项。",
+        "answer_evidence": "extends beyond the initial harvest",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2498,28 +2498,28 @@
         "passage_title": "Keeping an acorn store in working order",
         "passage": "An acorn woodpecker's food store can resemble a tree covered with small buttons. The buttons are acorns fitted into holes that the birds have made in the bark. A storage tree of this kind is often called a granary. [A] Members of a group collect food, maintain storage holes, and help defend the shared supply.\n\nA hole is useful only if it fits its contents. The birds select holes into which individual acorns can be pushed tightly. A loose acorn is easier to remove, including by animals seeking to steal it. [B] Acorns, however, do not keep exactly the same dimensions throughout storage. As they dry, they shrink. [C] An acorn that originally fitted securely may gradually become loose. The birds respond by moving it to a smaller hole and may adjust its position again as drying continues. [D]\n\nThe labor invested in this system extends beyond the initial harvest. Empty holes can be useful later, and a tree with many well-maintained holes represents accumulated work. The store also requires protection while some group members are away collecting food. Consequently, describing the behavior simply as hiding nuts misses much of its complexity. Successful storage involves matching food to spaces, revisiting earlier decisions, and preserving a shared resource over time.",
         "options": [
-          "The tree bark has made the acorn grow.",
+          "The original hole has become deeper while the acorn’s size stayed unchanged.",
           "The acorn has shrunk as it dried.",
-          "The original hole was intended only for insects.",
-          "A larger hole would prevent the acorn from drying at all."
+          "A smaller hole is needed to keep the acorn from drying any further.",
+          "The bird needs to leave the original hole unused until the next harvest."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问为什么换到更小的孔；“As they dry, they shrink”指橡果干燥时会缩小。\n解析：原本卡紧的橡果缩小后变松，转入小孔可重新固定。不是树皮让它长大；没说大孔完全阻止干燥；原孔本用于储橡果，并非只为昆虫准备。\n下次：看到容器与内容物重新配对→先查哪一方的尺寸改变→核对新尺寸是否解决原来的松紧问题。"
+        "explanation": "读懂：题目问为什么把橡果移到更小的孔；shrink 是“缩小”。\n解析：橡果干燥后变小，原来卡紧的孔就显得太松，换小孔能重新固定。改变的是橡果大小，不是孔变深；换孔不是为停止干燥，也不是必须空出原孔等下次收获。\n下次：容器和物品要重新配对时，先确认是谁的尺寸变了，再看新容器怎样解决松紧问题。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "识别行为的直接原因"
+          "detail"
         ],
         "vocabulary": [
-          "shrink"
+          "As they dry, they shrink."
         ],
-        "rationale": "因干燥缩小而重新选孔，不能倒置尺寸变化方向。",
+        "rationale": "橡果干燥缩小造成原孔过松，换小孔重新卡牢；改成孔与果尺寸变化的具体错因。",
         "answer_evidence": "As they dry, they shrink.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2527,34 +2527,34 @@
         "id": "R768",
         "section": "reading",
         "task_type": "read_academic_passage",
-        "prompt": "What can be inferred about an empty hole in a granary tree?",
+        "prompt": "What would be a limitation of judging a granary tree only by the number of acorns currently in it?",
         "response_type": "choice",
         "group_id": "read_academic_passage_25",
         "passage_title": "Keeping an acorn store in working order",
         "passage": "An acorn woodpecker's food store can resemble a tree covered with small buttons. The buttons are acorns fitted into holes that the birds have made in the bark. A storage tree of this kind is often called a granary. [A] Members of a group collect food, maintain storage holes, and help defend the shared supply.\n\nA hole is useful only if it fits its contents. The birds select holes into which individual acorns can be pushed tightly. A loose acorn is easier to remove, including by animals seeking to steal it. [B] Acorns, however, do not keep exactly the same dimensions throughout storage. As they dry, they shrink. [C] An acorn that originally fitted securely may gradually become loose. The birds respond by moving it to a smaller hole and may adjust its position again as drying continues. [D]\n\nThe labor invested in this system extends beyond the initial harvest. Empty holes can be useful later, and a tree with many well-maintained holes represents accumulated work. The store also requires protection while some group members are away collecting food. Consequently, describing the behavior simply as hiding nuts misses much of its complexity. Successful storage involves matching food to spaces, revisiting earlier decisions, and preserving a shared resource over time.",
         "options": [
-          "It is useful only if every other hole is also empty.",
-          "It proves that the birds have stopped using the tree.",
-          "It must have been made by an animal stealing food.",
-          "It may remain valuable for future storage."
+          "It would count the same acorn as several different birds’ individual supplies.",
+          "It would show how much food the group collected during the entire season.",
+          "It would determine whether every group member had contributed equally.",
+          "It would overlook work invested in storage spaces that are temporarily empty."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：题目问空孔是否还有用；“Empty holes can be useful later”明确说以后仍可用。\n解析：洞孔是积累劳动形成的储藏空间，暂时空着不等于失去价值。不能推成整棵树已弃用；没有证据说孔由偷食者造；也不需要其他洞都空才有用。\n下次：看到暂时闲置的设施→区分当前使用状态与后续用途→核对是否还有已投入劳动和可复用价值。"
+        "explanation": "读懂：题目问只数树里现有橡果，会漏掉什么；accumulated work 是“过去一点点积累的劳动”。\n解析：鸟已经花力气挖好、维护好的孔，即使暂时空着，以后仍可储食；只数橡果就漏掉这些空间的价值。文中没有说会把同一果实重复算给不同鸟；现有数量也不等于整季采集量，更不能说明每只鸟出力是否一样。\n下次：评价储藏设施时，先分开“眼下存了多少”和“已经准备好的空间”，再检查统计有没有漏掉后者。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "从资源用途作有限推断"
+          "inference"
         ],
         "vocabulary": [
-          "accumulated"
+          "a tree with many well-maintained holes represents accumulated work"
         ],
-        "rationale": "空孔的未来用途直接否定闲置即无价值的推断。",
-        "answer_evidence": "Empty holes can be useful later",
-        "reviewed_on": "2026-09-27"
+        "rationale": "原题直接重复Empty holes can be useful later却称推断；换成仅数橡果会遗漏什么的应用推断，仍由空孔和积累劳动两句推出。",
+        "answer_evidence": "a tree with many well-maintained holes represents accumulated work",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2580,16 +2580,16 @@
         "explanation": "读懂：题目问“fitted securely”的含义；后文“become loose”是变松，与原先状态相反。\n解析：橡果原本牢固地嵌在孔里，干后才松动，因此是稳固地。最近是时间，显眼是可见程度，安静是声音，都不能与松动形成这里的反义关系。\n下次：看到词后出现状态反转→用后一状态找反义→检查比较的是否同一属性。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "利用反义关系判断词义"
+          "vocabulary"
         ],
         "vocabulary": [
-          "securely"
+          "become loose"
         ],
-        "rationale": "tight与loose的对照将securely限定为牢固。",
-        "answer_evidence": "An acorn that originally fitted securely may gradually become loose.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "后文变松反衬原来securely为firmly；原medium调easy，因为明确反义提供直接支持。",
+        "answer_evidence": "become loose",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2615,16 +2615,16 @@
         "explanation": "读懂：题目要插入一句总结；“This repeated refitting”指前面已经讲过的反复重新配孔。\n解析：应放在位置D：前句刚说随干燥再次移动、调整，插句概括这种重复维护，后段继续讲劳动投入。A只有储藏树定义；B仅说明首次紧密配孔；C刚说缩小，尚未讲重新调整，三处都缺少反复配孔这一前提。\n下次：看到这种反复做法的总结句→先找已出现的重复动作→再检查后段是否顺着总结展开代价或意义。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "句子插入与概括衔接"
+          "sentence_insertion"
         ],
         "vocabulary": [
-          "refitting"
+          "may adjust its position again as drying continues"
         ],
-        "rationale": "D前完整出现重复调整，D后转向劳动投入，形成双向衔接。",
+        "rationale": "This repeated refitting须等前句再次调整完成后才可总结，D接后段持续劳动；结构清楚，hard调medium。",
         "answer_evidence": "may adjust its position again as drying continues",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2652,14 +2652,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "概括研究方法"
+          "main_idea"
         ],
         "vocabulary": [
-          "crossdating"
+          "matching patterns across wood samples"
         ],
-        "rationale": "介绍交叉定年如何校验单一样本计数及扩展年代。",
+        "rationale": "文章先说明数可见线条会错，再解释跨样本匹配及延伸年代，最后保留个体差异；原主旨清楚。",
         "answer_evidence": "matching patterns across wood samples",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2673,28 +2673,28 @@
         "passage_title": "Giving tree rings calendar dates",
         "passage": "Counting a tree's growth rings seems to offer a direct way to measure time. In many trees, one ring normally represents one year. Yet a ring may be extremely narrow or absent along part of a trunk, and unusual growth within a year can resemble an extra annual boundary. Simply counting visible lines can therefore assign the wrong dates.\n\nResearchers check the sequence through crossdating, which means matching patterns across wood samples. Trees growing under similar conditions often share a sequence of relatively wide and narrow rings. A dry interval, for example, may leave a run of narrow rings in several trees whose growth is limited by water. One narrow ring alone is not a distinctive signal, but a longer sequence is more useful.\n\nA sample from a living tree has a known recent end. Its older rings may overlap with the later rings of a dead tree. Matching the shared pattern allows the dated sequence to extend backward. Additional overlapping samples can continue that process. Researchers still examine disagreements rather than forcing every sample to fit. Local injury or differences in growing conditions may affect an individual tree. Crossdating thus uses agreement among records to check a calendar, while preserving attention to the biological reasons that a particular record might differ.",
         "options": [
-          "Wide rings can be counted only after the tree has died.",
+          "A long sequence shows that each tree experienced exactly the same local conditions.",
           "A pattern across several years is more distinctive for matching.",
-          "Every narrow ring was formed during the same calendar year.",
-          "Long sequences eliminate all effects of local tree injury."
+          "A narrow ring identifies its calendar year without comparison with another sample.",
+          "Several consecutive rings remove the need to examine unusual growth."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问为什么看连续模式更好；“not a distinctive signal”说明单个窄轮不足以唯一辨认。\n解析：很多年份都可能出现窄轮，连续宽窄组合更有区分度，才更适合匹配。多看几轮也不能消除局部损伤；不是所有窄轮都来自同一年；活树样本也能使用宽轮，未要求死后才数。\n下次：看到匹配记录的任务→比较单个特征与一串特征的识别力→检查是否把更可靠误说成毫无例外。"
+        "explanation": "读懂：题目问为什么连续几个年轮比一个窄轮更有用；distinctive 是“容易与其他情况区分开的”。\n解析：窄轮可能在很多年份出现，而一串宽窄变化更有特点，方便对齐两份记录。但这不能证明各树局部条件完全相同，也不能省去检查异常生长；单个窄轮本身没有标明年份。\n下次：需要匹配两份记录时，找连续变化的组合，不要仅凭一个常见特征就认定它们对应同一年。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "解释模式匹配的依据"
+          "detail"
         ],
         "vocabulary": [
-          "distinctive"
+          "a longer sequence is more useful"
         ],
-        "rationale": "连续宽窄变化的组合比单个窄轮更适合跨样本定位。",
-        "answer_evidence": "One narrow ring alone is not a distinctive signal",
-        "reviewed_on": "2026-09-27"
+        "rationale": "连续宽窄组合比单个窄轮更有识别力，不等于消除个体差异；改掉活树不能数宽轮的离题项。",
+        "answer_evidence": "a longer sequence is more useful",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2720,16 +2720,16 @@
         "explanation": "读懂：题目问死树记录怎样接到更早年代；“overlap”指两份样本有共同覆盖的年份。\n解析：活树较老的年轮可与死树较晚的年轮匹配，再沿死树记录往前延伸。不能推出附近所有活树出生年；死树末轮也未必是今年；异常生长仍需核查，不能省略。\n下次：看到用重叠样本延长时间线→先找两者共有的一段→对齐后再向缺少记录的一端延伸。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "理解时间序列的衔接"
+          "detail"
         ],
         "vocabulary": [
-          "overlap"
+          "Its older rings may overlap with the later rings of a dead tree."
         ],
-        "rationale": "通过共有年代连接活树较早记录与死树较晚记录。",
+        "rationale": "活树老年轮与死树较晚年轮的重叠可延长序列，末段明确步骤；hard降medium，仍需区分两样本方向。",
         "answer_evidence": "Its older rings may overlap with the later rings of a dead tree.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2757,14 +2757,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "结合搭配理解动词"
+          "vocabulary"
         ],
         "vocabulary": [
-          "assign"
+          "assign the wrong dates"
         ],
-        "rationale": "assign在此表示给年轮配置日期，attach是选项中最接近的含义。",
+        "rationale": "assign在给年轮对应年份语境中相当于attach；原解析已说明为何不是重复比较隐藏。",
         "answer_evidence": "assign the wrong dates",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2772,7 +2772,7 @@
         "id": "R775",
         "section": "reading",
         "task_type": "read_academic_passage",
-        "prompt": "What does the final paragraph suggest about a sample that does not match others?",
+        "prompt": "According to the final paragraph, how should researchers treat a sample that does not match others?",
         "response_type": "choice",
         "group_id": "read_academic_passage_26",
         "passage_title": "Giving tree rings calendar dates",
@@ -2790,16 +2790,16 @@
         "explanation": "读懂：题目问不一致样本该怎样处理；“examine disagreements”是研究差异，而不是强行消除差异。\n解析：局部损伤或生长条件可能使个别树偏离共有模式，需要具体分析。不能修改到一致；一个样本有差别不推翻整种方法；也不能据此断言当地从无干旱。\n下次：看到与多数记录不符的样本→先查个体经历和测量条件→检查是否有证据再决定怎样解释。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "easy",
         "skills": [
-          "理解研究中的异常处理"
+          "detail"
         ],
         "vocabulary": [
-          "disagreements"
+          "Researchers still examine disagreements"
         ],
-        "rationale": "分歧应触发原因调查，而非删改记录或否定全部方法。",
-        "answer_evidence": "Local injury or differences in growing conditions may affect an individual tree.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "原题suggest问的处理办法已明写，改成According to明确细节；easy而非hard。",
+        "answer_evidence": "Researchers still examine disagreements",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2827,14 +2827,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "概括记录技术的影响"
+          "main_idea"
         ],
         "vocabulary": [
-          "exposure"
+          "the way the picture was made"
         ],
-        "rationale": "主旨是曝光方式影响可见内容，而非判定所有照片失真或无价值。",
-        "answer_evidence": "the way the picture was made can help explain the apparent emptiness",
-        "reviewed_on": "2026-09-27"
+        "rationale": "长曝光影响对移动行人的记录而保留建筑价值，主旨涉及制作过程对表象的影响；原解析充分。",
+        "answer_evidence": "the way the picture was made",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2848,28 +2848,28 @@
         "passage_title": "The quiet street in an early photograph",
         "passage": "An early photograph of a city street may show buildings in sharp detail but surprisingly few people. It is tempting to read the image as evidence of an unusually quiet morning. Yet the way the picture was made can help explain the apparent emptiness.\n\nSome early photographic processes required the camera's sensitive surface to receive light for a relatively long period. A building remained in one position throughout that exposure and could form a clear image. A person walking quickly across the scene occupied each position only briefly. Depending on the process and the movement, the person might appear blurred, faint, or not clearly visible at all. Someone who paused for much of the exposure could be recorded more distinctly than nearby moving pedestrians.\n\nThis difference gives historians a reason to examine the photograph as a product of a technique, not merely as a transparent view of a moment. Notes about the process, lighting, and exposure can help them judge which features were likely to register. Other records may provide information about the street's usual activity. None of this makes the photograph useless. Its buildings, street layout, and stationary objects can remain valuable evidence. The caution is narrower: a weak record of movement should not automatically become a strong claim that movement was absent.",
         "options": [
-          "The pedestrian was farther from the camera than every building.",
-          "The photographer replaced the pedestrian with a stationary object.",
-          "The building received no light during the exposure.",
+          "The moving pedestrian remained at each position for the whole exposure.",
+          "The camera recorded each object in a separate exposure of equal length.",
+          "The building’s sharp outline shows that the exposure was too short to record movement.",
           "The building stayed in the same position throughout the exposure."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：题目问建筑为何可能比行人清楚；“remained in one position”表示一直留在同一位置。\n解析：长时间曝光中，建筑持续在原位形成影像，行人在每个位置只短暂停留。没有人物被替换的说法；建筑成像也需要光；距离远近未被给为这个差异的原因。\n下次：看到成像清晰度差别→比较对象在曝光期间怎样运动→先使用文中明示的机制，不自行改成距离或光线全无。"
+        "explanation": "读懂：题目问建筑为什么可能比行人清楚；throughout that exposure 是“整个曝光期间”。\n解析：建筑一直在原位，行人在每处只停留很短时间，因此建筑可能清楚、行人模糊。不是逐个物体分别拍；建筑清楚也不能证明曝光短，材料描述的恰是较长曝光。\n下次：比较照片里的清晰程度时，先看物体在拍摄过程中是否一直待在原位。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "理解现象形成机制"
+          "detail"
         ],
         "vocabulary": [
-          "pedestrians"
+          "remained in one position throughout that exposure"
         ],
-        "rationale": "静止与移动的时间差异解释记录清晰度。",
-        "answer_evidence": "A building remained in one position throughout that exposure",
-        "reviewed_on": "2026-09-27"
+        "rationale": "静止建筑在整段曝光保持位置，移动者停留短；重写原人物被替换、建筑无光错项以考查成像过程。",
+        "answer_evidence": "remained in one position throughout that exposure",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2877,34 +2877,34 @@
         "id": "R778",
         "section": "reading",
         "task_type": "read_academic_passage",
-        "prompt": "What can be inferred about a person who stopped for most of the exposure?",
+        "prompt": "According to the passage, how might a person who stopped for most of the exposure appear?",
         "response_type": "choice",
         "group_id": "read_academic_passage_27",
         "passage_title": "The quiet street in an early photograph",
         "passage": "An early photograph of a city street may show buildings in sharp detail but surprisingly few people. It is tempting to read the image as evidence of an unusually quiet morning. Yet the way the picture was made can help explain the apparent emptiness.\n\nSome early photographic processes required the camera's sensitive surface to receive light for a relatively long period. A building remained in one position throughout that exposure and could form a clear image. A person walking quickly across the scene occupied each position only briefly. Depending on the process and the movement, the person might appear blurred, faint, or not clearly visible at all. Someone who paused for much of the exposure could be recorded more distinctly than nearby moving pedestrians.\n\nThis difference gives historians a reason to examine the photograph as a product of a technique, not merely as a transparent view of a moment. Notes about the process, lighting, and exposure can help them judge which features were likely to register. Other records may provide information about the street's usual activity. None of this makes the photograph useless. Its buildings, street layout, and stationary objects can remain valuable evidence. The caution is narrower: a weak record of movement should not automatically become a strong claim that movement was absent.",
         "options": [
-          "That person caused all surrounding buildings to become blurred.",
-          "That person must have been the only pedestrian on the street.",
-          "That person would prove that the exposure lasted less than a second.",
-          "That person might be visible even when nearby walkers are not clearly recorded."
+          "As evidence that the street was empty before the photograph was taken.",
+          "Less clearly than walkers because staying in place prevents light from being recorded.",
+          "Only if the photographer shortened the exposure to less than a second.",
+          "More visibly than nearby walkers who are not clearly recorded."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：题目问长时间停住的人可能怎样被记录；“more distinctly”指比附近移动行人更清楚。\n解析：停留者可能留下明显影像，而旁边经过者不明显，所以少数可见人影不等于只有那些人在场。不能反推街上只有此人；他不使建筑变模糊；也不能由此断定曝光不足一秒。\n下次：看到个别对象被清楚记录→检查它是否具有不同的停留条件→不要用可见人数直接代替实际人数。"
+        "explanation": "读懂：题目问大部分曝光时间都停在原地的人，可能拍成什么样；more distinctly 是“更清楚地”。\n解析：他在同一位置停留久，可能比路过的人更明显。这不说明拍照前街上没人，也不要求曝光少于一秒；待在原地不是阻止光被记录，建筑清楚正是同样的道理。\n下次：判断谁会拍得清楚，比较他们在同一位置停留多久，别把照片里的人数直接当成现场人数。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "根据运动差异推断成像"
+          "detail"
         ],
         "vocabulary": [
-          "paused"
+          "Someone who paused for much of the exposure"
         ],
-        "rationale": "推断须保留可能性，不从单一可见人物推出全部街道活动。",
-        "answer_evidence": "Someone who paused for much of the exposure could be recorded more distinctly",
-        "reviewed_on": "2026-09-27"
+        "rationale": "材料直接说停住者比移动者更明显，题目伪装推断；改成According to并降easy。",
+        "answer_evidence": "Someone who paused for much of the exposure",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2932,14 +2932,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "判断多义词在技术语境中的含义"
+          "vocabulary"
         ],
         "vocabulary": [
-          "register"
+          "which features were likely to register"
         ],
-        "rationale": "摄影语境将register限定为形成可记录影像。",
+        "rationale": "register作用于摄影特征，意为被记录；常见手续注册义不适用，保持medium。",
         "answer_evidence": "which features were likely to register",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2953,28 +2953,28 @@
         "passage_title": "The quiet street in an early photograph",
         "passage": "An early photograph of a city street may show buildings in sharp detail but surprisingly few people. It is tempting to read the image as evidence of an unusually quiet morning. Yet the way the picture was made can help explain the apparent emptiness.\n\nSome early photographic processes required the camera's sensitive surface to receive light for a relatively long period. A building remained in one position throughout that exposure and could form a clear image. A person walking quickly across the scene occupied each position only briefly. Depending on the process and the movement, the person might appear blurred, faint, or not clearly visible at all. Someone who paused for much of the exposure could be recorded more distinctly than nearby moving pedestrians.\n\nThis difference gives historians a reason to examine the photograph as a product of a technique, not merely as a transparent view of a moment. Notes about the process, lighting, and exposure can help them judge which features were likely to register. Other records may provide information about the street's usual activity. None of this makes the photograph useless. Its buildings, street layout, and stationary objects can remain valuable evidence. The caution is narrower: a weak record of movement should not automatically become a strong claim that movement was absent.",
         "options": [
-          "To argue that exposure notes should be ignored when interpreting images.",
-          "To suggest that historians should remove people from old photographs.",
+          "To show that sharp architectural details establish how many people were present.",
+          "To argue that motion is the only feature historians need from street photographs.",
           "To explain why the photograph remains useful despite its limitation.",
-          "To identify objects that always prove a street was crowded."
+          "To suggest that stationary objects make notes about exposure unnecessary."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：题目问末段列建筑、街道布局和静止物体的作用；“remain valuable evidence”表示仍是有价值的证据。\n解析：这些可被较好记录的内容说明局限针对移动活动，照片整体仍可用。它们不证明人流拥挤；作者反而建议看曝光记录；也没要求从旧照片删人。\n下次：看到批评后列出仍有用的部分→辨别作者是在限定缺点还是彻底否定→用列举范围检查结论。"
+        "explanation": "读懂：题目问结尾列出建筑、街道布局和静止物体有什么作用；valuable evidence 是“有价值的证据”。\n解析：行人可能没拍清楚，但这些静止内容仍能供研究，因此照片有局限却不是没用。建筑清楚不能证明现场人数；历史研究也不只关心运动；判断照片时仍需了解曝光过程。\n下次：作者批评一种资料后又列出可用信息时，确认它是在限定用途，还是完全否定这份资料。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "理解让步与论证范围"
+          "purpose"
         ],
         "vocabulary": [
-          "stationary"
+          "remain valuable evidence"
         ],
-        "rationale": "列举保留价值使结论停留在对运动记录的具体警示。",
-        "answer_evidence": "Its buildings, street layout, and stationary objects can remain valuable evidence.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "列静止物和布局证明照片仍有用，限制只是移动活动的记录；将删人等无关错项改为证据用途误读。",
+        "answer_evidence": "remain valuable evidence",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3002,14 +3002,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "概括物理机制及影响条件"
+          "main_idea"
         ],
         "vocabulary": [
-          "evaporates"
+          "carry energy away"
         ],
-        "rationale": "主旨须覆盖蒸发带走能量以及环境条件对冷却效果的影响。",
-        "answer_evidence": "Those leaving carry energy away",
-        "reviewed_on": "2026-09-27"
+        "rationale": "主旨需同时概括蒸发带走能量与湿度风补热造成差异；专业概念已有句内解释。",
+        "answer_evidence": "carry energy away",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3023,28 +3023,28 @@
         "passage_title": "Why evaporation can cool a surface",
         "passage": "A wet surface can become cooler as water evaporates, even when the water is far below its boiling point. The molecules in liquid water do not all move at the same speed. Some near the surface have enough energy to escape into the air. Those leaving carry energy away, which can lower the average energy of the liquid that remains.\n\nThis mechanism helps explain why moving air can increase the cooling effect of sweat. Water vapor can accumulate in the air immediately beside wet skin. A fan moves this moist layer away. [A] In very humid air, however, the surrounding air already contains considerable water vapor, so evaporation is less effective than it would be in drier conditions. [B] Merely being wet therefore does not guarantee the same amount of cooling in every environment.\n\n[C] Evaporation should also be distinguished from boiling. Evaporation occurs at the surface, whereas boiling involves vapor bubbles forming within the liquid. Both involve liquid becoming gas, but visible bubbles are not required for water to leave a wet shirt. [D] The shirt's drying and its possible cooling are connected through escaping molecules. How cool the fabric becomes also depends on how quickly heat arrives from its surroundings to replace the energy being lost.",
         "options": [
-          "Visible bubbles prevent heat from entering the liquid.",
-          "All of its molecules stop moving at the same time.",
-          "Water vapor turns the whole liquid into a solid.",
+          "The surrounding air removes heat only after visible bubbles form.",
+          "The faster-moving molecules remain while only the slowest molecules escape.",
+          "Incoming heat is blocked as soon as the water begins evaporating.",
           "Energy leaves with the escaping molecules."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：题目问剩下的水为什么可能变凉；“lower the average energy”指平均能量降低。\n解析：逃走的分子带走能量，剩余液体平均能量可下降，因此可能降温。不是所有分子停止运动；没有整杯结冰的过程；可不出现气泡，气泡挡热也不是文中机制。\n下次：看到温度变化→追踪能量从哪里离开或进入→检查是否把分子平均状态误说成全部停止。"
+        "explanation": "读懂：题目问一些分子离开后，剩下的水为什么会变凉；carry energy away 是“把能量带走”。\n解析：表面一些能量足够的分子逃进空气，把能量带走，剩余液体平均能量就可能下降。不是只让最慢的分子离开；不需要先起气泡；外界热量也仍可进入，蒸发没有把它完全挡住。\n下次：看到降温，沿原文追踪能量去了哪里，再检查答案有没有把带走与补入的方向弄反。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "理解能量转移的因果关系"
+          "detail"
         ],
         "vocabulary": [
-          "energy"
+          "Those leaving carry energy away"
         ],
-        "rationale": "从逃逸分子带走能量推出剩余液体可能降温，并保留可能性。",
-        "answer_evidence": "which can lower the average energy of the liquid that remains",
-        "reviewed_on": "2026-09-27"
+        "rationale": "分子逃逸带走能量使液体平均能量可降；原停止运动、变固体错项太无关，改成能量方向误读。",
+        "answer_evidence": "Those leaving carry energy away",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3058,28 +3058,28 @@
         "passage_title": "Why evaporation can cool a surface",
         "passage": "A wet surface can become cooler as water evaporates, even when the water is far below its boiling point. The molecules in liquid water do not all move at the same speed. Some near the surface have enough energy to escape into the air. Those leaving carry energy away, which can lower the average energy of the liquid that remains.\n\nThis mechanism helps explain why moving air can increase the cooling effect of sweat. Water vapor can accumulate in the air immediately beside wet skin. A fan moves this moist layer away. [A] In very humid air, however, the surrounding air already contains considerable water vapor, so evaporation is less effective than it would be in drier conditions. [B] Merely being wet therefore does not guarantee the same amount of cooling in every environment.\n\n[C] Evaporation should also be distinguished from boiling. Evaporation occurs at the surface, whereas boiling involves vapor bubbles forming within the liquid. Both involve liquid becoming gas, but visible bubbles are not required for water to leave a wet shirt. [D] The shirt's drying and its possible cooling are connected through escaping molecules. How cool the fabric becomes also depends on how quickly heat arrives from its surroundings to replace the energy being lost.",
         "options": [
-          "The fabric must contain vapor bubbles before it dries.",
+          "Drying begins only after bubbles form within water held by the fabric.",
           "Water can leave a surface without visible boiling.",
-          "Drying prevents heat from reaching the cloth.",
-          "Boiling occurs only inside clothing fibers."
+          "Once fabric begins drying, its temperature is determined by evaporation alone.",
+          "A wet shirt loses water because heat cannot reach its surface."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问湿衬衫的例子说明什么；“visible bubbles are not required”表示不需要可见气泡。\n解析：湿衣服可通过表面蒸发变干，说明液体变成气体不一定发生可见沸腾。不是布内必须有气泡；没有说沸腾只在衣物里发生；外界仍可给布补热，干燥不等于隔绝热量。\n下次：看到两种过程的对比→找例子共有的结果和不同的发生位置→检查是否误把一种过程的标志强加给另一种。"
+        "explanation": "读懂：题目问湿衬衫的例子说明什么；visible bubbles are not required 是“不需要可见气泡”。\n解析：衬衫可因表面蒸发变干，无需先沸腾冒泡。外界仍能给布料补热，所以温度不只由蒸发决定，也不是热量进不来才失去水。\n下次：比较两个过程时，找它们是否同样发生液体变气体，再看发生位置和是否起泡有什么不同。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "理解例子与过程对比"
+          "purpose"
         ],
         "vocabulary": [
-          "bubbles"
+          "visible bubbles are not required"
         ],
-        "rationale": "湿衣干燥用于区分表面蒸发与液体内部形成气泡的沸腾。",
-        "answer_evidence": "visible bubbles are not required for water to leave a wet shirt",
-        "reviewed_on": "2026-09-27"
+        "rationale": "湿衣无需可见气泡即可变干，说明蒸发与沸腾不同；换掉沸腾只在纤维内的显眼错误。",
+        "answer_evidence": "visible bubbles are not required",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3093,28 +3093,28 @@
         "passage_title": "Why evaporation can cool a surface",
         "passage": "A wet surface can become cooler as water evaporates, even when the water is far below its boiling point. The molecules in liquid water do not all move at the same speed. Some near the surface have enough energy to escape into the air. Those leaving carry energy away, which can lower the average energy of the liquid that remains.\n\nThis mechanism helps explain why moving air can increase the cooling effect of sweat. Water vapor can accumulate in the air immediately beside wet skin. A fan moves this moist layer away. [A] In very humid air, however, the surrounding air already contains considerable water vapor, so evaporation is less effective than it would be in drier conditions. [B] Merely being wet therefore does not guarantee the same amount of cooling in every environment.\n\n[C] Evaporation should also be distinguished from boiling. Evaporation occurs at the surface, whereas boiling involves vapor bubbles forming within the liquid. Both involve liquid becoming gas, but visible bubbles are not required for water to leave a wet shirt. [D] The shirt's drying and its possible cooling are connected through escaping molecules. How cool the fabric becomes also depends on how quickly heat arrives from its surroundings to replace the energy being lost.",
         "options": [
-          "The surrounding air must contain no water vapor.",
-          "The fabric must begin boiling immediately.",
-          "Water molecules can no longer leave the surface.",
-          "Evaporation need not produce a drop in the fabric's temperature."
+          "Evaporation stops because the water no longer loses energy to the air.",
+          "The fabric cools at the same rate as fabric receiving no replacement heat.",
+          "The water must form bubbles throughout the liquid to maintain that balance.",
+          "Evaporation need not produce a drop in the fabric’s temperature."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：题目问散失的能量若被同速补回会怎样；“replace the energy being lost”是补回正在失去的能量。\n解析：最后一句说明降温还取决于补热。补入和带走同速时，蒸发仍可继续，却不必导致布料降温。不能说分子停止离开；不能推出空气完全干燥；更没有立即沸腾的依据。\n下次：看到流入与流出相抵→比较两边速率→检查结论针对净变化还是过程是否仍在发生。"
+        "explanation": "读懂：题目假设外界补进的热量，正好等于蒸发带走的能量，问温度会怎样；replace the energy being lost 指“补回正在流失的能量”。\n解析：能量一边流走、一边同速补回，蒸发仍可继续，布料却不一定继续降温。不是蒸发停止，也不能照搬没有补热时的降温速度；这种平衡不要求水冒泡沸腾。\n下次：遇到“流出多少就补回多少”，分开判断过程是否继续，以及总量或温度是否还在下降。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "依据能量平衡作推断"
+          "inference"
         ],
         "vocabulary": [
-          "replace"
+          "replace the energy being lost"
         ],
-        "rationale": "相同补热速率可抵消蒸发带走的能量，蒸发存在不保证温度下降。",
-        "answer_evidence": "How cool the fabric becomes also depends on how quickly heat arrives from its surroundings",
-        "reviewed_on": "2026-09-27"
+        "rationale": "从末句补热因素推出流入等于流出时温度不必下降，实质应用推断；合理为medium，强化停止蒸发与停止降温区别。",
+        "answer_evidence": "replace the energy being lost",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3140,16 +3140,16 @@
         "explanation": "读懂：题目要安放解释气流作用的句子；“Drier air”是较干的空气，“then”表示前一步之后。\n解析：应放在位置A：风扇先移开贴肤湿气，较干空气接着到达，下一句再转折说明环境很潮湿时的限制。B前说周围已有大量水汽，不能直接接较干空气到达；C转入沸腾比较；D前谈气泡，不是换气过程。\n下次：看到接着加新到达的事物→先找前文腾出位置的动作→再核对后文转折是否在限制该机制。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "句子插入与过程衔接"
+          "sentence_insertion"
         ],
         "vocabulary": [
-          "Drier"
+          "A fan moves this moist layer away."
         ],
-        "rationale": "A同时承接湿气被移走并为后文湿度限制提供对比。",
+        "rationale": "then需要移开湿层作为前因，A后接更干空气，再接however高湿限制；hard调medium。",
         "answer_evidence": "A fan moves this moist layer away.",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3177,14 +3177,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "概括经济概念"
+          "main_idea"
         ],
         "vocabulary": [
-          "forgone"
+          "the best forgone alternative"
         ],
-        "rationale": "机会成本依据最佳被放弃方案，而非费用或全部未选活动总和。",
-        "answer_evidence": "the value of the best forgone alternative",
-        "reviewed_on": "2026-09-27"
+        "rationale": "全文定义机会成本为放弃的最佳可行替代，例子和末段个人情境都支撑此定义。",
+        "answer_evidence": "the best forgone alternative",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3212,14 +3212,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "将定义应用于具体排序"
+          "detail"
         ],
         "vocabulary": [
-          "volunteer"
+          "prefers studying to the work shift"
         ],
-        "rationale": "题干情境明确偏好顺序，需区分已选收益与最佳未选收益。",
-        "answer_evidence": "Her opportunity cost is the value of the study time she gives up.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "选择志愿后，未选的最佳替代是复习，不能把互斥两项相加；原题及解释可直接教会判断。",
+        "answer_evidence": "prefers studying to the work shift",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3233,28 +3233,28 @@
         "passage_title": "The cost of choosing a free activity",
         "passage": "An activity with no entrance fee can still have a cost in an economic sense. Time spent doing one thing may prevent a person from doing something else. Economists call the value of the best forgone alternative an opportunity cost. The idea concerns a choice between possible uses of a limited resource, not merely money leaving a wallet.\n\nConsider a student with one free afternoon. She could volunteer at a museum, study for an examination, or accept a paid work shift. Each option would occupy the entire afternoon. Suppose she prefers studying to the work shift but chooses volunteering because she values that experience most. Her opportunity cost is the value of the study time she gives up. It is not the combined value of studying and working, because she could not have spent the same afternoon doing both.\n\nThe relevant alternative can change with circumstances. After the examination, a work shift might become her best other option. Another student could rank the same activities differently. Opportunity cost therefore cannot always be read from a price list or inferred from someone else's decision. Identifying it requires asking what the chooser could realistically have done instead and which available alternative mattered most. This approach makes even an apparently free choice easier to compare with competing uses of time.",
         "options": [
-          "To establish that students are unable to hold part-time jobs.",
-          "To suggest that the student forgot about the examination.",
-          "To show that volunteering takes less time than either alternative.",
+          "To show that the unpaid option must have a lower value than either alternative.",
+          "To establish that the paid shift is the student’s preferred alternative.",
+          "To explain why the value of volunteering is itself the opportunity cost.",
           "To explain why the two forgone benefits should not be added together."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：题目问为什么强调两件事不能同占下午；“not the combined value”表示不能把两个价值加总。\n解析：机会成本只算真实可取代当前选择的最佳方案，同一时段不能两项都做，就不应按两项总收益计。不是说学生不能兼职；没有比较活动时长；也不是学生忘了考试。\n下次：看到作者排除相加→检查各方案能否同时实现→只保留现实可行的替代组合。"
+        "explanation": "读懂：题目问作者为什么强调复习和打工不能同时占用这个下午；combined value 是“加在一起的价值”。\n解析：不去志愿活动，她也只能在复习和打工中选一个，所以不能把两项都算成失去的好处。文中她更喜欢复习；志愿活动是已选项，其收益不是放弃项的成本；无薪也不等于她认为价值低。\n下次：计算放弃了什么时，先检查替代方案能不能同时做，再只选真实可行的最佳替代。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "解释限制条件的论证作用"
+          "purpose"
         ],
         "vocabulary": [
-          "combined"
+          "not the combined value of studying and working"
         ],
-        "rationale": "互斥的时间约束说明为何不应累计全部放弃选项。",
-        "answer_evidence": "she could not have spent the same afternoon doing both",
-        "reviewed_on": "2026-09-27"
+        "rationale": "强调不能两项同做，是解释不能将两收益加总；hard虚高，改medium并用真实定义误读替代无关错项。",
+        "answer_evidence": "not the combined value of studying and working",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3282,14 +3282,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "根据比较标准判断词义"
+          "vocabulary"
         ],
         "vocabulary": [
-          "rank"
+          "rank the same activities differently"
         ],
-        "rationale": "rank表示给活动按偏好排序，非付钱或同时安排。",
-        "answer_evidence": "Another student could rank the same activities differently.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "个人可对同一活动有不同偏好次序，rank为order by preference；不收费付款也不是同时安排。",
+        "answer_evidence": "rank the same activities differently",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3315,16 +3315,16 @@
         "explanation": "读懂：题目问考试后同一人的选择成本会怎样；“might become her best other option”表示最佳替代可能变成打工。\n解析：考试结束可能降低复习的优先性，因此同样花一个下午，放弃的最佳选项及其价值都可能变。不是必须沿用原偏好；不收费仍占时间；个人选择也不能代表其他学生。\n下次：看到情境发生变化→重新排列仍可行的替代选项→确认机会成本是否还对应原来的最佳方案。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "根据条件变化调整推断"
+          "inference"
         ],
         "vocabulary": [
-          "circumstances"
+          "a work shift might become her best other option"
         ],
-        "rationale": "需保留可能性，情境改变影响的是最佳替代及其价值。",
-        "answer_evidence": "The relevant alternative can change with circumstances.",
-        "reviewed_on": "2026-09-27"
+        "rationale": "考试后最佳替代可改变，进而机会成本变化；文中给出该应用，hard降medium。",
+        "answer_evidence": "a work shift might become her best other option",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3350,16 +3350,16 @@
         "explanation": "读懂：题目问主旨；“apparent retrograde motion”是看上去逆向移动，并非实际轨道反转。\n解析：地球从较内侧较快运行并超过火星，视线方向随之改变，形成背景恒星前的逆行外观。不是火星掉头公转；日出日落来自自转，是另一个现象；解释还必须考虑观察者所在的地球。\n下次：看到表观运动→分别标出目标与观察者怎样运动→检查选项是否把看到的方向直接当成真实轨道方向。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "概括相对运动机制"
+          "main_idea"
         ],
         "vocabulary": [
-          "retrograde"
+          "the changing line of sight"
         ],
-        "rationale": "主旨是观察位置变化造成表观逆行，不是火星实际反转。",
-        "answer_evidence": "the changing line of sight can make Mars seem to move backward",
-        "reviewed_on": "2026-09-27"
+        "rationale": "地球追过火星改变视线，导致相对恒星的表观逆行；主旨跨三段但术语均解释，hard降medium。",
+        "answer_evidence": "the changing line of sight",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3373,28 +3373,28 @@
         "passage_title": "When Mars seems to move backward",
         "passage": "If observers record Mars's position against distant stars over many nights, they usually see it progress eastward. For part of the sequence, however, it may appear to reverse direction and move westward before resuming its earlier course. This pattern is called apparent retrograde motion. [A] It does not mean that Mars has reversed its orbit around the Sun.\n\nThe explanation involves the observer's motion. Earth travels around the Sun on a smaller orbit and completes a circuit sooner than Mars. As Earth overtakes Mars, the changing line of sight can make Mars seem to move backward against the background stars. Imagine two runners moving in the same direction around neighboring circular tracks. From the faster runner's moving viewpoint, the slower runner can appear to fall behind during overtaking. [B] The comparison helps separate apparent relative movement from an actual reversal of travel.\n\nThis pattern must also be distinguished from the daily rising and setting of objects in the sky, which results from Earth's rotation. [C] Retrograde motion is recognized by comparing a planet's position with the stars across a longer sequence of observations. [D] A single night's view cannot reveal the whole pattern. The apparent path records a relationship between two moving planets and a distant background, rather than the motion of Mars alone.",
         "options": [
-          "Earth begins orbiting in the opposite direction from Mars.",
+          "Earth changes its orbital direction during the period of retrograde motion.",
           "Earth completes its smaller orbit in less time.",
-          "The background stars pull Mars into Earth's orbit.",
-          "Mars stops moving whenever Earth reaches the same side of the Sun."
+          "Earth’s daily rotation carries it around the Sun before Mars completes one orbit.",
+          "Mars takes a shorter time to complete its larger orbit than Earth takes."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：题目问地球为什么能超过火星；“completes a circuit sooner”指绕太阳一圈用时更短。\n解析：地球轨道较内、完成一周较快，因此会超过外侧的火星。没有火星停住或地球改成反向运行的过程；背景恒星用于定位，不是把火星拉入地球轨道。\n下次：看到追赶或超过→比较双方的路线和一周用时→不要额外假定停下、掉头或外力牵引。"
+        "explanation": "读懂：题目问地球为什么能追过火星；completes a circuit sooner 是“更快绕完一圈”。\n解析：文中说地球轨道较小，公转一周用时更短，因此能追过火星。不是地球临时掉头；自转是地球自身转动，不是绕太阳一周；也不是火星公转更快。\n下次：遇到追赶关系，分别找两者走什么路线、完成一周要多久，别把自转和公转换成同一动作。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
-          "识别周期与相对位置的关系"
+          "detail"
         ],
         "vocabulary": [
-          "circuit"
+          "completes a circuit sooner than Mars"
         ],
-        "rationale": "直接依据较短公转周期解释赶超，避免引入不存在的停转。",
+        "rationale": "地球轨道小且公转一周更快，直接说明追过火星；将背景星牵引与火星停下替换为运动混淆。",
         "answer_evidence": "completes a circuit sooner than Mars",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3420,16 +3420,16 @@
         "explanation": "读懂：题目问为什么区分逆行与每日升落；“Earth's rotation”指地球自转。\n解析：每日升落来自自转，逆行则要跨多夜比较火星相对恒星的位置，涉及地球和火星的公转关系。不是一次瞬间观察就都看全；不是火星以不同速度改轨；恒星还是逆行比较的背景，不能忽略。\n下次：看到容易混淆的天象→分别列成因和观察时间跨度→检查是否只因都在移动就当成同一过程。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "区分相似现象的机制与尺度"
+          "purpose"
         ],
         "vocabulary": [
-          "rotation"
+          "daily rising and setting"
         ],
-        "rationale": "对比段落强调成因与观察跨度的差异。",
-        "answer_evidence": "This pattern must also be distinguished from the daily rising and setting",
-        "reviewed_on": "2026-09-27"
+        "rationale": "区分地球自转引起的每日升落与跨夜比较公转造成的逆行，整合机制和时间跨度，medium。",
+        "answer_evidence": "daily rising and setting",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3457,14 +3457,14 @@
       "review": {
         "difficulty": "medium",
         "skills": [
-          "结合时间顺序理解词义"
+          "vocabulary"
         ],
         "vocabulary": [
-          "resuming"
+          "resuming its earlier course"
         ],
-        "rationale": "语境要求返回原先方向，而非改变速度或可见性。",
-        "answer_evidence": "before resuming its earlier course",
-        "reviewed_on": "2026-09-27"
+        "rationale": "通常东移、暂时西移、再回原方向，resuming为returning to；文中未提加速或消失。",
+        "answer_evidence": "resuming its earlier course",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3490,16 +3490,16 @@
         "explanation": "读懂：题目要插入跑步类比的补充句；“nevertheless”表示尽管看起来落后，两人仍向前跑。\n解析：应放在位置B：前句描述快者眼中慢者落后，插句说明实际仍同向前进，后句才总结表观相对运动与真正掉头的区别。A还未引入跑者；C已转入地球自转和每日升落；D正解释跨多夜观测，插跑者会打断观测时间的说明。\n下次：看到尽管如此与双方指代→先找到刚出现的两方及表面矛盾→再确认后句是否总结这个对比。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "句子插入与让步衔接"
+          "sentence_insertion"
         ],
         "vocabulary": [
-          "nevertheless"
+          "the slower runner can appear to fall behind"
         ],
-        "rationale": "B前后构成表观看似后退、实际继续前进、总结两者差异的完整链。",
-        "answer_evidence": "the slower runner can appear to fall behind during overtaking",
-        "reviewed_on": "2026-09-27"
+        "rationale": "Both runners回指刚出现的两跑者，nevertheless承接表观落后与真实仍向前的对比，B唯一；hard调medium。",
+        "answer_evidence": "the slower runner can appear to fall behind",
+        "reviewed_on": "2026-09-30"
       }
     }
   ]

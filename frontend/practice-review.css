@@ -8,8 +8,9 @@
 
 .result-header {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 24px;
+  gap: 12px 24px;
   padding-bottom: 14px;
   border-bottom: 1px solid var(--rule);
 }
@@ -27,6 +28,13 @@
   flex-wrap: wrap;
   gap: 8px 24px;
   margin: 0 0 0 auto;
+}
+
+.result-header > .test-review-note {
+  order: 2;
+  flex-basis: 100%;
+  margin: 0;
+  font-size: 0.85rem;
 }
 
 .score-cell {
@@ -212,6 +220,8 @@
 
 .review-explanations p,
 .mock-review-list .mock-explanation {
+  color: var(--ink);
+  font-size: 1rem;
   line-height: 1.75;
   white-space: pre-line;
 }
@@ -323,13 +333,17 @@
 .submitted-answer,
 .reference-answer {
   white-space: pre-wrap;
-  font-size: 0.9rem;
+  font-size: 1rem;
   line-height: 1.7;
   margin: 0;
 }
 
 .reference-answer {
   color: var(--success);
+}
+
+.reference-answer.is-example {
+  color: var(--ink);
 }
 
 .review-answer audio {
@@ -341,11 +355,16 @@
   margin-top: 26px;
 }
 
-.review-original h4 {
+.review-prompt {
   white-space: pre-line;
   line-height: 1.65;
-  font-size: 0.97rem;
+  font-size: 1rem;
+  font-weight: 400;
   margin: 0 0 16px;
+}
+
+.review-original h4.review-prompt {
+  font-weight: 600;
 }
 
 .review-options {

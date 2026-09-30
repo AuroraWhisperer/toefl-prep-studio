@@ -1,6 +1,7 @@
 """Sentence frames model public blanks, not the private solution order."""
 
 from collections import Counter
+import pytest
 from backend.question_store import QuestionStore
 from backend.exam_service import normalize_text, score_one
 
@@ -55,3 +56,50 @@ def test_sentence_bank_covers_official_frame_variants():
     assert any(len(q['word_bank']) == len(q['template_parts']) - 1 for q in questions)
     assert any(' ' in word for q in questions for word in q['word_bank'])
     assert any(max(Counter(q['word_bank']).values()) > 1 for q in questions)
+
+
+@pytest.mark.parametrize(
+    'question_id,answer',
+    [
+        ('W33', 'The experiment failed but the results raised an interesting question.'),
+        ('W33', 'The results raised an interesting question but the experiment failed.'),
+        ('W37', 'On Monday, were the tutor and the students both available?'),
+        ('W43', 'When you reached the station, had the last train already left?'),
+        ('W47', 'The equipment is too heavy for one person safely to carry.'),
+        ('W47', 'For one person, the equipment is too heavy to carry safely.'),
+        ('W47', 'For one person, the equipment is too heavy to safely carry.'),
+        ('W59', 'Is the road through town shorter than the footpath?'),
+        ('W59', 'Is the footpath through town shorter than the road?'),
+        ('W59', 'Is the road shorter than the footpath through town?'),
+        ('W60', 'Before all the samples have arrived, can we begin the analysis?'),
+        ('W61', 'She suggested that before choosing a venue we discuss the budget.'),
+        ('W64', 'If the report included a diagram, it would be clearer.'),
+        ('W64', 'It would be clearer if the report included a diagram.'),
+        ('W68', 'At the meeting, which of the ideas discussed came from first-year students?'),
+        ('W68', 'Which of the ideas discussed came from first-year students at the meeting?'),
+        (
+            'W70',
+            'We again tested the uncertain measurement rather than repeat the whole experiment.',
+        ),
+    ],
+)
+def test_reviewed_contextual_variants_are_accepted(question_id, answer):
+    store = QuestionStore()
+    question = store.question(question_id)
+    assert can_assemble(question, answer)
+    assert score_one(question, store.answer(question_id), answer)[:2] == (1, 1)
+
+
+@pytest.mark.parametrize(
+    'question_id,answer',
+    [
+        ('W33', 'Although the experiment failed but the results raised an interesting question.'),
+        ('W43', 'When you reached the station did the last train already left?'),
+        ('W59', 'Does the footpath shorter than the road through town?'),
+        ('W61', 'She suggested that we to discuss the budget before choosing a venue.'),
+        ('W64', 'If the report would be clearer it included a diagram.'),
+    ],
+)
+def test_adding_variants_does_not_accept_broken_clause_structure(question_id, answer):
+    store = QuestionStore()
+    assert not score_one(store.question(question_id), store.answer(question_id), answer)[3]

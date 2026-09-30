@@ -9,7 +9,7 @@ from pydantic import BaseModel, Field, field_validator
 
 
 SectionName = Literal["all", "reading", "listening", "speaking", "writing"]
-QuestionId = Annotated[str, Field(pattern=r"^[RLSW]\d{2,3}$")]
+QuestionId = Annotated[str, Field(pattern=r"^[RLSW]\d{2,4}$")]
 
 
 class ExamSubmissionItem(BaseModel):
@@ -37,12 +37,12 @@ class ExamSubmissionItem(BaseModel):
 
 class ExamSubmitRequest(BaseModel):
     submission_id: UUID | None = None
-    responses: list[ExamSubmissionItem] = Field(default_factory=list, max_length=2115)
+    responses: list[ExamSubmissionItem] = Field(default_factory=list, max_length=3615)
     section: SectionName = "all"
     mode: Literal["exam", "bank", "practice"] = "exam"
     task_type: str | None = Field(default=None, max_length=40)
     count: int | None = Field(default=None, ge=1, le=20)
-    question_ids: list[QuestionId] | None = Field(default=None, max_length=2115)
+    question_ids: list[QuestionId] | None = Field(default=None, max_length=3615)
 
 
 class TTSRequest(BaseModel):

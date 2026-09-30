@@ -37,6 +37,7 @@
         answered: result.answered_questions,
         total: result.total_questions,
       };
+      const manualCount = result.feedback.filter((item) => item.manual_review).length;
       root.querySelector('#result-home span').textContent = snapshot.historyReview
         ? '返回记录'
         : '返回科目';
@@ -53,8 +54,16 @@
       dom.resultTitle.textContent = `${result.adaptive ? result.adaptive.profile.title : sectionLabels[snapshot.section] || '四科综合'} ${snapshot.historyReview ? '历史复盘' : result.adaptive ? '测验结果' : '练习结果'}`;
       const cells = [
         {
-          label: result.adaptive ? '客观题正确数' : '得分',
-          value: `${sectionScore.earned} / ${sectionScore.possible}（${sectionScore.percentage}%）`,
+          label: !sectionScore.possible
+            ? '复核状态'
+            : result.adaptive
+              ? '客观题正确数'
+              : manualCount
+                ? '自动核对部分'
+                : '得分',
+          value: sectionScore.possible
+            ? `${sectionScore.earned} / ${sectionScore.possible}（${sectionScore.percentage}%）`
+            : '待人工复核',
         },
         { label: '已答', value: `${sectionScore.answered} / ${sectionScore.total}` },
         {
@@ -69,16 +78,18 @@
         )
         .join('');
       root.querySelector('.test-review-note')?.remove();
-      if (result.adaptive) {
+      if (result.adaptive || manualCount) {
         const note = document.createElement('p');
         note.className = 'test-review-note';
-        const routes = result.adaptive.routes
+        const routes = (result.adaptive?.routes || [])
           .map(
             (r) =>
               `${r.section === 'reading' ? '阅读' : '听力'}：模块 1 正确 ${r.correct}/${r.total}，${r.from_level} → ${r.to_level} 档`,
           )
           .join('；');
-        note.textContent = `起始 ${result.adaptive.starting_level} / 10 · ${routes}\n${result.note}`;
+        note.textContent = result.adaptive
+          ? `起始 ${result.adaptive.starting_level} / 10 · ${routes}\n${result.note}`
+          : `${manualCount} 题待人工复核。${result.note}`;
         dom.resultSummary.after(note);
       }
       renderReview();
@@ -119,6 +130,9 @@
       } else {
         answers = feedback
           .map((item, index) => {
+            const isExample = ['write_email', 'academic_discussion', 'take_interview'].includes(
+              item.task_type,
+            );
             const referenceLabel = ['write_email', 'academic_discussion'].includes(item.task_type)
               ? '参考范文'
               : item.task_type === 'take_interview'
@@ -129,7 +143,7 @@
             const explanations = [
               ...new Set([item.feedback, explanation].map((text) => (text || '').trim())),
             ].filter(Boolean);
-            return `<section class="review-answer"><div class="review-answer-head"><h4>第 ${index + 1} 题</h4><span class="${item.manual_review ? '' : item.correct ? 'answer-correct' : 'answer-incorrect'}">${item.manual_review ? '待人工复核' : `${item.earned} / ${item.possible} 分`}${item.answered ? '' : ' · 未作答'}</span></div><p class="review-label">我的答案</p><p class="submitted-answer">${escapeHtml(displaySubmittedAnswer(item)) || '未作答'}</p>${recording ? `<audio controls src="${escapeHtml(recording)}" aria-label="回放第 ${index + 1} 题录音"></audio>` : ''}<p class="review-label">${referenceLabel}</p><p class="reference-answer" lang="en">${escapeHtml(item.reference_answer)}</p><details class="review-explanations"><summary>解析 · ${formatTime(item.duration_seconds)}</summary>${explanations.map((text) => `<p>${escapeHtml(text)}</p>`).join('')}</details></section>`;
+            return `<section class="review-answer"><div class="review-answer-head"><h4>第 ${index + 1} 题</h4><span class="${item.manual_review ? '' : item.correct ? 'answer-correct' : 'answer-incorrect'}">${item.manual_review ? '待人工复核' : `${item.earned} / ${item.possible} 分`}${item.answered ? '' : ' · 未作答'}</span></div><p class="review-label">我的答案</p><p class="submitted-answer">${escapeHtml(displaySubmittedAnswer(item)) || '未作答'}</p>${recording ? `<audio controls src="${escapeHtml(recording)}" aria-label="回放第 ${index + 1} 题录音"></audio>` : ''}<p class="review-label">${referenceLabel}</p><p class="reference-answer${isExample ? ' is-example' : ''}" lang="en">${escapeHtml(item.reference_answer)}</p><details class="review-explanations"><summary>解析 · ${formatTime(item.duration_seconds)}</summary>${explanations.map((text) => `<p>${escapeHtml(text)}</p>`).join('')}</details></section>`;
           })
           .join('');
       }
@@ -158,10 +172,13 @@
       markup += group
         .map((q, index) => {
           const item = feedback[index];
+          const promptTag = ['write_email', 'academic_discussion'].includes(q.task_type)
+            ? 'p'
+            : 'h4';
           const frame = q.template_parts
             ? `<div class="sentence-line">${q.template_parts.map((part, i) => escapeHtml(part) + (i < q.template_parts.length - 1 ? `<span class="review-sentence-slot" aria-label="空格 ${i + 1}">&nbsp;</span>` : '')).join('')}</div>`
             : '';
-          return `<section class="review-original" lang="en">${q.audio_text && !sharedAudio ? audioMarkup(q).replace('<details class="script-details">', '<details class="script-details" open>') : ''}<h4>${index + 1}. ${escapeHtml(q.prompt)}</h4>${frame}${q.word_bank ? `<div class="review-word-bank">${q.word_bank.map((word) => `<span>${escapeHtml(word)}</span>`).join('')}</div>` : ''}${q.options ? `<ol class="review-options">${q.options.map((option, optionIndex) => `<li class="${item.correct_index === optionIndex ? 'option-correct' : item.answer === optionIndex ? 'option-incorrect' : ''}"><span class="choice-letter">${String.fromCharCode(65 + optionIndex)}</span><div>${escapeHtml(option)}</div></li>`).join('')}</ol>` : ''}</section>`;
+          return `<section class="review-original" lang="en">${q.audio_text && !sharedAudio ? audioMarkup(q).replace('<details class="script-details">', '<details class="script-details" open>') : ''}<${promptTag} class="review-prompt">${index + 1}. ${escapeHtml(q.prompt)}</${promptTag}>${frame}${q.word_bank ? `<div class="review-word-bank">${q.word_bank.map((word) => `<span>${escapeHtml(word)}</span>`).join('')}</div>` : ''}${q.options ? `<ol class="review-options">${q.options.map((option, optionIndex) => `<li class="${item.correct_index === optionIndex ? 'option-correct' : item.answer === optionIndex ? 'option-incorrect' : ''}"><span class="choice-letter">${String.fromCharCode(65 + optionIndex)}</span><div>${escapeHtml(option)}</div></li>`).join('')}</ol>` : ''}</section>`;
         })
         .join('');
       return markup;

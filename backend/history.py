@@ -100,7 +100,7 @@ def save_submission(payload, result):
             existing = read_record(record_id)
             if existing['fingerprint'] != fingerprint:
                 raise HTTPException(409, '该次提交已归档，请开始新一轮练习')
-            return
+            return existing['result']
         write_record(
             {
                 'id': str(record_id),
@@ -117,6 +117,7 @@ def save_submission(payload, result):
                 'recordings': {},
             }
         )
+        return result
 
 
 def submitted_material_counts() -> Counter[str]:
@@ -234,6 +235,8 @@ def summary(record, category):
         if category == 'test'
         else '整科练习'
     )
+    manual_count = sum(bool(item.get('manual_review')) for item in result['feedback'])
+    possible = sum(item['possible'] for item in result['sections'].values())
     return {
         'id': record['id'],
         'category': category,
@@ -251,9 +254,14 @@ def summary(record, category):
         'total': result['total_questions'],
         'answered': result['answered_questions'],
         'earned': round(sum(item['earned'] for item in result['sections'].values()), 1),
-        'possible': sum(item['possible'] for item in result['sections'].values()),
+        'possible': possible,
+        'manual_review_count': manual_count,
         'score_label': '客观题参考正确数 · 非官方成绩'
         if 'adaptive' in result
+        else '开放题未计入分数'
+        if manual_count and not possible
+        else f'自动核对部分 · {manual_count} 题待人工复核'
+        if manual_count
         else '练习原始分 · 非官方成绩',
     }
 

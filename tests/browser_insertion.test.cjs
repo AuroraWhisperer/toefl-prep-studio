@@ -18,7 +18,18 @@ test('all revised insertion tasks preserve markers, choices and scored review', 
     // Force a real complete public material group; keys remain outside the payload.
     await route.fulfill({ response, json: { ...body, questions: material } });
   });
-  for (const id of ['R215', 'R225', 'R238', 'R243']) {
+  for (const id of [
+    'R215',
+    'R225',
+    'R238',
+    'R243',
+    'R1465',
+    'R1490',
+    'R1515',
+    'R1540',
+    'R1565',
+    'R1590',
+  ]) {
     const target = questions.find((question) => question.id === id);
     material = questions.filter((question) => question.group_id === target.group_id);
     await openSettings(page, 'reading', 'read_academic_passage', 1);

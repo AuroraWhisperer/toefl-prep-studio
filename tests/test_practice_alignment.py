@@ -133,12 +133,14 @@ def test_all_easy_daily_texts_and_email_are_rejected():
             assert result.status_code == 422
 
 
-def test_all_hard_complete_material_is_allowed():
-    hard = next(
-        g
-        for g in material_groups(store.questions_for('reading', 'bank', 'complete_words'))
-        if all(q['difficulty'] == 'hard' for q in g)
-    )
+def test_all_hard_complete_material_is_allowed(monkeypatch):
+    hard = material_groups(store.questions_for('reading', 'bank', 'complete_words'))[0]
+    # Exercise the selection contract with a complete material labelled hard.
+    questions = {
+        **store._load_questions(),
+        **{q['id']: {**q, 'difficulty': 'hard'} for q in hard},
+    }
+    monkeypatch.setattr(store, '_load_questions', lambda: questions)
     with TestClient(app) as client:
         result = client.post(
             '/api/v1/exam/submit',
@@ -161,7 +163,7 @@ def test_fixed_reading_form_has_two_complete_daily_life_pairs():
     bank_sizes = Counter(
         len(g) for g in material_groups(store.questions_for('reading', 'bank', 'read_daily_life'))
     )
-    assert bank_sizes == {2: 75, 3: 15}
+    assert bank_sizes == {2: 150, 3: 30}
 
 
 def test_repeated_blocks_remain_complete_and_not_all_easy():

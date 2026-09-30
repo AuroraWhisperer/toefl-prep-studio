@@ -49,6 +49,8 @@ def apply_review(questions: list[dict], answers: dict, notes: dict) -> None:
 def source_file(question: dict) -> str:
     number = int(question['id'][1:])
     section = question['section']
+    if section in {'reading', 'listening'} and number > {'reading': 795, 'listening': 705}[section]:
+        return f'expansion_2026_09_30/{question["task_type"]}.json'
     if number > {'reading': 265, 'listening': 235, 'writing': 150, 'speaking': 55}[section]:
         return f'expansion_2026_09/{question["task_type"]}.json'
     if section == 'reading' and number > 250:
@@ -149,6 +151,12 @@ def write_catalogue(root: Path, bank_items: dict, notes: dict, manifest: dict) -
             '',
             '## 内容修订记录',
             '',
+            '- 2026-09-30 后续逐篇复核全部 450 道写作的题面、答案或范文及解析，并完成口语文本与阅读听力遗漏复查；修订 36 题，补收 17 个造句变体及 recognise 拼写，纠正范文与中文解析。邮件、讨论和访谈改为待人工复核，取消关键词数值分。详见 [productive-repair-2026-09-30.md](productive-repair-2026-09-30.md)。',
+            '',
+            '- 2026-09-30 逐题复核全部 3,000 道原创阅读、听力题：修正科学因果、填词可接受变体、干扰项和教学解析，替换六组学术阅读及三组学术听力共 42 题以补充主题，按实际作答要求分级，不强制各档占比。保留题号、完整组及个人历史；只更新已审阅的变更指纹。详见 [receptive-repair-2026-09-30.md](receptive-repair-2026-09-30.md)。',
+            '',
+            '- 2026-09-30 阅读和听力的 7 个题型逐型翻倍，新增 1,500 题；扩充阶段保留旧内容和指纹，随后进行上述逐题修订。扩充当时的源稿、数量与验证见 [receptive-expansion-2026-09-30.md](receptive-expansion-2026-09-30.md)。',
+            '',
             '- 三倍扩充新增 1,410 道原创练习及逐题教学解析，12 个题型各达到原数量的三倍；原有 705 题和独立 ETS 模考保持不变。范围与验证结果见 [expansion-2026-09-27.md](expansion-2026-09-27.md)。',
             '',
             '- 2026-09-27 的真实性复核与修订见 [quality-revision-2026-09-27.md](quality-revision-2026-09-27.md)；后续出题遵循 [generation-guidelines.md](generation-guidelines.md)。以下保留此前已完成的结构修订记录。',
@@ -164,7 +172,7 @@ def write_catalogue(root: Path, bank_items: dict, notes: dict, manifest: dict) -
             '',
             '## 覆盖与边界',
             '',
-            f"本轮按材料、题干、选项、答案及解释进行内容审阅，并校验全部 {manifest['total_questions']} 条结构与指纹。写作参考范文用于示例表达，非官方满分范文；机器检查长度、完整性与主题词覆盖，不等同于语言专家评阅。",
+            f"此前逐题复核 3,000 道阅读、听力；后续遗漏复查与产出题审阅覆盖全部 450 道写作和 165 道口语文本，实际分轮范围见对应报告。校验全部 {manifest['total_questions']} 条结构与指纹。写作参考范文用于示例表达，非官方满分范文；开放写作和访谈仅提供字数与重复措辞提示，质量需人工复核，机器检查不代替语言内容审阅。",
             '',
             '选择题的答案证据、填词完整词和分级理由仅在维护资料中保留；答题 API 仅公开难度与考点。词汇清单是审阅证据，未冒充官方词频或 CEFR 逐词标定。',
             '',

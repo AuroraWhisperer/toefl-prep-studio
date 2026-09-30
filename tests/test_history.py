@@ -70,6 +70,34 @@ def test_updated_learning_notes_do_not_rewrite_archived_answers_or_scores(monkey
     assert path.read_bytes() == original
 
 
+def test_manual_review_results_and_legacy_subjective_scores_remain_distinct():
+    payload, result = submit('writing', mode='bank', task_type='write_email')
+    record_id = payload['submission_id']
+    row = client.get('/api/v1/history').json()['items'][0]
+    assert row['possible'] == 0 and row['manual_review_count'] == 150
+    assert row['total'] == 150
+    assert all(item['correct'] is None for item in result['feedback'])
+
+    # Simulate a pre-change stored result; reading it must not silently regrade it.
+    record = history.read_record(record_id)
+    record['result']['sections']['writing'].update(earned=3.0, possible=750.0, percentage=0.4)
+    for item in record['result']['feedback']:
+        item.pop('manual_review')
+        item.update(earned=0.0, possible=5.0, correct=False)
+    record['result']['feedback'][0].update(earned=3.0, feedback='原始关键词检查反馈')
+    history.write_record(record)
+    path = history.HISTORY_DIR / f'{record_id}.json'
+    original = path.read_bytes()
+    row = client.get('/api/v1/history').json()['items'][0]
+    assert (row['earned'], row['possible'], row['manual_review_count']) == (3, 750, 0)
+    restored = client.get(f'/api/v1/history/practice/{record_id}').json()
+    assert restored['result'] == record['result']
+    retried = client.post('/api/v1/exam/submit', json=payload)
+    assert retried.status_code == 200
+    assert retried.json() == record['result']
+    assert path.read_bytes() == original
+
+
 @pytest.mark.parametrize('change', ['question', 'answer'])
 def test_history_keeps_original_explanation_if_question_or_key_changed(monkeypatch, change):
     payload, result = submit('listening')

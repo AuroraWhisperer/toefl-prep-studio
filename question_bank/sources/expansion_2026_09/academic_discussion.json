@@ -1624,7 +1624,7 @@
         "min_words": 100,
         "max_score": 5,
         "reference": "A clearly explained discounted section would be the better starting point because it makes both the price and the reason for the discount visible. Student A is right that presentation can imply poor quality, so the sign should describe shape differences rather than use language suggesting failure. A photograph of sliced vegetables in a finished dish could show why appearance matters little for many uses. For example, an irregular carrot can still be convenient for soup when the store has already confirmed that it meets its normal checks. Student B's savings argument then becomes concrete rather than hidden. Staff should monitor whether the display actually sells through; a neglected corner would reinforce the very stigma it is meant to challenge, regardless of how carefully the sign is written.",
-        "explanation": "读懂：unusual shapes 指外形不规则，题干已限定通过同等质量检查。\n解析：范文独立折扣区突出价格，用切入汤里的胡萝卜说明外形未必影响用途；但冷落角落会强化次品印象。不能把外观不同直接当质量差。\n下次：先分清折扣缘由与质量条件，再用具体用途解释价值，检查摆放是否与宣传相矛盾。"
+        "explanation": "读懂：unusual shapes 指外形不规则，题干已限定通过同等质量检查。\n解析：范文独立折扣区突出价格，以外形不规则的胡萝卜仍可煮汤为例，说明外形未必影响用途；但冷落角落会强化次品印象。不能把外观不同直接当质量差。\n下次：先分清折扣缘由与质量条件，再用具体用途解释价值，检查摆放是否与宣传相矛盾。"
       },
       "review": {
         "difficulty": "easy",
@@ -1638,7 +1638,7 @@
         ],
         "rationale": "已给同等质检前提，用日常烹调用途解释展示选择。",
         "answer_evidence": "汤中胡萝卜示例连接形状与用途，折扣原因清楚且避免冷落摆位。 本地参考示例，非官方满分答案；其他有充分论证的立场也可接受。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1702,7 +1702,7 @@
         "min_words": 100,
         "max_score": 5,
         "reference": "One clearly announced daily reduction would be preferable, even if it is less precise for the store. Student A sees a useful stock management tool, but shoppers also need to plan. Someone buying food during a fixed lunch break should not have to wonder whether waiting another hour would make the same basket much cheaper. A predictable reduction time lets customers decide whether the offer fits their schedule without repeatedly checking. The store could still vary the discount between products according to remaining stock, while keeping each displayed price stable for the stated period. Deadlines and relevant product information must remain clear; a low price should not obscure them. If surplus continues, the store should review ordering quantities rather than assume that increasingly frequent price changes are the only way to avoid unsold goods.",
-        "explanation": "读懂：predictable daily reduction 是可预期的每日降价，比较清库存效率与购物安排。\n解析：范文用固定午休购物者说明频繁改价的成本，允许不同商品折扣但时段内稳定。卖不完也可调整进货，不能只靠刺激顾客反复等价。\n下次：先看消费者何时能行动，再说明价格承诺持续多久，检查期限信息与上游订货是否被忽略。"
+        "explanation": "读懂：predictable daily reduction 是可预期的每日降价，比较清库存效率与购物安排。\n解析：范文用固定午休购物者说明频繁改价的成本，允许不同商品折扣但时段内稳定。卖不完也可调整进货，不能只靠让顾客反复等待更低价格。\n下次：先看消费者何时能行动，再说明价格承诺持续多久，检查期限信息与上游订货是否被忽略。"
       },
       "review": {
         "difficulty": "medium",
@@ -1716,7 +1716,7 @@
         ],
         "rationale": "需区分产品间差价与时间波动，并考虑库存源头。",
         "answer_evidence": "固定午休者说明等待成本，稳定时段、清楚期限和调整订货构成完整回应。 本地参考示例，非官方满分答案；其他有充分论证的立场也可接受。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1819,7 +1819,7 @@
         "min_words": 100,
         "max_score": 5,
         "reference": "The university should compare the cost of keeping each kitchen usable, not just the price printed on the appliance. Student B's repair argument is persuasive only if staff can actually obtain and install the parts. For example, a replaceable kettle switch offers little value if delivery takes months and the kitchen has no spare kettle. The purchasing team should ask about part prices, delivery times, and which repairs require qualified staff. Student A's immediate budget concern also matters, so the university might select repairable models for frequently used equipment while making simpler choices elsewhere. I would favor the second supplier where those practical checks support its promise. Paying more for a repair label alone would be no wiser than choosing the cheapest product without considering how it will be maintained.",
-        "explanation": "读懂：replacement parts 是替换零件，承诺可修不等于及时恢复使用。\n解析：范文用水壶开关等数月说明零件供应和备用机的重要性，按使用强度选择；不建议学生自行维修。只比购买价或只看可修标签都不够。\n下次：先算保持设备可用需哪些环节，再问零件、到货和合格维修人手，检查额外购价是否买到真实能力。"
+        "explanation": "读懂：replacement parts 是替换零件，承诺可修不等于及时恢复使用。\n解析：范文用更换水壶开关却要等数月到货的例子说明零件供应和备用机的重要性，按使用强度选择；不建议学生自行维修。只比购买价或只看可修标签都不够。\n下次：先算保持设备可用需哪些环节，再问零件、到货和合格维修人手，检查多付的购置费是否换来实际维修条件。"
       },
       "review": {
         "difficulty": "medium",
@@ -1833,7 +1833,7 @@
         ],
         "rationale": "需把维修承诺拆成实际供应与人员条件，而非单比标价。",
         "answer_evidence": "水壶开关等待期说明停用成本，询问零件价格和合格维修者验证承诺。 本地参考示例，非官方满分答案；其他有充分论证的立场也可接受。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -1975,7 +1975,7 @@
         "min_words": 100,
         "max_score": 5,
         "reference": "Editors should judge the quality of the question and method before deciding whether a result is interesting. Student B correctly notes that finding no effect can be difficult to interpret, but a positive finding can also come from a weak study. Suppose students compare two study routines and observe no clear difference in their small class. A useful article would explain the limited sample and avoid claiming that the routines are universally equivalent. That account could help another group design a larger comparison, supporting Student A's point about cumulative learning. Equal consideration would not require publishing every unsuccessful project. It would mean using the same standards of careful description and appropriately limited conclusions, rather than treating a dramatic result as proof that the underlying research deserves more attention.",
-        "explanation": "读懂：no effect 指未观察到效应，不等于证明永远没有差别。\n解析：范文用小班比较学习方法说明结果须限定样本，后续可扩大研究；阳性结果也可能方法弱。公平考虑不是所有失败项目都必发。\n下次：先看问题与方法，再写结果能支持的范围，检查有没有把未发现偷换成不存在。"
+        "explanation": "读懂：no effect 指未观察到效应，不等于证明永远没有差别。\n解析：范文用小班比较学习方法说明结果须限定样本，后续可扩大研究；观察到预期效果的结果也可能来自薄弱的方法。公平考虑不是所有失败项目都必发。\n下次：先看问题与方法，再写结果能支持的范围，检查有没有把未发现偷换成不存在。"
       },
       "review": {
         "difficulty": "hard",
@@ -1989,7 +1989,7 @@
         ],
         "rationale": "需理解未发现差异与证明等效不同，且避免按结果吸引力筛研究。",
         "answer_evidence": "小班比较只能报告有限样本无明显差异，为扩大研究提供依据而非普遍结论。 本地参考示例，非官方满分答案；其他有充分论证的立场也可接受。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2092,7 +2092,7 @@
         "min_words": 100,
         "max_score": 5,
         "reference": "Beginners should collect a small dataset themselves before examining a larger existing one. Student A rightly wants enough information for analysis, but Student B identifies a foundation that cannot be supplied by a clean spreadsheet alone. Students counting bicycles at one entrance might discover that their choice of time changes the apparent level of use. That experience gives them a concrete reason to ask how the larger dataset was collected. The initial exercise need not support an ambitious conclusion; its purpose is to reveal measurement decisions. Most analysis time could still use the prepared material. This sequence would take some time away from advanced calculations, but it would help students avoid treating a large collection of numbers as automatically representative simply because it looks organized and complete.",
-        "explanation": "读懂：existing dataset 是已有数据集，干净表格不意味着采集过程没有选择。\n解析：范文先数一次入口自行车，发现时段影响，再分析大数据；小样本用于认识测量，不用于雄心勃勃的结论。只比数据多少会漏掉来源理解。\n下次：先亲自作一个采集决定，再把疑问带到现成数据，检查样本覆盖谁、何时、何地。"
+        "explanation": "读懂：existing dataset 是已有数据集，干净表格不意味着采集过程没有选择。\n解析：范文先在一个入口统计自行车数量，发现时段影响，再分析规模更大的现成数据；小样本用于认识测量，不用于雄心勃勃的结论。只比数据多少会漏掉来源理解。\n下次：先亲自作一个采集决定，再把疑问带到现成数据，检查样本覆盖谁、何时、何地。"
       },
       "review": {
         "difficulty": "medium",
@@ -2106,7 +2106,7 @@
         ],
         "rationale": "需说明小采集与大分析的不同教学职责，而非把二者重复。",
         "answer_evidence": "自行车计数的时段影响帮助追问大数据采集，限制小练习的推论用途。 本地参考示例，非官方满分答案；其他有充分论证的立场也可接受。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2169,8 +2169,8 @@
         ],
         "min_words": 100,
         "max_score": 5,
-        "reference": "An engaging opening can pose a concrete question without promising a result that the study has not established. I agree with Student B that essential limits belong near the main finding. Imagine a study showing that students who use a particular library space also report better concentration. An article could explore why that space attracts focused students, rather than claim that entering the room improves concentration. This distinction leaves room for an interesting story while showing that an association does not identify its cause. Student A is right that readers need a clear message, so not every technical detail belongs in the opening. Editors should prioritize the limitation most likely to change the reader's interpretation, then use an accessible example to explain it instead of adding a long list of defensive qualifications.",
-        "explanation": "读懂：association 是关联，不代表已确定因果。\n解析：范文以特定阅览室使用者更专注为假设例子，不能写成进房间就提高专注；开头放最影响理解的限制，而非堆技术细节。\n下次：先写读者最可能得出的结论，再核对研究真能支持什么，检查标题与首段是否偷偷加强了主张。"
+        "reference": "An engaging opening can pose a concrete question without promising a result that the study has not established. I agree with Student B that essential limits belong near the main finding. Imagine a study showing that students who use a particular library space also report better concentration. An article could ask whether students who already concentrate well are more likely to choose that space or whether features of the room help them focus, rather than claim that entering the room improves concentration. This distinction leaves room for an interesting story while showing that an association does not identify its cause. Student A is right that readers need a clear message, so not every technical detail belongs in the opening. Editors should prioritize the limitation most likely to change the reader's interpretation, then use an accessible example to explain it instead of adding a long list of defensive qualifications.",
+        "explanation": "读懂：association 是关联，不代表已确定因果。\n解析：范文假设某阅览室的使用者自报更专注，但更专注者主动选择该房间和房间帮助专注这两种解释都还需调查，不能直接写成进房间就提高专注；开头放最影响理解的限制，而非堆技术细节。\n下次：先写读者最可能得出的结论，再核对研究真能支持什么，检查标题与首段是否偷偷加强了主张。"
       },
       "review": {
         "difficulty": "hard",
@@ -2184,7 +2184,7 @@
         ],
         "rationale": "需要以通俗例子解释研究推论边界与新闻结构。",
         "answer_evidence": "阅览室与自报专注的关联不证明因果，关键限制靠近主发现。 本地参考示例，非官方满分答案；其他有充分论证的立场也可接受。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -2483,7 +2483,7 @@
         "min_words": 100,
         "max_score": 5,
         "reference": "A visitor trying to download a bus map should not need to create a lasting relationship with a sponsor. I would offer basic access without an account and make service notifications optional. Student A wants usage information, but that goal does not by itself justify collecting contact details from every person. The plaza could count connections in a way that avoids publishing individual activity and ask willing users for feedback. Student B's concern about access is especially relevant when someone cannot open an email verification message until already connected. The sponsor should explain what information the service needs and how it is handled. Direct access does not mean making promises about complete privacy or security that the plaza cannot support; it means keeping registration separate from the basic public function.",
-        "explanation": "读懂：registration 是注册，测使用量不自然等于必须收邮箱。\n解析：范文用下载公交地图的访客说明短时需求，并指出验证邮件可能反而先要联网；基础接入与自愿通知分开。不承诺无账号就绝对安全或匿名。\n下次：先问完成基本服务真需哪些信息，再拆开必需和自愿环节，检查流程是否形成进入前的循环门槛。"
+        "explanation": "读懂：registration 是注册，统计使用量不等于必须收集邮箱。\n解析：范文用下载公交地图的访客说明短时需求，并指出验证邮件可能反而先要联网；基础接入与自愿通知分开。不承诺无账号就绝对安全或匿名。\n下次：先问完成基本服务真需哪些信息，再拆开必需和自愿环节，检查流程是否形成进入前的循环门槛。"
       },
       "review": {
         "difficulty": "medium",
@@ -2497,7 +2497,7 @@
         ],
         "rationale": "需区分服务衡量与个人资料收集，避免绝对安全承诺。",
         "answer_evidence": "访客下载地图及联网前验证邮件的障碍支持免账号基础接入。 本地参考示例，非官方满分答案；其他有充分论证的立场也可接受。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3107,7 +3107,7 @@
         "min_words": 100,
         "max_score": 5,
         "reference": "Most of the session should allow child directed play, with staff providing a clear starting invitation and intervening when access becomes unequal. Student B values negotiation, but Student A is right that an empty instruction to play can leave some children outside the group. A box of approved building materials could come with a shared challenge, such as creating a place for imaginary animals. Children could then decide what to build and how to divide tasks. Staff would watch whether a confident child takes every important role and help others enter without designing the whole project. A brief organized game could still open or close the session. Purpose does not require constant adult control, but freedom should come with attentive support rather than the assumption that every child can negotiate participation alone.",
-        "explanation": "读懂：child directed play 是儿童主导游戏，不等于成人完全不支持。\n解析：范文用共同搭建想象动物住所开局，孩子决定做法，教师关注角色是否被垄断。只说自由培养能力，会忽略难以加入的孩子。\n下次：先给可加入的共同起点，再留出真实选择，检查成人帮助是否支持参与而非接管所有决定。"
+        "explanation": "读懂：child directed play 是儿童主导游戏，不等于成人完全不支持。\n解析：范文用共同搭建想象动物住所开局，孩子决定做法，工作人员关注角色是否被垄断。只说自由培养能力，会忽略难以加入的孩子。\n下次：先给可加入的共同起点，再留出真实选择，检查成人帮助是否支持参与而非接管所有决定。"
       },
       "review": {
         "difficulty": "medium",
@@ -3121,7 +3121,7 @@
         ],
         "rationale": "需解释自由活动如何获得起点和参与支持，不扩展为安全指导。",
         "answer_evidence": "想象动物住所的共同挑战兼顾开放选择，角色观察防止强势者垄断。 本地参考示例，非官方满分答案；其他有充分论证的立场也可接受。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3306,7 +3306,7 @@
         "min_words": 100,
         "max_score": 5,
         "reference": "I favor a public vote after a panel checks feasibility and presents comparable information about each eligible proposal. Student A's argument for resident choice is convincing, but Student B shows why popularity alone is an incomplete test. The panel should not rank projects according to its own tastes. Instead, it could require every proposal to explain who will maintain it and what that work involves. For example, a small reading shelter might need fewer weekly volunteer hours than a garden with many separate beds, even if their construction costs are similar. Voters could then weigh that difference alongside their preferences. The town should offer paper ballots and a public explanation of any rejected proposal. Otherwise, a supposedly open vote could exclude residents or conceal important decisions made before voting begins.",
-        "explanation": "读懂：published criteria 是公开的评选标准；争点是居民决定权与项目后续是否养得起。\n解析：范文让小组先查可行性、居民再投票，新增比较持续维护工时的理由；阅读棚与分床花园是假设比较，并非断言花园总更贵。公开剔除理由与纸票让投票前后的程序也可检查。\n下次：遇到投票与专家筛选→分清可行性审查和偏好选择→举隐藏后续成本→检查筛选理由与参与渠道是否公开。"
+        "explanation": "读懂：published criteria 是公开的评选标准；争点是居民决定权与项目后续是否养得起。\n解析：范文让小组先查可行性、居民再投票，新增比较持续维护工时的理由；阅读棚与分成多块种植区的花园是假设比较，并非断言花园总更贵。公开剔除理由与纸票让投票前后的程序也可检查。\n下次：遇到投票与专家筛选→分清可行性审查和偏好选择→举隐藏后续成本→检查筛选理由与参与渠道是否公开。"
       },
       "review": {
         "difficulty": "hard",
@@ -3320,8 +3320,8 @@
           "paper ballots"
         ],
         "rationale": "published criteria 是公开的评选标准；争点是居民决定权与项目后续是否养得起。 难度来自对不同要求的整合和具体论证，仅为本地内容分级。",
-        "answer_evidence": "范文让小组先查可行性、居民再投票，新增比较持续维护工时的理由；阅读棚与分床花园是假设比较，并非断言花园总更贵。公开剔除理由与纸票让投票前后的程序也可检查。 本地参考示例，非官方满分答案；其他有充分论证的立场也可接受。",
-        "reviewed_on": "2026-09-27"
+        "answer_evidence": "范文让小组先查可行性、居民再投票，新增比较持续维护工时的理由；阅读棚与分成多块种植区的花园是假设比较，并非断言花园总更贵。公开剔除理由与纸票让投票前后的程序也可检查。 本地参考示例，非官方满分答案；其他有充分论证的立场也可接受。",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3745,8 +3745,8 @@
         ],
         "min_words": 100,
         "max_score": 5,
-        "reference": "Most of the hour should go to one guided repair, followed by a short attempt without instructions. Student B explains the importance of physical practice, but independence also requires remembering the sequence after help is removed. For example, participants could first sew a button onto practice fabric with the instructor's guidance, then repeat the repair on a second piece while checking a simple diagram. The instructor could observe which step still causes difficulty. Student A is right that learners need to recognize other possibilities, so a closing display could show examples of repairs taught in future sessions. That overview should not replace successful practice today. Participants would leave knowing one manageable action they can repeat and understanding that a different kind of damage may require a technique they have not yet learned.",
-        "explanation": "读懂：independently 是独立完成；题目权衡看多种技法与亲手掌握一种修补。\n解析：范文新增撤去指导后再做一次的检验：先跟着缝纽扣，再借图示独立重复，才知道记住了哪步；末尾展示其他修补的用途，但不把看过当成已经会做。\n下次：入门教学在广度与熟练间取舍→选一个可完成动作→安排减少帮助后的重复→检查能否独立做及何时需要另学。"
+        "reference": "Most of the hour should go to one guided repair, followed by a short attempt without the instructor's step-by-step help. Student B explains the importance of physical practice, but independence also requires remembering the sequence after help is removed. For example, participants could first sew a button onto practice fabric with the instructor's guidance, then repeat the repair on a second piece while checking a simple diagram. The instructor could observe which step still causes difficulty. Student A is right that learners need to recognize other possibilities, so a closing display could show examples of repairs taught in future sessions. That overview should not replace successful practice today. Participants would leave knowing one manageable action they can repeat and understanding that a different kind of damage may require a technique they have not yet learned.",
+        "explanation": "读懂：independently 是独立完成；题目权衡看多种技法与亲手掌握一种修补。\n解析：范文新增撤去教师逐步指导后再做一次的检验：先跟着缝纽扣，再借图示独立重复，才知道记住了哪步；末尾展示其他修补的用途，但不把看过当成已经会做。\n下次：入门教学在广度与熟练间取舍→选一个可完成动作→安排减少帮助后的重复→检查能否独立做及何时需要另学。"
       },
       "review": {
         "difficulty": "easy",
@@ -3760,8 +3760,8 @@
           "diagram"
         ],
         "rationale": "independently 是独立完成；题目权衡看多种技法与亲手掌握一种修补。 难度来自对不同要求的整合和具体论证，仅为本地内容分级。",
-        "answer_evidence": "范文新增撤去指导后再做一次的检验：先跟着缝纽扣，再借图示独立重复，才知道记住了哪步；末尾展示其他修补的用途，但不把看过当成已经会做。 本地参考示例，非官方满分答案；其他有充分论证的立场也可接受。",
-        "reviewed_on": "2026-09-27"
+        "answer_evidence": "范文新增撤去教师逐步指导后再做一次的检验：先跟着缝纽扣，再借图示独立重复，才知道记住了哪步；末尾展示其他修补的用途，但不把看过当成已经会做。 本地参考示例，非官方满分答案；其他有充分论证的立场也可接受。",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3786,7 +3786,7 @@
         "min_words": 100,
         "max_score": 5,
         "reference": "I would test later hours on selected days while preserving a predictable pattern of short visits during the week. Student A shows that total opening hours are a poor measure of access, and Student B explains why concentrating them can exclude other shoppers. The decision should therefore use information about missed visits, not only current sales. For example, asking customers at noon whether they want evening access would omit the workers who cannot enter the store at noon. Members could report times when they wanted to shop but found it closed, alongside the amount they can comfortably carry. The cooperative could use that information to design a trial within the existing staffing budget. It should announce the schedule for the whole trial, since changing hours repeatedly would make planning difficult for both groups.",
-        "explanation": "读懂：opening hours 是营业时段；总小时相同仍要权衡下班后购物与多次少量采购。\n解析：范文新增收集“想来却进不来”的记录：只问中午店内顾客会漏掉上班者；连同携带量设计固定试行时表，并守住原人员预算，不能凭现有销量代表所有需求。\n下次：相同资源改时段→找现有使用数据漏掉谁→收集未满足需求→检查试行是否可预测且符合资源限制。"
+        "explanation": "读懂：opening hours 是营业时段；总小时相同仍要权衡下班后购物与多次少量采购。\n解析：范文新增收集“想来却进不来”的记录：只问中午店内顾客会漏掉上班者；连同携带量设计固定的试行时间表，并守住原人员预算，不能凭现有销量代表所有需求。\n下次：相同资源改时段→找现有使用数据漏掉谁→收集未满足需求→检查试行是否可预测且符合资源限制。"
       },
       "review": {
         "difficulty": "hard",
@@ -3800,8 +3800,8 @@
           "missed visits"
         ],
         "rationale": "opening hours 是营业时段；总小时相同仍要权衡下班后购物与多次少量采购。 难度来自对不同要求的整合和具体论证，仅为本地内容分级。",
-        "answer_evidence": "范文新增收集“想来却进不来”的记录：只问中午店内顾客会漏掉上班者；连同携带量设计固定试行时表，并守住原人员预算，不能凭现有销量代表所有需求。 本地参考示例，非官方满分答案；其他有充分论证的立场也可接受。",
-        "reviewed_on": "2026-09-27"
+        "answer_evidence": "范文新增收集“想来却进不来”的记录：只问中午店内顾客会漏掉上班者；连同携带量设计固定的试行时间表，并守住原人员预算，不能凭现有销量代表所有需求。 本地参考示例，非官方满分答案；其他有充分论证的立场也可接受。",
+        "reviewed_on": "2026-09-30"
       }
     },
     {
@@ -3826,7 +3826,7 @@
         "min_words": 100,
         "max_score": 5,
         "reference": "The school should first move some existing club meetings into the current lunch period and examine what still prevents participation. Student A identifies an access problem, but adding time to everyone's day may solve it by creating another barrier. For example, a short club session on a rotating lunch schedule could let a student participate and still catch the usual bus afterward. This would address Student B's concern without assuming that all activities fit into a shorter meeting. If several clubs genuinely require longer sessions, the school could consult students about a limited timetable trial rather than adopting a permanent change immediately. Feedback should include people who would skip the clubs as well as enthusiastic members. A schedule affects everyone, so the benefits for participants must be weighed against the commitments of those who gain little from the extension.",
-        "explanation": "读懂：fixed commitments 是时间固定的安排；题目权衡午间活动机会与推迟放学的影响。\n解析：范文新增先轮流安排短社团时段的办法，以参加后仍赶上原班车为假设例子；长活动未必适用，需有限试行并听取不参加者意见，不能只问受益成员就决定全校时表。\n下次：集体改时间以增加活动→追踪新增时间从谁那里取走→先试较小调整→检查未受益者的固定安排。"
+        "explanation": "读懂：fixed commitments 是时间固定的安排；题目权衡午间活动机会与推迟放学的影响。\n解析：范文新增先轮流安排短社团时段的办法，以参加后仍赶上原班车为假设例子；长活动未必适用，需有限试行并听取不参加者意见，不能只问受益成员就决定全校作息表。\n下次：集体改时间以增加活动→追踪新增时间从谁那里取走→先试较小调整→检查未受益者的固定安排。"
       },
       "review": {
         "difficulty": "medium",
@@ -3840,8 +3840,8 @@
           "timetable trial"
         ],
         "rationale": "fixed commitments 是时间固定的安排；题目权衡午间活动机会与推迟放学的影响。 难度来自对不同要求的整合和具体论证，仅为本地内容分级。",
-        "answer_evidence": "范文新增先轮流安排短社团时段的办法，以参加后仍赶上原班车为假设例子；长活动未必适用，需有限试行并听取不参加者意见，不能只问受益成员就决定全校时表。 本地参考示例，非官方满分答案；其他有充分论证的立场也可接受。",
-        "reviewed_on": "2026-09-27"
+        "answer_evidence": "范文新增先轮流安排短社团时段的办法，以参加后仍赶上原班车为假设例子；长活动未必适用，需有限试行并听取不参加者意见，不能只问受益成员就决定全校作息表。 本地参考示例，非官方满分答案；其他有充分论证的立场也可接受。",
+        "reviewed_on": "2026-09-30"
       }
     },
     {

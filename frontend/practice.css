@@ -671,8 +671,10 @@
 .script-details p {
   max-width: none;
   margin: 10px 0 0;
+  color: var(--ink);
+  font-size: 1rem;
   white-space: pre-line;
-  line-height: 1.65;
+  line-height: 1.75;
 }
 
 .recording-panel {
@@ -719,11 +721,17 @@
   background: var(--signal-red);
 }
 
-.recording-status,
-.word-count {
+.recording-status {
   color: var(--slate);
   font-family: var(--mono);
   font-size: 0.67rem;
+}
+
+.word-count {
+  color: var(--slate);
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  font-variant-numeric: tabular-nums;
 }
 
 .word-bank-panel {

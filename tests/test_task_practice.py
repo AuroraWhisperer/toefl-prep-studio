@@ -122,7 +122,7 @@ def test_incomplete_duplicate_or_foreign_selection_is_rejected(client):
         ids[:-1],
         ids[:-1] + [ids[0]],
         ids[:-1] + ['L01'],
-        ids[:-1] + ['R999'],
+        ids[:-1] + ['R9999'],
     ]:
         payload = {**params, 'question_ids': invalid, 'responses': []}
         assert client.post('/api/v1/exam/submit', json=payload).status_code == 422
@@ -157,7 +157,8 @@ def test_expanded_bank_quality_and_metadata():
         questions = store.questions_for(section, 'bank')
         for task, before in zip(tasks, baseline[section]):
             items = [q for q in questions if q['task_type'] == task]
-            assert len(items) == (before * 5 + (15 if task == 'read_daily_life' else 0)) * 3
+            factor = 6 if section in {'reading', 'listening'} else 3
+            assert len(items) == (before * 5 + (15 if task == 'read_daily_life' else 0)) * factor
             info = store.manifest()['sections'][section]['practice_tasks'][task]
             assert info['count_options'] == tasks[task][0]
             groups = {}

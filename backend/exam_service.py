@@ -87,50 +87,29 @@ def _score_repeat(key: dict, answer: Any) -> tuple[float, float, str, bool]:
     return points, 5.0, feedback, correct
 
 
-def _score_subjective(key: dict, answer: Any, section: str) -> tuple[float, float, str, bool]:
+def _score_subjective(key: dict, answer: Any, section: str) -> tuple[float, float, str, None]:
     text = str(answer or "").strip()
     words = _word_count(text)
-    lower = normalize_text(text)
-    tokens = lower.split()
-    if len(tokens) >= 12:
-        trigrams = list(zip(tokens, tokens[1:], tokens[2:]))
-        # A local anti-stuffing safeguard, not a semantic or official rubric score.
-        if len(set(trigrams)) <= len(trigrams) / 2:
-            return (
-                1.0,
-                5.0,
-                (
-                    '回答主要在重复堆砌（repeated wording）。不要反复写关键词，'
-                    '应补充具体原因和例子；这只是文字层面的练习检查。'
-                ),
-                False,
-            )
-    keywords = [normalize_text(item) for item in key.get("keywords", [])]
-    keyword_hits = sum(1 for keyword in keywords if keyword and keyword in lower)
     min_words = int(key.get("min_words", 20))
-    length_points = min(2.0, words / max(min_words, 1) * 2.0)
-    content_points = min(2.0, keyword_hits / max(len(keywords), 1) * 2.0)
-    sentence_count = len(re.findall(r"[.!?]", text))
-    organization_points = (
-        1.0 if sentence_count >= 2 and words >= min_words else 0.5 if words >= 8 else 0.0
-    )
-    points = round(min(5.0, length_points + content_points + organization_points), 1)
     if not text:
         feedback = "这题没有提交文字回答。可以先按下面的思路列出要点，再组织成句子。"
-    elif words < min_words:
-        feedback = f"当前有 {words} 词，本练习的展开目标为 {min_words} 词。优先补足题目要求、原因和例子，不要只为凑词数重复句子。"
-    elif keyword_hits < max(1, len(keywords) // 2):
-        feedback = "文字中与题目相关的关键词较少。先核对是否回答了具体要求，再补充理由；关键词少并不自动代表观点错误。"
-    elif sentence_count < 2:
-        feedback = "可以分成几个完整句子：先回答问题，再补充原因或例子，避免把所有意思挤在一起。"
-    elif section == "speaking":
-        feedback = "转写文字通过了本地字数和关键词检查，但仍需核对是否切题、理由是否充分；这里不评估发音和流利度。"
     else:
-        feedback = "文字通过了本地字数和关键词检查，但仍需核对任务要求、理由和语言表达；这不是官方托福评分。"
-    return points, 5.0, feedback, points >= 3.5
+        feedback = f"当前有 {words} 词。"
+        if words < min_words:
+            feedback += f"本练习的展开目标为 {min_words} 词；请优先补足题目要求、原因和例子。"
+    tokens = normalize_text(text).split()
+    if len(tokens) >= 12:
+        trigrams = list(zip(tokens, tokens[1:], tokens[2:]))
+        if len(set(trigrams)) <= len(trigrams) / 2:
+            feedback += "检测到较多重复词组，请核对是否只在重复同一个意思，并补充具体内容。"
+    feedback += "待人工复核：请对照题目要求检查内容、理由和表达；参考内容只是一种写法，不要求相同立场或措辞。"
+    if section == "speaking":
+        feedback += "这里只检查转写文字，不评估发音和流利度。"
+    # Open responses have no numeric weight: string matches cannot judge task fulfillment.
+    return 0.0, 0.0, feedback, None
 
 
-def score_one(question: dict, key: dict, answer: Any) -> tuple[float, float, str, bool]:
+def score_one(question: dict, key: dict, answer: Any) -> tuple[float, float, str, bool | None]:
     kind = key.get("type")
     if kind == "choice":
         return _score_choice(key, answer)
@@ -181,6 +160,7 @@ def score_submission(
         section: {"earned": 0.0, "possible": 0.0, "answered": 0, "total": 0} for section in SECTIONS
     }
     feedback: list[dict] = []
+    manual_sections: set[str] = set()
 
     for item in responses:
         question_id = item.get("question_id")
@@ -205,6 +185,9 @@ def score_submission(
         answer = submitted.get(question_id)
         answered = answer is not None and (not isinstance(answer, str) or bool(answer.strip()))
         earned, possible, message, correct = score_one(question, key, answer)
+        manual = key.get("type") == "subjective"
+        if manual:
+            manual_sections.add(question["section"])
         totals = section_totals[question["section"]]
         totals["earned"] += earned
         totals["possible"] += possible
@@ -219,7 +202,8 @@ def score_submission(
                 "earned": earned,
                 "possible": possible,
                 "correct": correct,
-                "feedback": message if answered else "未作答，本题计 0 分。",
+                "manual_review": manual,
+                "feedback": message if answered or manual else "未作答，本题计 0 分。",
                 "answered": answered,
                 "answer": answer,
                 "reference_answer": reference,
@@ -238,8 +222,8 @@ def score_submission(
     for section, totals in section_totals.items():
         if totals["possible"] == 0:
             sections[section] = {
-                "answered": 0,
-                "total": 0,
+                "answered": totals["answered"],
+                "total": totals["total"],
                 "earned": 0,
                 "possible": 0,
                 "percentage": None,
@@ -248,10 +232,11 @@ def score_submission(
             }
             continue
         percentage = totals["earned"] / totals["possible"]
-        legacy_score = round(percentage * 30, 1)
-        band = _half_band(1 + percentage * 5)
-        completed_legacy.append(legacy_score)
-        completed_bands.append(band)
+        legacy_score = round(percentage * 30, 1) if section not in manual_sections else None
+        band = _half_band(1 + percentage * 5) if section not in manual_sections else None
+        if band is not None:
+            completed_legacy.append(legacy_score)
+            completed_bands.append(band)
         sections[section] = {
             "answered": totals["answered"],
             "total": totals["total"],
@@ -265,11 +250,11 @@ def score_submission(
     return {
         "sections": sections,
         "overall_band6": _half_band(sum(completed_bands) / len(completed_bands))
-        if completed_bands
+        if completed_bands and not manual_sections
         else None,
         "legacy_total": round(sum(completed_legacy), 1) if len(completed_legacy) == 4 else None,
         "feedback": feedback,
         "answered_questions": sum(item["answered"] for item in feedback),
         "total_questions": len(questions),
-        "note": "本轮练习结果，漏答计零。开放写作与访谈使用文字启发式反馈，复述按转写文字比对；不评价发音，也不等同于官方 TOEFL 成绩。",
+        "note": "仅汇总可自动核对题目的练习分，漏答计零。邮件、讨论与访谈待人工复核，不计入分数或正确率；复述仅比对转写文字，不评价发音。结果不等同于官方 TOEFL 成绩。",
     }
