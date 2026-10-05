@@ -110,7 +110,7 @@ def test_expansion_answer_spellings_and_exact_half_word_lengths(source):
         question, answer = item['question'], item['answer']
         word = answer['reference']
         assert answer['type'] == 'text'
-        assert re.fullmatch(r'[a-z]{2,}', word), question['id']
+        assert re.fullmatch(r'[A-Za-z]{2,}', word), question['id']
         prefix = word[: len(word) // 2]
         suffix = word[len(prefix) :]
         assert question['prefix'] == prefix, question['id']

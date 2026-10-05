@@ -700,7 +700,8 @@
     const target = event.target.closest('button');
     if (!target) return;
     if (target.dataset.paper) showIntro(target.dataset.paper);
-    else if (target.id === 'resume-mock') resume().catch((e) => error(e.message));
+    else if (target.id === 'resume-mock')
+      appViews.navigate(`/mocks/sessions/${localStorage.getItem(storageKey)}`);
     else if (target.id === 'retry-resources') loadResources();
   });
   view.addEventListener('input', (event) => {

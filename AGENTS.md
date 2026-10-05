@@ -32,6 +32,17 @@ Read the relevant document before editing. Update its owning document when behav
 - Before generating or revising questions, follow `docs/question-bank/generation-guidelines.md`; it defines content quality, official-source boundaries, and the review gate.
 - Preserve the owner's history, recordings, and running service. Use isolated `TOEFL_DATA_DIR` storage for manual tests that write data; clean up only resources created by your test.
 
+## Question Design Principles
+
+- Use natural campus, everyday, and general academic English relevant to TOEFL. Explain specialist concepts in the material; do not make obscure facts or rare vocabulary the main source of difficulty.
+- Keep vocabulary, grammar, collocations, and discourse relationships in every difficulty level. Harder cloze passages still need prepositions, connectors, reference and other grammatical targets. Each ten-blank passage in this bank has at least two actual grammatical targets, with a varied mix; this is a local coverage floor, not an ETS quota.
+- Judge the learner's actual task after visible prefixes, missing-letter lengths, repeated words, definitions, fixed tiles and other support. Word frequency is only one input. Do not inflate difficulty to fill a quota, remove useful clues to defend a label, or grade a prompt by its model answer's sophistication.
+- Expand complete, coherent original material groups. Vary the reasoning and communication required; renamed copies, repeated inference templates, implausible distractors and long nested sentences do not create useful progression. For speaking, consider meaningful chunks, syntax, response time and the demands of the prompt.
+- Check every key against the whole material. Accept reasonable alternatives that fit the exact fixed letters or tiles, including spelling variants; revise ambiguous items when the context cannot support fair grading. Open responses may take different justified positions.
+- Review material, task, answer, explanation and difficulty together before sealing new or changed items. Check sources and distinguish official requirements, sample observations, local design targets and uncalibrated content judgments. Record access limitations honestly.
+
+The [generation guide](docs/question-bank/generation-guidelines.md) owns detailed task rules and the review gate; the [question-bank guide](question_bank/README.md) owns source editing, regeneration and historical-record safeguards.
+
 ## Learning Explanation Standard
 Write for learners with limited English: use plain Chinese with only essential English cues, immediately explained in Chinese. Teach the reasoning, not just the answer.
 

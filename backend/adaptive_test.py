@@ -588,6 +588,7 @@ async def upload_recording(session_id: UUID, question_id: str, request: Request)
         raise HTTPException(415, '仅支持浏览器音频录音')
     with LOCK:
         session = read_session(session_id)
+        recover_completion(session)
         allowed = {
             q['id'] for p in session['phases'] for q in p['questions'] if q['section'] == 'speaking'
         }
@@ -602,6 +603,7 @@ async def upload_recording(session_id: UUID, question_id: str, request: Request)
         raise HTTPException(422, '没有收到录音')
     with LOCK:
         session = read_session(session_id)
+        recover_completion(session)
         record = history.read_record(session_id) if session['status'] == 'completed' else None
         if record and question_id in record['recordings']:
             return {'saved': True}

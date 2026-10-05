@@ -49,17 +49,17 @@ REPEAT_SETS = [
         "The ticket desk is beside the staircase.",
         "Please leave large bags in the lockers near the entrance.",
         "You may take photographs in most rooms, but please turn off the flash.",
-        "The gallery on the second floor contains objects from the earliest settlement in this region.",
+        "The upstairs gallery displays objects from this region's earliest settlement.",
         'If you want a guided tour, collect your free ticket at the information desk before noon.',
-        'Visitors attending the evening lecture may wait in the courtyard after the main exhibition closes.',
+        'Lecture guests may wait outside after the exhibition closes.',
     ]),
     ("The recreation center", [
         "The swimming pool opens at seven.",
         "Please show your card at the front desk.",
         "Changing rooms are available on both sides of the corridor.",
         'You can borrow a locker key by leaving your membership card here.',
-        "Before using the climbing wall for the first time, you must attend a short safety session.",
-        'Afternoon classes use the smaller room, so please train individually in the main hall.',
+        'Attend a safety session before using the climbing wall.',
+        'Afternoon classes meet upstairs, so please train in the main hall.',
         'Join the waiting list if your chosen class is full; we will contact you about cancellations.',
     ]),
     ("The community garden", [
@@ -67,8 +67,8 @@ REPEAT_SETS = [
         "The tools are stored in the small shed.",
         "Please wash the equipment before returning it to the shelves.",
         'New volunteers work alongside an experienced gardener while they learn the tasks.',
-        'Local schools use the beds near the gate, so leave those plants for their students.',
-        'We collect rain from the shed roof because water is limited during the summer.',
+        'Please leave these plants for the visiting school groups.',
+        'We collect rainwater because summer water supplies are limited.',
         'You need no gardening experience, but please tell the coordinator about tasks you cannot do safely.',
     ]),
     ("The careers office", [
@@ -76,8 +76,8 @@ REPEAT_SETS = [
         "You can book an appointment through our website.",
         "Please bring a copy of your résumé to the meeting.",
         'The adviser asks about your interests before suggesting suitable opportunities for you.',
-        'If you cannot attend in person, request an online appointment when you make your booking.',
-        'Our workshops prepare you for interviews, but employers make their own decisions about job offers.',
+        'Request an online appointment if you cannot attend in person.',
+        'Our workshops prepare you for interviews, but employers make the hiring decisions.',
         'Please cancel at least a day ahead so that another student can use your appointment time.',
     ]),
 ]
@@ -195,7 +195,7 @@ EMAILS = [
 
 DISCUSSIONS = [
     ('Students sometimes propose small research projects that fall outside their regular coursework. A university is considering a fund for these projects and must decide whether supporting beginners is a good use of a limited research budget. Should universities offer small grants for student-led research?', 'Small grants let students test original ideas. Trying a modest project would teach students how to turn a question into evidence. Even an unsuccessful attempt could reveal practical limits that are difficult to understand from reading about completed research.', 'Funding should go to established researchers. Experienced researchers are more likely to have the equipment and methods needed to produce useful results. Dividing a small budget among many beginners could leave serious ongoing projects without essential support.', ["research", "students", "funding"],
-     "I support small grants for student-led research, provided that students receive basic supervision. The first student is right that even modest funding can turn an idea into a practical investigation. For example, a group studying campus travel could use a small grant to print accessible surveys and count traffic at several locations. The educational value comes from planning the study, managing resources, and responding to imperfect evidence. Established researchers still need substantial support, but a limited student fund would not have to compete with major laboratory projects. Requiring a short public report would also make the results useful to the campus and encourage students to explain both findings and limitations."),
+     "I support small grants for student-led research, provided that students receive basic supervision. The first student is right that even modest funding can turn an idea into a practical investigation. For example, a group studying campus travel could use a small grant to print accessible surveys and count traffic at several locations. The educational value comes from planning the study, managing resources, and responding to imperfect evidence. Established researchers still need substantial support, so I would reserve only a small, clearly defined share of the existing budget for supervised student projects. Most funding would remain available for ongoing research. The university should review the learning gained before expanding the student share. Requiring a short public report would also make the results useful to the campus and encourage students to explain both findings and limitations."),
     ('A city is considering restricting cars on streets immediately beside schools. The proposal aims to change conditions when children arrive and leave, but the same streets are also used by residents, deliveries, and people traveling elsewhere. Should cities introduce car-free streets near schools?', 'They would make walking safer. Children would have fewer moving vehicles to negotiate at the school gate. Parents might also feel more comfortable letting older children walk, rather than adding another car to the congestion.', 'They could inconvenience nearby residents. A restriction could move traffic to neighboring streets rather than remove it. Residents who need to reach their homes or receive deliveries should not find ordinary journeys much harder because of where they live.', ["streets", "schools", "residents"],
      "Cities should trial car-free streets near schools during arrival and departure times. Safer walking conditions are a strong benefit, but the concern about residents deserves a practical response. A limited schedule would reduce disruption compared with closing a street all day. The city could provide clear access arrangements for residents with mobility needs and monitor whether traffic simply shifts to another unsafe location. For example, a school could begin with one term and collect observations from families and neighbors. If the trial reduces conflicts between vehicles and pedestrians without creating serious access problems, the policy could become permanent. Evaluation should guide expansion rather than assuming the same arrangement suits every street."),
     ('An instructor is deciding whether students may revise marked assignments for additional credit. Revision could make feedback more useful, but it would also change how students plan their first submissions and how often work must be assessed. Should students be allowed to revise assignments after feedback?', 'Revision encourages learning from mistakes. Comments become much more meaningful when a student has to apply them to the same piece of work. Otherwise, it is easy to look only at the grade and repeat the mistake next time.', "It could increase instructors' workload. Reading the same assignment twice takes time away from planning lessons and helping the class. Students who need many rounds of revision could consume much more attention than those who submit careful work initially.", ["revision", "feedback", "learning"],

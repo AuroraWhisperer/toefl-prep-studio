@@ -8,6 +8,7 @@ from backend.app import app
     'path',
     [
         '/',
+        '/guide',
         '/practice/reading',
         '/practice/writing/run/example',
         '/exam/listening/example',

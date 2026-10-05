@@ -58,11 +58,15 @@ EXPANSION_TASKS = {
 
 def expansion_records(section: str) -> list[dict]:
     records = []
-    directories = ['expansion_2026_09']
+    expansions = {'expansion_2026_09': EXPANSION_TASKS[section]}
     if section in {'reading', 'listening'}:
-        directories.append('expansion_2026_09_30')
-    for directory in directories:
-        for task in EXPANSION_TASKS[section]:
+        expansions['expansion_2026_09_30'] = EXPANSION_TASKS[section]
+    if section == 'reading':
+        expansions['expansion_2026_10_05'] = ('complete_words',)
+    elif section == 'speaking':
+        expansions['expansion_2026_10_05'] = EXPANSION_TASKS[section]
+    for directory, tasks in expansions.items():
+        for task in tasks:
             path = QUESTION_ROOT / 'sources' / directory / f'{task}.json'
             source = json.loads(path.read_text(encoding='utf-8'))
             if source['section'] != section or source['task_type'] != task:
@@ -605,7 +609,7 @@ def main() -> None:
         "speaking": build_speaking,
         "writing": build_writing,
     }
-    expected_bank_counts = {"reading": 1590, "listening": 1410, "speaking": 165, "writing": 450}
+    expected_bank_counts = {"reading": 3390, "listening": 1410, "speaking": 495, "writing": 450}
     exam_task_targets = {
         "reading": {"complete_words": 30, "read_daily_life": 10, "read_academic_passage": 10},
         "listening": {
@@ -646,8 +650,8 @@ def main() -> None:
         bank_answers[section] = answers
 
     manifest = {
-        "version": "2026-09-30-doubled-receptive-practice",
-        "verified_on": "2026-09-30",
+        "version": "2026-10-05-tripled-cloze-speaking-practice",
+        "verified_on": "2026-10-05",
         "title": "TOEFL iBT 2026 Practice Bank",
         "source": "Original practice items aligned with ETS task descriptions; not official ETS questions.",
         "total_questions": sum(counts.values()),

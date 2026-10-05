@@ -7,8 +7,8 @@ import sys
 import threading
 import webbrowser
 from pathlib import Path
+from urllib.parse import urlsplit
 from urllib.request import ProxyHandler, build_opener
-
 
 ROOT = Path(__file__).resolve().parents[1]
 URL = "http://127.0.0.1:38761/"
@@ -28,34 +28,37 @@ def workbench_is_ready() -> bool:
         return False
 
 
-def open_workbench() -> None:
+def open_workbench() -> bool:
     print(f"练习地址：{URL}", flush=True)
-    if not webbrowser.open(URL, new=2):
+    opened = webbrowser.open(URL, new=2)
+    if not opened:
         print("未能自动打开浏览器，请复制上面的地址到浏览器。", flush=True)
+    return opened
 
 
-def main() -> None:
-    if workbench_is_ready():
-        print("练习服务已经运行，正在打开页面。", flush=True)
-        open_workbench()
-        return
-
+def create_server(log_file: Path | None = None):
     import uvicorn
 
     sys.path.insert(0, str(ROOT))
     from backend.logging_config import server_log_config
 
-    server = uvicorn.Server(
+    return uvicorn.Server(
         uvicorn.Config(
-            "backend.app:app", host="127.0.0.1", port=38761, log_config=server_log_config()
+            "backend.app:app",
+            host="127.0.0.1",
+            port=urlsplit(URL).port,
+            log_config=server_log_config(log_file),
         )
     )
+
+
+def run_server(server, on_ready=open_workbench) -> None:
     stopped = threading.Event()
 
     def open_when_ready() -> None:
         while not stopped.wait(0.1):
             if server.started and workbench_is_ready():
-                open_workbench()
+                on_ready()
                 return
 
     browser_thread = threading.Thread(target=open_when_ready, daemon=True)
@@ -65,6 +68,14 @@ def main() -> None:
     finally:
         stopped.set()
         browser_thread.join(timeout=3)
+
+
+def main() -> None:
+    if workbench_is_ready():
+        print("练习服务已经运行，正在打开页面。", flush=True)
+        open_workbench()
+        return
+    run_server(create_server())
 
 
 if __name__ == "__main__":

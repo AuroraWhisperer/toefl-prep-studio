@@ -169,29 +169,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "You can watch the repair, but please leave enough space for the volunteer to work.",
+        "audio_text": "You may watch, but please give the volunteer enough room.",
         "max_seconds": 12,
         "group_id": "listen_repeat_6",
         "passage_title": "At the neighborhood repair cafe"
       },
       "answer": {
         "type": "repeat",
-        "reference": "You can watch the repair, but please leave enough space for the volunteer to work.",
-        "explanation": "读懂：leave enough space 是“留够空间”；可以观看，但别妨碍志愿者操作。\n解析：按“可以观看／但要留空间／供志愿者操作”记许可和限制；for the volunteer to work（供志愿者操作）说明留空间的用途，不能省掉执行者。\n下次：听到观看许可后的转折→单独记下空间要求及其用途→复述核对足够空间和志愿者操作两项都保留。"
+        "reference": "You may watch, but please give the volunteer enough room.",
+        "explanation": "读懂：可以观看，但请给志愿者留够空间。\n解析：按“可以看／但留够空间”记；may 表许可，but 接限制，give 后先说 volunteer（志愿者）再说 enough room（足够空间）。\n下次：听到许可后的限制→保留两块意思→检查 but 及 give 后人物和空间的次序。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "转折与不定式",
-          "长意群保持"
+          "许可与转折",
+          "双宾语结构"
         ],
         "vocabulary": [
-          "enough space",
-          "volunteer"
+          "may",
+          "enough room"
         ],
-        "rationale": "15词许可与操作空间限制相连，无额外嵌套。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：You can watch the repair, but please leave enough space for the volunteer to work. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "可以观看与需留空间形成两块；give 的人物和物品次序有要求，不靠延长句子。",
+        "answer_evidence": "You may watch, but please give the volunteer enough room.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -361,29 +361,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "If you make a mistake, pause briefly and start again from the beginning of that sentence.",
+        "audio_text": "If you make a mistake, start that sentence again.",
         "max_seconds": 12,
         "group_id": "listen_repeat_7",
         "passage_title": "Recording at the campus radio studio"
       },
       "answer": {
         "type": "repeat",
-        "reference": "If you make a mistake, pause briefly and start again from the beginning of that sentence.",
-        "explanation": "读懂：pause briefly 是“稍停一下”；出错后从那一句的开头重来。\n解析：按“如果出错／稍停／从该句开头重来”记操作顺序；from the beginning of that sentence（从那一句的开头）限定重来范围，不能扩大到整段节目。\n下次：听到出错处理→记停顿与重来的起点→复述核对短暂停顿、再次开始及“那一句”三个限制。"
+        "reference": "If you make a mistake, start that sentence again.",
+        "explanation": "读懂：如果出错，就把那一句重新说一遍。\n解析：按“如果出错／那一句重来”记；that sentence 指出错的句子，不是整段节目；again 表重新开始。\n下次：听到出错后的处理→记条件和重来范围→核对 if、that 与 again。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "条件与并列动作",
-          "范围限定"
+          "条件句",
+          "指示限定"
         ],
         "vocabulary": [
-          "pause briefly",
-          "beginning"
+          "mistake",
+          "that sentence"
         ],
-        "rationale": "16词顺序操作但只一层条件，避免复杂嵌套。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：If you make a mistake, pause briefly and start again from the beginning of that sentence. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "条件与重录范围各成一块，that 限定当前句，较短仍需准确复述。",
+        "answer_evidence": "If you make a mistake, start that sentence again.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -393,29 +393,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "Please keep paper away from the microphone, because even small movements can be heard on the recording.",
+        "audio_text": "Keep paper away from the microphone to avoid recording unwanted noise.",
         "max_seconds": 12,
         "group_id": "listen_repeat_7",
         "passage_title": "Recording at the campus radio studio"
       },
       "answer": {
         "type": "repeat",
-        "reference": "Please keep paper away from the microphone, because even small movements can be heard on the recording.",
-        "explanation": "读懂：even small movements 是“连很小的动作”；纸张声也可能录进去。\n解析：按“纸离话筒远些／小动作也会被录到”记要求和原因；can be heard（能被听见）是被动，even（连……也）强调很小的动作仍可能影响录音。\n下次：听到因果关系→分别保存摆放要求与收音原因→核对距离关系、连小动作也包括的范围及被动形式。"
+        "reference": "Keep paper away from the microphone to avoid recording unwanted noise.",
+        "explanation": "读懂：纸张要远离话筒，以免录进不需要的噪声。\n解析：按“纸远离话筒／避免录入噪声”记；away from 是远离，to 引出目的，avoid 后的 recording 保留 ing。\n下次：听到设备摆放与目的→先记位置再记原因→核对 from 和 recording 的词尾。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "原因与被动",
-          "强调信息"
+          "距离搭配",
+          "目的不定式"
         ],
         "vocabulary": [
           "microphone",
-          "movements"
+          "unwanted noise"
         ],
-        "rationale": "17词因果句，十二秒约需85词每分钟；这是文本长度检查，不能代替真实音频与作答可说性验证。解析采用中文意群与局部英文核对点。",
-        "answer_evidence": "原句：Please keep paper away from the microphone, because even small movements can be heard on the recording. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "物件与位置加避免噪声的目的，away from 和 avoid 后词形是主要记忆点。",
+        "answer_evidence": "Keep paper away from the microphone to avoid recording unwanted noise.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -585,29 +585,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "If you find a damaged sign, mark its location on the map instead of removing it.",
+        "audio_text": "Mark damaged signs on your map instead of removing them.",
         "max_seconds": 12,
         "group_id": "listen_repeat_8",
         "passage_title": "A trail restoration briefing"
       },
       "answer": {
         "type": "repeat",
-        "reference": "If you find a damaged sign, mark its location on the map instead of removing it.",
-        "explanation": "读懂：instead of removing it 是“而不是将它移走”；损坏标牌要在地图上标位置。\n解析：按“发现损坏标牌／地图标位置／不移走”记条件和替代动作；mark its location（标出它的位置）中，its（它的）指该标牌。\n下次：听到替代做法→把该做和不该做的动作分别记→核对地图上的位置标记及移走动作，检查代词仍指标牌。"
+        "reference": "Mark damaged signs on your map instead of removing them.",
+        "explanation": "读懂：在地图上标出损坏标牌，不要把它们移走。\n解析：按“地图标出损坏标牌／不用移走”记；instead of 表替代，removing 的宾语 them 指标牌，不是地图。\n下次：听到替代做法→记选用和不用的两个动作→核对 of 后的 ing 及 them 所指。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "替代动作",
-          "条件与指代"
+          "替代关系",
+          "代词回指"
         ],
         "vocabulary": [
-          "damaged sign",
-          "location"
+          "damaged signs",
+          "instead of"
         ],
-        "rationale": "16词条件加行动替代，工作内容清晰且无长关系从句。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：If you find a damaged sign, mark its location on the map instead of removing it. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "标记与移走是两种动作，instead of 与 them 的指代要求保持，避免长条件填充。",
+        "answer_evidence": "Mark damaged signs on your map instead of removing them.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -617,29 +617,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "The soil near the stream is soft, so carry the tools along the gravel path.",
+        "audio_text": "Please use the gravel path because the ground is soft.",
         "max_seconds": 12,
         "group_id": "listen_repeat_8",
         "passage_title": "A trail restoration briefing"
       },
       "answer": {
         "type": "repeat",
-        "reference": "The soil near the stream is soft, so carry the tools along the gravel path.",
-        "explanation": "读懂：gravel path 是“碎石路”；溪边土软，因此工具应沿碎石路搬运。\n解析：按“溪边土软／所以沿碎石路搬工具”记原因与路径；so（所以）连接原因和行动，along（沿着）说明搬运路线。\n下次：听到地面条件引出行动→分清软土所在处和实际行走路线→复述核对搬运对象、溪边位置及沿路关系。"
+        "reference": "Please use the gravel path because the ground is soft.",
+        "explanation": "读懂：因为地面松软，请走碎石路。\n解析：按“使用碎石路／地面松软”记；gravel path 是碎石路，because 连接选择路线的原因，不要把软地面说成目的地。\n下次：听到选路原因→分开路线和地面状态→复述核对 because 与 is。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "因果意群",
-          "位置介词"
+          "原因从句",
+          "地点词汇"
         ],
         "vocabulary": [
-          "stream",
-          "gravel path"
+          "gravel path",
+          "soft"
         ],
-        "rationale": "15词原因和路径指令，增加两种地点关系但保持可说性。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：The soil near the stream is soft, so carry the tools along the gravel path. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "路径要求与地面原因构成两个意群，gravel 有场景支持，无额外嵌套。",
+        "answer_evidence": "Please use the gravel path because the ground is soft.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -777,29 +777,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "Tell the assistant if a button feels loose or uncomfortable.",
+        "audio_text": "Tell the assistant if the jacket feels tight or uncomfortable.",
         "max_seconds": 10,
         "group_id": "listen_repeat_9",
         "passage_title": "Inside the theater costume room"
       },
       "answer": {
         "type": "repeat",
-        "reference": "Tell the assistant if a button feels loose or uncomfortable.",
-        "explanation": "读懂：loose or uncomfortable 是“松动或让人不舒服”；有任一情况都要告知助理。\n解析：按“告知助理／纽扣松动或不舒服”记动作与反馈条件；or（或者）表示出现任一种情况即可，feels（感觉起来）保留单数词尾。\n下次：听到条件性反馈→分别记纽扣的两种问题→核对条件词、单数动词词尾及“或者”，不说成两种情况必须同时出现。"
+        "reference": "Tell the assistant if the jacket feels tight or uncomfortable.",
+        "explanation": "读懂：如果夹克太紧或穿着不舒服，请告诉助理。\n解析：按“告诉助理／夹克紧或不舒服时”记；if 引出反馈条件，or 表任一情况，feels 的主语是单数 jacket。\n下次：听到衣物试穿反馈→记告知对象和两种情况→核对 if、or 以及 feels 的词尾。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "条件与并列描述",
-          "主谓一致保持"
+          "条件与并列",
+          "衣物状态"
         ],
         "vocabulary": [
-          "button",
+          "jacket",
           "uncomfortable"
         ],
-        "rationale": "10词试装反馈，两种感受并列增加记忆量。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：Tell the assistant if a button feels loose or uncomfortable. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "让衣服本身承担紧或不舒服的状态，避免原句把纽扣松动与衣物舒适度混搭。",
+        "answer_evidence": "Tell the assistant if the jacket feels tight or uncomfortable.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -809,29 +809,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "Some costumes look similar, so check the label inside each one before taking it to the stage.",
+        "audio_text": "Check each costume's label before taking it to the stage.",
         "max_seconds": 12,
         "group_id": "listen_repeat_9",
         "passage_title": "Inside the theater costume room"
       },
       "answer": {
         "type": "repeat",
-        "reference": "Some costumes look similar, so check the label inside each one before taking it to the stage.",
-        "explanation": "读懂：look similar 是“看起来相似”；拿上舞台前查看每套内部标签。\n解析：按“戏服相似／查内部标签／再拿上舞台”记因果和先后；inside each one（每套里面）限定检查位置与逐件范围。\n下次：听到外观相似→记对应的辨认办法→复述核对内部、每套和上台前，检查没有替换成只凭颜色判断。"
+        "reference": "Check each costume's label before taking it to the stage.",
+        "explanation": "读懂：把戏服拿上舞台前，检查每件的标签。\n解析：按“查每件戏服标签／拿上舞台之前”记；costume's 表标签属于戏服，taking it 中 it 回指戏服，before 规定先检查。\n下次：听到物品与标签→分别记所属和动作对象→核对 each、所有格和 before。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "原因与先后",
-          "数量范围"
+          "所属结构",
+          "先后与指代"
         ],
         "vocabulary": [
-          "label",
-          "stage"
+          "costume's label",
+          "before"
         ],
-        "rationale": "17词因外观相似引出逐件核查，无多层关系从句。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：Some costumes look similar, so check the label inside each one before taking it to the stage. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "每件戏服与其标签、带上舞台前检查相连，句子紧凑但仍有指代和顺序。",
+        "answer_evidence": "Check each costume's label before taking it to the stage.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -841,29 +841,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "When the rehearsal ends, hang the jacket on its original hanger rather than leaving it on a chair.",
+        "audio_text": "After rehearsal, put the jacket back on its original hanger.",
         "max_seconds": 12,
         "group_id": "listen_repeat_9",
         "passage_title": "Inside the theater costume room"
       },
       "answer": {
         "type": "repeat",
-        "reference": "When the rehearsal ends, hang the jacket on its original hanger rather than leaving it on a chair.",
-        "explanation": "读懂：original hanger 是“原来的衣架”；排练后挂回去，不要放在椅子上。\n解析：按“排练结束／挂回原衣架／不放椅子”记归位方式；rather than（而不是）连接两种做法，leaving（放着）保留动作词尾。\n下次：听到归位与替代方式对比→记原衣架和椅子各自的作用→核对原来的这一限制及被排除的放置动作。"
+        "reference": "After rehearsal, put the jacket back on its original hanger.",
+        "explanation": "读懂：排练后，把夹克挂回原来的衣架。\n解析：按“排练后／夹克放回／原衣架上”记；back 表放回，on 表位置，its 指夹克对应的衣架。\n下次：听到归还物品→记时间、物件和原位置→核对 back、on 与 its。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "替代关系",
-          "物件回指"
+          "时间短语",
+          "归位搭配"
         ],
         "vocabulary": [
-          "hanger",
-          "rehearsal"
+          "rehearsal",
+          "original hanger"
         ],
-        "rationale": "18词句为本组最长，十二秒约需90词每分钟。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：When the rehearsal ends, hang the jacket on its original hanger rather than leaving it on a chair. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "排练结束与归回原衣架形成三个自然块，back 和 its 保持归位含义。",
+        "answer_evidence": "After rehearsal, put the jacket back on its original hanger.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1033,29 +1033,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "We sort food by type rather than brand so each delivery can include a useful variety.",
+        "audio_text": "We sort food by type so every delivery includes a variety.",
         "max_seconds": 12,
         "group_id": "listen_repeat_10",
         "passage_title": "Sorting food donations"
       },
       "answer": {
         "type": "repeat",
-        "reference": "We sort food by type rather than brand so each delivery can include a useful variety.",
-        "explanation": "读懂：by type rather than brand 是“按种类而非品牌”；希望每批配送有多种食物。\n解析：按“按种类分／不用品牌分／便于每批多样配送”记分类与用途；rather than（而不是）连接选用与不用的标准，each（每一批）限定配送范围。\n下次：听到两种分类标准→分别记实际采用与被排除的标准→接配送目的，核对每批都有多样性的范围。"
+        "reference": "We sort food by type so every delivery includes a variety.",
+        "explanation": "读懂：我们按种类分食物，让每次配送都有多种选择。\n解析：按“按种类分／每批配送有多样食物”记；by type 是按种类，so 引出结果，every delivery 是单数，includes 保留 s。\n下次：听到分类和用途→记分类标准与结果两块→核对 by、every 和 includes。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "对比与目的",
-          "分配范围"
+          "分类方式",
+          "结果与单数一致"
         ],
         "vocabulary": [
-          "brand",
+          "by type",
           "variety"
         ],
-        "rationale": "16词解释分拣原则与用途，主题逻辑贯通。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：We sort food by type rather than brand so each delivery can include a useful variety. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "分类标准与配送多样性直接相连，every 后的单数结构增加记忆要求。",
+        "answer_evidence": "We sort food by type so every delivery includes a variety.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1065,29 +1065,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "If a crate becomes too heavy, divide its contents between two smaller boxes before moving them.",
+        "audio_text": "If a crate is too heavy, divide its contents between two boxes.",
         "max_seconds": 12,
         "group_id": "listen_repeat_10",
         "passage_title": "Sorting food donations"
       },
       "answer": {
         "type": "repeat",
-        "reference": "If a crate becomes too heavy, divide its contents between two smaller boxes before moving them.",
-        "explanation": "读懂：divide its contents 是“分装里面的东西”；箱子太重就分成两小箱再搬。\n解析：按“原箱太重／分到两只较小箱／再搬它们”记条件和顺序；its contents（原箱里的东西）被分装，末尾 them（它们）指两只小箱。\n下次：听到重量条件→记分装数量、容器大小和再搬运的顺序→核对两个代词分别指原箱与新箱，避免搬运对象混淆。"
+        "reference": "If a crate is too heavy, divide its contents between two boxes.",
+        "explanation": "读懂：如果箱子太重，把里面的东西分到两只箱中。\n解析：按“箱子过重／内容分装两箱”记；its 指原箱，contents 是里面的物品，between two boxes 保留数量二。\n下次：听到分装操作→分清原容器和新容器→核对 if、its 与 two。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "条件与先后",
-          "数量及比较级"
+          "条件句",
+          "所属与数量"
         ],
         "vocabulary": [
           "contents",
-          "smaller"
+          "between two boxes"
         ],
-        "rationale": "16词条件与操作顺序句；分装后用 them 明确回指两只小箱，中文意群区分原箱与搬运对象。",
-        "answer_evidence": "原句：If a crate becomes too heavy, divide its contents between two smaller boxes before moving them. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "原箱过重与分装两箱构成条件操作，代词和数量不可丢，不再附加第三步。",
+        "answer_evidence": "If a crate is too heavy, divide its contents between two boxes.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1257,29 +1257,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "Because the sky is cloudy, we will begin with the indoor display and check conditions again later.",
+        "audio_text": "We will check the sky again after visiting the indoor display.",
         "max_seconds": 12,
         "group_id": "listen_repeat_11",
         "passage_title": "An evening at the observatory"
       },
       "answer": {
         "type": "repeat",
-        "reference": "Because the sky is cloudy, we will begin with the indoor display and check conditions again later.",
-        "explanation": "读懂：cloudy 是“多云”；先看室内展览，之后再查天气条件。\n解析：按“多云／先看室内展览／稍后再查条件”记应变顺序；again later（稍后再次）说明仍会重新查看天气，不是已经取消后续观测。\n下次：听到天气引发调整→记临时起步安排和之后重查→核对室内、再次、稍后三个限制，检查两项行动都在。"
+        "reference": "We will check the sky again after visiting the indoor display.",
+        "explanation": "读懂：参观室内展览后，我们会再查看天空状况。\n解析：按“再查看天空／参观室内展览之后”记；will 表接下来的安排，again 表再次，after visiting 规定顺序。\n下次：听到临时参观计划→排列参观与查看天气两步→核对 will、again 和 after。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "原因与并列计划",
-          "顺序记忆"
+          "时间顺序",
+          "再次检查"
         ],
         "vocabulary": [
-          "cloudy",
+          "again",
           "indoor display"
         ],
-        "rationale": "17词天气应变，两项行动线性排列。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：Because the sky is cloudy, we will begin with the indoor display and check conditions again later. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "先看室内展览再查天气，again 和 after 保持计划含义，不需要三段长并列。",
+        "answer_evidence": "We will check the sky again after visiting the indoor display.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1289,29 +1289,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "You may take pictures of the display, but switch off your flash before entering the viewing area.",
+        "audio_text": "Switch off your flash before you enter the viewing area.",
         "max_seconds": 12,
         "group_id": "listen_repeat_11",
         "passage_title": "An evening at the observatory"
       },
       "answer": {
         "type": "repeat",
-        "reference": "You may take pictures of the display, but switch off your flash before entering the viewing area.",
-        "explanation": "读懂：switch off your flash 是“关闭闪光灯”；可以拍展品，但进入观测区前要关。\n解析：按“可拍展品／进观测区前关闪光灯”记许可与转换条件；before entering（进入之前）规定关闭的时点，关掉的动作不能漏掉方向小词。\n下次：听到许可后的转折→记拍摄对象、关闭设备和截止时点→核对进入前已关闭，不把许可扩大到所有区域。"
+        "reference": "Switch off your flash before you enter the viewing area.",
+        "explanation": "读懂：进入观测区前，关掉闪光灯。\n解析：按“关闪光灯／进入观测区之前”记；switch off 是关闭，不能把 off 记成 on；before 要保留在进入动作前。\n下次：听到设备操作→先记开关方向再记时间条件→核对 off 和 before。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "许可与限制",
-          "短语动词"
+          "动词小词",
+          "时间从句"
         ],
         "vocabulary": [
-          "flash",
+          "Switch off",
           "viewing area"
         ],
-        "rationale": "17词拍摄规则，明确对象范围与转换区域。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：You may take pictures of the display, but switch off your flash before entering the viewing area. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "关闪光灯与进入观测区前的限制明确，off 决定动作方向。",
+        "answer_evidence": "Switch off your flash before you enter the viewing area.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1321,29 +1321,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "If the clouds clear before we close, everyone will have another chance to look through the telescope.",
+        "audio_text": "If the clouds clear before we close, everyone will have a chance to use the telescope.",
         "max_seconds": 12,
         "group_id": "listen_repeat_11",
         "passage_title": "An evening at the observatory"
       },
       "answer": {
         "type": "repeat",
-        "reference": "If the clouds clear before we close, everyone will have another chance to look through the telescope.",
-        "explanation": "读懂：clouds clear 是“云散开”；关门前若放晴，每个人可再看一次。\n解析：按“关门前云散／每人再有观测机会”记条件与结果；before we close（我们关门之前）限定天气改善的时段，another（再一次）表示追加机会。\n下次：听到条件性机会→先记条件必须何时满足→核对每个人、追加一次和透过望远镜观察，检查没有说成保证发生。"
+        "reference": "If the clouds clear before we close, everyone will have a chance to use the telescope.",
+        "explanation": "读懂：如果关门前云散开，每个人都有机会使用望远镜。\n解析：按“如果云散／在关门前／每人有观测机会”记；before we close 限定天气改变的时间，a chance 是一次机会，原句没有承诺天气必然好转。\n下次：听到条件内还有时间限制→先记清条件整体→复述后核对 if、before 和 a chance。"
       },
       "review": {
         "difficulty": "hard",
         "skills": [
-          "时间内的条件",
-          "机会范围"
+          "嵌入时间限制",
+          "条件与机会"
         ],
         "vocabulary": [
-          "clouds",
-          "another chance"
+          "clouds clear",
+          "telescope"
         ],
-        "rationale": "17词回应本组天气变动，只有条件成立才追加观察。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：If the clouds clear before we close, everyone will have another chance to look through the telescope. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "条件内再限定关门前，之后才给每人一次观测机会；保留多层意群，不暗示已观测过一次。",
+        "answer_evidence": "If the clouds clear before we close, everyone will have a chance to use the telescope.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1481,29 +1481,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "If you notice a problem during the ride, stop and call the number printed on your receipt.",
+        "audio_text": "Stop and call us if you notice a problem while riding.",
         "max_seconds": 12,
         "group_id": "listen_repeat_12",
         "passage_title": "Using the bicycle rental kiosk"
       },
       "answer": {
         "type": "repeat",
-        "reference": "If you notice a problem during the ride, stop and call the number printed on your receipt.",
-        "explanation": "读懂：printed on your receipt 是“印在收据上的”；骑行发现问题就停下并拨该号码。\n解析：按“骑行中有问题／停车并拨收据号码”记条件与处理；stop and call（停下并打电话）保留两项动作，号码后面的修饰语指出去哪里找号码。\n下次：听到骑行故障条件→记立即停止和联系方式→核对发生时段、两个动作及号码来源，不换成继续骑行后才联系。"
+        "reference": "Stop and call us if you notice a problem while riding.",
+        "explanation": "读懂：骑行中发现问题，就停车并联系我们。\n解析：按“停下并联系／骑行中发现问题时”记；and 连接两个都要做的动作，if 是条件，while riding 说明发现问题的时机。\n下次：听到遇事处理流程→先记两项动作再记触发情形→核对 and、if 与 riding。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "条件与顺序动作",
-          "分词修饰"
+          "并列动作",
+          "条件与时间"
         ],
         "vocabulary": [
-          "printed",
-          "ride"
+          "Stop and call",
+          "while riding"
         ],
-        "rationale": "17词故障处理，线性行动与号码来源明确。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：If you notice a problem during the ride, stop and call the number printed on your receipt. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "保留停车和联系两项动作，骑行中发现问题是适用情形；用紧凑语句承载关系。",
+        "answer_evidence": "Stop and call us if you notice a problem while riding.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1513,29 +1513,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "Bicycles returned after six must be left in the marked area rather than beside the kiosk.",
+        "audio_text": "After six, leave bicycles in the marked return area.",
         "max_seconds": 12,
         "group_id": "listen_repeat_12",
         "passage_title": "Using the bicycle rental kiosk"
       },
       "answer": {
         "type": "repeat",
-        "reference": "Bicycles returned after six must be left in the marked area rather than beside the kiosk.",
-        "explanation": "读懂：marked area 是“标记区域”；六点后还车不能随便停在服务亭旁。\n解析：按“六点后归还的车／停标记区／不用亭旁”记对象和位置；returned after six（六点后归还的）限定哪些车，后面的要求用被动，车辆是被放置的对象。\n下次：听到按时段分流→先记适用车辆，再记正确位置→核对必须停放的被动形式及两处方位，避免颠倒地点。"
+        "reference": "After six, leave bicycles in the marked return area.",
+        "explanation": "读懂：六点后，把自行车留在标出的还车区域。\n解析：按“六点后／放自行车／指定还车区”记；after 决定时间，marked 是已经标出的，in 指区域内部。\n下次：听到还车安排→分记时间和指定地点→核对 after、in 及 marked。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "分词限定",
-          "被动与替代地点"
+          "时间与位置",
+          "分词修饰"
         ],
         "vocabulary": [
-          "marked area",
-          "returned"
+          "After six",
+          "marked return area"
         ],
-        "rationale": "16词分词限定加位置对比，维修要求不混入租车规则。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：Bicycles returned after six must be left in the marked area rather than beside the kiosk. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "时间、对象、指定还车区三块清楚，marked 的修饰仍需保持，不靠双位置否定加长。",
+        "answer_evidence": "After six, leave bicycles in the marked return area.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1737,29 +1737,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "Take only the amount you expect to use, so there will be enough for people arriving later.",
+        "audio_text": "Take only what you need, leaving enough for people arriving later.",
         "max_seconds": 12,
         "group_id": "listen_repeat_13",
         "passage_title": "At the neighborhood seed exchange"
       },
       "answer": {
         "type": "repeat",
-        "reference": "Take only the amount you expect to use, so there will be enough for people arriving later.",
-        "explanation": "读懂：only the amount you expect to use 是“只拿预计会用的量”；给晚来的人留些。\n解析：按“只拿预计用量／留足给后来者”记限制与目的；people arriving later（稍后到来的人）限定受益者，only（只）限制领取数量。\n下次：听到限量领取→先记预计用量，再记为谁留余量→核对足够与稍后来者，检查没有改变分享对象。"
+        "reference": "Take only what you need, leaving enough for people arriving later.",
+        "explanation": "读懂：只拿自己需要的量，给后来者留够。\n解析：按“只拿所需／留够给后来者”记；only 限制数量，leaving 衔接结果，arriving later 修饰 people。\n下次：听到共享物品的数量要求→记限制和受益者→核对 only 及两个 ing 词尾。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "限制范围",
-          "目的与分词修饰"
+          "数量限制",
+          "分词修饰"
         ],
         "vocabulary": [
-          "amount",
-          "arriving"
+          "only",
+          "arriving later"
         ],
-        "rationale": "17词数量限制与共享理由，增加两个修饰段但无深层嵌套。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：Take only the amount you expect to use, so there will be enough for people arriving later. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "限制领取与给后来者留足形成两块，短句仍含 what 内容从句和分词修饰。",
+        "answer_evidence": "Take only what you need, leaving enough for people arriving later.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1929,29 +1929,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "If you mention a person we have not discussed, briefly explain how you knew that person.",
+        "audio_text": "When introducing someone new, briefly explain how you knew that person.",
         "max_seconds": 12,
         "group_id": "listen_repeat_14",
         "passage_title": "Recording a neighborhood oral history"
       },
       "answer": {
         "type": "repeat",
-        "reference": "If you mention a person we have not discussed, briefly explain how you knew that person.",
-        "explanation": "读懂：have not discussed 是“还未谈到过”；提到新人物时说明你如何认识他。\n解析：按“提到未谈过的人／简短说明如何认识”记条件与补充要求；how you knew that person（你如何认识那个人）保留过去时，并与前面新人物对应。\n下次：听到引入新人物→分别记未谈过的限定与认识关系→核对否定、简短程度和过去时，不只留下姓名。"
+        "reference": "When introducing someone new, briefly explain how you knew that person.",
+        "explanation": "读懂：提到新人物时，简短说明你是怎么认识对方的。\n解析：按“介绍新人物时／简短说明／如何认识”记；briefly 是简短地，how you knew 保持主语在动词前，knew 是过去式。\n下次：听到补充人物背景→分开引入与解释两步→核对 when、briefly 和 knew。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "关系从句",
-          "否定完成式与回指"
+          "时间条件",
+          "嵌入问题"
         ],
         "vocabulary": [
-          "mention",
-          "discussed"
+          "introducing",
+          "briefly explain"
         ],
-        "rationale": "16词人物引入规则，关系修饰与解释动作清楚。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：If you mention a person we have not discussed, briefly explain how you knew that person. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "介绍新人物与说明如何认识相连，保留内层陈述词序和过去经历，删除长关系修饰。",
+        "answer_evidence": "When introducing someone new, briefly explain how you knew that person.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1961,29 +1961,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "We are interested in your memories, so you do not need to check every date while speaking.",
+        "audio_text": "You do not need to check every date while speaking.",
         "max_seconds": 12,
         "group_id": "listen_repeat_14",
         "passage_title": "Recording a neighborhood oral history"
       },
       "answer": {
         "type": "repeat",
-        "reference": "We are interested in your memories, so you do not need to check every date while speaking.",
-        "explanation": "读懂：memories 是“个人回忆”；讲话时不必逐个查核日期，不等于日期毫无价值。\n解析：按“关注个人回忆／说话时无须逐个查日期”记原因和免除事项；do not need to（没有必要）否定必要性，不等于禁止查证。\n下次：听到不必做某事→找清被免除的动作与发生时段→核对逐个日期和说话过程中两项限制，不扩大成日期毫无意义。"
+        "reference": "You do not need to check every date while speaking.",
+        "explanation": "读懂：说话时不必逐个核查日期。\n解析：按“无须逐个核日期／正在讲述时”记；do not need to 是没有必要，不是禁止；every 限定逐个日期，while speaking 说明时机。\n下次：听到否定要求→先分清不必与不准→复述核对 not、need to 和 every。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "非必要性",
-          "时间范围"
+          "否定必要性",
+          "时间关系"
         ],
         "vocabulary": [
-          "memories",
-          "date"
+          "do not need to",
+          "every date"
         ],
-        "rationale": "17词解释访谈重点，避免将非必要误读为不准确许可。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：We are interested in your memories, so you do not need to check every date while speaking. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "do not need to 的非必要义与禁止不同，短句也能考查易混的否定范围。",
+        "answer_evidence": "You do not need to check every date while speaking.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2025,29 +2025,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "The ferry boards at pier four.",
+        "audio_text": "Board the ferry at pier four.",
         "max_seconds": 8,
         "group_id": "listen_repeat_15",
         "passage_title": "Boarding at the harbor ferry terminal"
       },
       "answer": {
         "type": "repeat",
-        "reference": "The ferry boards at pier four.",
-        "explanation": "读懂：pier four 是“四号码头”；乘客在那里登船。\n解析：按“这班渡轮／四号码头登船”记交通工具和地点；at（在）连接登船位置，four（四）紧跟码头名词表示编号，不能按时刻记。\n下次：听到码头信息→把数字与码头绑定→按原词复述，核对地点介词和登船动词词尾，不改成出发时间。"
+        "reference": "Board the ferry at pier four.",
+        "explanation": "读懂：在四号码头登船。\n解析：按“登上渡轮／四号码头”记；Board 在这里是登船这个动作，at 引出位置，four 是码头编号而不是四点。\n下次：听到交通指令→分记动作与上车登船地点→核对 at 和编号。"
       },
       "review": {
         "difficulty": "easy",
         "skills": [
-          "数字类别",
-          "地点信息"
+          "登船指令",
+          "位置编号"
         ],
         "vocabulary": [
-          "ferry",
+          "Board",
           "pier four"
         ],
-        "rationale": "6词登船位置，号码与时刻区分是易错点。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：The ferry boards at pier four. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "用面向乘客的自然指令明确执行者，避免让渡轮本身承担登船动作。",
+        "answer_evidence": "Board the ferry at pier four.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2185,29 +2185,29 @@
         "task_type": "listen_repeat",
         "prompt": "Listen to the sentence, then repeat it once as accurately and clearly as possible.",
         "response_type": "recording_text",
-        "audio_text": "The ferry will stop at two islands, so listen carefully for your destination before preparing to leave.",
+        "audio_text": "Listen for your destination before you prepare to leave the ferry.",
         "max_seconds": 12,
         "group_id": "listen_repeat_15",
         "passage_title": "Boarding at the harbor ferry terminal"
       },
       "answer": {
         "type": "repeat",
-        "reference": "The ferry will stop at two islands, so listen carefully for your destination before preparing to leave.",
-        "explanation": "读懂：two islands 是“两座岛”；有不止一站，先听清目的地再准备下船。\n解析：按“停两座岛／听清自己的目的地／再准备下船”记多站行程；listen carefully for（留心听取）指出需要听辨的信息，先听再准备的次序不能变。\n下次：听到不止一站→把自己的目的地与停靠数量分开记→核对两站、所属词和下船前提，不把每次靠岸都当作终点。"
+        "reference": "Listen for your destination before you prepare to leave the ferry.",
+        "explanation": "读懂：准备下船前，留心听自己的目的地。\n解析：按“听目的地提示／准备下船之前”记；listen for 是留心听取某信息，before 要求先听清再准备，不是见到码头就离开。\n下次：听到多站交通提醒→先记要听的信息再记动作顺序→核对 for、your 和 before。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
-          "数量与因果",
-          "先后条件"
+          "留心听取搭配",
+          "先后顺序"
         ],
         "vocabulary": [
-          "islands",
+          "Listen for",
           "destination"
         ],
-        "rationale": "17词多站航程提醒，时间前提有实际信息价值。 解析以中文意群配合局部英文核对点，不逐词重印整句。",
-        "answer_evidence": "原句：The ferry will stop at two islands, so listen carefully for your destination before preparing to leave. 中文意群与局部英文核对点均依据原句；未将完整英文答案拆成斜线块重印。文字比对不评价发音或流利度。",
-        "reviewed_on": "2026-09-27"
+        "rationale": "目的地提示与下船准备两个意群，保留 listen for 和 before，后段不必句句加长。",
+        "answer_evidence": "Listen for your destination before you prepare to leave the ferry.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {

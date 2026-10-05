@@ -3,8 +3,6 @@
 }
 
 .landing-view {
-  --slate: #536174;
-  --signal: #2856c7;
   --home-gap: 20px;
   --home-padding: 24px;
   --home-card-height: 216px;
@@ -65,8 +63,8 @@
 }
 
 .training-card {
-  --card-edge: #a2adbd;
-  --frame-ink: #a2adbd;
+  --card-edge: #a2ada3;
+  --frame-ink: #a2ada3;
   position: relative;
   min-width: 0;
   border: 1px solid var(--card-edge);
@@ -95,8 +93,8 @@
 /* Each frame borrows a detail from its subject, not another label or badge. */
 
 .section-card:nth-child(1) {
-  --card-edge: #7088ae;
-  --frame-ink: #b7c5d9;
+  --card-edge: #84998b;
+  --frame-ink: #bfccc1;
   border-radius: 16px 4px 4px 16px;
 }
 
@@ -114,8 +112,9 @@
 }
 
 .section-card:nth-child(2) {
-  --card-edge: #657b97;
-  --frame-ink: #6e87a6;
+  --card-edge: #647b70;
+  --frame-ink: #7b9486;
+  --focus: var(--paper);
 }
 
 .section-card:nth-child(2)::before {
@@ -128,7 +127,7 @@
   width: 102px;
   height: 19px;
   background: var(--ink)
-    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 102 19'%3E%3Cpath d='M4 9.5h12m5-3v6m6-9v12m6-11v10m6-7v4m6-9v14m6-11v8m6-5v2m6-8v14m6-10v6m6-8v10m6-7v4m6-2h12' fill='none' stroke='%239ab7dd' stroke-width='1.3' stroke-linecap='round'/%3E%3C/svg%3E")
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 102 19'%3E%3Cpath d='M4 9.5h12m5-3v6m6-9v12m6-11v10m6-7v4m6-9v14m6-11v8m6-5v2m6-8v14m6-10v6m6-8v10m6-7v4m6-2h12' fill='none' stroke='%23a8bdb0' stroke-width='1.3' stroke-linecap='round'/%3E%3C/svg%3E")
     center / contain no-repeat;
 }
 
@@ -156,8 +155,8 @@
 }
 
 .section-card:nth-child(4) {
-  --card-edge: #8da2dd;
-  --frame-ink: #9cafe3;
+  --card-edge: #9caf9f;
+  --frame-ink: #b0c2b5;
   border-radius: 16px 16px 16px 4px;
 }
 
@@ -171,7 +170,7 @@
   width: 32px;
   height: 21px;
   background: var(--signal-soft)
-    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 21'%3E%3Cpath d='M7 5h6v7H7c0 3-1 5-3 6m17-13h6v7h-6c0 3-1 5-3 6' fill='none' stroke='%23788fcc' stroke-width='1.5' stroke-linejoin='round'/%3E%3C/svg%3E")
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 21'%3E%3Cpath d='M7 5h6v7H7c0 3-1 5-3 6m17-13h6v7h-6c0 3-1 5-3 6' fill='none' stroke='%237b9486' stroke-width='1.5' stroke-linejoin='round'/%3E%3C/svg%3E")
     center / contain no-repeat;
 }
 
@@ -203,7 +202,7 @@
     will-change: transform;
   }
   .training-card.is-tilting:not(.test-entry) {
-    box-shadow: 0 12px 22px -16px rgba(23, 32, 42, 0.28);
+    box-shadow: 0 12px 22px -16px rgba(48, 59, 55, 0.28);
   }
 }
 
@@ -231,7 +230,7 @@
 .section-card:nth-child(2) h2 span,
 .section-card:nth-child(2) .card-icon,
 .section-card:nth-child(2) .section-actions .text-button {
-  color: #b6c0cc;
+  color: #becdc3;
 }
 
 .section-card:nth-child(3) {

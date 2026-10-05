@@ -1213,16 +1213,16 @@
         "explanation": "读懂：问计价单位，per person是每人；关键是“per person”\n解析：按整间收且不随人数变回答单位；景观、容量、价目位置都没说明眼前价格怎么计。\n下次：金额题给价格加单位，别用人数容量代替计费方式。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "数量与单位"
         ],
         "vocabulary": [
           "cabin"
         ],
-        "rationale": "问按人还是按整间计价；整间收且不随人数变明确单位，价目地点、风景和容量不等于计价方式。",
+        "rationale": "单人还是整间的显式二选一，正项直接重复 cabin 并说明不随人数变化；干扰项只谈地点、容量或景观，按简单处理。",
         "answer_evidence": "per person",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1312,16 +1312,16 @@
         "explanation": "读懂：file type 指文件格式；说话人已有幻灯片，却无法打开这种格式。\n解析：对方改发 PDF，直接提供可尝试打开的另一个格式，而不是让打不开文件的人先自行导出。改标题、提报告日期、评价照片都没有处理格式问题。\n下次：听到文件打不开→分清缺文件、格式或内容问题→检查建议能否从目前可执行的步骤开始。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "问题与解决"
         ],
         "vocabulary": [
           "file type"
         ],
-        "rationale": "已有幻灯片但格式打不开；由发送者改发PDF提供可执行替代，日期、照片和标题修改未处理打开障碍。",
+        "rationale": "文件打不开与改发另一格式直接对应，与 L93 的实际交际和干扰项负担相当；调为简单，保留由发件人重发的合理解决方式。",
         "answer_evidence": "file type",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {

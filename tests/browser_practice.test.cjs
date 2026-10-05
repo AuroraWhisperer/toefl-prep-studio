@@ -1,4 +1,5 @@
 const { test, expect } = require('@playwright/test');
+const { expectFullWidth } = require('./browser_layout_helpers.cjs');
 const {
   allTaskFlows,
   clozeLetterInputs,
@@ -29,6 +30,46 @@ test('all twelve task types preserve answers and show grouped review', async ({
   });
 });
 
+test('cloze typing continues across words and stops at the passage boundary', async ({ page }) => {
+  await openSettings(page, 'reading', 'complete_words', 2);
+  const selected = await start(page);
+  const blanks = selected.questions.slice(0, 10);
+  const title = page.locator('#question-content').getByRole('heading', { level: 3 });
+  await expect(title).toHaveText(blanks[0].passage_title);
+  const inputs = page.locator('.cloze-letters input');
+  const answers = blanks.map((blank, index) =>
+    String.fromCharCode(97 + index).repeat(blank.missing_length),
+  );
+
+  await inputs.first().click();
+  for (const [index, blank] of blanks.entries()) {
+    await page.keyboard.type(answers[index]);
+    const word = page.locator(`[data-answer-id="${blank.id}"]`);
+    expect(await word.evaluateAll((nodes) => nodes.map((node) => node.value).join(''))).toBe(
+      answers[index],
+    );
+    const next = blanks[index + 1];
+    await expect(
+      next ? page.locator(`[data-answer-id="${next.id}"]`).first() : word.last(),
+    ).toBeFocused();
+  }
+  await page.keyboard.type('z');
+  await expect(inputs.last()).toHaveValue('j');
+  await expect(inputs.last()).toBeFocused();
+
+  await page.locator('#next-question').click();
+  await expect(title).toHaveText(selected.questions[10].passage_title);
+  expect(await inputs.evaluateAll((nodes) => nodes.every((node) => node.value === ''))).toBe(true);
+  await page.locator('#previous-question').click();
+  await expect(title).toHaveText(blanks[0].passage_title);
+  expect(await inputs.evaluateAll((nodes) => nodes.map((node) => node.value).join(''))).toBe(
+    answers.join(''),
+  );
+  const scored = await submit(page);
+  expect(scored.feedback.slice(0, 10).map((item) => item.answer)).toEqual(answers);
+  expect(scored.answered_questions).toBe(10);
+});
+
 test('cloze letter inputs support editing, bounded paste and review', async ({
   page,
 }, testInfo) => {
@@ -44,6 +85,7 @@ test('cloze letter inputs support editing, bounded paste and review', async ({
     { width: 1707, height: 960 },
   ]) {
     await page.setViewportSize(viewport);
+    await expectFullWidth(page.locator('.review-material .cloze-passage'));
     for (const reveal of [false, true]) {
       await page.locator('#reveal-correct').setChecked(reveal);
       expect(await page.evaluate(() => document.documentElement.scrollWidth)).toBeLessThanOrEqual(

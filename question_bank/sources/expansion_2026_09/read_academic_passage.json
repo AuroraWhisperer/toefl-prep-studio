@@ -536,7 +536,7 @@
         "response_type": "choice",
         "group_id": "read_academic_passage_14",
         "passage_title": "Measuring with a shadow",
-        "passage": "The height of a tall object can sometimes be estimated without climbing it. One method uses its shadow together with the shadow of a shorter object whose height is known. If both objects stand upright on level ground and receive sunlight at the same angle, their heights and shadow lengths form the same proportion.\n\nImagine a student measuring a flagpole. She places a one-meter stick upright nearby, then measures both shadows within a short period. If the flagpole's shadow is six times as long as the stick's, the flagpole is approximately six meters high. The method uses a relationship between measurements rather than requiring direct access to the top of the pole.\n\nSeveral conditions can weaken the estimate. A slope may change the geometry, and a leaning stick no longer provides the intended comparison. Measurements taken far apart in time are also problematic because the direction of sunlight changes during the day. Repeating the measurements can reveal inconsistent results, but repetition alone does not correct a stick that leans in the same way each time. A careful observer checks the setup as well as the numbers. The method is valuable precisely because its assumptions are simple enough to inspect, not because it works under every possible condition.",
+        "passage": "The height of a tall object can sometimes be estimated without climbing it. One method uses its shadow together with the shadow of a shorter object whose height is known. If both objects stand upright on level ground and receive sunlight at the same angle, their heights and shadow lengths form the same proportion.\n\nImagine a student measuring a flagpole. She places a one-meter stick upright nearby, then measures both shadows within a short period. If the flagpole's shadow is six times as long as the stick's, the flagpole is approximately six meters high. The method uses a relationship between measurements rather than requiring direct access to the top of the pole.\n\nThe same relationship works when the shadows change later in the day. Suppose the stick's shadow is now twice as long as before. Under the same conditions, the flagpole's shadow will also be twice as long, so the ratio between them is unchanged. The longer shadow does not mean the flagpole has grown. It reflects a change in the angle of the light. This is why the known object serves as a reference: it responds to the same sunlight as the object being measured. Comparing the two shadows removes a change they share and leaves a relationship linked to their heights.",
         "options": [
           "A way to estimate height and the conditions needed for it to work.",
           "A reason tall objects always cast longer shadows than shorter ones.",
@@ -547,7 +547,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：题目问全文目的；“checks the setup as well as the numbers”表示既看测值也查布置条件。\n解析：文章解释用影长比例估高，再列地面、直立和时间条件。不是无条件比较任何物体影长；不教预测太阳方向；有几何比例依据，不是重复猜测。\n下次：遇到测量方法文章→概括怎么算与何时成立→排除把条件删掉的宽泛结论。"
+        "explanation": "读懂：题目问文章的整体目的；proportion 是“比例关系”。\n解析：先用已知棍高和两影比例估算旗杆高度，再解释日照改变时两影如何一起变化。不是随意猜测、预测太阳方向，也不是无条件地说高物体的影子总更长。\n下次：遇到测量方法，先找已知量和比较关系，再看条件变化后哪个关系仍保持，核对主旨是否覆盖这两步。"
       },
       "review": {
         "difficulty": "medium",
@@ -555,11 +555,11 @@
           "main_idea"
         ],
         "vocabulary": [
-          "their heights and shadow lengths form the same proportion"
+          "proportion"
         ],
-        "rationale": "先教影长比例估高，再说明水平地面、竖直和同日照角度条件，选同时概括方法和条件的主旨。",
-        "answer_evidence": "their heights and shadow lengths form the same proportion",
-        "reviewed_on": "2026-09-30"
+        "rationale": "用同一日照下两影的比例估高，再解释两影一起变长时比例仍可保持；所需关系在材料中给出。",
+        "answer_evidence": "用同一日照下两影的比例估高，再解释两影一起变长时比例仍可保持；所需关系在材料中给出。",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -571,7 +571,7 @@
         "response_type": "choice",
         "group_id": "read_academic_passage_14",
         "passage_title": "Measuring with a shadow",
-        "passage": "The height of a tall object can sometimes be estimated without climbing it. One method uses its shadow together with the shadow of a shorter object whose height is known. If both objects stand upright on level ground and receive sunlight at the same angle, their heights and shadow lengths form the same proportion.\n\nImagine a student measuring a flagpole. She places a one-meter stick upright nearby, then measures both shadows within a short period. If the flagpole's shadow is six times as long as the stick's, the flagpole is approximately six meters high. The method uses a relationship between measurements rather than requiring direct access to the top of the pole.\n\nSeveral conditions can weaken the estimate. A slope may change the geometry, and a leaning stick no longer provides the intended comparison. Measurements taken far apart in time are also problematic because the direction of sunlight changes during the day. Repeating the measurements can reveal inconsistent results, but repetition alone does not correct a stick that leans in the same way each time. A careful observer checks the setup as well as the numbers. The method is valuable precisely because its assumptions are simple enough to inspect, not because it works under every possible condition.",
+        "passage": "The height of a tall object can sometimes be estimated without climbing it. One method uses its shadow together with the shadow of a shorter object whose height is known. If both objects stand upright on level ground and receive sunlight at the same angle, their heights and shadow lengths form the same proportion.\n\nImagine a student measuring a flagpole. She places a one-meter stick upright nearby, then measures both shadows within a short period. If the flagpole's shadow is six times as long as the stick's, the flagpole is approximately six meters high. The method uses a relationship between measurements rather than requiring direct access to the top of the pole.\n\nThe same relationship works when the shadows change later in the day. Suppose the stick's shadow is now twice as long as before. Under the same conditions, the flagpole's shadow will also be twice as long, so the ratio between them is unchanged. The longer shadow does not mean the flagpole has grown. It reflects a change in the angle of the light. This is why the known object serves as a reference: it responds to the same sunlight as the object being measured. Comparing the two shadows removes a change they share and leaves a relationship linked to their heights.",
         "options": [
           "To make the stick's shadow equal to its known height.",
           "To make the two objects cast shadows of approximately equal length.",
@@ -590,11 +590,11 @@
           "detail"
         ],
         "vocabulary": [
-          "the direction of sunlight changes during the day"
+          "angle"
         ],
-        "rationale": "短时间测两影是控制日照角度；原斜地变平、旗杆变高错项太离题，改为影长和测量过程误读。",
-        "answer_evidence": "the direction of sunlight changes during the day",
-        "reviewed_on": "2026-09-30"
+        "rationale": "短时间测两影，使两次测量近似处于相同的日照角度；同一角度是第一段列明的条件。",
+        "answer_evidence": "短时间测两影，使两次测量近似处于相同的日照角度；同一角度是第一段列明的条件。",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -602,22 +602,22 @@
         "id": "R713",
         "section": "reading",
         "task_type": "read_academic_passage",
-        "prompt": "What can be inferred about consistently repeated results?",
+        "prompt": "Later that day, the stick's shadow is half as long. Both objects remain upright on level ground and their shadows are measured together. What does the method predict?",
         "response_type": "choice",
         "group_id": "read_academic_passage_14",
         "passage_title": "Measuring with a shadow",
-        "passage": "The height of a tall object can sometimes be estimated without climbing it. One method uses its shadow together with the shadow of a shorter object whose height is known. If both objects stand upright on level ground and receive sunlight at the same angle, their heights and shadow lengths form the same proportion.\n\nImagine a student measuring a flagpole. She places a one-meter stick upright nearby, then measures both shadows within a short period. If the flagpole's shadow is six times as long as the stick's, the flagpole is approximately six meters high. The method uses a relationship between measurements rather than requiring direct access to the top of the pole.\n\nSeveral conditions can weaken the estimate. A slope may change the geometry, and a leaning stick no longer provides the intended comparison. Measurements taken far apart in time are also problematic because the direction of sunlight changes during the day. Repeating the measurements can reveal inconsistent results, but repetition alone does not correct a stick that leans in the same way each time. A careful observer checks the setup as well as the numbers. The method is valuable precisely because its assumptions are simple enough to inspect, not because it works under every possible condition.",
+        "passage": "The height of a tall object can sometimes be estimated without climbing it. One method uses its shadow together with the shadow of a shorter object whose height is known. If both objects stand upright on level ground and receive sunlight at the same angle, their heights and shadow lengths form the same proportion.\n\nImagine a student measuring a flagpole. She places a one-meter stick upright nearby, then measures both shadows within a short period. If the flagpole's shadow is six times as long as the stick's, the flagpole is approximately six meters high. The method uses a relationship between measurements rather than requiring direct access to the top of the pole.\n\nThe same relationship works when the shadows change later in the day. Suppose the stick's shadow is now twice as long as before. Under the same conditions, the flagpole's shadow will also be twice as long, so the ratio between them is unchanged. The longer shadow does not mean the flagpole has grown. It reflects a change in the angle of the light. This is why the known object serves as a reference: it responds to the same sunlight as the object being measured. Comparing the two shadows removes a change they share and leaves a relationship linked to their heights.",
         "options": [
-          "They prove that the ground is level and the stick is upright.",
-          "They remove the need to measure the shorter object's height.",
-          "They may still be inaccurate if the setup contains a repeated error.",
-          "They indicate that sunlight stayed unchanged throughout the day."
+          "The flagpole's shadow is half as long, and its estimated height is also halved.",
+          "The flagpole's shadow is unchanged, and its estimated height is also unchanged.",
+          "The flagpole's shadow is half as long, but its estimated height is unchanged.",
+          "The flagpole's shadow is twice as long, and its estimated height is doubled."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：题目问多次结果一致说明什么；repetition alone 是“只靠重复测量”。\n解析：木棍如果每次都一样斜，测出的高度可能每次都一样错，所以一致仍可能不准确。它不能证明地面平、木棍直，也不能省去已知棍高，更不能证明太阳一整天都没变位置。\n下次：多测几次结果一样时，再检查每次是否都用了同一个错误的摆放方法。"
+        "explanation": "读懂：题目把影子变长改成变短；half as long 是“长度变为一半”。\n解析：两物体受相同日照角度影响，两影应一起减半；相除的比例没变，所以估计高度不变。只改一条影长，或把影长减半直接当成物体变矮，都误用了比较关系。\n下次：看到参照物和待测物一起变化，先分别追踪两者，再比较比例，检查是否误把测量现象当成物体本身的变化。"
       },
       "review": {
         "difficulty": "medium",
@@ -625,11 +625,11 @@
           "inference"
         ],
         "vocabulary": [
-          "repetition alone does not correct a stick that leans"
+          "ratio"
         ],
-        "rationale": "同样斜放导致同样偏差，稳定不保证准确；这一点文章直接解释，medium而非hard。",
-        "answer_evidence": "repetition alone does not correct a stick that leans",
-        "reviewed_on": "2026-09-30"
+        "rationale": "木棍影长减半时旗杆影长也减半，两者比例不变，所以估计高度不变；把文中变长的例子迁移到变短。",
+        "answer_evidence": "木棍影长减半时旗杆影长也减半，两者比例不变，所以估计高度不变；把文中变长的例子迁移到变短。",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -641,7 +641,7 @@
         "response_type": "choice",
         "group_id": "read_academic_passage_14",
         "passage_title": "Measuring with a shadow",
-        "passage": "The height of a tall object can sometimes be estimated without climbing it. One method uses its shadow together with the shadow of a shorter object whose height is known. If both objects stand upright on level ground and receive sunlight at the same angle, their heights and shadow lengths form the same proportion.\n\nImagine a student measuring a flagpole. She places a one-meter stick upright nearby, then measures both shadows within a short period. If the flagpole's shadow is six times as long as the stick's, the flagpole is approximately six meters high. The method uses a relationship between measurements rather than requiring direct access to the top of the pole.\n\nSeveral conditions can weaken the estimate. A slope may change the geometry, and a leaning stick no longer provides the intended comparison. Measurements taken far apart in time are also problematic because the direction of sunlight changes during the day. Repeating the measurements can reveal inconsistent results, but repetition alone does not correct a stick that leans in the same way each time. A careful observer checks the setup as well as the numbers. The method is valuable precisely because its assumptions are simple enough to inspect, not because it works under every possible condition.",
+        "passage": "The height of a tall object can sometimes be estimated without climbing it. One method uses its shadow together with the shadow of a shorter object whose height is known. If both objects stand upright on level ground and receive sunlight at the same angle, their heights and shadow lengths form the same proportion.\n\nImagine a student measuring a flagpole. She places a one-meter stick upright nearby, then measures both shadows within a short period. If the flagpole's shadow is six times as long as the stick's, the flagpole is approximately six meters high. The method uses a relationship between measurements rather than requiring direct access to the top of the pole.\n\nThe same relationship works when the shadows change later in the day. Suppose the stick's shadow is now twice as long as before. Under the same conditions, the flagpole's shadow will also be twice as long, so the ratio between them is unchanged. The longer shadow does not mean the flagpole has grown. It reflects a change in the angle of the light. This is why the known object serves as a reference: it responds to the same sunlight as the object being measured. Comparing the two shadows removes a change they share and leaves a relationship linked to their heights.",
         "options": [
           "visible",
           "nearby",
@@ -652,7 +652,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：题目问upright的意思；“a leaning stick”是倾斜的木棍，与要求相反。\n解析：这里要求竖直，使高度与影长比例可比。靠近是位置条件，不代表竖直；不移动也可能斜着；可见仅指看得见，不能保证角度正确。\n下次：遇到姿态词→找文中的反例→检查反义关系描述角度、位置还是运动。"
+        "explanation": "读懂：题目问 upright 的意思；on level ground 是“在水平地面上”。\n解析：木棍要直立，才能用棍高与影长形成文中所说的比较，因此选 vertical（竖直的）。靠近只说明位置，不动也可能是斜放，可见则只说明看得到。\n下次：遇到姿态词，结合动作和测量条件判断摆放方向，再排除只表示位置、可见程度或静止状态的词。"
       },
       "review": {
         "difficulty": "easy",
@@ -660,11 +660,11 @@
           "vocabulary"
         ],
         "vocabulary": [
-          "a leaning stick"
+          "upright"
         ],
-        "rationale": "leaning为反例，upright应为vertical；位置近、不动、可见都不说明竖直。",
-        "answer_evidence": "a leaning stick",
-        "reviewed_on": "2026-09-30"
+        "rationale": "物体直立并位于水平地面，upright 表示 vertical；靠近、可见和不动都不能保证直立。",
+        "answer_evidence": "物体直立并位于水平地面，upright 表示 vertical；靠近、可见和不动都不能保证直立。",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -672,22 +672,22 @@
         "id": "R715",
         "section": "reading",
         "task_type": "read_academic_passage",
-        "prompt": "What role does the final sentence play?",
+        "prompt": "How does the final paragraph develop the method described earlier?",
         "response_type": "choice",
         "group_id": "read_academic_passage_14",
         "passage_title": "Measuring with a shadow",
-        "passage": "The height of a tall object can sometimes be estimated without climbing it. One method uses its shadow together with the shadow of a shorter object whose height is known. If both objects stand upright on level ground and receive sunlight at the same angle, their heights and shadow lengths form the same proportion.\n\nImagine a student measuring a flagpole. She places a one-meter stick upright nearby, then measures both shadows within a short period. If the flagpole's shadow is six times as long as the stick's, the flagpole is approximately six meters high. The method uses a relationship between measurements rather than requiring direct access to the top of the pole.\n\nSeveral conditions can weaken the estimate. A slope may change the geometry, and a leaning stick no longer provides the intended comparison. Measurements taken far apart in time are also problematic because the direction of sunlight changes during the day. Repeating the measurements can reveal inconsistent results, but repetition alone does not correct a stick that leans in the same way each time. A careful observer checks the setup as well as the numbers. The method is valuable precisely because its assumptions are simple enough to inspect, not because it works under every possible condition.",
+        "passage": "The height of a tall object can sometimes be estimated without climbing it. One method uses its shadow together with the shadow of a shorter object whose height is known. If both objects stand upright on level ground and receive sunlight at the same angle, their heights and shadow lengths form the same proportion.\n\nImagine a student measuring a flagpole. She places a one-meter stick upright nearby, then measures both shadows within a short period. If the flagpole's shadow is six times as long as the stick's, the flagpole is approximately six meters high. The method uses a relationship between measurements rather than requiring direct access to the top of the pole.\n\nThe same relationship works when the shadows change later in the day. Suppose the stick's shadow is now twice as long as before. Under the same conditions, the flagpole's shadow will also be twice as long, so the ratio between them is unchanged. The longer shadow does not mean the flagpole has grown. It reflects a change in the angle of the light. This is why the known object serves as a reference: it responds to the same sunlight as the object being measured. Comparing the two shadows removes a change they share and leaves a relationship linked to their heights.",
         "options": [
-          "It balances the method's usefulness with its limited assumptions.",
-          "It argues that repeating the measurements makes the setup unimportant.",
-          "It presents consistency between measurements as sufficient proof of accuracy.",
-          "It recommends direct measurement because the shadow method is unreliable."
+          "It explains why a changing light angle can leave the height comparison useful.",
+          "It replaces the height comparison with a method for estimating the time of day.",
+          "It shows how to estimate height without knowing the shorter object's height.",
+          "It recommends comparing shadows measured under different sunlight angles."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：题目问最后一句的作用；simple enough to inspect 是“条件简单，能够检查”。\n解析：作者认可这个方法，因为使用者能检查它是否满足条件，同时提醒它并非处处适用。不是说重复测量就不用管摆放，也不是说结果一致就一定准确，更没有放弃影子法、只准直接测量。\n下次：结尾既肯定方法又讲条件时，选同时保留这两层意思的概括。"
+        "explanation": "读懂：题目问末段怎样推进前面的说明；reference 是“用来比较的参照物”。\n解析：末段让两影同时变长，说明它们的比例仍可不变，因此估高方法仍有用。没有转去测时间、取消已知棍高，也没有建议把不同日照角度下的两影混在一起比较。\n下次：判断段落作用时，先概括前段教了什么，再看后段是在解释原理、换方法还是补例子，核对它们的连接。"
       },
       "review": {
         "difficulty": "medium",
@@ -695,11 +695,11 @@
           "purpose"
         ],
         "vocabulary": [
-          "its assumptions are simple enough to inspect"
+          "reference"
         ],
-        "rationale": "末句肯定方法可用，并限定其条件；将无关阴天选项换成误把重复等同准确的选项。",
-        "answer_evidence": "its assumptions are simple enough to inspect",
-        "reviewed_on": "2026-09-30"
+        "rationale": "末段解释参照物如何与待测物共同响应阳光变化，说明比例比较为何仍有用。",
+        "answer_evidence": "末段解释参照物如何与待测物共同响应阳光变化，说明比例比较为何仍有用。",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1127,34 +1127,35 @@
         "id": "R728",
         "section": "reading",
         "task_type": "read_academic_passage",
-        "prompt": "Which observation would best support the passage's warning about distance?",
+        "prompt": "A change in a seed's outer covering lets it float farther. Which finding would best show that the change improves successful dispersal?",
         "response_type": "choice",
         "group_id": "read_academic_passage_17",
         "passage_title": "A seed carried by water",
         "passage": "A seed need not remain close to the plant that produced it. Along streams and shorelines, moving water can transport seeds to new locations. [A] The journey may reduce competition with the parent plant, but it also exposes the seed to an uncertain destination. A successful trip involves more than simply moving a long distance.\n\n[B] Some seeds have structures that help them remain at the surface. In certain species, small air spaces inside the outer covering contribute to buoyancy. [C] The outer covering may also slow the entry of water, helping the seed survive the journey. Currents and obstacles influence where the seed finally leaves the water. A floating seed can be trapped among branches or deposited on a bank as water levels fall.\n\nReaching land is not the same as establishing a new plant. The destination must provide conditions in which the seed can germinate and the young plant can grow. [D] A seed carried farther than its neighbors may land on a dry rock, while one that travels only a short distance may reach suitable soil. Distance is therefore only one measure of dispersal. To understand its biological outcome, researchers must follow the journey through arrival and early growth, not stop at the moment of transport.",
         "options": [
-          "A stream carries more seeds during one visit than during another.",
-          "All floating seeds are carried in exactly the same direction.",
-          "Seeds with air spaces are observed at the water surface.",
-          "A nearby deposited seed grows while a farther-traveling seed fails on rock."
+          "The changed covering contains larger spaces filled with air.",
+          "The seeds remain at the surface for a longer part of the journey.",
+          "Water carries the seeds in the same direction as before.",
+          "A greater proportion of the transported seeds germinate and grow after arrival."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：题目问哪种观察支持“漂得远不一定更成功”；suitable soil 是“适合生长的土壤”。\n解析：近处种子能长起来，远处种子却在石头上失败，说明距离长不保证生长成功。漂流方向、种子数量和空气腔能否让种子浮起来，都没有比较最终成活情况。\n下次：题目要检验“越远越好”时，同时看距离和生长结果，找能说明两者不一定一起增加的例子。"
+        "explanation": "读懂：题目问漂得更远是否带来传播成功；germinate 是“发芽”。\n解析：材料把到达与长成新植株分开，所以需要看抵达后发芽、生长的比例是否提高。气腔更大、漂得更久或水流方向相同，都只说明结构或运输，没交代最后是否长起来。\n下次：看到一个过程被改进，先确认题目要的最终结果，再检查证据是否到达那一步，别把中途指标当作成功。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "supporting_evidence"
+          "supporting_evidence",
+          "application"
         ],
         "vocabulary": [
-          "one that travels only a short distance may reach suitable soil"
+          "germinate"
         ],
-        "rationale": "近处成活而远处落石头失败正是文中的反例，所需判断简单；hard降medium，原解释换掉拆开指标等术语。",
-        "answer_evidence": "one that travels only a short distance may reach suitable soil",
-        "reviewed_on": "2026-09-30"
+        "rationale": "将运输与成功建立新植株的区别应用于种皮变化；不能只复述原来的近土远石例子，也不能把漂得更远直接等同成功。",
+        "answer_evidence": "The destination must provide conditions in which the seed can germinate and the young plant can grow.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3210,16 +3211,16 @@
         "explanation": "读懂：题目问例子中做志愿活动的机会成本；“prefers studying to the work shift”表示她在另外两项中更看重复习。\n解析：她放弃的最佳替代是复习，所以成本是这段复习的价值。不能把互斥的复习和打工相加；志愿活动收益属于已选方案；博物馆门票也不是这里牺牲的选择。\n下次：看到三个可选活动→先排除已选择的一项→在剩下可行项中按本人偏好找最高者。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "detail"
         ],
         "vocabulary": [
           "prefers studying to the work shift"
         ],
-        "rationale": "选择志愿后，未选的最佳替代是复习，不能把互斥两项相加；原题及解释可直接教会判断。",
+        "rationale": "按实际任务校正：例子逐句明确说放弃的是复习时间，不需要自行给三个活动估价。",
         "answer_evidence": "prefers studying to the work shift",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3315,16 +3316,16 @@
         "explanation": "读懂：题目问考试后同一人的选择成本会怎样；“might become her best other option”表示最佳替代可能变成打工。\n解析：考试结束可能降低复习的优先性，因此同样花一个下午，放弃的最佳选项及其价值都可能变。不是必须沿用原偏好；不收费仍占时间；个人选择也不能代表其他学生。\n下次：看到情境发生变化→重新排列仍可行的替代选项→确认机会成本是否还对应原来的最佳方案。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "inference"
         ],
         "vocabulary": [
           "a work shift might become her best other option"
         ],
-        "rationale": "考试后最佳替代可改变，进而机会成本变化；文中给出该应用，hard降medium。",
+        "rationale": "按实际任务校正：考后最佳替代可能改变在末段直接举出，题目只是换说这一结论，未增加新的排序约束。",
         "answer_evidence": "a work shift might become her best other option",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {

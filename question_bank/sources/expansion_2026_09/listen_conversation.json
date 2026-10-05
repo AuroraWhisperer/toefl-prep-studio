@@ -200,16 +200,16 @@
         "explanation": "读懂：问现有笔记如何处理；保留的依据是“Keep them”\n解析：保留并补时长；删掉与原话相反；改成同数量伪造数据；估遗漏鸟也未提出。\n下次：区分补充条件信息与改动观测值，检查建议保留了什么。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "建议与数据"
         ],
         "vocabulary": [
           "observation"
         ],
-        "rationale": "保留原始记录并补时长，不能改数字或删掉记录。",
+        "rationale": "调为简单：保留旧笔记并加观察时长，是男方的明确指令；这問并未要求另行计算可比较的数量。",
         "answer_evidence": "record how long you were there",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -305,16 +305,16 @@
         "explanation": "读懂：问测试目的；要找噪声来源，依据是“where the noise came from”\n解析：先换供电方式和位置做短测试，是为了查噪声来源，再决定是否重录全访谈。没有要换问题；也尚未证明嘉宾音量有问题；测试录音不是要取代完整采访。\n下次：故障排查题分调查原因与已知结论，别把试验当定论。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "目的与推断"
         ],
         "vocabulary": [
           "humming"
         ],
-        "rationale": "先用电池另录小样排查噪声；还未决定让嘉宾重录，也未证实唯一噪声来源。",
+        "rationale": "调为简单：短测试是先找噪声来源，最后一轮直接说明目的，没有要求诊断真实设备。",
         "answer_evidence": "find out where the noise came from",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -410,16 +410,16 @@
         "explanation": "读懂：问如何仍讲植物；把盆栽带出来是“bring several potted specimens outside”\n解析：导游把盆栽带到外面，在较方便行走的区域照样讲解植物。不是用录像代替，也无需硬走碎石坡；讲解仍由导游负责，不让游客自行采集。\n下次：替代安排题检查是否保留学习目标，并改变受限的方式。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "替代方案"
         ],
         "vocabulary": [
           "potted"
         ],
-        "rationale": "导游把盆栽带到铺装区，避免把替代路线误成完全看不到植物。",
+        "rationale": "调为简单：导游把盆栽带到铺装区域讲解，方案在单轮回答中直接给出。",
         "answer_evidence": "bring several potted specimens outside",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -655,16 +655,16 @@
         "explanation": "读懂：问误解何在；以为只是同一种跑步活动的两个出发时刻，证据是“two departure times for the same run”\n解析：实际训练组与社交组不同；没有全马、借鞋、迟到社交组的说法。\n下次：纠正题对照原以为与实际类别，别仅抓数字。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "误解与纠正"
         ],
         "vocabulary": [
           "departure"
         ],
-        "rationale": "原以为两批只是同一跑步活动不同时间，实际训练与社交组要求不同。",
+        "rationale": "调为简单：男方明说误以为只是同一种跑步的两个发车时间，正项直接改写该自述。",
         "answer_evidence": "two departure times for the same run",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -725,16 +725,16 @@
         "explanation": "读懂：问如何记录日期；她承认只是猜测，依据是“that's a guess”\n解析：拍摄年份是捐赠者的猜测，馆员因此标为约略日期。这个年份既不是车站开业年，也不是继承书桌的年份；不确定仍可记录，只须保留不确定性。\n下次：证据不确定时保留不确定标记，别把估值改成确定事实。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "证据与确定性"
         ],
         "vocabulary": [
           "approximate"
         ],
-        "rationale": "1940是猜测，按约数记录，不应虚构确定日期。",
+        "rationale": "调为简单：馆员直接说按 approximate 记录，问题只问这种记录方式。",
         "answer_evidence": "that's a guess",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -760,16 +760,16 @@
         "explanation": "读懂：问为什么说明照片怎样传到自己手里；how you came to have them 是你怎样得到它们。\n解析：她从祖母留下的书桌中得到照片，这段经过帮助研究者理解藏品来源。继承者不一定是摄影者；不是给书桌估价；传承经过也不能让猜测的1940变成准确日期。\n下次：听到藏品来历→分开谁拍摄、谁拥有和何时拍摄→检查选项是否把一种信息当成另一种证明。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "目的与范围"
         ],
         "vocabulary": [
           "inherited"
         ],
-        "rationale": "继承经过解释照片怎么到捐赠者手中，不等于摄影作者或价格；用同一收藏场景干扰。",
+        "rationale": "调为简单：询问取得照片的经过，是为了解藏品历史，最后一句直接说明。",
         "answer_evidence": "how you came to have them",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -795,16 +795,16 @@
         "explanation": "读懂：问不涂油原因；可能失效的证据是“make the brake ineffective”\n解析：刹车表面沾油可能失去有效制动力，所以不能照搬其他零件吱响就润滑的办法。材料没有说缺少前刹、店里没油或担心车变重。\n下次：维修建议要核对部件功能，不能把一般经验套到特殊部件。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "原因与纠正"
         ],
         "vocabulary": [
           "braking"
         ],
-        "rationale": "油沾刹车接触面会降低制动作用；不能套用异响一律需润滑的经验。",
+        "rationale": "调为简单：刹车表面上油会使制动失效已直接解释；无需外部维修知识才能选出答案。",
         "answer_evidence": "Oil there could make the brake ineffective",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1040,16 +1040,16 @@
         "explanation": "读懂：问第一瓶处理；记录采法的要求是“Label how it was collected”\n解析：记录第一瓶的采样方法，才能与第二瓶比较并判断影响。冒用第二瓶标签、混合两瓶会破坏比较；无记录丢弃也会抹去重要过程信息。\n下次：异常样本题区分保留并注明与掩盖异常，核对可追溯性。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "程序与证据"
         ],
         "vocabulary": [
           "sediment"
         ],
-        "rationale": "标明第一次的取法后保留作比较，不删去或改成正确方法。",
+        "rationale": "调为简单：第一瓶应标明采样方法是直接指令，不要求分析沉积物成分。",
         "answer_evidence": "Label how it was collected",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1565,16 +1565,16 @@
         "explanation": "读懂：问颜色说明；成熟仍绿的证据是“stays green even when it's ripe”\n解析：该品种不能仅凭绿判生；非全部绿不能吃，不保证变红，也不说颜色优先。\n下次：品种限定题保留适用对象，别把局部特性扩大为所有水果。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "范围与证据"
         ],
         "vocabulary": [
           "ripe"
         ],
-        "rationale": "这一个品种成熟仍绿，不推广到所有苹果，也不能以颜色单独判断。",
+        "rationale": "调为简单：该品种熟后仍绿已经原样说明，不将植物题材当作额外学术难度。",
         "answer_evidence": "stays green even when it's ripe",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2020,16 +2020,16 @@
         "explanation": "读懂：问换地点保留什么；舒适氛围是“comfortable atmosphere”\n解析：在小会议室随意摆椅并提供茶，可以保留轻松舒适而增加私密性。原咖啡馆的其他顾客正是要避开的因素；没有要求座位数、菜单或价格完全相同。\n下次：替代场地题区分必要体验与原地点附带特征。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "比较与目的"
         ],
         "vocabulary": [
           "informally"
         ],
-        "rationale": "会议室以随意摆椅和茶保留轻松氛围，无需复制菜单、人数或顾客。",
+        "rationale": "调为简单：保留轻松舒适气氛是女方直接概括的结果，其他选项未构成近义干扰。",
         "answer_evidence": "comfortable atmosphere without the public audience",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2195,16 +2195,16 @@
         "explanation": "读懂：问他们为什么要查地图。I'm not certain 是“我不能确定”。\n解析：男士只觉得箭头原来朝左，并不确定，不能凭这个印象给别人指路。地图用于核实方向，不是因为要修新路、原图没标路牌，或女士从未来过。\n下次：听到方向记不清→先用可靠地图核对→确认之后再设置给别人看的指引。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "证据与行动"
         ],
         "vocabulary": [
           "fork"
         ],
-        "rationale": "把不凭猜测复位等简写展开为不确定箭头朝向，因此先查图；完整说明新建路、原图缺标记和首次来访均非查图原因。",
+        "rationale": "调为简单：男方直接说记不清箭头，女方紧接着说不能猜；无需外部地图知识。",
         "answer_evidence": "I'm not certain",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2335,16 +2335,16 @@
         "explanation": "读懂：问第一步要查什么；how often the filter is cleaned 是滤网多久清洁一次。\n解析：女方怀疑也许是保养没跟上，因此先查维护记录，再考虑剪树或换泵。新泵价格、种树原因和修剪季节都不是她提出的首查事项。\n下次：听到多个解决办法→找双方最后确认的第一步→检查有没有把较后的改造提前。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "排查与优先"
         ],
         "vocabulary": [
           "filter"
         ],
-        "rationale": "先查滤网保养频率，再决定设备或树木处理；替换建校日期和砍光树等薄弱选项。",
+        "rationale": "调为简单：先查清洁过滤器的频率，是带 before 的明确指令；设备话题不增加本问难度。",
         "answer_evidence": "how often the filter is cleaned",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2440,16 +2440,16 @@
         "explanation": "读懂：问衔接逻辑；什么能解释变化是“what might explain it”\n解析：前一部分的数据展示变化，后一部分讨论可能原因，形成现象到解释的关系。不是删掉数据或并列无关联定义；所谈交接也不是观众问答环节。\n下次：论述顺序题标出现象与解释，检查后一段回答前一段留下的问题。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "逻辑关系"
         ],
         "vocabulary": [
           "causes"
         ],
-        "rationale": "数据展示变化，引出下一节原因分析；未替换数据，也不是观众问答。",
+        "rationale": "调为简单：数据展示变化、下一节讨论原因，已经在同一轮说明，正项只复述这一关系。",
         "answer_evidence": "Your data show a change",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2650,16 +2650,16 @@
         "explanation": "读懂：问取舍；换更自然神态值得的线索是“worth a more natural expression”\n解析：女方愿意接受姿势稍微变化，以换取更自然的表情，这才是取舍两端。没有要求照片变暗或换专业模特；她还建议聊天，与完全不说话相反。\n下次：取舍题写出牺牲与所得，检查两者来自同一建议。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "权衡与态度"
         ],
         "vocabulary": [
           "pose"
         ],
-        "rationale": "容忍姿势小变化以换自然神情，聊天是建议而非禁令。",
+        "rationale": "调为简单：姿势稍有变化换来更自然表情已直接表述，干扰项没有相近取舍。",
         "answer_evidence": "worth a more natural expression",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2720,16 +2720,16 @@
         "explanation": "读懂：问女士为什么特别提照片下面的说明文字。repeats the same number 是“重复了同一个数字”。\n解析：正文把十四袋写成四十袋，图注也用了这个错数，所以两处都要改。不是拍摄者姓名或清理地点写错，图注也还没改好。\n下次：听到同一信息出现在多处→找出每一处错误→核对修改是否全部同步。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "目的与信息一致"
         ],
         "vocabulary": [
           "caption"
         ],
-        "rationale": "把无摄影师等片段展开为并未写错拍摄者姓名或清理地点，具体说明十四误作四十同时出现在正文与图注，且尚待更正。",
+        "rationale": "调为简单：图注重复同一个错数，是女方明确说出的原因。",
         "answer_evidence": "It repeats the same number",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2790,16 +2790,16 @@
         "explanation": "读懂：问女士建议怎样调整。keep the screen in place 是“让纱窗留在原位”。\n解析：把风扇往后挪一点，让气流通畅，同时保留纱窗挡虫。不是马上换风扇、永久拆纱窗，或入住期间一直关窗。\n下次：听到调整一个物品、保留另一个→分别记清动作→检查方案是否既解决眼前问题，又保留原有作用。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "方案与约束"
         ],
         "vocabulary": [
           "insects"
         ],
-        "rationale": "把挪风扇、不立换等简写展开为后移风扇且保留纱窗，逐项说明更换、拆除与持续关窗都不是建议。",
+        "rationale": "调为简单：风扇后移、纱窗保留是同一句明确建议，不需要考生自行诊断机器。",
         "answer_evidence": "keep the screen in place",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2825,16 +2825,16 @@
         "explanation": "读懂：问字幕造成什么问题；cover指遮住，线索是“cover the map”\n解析：字幕挡住正在指出的入口，妨碍同时读图。原片有口头介绍，才会需要字幕；没有建筑被拆的证据；讨论的是文字摆位，不是入口名发音错误。\n下次：多媒体题先分听觉、文字和图像通道，再确定哪两者冲突。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "问题与信息整合"
         ],
         "vocabulary": [
           "captions"
         ],
-        "rationale": "字幕挡住地图入口是视觉冲突，有口头指路且未指称地图过时。",
+        "rationale": "调为简单：第一句便说明字幕挡住入口，其他选项都不是片中已有的视觉问题。",
         "answer_evidence": "captions cover the map",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2895,16 +2895,16 @@
         "explanation": "读懂：问种子归还规则；不会形成欠债是“doesn't create a debt”\n解析：希望留种不等于歉收也必须偿还。双倍返还是凭空加数量；开花不构成归还资格限制；这里明确否定债务，也没要求购买种子还债。\n下次：志愿性期待与强制义务要分开，检查失败时是否有例外。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "规则与范围"
         ],
         "vocabulary": [
           "crop"
         ],
-        "rationale": "希望还种子不等于歉收欠债，不能添加买种还债或双倍规则。",
+        "rationale": "调为简单：歉收不构成债务已明确说明，正项是直接改写。",
         "answer_evidence": "a failed crop doesn't create a debt",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2930,16 +2930,16 @@
         "explanation": "读懂：问记录价值；能给下一位建议是“advise the next person”\n解析：高温周的记录提供栽培背景，可能帮助解释失败，而非证明所有品种夏季都失败。天气记录不替代品种标签；既不欠债，也不需要用它计算金额。\n下次：经验记录题用背景支持可能解释，别把一次经历扩大成普遍定律。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "目的与证据"
         ],
         "vocabulary": [
           "pods"
         ],
-        "rationale": "高温记录给未来种植者参考，但一次失败不证明所有品种都夏季失败。",
+        "rationale": "调为简单：记录帮助下一位种植者，是结尾直接给出的用途；其他选项明显超出材料。",
         "answer_evidence": "help us advise the next person",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3000,16 +3000,16 @@
         "explanation": "读懂：问换票条件；须等确认有位，依据是“until we confirm a place”\n解析：保留明日票作为保障，今晚确认后才换。入候补不等于确认；不必两场都参加；先换后查空位会违背保留原票的安排。\n下次：有条件变更题画清触发点，避免把申请动作当生效条件。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "条件与时间"
         ],
         "vocabulary": [
           "exchange"
         ],
-        "rationale": "加入候补不是确认有位，确认后才换；不必参加两场。",
+        "rationale": "调为简单：今晚位置确认后才换票，是原文明确的单个时间条件。",
         "answer_evidence": "until we confirm a place for tonight",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3070,16 +3070,16 @@
         "explanation": "读懂：问修订方式；两栏分别记观察和解释，线索是“one column and possible explanations in another”\n解析：分栏保留原始事实与待验证解读。删除所有行为失去资料；并非照搬女方唯一解释，她还鼓励多个可能；只记能证实无聊的事件会倒果为因。\n下次：修改观察记录先保留事实，再把解释标为可能并检验替代解释。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "方法与证据"
         ],
         "vocabulary": [
           "journal"
         ],
-        "rationale": "分栏保留事实和可能解释，可以多种解释，不能照抄单一解释或只选支持无聊的资料。",
+        "rationale": "调为简单：男方直接提出分两栏，问题不要求自行判断具体笔记属于事实还是解释。",
         "answer_evidence": "observations in one column and possible explanations in another",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3420,16 +3420,16 @@
         "explanation": "读懂：问为什么不能同时改所有设置；won't know what helped 是不知道哪项改动解决了问题。\n解析：先重穿线，看结果再调别处，才能知道有效的是哪一步。拍照只保留原设置，并不代替试机，也不是永远不许调整；图示要先用，不是全改之后才用。\n下次：排查问题时→一次改一处并比较结果→检查能否说清是哪一步起作用。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "因果与方法"
         ],
         "vocabulary": [
           "tension"
         ],
-        "rationale": "一次全改就不知道哪项有效；以相邻排查步骤和保留原设置的混淆作干扰。",
+        "rationale": "调为简单：同时改所有设置就不知道哪项有效，已由男方直接说明。",
         "answer_evidence": "won't know what helped",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3490,16 +3490,16 @@
         "explanation": "读懂：问建议策略；两名都试是“Try both names”\n解析：配合各名称使用年份覆盖历史。反复同名不解决索引缺链接；弃旧索引或限合并后会继续漏早期资料。\n下次：更名资料题建立名称—时段对应，再跨版本检索核对遗漏。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "方法与范围"
         ],
         "vocabulary": [
           "timeline"
         ],
-        "rationale": "用两个名称及各自年份交叉检索，不忽略旧索引或只查合并后。",
+        "rationale": "调为简单：使用两个名称并记年份是明确搜索建议，干扰项没有近似的可行策略。",
         "answer_evidence": "Try both names",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     }
   ]

@@ -422,7 +422,7 @@
         "Waiting until the advanced course begins."
       ],
       "audio_text": "Student: I need information about river formation for a first-year project. This geology book seems very technical.\nLibrarian: It assumes you've already studied advanced chemistry. Try the environmental science guide on the next shelf.\nStudent: Will that be detailed enough? My instructor wants us to explain one process, not just define it.\nLibrarian: The guide has a chapter on how rivers change course, with diagrams and a case study. Start there, then use its references if you need more detail.\nStudent: That sounds manageable. Can I borrow it today?\nLibrarian: Certainly. The diagrams are also available through the library website.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "细节定位"
       ]
@@ -562,7 +562,7 @@
         "Customers requested an earlier opening time."
       ],
       "audio_text": "This Saturday's campus farmers' market will take place on the library plaza instead of in the courtyard. The move gives more vendors access to electricity for refrigerated products. The usual opening time, nine o'clock, has not changed. Reusable bags are encouraged, and the first fifty customers bringing one will receive a small voucher. Please keep the library entrance clear. Bicycle parking will be available behind the plaza, where volunteers can point you toward the stalls.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "细节定位"
       ]
@@ -802,7 +802,7 @@
         "All reading should be replaced by testing."
       ],
       "audio_text": "When students reread a chapter, its sentences often start to feel familiar. That familiarity can be reassuring, but it is not the same as being able to explain the ideas without the book. Psychologists distinguish recognizing information from retrieving it. Recognition supplies a cue: you see a term and know you have encountered it. Retrieval asks you to produce the information with fewer clues. For example, after reading about a scientific process, close the book and explain its steps to yourself. You may discover a gap that was invisible while the paragraph was in front of you. Perhaps you remember the first and final stages but cannot explain the connection between them. Simply looking at a diagram again might hide that problem; describing it makes the missing connection noticeable. That difficulty is useful because it tells you where further study is needed. However, repeatedly producing an incorrect answer is not the goal. Check your explanation against a reliable source and correct it. Then try again after some time has passed. Spacing these attempts gives you opportunities to retrieve the idea in changing conditions. The practical lesson is not to abandon reading, but to combine it with attempts to recall and with feedback on those attempts.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "篇章作用与结构"
       ]
@@ -842,7 +842,7 @@
         "The benefit of keeping a service available for possible use."
       ],
       "audio_text": "Suppose a town is deciding whether to keep a little-used bus route. Looking only at ticket sales, the service may seem to have limited value. But economists sometimes consider something called option value: the value of keeping a possibility available, even if people rarely use it. A resident who normally drives may still appreciate having a bus available when the car needs repairs. The route can also make it possible to accept a job before that resident knows whether driving will always be practical. Neither benefit appears fully in today's ticket revenue. Think of the decision from the resident’s perspective. Knowing there is a backup makes a plan less risky, even during a month when the car never breaks down. That reassurance is different from the benefit of a journey actually taken. Of course, recognizing option value does not mean every route should be retained at any cost. The town must compare the benefits with expenses and with alternatives, such as a less frequent service or transport that passengers book in advance. Surveys can help reveal how residents value access, though people may state a higher willingness to pay when no actual payment is required. The point is that a decision based solely on current use may overlook a service's contribution to future flexibility.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语境词义"
       ]
@@ -882,7 +882,7 @@
         "They always underestimate the cost of bus service."
       ],
       "audio_text": "Suppose a town is deciding whether to keep a little-used bus route. Looking only at ticket sales, the service may seem to have limited value. But economists sometimes consider something called option value: the value of keeping a possibility available, even if people rarely use it. A resident who normally drives may still appreciate having a bus available when the car needs repairs. The route can also make it possible to accept a job before that resident knows whether driving will always be practical. Neither benefit appears fully in today's ticket revenue. Think of the decision from the resident’s perspective. Knowing there is a backup makes a plan less risky, even during a month when the car never breaks down. That reassurance is different from the benefit of a journey actually taken. Of course, recognizing option value does not mean every route should be retained at any cost. The town must compare the benefits with expenses and with alternatives, such as a less frequent service or transport that passengers book in advance. Surveys can help reveal how residents value access, though people may state a higher willingness to pay when no actual payment is required. The point is that a decision based solely on current use may overlook a service's contribution to future flexibility.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -1100,7 +1100,7 @@
         "Seven people left their coats here.",
         "Let’s wait until rush hour."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -1262,7 +1262,7 @@
         "Let's use the graph without comparing it with the table.",
         "Changing the graph colors will make the figures identical."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -1280,7 +1280,7 @@
         "Sure. Which ones should I carry first?",
         "They arrived before the meeting."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -1424,7 +1424,7 @@
         "Good, you know what comes next.",
         "Let's ask the instructor to clarify it."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -1622,7 +1622,7 @@
         "Let's use that elevator without waiting for the repair to end.",
         "Is there another accessible route upstairs?"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -1730,7 +1730,7 @@
         "Good, you’ve read it all.",
         "The file contains yesterday’s agenda."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -1982,7 +1982,7 @@
         "The earlier version was discussed during the seminar.",
         "Great, this is the updated one."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -2054,7 +2054,7 @@
         "Yes, the rain stopped before yesterday’s photo session.",
         "You should post the photographs after the session."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -2266,7 +2266,7 @@
         "The old banners show an incorrect printed date."
       ],
       "audio_text": "Treasurer: We can afford either new banners or a second microphone for the event. Organizer: Last time, people at the back couldn't hear the questions. Treasurer: True. The old banners have the club name on them, but we left a blank space for the date. The fabric is still in good condition, and repainting that small section would cost very little. Organizer: Then let's buy the microphone and add this year's date to the banners ourselves. Treasurer: I'll check prices this afternoon.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -2466,7 +2466,7 @@
         "Increase the official word limit."
       ],
       "audio_text": "Student: My internship report is much longer than the limit. Adviser: Are you describing every day separately? Student: Yes, I kept a daily log. Adviser: Use the log as evidence, but organize the report around the three main skills you developed. Student: I was worried leaving out a day would make the report incomplete. Adviser: The purpose is to explain your development, not to reproduce your timetable. Student: So I can select examples instead of including everything? Adviser: Exactly. Explain what the examples show about your learning.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -2566,7 +2566,7 @@
         "Wait for the upload progress bar to change without emailing anyone."
       ],
       "audio_text": "Student: I uploaded my essay before midnight, but the site says it's late. Assistant: Did you receive a confirmation? Student: No, I closed the page when the progress bar reached the end. Assistant: There is a final submit button after the upload. Email your instructor the file and explain what happened. Student: Will you be able to mark it as on time? Assistant: That decision belongs to your instructor. I can only explain how the submission system works. Student: I'll do that now and include the upload timestamp.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "细节定位"
       ]
@@ -2586,7 +2586,7 @@
         "Make the main finding clear in the title."
       ],
       "audio_text": "Researcher: My poster has all the results, but nobody stops to read it. Colleague: The title is quite general, and the text is dense. Researcher: Should I add more photographs? Colleague: First make the central finding visible in the title. Then remove details that you can explain in conversation. Researcher: I was afraid removing details would make it seem less rigorous. Colleague: Visitors first need to understand the result; you can answer technical questions once they stop. Researcher: I'll keep one main graph and move the methods to a handout.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -2706,7 +2706,7 @@
         "Sunlight could damage the original letters."
       ],
       "audio_text": "Curator: We planned to put the old letters by the window. Conservator: Direct sunlight could fade the ink. Curator: The other wall is darker, though. Conservator: We can use controlled lighting there. It will let visitors read without exposing the paper all day. Curator: I don’t want visitors to overlook them in a dark corner. Conservator: We can improve the sign as well; protecting the originals doesn’t mean hiding them. Curator: Let's move the case and put a reproduction near the window instead.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -2786,7 +2786,7 @@
         "All digital files are prohibited."
       ],
       "audio_text": "Applicant: The scholarship form asks for an official transcript. Will a screenshot work? Adviser: No, the committee needs the university's verified document. Applicant: That takes several days, and the deadline is tomorrow. Adviser: Request it today and upload the receipt for the request. The instructions allow the transcript itself to follow within a week. Applicant: So the receipt isn’t a permanent substitute? Adviser: Correct. Keep checking the request and send the verified document as soon as it arrives; otherwise the application remains incomplete.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "细节定位"
       ]
@@ -2866,7 +2866,7 @@
         "Whether the second copy is in the same folder on the laptop."
       ],
       "audio_text": "Student: My laptop is running out of space. Can I delete the fieldwork folder after copying it to a drive? Technician: First open some files on the drive to check the copy. Then keep another backup somewhere separate. Student: Why two? Technician: A drive can fail or be lost. Important data shouldn't depend on one device. Student: Does that mean copying only the final report? Technician: Keep the original observations as well. You might need to check how you reached a conclusion later. Student: I'll use the university storage too.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "细节定位"
       ]
@@ -2886,7 +2886,7 @@
         "A separate copy makes it unnecessary to test whether the first one opens."
       ],
       "audio_text": "Student: My laptop is running out of space. Can I delete the fieldwork folder after copying it to a drive? Technician: First open some files on the drive to check the copy. Then keep another backup somewhere separate. Student: Why two? Technician: A drive can fail or be lost. Important data shouldn't depend on one device. Student: Does that mean copying only the final report? Technician: Keep the original observations as well. You might need to check how you reached a conclusion later. Student: I'll use the university storage too.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -3086,7 +3086,7 @@
         "Staff need to inspect its equipment."
       ],
       "audio_text": "Water in the west residence building will be turned off from ten until noon on Wednesday for a pipe repair. Please fill any drinking-water bottles beforehand. Toilets and sinks in the neighboring recreation center will remain available, and residents may use them by showing their residence card. The laundry room will reopen at one, allowing staff to check its equipment after water returns. We apologize for the interruption and will send a message if the repair finishes early.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -3406,7 +3406,7 @@
         "They interfere with adjustment to darkness."
       ],
       "audio_text": "Tonight's astronomy evening will begin at eight in the science courtyard. If clouds prevent telescope viewing, we will move to the lecture room for a demonstration using recent observations. The event will go ahead either way. Please avoid using bright phone screens near the telescopes, since observers' eyes need time to adjust to darkness. No equipment is required, and volunteers will help first-time visitors look through the telescopes safely.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -3606,7 +3606,7 @@
         "The island receives mainly species suited to future conditions."
       ],
       "audio_text": "Imagine a few seeds reaching an island far from a continent. The species that arrive are only a small selection of those on the mainland. Some organisms are better travelers, and chance also matters. Once established, populations encounter conditions that may differ from those at home. Certain predators might be absent, while food is limited. Take an imaginary population of birds. On the mainland, quickly escaping a ground predator might be essential. On an island without that predator, other activities could become more important to survival. We should not assume the birds deliberately choose to change; we are describing differences that can spread across generations. Over many generations, these conditions can favor traits that would be less useful elsewhere. This helps explain why island communities sometimes include unusual forms. But isolation is not complete protection. A newly introduced predator can have a large effect on animals that evolved without it. Conservation therefore involves more than counting the species already present. It may require monitoring boats and cargo to reduce accidental introductions. Notice the connection: the same isolation that helped produce distinctive communities can also leave them vulnerable when conditions change suddenly.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "细节定位"
       ]
@@ -3626,7 +3626,7 @@
         "Local animals may lack adaptations to such a threat."
       ],
       "audio_text": "Imagine a few seeds reaching an island far from a continent. The species that arrive are only a small selection of those on the mainland. Some organisms are better travelers, and chance also matters. Once established, populations encounter conditions that may differ from those at home. Certain predators might be absent, while food is limited. Take an imaginary population of birds. On the mainland, quickly escaping a ground predator might be essential. On an island without that predator, other activities could become more important to survival. We should not assume the birds deliberately choose to change; we are describing differences that can spread across generations. Over many generations, these conditions can favor traits that would be less useful elsewhere. This helps explain why island communities sometimes include unusual forms. But isolation is not complete protection. A newly introduced predator can have a large effect on animals that evolved without it. Conservation therefore involves more than counting the species already present. It may require monitoring boats and cargo to reduce accidental introductions. Notice the connection: the same isolation that helped produce distinctive communities can also leave them vulnerable when conditions change suddenly.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "推断与条件整合"
       ]
@@ -3646,7 +3646,7 @@
         "As evidence that island species have equal chances of leaving."
       ],
       "audio_text": "Imagine a few seeds reaching an island far from a continent. The species that arrive are only a small selection of those on the mainland. Some organisms are better travelers, and chance also matters. Once established, populations encounter conditions that may differ from those at home. Certain predators might be absent, while food is limited. Take an imaginary population of birds. On the mainland, quickly escaping a ground predator might be essential. On an island without that predator, other activities could become more important to survival. We should not assume the birds deliberately choose to change; we are describing differences that can spread across generations. Over many generations, these conditions can favor traits that would be less useful elsewhere. This helps explain why island communities sometimes include unusual forms. But isolation is not complete protection. A newly introduced predator can have a large effect on animals that evolved without it. Conservation therefore involves more than counting the species already present. It may require monitoring boats and cargo to reduce accidental introductions. Notice the connection: the same isolation that helped produce distinctive communities can also leave them vulnerable when conditions change suddenly.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "篇章作用与结构"
       ]
@@ -3706,7 +3706,7 @@
         "Spacing stops having any effect on the degree of difficulty."
       ],
       "audio_text": "Suppose you study a list of concepts twice. On one occasion, you reread the list. On another, you close it and try to explain the concepts from memory, then check your answers. The second approach may feel less fluent, but that difficulty can be useful. Retrieving information requires you to rebuild access to it. Corrective feedback then prevents errors from becoming established. This does not mean every test is a good learning activity. If questions are far beyond a learner's current knowledge and no feedback follows, repeated failure may add little. The timing matters too: allowing some forgetting can make retrieval more demanding, but waiting too long may make it impossible. Teachers therefore adjust both the spacing and the support. For instance, a teacher might initially provide the first step of a problem, then remove that hint when the learner can continue independently. The aim is a manageable challenge. An immediate perfect answer is not always the most informative outcome, but a task that remains impossible offers little useful practice either. The main point is that the feeling of ease while studying is not always a reliable measure of what will be remembered later.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -3741,11 +3741,11 @@
       "passage_title": "The hidden work of roots",
       "options": [
         "Interactions between roots and nearby soil organisms.",
-        "How the quantity of fertilizer alone determines plant growth.",
-        "How neighboring soil remains unaffected by root activity.",
-        "Why chemical measurements can replace observation of roots."
+        "How roots absorb every form of nutrient directly from soil.",
+        "Why adding the same quantity of nutrient produces the same growth in every soil.",
+        "How microorganisms supply compounds while roots convert them for the microbes."
       ],
-      "audio_text": "We usually notice a plant's leaves and flowers, but roots are active participants in its environment. Besides taking up water, they release compounds into the surrounding soil. Some of these compounds influence microorganisms, including organisms that help make nutrients available. So the soil close to a root can differ from soil only a short distance away. Scientists call this influenced region the rhizosphere. Imagine placing a very thin boundary around each root. Inside it, the chemical conditions may change as the root grows or releases a different compound. That boundary is not a wall: water and organisms move through it. It is a way of identifying where a plant’s influence is particularly strong. Studying it is difficult because digging up a plant changes the very relationships researchers want to observe. Transparent growing containers allow some direct observation, while chemical measurements provide another kind of evidence. Neither method gives a complete picture alone. Combining them helps researchers ask how root activity interacts with the soil community. It also explains why adding a nutrient to soil does not always produce the same growth response in different places: availability depends partly on living relationships, not just on total quantity.",
+      "audio_text": "We usually notice a plant's leaves and flowers, but its roots help shape the environment below ground. Besides taking up water, roots release compounds into the surrounding soil. Some microorganisms use these compounds as food. Their activity can, in turn, help make nutrients available to the plant. The region of soil influenced by roots is called the rhizosphere. Now, why does a nutrient need to be made available if it's already in the soil? Think of food inside a locked cupboard. The food is present, but you can't use it until you can reach it. Similarly, some soil nutrients are held in forms that roots cannot readily take up. Certain microorganisms help convert them into accessible forms. The plant supplies compounds the microbes can use, and the microbes' activity can help supply the plant. So this is a two-way relationship. It isn't a claim that every soil organism benefits a plant; different organisms have different effects. But it explains why two plants receiving the same amount of added nutrient may grow differently. The amount present is one part of the story. The biological processes that make it accessible are another.",
       "difficulty": "medium",
       "skills": [
         "主旨与目的"
@@ -3762,10 +3762,10 @@
       "options": [
         "Compounds released by microorganisms inside a root.",
         "Soil far enough from roots to remain unaffected by them.",
-        "A transparent container used to observe underground growth.",
+        "The forms of nutrient that roots cannot readily absorb.",
         "The soil region influenced by roots."
       ],
-      "audio_text": "We usually notice a plant's leaves and flowers, but roots are active participants in its environment. Besides taking up water, they release compounds into the surrounding soil. Some of these compounds influence microorganisms, including organisms that help make nutrients available. So the soil close to a root can differ from soil only a short distance away. Scientists call this influenced region the rhizosphere. Imagine placing a very thin boundary around each root. Inside it, the chemical conditions may change as the root grows or releases a different compound. That boundary is not a wall: water and organisms move through it. It is a way of identifying where a plant’s influence is particularly strong. Studying it is difficult because digging up a plant changes the very relationships researchers want to observe. Transparent growing containers allow some direct observation, while chemical measurements provide another kind of evidence. Neither method gives a complete picture alone. Combining them helps researchers ask how root activity interacts with the soil community. It also explains why adding a nutrient to soil does not always produce the same growth response in different places: availability depends partly on living relationships, not just on total quantity.",
+      "audio_text": "We usually notice a plant's leaves and flowers, but its roots help shape the environment below ground. Besides taking up water, roots release compounds into the surrounding soil. Some microorganisms use these compounds as food. Their activity can, in turn, help make nutrients available to the plant. The region of soil influenced by roots is called the rhizosphere. Now, why does a nutrient need to be made available if it's already in the soil? Think of food inside a locked cupboard. The food is present, but you can't use it until you can reach it. Similarly, some soil nutrients are held in forms that roots cannot readily take up. Certain microorganisms help convert them into accessible forms. The plant supplies compounds the microbes can use, and the microbes' activity can help supply the plant. So this is a two-way relationship. It isn't a claim that every soil organism benefits a plant; different organisms have different effects. But it explains why two plants receiving the same amount of added nutrient may grow differently. The amount present is one part of the story. The biological processes that make it accessible are another.",
       "difficulty": "easy",
       "skills": [
         "语境词义"
@@ -3775,40 +3775,42 @@
       "id": "L198",
       "section": "listening",
       "task_type": "listen_academic_talk",
-      "prompt": "Why can digging up roots complicate research?",
+      "prompt": "Why does the speaker mention food in a locked cupboard?",
       "response_type": "choice",
       "group_id": "listen_academic_talk_6",
       "passage_title": "The hidden work of roots",
       "options": [
-        "It exposes the roots without affecting the surrounding organisms.",
-        "It limits the number of compounds that laboratories can identify.",
-        "It measures total nutrients instead of observing root behavior.",
-        "It disturbs the relationships being studied."
+        "To compare the amount of food consumed by plants and by people.",
+        "To show that roots build a physical wall around every nutrient.",
+        "To explain why storing nutrients prevents microorganisms from using them.",
+        "To distinguish a resource being present from its being accessible."
       ],
-      "audio_text": "We usually notice a plant's leaves and flowers, but roots are active participants in its environment. Besides taking up water, they release compounds into the surrounding soil. Some of these compounds influence microorganisms, including organisms that help make nutrients available. So the soil close to a root can differ from soil only a short distance away. Scientists call this influenced region the rhizosphere. Imagine placing a very thin boundary around each root. Inside it, the chemical conditions may change as the root grows or releases a different compound. That boundary is not a wall: water and organisms move through it. It is a way of identifying where a plant’s influence is particularly strong. Studying it is difficult because digging up a plant changes the very relationships researchers want to observe. Transparent growing containers allow some direct observation, while chemical measurements provide another kind of evidence. Neither method gives a complete picture alone. Combining them helps researchers ask how root activity interacts with the soil community. It also explains why adding a nutrient to soil does not always produce the same growth response in different places: availability depends partly on living relationships, not just on total quantity.",
+      "audio_text": "We usually notice a plant's leaves and flowers, but its roots help shape the environment below ground. Besides taking up water, roots release compounds into the surrounding soil. Some microorganisms use these compounds as food. Their activity can, in turn, help make nutrients available to the plant. The region of soil influenced by roots is called the rhizosphere. Now, why does a nutrient need to be made available if it's already in the soil? Think of food inside a locked cupboard. The food is present, but you can't use it until you can reach it. Similarly, some soil nutrients are held in forms that roots cannot readily take up. Certain microorganisms help convert them into accessible forms. The plant supplies compounds the microbes can use, and the microbes' activity can help supply the plant. So this is a two-way relationship. It isn't a claim that every soil organism benefits a plant; different organisms have different effects. But it explains why two plants receiving the same amount of added nutrient may grow differently. The amount present is one part of the story. The biological processes that make it accessible are another.",
       "difficulty": "medium",
       "skills": [
-        "语用与隐含意图"
+        "purpose",
+        "analogy"
       ]
     },
     {
       "id": "L199",
       "section": "listening",
       "task_type": "listen_academic_talk",
-      "prompt": "What explains different responses to added nutrients?",
+      "prompt": "Some microbes that convert nutrients become less active, although the total nutrient amount stays the same. What outcome is consistent with the talk?",
       "response_type": "choice",
       "group_id": "listen_academic_talk_6",
       "passage_title": "The hidden work of roots",
       "options": [
-        "Biological relationships affect nutrient availability.",
-        "Adding the same quantity ensures the same access for plants.",
-        "Chemical evidence shows that microorganisms consume every added nutrient.",
-        "The differences disappear when total nutrients are measured."
+        "The plant may obtain less usable nutrient and grow differently.",
+        "The plant must grow the same way because the total amount is unchanged.",
+        "Every soil organism must become more helpful to compensate for the change.",
+        "The roots must stop releasing compounds because the soil no longer contains nutrients."
       ],
-      "audio_text": "We usually notice a plant's leaves and flowers, but roots are active participants in its environment. Besides taking up water, they release compounds into the surrounding soil. Some of these compounds influence microorganisms, including organisms that help make nutrients available. So the soil close to a root can differ from soil only a short distance away. Scientists call this influenced region the rhizosphere. Imagine placing a very thin boundary around each root. Inside it, the chemical conditions may change as the root grows or releases a different compound. That boundary is not a wall: water and organisms move through it. It is a way of identifying where a plant’s influence is particularly strong. Studying it is difficult because digging up a plant changes the very relationships researchers want to observe. Transparent growing containers allow some direct observation, while chemical measurements provide another kind of evidence. Neither method gives a complete picture alone. Combining them helps researchers ask how root activity interacts with the soil community. It also explains why adding a nutrient to soil does not always produce the same growth response in different places: availability depends partly on living relationships, not just on total quantity.",
+      "audio_text": "We usually notice a plant's leaves and flowers, but its roots help shape the environment below ground. Besides taking up water, roots release compounds into the surrounding soil. Some microorganisms use these compounds as food. Their activity can, in turn, help make nutrients available to the plant. The region of soil influenced by roots is called the rhizosphere. Now, why does a nutrient need to be made available if it's already in the soil? Think of food inside a locked cupboard. The food is present, but you can't use it until you can reach it. Similarly, some soil nutrients are held in forms that roots cannot readily take up. Certain microorganisms help convert them into accessible forms. The plant supplies compounds the microbes can use, and the microbes' activity can help supply the plant. So this is a two-way relationship. It isn't a claim that every soil organism benefits a plant; different organisms have different effects. But it explains why two plants receiving the same amount of added nutrient may grow differently. The amount present is one part of the story. The biological processes that make it accessible are another.",
       "difficulty": "medium",
       "skills": [
-        "原因与关系理解"
+        "application",
+        "inference"
       ]
     },
     {
@@ -4046,7 +4048,7 @@
         "It cannot automatically recover every missing perspective."
       ],
       "audio_text": "If you ask people outside a concert hall about their musical preferences, you may learn a great deal about that audience. You should be careful, however, about describing the results as the preferences of an entire city. People attending the concert differ from those who stayed home. This is a sampling issue, not necessarily a problem with the wording of the questions. Increasing the number of concertgoers surveyed can make the estimate for that audience more precise without making it representative of everyone. Researchers begin by defining the population they want to understand. Suppose the question instead concerned satisfaction with that evening’s concert. Now the people leaving the hall would be relevant participants, although those who left early might still be missed. The same location is therefore not automatically a good or bad sampling site; its usefulness depends on the research question. They then consider who has a chance of being selected and who is likely to respond. Weighting can adjust some known differences, but it cannot automatically repair every missing perspective. The lesson is that a large number of responses is valuable only when we also understand where those responses came from and what claims they can support.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -4206,7 +4208,7 @@
         "Keeping contribution rules informal regardless of group size."
       ],
       "audio_text": "A neighborhood park can benefit many people at once. One person's enjoyment of its shade does not usually prevent another from enjoying it. Yet maintaining the park requires work and money. If everyone waits for someone else to contribute, the shared space may deteriorate. Economists call this a collective-action problem. It does not mean that cooperation is impossible. Communities sometimes establish contribution rules, organize volunteer days, or fund maintenance through local taxes. Which arrangement works depends on circumstances. A small group whose members know each other may coordinate informally, while a large city may need more formal administration. Clear information about how funds are used can support trust under either system. Imagine residents being asked for a contribution without knowing whether it will repair a path or buy new equipment. Some might hesitate even if they value the park. A public maintenance plan makes the request more understandable and lets people see whether the promised work happens. We should therefore avoid assuming that a shared resource will automatically be neglected or automatically care for itself. The interesting question is how people build institutions that connect individual decisions to their common interest.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -4246,7 +4248,7 @@
         "Particle arrangement is unrelated to the original environment."
       ],
       "audio_text": "Layers of sedimentary rock can preserve a sequence of environmental changes. Sandstone might indicate material deposited by moving water or wind, while a layer rich in shells suggests a different setting. But identifying a rock type is only the beginning. Researchers also examine the size, shape, and arrangement of its particles. Similar materials can form in more than one environment. A sequence is especially informative when layers remain in their original order, with younger deposits above older ones. Later folding or faulting can complicate that arrangement. Geologists therefore map structures as well as collecting samples. Imagine finding a recognizable shell-bearing layer on both sides of a valley, but at different heights. That observation raises questions about how the land moved after the layer formed. Looking at the shells alone would not answer them. The position of the material is part of the evidence. Gaps matter too. An interval with no preserved deposit may reflect erosion or a period when little sediment accumulated. It does not necessarily mean that nothing happened. Reading the record involves recognizing both what has survived and what processes may have removed or rearranged it, much as a historian considers missing pages in an old document.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "细节定位"
       ]
@@ -4306,7 +4308,7 @@
         "The effort needed to reestablish a task after an interruption."
       ],
       "audio_text": "An interruption costs more than the seconds spent answering it. When people return to a complex task, they often need time to reconstruct what they were doing and what should happen next. This resumption cost varies with the task and the moment of interruption. Being interrupted after completing one step and before starting the next may be less disruptive than being interrupted while comparing several possibilities in memory. One strategy is to leave a brief note before switching tasks. The note can record the next action, reducing the effort needed to restart. Consider someone comparing two schedules. If a message arrives just as that person is checking a conflict, returning to the task may require reconstructing both schedules. A note identifying the unresolved conflict preserves the immediate goal. A note saying only “finish planning” would provide much less help. However, this is not always possible when interruptions are urgent. Designers can help by grouping nonurgent notifications or allowing people to choose when they appear. The objective is not to eliminate communication. It is to match its timing to the work. Research therefore measures both immediate response and the quality of the task that was interrupted, because fast replies alone do not capture overall performance.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语境词义"
       ]
@@ -4346,7 +4348,7 @@
         "It changes an urgent message into a nonurgent one."
       ],
       "audio_text": "An interruption costs more than the seconds spent answering it. When people return to a complex task, they often need time to reconstruct what they were doing and what should happen next. This resumption cost varies with the task and the moment of interruption. Being interrupted after completing one step and before starting the next may be less disruptive than being interrupted while comparing several possibilities in memory. One strategy is to leave a brief note before switching tasks. The note can record the next action, reducing the effort needed to restart. Consider someone comparing two schedules. If a message arrives just as that person is checking a conflict, returning to the task may require reconstructing both schedules. A note identifying the unresolved conflict preserves the immediate goal. A note saying only “finish planning” would provide much less help. However, this is not always possible when interruptions are urgent. Designers can help by grouping nonurgent notifications or allowing people to choose when they appear. The objective is not to eliminate communication. It is to match its timing to the work. Research therefore measures both immediate response and the quality of the task that was interrupted, because fast replies alone do not capture overall performance.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -4426,7 +4428,7 @@
         "Consumers' preferences alone determine available processing methods."
       ],
       "audio_text": "A package labeled recyclable is not guaranteed to be recycled after use. The material must first be collected and separated, and a facility must be able to process it. There must also be a use for the recovered material. A technically possible process may be unavailable in a particular region. Design can make recovery easier or harder. A container made from one material is often simpler to sort than one built from tightly bonded layers. Food residue may also reduce the quality of a collected batch. This is why local instructions sometimes differ even for products that look similar. The differences can reflect available equipment rather than careless rule making. Imagine moving to a new town with the same brand of food container. Copying your previous sorting habits might send that container into a stream the new facility cannot handle. Checking local guidance is therefore part of making a material recoverable in practice, not merely an administrative inconvenience. Manufacturers, waste managers, and consumers each influence the outcome. Evaluating a package therefore means following its likely path after use, not just examining the symbol printed on it. Reducing unnecessary packaging may avoid problems that recycling alone cannot solve.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语用与隐含意图"
       ]
@@ -4466,7 +4468,7 @@
         "Their positions, attention, and expectations differ."
       ],
       "audio_text": "Two witnesses can describe the same public event differently without either deliberately lying. They may have stood in different places, noticed different actions, or expected different outcomes. Memory also changes with time, and a later account may incorporate information learned afterward. Historians therefore ask when a source was produced, for whom, and for what purpose. A private diary written that evening and an official speech delivered years later provide different kinds of evidence. Neither is automatically truthful in every detail. Comparing sources helps identify agreement and disagreement, but agreement itself requires interpretation. Several accounts may all depend on one earlier report, so they are not necessarily independent confirmation. Imagine three newspapers using the same correspondent’s description. Counting them as three separate witnesses would exaggerate the support for a claim. A historian would try to trace that shared wording back to its origin and compare it with a source produced by someone else. The goal is not to discard every imperfect source. It is to make claims whose strength matches the available evidence, explaining uncertainties where they remain. Careful historical writing can thus be persuasive while openly acknowledging what cannot be established.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "不同视角与解释"
       ]
@@ -4486,7 +4488,7 @@
         "Whether repeated agreement can be treated as proof without tracing sources."
       ],
       "audio_text": "Two witnesses can describe the same public event differently without either deliberately lying. They may have stood in different places, noticed different actions, or expected different outcomes. Memory also changes with time, and a later account may incorporate information learned afterward. Historians therefore ask when a source was produced, for whom, and for what purpose. A private diary written that evening and an official speech delivered years later provide different kinds of evidence. Neither is automatically truthful in every detail. Comparing sources helps identify agreement and disagreement, but agreement itself requires interpretation. Several accounts may all depend on one earlier report, so they are not necessarily independent confirmation. Imagine three newspapers using the same correspondent’s description. Counting them as three separate witnesses would exaggerate the support for a claim. A historian would try to trace that shared wording back to its origin and compare it with a source produced by someone else. The goal is not to discard every imperfect source. It is to make claims whose strength matches the available evidence, explaining uncertainties where they remain. Careful historical writing can thus be persuasive while openly acknowledging what cannot be established.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "细节定位"
       ]
@@ -4506,7 +4508,7 @@
         "A shared conclusion shows they were written at the same time."
       ],
       "audio_text": "Two witnesses can describe the same public event differently without either deliberately lying. They may have stood in different places, noticed different actions, or expected different outcomes. Memory also changes with time, and a later account may incorporate information learned afterward. Historians therefore ask when a source was produced, for whom, and for what purpose. A private diary written that evening and an official speech delivered years later provide different kinds of evidence. Neither is automatically truthful in every detail. Comparing sources helps identify agreement and disagreement, but agreement itself requires interpretation. Several accounts may all depend on one earlier report, so they are not necessarily independent confirmation. Imagine three newspapers using the same correspondent’s description. Counting them as three separate witnesses would exaggerate the support for a claim. A historian would try to trace that shared wording back to its origin and compare it with a source produced by someone else. The goal is not to discard every imperfect source. It is to make claims whose strength matches the available evidence, explaining uncertainties where they remain. Careful historical writing can thus be persuasive while openly acknowledging what cannot be established.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "证据来源与独立性"
       ]
@@ -5192,7 +5194,7 @@
         "It's for the cabin, regardless of group size.",
         "We can accommodate up to four people."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "数量与单位"
       ]
@@ -5246,7 +5248,7 @@
         "I like the photographs on those slides.",
         "The first slide needs a shorter title."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "问题与解决"
       ]
@@ -7706,7 +7708,7 @@
       ],
       "group_id": "listen_conversation_28",
       "passage_title": "A bird count route",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "建议与数据"
       ]
@@ -7766,7 +7768,7 @@
       ],
       "group_id": "listen_conversation_30",
       "passage_title": "A podcast interview",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "目的与推断"
       ]
@@ -7826,7 +7828,7 @@
       ],
       "group_id": "listen_conversation_31",
       "passage_title": "An accessible garden tour",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "替代方案"
       ]
@@ -7966,7 +7968,7 @@
       ],
       "group_id": "listen_conversation_35",
       "passage_title": "A running club pace",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "误解与纠正"
       ]
@@ -8006,7 +8008,7 @@
       ],
       "group_id": "listen_conversation_36",
       "passage_title": "A family photograph donation",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "证据与确定性"
       ]
@@ -8026,7 +8028,7 @@
       ],
       "group_id": "listen_conversation_36",
       "passage_title": "A family photograph donation",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "目的与范围"
       ]
@@ -8046,7 +8048,7 @@
       ],
       "group_id": "listen_conversation_37",
       "passage_title": "A bicycle brake check",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "原因与纠正"
       ]
@@ -8186,7 +8188,7 @@
       ],
       "group_id": "listen_conversation_40",
       "passage_title": "A stream sample",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "程序与证据"
       ]
@@ -8486,7 +8488,7 @@
       ],
       "group_id": "listen_conversation_48",
       "passage_title": "An apple harvest",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "范围与证据"
       ]
@@ -8746,7 +8748,7 @@
       ],
       "group_id": "listen_conversation_54",
       "passage_title": "A research interview location",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "比较与目的"
       ]
@@ -8846,7 +8848,7 @@
       ],
       "group_id": "listen_conversation_57",
       "passage_title": "A damaged trail marker",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "证据与行动"
       ]
@@ -8926,7 +8928,7 @@
       ],
       "group_id": "listen_conversation_59",
       "passage_title": "A campus fountain project",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "排查与优先"
       ]
@@ -8986,7 +8988,7 @@
       ],
       "group_id": "listen_conversation_60",
       "passage_title": "A tandem presentation",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "逻辑关系"
       ]
@@ -9106,7 +9108,7 @@
       ],
       "group_id": "listen_conversation_63",
       "passage_title": "A studio portrait",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "权衡与态度"
       ]
@@ -9146,7 +9148,7 @@
       ],
       "group_id": "listen_conversation_64",
       "passage_title": "A newspaper correction",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "目的与信息一致"
       ]
@@ -9186,7 +9188,7 @@
       ],
       "group_id": "listen_conversation_65",
       "passage_title": "A guest room fan",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "方案与约束"
       ]
@@ -9206,7 +9208,7 @@
       ],
       "group_id": "listen_conversation_66",
       "passage_title": "A captioned campus video",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "问题与信息整合"
       ]
@@ -9246,7 +9248,7 @@
       ],
       "group_id": "listen_conversation_67",
       "passage_title": "A seed library return",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "规则与范围"
       ]
@@ -9266,7 +9268,7 @@
       ],
       "group_id": "listen_conversation_67",
       "passage_title": "A seed library return",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "目的与证据"
       ]
@@ -9306,7 +9308,7 @@
       ],
       "group_id": "listen_conversation_68",
       "passage_title": "A ticket for the wrong date",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件与时间"
       ]
@@ -9346,7 +9348,7 @@
       ],
       "group_id": "listen_conversation_69",
       "passage_title": "A class observation journal",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "方法与证据"
       ]
@@ -9546,7 +9548,7 @@
       ],
       "group_id": "listen_conversation_74",
       "passage_title": "A shared sewing machine",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "因果与方法"
       ]
@@ -9586,7 +9588,7 @@
       ],
       "group_id": "listen_conversation_75",
       "passage_title": "A community archive search",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "方法与范围"
       ]
@@ -9686,7 +9688,7 @@
       ],
       "group_id": "listen_announcement_23",
       "passage_title": "A shoreline field session",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "时间与原因"
       ]
@@ -9766,7 +9768,7 @@
       ],
       "group_id": "listen_announcement_25",
       "passage_title": "A film society screening",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "目的与范围"
       ]
@@ -9826,7 +9828,7 @@
       ],
       "group_id": "listen_announcement_26",
       "passage_title": "A makerspace tool check",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "目的与范围"
       ]
@@ -9886,7 +9888,7 @@
       ],
       "group_id": "listen_announcement_28",
       "passage_title": "Handling museum replicas",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "范围与证据"
       ]
@@ -9906,7 +9908,7 @@
       ],
       "group_id": "listen_announcement_28",
       "passage_title": "Handling museum replicas",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "证据与推断"
       ]
@@ -10066,7 +10068,7 @@
       ],
       "group_id": "listen_announcement_32",
       "passage_title": "A scanning station setting",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "顺序与证据"
       ]
@@ -10106,7 +10108,7 @@
       ],
       "group_id": "listen_announcement_33",
       "passage_title": "A rowing machine introduction",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件与对象"
       ]
@@ -10186,7 +10188,7 @@
       ],
       "group_id": "listen_announcement_35",
       "passage_title": "A replacement bus stop",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "规则与范围"
       ]
@@ -10346,7 +10348,7 @@
       ],
       "group_id": "listen_announcement_39",
       "passage_title": "Rainwater tank use",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "因果与替代"
       ]
@@ -10426,7 +10428,7 @@
       ],
       "group_id": "listen_announcement_41",
       "passage_title": "Oral-history recording consent",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "程序与责任"
       ]
@@ -10446,7 +10448,7 @@
       ],
       "group_id": "listen_announcement_42",
       "passage_title": "Questions for a public debate",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "推断与篇章"
       ]
@@ -10506,7 +10508,7 @@
       ],
       "group_id": "listen_announcement_43",
       "passage_title": "Camera kit returns",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "责任与程序"
       ]
@@ -10626,7 +10628,7 @@
       ],
       "group_id": "listen_announcement_46",
       "passage_title": "Orchestra tuning time",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "时间与范围"
       ]
@@ -10699,7 +10701,7 @@
       "response_type": "choice",
       "audio_text": "Man: During today's beginner canoe session, stay within the area marked by orange buoys. The markers are a practice boundary, not a route to race around. If you drift beyond them, stop paddling forward and signal the instructor with your raised paddle. We'll begin with turning exercises close to shore; crossing the lake is not part of this session, even for participants who have paddled before.",
       "options": [
-        "Stop moving forward and signal the instructor.",
+        "Stop paddling forward and signal the instructor.",
         "Race around the nearest buoy to rejoin the group.",
         "Lower the paddle and wait without giving any signal.",
         "Keep paddling toward the opposite shore."
@@ -10726,7 +10728,7 @@
       ],
       "group_id": "listen_announcement_49",
       "passage_title": "Collecting an exhibition purchase",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "原因与时间"
       ]
@@ -10806,7 +10808,7 @@
       ],
       "group_id": "listen_announcement_51",
       "passage_title": "Library locker renewal",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件与流程"
       ]
@@ -10906,7 +10908,7 @@
       ],
       "group_id": "listen_announcement_53",
       "passage_title": "A rehearsal with caption timing",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "行动时点"
       ]
@@ -11026,7 +11028,7 @@
       ],
       "group_id": "listen_announcement_56",
       "passage_title": "A reusable-container inspection",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "原因与干扰"
       ]
@@ -11106,7 +11108,7 @@
       ],
       "group_id": "listen_announcement_58",
       "passage_title": "A greenhouse observation window",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "许可与限制"
       ]
@@ -11146,7 +11148,7 @@
       ],
       "group_id": "listen_announcement_59",
       "passage_title": "A survey link sent twice",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "原因与范围"
       ]
@@ -11269,7 +11271,7 @@
         "Adding reflective panels to preserve the musical effect.",
         "Choosing furnishings according to the teacher's voice alone."
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "推断",
         "原则应用"
@@ -11353,7 +11355,7 @@
         "Counting all flowers once during the warmest afternoon.",
         "Listing the bird species present when the flowers open."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "研究方法",
         "信息整合"
@@ -11416,7 +11418,7 @@
         "It provides stronger evidence of age than the original handle.",
         "Its demonstration may differ from the original experience."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "推断",
         "模型局限"
@@ -11519,7 +11521,7 @@
         "Its distance from the water will increase at a fixed rate.",
         "Its apparent safety may change as the channel moves."
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "推断",
         "动态风险"
@@ -11686,7 +11688,7 @@
         "Treat the longer sidewalk as proof that no direct connection is needed.",
         "Ignore the shortcut because wet ground makes its evidence worthless."
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "推断",
         "方案评价"
@@ -12166,7 +12168,7 @@
         "It removes the need to represent the play's setting in the final design.",
         "It allows viewing problems to be addressed before full-size construction."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "细节",
         "工具作用"
@@ -12562,7 +12564,7 @@
         "It encourages immediate growth when autumn briefly becomes warm.",
         "It allows a seed to grow without moisture after the cold period."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "细节",
         "适应作用"
@@ -12914,7 +12916,7 @@
         "The dark-leaf pattern protects living moths from every predator.",
         "The moth was harder for those viewers to detect in that image."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "实验结论范围"
       ]
@@ -13183,7 +13185,7 @@
         "Assume that every forward motion cancels every backward motion exactly.",
         "Record one instant when the object reaches its highest point."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "测量方法"
       ]
@@ -13308,7 +13310,7 @@
         "A denser planting can be assumed to handle storms beyond the site's capacity.",
         "The design should be judged by how quickly water reaches the drains."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "细节",
         "必要条件"
@@ -13413,7 +13415,7 @@
         "They may help readers detect weaknesses in the narrator's interpretation.",
         "They prove that the author shares the narrator's evaluation of the events."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "推断",
         "事实与评价"
@@ -15432,7 +15434,7 @@
         "I'll take the charts; you've outlined the opening well.",
         "The charts were made in the computer lab."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "交际意图",
         "语境回应"
@@ -15489,7 +15491,7 @@
         "I brought my loyalty card for this cafe.",
         "The cafe serves the same lunch every day."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "交际意图",
         "语境回应"
@@ -15546,7 +15548,7 @@
         "Sure, each of us can pay a third.",
         "Three taxis are waiting outside the station."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "交际意图",
         "语境回应"
@@ -15565,7 +15567,7 @@
         "The phone signal is strongest by the door.",
         "You can make the text larger on your screen."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "交际意图",
         "语境回应"
@@ -15660,7 +15662,7 @@
         "We rushed through the last part yesterday.",
         "Good idea; we can meet at seven thirty."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "交际意图",
         "语境回应"
@@ -15812,7 +15814,7 @@
         "Your bag seems large enough for the trip.",
         "I can show you the station's route map."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "交际意图",
         "语境回应"
@@ -16420,7 +16422,7 @@
         "I'll compare it with the customer's latest email.",
         "We can send two packages to be safe."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "交际意图",
         "语境回应"
@@ -16553,7 +16555,7 @@
         "We should finish all the talks before lunch.",
         "I can go before you if that helps."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "交际意图",
         "语境回应"
@@ -16572,7 +16574,7 @@
         "We should ask for a second set of supplies.",
         "I'll pack something to eat, then."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "交际意图",
         "语境回应"
@@ -16876,7 +16878,7 @@
         "I worked the same shift last Friday.",
         "The calendar has Friday marked in blue."
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "交际意图",
         "语境回应"
@@ -17249,17 +17251,17 @@
       "task_type": "listen_choose_response",
       "prompt": "Choose the best response to the speaker.",
       "response_type": "choice",
-      "audio_text": "Woman: It's a useful example, although I wouldn't use it as evidence that the policy always works.",
+      "audio_text": "Woman: So much for our quiet study room. The choir's booked the room next door again, and I can already hear them warming up.",
       "options": [
-        "Let's call it evidence that the policy failed outside this setting.",
-        "We can use this case to show the policy works wherever conditions are similar.",
-        "Let's quote the result and leave out the circumstances to keep the claim simple.",
-        "We can present it as one case and mention its limits."
+        "I'll confirm this booking since the room is advertised as quiet.",
+        "Let's ask for seats in the room where the choir is rehearsing.",
+        "We can start early next time, so there's no need to move today.",
+        "Let's see whether there's a room farther from the rehearsal space."
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "交际意图",
-        "语境回应"
+        "语气与隐含态度"
       ]
     },
     {
@@ -17553,17 +17555,17 @@
       "task_type": "listen_choose_response",
       "prompt": "Choose the best response to the speaker.",
       "response_type": "choice",
-      "audio_text": "Woman: The reviews are positive, although most were written by people who received a free sample.",
+      "audio_text": "Woman: Thanks for offering to bring all the food, but I'd hate for you to spend the whole morning cooking. A salad would be plenty.",
       "options": [
-        "We should look for feedback from paying customers too.",
-        "Let's compare only the sample reviews, since those users had time to test it.",
-        "Let's discard praise and keep complaints.",
-        "Let's rely on the number of positive reviews without checking who wrote them."
+        "All right, I'll bring a salad and leave the rest to the group.",
+        "Great, I'll make the whole meal as you suggested.",
+        "No food from me, then; I won't bring anything.",
+        "I'll cook everything the night before and bring it all."
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "交际意图",
-        "语境回应"
+        "礼貌表达与范围"
       ]
     },
     {
@@ -17579,7 +17581,7 @@
         "I'll state the figures, the assumptions, and how I calculated them.",
         "We can't estimate anything until the future is certain."
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "交际意图",
         "语境回应"
@@ -17902,7 +17904,7 @@
         "We can move the qualifications to our private notes and shorten the public version.",
         "I'll leave all the repeated examples so the qualification isn't lost."
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "交际意图",
         "语境回应"
@@ -18168,7 +18170,7 @@
         "I'll wait for allocation and leave our preference unanswered.",
         "Let's choose a room now and ask the organizer to reserve it as agreed."
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "交际意图",
         "语境回应"
@@ -18218,17 +18220,17 @@
       "task_type": "listen_choose_response",
       "prompt": "Choose the best response to the speaker.",
       "response_type": "choice",
-      "audio_text": "Man: The survey tells us what current members think, not why other people haven't joined.",
+      "audio_text": "Man: If I say yes to one more committee, I might as well move my bed into the office.",
       "options": [
-        "We can ask the same members why they think other people stay away.",
-        "Let's compare current members' answers by how recently they joined.",
-        "We can infer people's reasons from the membership totals alone.",
-        "We could speak to nonmembers before drawing that conclusion."
+        "Great, I'll add your name to the next committee.",
+        "Would you like me to find space for a bed near your desk?",
+        "I'll confirm you'll join once we find a meeting room nearby.",
+        "It sounds as if you'd rather pass on this one."
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "交际意图",
-        "语境回应"
+        "夸张与隐含态度"
       ]
     },
     {
@@ -18570,7 +18572,7 @@
         "Sign the collection sheet."
       ],
       "audio_text": "Woman: I think I left my umbrella near the entrance yesterday. It's dark blue.\nMan: We have two blue ones. Does yours have a straight handle or a curved one?\nWoman: A curved wooden handle, with a little silver label. I wrote my initials on it.\nMan: Then this looks promising. What are the initials?\nWoman: M R. The last letter is a bit faded.\nMan: Yes, that's what I can see. Please sign this collection sheet.\nWoman: Thank you. I nearly bought another one on the way here.\nMan: Glad you checked first. We keep found items for a month.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "行动顺序"
       ]
@@ -18610,7 +18612,7 @@
         "The coins already inserted can still be used for this cycle."
       ],
       "audio_text": "Man: I've put the coins in, but the dryer isn't moving. Is it broken?\nWoman: The display says the door is open. Try pushing it until you hear a click.\nMan: There it goes. I didn't want to force it.\nWoman: The latch is a little stiff. I've reported it, but it still closes properly.\nMan: Do I need to add more coins now?\nWoman: No, your time hasn't started yet. Choose the temperature and press the green button.\nMan: Great. I'll use low heat for these shirts.\nWoman: And check the notice before putting anything on top. That space needs to stay clear.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "细节与否定"
       ]
@@ -18670,7 +18672,7 @@
         "Ask readers to remove the introductory pages."
       ],
       "audio_text": "Man: My copy of the novel has different page numbers from the one on your reading list.\nWoman: Is it the edition with the author's interview at the beginning?\nMan: Yes. I bought it used, so I hope I don't need another copy.\nWoman: You don't. The story is the same. I'll send the chapter titles for each meeting as well as the page ranges.\nMan: That would help. For Thursday, do we stop before the chapter about the train?\nWoman: Include that chapter, but don't start the next one.\nMan: All right. And the interview?\nWoman: Optional for now. We'll discuss it after finishing the novel, since it reveals the ending.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "问题解决"
       ]
@@ -18690,7 +18692,7 @@
         "Only the woman owns an edition containing it."
       ],
       "audio_text": "Man: My copy of the novel has different page numbers from the one on your reading list.\nWoman: Is it the edition with the author's interview at the beginning?\nMan: Yes. I bought it used, so I hope I don't need another copy.\nWoman: You don't. The story is the same. I'll send the chapter titles for each meeting as well as the page ranges.\nMan: That would help. For Thursday, do we stop before the chapter about the train?\nWoman: Include that chapter, but don't start the next one.\nMan: All right. And the interview?\nWoman: Optional for now. We'll discuss it after finishing the novel, since it reveals the ending.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "隐含目的"
       ]
@@ -18770,7 +18772,7 @@
         "Remove the picture from the design."
       ],
       "audio_text": "Man: These envelopes look too small for the invitations we printed.\nWoman: Did you fold an invitation first? The design is meant to fold in half.\nMan: Oh, I was measuring the full sheet. Let me try one. It fits, but the picture ends up inside.\nWoman: Turn the fold the other way. The picture should face out, and the map should be on the inside.\nMan: Now it makes sense. Should we fold the whole pile?\nWoman: Let's get one approved by the event organizer before doing all two hundred.\nMan: I'll take this sample to her office, then. We can save the rest for after lunch.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "行动顺序"
       ]
@@ -18890,7 +18892,7 @@
         "To measure how damp the costumes are."
       ],
       "audio_text": "Woman: Shall I put all the costumes in those plastic boxes after the show?\nMan: The hats can go in, but hang the coats first. They're still damp from the outdoor scene.\nWoman: We need the room clear by morning. Could I close the boxes loosely?\nMan: Better to leave the coats on the rack in the ventilated storeroom. I'll unlock it.\nWoman: Should the character labels stay on the hangers?\nMan: Yes. We need to find each coat quickly tomorrow, and several look alike.\nWoman: I'll carry the rack over after the actors change. You can take the hat boxes.\nMan: Deal. I'll make sure the storeroom aisle stays clear.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "目的"
       ]
@@ -18910,7 +18912,7 @@
         "The woman removed a stamp from an earlier purchase."
       ],
       "audio_text": "Man: I think this purchase should fill my stamp card.\nWoman: You're one stamp short. The last mark is the shop logo, not a purchase stamp.\nMan: Ah, they're similar. I was planning to use the free drink for my friend today.\nWoman: Today's purchase will fill the card, but the reward can be used from your next visit.\nMan: So I can save it for Saturday, when we're both here?\nWoman: Certainly. It doesn't expire until the end of next month.\nMan: Fine. I'll pay for both drinks today and bring the card back Saturday.\nWoman: I'll write the expiry date clearly on the back.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "更正"
       ]
@@ -18990,7 +18992,7 @@
         "To teach the singers how to play keyboard."
       ],
       "audio_text": "Woman: Could you play the keyboard at our rehearsal on Wednesday? Our regular player is away.\nMan: I can help, but I haven't seen the music. Is it a full run of the show?\nWoman: Only the first act. We mainly need the singers to practice their entrances.\nMan: If you send me the score today, I can prepare the sections they need. I won't promise every accompaniment will be polished.\nWoman: That's fine. Clear cues matter more than a finished performance this week.\nMan: Then count me in. Can we start with the section that changes tempo?\nWoman: Yes, I'll mark it in the score so you can find it.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "目的"
       ]
@@ -19130,7 +19132,7 @@
         "Move the board to her office."
       ],
       "audio_text": "Man: Can I erase the whiteboard? I need it for a group meeting in ten minutes.\nWoman: Most of it is mine. I've photographed the diagram, but the numbers in the corner belong to Lina.\nMan: She isn't here. Should I copy them onto paper?\nWoman: A photo would preserve the layout better. Send it to her and ask whether she's finished with it.\nMan: What if she doesn't reply before the meeting?\nWoman: Use the clean half first. There should be enough space to start.\nMan: All right. I'll leave her corner alone until we hear back.\nWoman: Thanks. My diagram can go now.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件行动"
       ]
@@ -19150,7 +19152,7 @@
         "To avoid returning the prints to their owners."
       ],
       "audio_text": "Woman: Should I put my name on each photograph for the club critique?\nMan: On the back, please. We'll display the front without names during the first discussion.\nWoman: To stop people being influenced by who took it?\nMan: That's the idea. After everyone comments, the photographer can explain the choices behind the image.\nWoman: I'd like to hear the reactions before saying I used a phone. People sometimes focus on the equipment.\nMan: Then this format should help. Bring two prints, and choose one you still have questions about.\nWoman: Not just my most successful one, then.\nMan: Right. An unresolved problem can give us something useful to discuss.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "目的"
       ]
@@ -19170,7 +19172,7 @@
         "A photograph made by someone outside the club."
       ],
       "audio_text": "Woman: Should I put my name on each photograph for the club critique?\nMan: On the back, please. We'll display the front without names during the first discussion.\nWoman: To stop people being influenced by who took it?\nMan: That's the idea. After everyone comments, the photographer can explain the choices behind the image.\nWoman: I'd like to hear the reactions before saying I used a phone. People sometimes focus on the equipment.\nMan: Then this format should help. Bring two prints, and choose one you still have questions about.\nWoman: Not just my most successful one, then.\nMan: Right. An unresolved problem can give us something useful to discuss.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "隐含建议"
       ]
@@ -19250,7 +19252,7 @@
         "A motor borrowed from a different project."
       ],
       "audio_text": "Woman: Our model cart keeps turning left. Should we buy a stronger motor?\nMan: Let's check whether the wheels turn freely first. A stronger motor won't necessarily fix uneven resistance.\nWoman: This rear wheel rubs against the frame when I spin it.\nMan: There may be too little space beside it. Can we shift the washer and test it by hand?\nWoman: Yes. Now both rear wheels spin more easily.\nMan: Good. Try it with the existing motor before changing anything else.\nWoman: It's moving straighter already. I'll record what we adjusted.\nMan: And keep the original measurement. We may need to explain the difference in our report.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "行动顺序"
       ]
@@ -19270,7 +19272,7 @@
         "Only the smoothest version."
       ],
       "audio_text": "Man: I recorded my practice answer three times. Which version should I bring to our feedback session?\nWoman: Bring the first and the last. Then we can hear what changed.\nMan: The first has more pauses. I was going to delete it.\nWoman: Those pauses may show where you had trouble organizing the idea. The smoother version alone won't tell us that.\nMan: Should I write down every word first?\nWoman: Just note the question and what you tried to improve. We'll listen before discussing details.\nMan: So the session isn't just about choosing my best recording.\nWoman: Right. It's about understanding what helped you improve.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "细节"
       ]
@@ -19290,7 +19292,7 @@
         "They guarantee that the last recording has no problems."
       ],
       "audio_text": "Man: I recorded my practice answer three times. Which version should I bring to our feedback session?\nWoman: Bring the first and the last. Then we can hear what changed.\nMan: The first has more pauses. I was going to delete it.\nWoman: Those pauses may show where you had trouble organizing the idea. The smoother version alone won't tell us that.\nMan: Should I write down every word first?\nWoman: Just note the question and what you tried to improve. We'll listen before discussing details.\nMan: So the session isn't just about choosing my best recording.\nWoman: Right. It's about understanding what helped you improve.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "原因"
       ]
@@ -19370,7 +19372,7 @@
         "The shelf is arranged only by publication month."
       ],
       "audio_text": "Woman: Can I leave these textbooks on the exchange shelf? Two have writing in the margins.\nMan: Notes are fine if the pages are readable. Put a description on the slip inside each cover.\nWoman: One also has a missing practice page. Should that stay home?\nMan: Bring it to the desk instead of placing it directly on the shelf. We can check whether it is still useful and label what's missing.\nWoman: I'll separate that one. The others are complete.\nMan: Great. List the edition too. Course reading lists sometimes specify it.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "目的"
       ]
@@ -19410,7 +19412,7 @@
         "Cancel because no stars will be visible at seven."
       ],
       "audio_text": "Man: The sky won't be dark until eight, so why are we meeting at seven?\nWoman: We need daylight to show everyone how to set up the stands and focus on a distant building.\nMan: I thought we'd be looking at stars immediately.\nWoman: That comes later. People find the controls more easily while they can still see them.\nMan: Should I bring a flashlight for packing up?\nWoman: Yes, but keep it pointed down during observations so it doesn't shine into anyone's face.\nMan: Fine. I'll arrive for setup, then. I don't want to miss the instructions.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "决定"
       ]
@@ -19510,7 +19512,7 @@
         "The man through a general shared account."
       ],
       "audio_text": "Woman: My supervisor offered to write a reference for the internship. Should I attach it to my application?\nMan: The application asks referees to upload letters themselves. You enter her email, and the system sends her a link.\nWoman: Then my application will look incomplete until she does it?\nMan: Your part can be submitted first. The reference has a separate deadline, two days later.\nWoman: I'd better tell her that instead of sending her my login details.\nMan: Yes. And check that you type her address correctly. Otherwise she won't receive the invitation.\nWoman: I'll confirm the address with her this afternoon.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "流程"
       ]
@@ -19550,7 +19552,7 @@
         "Ask the audience to memorize a list of accents."
       ],
       "audio_text": "Man: I'm trying a different accent for every character, but I keep forgetting which is which.\nWoman: You could distinguish them with pace and tone instead. The audience needs to follow the conversation, not judge how many accents you can do.\nMan: Would it sound too plain?\nWoman: Listen to the dialogue itself. One character is impatient and interrupts; another hesitates before replying. Those differences are already useful.\nMan: So I should work from their intentions.\nWoman: Exactly. Try the scene without accents once, and see whether the characters remain clear.\nMan: Let's record that version and compare it with yesterday's.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "建议"
       ]
@@ -19590,7 +19592,7 @@
         "The date of the town's next map release."
       ],
       "audio_text": "Woman: The diary says the family crossed Mill Creek, but I can't find it on the current town map.\nMan: Check the historical place-name index. Some streams were renamed, and some names were informal.\nWoman: I assumed the writer meant the Mill River on the other side of town.\nMan: Maybe, but don't combine them just because the names are similar. What else does the diary mention?\nWoman: A stone bridge and a bakery beside it.\nMan: Those details could help compare locations. Note the diary date too.\nWoman: I'll list the clues before deciding which waterway it was.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "主旨"
       ]
@@ -19710,7 +19712,7 @@
         "Having lunch in the community room."
       ],
       "audio_text": "Man: The forecast shows possible rain. Should I tell everyone the picnic is canceled?\nWoman: We booked the community room as a backup. The lunch can still happen; only the games outside depend on the weather.\nMan: The invitation just says 'park picnic.' People may bring folding chairs.\nWoman: Send an update saying the meeting point is the community room entrance. We'll decide about going outside after lunch.\nMan: Should I ask people to reply again?\nWoman: Only if their attendance has changed. We already have the food numbers.\nMan: I'll make that clear so nobody thinks they need to register twice.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "范围"
       ]
@@ -19730,7 +19732,7 @@
         "Only people who own a folding chair."
       ],
       "audio_text": "Man: The forecast shows possible rain. Should I tell everyone the picnic is canceled?\nWoman: We booked the community room as a backup. The lunch can still happen; only the games outside depend on the weather.\nMan: The invitation just says 'park picnic.' People may bring folding chairs.\nWoman: Send an update saying the meeting point is the community room entrance. We'll decide about going outside after lunch.\nMan: Should I ask people to reply again?\nWoman: Only if their attendance has changed. We already have the food numbers.\nMan: I'll make that clear so nobody thinks they need to register twice.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件整合"
       ]
@@ -19770,7 +19772,7 @@
         "Ask another team to supply a new word."
       ],
       "audio_text": "Woman: We've solved all four clues, but the letters still don't make a word.\nMan: We entered them in the order we found them. Did the instruction say to do that?\nWoman: It says to arrange the answers from the oldest pictured building to the newest.\nMan: Then our answers may be fine. We need to check the dates under the pictures.\nWoman: The clock tower comes first, then the station. I had those reversed.\nMan: Try changing the order before solving the clues again.\nWoman: That works! We were correcting answers that weren't wrong.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "行动顺序"
       ]
@@ -19810,7 +19812,7 @@
         "Before being allowed to watch any demonstration."
       ],
       "audio_text": "Man: Is the new-member session a workout? I brought regular shoes, not my trainers.\nWoman: Today is a tour and equipment demonstration. You can watch without using the machines.\nMan: Good. I mainly want to learn how to adjust the seats and book a locker.\nWoman: We'll cover both. If you'd like to try a machine, book a supervised introduction on another day and bring your trainers then.\nMan: Can I arrange that after the tour?\nWoman: Yes, at reception. The tour finishes there.\nMan: Perfect. I'll join now and make the exercise appointment afterward.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "计划"
       ]
@@ -19930,7 +19932,7 @@
         "Disconnect every cable from the workstation."
       ],
       "audio_text": "Woman: This monitor is too low for me. Can we put a box underneath it?\nMan: The stand adjusts. Hold the base while lifting the screen gently.\nWoman: Oh, that's much better. I thought it was fixed.\nMan: We use the desk at different times, so adjust it whenever you sit down. Just leave enough cable behind it.\nWoman: Should I lower it again when I finish?\nMan: No need. I'll set it to my position when I arrive.\nWoman: Then I'll put the spare box back in the cupboard.\nMan: Thanks. It would only take up space here.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "话语理解"
       ]
@@ -19970,7 +19972,7 @@
         "Containers packed away for use after the ceremony."
       ],
       "audio_text": "Man: The flowers arrived early. Shall I arrange them on the outdoor tables now?\nWoman: The ceremony isn't until tomorrow morning. Let's keep them in the cool workroom overnight.\nMan: I thought arranging everything today would save time.\nWoman: We can prepare the empty containers and place cards now. The flowers can go out shortly before people arrive.\nMan: Then I'll label the containers by table number.\nWoman: Good idea. Leave a clear space on the workroom bench so I can sort the stems.\nMan: I'll move the packing boxes to recycling before starting.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "计划"
       ]
@@ -19990,7 +19992,7 @@
         "Every jar in the studio contains exactly the same glaze."
       ],
       "audio_text": "Woman: This liquid glaze looks gray, but the sample tile is green. Did I pick up the wrong jar?\nMan: Check the code. If it matches the tile, you're fine. The color before firing isn't a reliable guide to the final color.\nWoman: The codes match. How thick should I apply it?\nMan: Use the demonstration tile with two coats as your guide. That shows how this glaze behaves with the clay we're using.\nWoman: I'll do a small test tile too, since my carved lines are deeper.\nMan: Sensible. Keep the test beside your notes so you can repeat the result.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "原因"
       ]
@@ -20030,7 +20032,7 @@
         "Its license permits only one borrower at a time."
       ],
       "audio_text": "Man: It's an online audiobook. Why do I have to wait for someone to return it?\nWoman: The library's license allows one borrower at a time for this title. Digital doesn't always mean unlimited access.\nMan: Is there another way to start it today?\nWoman: We have the printed book on the shelf. You could borrow that while waiting for the audio version.\nMan: I'd prefer audio for the commute, but I could read the first chapters tonight.\nWoman: I'll keep your audio reservation active, then.\nMan: Thanks. I don't want borrowing the print copy to cancel my place in line.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "原因"
       ]
@@ -20090,7 +20092,7 @@
         "If the jar or its lid changes."
       ],
       "audio_text": "Woman: I brought my own jar for the rice. Should I fill it before weighing it?\nMan: Weigh the empty jar first. We'll record that amount and subtract it from the filled weight.\nWoman: Otherwise I'd pay for the jar's weight as well as the rice.\nMan: Exactly. Put this label on the lid, where the cashier can read it.\nWoman: Can I use the same label next time?\nMan: If it's the same jar and lid, yes. If you change either, have it weighed again.\nWoman: I'll keep them together, then.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件"
       ]
@@ -20130,7 +20132,7 @@
         "Delete the ticket app after saving the receipt."
       ],
       "audio_text": "Man: I saved a screenshot of my ticket so I can show it even without a connection.\nWoman: This bus uses a changing code in the ticket app. A screenshot won't be accepted.\nMan: Will the app work if the signal is weak at the stop?\nWoman: Open the purchased ticket before leaving while you're connected. The help page says it can then display offline for the journey.\nMan: I'll try that now. And I'll charge the phone.\nWoman: Good. The purchase receipt is useful for support, but it isn't the boarding ticket.\nMan: Right, I'll show the live ticket screen.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件顺序"
       ]
@@ -20170,7 +20172,7 @@
         "The court could be reassigned to another player."
       ],
       "audio_text": "Woman: My doubles partner is stuck on the bus. Should I give up our court?\nMan: We have it for an hour, and she's only ten minutes late. You can warm up with me while we wait.\nWoman: Won't that interrupt your practice?\nMan: I'm working on serves. Returning them would help me too.\nWoman: Great. When she arrives, I'll move back to our side.\nMan: Fine. Just don't tell the desk you're canceling; they might give the court to someone else.\nWoman: I'll message her that we're keeping it.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "后果"
       ]
@@ -20190,7 +20192,7 @@
         "A guaranteed increase in rainfall across the whole region."
       ],
       "audio_text": "Man: My rain gauge recorded much more water than yours last night. They're the same model.\nWoman: Where did you put it?\nMan: Beside the shed, under the edge of the roof, so it wouldn't be knocked over.\nWoman: Water could have dripped from the roof into it. That wouldn't represent only the rain falling straight into the gauge.\nMan: Then I should move it to an open spot for the next measurement.\nWoman: Yes, and keep a note of the original location. Don't simply replace yesterday's number with mine.\nMan: I'll mark that reading as affected by the placement.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "原因"
       ]
@@ -20230,7 +20232,7 @@
         "The flower photograph contains no visible flowers."
       ],
       "audio_text": "Woman: Can you identify this plant from the picture? I photographed the flowers.\nMan: It could be one of two common garden plants. Do you have a picture of the leaves or the whole plant?\nWoman: No, just the close-up. I thought the flower was the main clue.\nMan: It helps, but the leaf arrangement would separate these two possibilities.\nWoman: The plant is still outside the library. I'll take another photo without picking anything.\nMan: Include where the leaves join the stem, and note whether it grows as one upright stem or a spreading patch.\nWoman: Then we can compare both possibilities properly.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "证据用途"
       ]
@@ -20410,7 +20412,7 @@
         "The pickup time tomorrow."
       ],
       "audio_text": "Woman: I ordered twenty-four rolls for tomorrow, but our group is now only eighteen.\nMan: I can change the order if you decide before noon today.\nWoman: We'd like a few extras. Could you make it twenty?\nMan: Certainly. The four whole-grain rolls are included in that twenty, right?\nWoman: Yes, not twenty plus four. Thanks for checking.\nMan: Pickup is still at eleven tomorrow?\nWoman: That's right. I'll bring the same order number.\nMan: I'll update the total and send you a confirmation so you can check it.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "变更范围"
       ]
@@ -20450,7 +20452,7 @@
         "A guarantee that every future task will be identical."
       ],
       "audio_text": "Man: I'd like to volunteer at the museum, but speaking to large groups isn't really my strength.\nWoman: We also need help preparing activity packs. You'd sort materials and check that each pack is complete.\nMan: That sounds more like me. Do I need to know a lot about the exhibits first?\nWoman: We'll explain the activity, but the main requirement is being careful with the packing list.\nMan: I could come on Tuesday afternoons.\nWoman: That's when we prepare for school visits, so it fits well. You can try one session before committing to the term.\nMan: I'd appreciate that.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "意图"
       ]
@@ -20470,7 +20472,7 @@
         "The audience cannot see the entire performance."
       ],
       "audio_text": "Woman: I can't hear your count from behind the curtain when the audience is talking.\nMan: Would a hand signal work? I can stand where you see me without stepping onto the stage.\nWoman: Yes, but let's agree on one signal for 'ready' and another for 'start.' Last time I entered while you were still checking the lights.\nMan: Good point. A raised hand means wait and watch; lowering it will be the cue to enter.\nWoman: Can we run that transition twice before the doors open?\nMan: Absolutely. I'll tell the lighting operator we're practicing the same sequence.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "主旨"
       ]
@@ -20510,7 +20512,7 @@
         "The handwriting of other former building occupants."
       ],
       "audio_text": "Man: I can't tell whether this old inventory says fifteen or fifty chairs.\nWoman: Look at how the writer forms the same numbers elsewhere on the page.\nMan: The final mark resembles the five in this date, but the ink is faded.\nWoman: Then record your uncertainty. Don't choose a value just because one seems more likely for the room.\nMan: Could I put both possible readings in the transcription notes?\nWoman: Yes, and include a close-up reference so someone else can check it.\nMan: I'll keep the original image linked to the note, rather than editing the faint mark.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "证据方法"
       ]
@@ -20570,7 +20572,7 @@
         "All pots must be watered on both days regardless of dampness."
       ],
       "audio_text": "Woman: Could you check my balcony plants while I'm away this weekend?\nMan: Sure. Should I water all of them each morning?\nWoman: Check the soil first. The large pot stays damp longer than the small ones, so they may not all need water together.\nMan: Can you label them so I know which is which?\nWoman: I'll leave notes beside each pot. And please send me a photo if anything looks different from when I left.\nMan: Fine. I'll check on Saturday and Sunday, then return the key Monday.\nWoman: Thanks. I'll leave the watering can by the balcony door.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "目的"
       ]
@@ -20590,7 +20592,7 @@
         "Choose solely by how it feels empty."
       ],
       "audio_text": "Man: Can I borrow your backpack for the field trip? Mine is too small for the notebook and rain jacket.\nWoman: Certainly. Try it with your things inside before deciding whether it fits comfortably.\nMan: Empty, it feels fine.\nWoman: The weight changes how the straps sit. There's an adjustable strap here too.\nMan: I'll pack it tonight and walk around for a few minutes.\nWoman: Good. If it's awkward, the equipment office has other sizes.\nMan: I appreciate the backup. I'll let you know tomorrow rather than discovering a problem at the bus stop.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "建议"
       ]
@@ -20670,7 +20672,7 @@
         "The text in the project table."
       ],
       "audio_text": "Man: My application statement is twenty words over the limit. Does the title count?\nWoman: The instructions exclude the title but include the text in the small project table.\nMan: I didn't count that table. Then I have more cutting to do than I thought.\nWoman: Start with the paragraph that repeats your course list. Those courses already appear elsewhere in the application.\nMan: I'd like to keep the example of the field project.\nWoman: Keep it if it explains your contribution. Removing repetition should come before cutting the example that supports your main point.\nMan: I'll count it again using the stated rules after revising.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "范围"
       ]
@@ -20690,7 +20692,7 @@
         "The title, even though it is outside the limit."
       ],
       "audio_text": "Man: My application statement is twenty words over the limit. Does the title count?\nWoman: The instructions exclude the title but include the text in the small project table.\nMan: I didn't count that table. Then I have more cutting to do than I thought.\nWoman: Start with the paragraph that repeats your course list. Those courses already appear elsewhere in the application.\nMan: I'd like to keep the example of the field project.\nWoman: Keep it if it explains your contribution. Removing repetition should come before cutting the example that supports your main point.\nMan: I'll count it again using the stated rules after revising.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "建议"
       ]
@@ -20710,7 +20712,7 @@
         "A second complete explanation of the same material."
       ],
       "audio_text": "Woman: My talk runs exactly fifteen minutes. That's the slot they gave me.\nMan: Does the slot include questions? The program says each speaker gets fifteen minutes in total.\nWoman: You're right. If I use all of it, there won't be any discussion.\nMan: Aim for eleven or twelve minutes of prepared material. Keep the extra chart in reserve in case someone asks about it.\nWoman: I was worried that leaving it out would make the talk seem incomplete.\nMan: The main argument is clear without it. You can use it to answer a specific question more effectively.\nWoman: I'll practice the shorter version tonight.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "范围"
       ]
@@ -20770,7 +20772,7 @@
         "One sheet with both sides as a test."
       ],
       "audio_text": "Man: The back page is upside down when I turn this handout over.\nWoman: Which edge did you choose for two-sided printing?\nMan: The short edge. I wasn't sure what that meant.\nWoman: For this portrait layout, try the long-edge setting so it turns like a book.\nMan: Should I print the remaining copies now?\nWoman: Print one test sheet first, including both sides. We don't need another stack with the same problem.\nMan: Good idea. The front looks fine, so I'll check the back before sending the whole job.\nWoman: I'll hold the stapler until it's confirmed.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "步骤"
       ]
@@ -20810,7 +20812,7 @@
         "That both pairs were returned."
       ],
       "audio_text": "Woman: I ordered these shoes in two sizes to compare them. Can I return the smaller pair here?\nMan: Yes, if they've only been tried on indoors and you have the order confirmation.\nWoman: They've been on my carpet, and I kept the box. The larger pair is the one I wore outside.\nMan: Then bring up the confirmation on your phone. I'll match the item number on this box.\nWoman: Will returning one pair affect the other pair's receipt?\nMan: You'll get an updated receipt showing which pair you kept.\nWoman: Great. I want to keep that record.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "结果"
       ]
@@ -20950,7 +20952,7 @@
         "She takes a break to check messages after every sentence."
       ],
       "audio_text": "Woman: I keep checking messages while I read, even with the sound turned off.\nMan: Is the screen still lighting up beside your book?\nWoman: Yes. I notice it without meaning to.\nMan: Try putting it in your bag for twenty minutes, then take a planned break to check.\nWoman: I'm waiting for a message from my project partner, though.\nMan: Tell her when you'll next reply. If you agree on a time, you won't need to keep checking whether she's sent it.\nWoman: That would make the break feel less like I'm neglecting the project.\nMan: Exactly. Let's finish one section, then check together.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "原因"
       ]
@@ -21050,7 +21052,7 @@
         "The permanent galleries."
       ],
       "audio_text": "Woman: The sign says admission is free today. Does that include the special photography exhibition?\nMan: The permanent galleries are free. The temporary exhibition still needs a separate ticket.\nWoman: I mainly came for the old city photographs. Are those in the permanent collection?\nMan: Yes, upstairs in Gallery Three. The temporary show is contemporary landscape work.\nWoman: Then I'll visit Gallery Three today and decide about the other show later.\nMan: Take this floor map. The free guided walk starts there at one.\nWoman: Perfect. I have time to join it.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "范围"
       ]
@@ -21270,7 +21272,7 @@
         "The organizer may require them to remove the display table."
       ],
       "audio_text": "Woman: The organizer offered us a corner stall. Should I accept it?\nMan: How much room is there for people to watch the demonstration?\nWoman: The stall itself is larger, but one side opens onto the main entrance aisle.\nMan: We can't let a crowd block that aisle. Ask whether the demonstration can face the inner square instead.\nWoman: The display table could go along that side, with viewers standing inside the marked area.\nMan: If the organizer approves that arrangement, the corner could work well.\nWoman: I'll send a sketch rather than just asking whether a bigger stall is available.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "问题定位"
       ]
@@ -21430,7 +21432,7 @@
         "Check microphone placement with the technician."
       ],
       "audio_text": "Woman: I practiced my speech at home, but this microphone makes every breath sound loud.\nMan: Let's ask the sound technician to help position it before you change the way you speak.\nWoman: I was about to rush through the opening so the audience wouldn't notice.\nMan: Rushing may make the words harder to follow. Read a few lines at your normal pace while the technician checks the setup.\nWoman: Should I hold it exactly as I will during the speech?\nMan: Yes. The check is more useful if it matches the actual delivery.\nWoman: I'll start with the opening paragraph and pause where I normally pause.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "建议"
       ]
@@ -21570,7 +21572,7 @@
         "A delivery receipt."
       ],
       "audio_text": "A quick update for design students: the studio's front door is being painted this afternoon. Please use the courtyard entrance between one and five. Your usual access card works there, so you don't need to collect a key. The front entrance will reopen tomorrow morning. Deliveries should still go to the reception desk in the main building, not through the courtyard.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "细节"
       ]
@@ -21590,7 +21592,7 @@
         "To help assign an appropriately skilled volunteer."
       ],
       "audio_text": "For next week's repair clinic, please send a photograph of your damaged item when requesting an appointment. This helps us match you with a volunteer who has suitable skills. A confirmed appointment doesn't guarantee that the item can be repaired; the volunteer must examine it first. Please bring any loose parts with the item, but leave your own power tools at home.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "目的"
       ]
@@ -21650,7 +21652,7 @@
         "Wait until both rooms have closed."
       ],
       "audio_text": "The main lecture hall is now full. Additional visitors may watch a live feed in Room Twelve across the corridor. Questions from that room can be submitted on paper during the talk, and a volunteer will carry them to the moderator. Both rooms will close when the question period ends. Please keep the corridor clear so visitors can reach the overflow room.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "流程"
       ]
@@ -21770,7 +21772,7 @@
         "Back on the highest refrigerator shelf."
       ],
       "audio_text": "Please label anything you place in the staff refrigerator with your name and the date you plan to remove it. On Friday afternoon, we'll clear items whose removal date has passed. An unlabeled container will go to the collection tray beside reception, not back into the refrigerator. Empty containers should be taken home rather than stored on the food shelves. Blank labels are beside the fridge.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "地点与分类"
       ]
@@ -21790,7 +21792,7 @@
         "Drinks from the bookshop cafe only."
       ],
       "audio_text": "The welcome voucher can be used for one purchase at the campus bookshop before the end of October. It covers books and stationery but not cafe purchases. Please show the voucher before payment. Any unused value from that transaction will not carry over to another visit, so check your basket before asking the cashier to apply it. The voucher cannot be exchanged for cash.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "范围"
       ]
@@ -21890,7 +21892,7 @@
         "Board the train at Platform One."
       ],
       "audio_text": "Passengers for the ten-fifteen service to Brookfield, please proceed to Platform Three. This train was previously listed for Platform One. The departure time has not changed. Platform Three is reached by the footbridge at the far end of the hall; passengers needing step-free access should speak to staff beside the lift. Please do not board the train currently waiting at Platform One.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件行动"
       ]
@@ -21910,7 +21912,7 @@
         "The user's class timetable."
       ],
       "audio_text": "If the library printer charges your account but produces no pages, report the job number at the help desk. Staff can check the record and restore the credit if the job failed. Please don't send the same document repeatedly before reporting it, since each new job may be charged separately. This procedure concerns printing credit; it does not refund money directly to a bank card.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "流程"
       ]
@@ -21930,7 +21932,7 @@
         "One failed job prevents that document from being printed again."
       ],
       "audio_text": "If the library printer charges your account but produces no pages, report the job number at the help desk. Staff can check the record and restore the credit if the job failed. Please don't send the same document repeatedly before reporting it, since each new job may be charged separately. This procedure concerns printing credit; it does not refund money directly to a bank card.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "因果"
       ]
@@ -21970,7 +21972,7 @@
         "To make room for an entering tour group."
       ],
       "audio_text": "Visitors are welcome to sketch in the sculpture gallery using pencils and small notebooks. Please keep doorways clear and use the folding stools provided if you need a seat. Large easels require advance permission because they occupy more floor space. This afternoon's guided tour will pass through at three, so staff may ask sketchers to move briefly while the group enters.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "目的"
       ]
@@ -21990,7 +21992,7 @@
         "Only at the issuing desk."
       ],
       "audio_text": "The study center now lends laptops for use inside this building. Each loan lasts up to three hours, and the laptop must be returned to the desk where it was issued. Taking it to another campus building counts as leaving the permitted area. If your work needs longer, save it to your own account and ask about renewal before the loan expires. Renewal depends on demand.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "范围"
       ]
@@ -22050,7 +22052,7 @@
         "The adviser's office location."
       ],
       "audio_text": "For students booking online advising, all times on the booking page are displayed in the university's local time. The confirmation email includes that time zone explicitly. If you are currently elsewhere, convert the appointment to your location before adding it to a separate calendar. Please check the date as well as the hour, since your local date may differ. Contact advising if the confirmation is unclear.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件细节"
       ]
@@ -22090,7 +22092,7 @@
         "Tell the coordinator at check-in."
       ],
       "audio_text": "Volunteers for Saturday's tree-planting morning should meet at the equipment shed at nine. Staff will demonstrate the planting method before anyone starts. Tools will be provided, but please wear clothes and shoes you can get muddy. If you can only help carry supplies, that is useful too; tell the coordinator at check-in so you can be assigned to the delivery team.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件行动"
       ]
@@ -22110,7 +22112,7 @@
         "The next reader's entire performance."
       ],
       "audio_text": "Each reader at tonight's poetry event has a maximum of four minutes, including any introduction. A yellow light means one minute remains; a red light means please finish your current sentence. Readers with shorter pieces do not need to fill the whole slot. Please give the next person time to reach the microphone before beginning applause again. The host will announce names in the signup order.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "范围"
       ]
@@ -22170,7 +22172,7 @@
         "Collect it after nine, when reservation confirmation resumes."
       ],
       "audio_text": "The online catalog will be unavailable between eight and nine tomorrow morning for maintenance. Books may still be borrowed at the desk using the temporary checkout form. However, staff will not be able to confirm online reservations during that hour. If you have reserved an item, please collect it after nine. Items due tomorrow will not become overdue because of this one-hour interruption.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "时间条件"
       ]
@@ -22210,7 +22212,7 @@
         "Ten minutes only."
       ],
       "audio_text": "We need volunteers to act as visitors while student guides practice tomorrow. You won't need specialist knowledge. Your role is to listen and tell the guides where the explanation becomes unclear. Please save factual corrections for the feedback period rather than interrupting the practice. Each tour lasts twenty minutes, followed by ten minutes of comments. Sign up for a full half-hour session.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "数量整合"
       ]
@@ -22230,7 +22232,7 @@
         "Visitors must help clear the delivery lane."
       ],
       "audio_text": "Because delivery access is delayed, today's craft market will open to visitors at eleven rather than ten. Stallholders may arrive at the usual setup time, but please use the side gate until the delivery lane is cleared. The market will still close at four. This change affects today's event only; next week's opening time remains ten. Updated signs are being placed at both entrances.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "变更"
       ]
@@ -22290,7 +22292,7 @@
         "The separate visitor set."
       ],
       "audio_text": "The sound demonstration begins in five minutes at the center table. You'll hear three short recordings and compare how the same object sounds when struck with different materials. Please remain behind the marked line while the demonstrator handles the objects. Afterward, a separate handling set will be available for visitors to try. The objects on the demonstration table are not part of that visitor set.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "范围"
       ]
@@ -22330,7 +22332,7 @@
         "Assume every payment screenshot is automatically accepted."
       ],
       "audio_text": "For club expense claims, upload the receipt and state the activity it supported. A payment screenshot showing only a total is insufficient if it doesn't identify the purchased items. If the original receipt is missing, contact the treasurer before submitting; alternative evidence must be reviewed individually. Please submit each expense once. Sending the same claim again will not make it move faster through the review queue.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件流程"
       ]
@@ -22370,7 +22372,7 @@
         "To change shoes before class starts."
       ],
       "audio_text": "For the dance class tonight, please bring a clean pair of shoes to change into inside the studio. Outdoor shoes should be left on the rack by the entrance. You don't need special dance shoes for this introductory session. The instructor will begin with basic movements, and you may watch any exercise before trying it. Please arrive early enough to change before six.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "目的"
       ]
@@ -22410,7 +22412,7 @@
         "The guide needs every phone for the demonstration."
       ],
       "audio_text": "During tonight's observatory visit, photography is allowed in the entrance display area. Once we enter the darkened viewing room, put phones and cameras away until the guide says otherwise. Even a bright screen can disturb the viewing conditions. There will be a photo opportunity beside the telescope after the observation period, with the room lights restored. Please wait for that announced opportunity.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "原因"
       ]
@@ -22450,7 +22452,7 @@
         "To prevent any contents from being counted."
       ],
       "audio_text": "At today's river cleanup, ordinary litter goes into the labeled sacks at each station. If you find an object you cannot identify, leave it where it is and tell a team leader; don't carry it to the central pile. Our counting team will record the contents of the filled sacks before collection. Please keep each station's sacks separate so the counts can be linked to the correct location.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "目的"
       ]
@@ -22470,7 +22472,7 @@
         "The organizers are waiting for more live questions."
       ],
       "audio_text": "This evening's public discussion will be streamed live at seven. The edited recording will be posted next week after captions have been checked. Registering for the live stream is not required to watch the later recording. However, only live participants can submit questions during the event. If you are watching later, the question form shown in the video will no longer be accepting submissions.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "原因"
       ]
@@ -22530,7 +22532,7 @@
         "The Friday ticket can still be kept."
       ],
       "audio_text": "Tickets for Friday's student play can be exchanged for Saturday only while seats remain. Please bring the original ticket to the box office by Thursday afternoon. An exchange request does not hold a Saturday seat until staff confirm it. If Saturday is full, you may keep the Friday ticket; it will not be canceled simply because you asked about changing it.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "后果"
       ]
@@ -22570,7 +22572,7 @@
         "Leave bicycles there for the week."
       ],
       "audio_text": "The cycle path beside the sports field is closed at the eastern end this week. Follow the orange signs through the service lane to rejoin it beyond the works. Cyclists should walk their bicycles through the short shared courtyard section. The blue pedestrian signs lead to the main entrance and will not reconnect with the cycle path. Please follow the signs appropriate to your route.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "行动"
       ]
@@ -22590,7 +22592,7 @@
         "By asking everyone to reveal personal details."
       ],
       "audio_text": "For Wednesday's writing workshop, bring two copies of your draft without your name on the front. Put a short identifying code in the top corner and keep a note of that code for yourself. We'll exchange drafts for the first round of feedback, then return them by code. Please remove personal details from the example itself if you don't want classmates to recognize the situation.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "流程"
       ]
@@ -22650,7 +22652,7 @@
         "Submit answers beside unrelated numbers."
       ],
       "audio_text": "Teams in the campus clue trail may visit the stations in any order. The number printed on a clue is its reference number, not a required visiting sequence. Record each answer beside the matching number on your sheet. All teams must return to the starting desk by four, even if some clues remain unsolved. Staff will close the outdoor stations at that time.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "时间条件"
       ]
@@ -22690,7 +22692,7 @@
         "The magnifying-glass box."
       ],
       "audio_text": "After today's geology activity, return each rock specimen to the tray with its matching code. Some specimens look very similar, so don't sort them by color alone. If a label has come loose, leave that specimen on the separate checking table and tell the instructor. Please return the magnifying glasses to the equipment box, not to the specimen trays.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件行动"
       ]
@@ -22710,7 +22712,7 @@
         "The recording has already stopped."
       ],
       "audio_text": "The new light outside the recording booth shows the remaining booking time. A flashing light means five minutes remain; it does not mean the recording has stopped. Please use that time to save your work and clear the booth for the next person. You may continue only after reception confirms an extension. An empty corridor is not confirmation that the booth is available for longer.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "信号"
       ]
@@ -22770,7 +22772,7 @@
         "Only people donating a coat of the same size they need."
       ],
       "audio_text": "For the winter coat exchange, bring clean coats to the collection desk on Friday. Volunteers will check condition and attach size tags before putting them on the racks. Please don't place donations directly among the checked items. You may attend Saturday's exchange even if you have no coat to donate; the event is intended to help usable clothing find someone who needs it.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "范围"
       ]
@@ -22799,7 +22801,7 @@
       "id": "L1174",
       "section": "listening",
       "task_type": "listen_announcement",
-      "prompt": "How may a student contribute without speaking on the recording?",
+      "prompt": "What option does the speaker give students who prefer not to speak?",
       "response_type": "choice",
       "group_id": "listen_announcement_92",
       "passage_title": "Joining a recorded class discussion",
@@ -22810,7 +22812,7 @@
         "Speak from the green row and assume the microphone cannot hear."
       ],
       "audio_text": "Today's seminar will be recorded for absent classmates. If you prefer not to appear on camera, sit in the row marked with green cards. That row is outside the camera's view, but spoken contributions will still be audible. You may submit a written comment to the tutor instead of speaking. Please tell the tutor before class if you need help choosing how to participate.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件选择"
       ]
@@ -22870,7 +22872,7 @@
         "On the separate prize-entry form."
       ],
       "audio_text": "The campus travel survey does not ask for names. After submitting it, you may follow a separate link to enter a prize draw with your email address. The prize-entry form is stored separately from survey answers. Entering the draw is optional and has no effect on whether your survey counts. Please don't put contact details in the survey's open comment box.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "流程"
       ]
@@ -22930,7 +22932,7 @@
         "Before joining the payment queue despite intending to buy."
       ],
       "audio_text": "Each item at the student craft sale has a price tag. This is a fixed-price sale, not an auction. To buy an item, bring its numbered tag to the payment desk; leave the object on display until a volunteer collects it for you. Taking a tag reserves the item only while you are waiting to pay. Please return the tag if you decide not to buy.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件行动"
       ]
@@ -22950,7 +22952,7 @@
         "Some boxes must be brought from off-site storage."
       ],
       "audio_text": "Archive visitors should request boxes by four on the day before their visit. Staff use that time to retrieve material from off-site storage. Requests placed after the deadline may not be ready when you arrive. The reading room itself still opens at nine, but an open room does not mean an unrequested box is already there. Please wait for the retrieval confirmation before planning work around a specific box.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "原因"
       ]
@@ -22970,7 +22972,7 @@
         "The reading-room door being open."
       ],
       "audio_text": "Archive visitors should request boxes by four on the day before their visit. Staff use that time to retrieve material from off-site storage. Requests placed after the deadline may not be ready when you arrive. The reading room itself still opens at nine, but an open room does not mean an unrequested box is already there. Please wait for the retrieval confirmation before planning work around a specific box.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "证据范围"
       ]
@@ -23010,7 +23012,7 @@
         "As expected during practice."
       ],
       "audio_text": "For the first part of rehearsal, we'll cover the studio mirrors. This is to help dancers practice remembering the sequence without relying on their reflection. It is not an assessment, and mistakes are expected. We'll uncover the mirrors later to review alignment. Please keep the covers in place until the instructor removes them, even if you would normally check a movement in the mirror.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "态度"
       ]
@@ -23030,7 +23032,7 @@
         "Ask the driver to search the stage."
       ],
       "audio_text": "After tonight's concert, the performers' bus will leave at ten from the side entrance. Anyone assigned to return equipment should take it to the loading desk before boarding. The driver cannot wait while individuals search for missing cases. If a case is unaccounted for, tell the stage manager immediately; a separate staff team will follow up, while the passenger departure stays on schedule.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "顺序"
       ]
@@ -23050,7 +23052,7 @@
         "Assume it has been returned because the bus is leaving."
       ],
       "audio_text": "After tonight's concert, the performers' bus will leave at ten from the side entrance. Anyone assigned to return equipment should take it to the loading desk before boarding. The driver cannot wait while individuals search for missing cases. If a case is unaccounted for, tell the stage manager immediately; a separate staff team will follow up, while the passenger departure stays on schedule.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "流程整合"
       ]
@@ -23090,7 +23092,7 @@
         "Ignore dates and follow the first sign seen."
       ],
       "audio_text": "New floor maps are available at the library entrance. The local-history collection has moved to the second floor, but its catalog subject labels are unchanged. Older maps still posted in a few study rooms will be replaced this week. Until then, follow the date on the map: copies marked September Update show the current arrangement. Ask at the desk if two signs disagree.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "信息选择"
       ]
@@ -23110,7 +23112,7 @@
         "A list of page numbers without images."
       ],
       "audio_text": "For Friday's sketchbook submission, upload images of the required pages as one ordered file. Keep the original sketchbook; you don't need to hand it in physically. Check that page numbers and faint pencil notes are readable in your images. A successful upload message confirms that the file arrived, not that every image is clear. Review the preview yourself before the deadline.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "细节"
       ]
@@ -23159,18 +23161,18 @@
       "id": "L1192",
       "section": "listening",
       "task_type": "listen_announcement",
-      "prompt": "What changes for the beginner group today?",
+      "prompt": "Which lanes will the beginner group use today?",
       "response_type": "choice",
       "group_id": "listen_announcement_101",
       "passage_title": "A beginner swimming session changes lanes",
       "options": [
-        "The event from swimming to running.",
-        "Its usual meeting time.",
-        "The requirement to have an instructor.",
-        "Its assigned lanes."
+        "Whichever lanes are empty.",
+        "The lanes at the far side.",
+        "All of the pool's lanes.",
+        "The two lanes nearest the entrance."
       ],
       "audio_text": "The beginner swimming session will use the two lanes nearest the entrance today. Experienced swimmers should use the lanes at the far side during that hour. The beginner group still meets at the usual time, and the instructor will check everyone in before entering the water. Please wait on the bench by the noticeboard instead of gathering at the lane end.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "变更范围"
       ]
@@ -23190,7 +23192,7 @@
         "Reading is prohibited throughout the library."
       ],
       "audio_text": "The art-reference shelves will be checked for inventory tomorrow morning. Please ask staff before removing any book from that area during the check. You may still request a book for reading, and staff will record its movement so it isn't mistakenly marked missing. The restriction ends when the signs are removed. It is a tracking measure, not a ban on consulting the collection.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "目的"
       ]
@@ -23250,7 +23252,7 @@
         "The colleague's entire presentation script."
       ],
       "audio_text": "Printed conference posters are ready at the media desk. Bring your order number and check the poster before leaving, especially the title and the bottom edge. Rolls are labeled by order number rather than surname because several presenters share the same family name. If you collect for a colleague, bring that colleague's number as well as your own. Staff will hand out each roll separately.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件行动"
       ]
@@ -23270,7 +23272,7 @@
         "Whether the walk always starts at eight."
       ],
       "audio_text": "Tomorrow's photography walk will go ahead in light rain, but a weather alert for strong winds would move the session indoors. Check the club page at eight for the final location. If we move inside, bring the same camera and one object small enough to place on a desk. Please don't assume light rain alone means cancellation; the update will specify where the group meets.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "行动"
       ]
@@ -23290,7 +23292,7 @@
         "Light rain by itself."
       ],
       "audio_text": "Tomorrow's photography walk will go ahead in light rain, but a weather alert for strong winds would move the session indoors. Check the club page at eight for the final location. If we move inside, bring the same camera and one object small enough to place on a desk. Please don't assume light rain alone means cancellation; the update will specify where the group meets.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件整合"
       ]
@@ -23330,7 +23332,7 @@
         "The dotted evening route on the map."
       ],
       "audio_text": "The shuttle map now includes a dotted line showing the evening service. Solid lines show daytime routes. The dotted section operates only after six; it is not a shortcut available throughout the day. Departure times are printed in the separate timetable beside the map. A route line tells you where the shuttle goes, while the timetable tells you when it is scheduled to leave.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "信息功能"
       ]
@@ -23450,7 +23452,7 @@
         "Only technical problems can be discussed with the guest."
       ],
       "audio_text": "During the online guest session, please put questions in the question panel and use the chat only for technical problems. The moderator will group similar questions before asking the guest, so your exact wording may not be read aloud. If your question is already represented, there is no need to submit it again. The guest has agreed to answer as many topics as time allows.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "原因"
       ]
@@ -23470,7 +23472,7 @@
         "Move to an unreserved classroom."
       ],
       "audio_text": "Reserved study desks must be checked in within fifteen minutes of the booking start. After that, an unused desk may be released to other students. Checking in early does not extend the end time shown on your reservation. Please use the check-in terminal near the stairs, and release your booking yourself if you know you will not come. That makes the desk available sooner.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件"
       ]
@@ -23490,7 +23492,7 @@
         "It makes the booking unlimited for the day."
       ],
       "audio_text": "Reserved study desks must be checked in within fifteen minutes of the booking start. After that, an unused desk may be released to other students. Checking in early does not extend the end time shown on your reservation. Please use the check-in terminal near the stairs, and release your booking yourself if you know you will not come. That makes the desk available sooner.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "时间范围"
       ]
@@ -23530,7 +23532,7 @@
         "Only to watch from outside the room."
       ],
       "audio_text": "Next week's collage class will use clean paper packaging and fabric scraps. Please bring small pieces that you are happy to cut up. Avoid bringing important documents or keepsakes just because they have an interesting texture. Shared scissors and glue will be provided. If you have no materials to contribute, the class supply box will be available, so you can still take part.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "范围"
       ]
@@ -23550,7 +23552,7 @@
         "Every research building on campus."
       ],
       "audio_text": "Conference visitor badges allow entry to the conference hall and the adjoining cafe. They do not open research buildings elsewhere on campus. Anyone scheduled for a laboratory visit must meet the host at the location named in the separate invitation. Please keep the conference badge visible, but don't expect it to replace the host's check-in process for restricted areas.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "范围"
       ]
@@ -23570,7 +23572,7 @@
         "Follow any other visitor into an unrelated laboratory."
       ],
       "audio_text": "Conference visitor badges allow entry to the conference hall and the adjoining cafe. They do not open research buildings elsewhere on campus. Anyone scheduled for a laboratory visit must meet the host at the location named in the separate invitation. Please keep the conference badge visible, but don't expect it to replace the host's check-in process for restricted areas.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件整合"
       ]
@@ -23630,7 +23632,7 @@
         "People boarding the bus."
       ],
       "audio_text": "Volunteers counting passengers today should record the start and end time of each observation. If you leave early, keep your count but note the shorter period. Do not multiply it to invent a full-hour total on the sheet. The research team will handle any later comparisons using the recorded duration. Please count people boarding the bus, not everyone walking past the stop.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "细节"
       ]
@@ -23690,7 +23692,7 @@
         "Tell the stage manager for a measurement check."
       ],
       "audio_text": "Today's rehearsal will use taped outlines where the large scenery pieces will stand. Treat those outlines as occupied space, even though no solid object is there yet. The purpose is to practice movement before the final scenery arrives. Please don't take shortcuts across the marked areas. If a route feels too narrow, tell the stage manager so it can be checked against the actual measurements.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "问题处理"
       ]
@@ -23750,7 +23752,7 @@
         "Assume successful copying proves correct display."
       ],
       "audio_text": "Please copy presentation files to the classroom computer before the session begins. Name each file with the group number, followed by a short title. Copying the file is only the first step: open it on this computer and check that images and fonts appear correctly. If your presentation includes a video, test that too. Keep your own copy until all presentations are over.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "步骤"
       ]
@@ -23810,7 +23812,7 @@
         "Get a spare at the old gate."
       ],
       "audio_text": "The trail history walk leaves from the old gate at two and returns there about forty minutes later. This is a walking discussion, not a visit inside the historic buildings. Please bring the route leaflet so you can compare the old photographs with present-day views. Spare leaflets will be available at the gate. No booking is needed, but please arrive before the group departs.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件行动"
       ]
@@ -23830,7 +23832,7 @@
         "Only already completed Version Two sheets."
       ],
       "audio_text": "Survey volunteers, please use the sheet marked Version Three from this afternoon onward. It clarifies one question without changing the answer choices. Keep completed Version Two sheets in the envelope labeled Earlier Responses; don't copy those answers onto the new form. The coordinator needs to know which wording each person actually heard. Blank old sheets can be returned to the desk.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "细节"
       ]
@@ -23890,7 +23892,7 @@
         "Take another person's storage space."
       ],
       "audio_text": "The workroom closes at eight tonight. Please stop your project by seven forty-five so you have time to clean your station and return tools. That fifteen-minute period is for closing tasks, not additional project work. If a project cannot be moved immediately, ask the supervisor about labeled temporary storage before closing. Do not leave it on a shared table without an arrangement.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件处理"
       ]
@@ -23910,7 +23912,7 @@
         "To publish home addresses beside winning images."
       ],
       "audio_text": "Winners in the campus photograph contest will receive an email tomorrow asking them to confirm their postal address. Please reply within three days if you want the printed certificate sent to you. The award itself remains valid even if you prefer not to receive a paper copy. Certificates collected in person do not require a postal address; mention that preference in your reply.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "目的"
       ]
@@ -24090,7 +24092,7 @@
         "Heat produced by wood versus heat produced by metal."
       ],
       "audio_text": "Here's a familiar puzzle. A metal spoon and a wooden spoon have been sitting in the same room for a long time. A thermometer shows that they are at the same temperature, below the temperature of your hand. Yet the metal feels colder. Why? Your skin responds to the transfer of heat, not simply to a number on a thermometer. Metal carries heat away from the contact area more readily than wood does. Heat therefore leaves your warmer hand more quickly when you touch the metal. The different sensation does not prove that the metal started at a lower temperature. Notice the condition I included: the objects are cooler than your hand. We shouldn't turn this example into a rule that metal must always feel cold. What matters is the direction and rate of energy transfer. This is a useful reminder that a material's temperature and the way it exchanges heat with your skin are related but different properties.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "篇章总结"
       ]
@@ -24150,7 +24152,7 @@
         "The clay has been given a wider shape in every possible case."
       ],
       "audio_text": "Suppose a small solid lump of modeling clay sinks in water. Now imagine shaping the same amount into a wide, hollow little boat. If the shape keeps water out and displaces enough water before its rim goes under, it can float. We haven't made the clay material lighter. We've changed the volume of water the whole shape can push aside while supporting its own weight. The upward force from the water is called buoyancy. For a floating object at rest, that force balances its weight. Students sometimes hear this and conclude that any hollow object will float. Not necessarily. If water enters the hollow part, the situation changes; if the object is too heavy for the water it can displace before submerging, it will sink. The boat example helps us separate the density of the material from the behavior of the complete object, including its shape and the space it encloses.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件整合"
       ]
@@ -24230,7 +24232,7 @@
         "Measuring mass makes the difference in room temperature irrelevant."
       ],
       "audio_text": "Think about a wet cloth drying on a line. Liquid water leaves its surface and enters the air as water vapor. That's evaporation; the cloth doesn't need to reach boiling temperature. Now suppose moist air remains close to the cloth. Moving that air away and replacing it with drier air can allow drying to continue more readily. This is one reason airflow matters. But let's avoid saying that a fan always produces the same drying rate. The surrounding humidity, temperature, and amount of exposed wet surface also matter. If we wanted to test airflow in class, we could start with similar cloths holding similar amounts of water, keep the other conditions comparable, and measure their mass over time. The falling mass would help us track water loss. We would be looking at a process, not merely deciding which cloth feels dry first. Touch might miss small amounts of water that a careful measurement can still detect.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "实验应用"
       ]
@@ -24410,7 +24412,7 @@
         "Different weights and lengths, with the same number of trials."
       ],
       "audio_text": "A pendulum can be as simple as a small weight hanging from a string. Pull it a little to one side and release it. We call one complete trip out and back an oscillation. Now, what determines the time for that trip? For small swings in the same place, the length is important: a longer pendulum takes more time. Adding weight, while keeping the length the same, does not produce the change students sometimes expect. Let's test length with a classroom model. We'll use the same weight, attach it to different string lengths, and start each trial with a similarly small angle. Also, we'll time ten complete oscillations and divide by ten. Why ten? Our reaction when starting or stopping the watch is not perfectly exact. Measuring a longer interval makes that small timing error a smaller part of the total. This doesn't fix every possible problem, of course. If we miscount the trips, the calculation is still wrong. Notice that we're separating two decisions: which physical feature to change, and how to measure its effect. Changing the weight and length together would make the result much harder to explain.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "实验应用"
       ]
@@ -24490,7 +24492,7 @@
         "Distance can affect the sound level heard."
       ],
       "audio_text": "Listen to this imagined pair of tones: the second sounds stronger, but you could sing the same note along with both. What changed? Let's separate pitch from loudness. For a simple tone, pitch is linked to frequency, the number of vibrations in a second. More frequent vibrations give us a higher pitch. Loudness has a different connection. If we keep the frequency fixed and increase the strength of the vibration, we can make that tone louder without making it higher. On a drawing of these simple waves, the spacing of the cycles and their height represent different things. Don't call a taller wave a higher note just because both descriptions use the word high. In our listening demonstration, we'll keep the listener in the same position too. Moving closer to a speaker can change the sound level reaching the listener even when the speaker's setting stays the same. We want to know what we changed at the source, so the listening arrangement needs to stay comparable.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "实验条件"
       ]
@@ -24589,7 +24591,7 @@
         "Paper filtration and evaporation remove the same materials in the same way.",
         "A dissolved substance can remain present when it is invisible."
       ],
-      "audio_text": "Here's a clear cup of water. Suppose we stir in a small amount of salt until the grains are no longer visible. Has the salt disappeared from the system? No. Dissolving spreads it through the water at a scale we can't see with our eyes. An ordinary paper filter won't recover that dissolved salt the way it can catch grains of sand. Now imagine putting some of this salt solution in a shallow dish and letting the water evaporate. Under these ordinary conditions, the salt doesn't leave with the water vapor, so a solid residue remains. This gives us evidence that losing sight of a substance isn't the same as removing it. There's a limit to the demonstration, though. We started with clean water and only salt. If an unknown liquid leaves a residue, appearance alone doesn't identify that residue as salt. To make that claim, we'd need additional evidence about what was in the liquid.",
+      "audio_text": "Here's a clear cup of water. Suppose we stir in a small amount of salt until the grains are no longer visible. Has the salt disappeared from the system? No. Dissolving spreads it through the water at a scale we can't see with our eyes. An ordinary paper filter won't recover that dissolved salt the way it can catch grains of sand. Now imagine putting some of this salt solution in a shallow dish and letting the water evaporate. Under these ordinary conditions, the salt doesn't leave with the water vapor, so a solid residue remains. This gives us evidence that losing sight of a substance isn't the same as removing it. We can now add enough clean water back to the residue and stir. The solid becomes invisible again as it dissolves. We have reversed the separation by mixing the components again; the salt has not been created or destroyed. Notice which part moved out of the dish during evaporation: the water. To repeat the cycle, we restore that missing component. Following both components through the steps explains why a clear liquid can still contain a recoverable solid.",
       "difficulty": "medium",
       "skills": [
         "主旨"
@@ -24609,7 +24611,7 @@
         "Salt appears only in the original cup.",
         "The salt collects in a paper filter."
       ],
-      "audio_text": "Here's a clear cup of water. Suppose we stir in a small amount of salt until the grains are no longer visible. Has the salt disappeared from the system? No. Dissolving spreads it through the water at a scale we can't see with our eyes. An ordinary paper filter won't recover that dissolved salt the way it can catch grains of sand. Now imagine putting some of this salt solution in a shallow dish and letting the water evaporate. Under these ordinary conditions, the salt doesn't leave with the water vapor, so a solid residue remains. This gives us evidence that losing sight of a substance isn't the same as removing it. There's a limit to the demonstration, though. We started with clean water and only salt. If an unknown liquid leaves a residue, appearance alone doesn't identify that residue as salt. To make that claim, we'd need additional evidence about what was in the liquid.",
+      "audio_text": "Here's a clear cup of water. Suppose we stir in a small amount of salt until the grains are no longer visible. Has the salt disappeared from the system? No. Dissolving spreads it through the water at a scale we can't see with our eyes. An ordinary paper filter won't recover that dissolved salt the way it can catch grains of sand. Now imagine putting some of this salt solution in a shallow dish and letting the water evaporate. Under these ordinary conditions, the salt doesn't leave with the water vapor, so a solid residue remains. This gives us evidence that losing sight of a substance isn't the same as removing it. We can now add enough clean water back to the residue and stir. The solid becomes invisible again as it dissolves. We have reversed the separation by mixing the components again; the salt has not been created or destroyed. Notice which part moved out of the dish during evaporation: the water. To repeat the cycle, we restore that missing component. Following both components through the steps explains why a clear liquid can still contain a recoverable solid.",
       "difficulty": "easy",
       "skills": [
         "过程细节"
@@ -24629,7 +24631,7 @@
         "To generalize about every filter.",
         "To contrast filterable grains with dissolved salt."
       ],
-      "audio_text": "Here's a clear cup of water. Suppose we stir in a small amount of salt until the grains are no longer visible. Has the salt disappeared from the system? No. Dissolving spreads it through the water at a scale we can't see with our eyes. An ordinary paper filter won't recover that dissolved salt the way it can catch grains of sand. Now imagine putting some of this salt solution in a shallow dish and letting the water evaporate. Under these ordinary conditions, the salt doesn't leave with the water vapor, so a solid residue remains. This gives us evidence that losing sight of a substance isn't the same as removing it. There's a limit to the demonstration, though. We started with clean water and only salt. If an unknown liquid leaves a residue, appearance alone doesn't identify that residue as salt. To make that claim, we'd need additional evidence about what was in the liquid.",
+      "audio_text": "Here's a clear cup of water. Suppose we stir in a small amount of salt until the grains are no longer visible. Has the salt disappeared from the system? No. Dissolving spreads it through the water at a scale we can't see with our eyes. An ordinary paper filter won't recover that dissolved salt the way it can catch grains of sand. Now imagine putting some of this salt solution in a shallow dish and letting the water evaporate. Under these ordinary conditions, the salt doesn't leave with the water vapor, so a solid residue remains. This gives us evidence that losing sight of a substance isn't the same as removing it. We can now add enough clean water back to the residue and stir. The solid becomes invisible again as it dissolves. We have reversed the separation by mixing the components again; the salt has not been created or destroyed. Notice which part moved out of the dish during evaporation: the water. To repeat the cycle, we restore that missing component. Following both components through the steps explains why a clear liquid can still contain a recoverable solid.",
       "difficulty": "medium",
       "skills": [
         "比较作用"
@@ -24639,20 +24641,21 @@
       "id": "L1266",
       "section": "listening",
       "task_type": "listen_academic_talk",
-      "prompt": "An unknown liquid leaves white material after evaporation. What can be concluded from this talk alone?",
+      "prompt": "A student repeats the evaporation and mixing cycle without spilling any liquid or solid. What should happen to the salt under the conditions described?",
       "response_type": "choice",
       "group_id": "listen_academic_talk_54",
       "passage_title": "Finding the salt after it dissolves",
       "options": [
-        "A residue is present, but its identity needs more evidence.",
-        "The liquid originally contained only table salt and clean water.",
-        "The material must have been removed by the water vapor.",
-        "The original liquid could not have looked clear."
+        "It remains in the dish, alternating between dissolved and solid forms.",
+        "It leaves with the water vapor during each evaporation step.",
+        "It is newly produced from water whenever solid material appears.",
+        "It changes into sand and can then be recovered by ordinary paper filtration."
       ],
-      "audio_text": "Here's a clear cup of water. Suppose we stir in a small amount of salt until the grains are no longer visible. Has the salt disappeared from the system? No. Dissolving spreads it through the water at a scale we can't see with our eyes. An ordinary paper filter won't recover that dissolved salt the way it can catch grains of sand. Now imagine putting some of this salt solution in a shallow dish and letting the water evaporate. Under these ordinary conditions, the salt doesn't leave with the water vapor, so a solid residue remains. This gives us evidence that losing sight of a substance isn't the same as removing it. There's a limit to the demonstration, though. We started with clean water and only salt. If an unknown liquid leaves a residue, appearance alone doesn't identify that residue as salt. To make that claim, we'd need additional evidence about what was in the liquid.",
+      "audio_text": "Here's a clear cup of water. Suppose we stir in a small amount of salt until the grains are no longer visible. Has the salt disappeared from the system? No. Dissolving spreads it through the water at a scale we can't see with our eyes. An ordinary paper filter won't recover that dissolved salt the way it can catch grains of sand. Now imagine putting some of this salt solution in a shallow dish and letting the water evaporate. Under these ordinary conditions, the salt doesn't leave with the water vapor, so a solid residue remains. This gives us evidence that losing sight of a substance isn't the same as removing it. We can now add enough clean water back to the residue and stir. The solid becomes invisible again as it dissolves. We have reversed the separation by mixing the components again; the salt has not been created or destroyed. Notice which part moved out of the dish during evaporation: the water. To repeat the cycle, we restore that missing component. Following both components through the steps explains why a clear liquid can still contain a recoverable solid.",
       "difficulty": "medium",
       "skills": [
-        "证据边界"
+        "application",
+        "sequence"
       ]
     },
     {
@@ -24710,7 +24713,7 @@
         "Only seeds deliberately carried by animals can germinate."
       ],
       "audio_text": "After walking through tall plants, you may find small, rough objects attached to your socks. Some are burs: seed-bearing structures with little hooks. The hooks catch on fibers or animal fur, so the seeds can travel without the animal eating them. Later, when a bur falls off or is rubbed away, it reaches a different place. Why might that matter to a plant? Seeds that all fall directly underneath the parent may compete with it and with one another for space, water, and light. Transport can take some seeds beyond that crowded area. But don't confuse transport with successful growth. A bur might end up on a dry rock where its seeds can't establish themselves. The hooks provide a way to move; they don't select the destination. We also don't need to imagine an animal deciding to help the plant. Ordinary movement through vegetation is enough for this particular method of seed dispersal to work.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "条件推断"
       ]
@@ -24810,7 +24813,7 @@
         "More leaves guarantee more collected water regardless of air conditions."
       ],
       "audio_text": "Leaves can release water vapor even when we don't see liquid on their surfaces. This process is called transpiration. To make it easier to notice, imagine enclosing a leafy branch in a clear, dry bag while the branch remains attached to the plant. Keep the soil outside the bag. Over time, water released by the leaves can collect as droplets on the bag's inner surface. We'd compare that with a similar bag containing no leaves under otherwise comparable conditions. Some moisture may already be present in the air, so merely finding one drop isn't the strongest possible evidence. More accumulated water in the leaf bag would support the leaves' contribution. Now, does the amount in that bag tell us exactly how fast an uncovered branch normally loses water? No. The bag changes the air around the leaves, including its humidity. The demonstration helps reveal a process, but its altered conditions limit what we can conclude about the process's usual rate. That's why demonstrating that something happens and measuring its natural rate can require different arrangements.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "研究设计推断"
       ]
@@ -25230,7 +25233,7 @@
         "Water drawn upward from the table."
       ],
       "audio_text": "A cold drink can leave a wet ring on a table even when its container doesn't leak. Where does the water come from? The surrounding air contains water vapor. Near a sufficiently cold surface, some of that vapor can condense into liquid droplets. Those drops collect on the outside and may run down onto the table. The cold surface helps the change happen; it doesn't manufacture new water. Here's a useful comparison: take two similar sealed metal containers, one cold and one at room temperature, in the same room. If droplets appear on the colder one, an explanation based only on liquid escaping through an open top doesn't fit, because both tops are closed. We still need the surface to be cold enough relative to the moisture conditions in the air. In drier air, the same container may collect much less water, or none. So the amount of outside water is not a direct measurement of how much drink is left inside. We are observing an interaction between a surface and the air around it.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "机制主旨"
       ]
@@ -25310,7 +25313,7 @@
         "Separation based on the chemical identity of each particle."
       ],
       "audio_text": "A sieve separates particles by size. Imagine a dry mixture of fine sand and much larger pieces of gravel. Choose a mesh with holes larger than the sand grains but smaller than the gravel. The sand falls through, while the gravel stays above. Notice what the sieve has identified: size, not the chemical name of each material. If two different materials have particles of the same size, this mesh can't reliably sort one from the other. We would need some other useful difference between them. Also, a hole size that works for one mixture may be unsuitable for another. Before choosing the tool, examine the range of particle sizes and decide which group should pass through. That decision connects the separating method to the actual mixture.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "原理主旨"
       ]
@@ -25350,7 +25353,7 @@
         "The white powder passes through while the black powder stays with the gravel."
       ],
       "audio_text": "A sieve separates particles by size. Imagine a dry mixture of fine sand and much larger pieces of gravel. Choose a mesh with holes larger than the sand grains but smaller than the gravel. The sand falls through, while the gravel stays above. Notice what the sieve has identified: size, not the chemical name of each material. If two different materials have particles of the same size, this mesh can't reliably sort one from the other. We would need some other useful difference between them. Also, a hole size that works for one mixture may be unsuitable for another. Before choosing the tool, examine the range of particle sizes and decide which group should pass through. That decision connects the separating method to the actual mixture.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "多组条件应用"
       ]
@@ -25590,7 +25593,7 @@
         "Whether the bicycle was drawn in the correct color."
       ],
       "audio_text": "Before you draw that bicycle, look at the spaces inside its frame. You'll see shapes bounded by the metal tubes. In drawing, we can pay attention to these spaces as well as to the solid object. They're examples of negative space: the area around or between the forms we're focusing on. Negative doesn't mean bad or unimportant. Here's a useful exercise. Instead of drawing what you remember a bicycle looks like, copy the shapes of those gaps. Their edges also establish the edges of the tubes. If one gap is too wide in your drawing, you have a clue that the surrounding parts need adjusting. You don't have to leave every gap white; the term describes its relationship to the subject, not a required color. Shifting attention in this way can help you check proportions without getting caught up in naming every part of the bicycle.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "空间关系推断"
       ]
@@ -25750,7 +25753,7 @@
         "The audience can still be addressed directly."
       ],
       "audio_text": "Imagine a stage scene in which two characters argue about a missing letter. One character turns toward the audience and says, 'You saw where I put it, didn't you?' For a moment, the spectators aren't merely watching other people talk. They're being addressed. This technique, direct address, changes the relationship between the performance and the people watching it. A production can use it to invite agreement, share a secret, or question the audience's judgment. It needn't require a spoken reply. The actor might pause briefly and then continue the scene. Nor does the technique have one fixed emotional effect. A friendly appeal can make spectators feel included, while an accusation can make them uncomfortable. So when we analyze direct address, identifying the turn toward the audience is only a beginning. We also ask what role the words offer the spectators: witness, supporter, judge, or perhaps someone being challenged.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "范围推断"
       ]
@@ -25830,7 +25833,7 @@
         "A soundtrack alone defines the sequence, so shot order no longer matters."
       ],
       "audio_text": "Let's say we're making a short film about someone learning to repair a violin. We could show every practice session, but that would take hours. Instead, we choose a few shots: a hand slipping, a pile of rejected pieces, a calendar with later dates, and finally a repair that holds. Arranged together, these selected moments can suggest a longer period of effort. This is one use of a montage sequence. Notice that the viewer does some connecting work. No single shot says that a month of improvement has passed; the sequence supplies the relationship. Order matters, too. Put the successful repair first and the failures afterward, and viewers may think the learner is losing confidence or skill. Music can support the sequence, but it isn't what defines it. For our classroom exercise, we'll try the same set of shots in two orders without a soundtrack, then discuss how the implied story changes.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "比较设计推断"
       ]
@@ -25910,7 +25913,7 @@
         "The printed words would acquire new dictionary meanings."
       ],
       "audio_text": "In this design exercise, the words on a poster will stay the same. What we'll change is where each line ends. Suppose the poster says, 'Please return borrowed tools before Friday.' If 'before Friday' remains together, readers can take in the deadline as a unit. Separating 'before' from 'Friday' puts the relationship across two lines, which may be less convenient in a quick glance. A line break can also give a phrase visual emphasis simply by placing it on its own. That doesn't mean every phrase deserves a separate line. Too many breaks can make readers assemble a sentence from scattered pieces. We're balancing groups of meaning, available width, and emphasis. Start by reading the sentence aloud in natural groups. Then try a layout that respects those groups, and check it at the distance from which the poster will actually be read.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "因果推断"
       ]
@@ -26394,7 +26397,7 @@
         "The emphasis shows that red rather than blue is the disputed detail."
       ],
       "audio_text": "Let's use one sentence: 'Maya borrowed the red notebook.' We can keep all the words and still shift the focus by stressing a different word. If we put extra emphasis on Maya, we may be correcting someone who thought Leo borrowed it. If we emphasize red, we may be distinguishing that notebook from a blue one. Notice that the basic event hasn't changed: Maya borrowed a notebook. What changes is the contrast we're inviting the listener to consider. Stress can guide attention toward information that is new, disputed, or especially relevant. But it doesn't spell out every alternative by itself. A strong emphasis on red won't tell us whether the other color was blue, green, or something else unless the context supplies that detail. When interpreting emphasis, connect the highlighted word to the conversation around it rather than inventing a complete missing story.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "重音迁移推断"
       ]
@@ -26414,7 +26417,7 @@
         "To show that the color of a notebook determines who owns it."
       ],
       "audio_text": "Let's use one sentence: 'Maya borrowed the red notebook.' We can keep all the words and still shift the focus by stressing a different word. If we put extra emphasis on Maya, we may be correcting someone who thought Leo borrowed it. If we emphasize red, we may be distinguishing that notebook from a blue one. Notice that the basic event hasn't changed: Maya borrowed a notebook. What changes is the contrast we're inviting the listener to consider. Stress can guide attention toward information that is new, disputed, or especially relevant. But it doesn't spell out every alternative by itself. A strong emphasis on red won't tell us whether the other color was blue, green, or something else unless the context supplies that detail. When interpreting emphasis, connect the highlighted word to the conversation around it rather than inventing a complete missing story.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "例证作用"
       ]
@@ -26554,7 +26557,7 @@
         "Pronouncing either written word gives it the intended meaning."
       ],
       "audio_text": "Consider the words meaning 'a pair of shoes' and 'a pear to eat.' The first is spelled p, a, i, r; the fruit is spelled p, e, a, r. For many English speakers, they sound the same, although their spellings and meanings differ. Words like these are called homophones. Context usually helps. If a sentence is about putting on shoes, the two-item meaning fits; if it is about slicing fruit, the fruit meaning fits. This is why simply reading your sentence aloud may fail to reveal a homophone error. The wrong written word can still sound perfectly acceptable. During revision, look at the meaning each spelling represents and ask whether it fits the sentence. Check written meaning, not just sound.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "机制推断"
       ]
@@ -26634,7 +26637,7 @@
         "It presents part of yesterday's event more vividly."
       ],
       "audio_text": "You may have heard someone tell a story like this: 'Yesterday I was waiting for the bus. Then this dog walks up and takes the seat beside me.' Walks and takes are present-tense forms, but the opening tells us that the event happened yesterday. In some conversational storytelling, a speaker switches into the present to make a past scene feel immediate. We sometimes call this the historical present. The shift doesn't move the event to today. It changes how the teller presents it. Of course, that doesn't mean any tense change will be clear. If the time setting is missing or the shifts are difficult to follow, listeners may become confused. When analyzing a story, use time expressions and the surrounding sequence together. Ask whether a tense shift introduces a vivid part of an established past story or actually signals a different time.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "语篇推断"
       ]
@@ -26714,7 +26717,7 @@
         "Describe every month moment by moment, then summarize the tense instant."
       ],
       "audio_text": "Let's describe one moment in two ways. First: 'A woman waited outside the office.' Now: 'Lena pressed her damp palms together. Why hadn't anyone called her name?' The second version brings us closer to a particular character's physical sensations and immediate concerns. We can discuss this as a change in narrative distance. Distance here isn't measured in meters. It's about how closely the narration engages us with a character's experience. A more distant account can summarize a long period or describe several people efficiently. A closer account can slow a brief moment and direct attention to what it feels like. Neither choice is automatically superior. A writer may begin with a broad view of a busy office and then move closer to one person as her situation becomes central. When revising, ask what the reader needs at that point: a wider overview, an intimate experience, or a controlled movement between the two.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "叙述策略应用"
       ]
@@ -26894,7 +26897,7 @@
         "A sales limit."
       ],
       "audio_text": "Here's a shopping example for our economics class. A box of twelve chalk sticks costs six dollars. A box of twenty-four costs ten dollars. The larger box costs more at checkout, but less per stick. Those are two different comparisons. Dividing price by quantity gives us a unit price, which helps compare package sizes. Does the lower unit price settle the choice? Suppose you need only twelve sticks, have six dollars available, and cannot use the extra chalk later. The small box meets that need. The larger box offers a lower rate, but asks you to spend more money now. A useful comparison includes both the rate and the purchase you can actually use.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "术语含义"
       ]
@@ -27114,7 +27117,7 @@
         "Her rank can fall while her percent correct stays the same."
       ],
       "audio_text": "Imagine that our statistics class invents a report with two numbers for a quiz. The first is percent correct: the share of questions a student answers correctly. The second describes the student's position compared with other students. For this exercise, we'll use a simple percentile-rank rule: compare one student with one hundred others, and report how many of those others scored lower. Assume there are no ties involving our student. This is a classroom illustration, not a scoring rule for a particular examination. Now, Maya answers sixty percent of the questions correctly, and eighty of the hundred comparison students score lower. Her two numbers are sixty and eighty. There is no contradiction. One compares correct answers with quiz questions; the other compares Maya with people. If we keep her answers unchanged but compare her with a stronger group, her relative position can fall while her percent correct stays at sixty. Conversely, answering more questions correctly doesn't guarantee a higher relative position if everyone else improves even more. So, when someone says a score is a percentage, ask: a percentage of what? Questions and people are different denominators. The number alone isn't enough to tell us what was measured. And to compare rankings fairly, we need to know which group supplied the comparison.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "指标区别",
         "条件"
@@ -27360,7 +27363,7 @@
         "The extra practice would remove any effect of the chosen schedule."
       ],
       "audio_text": "We're going to design a classroom exercise about practice schedules. Imagine two groups learning the same set of unfamiliar symbols. One group practices for thirty minutes on Friday. The other practices for ten minutes on Monday, ten on Wednesday, and ten on Friday. Their total practice time is equal, but its distribution is different. Both groups take a test the following Friday. Why wait? A test immediately after practice tells us about performance at that moment. We're interested in what remains after a delay. Now, suppose the spread-out group remembers more symbols on the delayed test. That would favor its schedule in this exercise, provided the groups and their materials were otherwise comparable. It wouldn't show that adding breaks is best for every task or every possible delay. We should also record how well each group did at the end of practice. If we record only one time point, we may confuse easy performance during practice with lasting retention. The comparison needs a clear schedule, equal total practice, and a stated time for measuring the result.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "研究设计推断"
       ]
@@ -27400,7 +27403,7 @@
         "Text labels are understood independently of their location."
       ],
       "audio_text": "Look at the imagined arrangement I'm describing: six identical buttons in one horizontal row. There is a small gap between the first three, a much wider gap, and then three more with small gaps between them. You probably picture two groups. I haven't changed the buttons' colors or added a border; I've changed their spacing. This illustrates grouping by proximity, the tendency to see nearby elements as belonging together. Designers can use it when laying out controls. For example, a label placed close to one group of buttons may seem to describe that group. But proximity is a cue, not a guarantee that the items really have the same function. If the label actually belongs to a more distant group, the spacing can mislead. The designer should bring the intended relationship and the visual relationship into agreement. Before adding another box or heading, it can be useful to ask whether the gaps are already suggesting the right groups.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "主旨"
       ]
@@ -27440,7 +27443,7 @@
         "Matching button colors will guarantee the intended label grouping."
       ],
       "audio_text": "Look at the imagined arrangement I'm describing: six identical buttons in one horizontal row. There is a small gap between the first three, a much wider gap, and then three more with small gaps between them. You probably picture two groups. I haven't changed the buttons' colors or added a border; I've changed their spacing. This illustrates grouping by proximity, the tendency to see nearby elements as belonging together. Designers can use it when laying out controls. For example, a label placed close to one group of buttons may seem to describe that group. But proximity is a cue, not a guarantee that the items really have the same function. If the label actually belongs to a more distant group, the spacing can mislead. The designer should bring the intended relationship and the visual relationship into agreement. Before adding another box or heading, it can be useful to ask whether the gaps are already suggesting the right groups.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "因果关系",
         "视觉分组"

@@ -11,7 +11,7 @@ CLOZE_PASSAGES = [
     ),
     (
         "Soil and rainfall",
-        'Healthy soil contains spaces through which both air and water can move. When {{heavy}} vehicles {{cross}} wet {{ground}}, these {{spaces}} become {{smaller}} and {{water}} moves {{more}} slowly {{through}} the {{soil}} beneath {{plants}}. As a result, rain may collect on the surface instead of reaching plant roots. The problem is not always visible during dry weather, so farmers sometimes test how quickly water enters a small sample. Limiting traffic to permanent tracks can protect the remaining field, although recovery may also require roots and soil organisms to rebuild its structure.',
+        'Healthy soil contains spaces through which both air and water can move. Heavy {{vehicles}} press {{on}} wet {{soil}} and {{reduce}} the {{spaces}} between {{its}} particles. {{As}} a {{result}}, water {{moves}} more {{slowly}} through the ground. Rain may collect on the surface instead of reaching plant roots. The problem is not always visible during dry weather, so farmers sometimes test how quickly water enters a small sample. Limiting traffic to permanent tracks can protect the remaining field, although recovery may also require roots and soil organisms to rebuild its structure.',
     ),
 ]
 

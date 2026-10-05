@@ -109,7 +109,7 @@ for (const viewport of [
     test('four subjects keep readable action, selection, hover and keyboard colors', async ({
       page,
     }, testInfo) => {
-      await expect(page.locator('.brand-mark')).toHaveCSS('color', 'rgb(40, 86, 199)');
+      await expect(page.locator('.brand-mark')).toHaveCSS('color', accent);
       for (const [section, task, count] of [
         ['reading', 'complete_words', 1],
         ['listening', 'listen_choose_response', 8],
@@ -118,7 +118,7 @@ for (const viewport of [
       ]) {
         await openSettings(page, section, task, count);
         await checkRoles(page.locator('#setup-view'));
-        await checkText(page.locator('.setup-heading p'));
+        await checkText(page.locator('.task-bank-count').first());
         await expect(page.locator('.setup-tabs [aria-selected="true"]')).toHaveCSS('color', accent);
         const selected = page.locator('.setup-task-options .setting-choice:has(input:checked)');
         await expect(selected).toHaveCSS('background-color', selectedSurface);
@@ -143,10 +143,10 @@ for (const viewport of [
           await page.screenshot({ path: testInfo.outputPath('setup-palette.png'), fullPage: true });
       }
       await page.locator('#setup-home').click();
-      await expect(page.locator('.brand-mark')).toHaveCSS('color', 'rgb(40, 86, 199)');
+      await expect(page.locator('.brand-mark')).toHaveCSS('color', accent);
       await expect(page.locator('.section-card').nth(1)).toHaveCSS(
         'background-color',
-        'rgb(23, 32, 42)',
+        'rgb(48, 59, 55)',
       );
     });
   });

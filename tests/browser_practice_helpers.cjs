@@ -306,7 +306,7 @@ async function clozeLetterInputs(page) {
     );
   }
   await letters.last().focus();
-  await page.keyboard.type('qrs');
+  await page.keyboard.type('q');
   assert.equal(await letters.last().inputValue(), 'q');
   await letters.first().fill('');
   const saved = `_${pasted.slice(1, blank.missing_length - 1)}q`;

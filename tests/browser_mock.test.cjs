@@ -1,4 +1,5 @@
 const { test, expect } = require('@playwright/test');
+const { expectFullWidth } = require('./browser_layout_helpers.cjs');
 
 test('module timeout sends the last edit without waiting for autosave', async ({
   page,
@@ -103,6 +104,7 @@ async function begin(page) {
   await page.goto('/');
   await page.locator('#open-mocks').click();
   await page.locator('[data-paper=ets-test-1]').click();
+  await expectFullWidth(page.locator('.mock-disclaimer p'));
   await page.locator('#mock-sound-check').click();
   await expect(page.locator('#mock-sound-state')).toContainText('示范已播放');
   expect(await page.evaluate(() => window.mockSpeechVoices)).toEqual(['en-US']);
@@ -713,6 +715,7 @@ test('complete all nine stages including synthetic microphone recording', async 
   } else {
     await expect(page.locator('#mock-view')).toContainText('未安装本地学习解析');
   }
+  await expectFullWidth(firstReview.locator('p:visible'));
   expect(result.objective_total).toBe(84);
   expect(result.pending_review).toBe(13);
   expect(result.review.find((q) => q.kind === 'email').answer).toBe(emailAnswer);

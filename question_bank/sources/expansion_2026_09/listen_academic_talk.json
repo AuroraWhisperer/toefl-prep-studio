@@ -133,7 +133,7 @@
         "explanation": "读懂：问改变用途后应怎样做；“what listeners need”是听者需要听到什么。\n解析：讨论重在听清连续说话，应重新评估吸音与反射。都涉及声音不能推出需求相同；保留音乐效果忽视新用途；只看教师嗓音漏掉房间和听者。\n下次：用途变化题先换成新目标，再用文中原则检验旧方案是否仍合适。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "推断",
           "原则应用"
@@ -141,9 +141,9 @@
         "vocabulary": [
           "acoustic"
         ],
-        "rationale": "新情境要求把乐厅反射需求与讨论清晰度重新比较；重新评估用途得到唯一答案，不能一律保留原配置。原解析有具体操作，保留。",
+        "rationale": "校正 hard 为 medium：新用途须重新评估声学处理，直接延用讲者按活动需要选择的建议，没有更复杂的新约束。",
         "answer_evidence": "A room for rapid conversation and a room for an orchestra don't necessarily need the same treatment.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -277,7 +277,7 @@
         "explanation": "读懂：问怎样研究时间配合；“throughout the season”是整个季节持续记录。\n解析：要比较双方活动期及多年变化。单次花数不能呈现时间重合；单年的首只昆虫漏掉花期与持续活动；鸟种名单改成了另一个对象组合。\n下次：研究问题含时间关系，就记录双方的时间序列，再查次数和对象是否足够。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "研究方法",
           "信息整合"
@@ -285,9 +285,9 @@
         "vocabulary": [
           "flowering"
         ],
-        "rationale": "跨季比较花期与昆虫活动是材料直接给出的研究办法，答题需对应双方及时间范围但无需困难推断；降为适中，原解析保留。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
+        "rationale": "按实际听题要求校正：持续记录花期与昆虫活动并跨年比较是讲者逐项给出的研究做法。",
         "answer_evidence": "You would record flowering dates and insect activity throughout the season, ideally over several years.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -385,7 +385,7 @@
         "explanation": "读懂：问简化机械结构可能意味着什么；“change the experience”是改变使用感受。\n解析：简化会使操作感受与过去有差别，所以展示有局限。精确漆色不能弥补机械差别；模型无法增强原件年代证据；隐瞒改动违背标签说明要求。\n下次：遇到模型简化，追踪被改变的体验，再检查结论是否承认这种局限。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "推断",
           "模型局限"
@@ -393,9 +393,9 @@
         "vocabulary": [
           "mechanism"
         ],
-        "rationale": "简化机构可能改变体验是明示限制，不代表漆色能修复动作或模型能断代。当前适中标签与谨慎may结论恰当。",
+        "rationale": "按实际听题要求校正：现代材料或简化机制会改变体验已明示，无需据新模型自行判断哪些属性失真。",
         "answer_evidence": "Modern wood or a simplified mechanism could change the experience.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -563,7 +563,7 @@
         "explanation": "读懂：问紧靠当前河岸修路的隐患；“a changing corridor”是会变动的河流占用范围。\n解析：河道会移位，今天在岸外不保证以后安全。同一沙堆年年保护忽视冲淤变化；距离固定增长捏造恒速与方向；单张照片不能反映移动速度。\n下次：选址题遇到环境会变，比较当前边界和可能变化范围，再查是否误当静态。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "推断",
           "动态风险"
@@ -571,9 +571,9 @@
         "vocabulary": [
           "corridor"
         ],
-        "rationale": "把河道动态边界用于新步道选址，需联系冲淤、洪水导致的不恒速变化和今日水线局限。唯一审慎结论是安全性会变，保留。",
+        "rationale": "校正 hard 为 medium：讲者已明确提醒按变化中的河道走廊规划步道；正项只是概括安全性可能随河道变化。",
         "answer_evidence": "The space a river may occupy matters as well as the space it occupies now.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -850,7 +850,7 @@
         "explanation": "读懂：问捷径积水时怎样处理；“which connection people need”是人们需要哪两处连通。\n解析：保留通行需求，另找安全实现方式。走的人多不证明雨天安全；已有绕远路不等于没有直达需求；地面有问题也不抹掉痕迹反映的连接需要。\n下次：现有路线有障碍时拆开需求与路线，再检查替代方案能否安全满足同一需求。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "推断",
           "方案评价"
@@ -858,9 +858,9 @@
         "vocabulary": [
           "shortcut"
         ],
-        "rationale": "积水情境要求保留直达需求同时另找安全路线，整合证据价值和实施限制；另外三项分别过信、否认或丢弃证据。保留。",
+        "rationale": "校正 hard 为 medium：积水是原文已有的例子，另找安全办法满足通行需要属于一般的建议应用。",
         "answer_evidence": "It's which connection people need, and how to provide it safely for a wider range of users.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1675,7 +1675,7 @@
         "explanation": "读懂：问小模型的好处；“before anything is built at full size”是正式按实物尺寸建造前。\n解析：先移动墙面、平台检查视线，能提前处理问题。所有人同视角违背多位置检查；无需表现环境丢掉舞台目标；首稿后不能改与模型可试调正相反。\n下次：原型用途题先找它提前检验什么，再确认它是否仍须服务最终目标。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "细节",
           "工具作用"
@@ -1683,9 +1683,9 @@
         "vocabulary": [
           "platforms"
         ],
-        "rationale": "小模型允许实建前移动墙台检验视线，不能取消布景目标或假定单一观众位置。原解释完整。",
+        "rationale": "按实际听题要求校正：在全尺寸制作前移动模型中的墙和平台已给出，其他选项否认模型的基本目的。",
         "answer_evidence": "they can move walls and platforms before anything is built at full size.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2356,7 +2356,7 @@
         "explanation": "读懂：问先冷后暖的意义；“a brief warm spell”是一小段温暖天气。\n解析：先要求冷期，可避免把冬前短暖误当合适生长季。同日萌发没有这种同步保证；此后不需水把温度条件替代水分；秋天短暖便发芽正是该顺序帮助避免的风险。\n下次：季节适应题先找要避开的时机，再核对条件顺序是否被颠倒或省略。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "细节",
           "适应作用"
@@ -2364,9 +2364,9 @@
         "vocabulary": [
           "germination"
         ],
-        "rationale": "先冷后暖帮助避免冬前短暖诱发萌发，不保证同步或免水，原解析准确区分生态作用。",
+        "rationale": "按实际任务校正：冷后转暖能防冬前短暂暖期误萌发，是原文明说的作用。",
         "answer_evidence": "This sequence can help prevent a seed released in autumn from starting during a brief warm spell just before winter.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2963,16 +2963,16 @@
         "explanation": "读懂：问找得较慢能得出什么结论；“those observers”限于参加观察的那些人。\n解析：数据只支持人在该图片中更难发现。所有天敌防护扩大对象；嗅觉无关超出纯视觉实验；真实寿命更长且不受运动影响把搜索时间升级为生存保证。\n下次：模拟实验结论列出对象、场景和测量指标，再核对是否越界到真实生存结果。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "实验结论范围"
         ],
         "vocabulary": [
           "predator"
         ],
-        "rationale": "受试者、图片和检测时间的结论范围已由原文明示，选择原文允许的结论无需困难推理，降为适中。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
+        "rationale": "按实际任务校正：对指定人群和图片的结论由讲者直接说出，其他选项跨到天敌、嗅觉或真实寿命。",
         "answer_evidence": "it was harder for those observers to detect under those conditions.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3427,16 +3427,16 @@
         "explanation": "读懂：问怎样判断漂浮物最终有没有漂走。overall drift 是“一段时间后总体位置的移动”。\n解析：要持续跟踪同一个物体，分清来回起伏和整体位置变化。波峰速度测的是另一对象；某一刻的最高点没有长期信息；前后移动也不能预先认定完全抵消。\n下次：判断是否漂移，记录同一物体一段时间的位置，再检查它是否只是来回重复，还是整体逐渐移向一边。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "测量方法"
         ],
         "vocabulary": [
           "drift"
         ],
-        "rationale": "原文直接说明测量方法，降适中；避免“扣除周期动作”引入不必要计算，改为易操作的同物跨时位置观察。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
+        "rationale": "按实际任务校正：持续追踪物体并分开往复与净移动，是结尾完整给出的操作。",
         "answer_evidence": "follow the object over time and separate its repeated motions from any overall drift.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3642,7 +3642,7 @@
         "explanation": "读懂：问为何只种漂亮花不够；“the soil's ability to absorb water”是土壤吸水下渗的能力。\n解析：花园依靠水进入地下，外观不能保证排水。留水展示把暂存改成观赏水池；越快入管越好与减缓骤增水流相反；密植就能处理超量暴雨忽略土壤和容量限制。\n下次：设计充分性题在可见装饰之外找关键过程，再核对材料条件是否支撑过程。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "细节",
           "必要条件"
@@ -3650,9 +3650,9 @@
         "vocabulary": [
           "depression"
         ],
-        "rationale": "花卉外观不足保证下渗，土壤和容量才支撑功能；另外三项把暂存改展示、密植改无限容量或倒转缓流目标。",
+        "rationale": "按实际任务校正：土壤吸水能力是紧邻强调的条件；本题未提供需要分析的新排水布局。",
         "answer_evidence": "the soil's ability to absorb water is crucial.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3822,7 +3822,7 @@
         "explanation": "读懂：问不可靠叙述中的准确细节有何价值；“question the writer's interpretation”是质疑叙述者的解释。\n解析：细节可提供反证，让读者发现总判断偏差。细节真不保证每个判断真；忽略细节反而丢掉核验依据；作者赞同角色也不能从细节准确推出。\n下次：判断资料可靠性时把观察与解释拆开，再用可核细节检查概括。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "推断",
           "事实与评价"
@@ -3830,9 +3830,9 @@
         "vocabulary": [
           "interpretation"
         ],
-        "rationale": "准确细节可反驳叙述者解释，而非保证其每个判断或作者赞同；原解释很好地区分事实与解读。",
+        "rationale": "按实际任务校正：准确细节能让读者质疑叙述者解释，在讲稿中直接说明。",
         "answer_evidence": "accurate details can allow us to question the writer's interpretation.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {

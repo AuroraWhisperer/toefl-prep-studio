@@ -268,6 +268,43 @@ test('a slow session restore cannot overwrite a newer Back navigation', async ({
   await expect(page.locator('#begin-test-phase')).toBeVisible();
 });
 
+test('a slow mock resume from the picker cannot overwrite a newer Back navigation', async ({
+  page,
+  request,
+}) => {
+  const resources = await (await request.get('/api/v1/resources')).json();
+  test.skip(!resources.mock.length, 'Requires a locally imported mock paper.');
+  const created = await (
+    await request.post('/api/v1/mock/sessions', { data: { paper_id: resources.mock[0].id } })
+  ).json();
+  await page.addInitScript((id) => localStorage.setItem('toefl-mock-session', id), created.id);
+  expect((await request.get('/')).status()).toBe(200);
+  await page.goto('/');
+  await page.locator('#open-mocks').click();
+  await onlyView(page, 'landing-view', '/mocks');
+  const url = `/api/v1/mock/sessions/${created.id}`;
+  let release;
+  const gate = new Promise((resolve) => {
+    release = resolve;
+  });
+  await page.route(`**${url}`, async (route) => {
+    await gate;
+    await route.continue();
+  });
+  const pending = page.waitForRequest((r) => r.url().endsWith(url));
+  await page.locator('#resume-mock').press('Enter');
+  await pending;
+  await page.goBack();
+  const resumed = page.waitForResponse((r) => r.url().endsWith(url));
+  release();
+  await resumed;
+  await page.evaluate(
+    () => new Promise((resolve) => requestAnimationFrame(() => requestAnimationFrame(resolve))),
+  );
+  await onlyView(page, 'landing-view', '/');
+  await expect(page.locator('.app-shell')).toHaveJSProperty('inert', false);
+});
+
 test('two quick Back actions during a failed save restore the active entry without corrupting history', async ({
   page,
   request,

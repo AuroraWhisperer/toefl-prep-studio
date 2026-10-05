@@ -167,11 +167,12 @@ def reset_history(payload: ResetRequest, request: Request):
                 from . import adaptive_test
             except ImportError:
                 import adaptive_test
-            test_sessions = [
-                path
-                for path in adaptive_test.SESSION_DIR.glob('*.json')
-                if adaptive_test.read_session(path.stem)['status'] == 'completed'
-            ]
+            test_sessions = []
+            for path in adaptive_test.SESSION_DIR.glob('*.json'):
+                session = adaptive_test.read_session(path.stem)
+                adaptive_test.recover_completion(session)
+                if session['status'] == 'completed':
+                    test_sessions.append(path)
             paths += test_sessions
             # Validate every resolved target before any deletion; never remove a data root.
             for path in paths:

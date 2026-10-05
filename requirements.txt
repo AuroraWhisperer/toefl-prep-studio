@@ -2,3 +2,5 @@ fastapi>=0.115,<1
 pydantic>=2,<3
 uvicorn>=0.30,<1
 edge-tts>=7,<8
+pystray>=0.19.5,<0.20; sys_platform == "win32"
+Pillow>=10,<13; sys_platform == "win32"

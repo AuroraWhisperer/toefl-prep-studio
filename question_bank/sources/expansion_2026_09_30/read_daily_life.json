@@ -278,16 +278,16 @@
         "explanation": "读懂：题目问现金付完午饭后还能不能补用餐券；earlier purchase 是“已经完成的购买”。\n解析：不能补用，因为要在处理付款前告诉收银员。下午两点前、考试周仍有效，只说明何时可以用券，不表示已经付完的钱可以改用券抵扣。\n下次：先看这笔交易是否已付完，再查用券步骤；不要因为券还没过期，就以为可以补用。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "detail"
         ],
         "vocabulary": [
           "before payment is processed"
         ],
-        "rationale": "付款完成后不能追补券，需区分可用时段与交易流程，保持medium并改掉流程限制等抽象表述。",
+        "rationale": "调为简单：不能用于先前购买、付款前告知，两处都明确排除事后补用，不因 yes/no 形式标为适中。",
         "answer_evidence": "before payment is processed",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -566,16 +566,16 @@
         "explanation": "读懂：“blanks for newcomers”指给新来者准备空白名牌。\n解析：新人可领空白名牌，话题一起选；付费和事先备题均被排除，私订咖啡馆的是别的活动。\n下次：看到 newcomer 的补充安排→结合全组规则→检查首次参加是否需额外准备。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "detail"
         ],
         "vocabulary": [
           "I have blanks for newcomers"
         ],
-        "rationale": "需合并名牌与集体选题两个回复，新人不需先备题或消费；medium合理，保留。",
+        "rationale": "调为简单：新人领空白名牌、共同选话题是相邻两句直接说明，其他选择没有接近的参加要求。",
         "answer_evidence": "I have blanks for newcomers",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -638,16 +638,16 @@
         "explanation": "读懂：题目问只有电影票、没约耳机的学生能否保证拿到耳机；does not automatically reserve 是“不会自动预留”。\n解析：电影票只保证观影，不会顺带预留耳机。没约耳机仍可看有字幕的电影；通知也没说可以拿电影票代替学生证来领耳机。\n下次：活动提供额外设备时，分别查入场和借设备要办什么手续，别把买票当成全部都办好。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "inference"
         ],
         "vocabulary": [
           "does not automatically reserve a headset"
         ],
-        "rationale": "电影票和设备预约不同，直接规则用于未预约者；保持medium，解释更口语。",
+        "rationale": "调为简单：普通电影票不自动预留耳机已经逐字说明，题设没有增加新的组合条件。",
         "answer_evidence": "does not automatically reserve a headset",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -998,16 +998,16 @@
         "explanation": "读懂：题目问团队能不能有一位已不在读的作者；every named author 是“每位署名作者”。\n解析：不能，因为每位作者都必须是当前在读学生。不是组长也不能例外，参加草稿检查也不能换来资格；团队作品本身是允许的。\n下次：遇到“每位成员都须符合”的要求，就逐人核对，不要只看组长或团队整体。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "inference"
         ],
         "vocabulary": [
           "every named author must meet that requirement"
         ],
-        "rationale": "every所有署名作者都在读，团队允许不豁免个人条件；应用到不在读成员，medium可留。",
+        "rationale": "调为简单：每位具名作者须在读是明确资格，不需要进一步判断复杂团队关系。",
         "answer_evidence": "every named author must meet that requirement",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1862,16 +1862,16 @@
         "explanation": "读懂：题目问两人搬东西前必须完成什么；each resident 是“每一位住户”。\n解析：两人都要收到各自的批准邮件。交同意书只是提交申请；Ben收到批准不能代替Leah的批准，读他的邮件或先领新钥匙也不能解决。\n下次：遇到“每人都需批准”，逐人检查有没有收到自己的通知，不要把一方完成当成双方完成。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "inference"
         ],
         "vocabulary": [
           "until each resident receives an approval email"
         ],
-        "rationale": "两人各自批准后才搬，需把首则each与Leah未收联系；medium而非hard。",
+        "rationale": "调为简单：两人均需各自批准是原始指令又被办公室解释，不需另算审批先后或期限。",
         "answer_evidence": "until each resident receives an approval email",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2042,16 +2042,16 @@
         "explanation": "读懂：题目问换成更便宜商品后差额退到哪里；original payment method 是“原来的付款方式”。\n解析：退回最初付款的账户或渠道。收礼人来换货，也不会把钱改退到自己带来的卡上；不是一律发店内抵用金额，更不会交给店员。\n下次：问退款归谁时，追到原来是谁用什么方式付款，别只看现在是谁拿商品来换。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "detail"
         ],
         "vocabulary": [
           "returns the difference to the original payment method"
         ],
-        "rationale": "便宜换货差额退回原付款方法，礼品收件人不改变去处，medium可留；删额外英文refunddestination。",
+        "rationale": "调为简单：退回原付款渠道是明确事实；当前问题没有要求计算混合支付的各部分。",
         "answer_evidence": "returns the difference to the original payment method",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3086,16 +3086,16 @@
         "explanation": "读懂：题目问为什么要记下太暗处的时间和位置；individual lamps 是“个别灯具”。\n解析：委员会想找到具体哪盏灯、什么时候不够亮，再局部调整，不必把整个院子都调亮。不是否定全部投诉，也不是禁止晚间进入或偷偷缩短开放时间；进出时间另行讨论。\n下次：报告局部问题时，给出在哪里、什么时候发生，再检查这些信息能帮助负责人改哪一处。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "purpose"
         ],
         "vocabulary": [
           "adjust individual lamps rather than raise brightness across the whole courtyard"
         ],
-        "rationale": "报告具体时间地点为调整局部灯，不全场加亮，直接目的medium而非hard；access译进出时间。",
+        "rationale": "调为简单：记录时地以便局部调灯，是原文直接说明的目的。",
         "answer_evidence": "adjust individual lamps rather than raise brightness across the whole courtyard",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3374,16 +3374,16 @@
         "explanation": "读懂：题目问什么消息能让Imani确认周六帮忙；provided my exam finishes before five 是“前提是考试五点前结束”。\n解析：要确认考试确实五点前结束，不是考试办公室随便回一句就够。下周有班、组织者先把她算进去，都不能满足本周这个时间条件。\n下次：看到provided，先写出具体前提，再看收到的消息是否真的确认了这个前提。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "inference"
         ],
         "vocabulary": [
           "provided my exam finishes before five"
         ],
-        "rationale": "条件为考试5前结束，不仅收到任何答复；provided条件词理解medium而非hard。",
+        "rationale": "调为简单：考试五点前结束是 Imani 直接提出的条件，干扰项没有接近的时间安排。",
         "answer_evidence": "provided my exam finishes before five",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3446,16 +3446,16 @@
         "explanation": "读懂：“only the time remaining”表示只能使用原预约中尚未过去的时间。\n解析：迟到三十分钟后仍有原时段剩余三十分钟；未说迟到全取消，也不重启整小时。免费补时只针对楼方维修造成不可用。\n下次：看到迟到与设施故障的不同规则→先确定原因→按原预约边界计算剩余时间。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "inference"
         ],
         "vocabulary": [
           "keep only the time remaining in their original lift slot"
         ],
-        "rationale": "一小时迟到30剩30，与楼方维修不可用另约规则不同，medium算时点应用。",
+        "rationale": "调为简单：按剩余时间使用，60 分钟减去迟到 30 分钟仅余 30 分钟，与其他简单时间应用题相当。",
         "answer_evidence": "keep only the time remaining in their original lift slot",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3806,16 +3806,16 @@
         "explanation": "读懂：“if arranged in advance”说明六点半取早餐袋须事先安排。\n解析：早取地点是接待处且提前约好，餐厅七点才开；厨房留食与晚还钥匙都不建立早餐服务。\n下次：看到提前时段的特别服务→核对预约、地点、时间→不要套普通餐厅规则。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "detail"
         ],
         "vocabulary": [
           "packed breakfast bags may be collected from reception at six thirty if arranged in advance"
         ],
-        "rationale": "6:30早餐袋须提前约接待处领，餐厅7开，medium组合条件。",
+        "rationale": "调为简单：提前安排打包早餐并在接待处领取，是原文对六点半取餐的直接说明。",
         "answer_evidence": "packed breakfast bags may be collected from reception at six thirty if arranged in advance",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3937,7 +3937,7 @@
         "passage_title": "Finding the published exhibition list",
         "options": [
           "Every listed artist must collect a rejection sheet Tuesday.",
-          "They were selected, but their relative ranking is not shown.",
+          "It was selected, but its ranking among the accepted works is not shown.",
           "Names were omitted because the decisions are unfinished.",
           "The first listed work received the highest score."
         ],
@@ -3957,9 +3957,9 @@
         "vocabulary": [
           "does not rank accepted works"
         ],
-        "rationale": "原问凡出现在名单就是入选，但名单也可显示未入选结果；改问明确标为入选的项，保留不显示相对名次结论。",
+        "rationale": "保留简单：名单只表示入选而不排序，依据明示；正项用 it / its 指单件作品，与题干 a work 保持一致。",
         "answer_evidence": "does not rank accepted works",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -4742,16 +4742,16 @@
         "explanation": "读懂：题目问为什么要看墙上色块两次；daylight是“日光”，room lights是“房间灯光”。\n解析：要比较同一颜色在这两种光线下看起来怎样。不是检查要刷几层，也不是分别选墙和窗帘，更不是每人投两票。\n下次：遇到要求重复观察，先看第二次改变了什么条件，再找它要你比较的差别。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "purpose"
         ],
         "vocabulary": [
           "view them in daylight and again under the room lights"
         ],
-        "rationale": "两次是日光与室内灯光两条件，not两遍涂漆或两票，medium目的。",
+        "rationale": "调为简单：白天和室内灯下各看一次，是已经明说的两种观察条件。",
         "answer_evidence": "view them in daylight and again under the room lights",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -5318,16 +5318,16 @@
         "explanation": "读懂：题目问最晚什么时候可以免费取消；until we send that message 是“直到商店发出到货通知前”。\n解析：免费取消的截止是发出到货通知。到货后保留七天说的是可领取多久，不是还能免费取消多久；预计日期公布或别的版本卖完也不是截止条件。\n下次：同时有两条期限时，分别写上“取消”和“领取”，不要把保留商品的期限当成免费取消期限。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "detail"
         ],
         "vocabulary": [
           "You may cancel without charge until we send that message."
         ],
-        "rationale": "免费取消到到货消息发送前，7日是保留期；medium时点区别，原下次误称退款需改为取消。",
+        "rationale": "调为简单：发出到货消息前可以免费取消，是明确期限，题目没有引入新的时间计算。",
         "answer_evidence": "You may cancel without charge until we send that message.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -6902,16 +6902,16 @@
         "explanation": "读懂：题目问没穿包脚鞋、借了手套又没订午餐的成人能怎样参加；both requirements 是“两项要求都要满足”。\n解析：堆肥组要手套和包脚鞋，只有手套不够，所以选画标牌或记标签。饮水人人可取；午餐要提前登记，现场加入任务并不保证有饭。也不必因此完全退出活动。\n下次：把装备、可做任务、餐食分别列一行，逐项核对后组合出可行安排，别用满足一项来代替其余条件。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "inference"
         ],
         "vocabulary": [
           "borrowing gloves alone does not meet both requirements"
         ],
-        "rationale": "无包脚鞋不能堆肥，另选画牌标签；无餐预约不保餐但有水，三条件整合可保留hard相对训练难度。",
+        "rationale": "调为适中：需合并鞋子、午餐和饮水三项规则，但都已明示，干扰项又把缺鞋误读为全活动禁入、手套代替全部装备或自动供餐；这一实际条件应用负担与其他适中题相当。",
         "answer_evidence": "borrowing gloves alone does not meet both requirements",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {

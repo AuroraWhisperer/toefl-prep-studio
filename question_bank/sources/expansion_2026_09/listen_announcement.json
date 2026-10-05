@@ -165,16 +165,16 @@
         "explanation": "读懂：问先看岩池原因；稍后被淹是“underwater later”\n解析：潮水变化限制观察窗口，应先做受时限任务。没有老师缺席、清晨池中完全无水、器材午前限定的说明；下午可延后的是写生。\n下次：活动排序题找自然条件带来的截止窗口，区分硬限制与可延后任务。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "时间与原因"
         ],
         "vocabulary": [
           "tide"
         ],
-        "rationale": "先看岩池因稍后涨潮淹没，不是池内清晨无水；设备与教师时限未出现。材料内因果明确，无需潮汐专业知识。",
+        "rationale": "调为简单：先看潮池的原因直接是稍后会被水淹，其他项是未提及的设备或教师安排。",
         "answer_evidence": "that section will be underwater later",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -305,16 +305,16 @@
         "explanation": "读懂：这题问为什么连英语对白也配字幕。“accessible to more viewers”是让更多观众能够看懂、获取对白内容。\n解析：英语字幕帮助需要文字辅助的观众，不只是翻译外语。字幕始终是英语，并没有译成另外两种语言；后面还明确说不考语言知识，也没说演员念错台词。\n下次：听到熟悉语言也加字幕，先听它要帮助谁，再区分帮助理解、翻译和考试这几个目的。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "目的与范围"
         ],
         "vocabulary": [
           "subtitles"
         ],
-        "rationale": "英语对白配英文字幕服务更多观众，不是语言考试或翻成另两语；将“可及性”改为能直接理解的中文。",
+        "rationale": "调为简单：提供英语字幕的目的与正项逐字对应，不因无障碍话题标适中。",
         "answer_evidence": "to make the screening accessible to more viewers",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -410,16 +410,16 @@
         "explanation": "读懂：这题问为什么借下一件工具前要先还上一件。“instead of searching individual worktables”是不用到每个人的工作桌上找工具。\n解析：工具回到中央柜台，别人才能找到并借用。一个项目可以先后用多种工具，只是不能同时拿着不还；通知也没说收费或停止机器示范。\n下次：听到“先还再借”，分清限制的是同时持有还是总共使用，再看这条规则怎样让其他人也能用上。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "目的与范围"
         ],
         "vocabulary": [
           "counter"
         ],
-        "rationale": "先还后借减少散落占用，限制同时持有并非整项目只用一种；把“群体可得性”改成他人能找到借到的实际结果。",
+        "rationale": "调为简单：逐件归还让大家找得到工具，理由直接说明，没有额外操作条件。",
         "answer_evidence": "This helps everyone find the tools they need",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -515,16 +515,16 @@
         "explanation": "读懂：这题问摸复制品能直接了解什么。“shapes, not their exact weight or material”是只复制形状，没有准确复制重量和材料。\n解析：握住复制的把手，可以体验形状是否合手；重量和材质不一样，就不能据此知道原件精确有多重或是什么成分，更摸不出制作年代。\n下次：听到用模型或复制品观察，先问“哪些地方和原物一样”，再只用这些相同之处得出结论。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "范围与证据"
         ],
         "vocabulary": [
           "replicas"
         ],
-        "rationale": "复制的只有形状，故只支持把手与手的配合；改写“保真的属性”等抽象用语，保留有条件推断。",
+        "rationale": "调为简单：要求思考把手如何合手，正项直接重复这一观察对象。",
         "answer_evidence": "think about how each handle fits the hand",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -550,16 +550,16 @@
         "explanation": "读懂：问会讨论哪种证据；原柄磨损是“wear on the original handles”\n解析：历史使用磨痕支持用途推断。游客估价和销售人数不能说明古物原用途；访客禁止碰原件，也没有他们造成新损伤的事实，不能混淆磨损来源。\n下次：物证题核对痕迹对象和来源，分历史使用与当日损坏。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "证据与推断"
         ],
         "vocabulary": [
           "wear"
         ],
-        "rationale": "将讨论原件把手历史使用留下的磨痕；不是当天游客破坏，也不是复制品价格销量。",
+        "rationale": "调为简单：教育者将讲原件把手的磨痕，题干仅问是哪项证据，直接提取即可。",
         "answer_evidence": "wear on the original handles helped researchers infer their use",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -830,16 +830,16 @@
         "explanation": "读懂：这题问保存编辑版之前要先做什么。“Save the original scan with the collection number”是先用藏品编号保存未经编辑的扫描图。\n解析：原扫描保留下来，后来的人才知道照片本来的样子。用更鲜艳的图覆盖原图会丢掉这个依据；删编号会认不出对应藏品；先打印也不能替代保存原文件。\n下次：听到要修改照片或文件，先找是否要求保留原版，再检查编号和新旧版本能否分清。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "顺序与证据"
         ],
         "vocabulary": [
           "restoration"
         ],
-        "rationale": "先保存带藏品号的未编辑图，再做编辑版；把“建档可追溯、版本管理”换成保留什么及为什么。",
+        "rationale": "调为简单：保存编辑版前先保存带编号的未改扫描件，步骤已直接给出。",
         "answer_evidence": "Save the original scan with the collection number before adding any edited versions",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -900,16 +900,16 @@
         "explanation": "读懂：问可按原时到的条件；已经会调整是“provided they already know”\n解析：熟悉操作的老学员可省准备。新手个人不想学不构成豁免；先前夺冠、拥有某鞋均未列为资格，也不能替代会调机器。\n下次：豁免条件题核对实际能力，不用偏好或装备替代。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "条件与对象"
         ],
         "vocabulary": [
           "returning"
         ],
-        "rationale": "按时到须既是老学员又已会安全调整；偏好、鞋或比赛成绩不能替代该能力。",
+        "rationale": "调为简单：可按原时间到的对象与安全调整机器条件都在同一句给出，无新场景应用。",
         "answer_evidence": "Returning participants may join at the usual start time, provided they already know how to adjust the equipment safely",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1040,16 +1040,16 @@
         "explanation": "读懂：问票务；火车票有效是“Your train ticket is valid”\n解析：已有票可用于替代车，无需另买。不是火车票加公交票，也没授权出租收据；不需另购不等于所有人无票免费出行。\n下次：替代服务题分票证通用与免费，检查谁已具备有效凭证。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "规则与范围"
         ],
         "vocabulary": [
           "valid"
         ],
-        "rationale": "已有火车票在替代公交有效，省购另一张票不等于免凭票免费乘车。",
+        "rationale": "调为简单：火车票可用于替代公交直接明说；无需计算票价或组合其他票种。",
         "answer_evidence": "Your train ticket is valid on these buses",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1320,16 +1320,16 @@
         "explanation": "读懂：这题问雨水不够时为什么还可以继续浇水。“switch to the regular supply”是改用平时的供水。\n解析：停用的是雨水箱，浇水另有水源。楼下饮水处是供人喝水的，并未被指定浇花；也不必等下雨，更不能把低水位当作足够所有班次使用。\n下次：听到一种资源暂停，接着找有没有替代来源，再判断活动本身是否需要停止。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "因果与替代"
         ],
         "vocabulary": [
           "supply"
         ],
-        "rationale": "替换仪表造雨等荒诞选项，区分饮水处、备用供水和等雨水恢复的时点。",
+        "rationale": "调为简单：雨水箱不足就换常规水源，题目只需提取明示的替代来源。",
         "answer_evidence": "switch to the regular supply",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1460,16 +1460,16 @@
         "explanation": "读懂：这题问受访者的要求不清楚时怎么办。“before switching on the recorder”是开始录音之前。\n解析：要先问档案协调员，确认对方要求的保存或公开方式能否做到。不能先录了以后再说，也不能为让人答应就承诺任何要求；这些要求虽不是采访内容，仍必须处理。\n下次：听到同意的条件说不清，先找谁能解释并落实，再确认是弄清楚以后才开始录音。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "程序与责任"
         ],
         "vocabulary": [
           "coordinator"
         ],
-        "rationale": "不明的存取限制须开录前询问协调员，避免先录后定或无能力承诺；用具体保存公开方式替代“前置澄清、收集”等抽象说法。",
+        "rationale": "调为简单：请求不明确就先问档案协调员，是直接的人员与操作定位。",
         "answer_evidence": "consult the archive coordinator before switching on the recorder",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1495,16 +1495,16 @@
         "explanation": "读懂：这题问为什么没听到自己的问题被原样读出。“combine cards that ask about the same issue”是把问同一件事的卡片合在一起处理。\n解析：主持人可能合并相同问题，所以换了措辞不代表忽略内容。卡片可以不署名；相似问题不是直接淘汰，也没说留到下次活动。\n下次：听到问题被改写或合并，比较它问的事情是否仍被提到，别只因字句不同就判断没被回应。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "推断与篇章"
         ],
         "vocabulary": [
           "moderator"
         ],
-        "rationale": "原逐字未读的原因是合并相同议题；用匿名、相似问题淘汰、留待后场等场内误读替代禁止主题提问。",
+        "rationale": "调为简单：主持人可能合并同题，直接解释为何不逐字朗读。",
         "answer_evidence": "combine cards that ask about the same issue",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1600,16 +1600,16 @@
         "explanation": "读懂：问缺盖处理；到柜台报告是“report it at the desk”\n解析：如实申报让工作人员处理；挪他套无标盖被明禁。删清单掩盖缺失，永久留整套也不是补救，都会破坏核件记录。\n下次：缺件题保留来源与清单一致性，先报告而非借别套遮掩。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "责任与程序"
         ],
         "vocabulary": [
           "lens cap"
         ],
-        "rationale": "缺镜头盖要报告，不能从另一套挪用无标签盖子或改清单掩盖缺失。",
+        "rationale": "调为简单：镜头盖丢失应报柜台，正项重复明确指令，无须自行推断补救政策。",
         "answer_evidence": "report it at the desk",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1810,16 +1810,16 @@
         "explanation": "读懂：问标示起点含义；第一首开始是“first piece begins”\n解析：到此刻应已就座调好。不是刚允许入楼，也非才拆箱准备；组长仍参与协助，没有标示他们排练结束。\n下次：时间标签题分准备起点与正式活动起点，倒推需提前多久。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "时间与范围"
         ],
         "vocabulary": [
           "unpacking"
         ],
-        "rationale": "标示开始时间为第一首正式排练，应提前五分钟就座调音；不是拆箱或开门时刻。",
+        "rationale": "调为简单：印出的开始时间就是第一首开始，定义已经给出。",
         "answer_evidence": "when the first piece begins",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1936,7 +1936,7 @@
         "response_type": "choice",
         "audio_text": "Man: During today's beginner canoe session, stay within the area marked by orange buoys. The markers are a practice boundary, not a route to race around. If you drift beyond them, stop paddling forward and signal the instructor with your raised paddle. We'll begin with turning exercises close to shore; crossing the lake is not part of this session, even for participants who have paddled before.",
         "options": [
-          "Stop moving forward and signal the instructor.",
+          "Stop paddling forward and signal the instructor.",
           "Race around the nearest buoy to rejoin the group.",
           "Lower the paddle and wait without giving any signal.",
           "Keep paddling toward the opposite shore."
@@ -1947,7 +1947,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问越界动作；举桨示意是“raised paddle”\n解析：停止向前并求教练，两个动作共同落实。继续去对岸或绕标竞速扩大偏离；不发信号无法落实求助要求，不是通知指定方式。\n下次：越界处理题按停止—示意分步核对，排除继续推进的动作。"
+        "explanation": "读懂：漂到浮标外后怎么办？stop paddling forward 是“停止向前划桨”，不是保证船马上停止漂移。\n解析：停止向前划桨并举桨示意教练，两个动作都与通知一致。绕浮标竞速或继续朝对岸划仍在扩大偏离；把桨放下、不发信号也没有按要求求助。\n下次：听操作指令时先找具体动作和发出的信号，再逐项核对；不要把停止某种操作，擅自改成物体一定立刻静止。"
       },
       "review": {
         "difficulty": "easy",
@@ -1957,9 +1957,9 @@
         "vocabulary": [
           "paddling"
         ],
-        "rationale": "越界须停止继续向前并举桨示意，两步缺一不可；自行竞速或继续横渡不符。",
+        "rationale": "保持简单；将正项动作精确对应 stop paddling forward，停止向前划桨不等于漂移中的船立即停止移动。",
         "answer_evidence": "stop paddling forward and signal the instructor with your raised paddle",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1985,16 +1985,16 @@
         "explanation": "读懂：问延迟取物原因；保持展览完整是“see the complete exhibition”\n解析：买卖可完成但展示持续到周末。作者愿售且收益支持他们，非不许卖；没有再次烧制；购买者周日可领取，也非仅未售品能取。\n下次：购买展品题区分付款所有权与取货时间，检查公共展示需求。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "原因与时间"
         ],
         "vocabulary": [
           "ceramics"
         ],
-        "rationale": "卖出仍须保留展示到周日领取时段，保持展览完整；买卖成立不等于立即取走。",
+        "rationale": "调为简单：保留完整展览给访客看，是不立刻领取的明确原因。",
         "answer_evidence": "visitors should still be able to see the complete exhibition",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2125,16 +2125,16 @@
         "explanation": "读懂：续用柜子需要做什么？“confirm your renewal”是确认续用申请。\n解析：网上确认才保留柜子；把书留在里面不算续期。归还钥匙是放弃柜子者的步骤；等候名单供空出的柜子分配，不是现有使用者必须重新排队。\n下次：听到续用提醒→找明确提交动作与截止日→检查物品留存是否真的算申请。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "条件与流程"
         ],
         "vocabulary": [
           "renewal"
         ],
-        "rationale": "续柜须在账户确认，柜内留书不算申请，退钥匙属于不再使用者。",
+        "rationale": "调为简单：线上确认续柜直接给出，其他项混用不续柜的处理。",
         "answer_evidence": "confirm your renewal through your library account by Friday",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2300,16 +2300,16 @@
         "explanation": "读懂：问何时反馈；“between scenes”指两场戏之间。\n解析：场次间暂停时统一调整并收集意见。看到字幕落后就打断会破坏正常速度测试；不需推迟到明天；每句之前反馈也违背场间集中处理。\n下次：听到 save comments→记指定反馈窗口→别把发现问题的时刻当作发言时刻。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "行动时点"
         ],
         "vocabulary": [
           "scenes"
         ],
-        "rationale": "意见留在场次之间暂停时提出，不在每次字幕落后或每句前打断，也不推到明日。",
+        "rationale": "调为简单：反馈时间直接是场与场之间的暂停，不需时刻计算。",
         "answer_evidence": "stop between scenes to make adjustments",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2510,16 +2510,16 @@
         "explanation": "读懂：这题问为什么不能在柜台洗自带容器。“reserved for food preparation”是水槽专门用来备餐。\n解析：限制来自水槽的用途，不是洗过就能多盛汤，也不是要等打完汤再洗。工作人员会检查盖子，但这不等于水槽专门用来查盖子。\n下次：听到不能做某事，紧接着找 because 后的原因，再看其他选项是否把附近的另一条规则误当成原因。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "原因与干扰"
         ],
         "vocabulary": [
           "preparation"
         ],
-        "rationale": "把停供周一和份量太小的无关原因改为水槽用途、清洗时序和份量规则混淆；因果唯一。",
+        "rationale": "调为简单：水槽用于备餐直接说明，问句只提取这一用途。",
         "answer_evidence": "the sink is reserved for food preparation",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2650,16 +2650,16 @@
         "explanation": "读懂：问允许哪种行为；“turn off the flash”是关闭闪光灯。\n解析：允许隔窗无闪光拍摄。提问在走廊，不必开门；两点活动不取消全天种植室关闭；拍摄距离也没有获得闪光许可的例外。\n下次：听到允许加条件→同时保留地点与方式→检查后续时间或距离是否真构成例外。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "许可与限制"
         ],
         "vocabulary": [
           "flash"
         ],
-        "rationale": "允许隔玻璃关闭闪光拍摄，两点答疑不改变种植室全天关闭状态。",
+        "rationale": "调为简单：隔窗且关闪光拍照的许可直接给出，其他项违反明确禁入或禁闪光规则。",
         "answer_evidence": "Photographs through the glass are welcome, provided you turn off the flash",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2720,16 +2720,16 @@
         "explanation": "读懂：问重复发送原因；“a mailing-list overlap”是收件名单有重叠。\n解析：同一学生出现在重叠名单才收到两次。不是每趟一份；居家日原本就在范围内；两个链接是同一表格，没有修改问题的证据。\n下次：听到重复发送→找行政原因说明→别自动推断任务内容或次数发生变化。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "原因与范围"
         ],
         "vocabulary": [
           "overlap"
         ],
-        "rationale": "名单重叠导致重复发送，非每趟行程一份或题目更新；原因明示。",
+        "rationale": "调为简单：重复邮件来自名单重叠，材料最后一句直接给原因。",
         "answer_evidence": "a mailing-list overlap",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {

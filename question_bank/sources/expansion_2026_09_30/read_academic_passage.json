@@ -305,16 +305,16 @@
         "explanation": "读懂：“useful evidence of its history”说明部分表面信息有历史价值。\n解析：清理可能丢证据或伤材，不等于每个污迹更值钱、完全不能处理或每痕都在恶化。\n下次：看到处理带来的代价→同时核对证据与材料→避免把谨慎当一律不修。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "detail"
         ],
         "vocabulary": [
           "useful evidence of its history"
         ],
-        "rationale": "清洁可能除历史线索并伤石，两理由原文明确，medium；原解析清楚。",
+        "rationale": "按实际任务校正：清洗可能失去历史证据或损害石材在同一句明确给出，干扰项是无根据的绝对判断。",
         "answer_evidence": "useful evidence of its history",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1355,16 +1355,16 @@
         "explanation": "读懂：“pulled away from the intended pace”指被群体带离原定速度。\n解析：文中明确记得对也可能受他人加速影响；不能把速度错直接归为忘顺序，材料也没删拍或规定独奏更快。\n下次：看到表现不准但记忆正确→找外部节奏影响→区分速度与顺序。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "detail"
         ],
         "vocabulary": [
           "a group that gradually speeds up"
         ],
-        "rationale": "顺序记对仍可被加速群体带跑偏，不能直接归因为忘记。",
+        "rationale": "按实际任务校正：记得正确但被加速的团队带偏正是原文直接描述的情况。",
         "answer_evidence": "a group that gradually speeds up",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1565,16 +1565,16 @@
         "explanation": "读懂：题目问哪种观察更能支持自然选择；“affect reproductive success”指遗传差异影响留下多少后代。\n解析：某个可遗传特征反复帮助携带者多留后代，才直接对应选择的机制。少数种子、分离后比例不同、创始者后代占比大，都可能只由偶然抽样造成。\n下次：判断选择还是漂变，找“特征带来繁殖优势”的证据；只看到比例变了，还不能确定是哪种过程。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "概念应用与证据区分"
         ],
         "vocabulary": [
           "affect reproductive success"
         ],
-        "rationale": "可遗传特征反复带来更多后代才支持选择，2；其余创始样本和比例差仍可能偶然，概念证据区分保留hard。",
+        "rationale": "区分繁殖优势与偶然抽样需要理解两个概念，但正项直接复述材料对自然选择的定义，未加入新的多步情境；保留概念比较，校正 hard 为 medium。",
         "answer_evidence": "affect reproductive success",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1705,16 +1705,16 @@
         "explanation": "读懂：“several causes are possible”提醒同样磨损可能有多种成因。\n解析：看到痕迹可提出解释但不能唯一确定历史；不是入馆会消失、观众看不见或短文不能说历史。\n下次：看到痕迹推故事→寻找其他可能原因→把未证实解释保留为可能。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "detail"
         ],
         "vocabulary": [
           "when several causes are possible"
         ],
-        "rationale": "多种原因可造相似磨损，标签不凭磨损硬写完整历史。",
+        "rationale": "按实际任务校正：磨损有多个可能原因已明说，无需推断具体的另一种历史原因。",
         "answer_evidence": "when several causes are possible",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1810,16 +1810,16 @@
         "explanation": "读懂：题目问许多科学家为何不接受早期主张；“the mechanism”是它具体怎样发生的机制。\n解析：关键问题是大陆如何穿过洋底移动，没有令人满意的解释。魏格纳正试图联系化石，非当成巧合；文章也没说他主张地震只在大陆中央或用了已被推翻的磁性证据。\n下次：题目问反对理由，找批评者缺的是证据、机制还是结论；不要把后来才出现的证据放到早期争论里。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "观点分歧原因"
         ],
         "vocabulary": [
           "A major problem was the mechanism"
         ],
-        "rationale": "魏格纳未 satisfactorily解释大陆穿过洋底的机制，0；没有磁证被推翻或只中心地震的主张。",
+        "rationale": "按实际任务校正：缺乏令人满意的移动机制是第二段直接列出的反对理由。",
         "answer_evidence": "A major problem was the mechanism",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1845,16 +1845,16 @@
         "explanation": "读懂：题目问海岭两侧相配的磁性记录支持什么；“formed at ridges and spread outward”是从海岭形成并向外扩展。\n解析：两侧记录相配支持洋底从海岭向两边扩展，不是大陆在不动的洋底上穿行。没把最老大陆岩石放在海岭，也没说大陆分开后磁场不再反转。\n下次：看到新证据，先找作者紧接着用它支持哪个过程；沿着材料的解释答，不把同领域其他知识塞进去。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "证据支持的机制"
         ],
         "vocabulary": [
           "new ocean floor formed at ridges and spread outward"
         ],
-        "rationale": "两边相配磁反转记录支持海岭造新洋底向外扩展，2；不是洋底固定或磁反转停止。",
+        "rationale": "按实际任务校正：两侧磁性条带支持新洋底形成并外移，在同一句明确给出。",
         "answer_evidence": "new ocean floor formed at ridges and spread outward",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2370,16 +2370,16 @@
         "explanation": "读懂：“pay attention at a particular time”指确认流程需要及时留意。\n解析：不收费仍有注意力和时间成本；文中未说涨会费、抹记录或强制多桌。\n下次：看到免费流程改变→找非金钱负担→别把无收费当无成本。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "detail"
         ],
         "vocabulary": [
           "pay attention at a particular time"
         ],
-        "rationale": "免费确认仍需特定时点留意回复，明确代价medium；原解释清楚。",
+        "rationale": "按实际任务校正：确认要求的时间负担已用 though 明示，其他选项与规则不符。",
         "answer_evidence": "pay attention at a particular time",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2895,16 +2895,16 @@
         "explanation": "读懂：“faster than water can enter”说明来水速率超过进入速率。\n解析：局部可透仍有速率限制，不代表孔全消失或定义相反，也未说干土总不进水。\n下次：看到流入与处理速度→比较两者→解释为何有能力仍可能溢出。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "detail"
         ],
         "vocabulary": [
           "If rain arrives faster than water can enter"
         ],
-        "rationale": "来雨速率超渗入能力仍径流，明确条件medium。",
+        "rationale": "按实际任务校正：雨速超过入渗速率是原文直接列出的径流条件，不需额外水文学知识。",
         "answer_evidence": "If rain arrives faster than water can enter",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3280,16 +3280,16 @@
         "explanation": "读懂：“affect later connections”说明等候延误可传到后续换乘。\n解析：系统中时间相连，局部帮助可能带来后续代价；不用改线，也不要求乘客同目的地或别车早发。\n下次：看到局部调整→沿后续环节追踪时间影响→检查受影响人群。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "inference"
         ],
         "vocabulary": [
           "A small delay may also affect later connections"
         ],
-        "rationale": "当地等车可向后续换乘传延误，文中明确后果，medium。",
+        "rationale": "按实际任务校正：小延误影响后续换乘在原文明确给出，题目未要求自行跟踪多站时刻。",
         "answer_evidence": "A small delay may also affect later connections",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3315,16 +3315,16 @@
         "explanation": "读懂：题目问末段具体建议查什么；many passengers transfer 是“有很多乘客需要换乘”。\n解析：要查实际有多少人从一条线转到另一条，才能衡量照顾这次连接有多大价值。只看单线班次、总车数或第一段路程，都没有告诉你究竟多少人靠这次换乘完成旅程。\n下次：决定是否优先保住某次换乘时，先查真正需要它的乘客人数，再衡量对其他人的延误。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "detail"
         ],
         "vocabulary": [
           "If many passengers transfer between the routes"
         ],
-        "rationale": "末段明确看真正换乘人数衡量优先意义；题干指末段具体推荐避免其他有用因素也合理，替车色站名错项。",
+        "rationale": "按实际任务校正：实际换乘人数是末段明确提出的信息，其他项仍只统计单线或车辆。",
         "answer_evidence": "If many passengers transfer between the routes",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3630,16 +3630,16 @@
         "explanation": "读懂：问稍大一点的标准箱为什么反而省空间；stacks efficiently 指“箱子能整齐、紧凑地叠放”。\n解析：单个箱子虽大一些，组合起来的缝隙却可能更少，所以车里能放得更合适。这不等于每个箱内都没有空隙，也没说保护材料或货物重量减少了。\n下次：比较包装是否省空间→同时看单箱大小和箱子之间的空隙→按整车占用判断。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "detail"
         ],
         "vocabulary": [
           "A slightly larger box that stacks efficiently may use a vehicle's space better"
         ],
-        "rationale": "明确比较单箱体积与组合摆放空隙；答案唯一，medium。干扰项聚焦箱内空隙、重量、保护三种错误归因。",
+        "rationale": "按实际任务校正：稍大的标准箱更便于堆叠已直接给出，并非需要自己设计装箱方案。",
         "answer_evidence": "A slightly larger box that stacks efficiently may use a vehicle's space better",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {

@@ -884,7 +884,7 @@
         "explanation": "读懂：问噪声是否来自空调；答句强调是敞开的窗户让交通噪声进来。\n解析：固定开头强调敞开的窗户。let（让）后，the traffic noise（交通噪声）这个完整名词宾语可以放在 in（进入）前或后，两种都自然；宾语词块内部不能拆。\n下次：先找被强调的窗户→接说明其作用的从句→检查噪声与进入方向都保留，不能把空调误当作答句强调对象。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "强调句",
           "动词宾语与小品词"
@@ -893,9 +893,9 @@
           "traffic noise",
           "window"
         ],
-        "rationale": "强调结构与小品词 in 的两种宾语位置均已核对；中文说明作用与不可拆词块。",
+        "rationale": "It was 固定；五块排列强调人及 let … in 的位置，两种小品词词序均接受，属适中。",
         "answer_evidence": "前句：Was the room noisy because of the air conditioner? 固定片段：[\"It was \",\" \",\" \",\" \",\" \",\".\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：It was the open window that let the traffic noise in.；It was the open window that let in the traffic noise.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -931,7 +931,7 @@
         "explanation": "读懂：a spare key 是“备用钥匙”；志愿者在管理员离开之前已拿到。\n解析：钥匙在管理员离开前就已给出，因此用 had been given（此前已被给予）。They（他们）是收到钥匙的人；have 不能代替这里标明过去先后的 had。题目没有确定进入与管理员离开的先后。\n下次：遇到两个过去事件→先确认哪件事明确发生在前→较早的被动动作用 had been given，检查不额外编排未说明事件的时间。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "过去完成时被动",
           "事件先后"
@@ -940,9 +940,9 @@
           "caretaker",
           "spare key"
         ],
-        "rationale": "给钥匙早于管理员离开；修正原解析擅自增加的“离开后才进入”三事件时间线。",
+        "rationale": "been given 和 the caretaker left 已成块；判断过去完成时及时间关系，不再把供给的被动结构当独立难点。",
         "answer_evidence": "前句：Why could the volunteers enter the locked building? 固定片段：[\"They \",\" \",\" \",\" \",\" \",\".\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：They had been given a spare key before the caretaker left.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1023,7 +1023,7 @@
         "explanation": "读懂：where it belongs 问电缆该放哪里；connected 是“连接”，请求指出接口。\n解析：Could you show me（请你指给我） 是外层请求；where this cable should be connected（这根电缆应该被接上） 保持主语在前，并用被动说明电缆连接位置，does 不能再加入。\n下次：先组礼貌请求→在 where 后放电缆主语→接 should be connected，核对不是让电缆主动连接别人。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "嵌入式地点问句",
           "情态被动"
@@ -1032,9 +1032,9 @@
           "cable",
           "connected"
         ],
-        "rationale": "固定外层请求，内层被动语序；介词位置不造成额外变体。 解析中的关键新词块已补中文释义。",
+        "rationale": "Could you 固定，should be 与 connected 已提供；实际是五块嵌入问句语序，难度与同类题一致。",
         "answer_evidence": "前句：I found a cable in the drawer, but I do not know where it belongs. 固定片段：[\"Could you \",\" \",\" \",\" \",\" \",\"?\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：Could you show me where this cable should be connected?。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1298,9 +1298,10 @@
       "answer": {
         "type": "sentence",
         "accepted": [
-          "Please give the librarian the books with torn covers."
+          "Please give the librarian the books with torn covers.",
+          "Please give the books to the librarian."
         ],
-        "explanation": "读懂：torn covers 是“破损的封面”；应把这些书交给图书管理员。\n解析：give the librarian（图书管理员） the books（这些书） 是“给某人某物”，with torn covers 紧跟 books 识别破书。额外 to 不够另占空位，也不能插进双宾语结构。\n下次：先找接收者 librarian→再放被交出的 books→用 with torn covers 限定书，检查破损的是封面而非管理员。"
+        "explanation": "读懂：问损坏的书交给谁；the librarian 是“图书管理员”。\n解析：give 后可排“人＋物”，留下 to；也可排“物＋to＋人”，留下 with torn covers（封皮破损的）。前句已说明是哪批书，两种表达都用四块完成交付要求。\n下次：看到 give，先选一种“给谁、给什么”的结构，再填词块；检查固定 Please、四个空和剩余一块都符合题面。"
       },
       "review": {
         "difficulty": "easy",
@@ -1313,8 +1314,8 @@
           "torn"
         ],
         "rationale": "固定祈使开头与四空双宾语结构，不允许补入 to 改占空数。 解析中的关键新词块已补中文释义。",
-        "answer_evidence": "前句：Who should receive the damaged books? 固定片段：[\"Please \",\" \",\" \",\" \",\".\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：Please give the librarian the books with torn covers.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "answer_evidence": "四空既可用 give／the librarian／the books／with torn covers，也可用 give／the books／to／the librarian；前句已指明损坏的书。",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1536,7 +1537,7 @@
         "explanation": "读懂：more space 是“更多空间”；谈的是目前没有的条件及可能的便利。\n解析：If we had（我们假如有） 配 we could（我们就可以），表示假设；spread out all the maps 是“摊开所有地图”。spread out 是整块，不能把地图插入块内，也不表示已经有更多空间。\n下次：先认清“假如有空间”不是既成事实→匹配 had 与 could→接完整 spread out 词块和地图，检查不另加 will。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "非真实条件句",
           "短语动词词块"
@@ -1545,9 +1546,9 @@
           "spread out",
           "maps"
         ],
-        "rationale": "假设条件与结果匹配，spread out 为不可拆词块避免非法小品词变体。 解析中的关键新词块已补中文释义。",
+        "rationale": "If 和分句界限固定，we had、we could 成块；五块组织假设与结果，属适中。",
         "answer_evidence": "前句：Would a larger desk help us sort the maps? 固定片段：[\"If \",\" \",\", \",\" \",\" \",\".\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：If we had more space, we could spread out all the maps.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1677,7 +1678,7 @@
         "explanation": "读懂：had not registered 是“事先没有登记”，could not get a seat 是“没能得到座位”；回答补充等候者的情况。\n解析：Those who（那些……的人）后先接识别人群的内容，再补主句。可先限定“未登记者”，也可先限定“没得到座位者”；前句允许这两种补充，但两句的断言方向不同。两处否定都须保留。\n下次：看到同一人群的两件事→选一件放入关系从句来限定人群→另一件作主句，检查两个否定分别管哪个动作。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "关系从句",
           "多层否定"
@@ -1686,9 +1687,9 @@
           "registered",
           "seat"
         ],
-        "rationale": "收录未登记者无法入座与未入座者未登记两种自然陈述；不把互换后的断言误说成逻辑等价。",
+        "rationale": "had not registered 与 could not 已成块；五块连接人群限定和主句，不需独立构造双重否定或完成时。两种断言方向不同但语境均允许。",
         "answer_evidence": "前句：The lecture hall was full, but several people were still waiting outside. 固定片段：[\"\",\" \",\" \",\" \",\" \",\".\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：Those who had not registered could not get a seat.；Those who could not get a seat had not registered.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2002,7 +2003,7 @@
         "explanation": "读懂：should have kept 是“当时本该保留”；in case it failed 是为可能的故障作准备。\n解析：should have kept 对过去做法提出遗憾或建议；in case 引预防理由，不等于故障发生后才保留。keeping 不能接 should。\n下次：先识别对过去的回顾→拼 should have kept→接 receipt（收据） 和预防条件，检查不把它说成现在才应保留的将来建议。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "情态完成式",
           "预防条件"
@@ -2011,9 +2012,9 @@
           "receipt",
           "failed"
         ],
-        "rationale": "回顾过去本该保留收据的做法；预防从句前置或后置均保留同样关系。 解析中的关键新词块已补中文释义。",
+        "rationale": "have kept 与 in case it failed 已成块；主要是 should 后的完成结构与动词形式选择，按实际五空标适中。",
         "answer_evidence": "前句：The kettle stopped working after only two days. 固定片段：[\"\",\" \",\" \",\" \",\" \",\".\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：You should have kept the receipt in case it failed.；In case it failed, you should have kept the receipt.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2096,7 +2097,7 @@
         "explanation": "读懂：chemical storage 是“化学品储存”；答句只说明这类规则先讲，不保证所有规则都讲。\n解析：that concern chemical storage 修饰 The rules，主句 will be explained（将被讲解） 用被动。固定 first（首先） 在末尾表示讲解顺序，不能移到规则名词中改变范围。\n下次：先划出“哪些规则”的修饰段→接 will be explained→核对 first 的顺序含义，别从“先讲这些”推成“只讲这些”。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "关系从句嵌入",
           "将来时被动"
@@ -2105,9 +2106,9 @@
           "chemical storage",
           "explained"
         ],
-        "rationale": "固定句尾顺序词及关系从句，考查所述范围而非额外推断。 解析中的关键新词块已补中文释义。",
+        "rationale": "that concern 和 will be 已提供；五块关联复数先行词与被动谓语，符合适中构句任务。",
         "answer_evidence": "前句：Will the orientation cover every laboratory rule? 固定片段：[\"\",\" \",\" \",\" \",\" \",\" first.\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：The rules that concern chemical storage will be explained first.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2522,7 +2523,7 @@
         "explanation": "读懂：connects 是“连接”；说话者确认桥是否把两个公园连起来。\n解析：主句 The bridge connects 为肯定现在时；句尾固定 not，反问部分用 does it not（难道不是吗）。bridge 是单数，不能选 do；it 回指桥而非公园。\n下次：先读肯定主句→用单数 does 接代词 it→保留固定 not，检查反问部分与 bridge 对应。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "反意疑问句",
           "单数代词回指"
@@ -2531,9 +2532,9 @@
           "pedestrian",
           "connects"
         ],
-        "rationale": "正式但自然的非缩写反意问句，not 固定且与肯定主句配对。 解析中的关键新词块已补中文释义。",
+        "rationale": "正式反意问句保留；not 固定且只需 does 与单数 bridge 对应，五块重排不因正式语域标困难。",
         "answer_evidence": "前句：I think the map shows a pedestrian bridge across the canal. 固定片段：[\"\",\" \",\" \",\", \",\" \",\" not?\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：The bridge connects the two parks, does it not?。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2615,10 +2616,10 @@
         "accepted": [
           "The researcher whose article you read will lead the trip."
         ],
-        "explanation": "读懂：whose article 是“其文章”；带队的是你读过文章的那位研究者。\n解析：固定 whose 表文章属于研究者；article you read（你读过） 组成修饰段，will lead the trip（将带领这次出行） 才是主句。不能把 you 当成带队者。\n下次：先用 whose 找所属物 article→把 you read 接在文章后→回到研究者接 will lead，核对两个主语各管一个动作。"
+        "explanation": "读懂：问哪位研究者带队；whose article 意为“他的那篇文章”。\n解析：whose 已固定，article you read 表示“你读过的文章”，这一段限定研究者；will lead the trip 才是研究者的主句动作。you 是读文章的人，不是带队者。\n下次：遇到固定 whose，先接所属名词及其说明，再找主句谓语；检查从句和主句分别是谁做什么。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "所属关系从句",
           "句中固定关系词"
@@ -2627,9 +2628,9 @@
           "researcher",
           "article"
         ],
-        "rationale": "固定 whose 限制所属从句，主句与从句主语不同。 解析中的关键新词块已补中文释义。",
+        "rationale": "whose 已固定，不是待选择考点；五块区分 article you read 的修饰关系和研究者带队的主句，属适中。",
         "answer_evidence": "前句：Which researcher will lead the field trip? 固定片段：[\"\",\" whose \",\" \",\" \",\" \",\".\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：The researcher whose article you read will lead the trip.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2993,7 +2994,7 @@
         "explanation": "读懂：promised to email 是“答应发邮件”；it 指更新后的时间表。\n解析：promise 后接 to email，不接 emailing。before six（六点之前） 表六点前，若把 before six 放在 promised 前，会变成承诺发生时间而非发出截止。\n下次：先找承诺的动作→接 to email it→把截止时间留在动作后，检查 it 回指 schedule 而非晚餐。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "promise 后不定式",
           "状语范围"
@@ -3002,9 +3003,9 @@
           "promised",
           "before six"
         ],
-        "rationale": "截止时间约束发送而非许诺时刻，排除改变范围的前置。 解析中的关键新词块已补中文释义。",
+        "rationale": "She 与截止位置固定；四空选择 promise to do 并放置代词和时间，属常用简单搭配。",
         "answer_evidence": "前句：The receptionist said the revised schedule would be sent before dinner. 固定片段：[\"She \",\" \",\" \",\" \",\".\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：She promised to email it before six.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3085,7 +3086,7 @@
         "explanation": "读懂：The longer…the fewer…是“等得越久，剩得越少”；强调推迟的后果。\n解析：固定 The longer 后接 we wait，另一半 the fewer seats（座位） will remain（将会剩下）；seats 可数复数，用 fewer 而非 less。两半不是独立问句。\n下次：遇到越……越……→先排等待条件→接 the fewer 与可数 seats→检查 will remain 属于座位而非人。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "关联比较结构",
           "可数名词数量"
@@ -3094,9 +3095,9 @@
           "fewer",
           "remain"
         ],
-        "rationale": "递进关联比较而非普通 than 比较，槽位与两主语分开。 解析中的关键新词块已补中文释义。",
+        "rationale": "The longer 已固定，the fewer 成块；五空区分可数 seats 与 less 干扰并排列两个主谓，按适中处理。",
         "answer_evidence": "前句：Should we wait until next week to reserve seats? 固定片段：[\"The longer \",\" \",\", \",\" \",\" \",\".\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：The longer we wait, the fewer seats will remain.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3265,7 +3266,7 @@
         "explanation": "读懂：Whenever 是“每当”；每借一副护目镜，助理就记录借用人的名字。\n解析：someone（某个人） 是不定代词单数，接 borrows（借用）；their name（这个人的名字） 中 their 可指性别未说明的借用人。the assistant records 是另一层主谓。\n下次：先按“借用事件→记录动作”分两半→检查 someone 后 borrows→确认 their 指借用者而非记录者。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "时间条件从句",
           "单数不定代词与回指"
@@ -3274,9 +3275,9 @@
           "goggles",
           "borrows"
         ],
-        "rationale": "固定借用者 someone 与记录者 the assistant，三空分别放 borrows、a pair、records；borrow 为形态干扰。 解析中的关键新词块已补中文释义。",
+        "rationale": "两层主语、连接词及 their name 全部固定；仅三空选择 someone borrows 和 assistant records，属基础一致练习。",
         "answer_evidence": "前句：How does the laboratory keep track of borrowed goggles? 固定片段：[\"Whenever someone \",\" \",\", the assistant \",\" their name.\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：Whenever someone borrows a pair, the assistant records their name.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3410,7 +3411,7 @@
         "explanation": "读懂：missed the last train 是“错过末班车”；答句设想过去早走本可赶上。\n解析：If we had left earlier（我们当时更早出发） 配 we would have caught（我们本来就能赶上），表示与实际过去相反的条件和结果。will 不用于这里，也不能把 have caught 写成实际已赶上。\n下次：先确认事实是没赶上→条件用 had left→结果用 would have caught，检查假设与真实经历没有混为一谈。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "过去反事实条件句",
           "完成式搭配"
@@ -3419,9 +3420,9 @@
           "caught",
           "last train"
         ],
-        "rationale": "实际错过与假设赶上有明确证据，固定 If 约束前置。 解析中的关键新词块已补中文释义。",
+        "rationale": "If 固定，we had、we would、have caught 均成块；只需把过去反事实两半接合，比八块且重复主语的 W39 支持更多。",
         "answer_evidence": "前句：We missed the last train because we left the building too late. 固定片段：[\"If \",\" \",\", \",\" \",\" \",\".\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：If we had left earlier, we would have caught the last train.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3500,7 +3501,7 @@
         "explanation": "读懂：essential 是“必要的”；必须先得到主管对装置的批准。\n解析：It is essential that 引必要要求，从句采用原形 approve（批准）。approving 不能在 the supervisor 后独自充当谓语；固定 first 指批准先于测试。\n下次：先认必要要求→在 that 从句放主语与 approve→核对批准对象 setup（装置） 和固定 first，检查没有把主管写成批准对象。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "要求式虚拟语气",
           "前置条件"
@@ -3509,9 +3510,9 @@
           "essential",
           "setup"
         ],
-        "rationale": "要求式从句使用原形 approve；移除英美变体可能产生的争议，改以缺少助动词的 approving 作干扰。 解析中的关键新词块已补中文释义。",
+        "rationale": "It is essential 与 first 固定；approve 对比无助动词的 approving，四空不要求选择英美变体或独立写出虚拟形式。",
         "answer_evidence": "前句：Can we begin testing before the supervisor checks the equipment? 固定片段：[\"It is essential \",\" \",\" \",\" \",\" first.\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：It is essential that the supervisor approve the setup first.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3593,7 +3594,7 @@
         "explanation": "读懂：What you entered 是“你输入的内容”；错误来自它与卡上号码不一致。\n解析：What you entered（你输入的内容）可作主语，也可作比较对象；两者“不匹配”的关系不因互换而改变。does not（并不）后用原形 match（匹配），不能再选 matches。\n下次：遇到两个信息是否一致→先组好输入内容与卡号两块→任选一方作主语，再接否定比较，检查原形动词和完整从句。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "名词性主语从句",
           "否定助动词"
@@ -3602,9 +3603,9 @@
           "entered",
           "match"
         ],
-        "rationale": "匹配关系可双向陈述；补收卡号作主语、输入内容作宾语的合法词序。",
+        "rationale": "you entered、does not 与比较对象成块；五空构造 what 名词从句与否定匹配关系，属适中。",
         "answer_evidence": "前句：Why is the application page still showing an error? 固定片段：[\"\",\" \",\" \",\" \",\" \",\".\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：What you entered does not match the number on your card.；The number on your card does not match what you entered.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3639,7 +3640,7 @@
         "explanation": "读懂：Admission 是“入场”；句末 for local residents 限定本地居民可以免费。\n解析：Admission to the courtyard（进入庭院） 说明进入哪里，is free（免费） 表免费。to the courtyard 可紧跟 Admission 或 free；受益对象已固定句末，不能把它移入空位。\n下次：先抓 Admission is free 骨架→用 to 说明进入庭院→连上固定居民范围，检查没有把免费对象扩大到所有访客。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "名词后修饰",
           "受益对象范围"
@@ -3648,9 +3649,9 @@
           "admission",
           "local residents"
         ],
-        "rationale": "固定居民范围，接受入场地点在名词后或 free 后的两种常见同义安排。 解析中的关键新词块已补中文释义。",
+        "rationale": "四块、无干扰词，is free 与 admission to 地点的基本结构；固定受益对象已提供主要语义，属容易。",
         "answer_evidence": "前句：Do I need to buy a ticket for the courtyard exhibition? 固定片段：[\"\",\" \",\" \",\" \",\" for local residents.\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：Admission to the courtyard is free for local residents.；Admission is free to the courtyard for local residents.；To the courtyard, admission is free for local residents.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3880,7 +3881,7 @@
         "explanation": "读懂：In case 是“以防”；保留租赁约定记录以便以后有疑问时查证。\n解析：of what we agreed（关于我们约定的内容） 修饰 a record（一份记录），表示记录了约定内容。In case any questions arise 是预防目的，可在句首或句尾，不表示已有争议。\n下次：先组 want a record→用 of 说明记录内容→添加以防有疑问的条件，检查没有编造已发生的纠纷。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "预防条件",
           "介词后内容从句"
@@ -3889,9 +3890,9 @@
           "rental agreement",
           "arise"
         ],
-        "rationale": "记录内容与预防目的分开，收录条件整段前后置。 解析中的关键新词块已补中文释义。",
+        "rationale": "of what we agreed 和 any questions arise 已成块；实际组织记录对象与预防目的，不以块内语法标困难。",
         "answer_evidence": "前句：Why are you keeping a copy of the rental agreement? 固定片段：[\"\",\" \",\" \",\" \",\" \",\" \",\".\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：In case any questions arise, I want a record of what we agreed.；I want a record of what we agreed in case any questions arise.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -4259,7 +4260,7 @@
         "explanation": "读懂：must have been moved 是“当时一定被挪动过”的推断；发生在办公室清洁期间。\n解析：must have 后的 been moved 表对过去被动动作的推测，不是必须搬动的命令。while 后 was being cleaned（当时正在被清洁） 表那时正在清洁。\n下次：先认“对过去的推断”→拼 must have been moved→接同时进行的清洁场景，检查两个被动形式都保留 be 的变化。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "情态完成被动",
           "过去进行时被动"
@@ -4268,9 +4269,9 @@
           "blueprints",
           "moved"
         ],
-        "rationale": "线索支持推测而非证实；解析明确 must 的推断意义。 解析中的关键新词块已补中文释义。",
+        "rationale": "must have、been moved、was being cleaned 均成块；仍需过去推测与被动意义判断，但五空没有独立构造两套被动形式，按适中。",
         "answer_evidence": "前句：The blueprints were missing from the folder this morning. 固定片段：[\"They \",\" \",\" \",\" \",\" \",\".\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：They must have been moved while the office was being cleaned.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -4546,7 +4547,7 @@
         "explanation": "读懂：What matters 是“重要的是”；关键在有没有空间放更大的冷冻柜。\n解析：What matters（重要的事）与 whether we have space for it（我们是否有地方放它）由 is（是）连接，前后互换都自然。后者是完整从句，内部主语在动词前，额外 do 不使用。\n下次：先区分设备内部储量和房间摆放空间→将“重要事项”与“是否有地方放”两块用 is 连接→检查代词指冷冻柜，并保持从句完整。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "主语从句与表语从句",
           "嵌入式是否判断"
@@ -4555,9 +4556,9 @@
           "freezer",
           "space"
         ],
-        "rationale": "补收 whether 从句作主语的倒置系表陈述；两个名词性从句互换仍表达同一重点。",
+        "rationale": "What matters 与 we have 成块；六空连接 whether 内容及空间介词短语，按实际语序负担标适中。",
         "answer_evidence": "前句：Would buying a larger freezer solve our storage problem? 固定片段：[\"\",\" \",\" \",\" \",\" \",\" \",\".\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：What matters is whether we have space for it.；Whether we have space for it is what matters.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -4595,7 +4596,7 @@
         "explanation": "读懂：already guessed 是“早已猜到”；观众在演员说完前就猜到结局。\n解析：had already guessed 表更早完成，how the story would end（故事将怎样结束） 是所猜内容；从过去看将来用 would，不用 will。\n下次：先画“猜中结局→演员说完”的先后→组 had already guessed→接 how 从句，检查 would end 没倒装为问句。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "过去完成时",
           "过去将来与嵌入问句"
@@ -4604,9 +4605,9 @@
           "audience",
           "guessed"
         ],
-        "rationale": "过去的预期内容采用 would，时间参照明确。 解析中的关键新词块已补中文释义。",
+        "rationale": "already guessed 和 would end 成块；六空排列过去完成与过去视角的将来内容，语境已给先后关系，按适中。",
         "answer_evidence": "前句：Why did the audience laugh before the actor finished speaking? 固定片段：[\"\",\" \",\" \",\" \",\" \",\" \",\".\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：They had already guessed how the story would end.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -4693,7 +4694,7 @@
         "explanation": "读懂：until…has been approved（已被批准） 是“直到申请获批”；方便的电子版不能替代此阶段的原件。\n解析：keep 接原件对象；until 后 your application（你的申请） 作受事，has been approved 表批准完成。approving 会让申请变成执行批准的主体，且缺少必要助动词。\n下次：先抓保留对象 original document→用 until 指批准完成的终点→核对被动 has been approved，别将获批前的要求误作可立即丢弃。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "时间从句完成被动",
           "保留期限"
@@ -4702,9 +4703,9 @@
           "original document",
           "approved"
         ],
-        "rationale": "纸本签名要求与保留终点明确，时间从句强调批准完成。 解析中的关键新词块已补中文释义。",
+        "rationale": "has been approved 整块给出；六空组织保留原件及直到批准的终点，不把供给的完成被动重复计为难点。",
         "answer_evidence": "前句：The digital copy is convenient, but the original signature is still required. 固定片段：[\"\",\" \",\" \",\" \",\" \",\" \",\".\"]。已逐项检查以下可接受答案均以每槽一个词块、每个词块索引最多使用一次组装：Please keep the original document until your application has been approved.；Until your application has been approved, please keep the original document.。变体针对本题词块、语境和常见自然词序核对，不声称枚举英语所有可能表达。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     }
   ]

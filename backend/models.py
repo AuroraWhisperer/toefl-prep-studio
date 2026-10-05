@@ -37,12 +37,12 @@ class ExamSubmissionItem(BaseModel):
 
 class ExamSubmitRequest(BaseModel):
     submission_id: UUID | None = None
-    responses: list[ExamSubmissionItem] = Field(default_factory=list, max_length=3615)
+    responses: list[ExamSubmissionItem] = Field(default_factory=list, max_length=5745)
     section: SectionName = "all"
     mode: Literal["exam", "bank", "practice"] = "exam"
     task_type: str | None = Field(default=None, max_length=40)
     count: int | None = Field(default=None, ge=1, le=20)
-    question_ids: list[QuestionId] | None = Field(default=None, max_length=3615)
+    question_ids: list[QuestionId] | None = Field(default=None, max_length=5745)
 
 
 class TTSRequest(BaseModel):

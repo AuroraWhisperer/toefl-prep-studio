@@ -22,18 +22,18 @@
   <a href="#task-previews">Task previews</a> ·
   <a href="#usage-notes">Usage notes</a> ·
   <a href="#documentation">Documentation</a> ·
-  <a href="https://github.com/AuroraWhisperer/toefl-prep-studio/releases">Releases (v1.1.0)</a>
+  <a href="https://github.com/AuroraWhisperer/toefl-prep-studio/releases">Releases (v1.2.0)</a>
 </p>
 
 </div>
 
-**New in v1.1.0:** Each Reading and Listening task pool has doubled, bringing the original bank to 3,615 items. This release revises questions and explanations, marks open writing and interview responses for manual review, and improves review typography. See the [release notes](docs/releases/v1.1.0.md).
+**New in v1.2.0:** The original bank grows to 5,745 items, with the cloze and both speaking pools tripled. This release revises difficulty and explanations, adds a Windows tray launcher and a 2026 TOEFL guide, and improves reading navigation, desktop layouts, and archive recovery. See the [release notes](docs/releases/v1.2.0.md).
 
 ## Quick start
 
 You need **Windows, Python 3.10+, and a desktop browser**. Download and extract the source, then double-click **[TOEFL Prep Studio.cmd](<TOEFL Prep Studio.cmd>)** in the project root.
 
-On the first run, the launcher creates a Python environment, installs dependencies, and opens the [local workbench](http://127.0.0.1:38761/) once the service is ready. If the service is already running, it opens the page directly. Everyday use requires no Node.js or frontend build.
+On the first run, the launcher creates a Python environment and installs dependencies, then closes the setup window and runs in the Windows system tray. It opens the [local workbench](http://127.0.0.1:38761/) once the service is ready. If the service is already running, it opens the page directly. Everyday use requires no Node.js or frontend build.
 
 <details>
 <summary><strong>Prefer the command line? Start from PowerShell</strong></summary>
@@ -52,7 +52,7 @@ For later launches, run only the last line. See the [development guide](docs/tec
 
 > **First session:** Pick a section and start task or section practice. The original question bank is included, and comprehensive tests are ready to use. ETS mock exams require a separate [local import of papers you are entitled to use](question_bank/README.md#模考导入与隔离); official materials are not included in the public source.
 
-Keep the service window open while practicing; minimizing it is fine. Closing it stops the service, but closing the browser page does not. The first installation needs internet access, and recording requires microphone permission in your browser.
+Click the green book icon in the system tray to reopen the page; it may be inside the hidden-icons menu marked “^”. Right-click to view the log (“查看运行日志”) or stop the service (“退出服务”). Closing the browser page does not stop the service. The command-line option above keeps a terminal for troubleshooting; closing that terminal stops its service. The first installation needs internet access, and recording requires microphone permission in your browser.
 
 ## Practice and review
 
@@ -106,14 +106,14 @@ Answers, time spent, feedback, and uploaded recordings are saved locally. Find a
 
 ## Question bank
 
-The original bank contains **3,615 practice items across 12 task types**. Every Reading and Listening task pool has doubled from the previous version. A subsequent review of all 3,000 Reading and Listening items revised topics, answers, distractors, and explanations; difficulty follows the actual task demands, without fixed proportions. See the [expansion details](docs/question-bank/receptive-expansion-2026-09-30.md) and [item-by-item revision report](docs/question-bank/receptive-repair-2026-09-30.md). “Section set” below is the number of items in one fixed section practice session.
+The original bank contains **5,745 practice items across 12 task types**. Following the difficulty and design revisions, Complete the Words now has **270 passages / 2,700 blanks**, Listen and Repeat **45 groups / 315 sentences**, and Take an Interview **45 groups / 180 questions**—each three times its size before this expansion. Every level retains vocabulary, grammar, collocations and context; difficulty reflects the actual task demands without quotas. See the [expansion and validation report](docs/question-bank/cloze-speaking-expansion-2026-10-05.md) and [authoring principles](AGENTS.md#question-design-principles). “Section set” below is the number of items in one fixed section practice session.
 
 | Section | Bank items | Section set | Task types |
 | :--- | ---: | ---: | :--- |
-| **Reading** | **1,590** | 50 | Complete the Words<br>Read in Daily Life · Read an Academic Passage |
+| **Reading** | **3,390** | 50 | Complete the Words<br>Read in Daily Life · Read an Academic Passage |
 | **Listening** | **1,410** | 47 | Choose a Response · Conversation<br>Announcement · Academic Talk |
 | **Writing** | **450** | 12 | Build a Sentence · Write an Email<br>Academic Discussion |
-| **Speaking** | **165** | 11 | Listen and Repeat · Take an Interview |
+| **Speaking** | **495** | 11 | Listen and Repeat · Take an Interview |
 
 ETS mock papers are stored separately and excluded from original-practice sampling. Question content and answer keys are kept apart, with scoring handled by the server. See the [question-bank guide](question_bank/README.md) for sources, review requirements, and generation procedures.
 
@@ -256,6 +256,7 @@ For a closer look at a feature or before changing the code, start with the relev
   </thead>
   <tbody>
     <tr><td><a href="docs/technical/development.md"><strong>Development guide</strong></a></td><td>Environment setup, startup troubleshooting, tests, and formatting</td></tr>
+    <tr><td><a href="docs/toefl-2026-guide.md"><strong>2026 TOEFL guide</strong></a></td><td>Counts and timing evidence for all 12 task types, checked against local practice budgets; open the guide from the top right of the homepage</td></tr>
     <tr><td><a href="PRODUCT.md"><strong>Product specification</strong></a></td><td>Feature behavior, practice rules, and scope</td></tr>
     <tr><td><a href="DESIGN.md"><strong>Design specification</strong></a></td><td>Visual language, layouts, and keyboard and mouse interaction</td></tr>
     <tr><td><a href="docs/technical/architecture.md"><strong>System architecture</strong></a></td><td>Stack, module responsibilities, data flow, and storage</td></tr>

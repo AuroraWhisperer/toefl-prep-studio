@@ -1,4 +1,5 @@
 const { test, expect } = require('@playwright/test');
+const { expectFullWidth } = require('./browser_layout_helpers.cjs');
 
 async function openPhase(page, request, phaseIndex) {
   const response = await request.post('/api/v1/tests/sessions', { data: { level: 5 } });
@@ -62,6 +63,43 @@ test('pasted letters and custom Backspace survive immediate refresh', async ({ p
   await expect(letters.nth(0)).toHaveValue('');
   await expect(letters.nth(1)).toHaveValue('');
   await expect(page.locator('#answered-count')).toHaveText('0 / 20 已答');
+});
+
+test('delayed question autofocus preserves a field the learner already selected', async ({
+  page,
+  request,
+}) => {
+  const created = await (
+    await request.post('/api/v1/tests/sessions', { data: { level: 5 } })
+  ).json();
+  const url = `/tests/${created.id}`;
+  await request.post(`/api/v1/tests/sessions/${created.id}`, {
+    data: { phase_index: 0, action: 'begin' },
+  });
+  await page.addInitScript(() => {
+    const frames = [];
+    const original = window.requestAnimationFrame.bind(window);
+    window.requestAnimationFrame = (callback) => {
+      frames.push(callback);
+      return frames.length;
+    };
+    window.releaseFirstPaint = () => {
+      window.requestAnimationFrame = original;
+      frames.splice(0).forEach((callback) => callback(performance.now()));
+    };
+  });
+  expect((await request.get(url)).status()).toBe(200);
+  await page.goto(url);
+  await expect(page.locator('#exam-view')).toBeVisible();
+  await expect(page.locator('.app-shell')).toHaveJSProperty('inert', false);
+  const selected = page.locator('.cloze-letters input').nth(1);
+  await selected.focus();
+  await expect(selected).toBeFocused();
+  await page.evaluate(() => releaseFirstPaint());
+  await expect(selected).toBeFocused();
+  await page.keyboard.type('z');
+  await expect(selected).toHaveValue('z');
+  await expect(page.locator('.cloze-letters input').first()).toHaveValue('');
 });
 
 test('dragged sentence tiles survive immediate refresh without a click', async ({
@@ -167,6 +205,7 @@ for (const [width, height] of [
     });
     await page.locator('#start-test').click();
     await expect(page.locator('#test-title')).toHaveText('阅读 · 模块 1');
+    await expectFullWidth(page.locator('.test-directions, .test-note'));
     await page.locator('#begin-test-phase').click();
     await expect(page.locator('#exam-title')).toContainText('标准卷 A');
     await expect(page.locator('.cloze-letters')).toHaveCount(10);
@@ -186,6 +225,9 @@ test('draft and deadline survive refresh; stage submit routes exactly once', asy
   );
   await page.locator('#begin-test-phase').click();
   const initial = await (await started).json();
+  await expect(page.locator('#question-content').getByRole('heading', { level: 3 })).toHaveText(
+    initial.phase.questions[0].passage_title,
+  );
   await page.locator('.cloze-letters input').first().fill('a');
   await expect
     .poll(() =>
@@ -197,6 +239,9 @@ test('draft and deadline survive refresh; stage submit routes exactly once', asy
   await page.reload();
   await expect(page.locator('#exam-view')).toBeVisible();
   await expect(page.locator('.cloze-letters input').first()).toHaveValue('a');
+  await expect(page.locator('#question-content').getByRole('heading', { level: 3 })).toHaveText(
+    initial.phase.questions[0].passage_title,
+  );
   const resumed = await (await request.get(`/api/v1/tests/sessions/${initial.id}`)).json();
   expect(resumed.deadline).toBe(initial.deadline);
   await page.locator('#submit-exam').click();

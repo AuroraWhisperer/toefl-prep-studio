@@ -17,6 +17,10 @@
   margin: 8px 0;
   color: var(--slate);
 }
+.test-selection-heading {
+  justify-content: flex-start;
+  align-items: center;
+}
 .test-presets {
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));
@@ -70,9 +74,7 @@
 .test-start-form p {
   flex: 1;
 }
-.test-rule,
 .test-note {
-  max-width: 90ch;
   line-height: 1.8;
 }
 .test-note {
@@ -89,7 +91,6 @@
   border-top: 1px solid var(--rule);
 }
 .test-directions {
-  max-width: 900px;
   line-height: 1.8;
 }
 .test-directions .primary-button {

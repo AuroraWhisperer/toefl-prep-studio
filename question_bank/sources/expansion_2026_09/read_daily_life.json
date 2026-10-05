@@ -1142,16 +1142,16 @@
         "explanation": "读懂：题目问终点安排；“Both finish at the railway station”说明两条路线都结束于火车站。\n解析：起点咖啡馆与终点车站不同，两条都不是回起点的环线。虚线也去车站；票钱须自备，并未包含；备用纸图只有一张，由领队保管。\n下次：看到两条路线→分别核对终点→再判断返程交通与费用是否另行安排。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "路线信息整合"
         ],
         "vocabulary": [
           "Both finish at the railway station"
         ],
-        "rationale": "两条终点同为车站非起点咖啡馆，另需票钱且纸图归领队。保留。",
+        "rationale": "调为简单：两条路都不到起点咖啡馆，是 both finish at the railway station, not at our starting café 的直接改写。",
         "answer_evidence": "Both finish at the railway station",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1286,16 +1286,16 @@
         "explanation": "读懂：题目问提醒的用意；“awaiting their final firing”是仍在等最后一次烧制。\n解析：黄色架上虽有亮釉，工序未完，不能取走。提醒不是讨论湿釉妨碍签名；蓝架是待上釉作品；取件箱并非只收无釉作品，而是收完成品。\n下次：看到外观容易误判完成度→查尚缺工序→用流程状态而非亮不亮判断。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "提醒目的"
         ],
         "vocabulary": [
           "awaiting their final firing"
         ],
-        "rationale": "亮釉仍待烧，外观不等工序完成；其余项错配架子或签名。保留。",
+        "rationale": "调为简单：黄色架仍待最终烧制已经明确写出，题目不要求陶艺专业背景。",
         "answer_evidence": "awaiting their final firing",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1502,16 +1502,16 @@
         "explanation": "读懂：题目问哪项不保证；“on that exact date”限定到所选的那个具体日期。\n解析：保留排队顺序不等于保证那天有书。排在新申请前、填写希望日期、通过延期保留预约都是这一选项的内容，不属于文中否定的保障。\n下次：看到不保证题→圈出否定的精确对象→不要把日期不保证扩大成预约全部失效。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "否定范围"
         ],
         "vocabulary": [
           "availability on that exact date is not guaranteed"
         ],
-        "rationale": "明确不保具体日期有书，但保留预约及相对优先；否定范围准确。保留。",
+        "rationale": "调为简单：指定日期不保证可借已经明示；这问只定位明确否定的保障。",
         "answer_evidence": "availability on that exact date is not guaranteed",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1574,16 +1574,16 @@
         "explanation": "读懂：题目问完成投票的标志；“wait for the confirmation screen”指提交后应见到确认画面。\n解析：看到确认才有明确完成反馈。院系显示正确只说明页面版本；工作人员无法查看所选人；截止前打开页面也可能只存草稿，不代表提交成功。\n下次：看到草稿与提交并存→找最终完成反馈→别把打开、刷新或保存当完成。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "提交完成标志"
         ],
         "vocabulary": [
           "confirmation screen"
         ],
-        "rationale": "确认画面区分已提交和草稿；正确院系、已打开、期限内均不足。保留。",
+        "rationale": "调为简单：提交后等待确认画面是明确完成标志，其他选项不构成相近的确认方式。",
         "answer_evidence": "confirmation screen",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1790,16 +1790,16 @@
         "explanation": "读懂：题目问缺席者如何完成要求；“and”连接看课与交简短反思两个必要动作。\n解析：必须观看并于周日前提交反思。只打开网页明确不算；下载课件再报名下一场不是本次要求；提问虽允许，也不能取代学习和提交。\n下次：看到补课要求→把并列动词逐项列出→检查动作与截止日是否同时满足。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "补课要求整合"
         ],
         "vocabulary": [
           "watch the lesson and submit the short reflection by Sunday"
         ],
-        "rationale": "观看与反思两项加期限，打开页面或提问不替代。保留。",
+        "rationale": "调为简单：缺席者看课并在周日前交反思是同一句直接列出的要求，无新情境计算。",
         "answer_evidence": "watch the lesson and submit the short reflection by Sunday",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2150,16 +2150,16 @@
         "explanation": "读懂：题目问第五人如何加入；“add up to two more”表示最多还能加两位。\n解析：第五人可在前台付加人费用。旁观者也影响人数，不能免费不计；中午后的减人数请求不消除四人最低收费，更不能支付新增人；轮换使用四个名额的办法未被授权。\n下次：看到增减人数政策→先判断是加人还是减人→匹配对应收费规则，别借旁观名义绕过计数。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "人数条件应用"
         ],
         "vocabulary": [
           "add up to two more"
         ],
-        "rationale": "第五人属四人外可加两人的范围，须付款；不能免费旁观或借减人数政策抵扣。保留。",
+        "rationale": "调为简单：加一人在可额外加两人的范围内，按明示方式前台付费即可；其他选项没有可行的相近规则。",
         "answer_evidence": "add up to two more",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2222,16 +2222,16 @@
         "explanation": "读懂：题目问票保障什么；“not a seat in the indoor cabin”明确不保证室内座位。\n解析：票保证所订班次的运输。室内座位不承诺；自行车还需另订，折叠也一样；入口变化时以现场屏幕为准，不是纸票永远优先。\n下次：看到保证题→把核心服务与附属便利分开→逐项检查是否另需预约或服从更新。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "保证范围"
         ],
         "vocabulary": [
           "travel on the booked sailing"
         ],
-        "rationale": "保证班次运输，不保室内座位、自行车、固定入口；读排除条款后范围清楚。保留。",
+        "rationale": "调为简单：票保证乘坐所订班次已直接定义，不以渡船和舱位词汇把这一问抬高。",
         "answer_evidence": "travel on the booked sailing",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2330,16 +2330,16 @@
         "explanation": "读懂：题目问安静时段的具体含义；“audible”是听得见，限制的是声音传到邻近营位。\n解析：可以低声交谈或继续活动，但别让邻位听到。并非强迫十点睡觉；洗手间夜间仍开；迟到者仍可步行进营，不是禁止一切移动。\n下次：看到规则解释→识别受限制的是声音、活动还是出入→不要把局部限制扩成全面禁止。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "规则含义"
         ],
         "vocabulary": [
           "should not be audible at neighboring pitches"
         ],
-        "rationale": "限制声音传邻位，不要求睡觉也不关洗手间或禁步行。保留。",
+        "rationale": "调为简单：quiet hours 的含义在第二句直接解释，正项只是改写声音不传到邻位。",
         "answer_evidence": "should not be audible at neighboring pitches",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2582,16 +2582,16 @@
         "explanation": "读懂：题目问怎样退赛不影响下一轮；“before the next pairings are made”强调配对编排之前。\n解析：及时告知裁判台，才能不再为他安排对手。悄然离开不算退赛；公布后才告诉对手已经影响配对；留在旧桌等结束也未完成通知。\n下次：看到退出集体安排→找依赖名单的下一步→在该步骤之前通知负责更新的人。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "通知时机"
         ],
         "vocabulary": [
           "before the next pairings are made"
         ],
-        "rationale": "配对之前通知避免对手空等，离开或配对后通知太晚。保留。",
+        "rationale": "调为简单：下轮配对前通知服务台，是退赛规则的直接指令。",
         "answer_evidence": "before the next pairings are made",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2906,16 +2906,16 @@
         "explanation": "读懂：题目问地址为何写在可拆牌上；“circulate among households”指桶清洗后在各户之间周转。\n解析：地址牌随住户，桶可换给别人，因此不能把地址直接写死在桶上。桶会洗，不是不洗；日常收运也需地址，不只退订时用；月费买服务而非某只桶的产权。\n下次：看到容器循环使用→分清跟随用户的信息和会交换的物件→选择可转移的标识。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "操作原因"
         ],
         "vocabulary": [
           "circulate among households"
         ],
-        "rationale": "桶循环给各家，地址应可转移；不是买桶、不洗桶或只退订时用。保留。",
+        "rationale": "调为简单：桶会在不同住户间循环使用，在 because 从句中直接给出。",
         "answer_evidence": "circulate among households",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3374,16 +3374,16 @@
         "explanation": "读懂：题目问不能爬楼者怎么办；“whether or not”说明无论屋顶活动是否举行都可安排替代参与。\n解析：应提前联系地面层演示。并非只在阴天才提供替代；屋顶仅楼梯可达，没有电梯承诺；自带器材不能改变通行条件。\n下次：看到无障碍安排→寻找独立于天气的条件→提前联系，不把替代参与误当取消后的专属方案。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "替代安排范围"
         ],
         "vocabulary": [
           "whether or not the roof session goes ahead"
         ],
-        "rationale": "无论屋顶照常都可提前联系地面参与；非等阴天或有电梯。保留。",
+        "rationale": "调为简单：不能走楼梯者提前联系地面层活动，是材料直接提供的解决办法。",
         "answer_evidence": "whether or not the roof session goes ahead",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3518,16 +3518,16 @@
         "explanation": "读懂：题目问为何长宽都要看；“equal length”不代表布料总量相同。\n解析：宽度不同，长度相同也可能不够裁剪。不能据宽度要求分块购买；与旁边样布颜色保证无关；也没给出越长越窄的固定关系，须实际读尺寸。\n下次：看到材料足量判断→同时核对两个尺寸→别把单一长度当作可用面积。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "尺寸原因"
         ],
         "vocabulary": [
           "two pieces of equal length may provide different amounts"
         ],
-        "rationale": "等长不同宽面积不同，不保同色或可分割，更无长宽反比规律。保留。",
+        "rationale": "调为简单：等长但宽度不同可有不同布量，原文已明确说明，本问不需要计算面积。",
         "answer_evidence": "two pieces of equal length may provide different amounts",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {

@@ -49,6 +49,8 @@ def apply_review(questions: list[dict], answers: dict, notes: dict) -> None:
 def source_file(question: dict) -> str:
     number = int(question['id'][1:])
     section = question['section']
+    if section in {'reading', 'speaking'} and number > {'reading': 1590, 'speaking': 165}[section]:
+        return f'expansion_2026_10_05/{question["task_type"]}.json'
     if section in {'reading', 'listening'} and number > {'reading': 795, 'listening': 705}[section]:
         return f'expansion_2026_09_30/{question["task_type"]}.json'
     if number > {'reading': 265, 'listening': 235, 'writing': 150, 'speaking': 55}[section]:
@@ -151,6 +153,9 @@ def write_catalogue(root: Path, bank_items: dict, notes: dict, manifest: dict) -
             '',
             '## 内容修订记录',
             '',
+            '- 2026-10-05 复核全部 3,615 道原创题，修订 701 题：300 题涉及题面、答案或解析，401 题仅调整难度等审阅信息。90 篇补词均保留至少两处语法目标；修正词汇与提示导致的虚高分级、造句漏收答案、模板化应用题和复述负担。详见 [content-repair-2026-10-05.md](content-repair-2026-10-05.md)。',
+            '- 2026-10-05 在上述修订基础上新增 180 篇补词、30 组复述和 30 组访谈，共 2,130 小题；三类材料各扩至原数量的三倍，全库 5,745 题。沿用实际补全负担、语法与搭配覆盖和完整组审阅原则，保留原 3,615 题内容及审阅记录。详见 [cloze-speaking-expansion-2026-10-05.md](cloze-speaking-expansion-2026-10-05.md)。',
+            '',
             '- 2026-09-30 后续逐篇复核全部 450 道写作的题面、答案或范文及解析，并完成口语文本与阅读听力遗漏复查；修订 36 题，补收 17 个造句变体及 recognise 拼写，纠正范文与中文解析。邮件、讨论和访谈改为待人工复核，取消关键词数值分。详见 [productive-repair-2026-09-30.md](productive-repair-2026-09-30.md)。',
             '',
             '- 2026-09-30 逐题复核全部 3,000 道原创阅读、听力题：修正科学因果、填词可接受变体、干扰项和教学解析，替换六组学术阅读及三组学术听力共 42 题以补充主题，按实际作答要求分级，不强制各档占比。保留题号、完整组及个人历史；只更新已审阅的变更指纹。详见 [receptive-repair-2026-09-30.md](receptive-repair-2026-09-30.md)。',
@@ -172,7 +177,7 @@ def write_catalogue(root: Path, bank_items: dict, notes: dict, manifest: dict) -
             '',
             '## 覆盖与边界',
             '',
-            f"此前逐题复核 3,000 道阅读、听力；后续遗漏复查与产出题审阅覆盖全部 450 道写作和 165 道口语文本，实际分轮范围见对应报告。校验全部 {manifest['total_questions']} 条结构与指纹。写作参考范文用于示例表达，非官方满分范文；开放写作和访谈仅提供字数与重复措辞提示，质量需人工复核，机器检查不代替语言内容审阅。",
+            f"2026-10-05 复核全部 {manifest['total_questions']} 道原创题的完整材料、题干、选项或词块、答案及解析推理；新增解析三行重读，未改解析其余行结合既有格式和引文回归检查。逐题范围及边界见本轮报告，结构和指纹全部校验。写作参考范文用于示例表达，非官方满分范文；开放写作和访谈仅提供字数与重复措辞提示，质量需人工复核。文本审阅与机器检查不代表语音验证或心理测量标定。",
             '',
             '选择题的答案证据、填词完整词和分级理由仅在维护资料中保留；答题 API 仅公开难度与考点。词汇清单是审阅证据，未冒充官方词频或 CEFR 逐词标定。',
             '',

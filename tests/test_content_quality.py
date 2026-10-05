@@ -23,6 +23,17 @@ def test_recognize_accepts_both_spellings_with_the_fixed_prefix():
         assert not score_one(question, key, wrong)[3]
 
 
+def test_cloze_sentence_initial_words_keep_case_but_scoring_ignores_case():
+    for question_id, word in [('R27', 'As'), ('R564', 'Crews')]:
+        question = store.question(question_id)
+        key = store.answer(question_id)
+        assert question['prefix'] == word[: len(word) // 2]
+        suffix = word[len(question['prefix']) :]
+        for response in (word, word.lower(), suffix, suffix.upper()):
+            assert score_one(question, key, response)[3], (question_id, response)
+        assert not score_one(question, key, word + 's')[3]
+
+
 def test_generated_bank_matches_authoritative_sources():
     for section in ('reading', 'listening', 'writing', 'speaking'):
         questions, answers = getattr(builder, f'build_{section}')()
@@ -38,6 +49,44 @@ def test_generated_bank_matches_authoritative_sources():
             assert content_fingerprint(question, answers[question['id']]) == content_fingerprint(
                 saved, generated_keys[saved['id']]
             )
+
+
+def test_hard_cloze_does_not_give_the_complete_target_in_unmasked_text():
+    # A long word with its spelling supplied is not a difficult completion task.
+    for question in store.all_questions():
+        if question['task_type'] != 'complete_words' or question['difficulty'] != 'hard':
+            continue
+        target = store.answer(question['id'])['reference']
+        visible = re.sub(r'\{R\d+\}', '', question['passage'])
+        assert not re.search(r'\b' + re.escape(target) + r'\b', visible, re.I), question['id']
+
+
+def test_cloze_groups_retain_grammatical_targets():
+    # Local coverage floor requested for this bank, not an ETS percentage or POS tagger.
+    grammatical_words = set(
+        '''
+        a an the this that these those another each every either neither some any no all
+        both several such more less most least many much few fewer little enough other others
+        someone anyone everyone nobody somebody anybody everybody something anything nothing
+        i me my mine myself we us our ours ourselves you your yours yourself yourselves
+        he him his himself she her hers herself it its itself they them their theirs themselves
+        who whom whose which what where when why how whoever whatever whenever wherever
+        am is are was were be been being has had do does did can could may might must
+        shall should will would ought not and but or nor so yet for although though even
+        if unless because since while whereas whether than as until once provided
+        about above across after against along among around at before below beneath
+        beside besides between beyond by despite down during except from in inside into
+        like near of off on onto out outside over past per through throughout till to
+        toward towards under underneath unlike up upon via with within without
+    '''.split()
+    )
+    groups = {}
+    for question in store.all_questions():
+        if question['task_type'] == 'complete_words':
+            groups.setdefault(question['group_id'], []).append(question)
+    for group in groups.values():
+        targets = [store.answer(q['id'])['reference'].casefold() for q in group]
+        assert sum(word in grammatical_words for word in targets) >= 2, group[0]['id']
 
 
 def test_insertion_tasks_have_unique_markers_and_private_position_keys():

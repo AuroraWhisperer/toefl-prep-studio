@@ -33,20 +33,17 @@ SOURCES = ROOT / 'question_bank/sources/expansion_2026_09'
 
 def test_each_practice_task_has_its_current_expansion_factor():
     store = QuestionStore()
-    assert store.manifest()['total_questions'] == 3615
+    assert store.manifest()['total_questions'] == 5745
     for section, tasks in BASE_COUNTS.items():
         questions = store.questions_for(section, 'bank')
-        assert Counter(q['task_type'] for q in questions) == {
-            task: count * (6 if section in {'reading', 'listening'} else 3)
+        factor = 9 if section == 'speaking' else 6 if section in {'reading', 'listening'} else 3
+        expected = {
+            task: count * (18 if task == 'complete_words' else factor)
             for task, count in tasks.items()
         }
+        assert Counter(q['task_type'] for q in questions) == expected
         ids = sorted((q['id'] for q in questions), key=lambda qid: int(qid[1:]))
-        assert ids == [
-            f'{section[0].upper()}{i:02d}'
-            for i in range(
-                1, BASE_TOTALS[section] * (6 if section in {'reading', 'listening'} else 3) + 1
-            )
-        ]
+        assert ids == [f'{section[0].upper()}{i:02d}' for i in range(1, sum(expected.values()) + 1)]
 
 
 def test_expansion_sources_keys_and_sealed_reviews_match_generated_items():
@@ -158,11 +155,11 @@ def test_full_bank_submission_limit_supports_the_expanded_bank_and_remains_bound
     request = ExamSubmitRequest(
         mode='bank', question_ids=ids, responses=[{'question_id': qid} for qid in ids]
     )
-    assert len(request.responses) == len(request.question_ids) == 3615
+    assert len(request.responses) == len(request.question_ids) == 5745
     with pytest.raises(ValidationError):
-        ExamSubmitRequest(mode='bank', responses=[{'question_id': 'R01'}] * 3616)
+        ExamSubmitRequest(mode='bank', responses=[{'question_id': 'R01'}] * 5746)
     with pytest.raises(ValidationError):
-        ExamSubmitRequest(mode='bank', question_ids=['R01'] * 3616)
+        ExamSubmitRequest(mode='bank', question_ids=['R01'] * 5746)
 
 
 @pytest.mark.parametrize(

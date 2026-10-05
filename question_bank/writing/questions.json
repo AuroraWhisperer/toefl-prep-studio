@@ -572,7 +572,7 @@
         "min": 100
       },
       "max_seconds": 600,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "立场与论证",
         "回应不同观点"
@@ -643,7 +643,7 @@
       "id": "W32",
       "section": "writing",
       "task_type": "build_sentence",
-      "prompt": "The library received the books we requested yesterday.",
+      "prompt": "The books we requested arrived at the library yesterday.",
       "response_type": "sentence",
       "word_bank": [
         "the books",
@@ -778,7 +778,7 @@
         "?"
       ],
       "instruction": "Make an appropriate sentence.",
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "疑问句与从句结构",
         "词序与语境"
@@ -832,7 +832,7 @@
         "."
       ],
       "instruction": "Make an appropriate sentence.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "句子结构",
         "词序与从句"
@@ -986,7 +986,7 @@
         "?"
       ],
       "instruction": "Make an appropriate sentence.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "疑问句与从句结构",
         "词序与语境"
@@ -1026,7 +1026,7 @@
       "id": "W45",
       "section": "writing",
       "task_type": "build_sentence",
-      "prompt": "The research team reported an unexpected result.",
+      "prompt": "The research team reported an unexpected result about the recovery.",
       "response_type": "sentence",
       "word_bank": [
         "about",
@@ -1555,7 +1555,7 @@
         "."
       ],
       "instruction": "Make an appropriate sentence.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "句子结构",
         "词序与从句"
@@ -1643,7 +1643,7 @@
         "?"
       ],
       "instruction": "Make an appropriate sentence.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "疑问句与从句结构",
         "词序与语境"
@@ -1671,7 +1671,7 @@
         "."
       ],
       "instruction": "Make an appropriate sentence.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "句子结构",
         "词序与从句"
@@ -1731,7 +1731,7 @@
         "?"
       ],
       "instruction": "Make an appropriate sentence.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "疑问句与从句结构",
         "词序与语境"
@@ -1788,7 +1788,7 @@
         "."
       ],
       "instruction": "Make an appropriate sentence.",
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "句子结构",
         "词序与从句"
@@ -2252,7 +2252,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "沟通目的与语域",
         "组织与具体细节"
@@ -2300,7 +2300,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "沟通目的与语域",
         "组织与具体细节"
@@ -2412,7 +2412,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "沟通目的与语域",
         "组织与具体细节"
@@ -2444,7 +2444,7 @@
         "min": 100
       },
       "max_seconds": 600,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "立场与论证",
         "回应不同观点"
@@ -2588,7 +2588,7 @@
         "min": 100
       },
       "max_seconds": 600,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "立场与论证",
         "回应不同观点"
@@ -2716,7 +2716,7 @@
         "min": 100
       },
       "max_seconds": 600,
-      "difficulty": "easy",
+      "difficulty": "medium",
       "skills": [
         "立场与论证",
         "回应不同观点"
@@ -2748,7 +2748,7 @@
         "min": 100
       },
       "max_seconds": 600,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "立场与论证",
         "回应不同观点"
@@ -2860,7 +2860,7 @@
         "min": 100
       },
       "max_seconds": 600,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "立场与论证",
         "回应不同观点"
@@ -3020,7 +3020,7 @@
         "min": 100
       },
       "max_seconds": 600,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "立场与论证",
         "回应不同观点"
@@ -3052,7 +3052,7 @@
         "min": 100
       },
       "max_seconds": 600,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "立场与论证",
         "回应不同观点"
@@ -3068,7 +3068,7 @@
         "min": 100
       },
       "max_seconds": 600,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "立场与论证",
         "回应不同观点"
@@ -3616,7 +3616,7 @@
         "that",
         "the open window"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "强调句",
         "动词宾语与小品词"
@@ -3645,7 +3645,7 @@
         "the caretaker left",
         "been given"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "过去完成时被动",
         "事件先后"
@@ -3701,7 +3701,7 @@
         "should be",
         "does"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "嵌入式地点问句",
         "情态被动"
@@ -4013,7 +4013,7 @@
         "spread out",
         "we could"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "非真实条件句",
         "短语动词词块"
@@ -4099,7 +4099,7 @@
         "Those",
         "had not registered"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "关系从句",
         "多层否定"
@@ -4294,7 +4294,7 @@
         "keeping",
         "in case it failed"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "情态完成式",
         "预防条件"
@@ -4351,7 +4351,7 @@
         "chemical storage",
         "The rules"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "关系从句嵌入",
         "将来时被动"
@@ -4612,7 +4612,7 @@
         "the two parks",
         "do"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "反意疑问句",
         "单数代词回指"
@@ -4671,7 +4671,7 @@
         "The researcher",
         "article"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "所属关系从句",
         "句中固定关系词"
@@ -4897,7 +4897,7 @@
         "promised",
         "to email"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "promise 后不定式",
         "状语范围"
@@ -4953,7 +4953,7 @@
         "seats",
         "wait"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "关联比较结构",
         "可数名词数量"
@@ -5061,7 +5061,7 @@
         "a pair",
         "borrows"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "时间条件从句",
         "单数不定代词与回指"
@@ -5150,7 +5150,7 @@
         "we had",
         "we would"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "过去反事实条件句",
         "完成式搭配"
@@ -5204,7 +5204,7 @@
         "the supervisor",
         "the setup"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "要求式虚拟语气",
         "前置条件"
@@ -5260,7 +5260,7 @@
         "does not",
         "What"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "名词性主语从句",
         "否定助动词"
@@ -5286,7 +5286,7 @@
         "free",
         "is"
       ],
-      "difficulty": "medium",
+      "difficulty": "easy",
       "skills": [
         "名词后修饰",
         "受益对象范围"
@@ -5432,7 +5432,7 @@
         "of what we agreed",
         "I"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "预防条件",
         "介词后内容从句"
@@ -5666,7 +5666,7 @@
         "been moved",
         "was being cleaned"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "情态完成被动",
         "过去进行时被动"
@@ -5842,7 +5842,7 @@
         "for it",
         "we have"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "主语从句与表语从句",
         "嵌入式是否判断"
@@ -5873,7 +5873,7 @@
         "They",
         "already guessed"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "过去完成时",
         "过去将来与嵌入问句"
@@ -5933,7 +5933,7 @@
         "your application",
         "Please"
       ],
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "时间从句完成被动",
         "保留期限"
@@ -6000,7 +6000,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "任务覆盖与具体细节",
         "收件人关系与语气",
@@ -6221,7 +6221,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "任务覆盖与具体细节",
         "收件人关系与语气",
@@ -6323,7 +6323,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "任务覆盖与具体细节",
         "收件人关系与语气",
@@ -6357,7 +6357,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "任务覆盖与具体细节",
         "收件人关系与语气",
@@ -6408,7 +6408,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "任务覆盖与具体细节",
         "收件人关系与语气",
@@ -6425,7 +6425,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "任务覆盖与具体细节",
         "收件人关系与语气",
@@ -6476,7 +6476,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "easy",
+      "difficulty": "medium",
       "skills": [
         "任务覆盖与具体细节",
         "收件人关系与语气",
@@ -6493,7 +6493,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "任务覆盖与具体细节",
         "收件人关系与语气",
@@ -6578,7 +6578,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "任务覆盖与具体细节",
         "收件人关系与语气",
@@ -6612,7 +6612,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "任务覆盖与具体细节",
         "收件人关系与语气",
@@ -6731,7 +6731,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "任务覆盖与具体细节",
         "收件人关系与语气",
@@ -6748,7 +6748,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "任务覆盖与具体细节",
         "收件人关系与语气",
@@ -6765,7 +6765,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "任务覆盖与具体细节",
         "收件人关系与语气",
@@ -6816,7 +6816,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "任务覆盖与具体细节",
         "收件人关系与语气",
@@ -6935,7 +6935,7 @@
         "recommended_min": 100
       },
       "max_seconds": 420,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "任务覆盖与具体细节",
         "收件人关系与语气",
@@ -7761,7 +7761,7 @@
         "min": 100
       },
       "max_seconds": 600,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "界定信息边界",
         "兼顾回报与可达性"
@@ -8033,7 +8033,7 @@
         "min": 100
       },
       "max_seconds": 600,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "区分独立证据",
         "管理信息不确定性"
@@ -8113,7 +8113,7 @@
         "min": 100
       },
       "max_seconds": 600,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "用微观场景解释差异",
         "区分史实与示例"
@@ -8401,7 +8401,7 @@
         "min": 100
       },
       "max_seconds": 600,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "区分总量与峰值",
         "控制试行边界"
@@ -8641,7 +8641,7 @@
         "min": 100
       },
       "max_seconds": 600,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "区分信息用途",
         "避免虚假平衡"
@@ -8833,7 +8833,7 @@
         "min": 100
       },
       "max_seconds": 600,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "区分呈现与证据",
         "考虑脱离上下文传播"
@@ -9041,7 +9041,7 @@
         "min": 100
       },
       "max_seconds": 600,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "区分问题成因",
         "限定政策适用时段"
@@ -9121,7 +9121,7 @@
         "min": 100
       },
       "max_seconds": 600,
-      "difficulty": "hard",
+      "difficulty": "medium",
       "skills": [
         "识别群体假设",
         "界定自愿参与的边界"

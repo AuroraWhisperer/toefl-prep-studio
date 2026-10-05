@@ -108,7 +108,7 @@
         "explanation": "读懂：uncertain outcomes 是“结果不确定”；讨论学校任务应容许探索还是都预设明确结果。\n解析：示例支持部分开放任务，以活动人数预测说明调整思路；同时区分“结果开放”与“评分规则不清”。支持明确结果同样可从初学者需要出发。\n下次：听到学校应如何安排→先表立场→用一个课堂任务说明学习效果，再检查没有把不确定结果等同于老师不给任何指导。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "教育观点论证",
           "概念区分"
@@ -117,9 +117,9 @@
           "uncertain outcomes",
           "evaluated"
         ],
-        "rationale": "从个人决策上升到教学安排，开放结果与透明评价有实质区别。",
+        "rationale": "题干只要求对任务结果是否明确表达观点及理由；“开放结果与透明评分”的区分是范文增量，不是作答门槛，标适中。",
         "answer_evidence": "题问：Should schools deliberately give students tasks with uncertain outcomes, or should every task have a clearly defined result? Why? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；2026-09-30 起访谈标记待人工复核，不按关键词计分；不同立场或同义表达须按任务要求人工判断。参考文本 76 词，45 秒的可说性仅作文本长度检查。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -148,7 +148,7 @@
         "explanation": "读懂：unexpected needs 是“临时出现的需要”；在增加计划活动和留备用资金之间作建议。\n解析：示例优先留部分备用金，用教室突发停用说明保护既有课程的价值，并避免全部闲置。支持增加活动也可，需解释为何当前需求更值得投入。\n下次：听到有限资金取舍→先选优先用途→讲一个受益场景，再补保留资金或增加活动的边界，检查不是无成本地“两边全要”。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "资源取舍",
           "条件与后果"
@@ -157,9 +157,9 @@
           "reserve",
           "funds"
         ],
-        "rationale": "由个人变化推及公共预算，参考提出比例未指定的部分储备而非虚构财务数字。",
+        "rationale": "明确在增加活动与预留经费间选择；可用一个突发或当前需求例子支撑，不要求设计储备比例或审核制度，标适中。",
         "answer_evidence": "题问：A community center can spend extra funds on more scheduled activities or keep the money available for unexpected needs. Which approach would you recommend? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；2026-09-30 起访谈标记待人工复核，不按关键词计分；不同立场或同义表达须按任务要求人工判断。参考文本 75 词，45 秒的可说性仅作文本长度检查。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -268,7 +268,7 @@
         "explanation": "读懂：everyday skills 是“日常技能”；说明是否赞成学校多教做饭、基础维修等内容。\n解析：示例支持少量整合项目，用烹饪连接计划与测量，回应课时成本；不是声称学术科目应全部取消。反对者也可解释学校职责或家庭渠道。\n下次：先表是否赞成→选一种可教技能说明具体收益→补课程安排边界，检查收益与学校教学有关，而不只是你个人喜欢做饭。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "教育资源论证",
           "举例与限定"
@@ -277,9 +277,9 @@
           "measurements",
           "academic subject"
         ],
-        "rationale": "一般教育观点含课时取舍，允许赞同或反对。",
+        "rationale": "一般教育观点可用一项日常技能及好处展开；课时整合是范文选择而非题干额外约束，标适中。",
         "answer_evidence": "题问：Some people think schools should teach more everyday skills, such as cooking or basic repairs. Do you agree? Why or why not? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；2026-09-30 起访谈标记待人工复核，不按关键词计分；不同立场或同义表达须按任务要求人工判断。参考文本 77 词，45 秒的可说性仅作文本长度检查。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -308,7 +308,7 @@
         "explanation": "读懂：expert-led courses 是“专家带领课程”，informal groups 是“居民互教小组”；建议资金支持方式。\n解析：示例按出错后果分配教学资源：普通缝补可互教，专门设备需合格指导。两边支持并非回避选择，关键是给出清楚分工，不能假定所有熟手都擅长教学。\n下次：遇到机构方案比较→先定选择标准→给两类技能说明分工或优先级，检查钱和教师资源的安排能对应实际需求。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "方案比较",
           "风险与教学责任"
@@ -317,9 +317,9 @@
           "instructor",
           "informal groups"
         ],
-        "rationale": "较广公共服务取舍，分工标准具体但不提供危险操作步骤。",
+        "rationale": "比较专家课程与居民互教并作选择；按风险划分教学责任仅为参考立场，不应据此定 hard，标适中。",
         "answer_evidence": "题问：A town wants to help residents learn useful skills. Should it fund expert-led courses or informal groups where residents teach one another? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；2026-09-30 起访谈标记待人工复核，不按关键词计分；不同立场或同义表达须按任务要求人工判断。参考文本 79 词，45 秒的可说性仅作文本长度检查。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -588,7 +588,7 @@
         "explanation": "读懂：make reservations online 是“在网上预约”，这样可享较低价格；评价做法时要考虑便利和不能上网的人。\n解析：示例支持小幅优惠，理由是减少接听电话成本，但保留电话途径；不把所有顾客都假定为熟练上网者。反对也可从公平或价格透明出发。\n下次：听到带条件优惠→先说是否支持→解释运营收益和受影响人群，再核对立场有没有回应“只有网上预约优惠”的条件。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "经营与公平",
           "条件性支持"
@@ -597,9 +597,9 @@
           "reservations",
           "discount"
         ],
-        "rationale": "服务数字化的价格取舍，参考未把成本减少写成经验证实的事实。 解析核对题目原词并用中文解释，组织建议不设为唯一作答方式。",
+        "rationale": "题干询问网上预约优惠是否合理及原因；不强制提出价格透明、数字可及性和线下替代三层方案，标适中。",
         "answer_evidence": "题问：Some local businesses offer lower prices if customers make reservations online. Is this a good approach? Why or why not? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；2026-09-30 起访谈标记待人工复核，不按关键词计分；不同立场或同义表达须按任务要求人工判断。参考文本 77 词，45 秒的可说性仅作文本长度检查。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -628,7 +628,7 @@
         "explanation": "读懂：priority 是“优先事项”；在升级网上办事入口和延长有人服务的柜台时间之间排序。\n解析：示例先选每周一次晚间柜台，回应白天工作的居民和复杂问题；网上常用功能逐步改善。选网上优先同样可，但要说明它能解决哪类实际障碍。\n下次：先明确第一笔资源投向→指出最受益群体和具体问题→补另一渠道如何保留，检查不是把两项都写成无条件全面扩张。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "公共服务优先级",
           "可及性"
@@ -637,9 +637,9 @@
           "portal",
           "staffed desk"
         ],
-        "rationale": "由商业服务延伸公共服务可及性，建议有明确先后。",
+        "rationale": "在网上平台与延长柜台时段中确定优先级并解释；范文的分阶段改善不是必答要求，标适中。",
         "answer_evidence": "题问：A town can improve its online service portal or keep a staffed service desk open longer. Which should be the priority, and why? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；2026-09-30 起访谈标记待人工复核，不按关键词计分；不同立场或同义表达须按任务要求人工判断。参考文本 78 词，45 秒的可说性仅作文本长度检查。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -788,7 +788,7 @@
         "explanation": "读懂：confirm details 是“核实细节”；讨论快发与确认之间的优先级。\n解析：示例先重核实，但允许发布已确认部分并注明未知；“活动中断”不等于已知中断原因。主张速度优先也需说明怎样标明不确定，而非默认猜测可当事实。\n下次：先定优先原则→区分已知事实与待查原因→举一个可先发而不猜测的内容，最后检查是否交代新证据出现后怎样更正。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "公共信息责任",
           "不确定性边界"
@@ -797,9 +797,9 @@
           "speculation",
           "correction"
         ],
-        "rationale": "由个人判断扩大到发布责任，使用虚构一般事件而非实际新闻断言。",
+        "rationale": "要求在速度和核实间定优先级；示例的已知／未知界限及更正制度可丰富回答，但不都是必答点，标适中。",
         "answer_evidence": "题问：News organizations sometimes must choose between publishing quickly and waiting to confirm details. Which should they prioritize? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；2026-09-30 起访谈标记待人工复核，不按关键词计分；不同立场或同义表达须按任务要求人工判断。参考文本 79 词，45 秒的可说性仅作文本长度检查。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -908,7 +908,7 @@
         "explanation": "读懂：before they graduate 是“毕业前”；评价大学生获得工作经验是否必要。\n解析：示例认可真实责任和沟通练习，但不赞成忽略课业与家庭负担的统一要求，提出弹性项目。支持强制实习也可，须解释机会如何公平获得。\n下次：先区别“有价值”与“人人必须”→举工作带来的具体学习→检查建议是否考虑不能固定兼职的学生，而非把他们判为不努力。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "一般观点与政策区分",
           "公平条件"
@@ -917,9 +917,9 @@
           "graduate",
           "responsibilities"
         ],
-        "rationale": "社会观点允许支持价值但反对僵硬要求，评价层次不混淆。",
+        "rationale": "表达大学生毕业前工作经验是否有益或必要并给理由；公平安排和弹性项目是范文扩展，不是题干指定，标适中。",
         "answer_evidence": "题问：Do you think university students should have some work experience before they graduate? Why or why not? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；2026-09-30 起访谈标记待人工复核，不按关键词计分；不同立场或同义表达须按任务要求人工判断。参考文本 77 词，45 秒的可说性仅作文本长度检查。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -948,7 +948,7 @@
         "explanation": "读懂：willingness to learn 是“学习意愿”；比较招聘新手时现有技能与学习态度的权重。\n解析：示例在基础任务易培训时偏向学习意愿，但不取消岗位必需技能；用实际任务加学习经历来判断，避免把会自夸等于能学习。相反优先级也可有理有据。\n下次：先限定一种岗位条件→说更看重什么及为何→给可观察的评估办法，检查“愿意学”有行为证据而不只是热情口号。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "招聘标准比较",
           "可观察证据"
@@ -957,9 +957,9 @@
           "willingness",
           "essential skills"
         ],
-        "rationale": "更广用人决策有条件界限，不把意愿替代所有资格。",
+        "rationale": "明确比较现有技能和学习意愿；给偏好及岗位例子即可，不需设计招聘考核流程，标适中。",
         "answer_evidence": "题问：When employers hire people with little experience, should they focus more on current skills or on willingness to learn? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；2026-09-30 起访谈标记待人工复核，不按关键词计分；不同立场或同义表达须按任务要求人工判断。参考文本 79 词，45 秒的可说性仅作文本长度检查。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1068,7 +1068,7 @@
         "explanation": "读懂：lower price per item 是“每件单价更低”；评价多买优惠，不能只比较总价数字。\n解析：示例把能用完的肥皂与可能浪费的食物区分，指出单价低不一定总支出或实际成本低。支持或反对促销都可，需联系储存、用量或浪费。\n下次：先判断买的人能否用完→举一种合适或不合适的商品→检查结论是否同时考虑单价、购买量和实际使用。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "成本概念区分",
           "消费者差异"
@@ -1077,9 +1077,9 @@
           "quantity discounts",
           "unit price"
         ],
-        "rationale": "消费观点非个人财务建议，具体例子揭示单价与需求差异。",
+        "rationale": "数量优惠的熟悉消费话题，给支持或反对及用量例子即可；范文额外的价格展示建议不构成 hard 依据。",
         "answer_evidence": "题问：Should stores encourage customers to buy larger quantities at a lower price per item? Why or why not? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；2026-09-30 起访谈标记待人工复核，不按关键词计分；不同立场或同义表达须按任务要求人工判断。参考文本 78 词，45 秒的可说性仅作文本长度检查。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1108,7 +1108,7 @@
         "explanation": "读懂：rarely used equipment 是“很少用到的设备”；比较借用中心与少买宣传两种措施。\n解析：示例优先借用中心，以偶尔装置物架需用钻机说明替代办法，宣传作为辅助。偏向教育也可，但要解释居民仍需完成任务时怎么办。\n下次：先选优先政策→用一种低频设备说明需求如何被满足→检查没有把“少购买”误说成“不准完成日常任务”。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "政策工具比较",
           "替代方案"
@@ -1117,9 +1117,9 @@
           "lending centers",
           "equipment"
         ],
-        "rationale": "由个人购买延伸共享设备政策，提供需求替代而非空泛环保口号。",
+        "rationale": "在借用中心与少买教育之间建议优先方向；任务没有要求同时设计配套宣传或完整公共服务方案，标适中。",
         "answer_evidence": "题问：A city wants to reduce the amount of rarely used equipment that residents buy. Should it support lending centers, or should it focus on educating people to buy less? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；2026-09-30 起访谈标记待人工复核，不按关键词计分；不同立场或同义表达须按任务要求人工判断。参考文本 76 词，45 秒的可说性仅作文本长度检查。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1268,7 +1268,7 @@
         "explanation": "读懂：maintain existing paths, benches, and toilets 是“维护已有的小路、长椅和厕所”；资源有限时要在新增亮点与基础维护之间排序。\n解析：示例先维护路、椅子和厕所，用推婴儿车与步行困难者共同受益说明广覆盖。优先新增也可，但应解释为何已有基础足够，不能跳过当前维护问题。\n下次：先给第一优先级→举影响多种访客的一项设施→检查理由是否支持你选定的优先级，并交代有限资金下另一类需求如何处理。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "公共资源排序",
           "具体受益者"
@@ -1277,9 +1277,9 @@
           "facilities",
           "stroller"
         ],
-        "rationale": "优先维护已有设施，以修复破损路面使其平整说明不同访客如何受益。",
+        "rationale": "在维护与新增之间给出有理由的优先级；有限经费下可用一种访客需求说明，无须范文里的多群体细分，标适中。",
         "answer_evidence": "题问：A public park has limited funds. Should it add new attractions or maintain existing paths, benches, and toilets first? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；2026-09-30 起访谈标记待人工复核，不按关键词计分；不同立场或同义表达须按任务要求人工判断。参考文本 78 词，45 秒的可说性仅作文本长度检查。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1388,7 +1388,7 @@
         "explanation": "读懂：revise work after receiving a grade 是“评分后再修改作业”；评价是否应给这种机会。\n解析：示例支持修改并要求解释改动，通过文章结构调整体现学习；同时设置期限与分数政策。反对也可从公平或教学时间讨论，不必认同范文立场。\n下次：先说是否允许→解释反馈怎样转成学习行为→检查期限和评分规则是否清楚，别把修改机会等同于无条件加分。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "教育政策论证",
           "机会与公平"
@@ -1397,9 +1397,9 @@
           "revisions",
           "deadline"
         ],
-        "rationale": "允许修订的学习价值与评分公平同时回应，避免隐含改分保证。",
+        "rationale": "对评分后是否允许修改给观点和理由；截止日与改分规则为范文补充，题干未强制同时回应，标适中。",
         "answer_evidence": "题问：Should teachers allow students to revise work after receiving a grade? Why or why not? 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；2026-09-30 起访谈标记待人工复核，不按关键词计分；不同立场或同义表达须按任务要求人工判断。参考文本 78 词，45 秒的可说性仅作文本长度检查。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1428,7 +1428,7 @@
         "explanation": "读懂：privately 是“私下”，whole team 是“整个团队”；讨论纠错场合，而不是是否隐瞒错误。\n解析：示例个人问题私下了解、通用流程向团队讲解，以文件命名示范说明可共享方法而不点名羞辱。主张公开讨论也要解释适用情境与保护沟通的做法。\n下次：先区分个人责任和团队都需知道的知识→给处理顺序→检查方案既能纠正问题，又不是把对人的责备当成唯一教学办法。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "职场沟通",
           "个人与团队边界"
@@ -1437,9 +1437,9 @@
           "privately",
           "procedure"
         ],
-        "rationale": "由接受个人反馈扩展组织纠错，不宣称唯一正确管理方式。",
+        "rationale": "就私下或全组纠错说明选择；示例的个人／通用问题分工是一种可行答案，不是必须完成的双层要求，标适中。",
         "answer_evidence": "题问：In a workplace, is it better for a manager to correct mistakes privately or discuss them with the whole team? Explain your view. 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；2026-09-30 起访谈标记待人工复核，不按关键词计分；不同立场或同义表达须按任务要求人工判断。参考文本 78 词，45 秒的可说性仅作文本长度检查。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1588,7 +1588,7 @@
         "explanation": "读懂：unwanted possessions 是“不再需要的物品”；推荐减少这类浪费的社区办法，可提出维修、交换或其他方案。\n解析：示例优先二手交换，以仍能使用的台灯匹配新住户，补充状态说明和领取安排。支持维修活动也可，但需说明针对哪类闲置物以及如何运作。\n下次：先区分坏了与仅不再需要→选择对应方案→讲一个物品如何到达新用途，检查措施不只是换地方堆放物品。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "社区方案设计",
           "问题分类"
@@ -1597,9 +1597,9 @@
           "secondhand exchange",
           "condition"
         ],
-        "rationale": "全组由保留旧物走到社区资源再分配，参考给出真实可操作步骤。",
+        "rationale": "可从维修、二手交换或其他办法选一个并解释；不要求规划登记领取全流程，标适中。",
         "answer_evidence": "题问：A community wants to reduce waste from unwanted possessions. Would you recommend repair events, secondhand exchanges, or another approach? Explain your recommendation. 参考为本地编写的可能回答，非真实受访记录或唯一立场；内容与题问逐项核对。关键词为中性话题线索，不是必需观点；2026-09-30 起访谈标记待人工复核，不按关键词计分；不同立场或同义表达须按任务要求人工判断。参考文本 78 词，45 秒的可说性仅作文本长度检查。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     }
   ]

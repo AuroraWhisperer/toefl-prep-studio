@@ -25,12 +25,10 @@
 
     function renderSelection() {
       const selected = profile();
-      view.innerHTML = `<header class="test-heading"><div><h1 id="test-title" tabindex="-1">选择测验难度</h1><p>五套组卷方案 · 四科 120 题 · 约 90 分钟</p></div><button type="button" class="text-button" data-test-home>返回首页</button></header>
+      view.innerHTML = `<header class="test-heading test-selection-heading"><button type="button" class="text-button home-button return-button" data-test-home><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m12 19-7-7 7-7M5 12h14" /></svg><span>返回首页</span></button><div><h1 id="test-title" tabindex="-1">选择测验难度</h1><p>四科 120 题 · 约 90 分钟</p></div></header>
         <div id="test-error" class="mock-error" role="alert" hidden></div>
         <div class="test-presets" role="group" aria-label="选择测验方案">${catalog.papers.map((p) => `<button type="button" data-test-level="${p.level}" class="test-preset ${p.id === selected.id ? 'is-selected' : ''}" aria-pressed="${p.id === selected.id}"><span>${esc(p.label)}</span><strong>${esc(p.title)}</strong><span>默认 ${p.level} / 10</span></button>`).join('')}</div>
         <form id="test-start-form" class="test-start-form"><div><label for="test-level">起始难度</label><select id="test-level" name="level">${catalog.levels.map((n) => `<option value="${n}" ${n === level ? 'selected' : ''}>${n} / 10</option>`).join('')}</select></div><p id="test-level-summary" aria-live="polite">${esc(selected.title)} · 自适应范围 ${selected.bounds[0]}–${selected.bounds[1]} 档</p><button class="primary-button" id="start-test" type="submit">开始测验 →</button></form>
-        <p class="test-rule">难易混合，不是整卷同一难度。阅读和听力各自根据第一模块正确率调整：80% 起升 2 档，低于 50% 降 2 档，其余保持；始终限制在本卷范围内。</p>
-        <p class="test-note">阅读 50 · 听力 47 · 写作 12 · 口语 11。使用已审阅原创题随机组卷，不同方案或重考可能有重复材料；1–10 档是选材倾向，不是 ETS 标定。写作、口语不自适应，也不换算官方成绩。</p>
         ${localStorage.getItem(storageKey) ? '<div class="test-resume"><span>上次测验已保存，继续后计时不重置。</span><button type="button" class="text-button" id="resume-test">继续上次测验 →</button></div>' : ''}`;
     }
 

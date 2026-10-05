@@ -162,7 +162,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问两把同温勺为什么摸起来不同。transfer of heat 是“热的传递”。\n解析：两勺都比手凉，金属让手的热量流走得更快，所以感觉更冷。温度计已经排除了初温不同；并不是木头持续生热，也不是金属把热传进较暖的手。\n下次：先比较手和物体谁温度高，再判断热流向哪里、流得多快，最后解释触感。"
+        "explanation": "读懂：问两把同温勺为什么摸起来不同。transfer of heat 是“热的传递”。\n解析：两勺都比手凉，金属让手的热量流走得更快，所以感觉更冷。初温更低与温度计结果相反；同温不代表传热速度相同；木勺也不会向较暖的手供热。\n下次：先比较手和物体谁温度高，再判断热流向哪里、流得多快，最后解释触感。"
       },
       "review": {
         "difficulty": "medium",
@@ -172,9 +172,9 @@
         "vocabulary": [
           "transfer of heat"
         ],
-        "rationale": "两勺都比手凉，金属让手的热量流走得更快，所以感觉更冷。温度计已经排除了初温不同；并不是木头持续生热，也不是金属把热传进较暖的手。 逐题补明提问、线索中文意思和检查方法。 用本讲座概念混淆替换明显离题干扰。",
+        "rationale": "区分同温与不同传热速度；解释逐项对应当前选项，不再讨论旧版的木头产热或金属向暖手供热干扰。",
         "answer_evidence": "Heat therefore leaves your warmer hand more quickly when you touch the metal.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -270,16 +270,16 @@
         "explanation": "读懂：问结尾再次强调了哪组区别。related but different properties 是“相关但不同的性质”。\n解析：结尾区分物体的温度与它向皮肤传热的方式。金属和木头初温相同，不是在比较谁初温更低；也没有比较勺子的储放时间或自身产热。\n下次：听总结句，回到开头的疑问，找哪两个概念能解释这个疑问，别只选例子里出现的物品。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "篇章总结"
         ],
         "vocabulary": [
           "related but different properties"
         ],
-        "rationale": "结尾区分物体的温度与它向皮肤传热的方式。金属和木头初温相同，不是在比较谁初温更低；也没有比较勺子的储放时间或自身产热。 逐题补明提问、线索中文意思和检查方法。 用本讲座概念混淆替换明显离题干扰。",
+        "rationale": "按实际任务校正：末句明确重复温度与传热性质的区别，本题只提取这一对概念。",
         "answer_evidence": "a material's temperature and the way it exchanges heat with your skin are related but different properties.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -375,16 +375,16 @@
         "explanation": "读懂：问空心黏土船为什么仍可能沉。If water enters 是“如果水进到里面”。\n解析：进水会改变条件；排开的水所提供的托力若不足以支持重量，也会沉。下沉不表示完全没有浮力，同样黏土也不必永远像实心块那样沉；变宽本身更不保证下沉。\n下次：判断浮沉时同时查是否进水和排水是否够，再排除只凭“空心”或“同材料”下的结论。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "条件整合"
         ],
         "vocabulary": [
           "If water enters"
         ],
-        "rationale": "进水会改变条件；排开的水所提供的托力若不足以支持重量，也会沉。下沉不表示完全没有浮力，同样黏土也不必永远像实心块那样沉；变宽本身更不保证下沉。 逐题补明提问、线索中文意思和检查方法。",
+        "rationale": "按实际任务校正：进水和排水体积不足以支持重量是讲者明确列出的两种原因，不需另算浮力。",
         "answer_evidence": "If water enters the hollow part, the situation changes; if the object is too heavy for the water it can displace before submerging, it will sink.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -515,16 +515,16 @@
         "explanation": "读懂：问这个风扇实验为什么难以比较。other conditions comparable 是“其他条件尽量相同”。\n解析：一块布有风且较暖，另一块无风且较冷，气流和温度同时变了，无法单独判断风的作用。初始水量相同或用秤测量，都不能消除温差。\n下次：逐项列两组哪里不同，再检查除了要研究的因素，是否还有另一项也会影响结果。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "实验应用"
         ],
         "vocabulary": [
           "other conditions comparable"
         ],
-        "rationale": "一块布有风且较暖，另一块无风且较冷，气流和温度同时变了，无法单独判断风的作用。初始水量相同或用秤测量，都不能消除温差。 逐题补明提问、线索中文意思和检查方法。",
+        "rationale": "保留条件比较，校正 hard 为 medium：温度与气流同时改变，只需识别一个未控制的条件，与同库 L616、L637 和 L1261 的实验设计负担相当。",
         "answer_evidence": "The surrounding humidity, temperature, and amount of exposed wet surface also matter.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -830,16 +830,16 @@
         "explanation": "读懂：问哪种比较符合讲者的实验。different string lengths 是“不同的绳长”。\n解析：研究摆长就改变绳长，同时保持同一重物和相近小角度。其他方案同时改重量、角度或地点，或只测半程，都会使比较偏离原计划。\n下次：先圈定唯一要改变的因素，再逐项核对其他条件和计时单位是否一致。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "实验应用"
         ],
         "vocabulary": [
           "Changing the weight and length together"
         ],
-        "rationale": "研究摆长就改变绳长，同时保持同一重物和相近小角度。其他方案同时改重量、角度或地点，或只测半程，都会使比较偏离原计划。 逐题补明提问、线索中文意思和检查方法。",
+        "rationale": "按实际任务校正：不同绳长、相同重物和相近小角度，就是已提出的实验步骤。",
         "answer_evidence": "We'll use the same weight, attach it to different string lengths, and start each trial with a similarly small angle.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -970,16 +970,16 @@
         "explanation": "读懂：问听者为什么固定位置。Moving closer 是“靠近”。\n解析：离扬声器更近，本身就可能听得更响，所以固定距离有助比较声源变化。这不表示移动会改设备设置，也不是说只有坐着能辨音或距离就是频率。\n下次：听实验安排时找它排除的额外原因，再检查听到的变化能否归给声源本身。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "实验条件"
         ],
         "vocabulary": [
           "Moving closer to a speaker"
         ],
-        "rationale": "离扬声器更近，本身就可能听得更响，所以固定距离有助比较声源变化。这不表示移动会改设备设置，也不是说只有坐着能辨音或距离就是频率。 逐题补明提问、线索中文意思和检查方法。",
+        "rationale": "按实际任务校正：移近可改变听到的声强在原文直接说明，题目只提取固定位置的理由。",
         "answer_evidence": "Moving closer to a speaker can change the sound level reaching the listener even when the speaker's setting stays the same.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1137,12 +1137,12 @@
           "Paper filtration and evaporation remove the same materials in the same way.",
           "A dissolved substance can remain present when it is invisible."
         ],
-        "audio_text": "Here's a clear cup of water. Suppose we stir in a small amount of salt until the grains are no longer visible. Has the salt disappeared from the system? No. Dissolving spreads it through the water at a scale we can't see with our eyes. An ordinary paper filter won't recover that dissolved salt the way it can catch grains of sand. Now imagine putting some of this salt solution in a shallow dish and letting the water evaporate. Under these ordinary conditions, the salt doesn't leave with the water vapor, so a solid residue remains. This gives us evidence that losing sight of a substance isn't the same as removing it. There's a limit to the demonstration, though. We started with clean water and only salt. If an unknown liquid leaves a residue, appearance alone doesn't identify that residue as salt. To make that claim, we'd need additional evidence about what was in the liquid."
+        "audio_text": "Here's a clear cup of water. Suppose we stir in a small amount of salt until the grains are no longer visible. Has the salt disappeared from the system? No. Dissolving spreads it through the water at a scale we can't see with our eyes. An ordinary paper filter won't recover that dissolved salt the way it can catch grains of sand. Now imagine putting some of this salt solution in a shallow dish and letting the water evaporate. Under these ordinary conditions, the salt doesn't leave with the water vapor, so a solid residue remains. This gives us evidence that losing sight of a substance isn't the same as removing it. We can now add enough clean water back to the residue and stir. The solid becomes invisible again as it dissolves. We have reversed the separation by mixing the components again; the salt has not been created or destroyed. Notice which part moved out of the dish during evaporation: the water. To repeat the cycle, we restore that missing component. Following both components through the steps explains why a clear liquid can still contain a recoverable solid."
       },
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问溶盐示范说明什么。losing sight of a substance 是“看不见某种物质”。\n解析：盐溶解后肉眼看不见，却仍在水里，蒸发后能留下。透明不等于没有溶质，普通滤纸也不能像蒸发那样取回盐；未知残留更不能一概认作食盐。\n下次：听到看不见，先判断是分散到太小还是已经移走，再找后续观察来确认。"
+        "explanation": "读懂：题目问整个演示说明什么；dissolving 是“溶解”。\n解析：盐溶解后看不见，水蒸发后却能留下，再加水又可溶解，说明看不见不等于不存在。透明液体可以有溶质；普通滤纸与蒸发的作用不同；本例也没证明所有残留都是盐。\n下次：看到物质变得不可见，按步骤追踪各成分去了哪里，再检查后续操作是否能使它重新显现。"
       },
       "review": {
         "difficulty": "medium",
@@ -1150,11 +1150,13 @@
           "主旨"
         ],
         "vocabulary": [
-          "losing sight of a substance"
+          "dissolving",
+          "residue",
+          "evaporate"
         ],
-        "rationale": "盐溶解后肉眼看不见，却仍在水里，蒸发后能留下。透明不等于没有溶质，普通滤纸也不能像蒸发那样取回盐；未知残留更不能一概认作食盐。 逐题补明提问、线索中文意思和检查方法。",
-        "answer_evidence": "Dissolving spreads it through the water at a scale we can't see with our eyes.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "盐在溶解时仍存在，蒸发后成固体，再加足量清水能重新溶解；主线改为追踪两种成分的过程。",
+        "answer_evidence": "盐在溶解时仍存在，蒸发后成固体，再加足量清水能重新溶解；主线改为追踪两种成分的过程。",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1172,7 +1174,7 @@
           "Salt appears only in the original cup.",
           "The salt collects in a paper filter."
         ],
-        "audio_text": "Here's a clear cup of water. Suppose we stir in a small amount of salt until the grains are no longer visible. Has the salt disappeared from the system? No. Dissolving spreads it through the water at a scale we can't see with our eyes. An ordinary paper filter won't recover that dissolved salt the way it can catch grains of sand. Now imagine putting some of this salt solution in a shallow dish and letting the water evaporate. Under these ordinary conditions, the salt doesn't leave with the water vapor, so a solid residue remains. This gives us evidence that losing sight of a substance isn't the same as removing it. There's a limit to the demonstration, though. We started with clean water and only salt. If an unknown liquid leaves a residue, appearance alone doesn't identify that residue as salt. To make that claim, we'd need additional evidence about what was in the liquid."
+        "audio_text": "Here's a clear cup of water. Suppose we stir in a small amount of salt until the grains are no longer visible. Has the salt disappeared from the system? No. Dissolving spreads it through the water at a scale we can't see with our eyes. An ordinary paper filter won't recover that dissolved salt the way it can catch grains of sand. Now imagine putting some of this salt solution in a shallow dish and letting the water evaporate. Under these ordinary conditions, the salt doesn't leave with the water vapor, so a solid residue remains. This gives us evidence that losing sight of a substance isn't the same as removing it. We can now add enough clean water back to the residue and stir. The solid becomes invisible again as it dissolves. We have reversed the separation by mixing the components again; the salt has not been created or destroyed. Notice which part moved out of the dish during evaporation: the water. To repeat the cycle, we restore that missing component. Following both components through the steps explains why a clear liquid can still contain a recoverable solid."
       },
       "answer": {
         "type": "choice",
@@ -1185,11 +1187,13 @@
           "过程细节"
         ],
         "vocabulary": [
-          "a solid residue remains"
+          "dissolving",
+          "residue",
+          "evaporate"
         ],
-        "rationale": "在本例条件下，水进入空气，盐留在浅盘里。不是所有固体都消失，也不是盐只能出现在原杯；普通滤纸不能直接截住已溶解的盐。 逐题补明提问、线索中文意思和检查方法。",
-        "answer_evidence": "the salt doesn't leave with the water vapor, so a solid residue remains.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "水蒸发离开而盐作为固体残留，答案不变。",
+        "answer_evidence": "水蒸发离开而盐作为固体残留，答案不变。",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1207,7 +1211,7 @@
           "To generalize about every filter.",
           "To contrast filterable grains with dissolved salt."
         ],
-        "audio_text": "Here's a clear cup of water. Suppose we stir in a small amount of salt until the grains are no longer visible. Has the salt disappeared from the system? No. Dissolving spreads it through the water at a scale we can't see with our eyes. An ordinary paper filter won't recover that dissolved salt the way it can catch grains of sand. Now imagine putting some of this salt solution in a shallow dish and letting the water evaporate. Under these ordinary conditions, the salt doesn't leave with the water vapor, so a solid residue remains. This gives us evidence that losing sight of a substance isn't the same as removing it. There's a limit to the demonstration, though. We started with clean water and only salt. If an unknown liquid leaves a residue, appearance alone doesn't identify that residue as salt. To make that claim, we'd need additional evidence about what was in the liquid."
+        "audio_text": "Here's a clear cup of water. Suppose we stir in a small amount of salt until the grains are no longer visible. Has the salt disappeared from the system? No. Dissolving spreads it through the water at a scale we can't see with our eyes. An ordinary paper filter won't recover that dissolved salt the way it can catch grains of sand. Now imagine putting some of this salt solution in a shallow dish and letting the water evaporate. Under these ordinary conditions, the salt doesn't leave with the water vapor, so a solid residue remains. This gives us evidence that losing sight of a substance isn't the same as removing it. We can now add enough clean water back to the residue and stir. The solid becomes invisible again as it dissolves. We have reversed the separation by mixing the components again; the salt has not been created or destroyed. Notice which part moved out of the dish during evaporation: the water. To repeat the cycle, we restore that missing component. Following both components through the steps explains why a clear liquid can still contain a recoverable solid."
       },
       "answer": {
         "type": "choice",
@@ -1220,11 +1224,13 @@
           "比较作用"
         ],
         "vocabulary": [
-          "the way it can catch grains of sand"
+          "dissolving",
+          "residue",
+          "evaporate"
         ],
-        "rationale": "普通滤纸能挡住沙粒，却挡不住已经溶解的盐，用来说明两者的分离方式不同。不是让实验加沙或把残留认成沙，也不能推广到所有过滤技术。 逐题补明提问、线索中文意思和检查方法。",
-        "answer_evidence": "An ordinary paper filter won't recover that dissolved salt the way it can catch grains of sand.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "沙粒可被普通滤纸挡住，而溶解的盐不能借同样办法分离；例子比较两种状态。",
+        "answer_evidence": "沙粒可被普通滤纸挡住，而溶解的盐不能借同样办法分离；例子比较两种状态。",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1232,34 +1238,37 @@
         "id": "L1266",
         "section": "listening",
         "task_type": "listen_academic_talk",
-        "prompt": "An unknown liquid leaves white material after evaporation. What can be concluded from this talk alone?",
+        "prompt": "A student repeats the evaporation and mixing cycle without spilling any liquid or solid. What should happen to the salt under the conditions described?",
         "response_type": "choice",
         "group_id": "listen_academic_talk_54",
         "passage_title": "Finding the salt after it dissolves",
         "options": [
-          "A residue is present, but its identity needs more evidence.",
-          "The liquid originally contained only table salt and clean water.",
-          "The material must have been removed by the water vapor.",
-          "The original liquid could not have looked clear."
+          "It remains in the dish, alternating between dissolved and solid forms.",
+          "It leaves with the water vapor during each evaporation step.",
+          "It is newly produced from water whenever solid material appears.",
+          "It changes into sand and can then be recovered by ordinary paper filtration."
         ],
-        "audio_text": "Here's a clear cup of water. Suppose we stir in a small amount of salt until the grains are no longer visible. Has the salt disappeared from the system? No. Dissolving spreads it through the water at a scale we can't see with our eyes. An ordinary paper filter won't recover that dissolved salt the way it can catch grains of sand. Now imagine putting some of this salt solution in a shallow dish and letting the water evaporate. Under these ordinary conditions, the salt doesn't leave with the water vapor, so a solid residue remains. This gives us evidence that losing sight of a substance isn't the same as removing it. There's a limit to the demonstration, though. We started with clean water and only salt. If an unknown liquid leaves a residue, appearance alone doesn't identify that residue as salt. To make that claim, we'd need additional evidence about what was in the liquid."
+        "audio_text": "Here's a clear cup of water. Suppose we stir in a small amount of salt until the grains are no longer visible. Has the salt disappeared from the system? No. Dissolving spreads it through the water at a scale we can't see with our eyes. An ordinary paper filter won't recover that dissolved salt the way it can catch grains of sand. Now imagine putting some of this salt solution in a shallow dish and letting the water evaporate. Under these ordinary conditions, the salt doesn't leave with the water vapor, so a solid residue remains. This gives us evidence that losing sight of a substance isn't the same as removing it. We can now add enough clean water back to the residue and stir. The solid becomes invisible again as it dissolves. We have reversed the separation by mixing the components again; the salt has not been created or destroyed. Notice which part moved out of the dish during evaporation: the water. To repeat the cycle, we restore that missing component. Following both components through the steps explains why a clear liquid can still contain a recoverable solid."
       },
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问未知液体蒸发后留下白色物质，能判断什么。appearance alone 是“只凭外观”。\n解析：只能确认有残留，不能仅凭白色认定是盐或原液只有盐和水。残留既然留下就不是都随水蒸气走了；原液也可能在溶解时看起来透明。\n下次：先保留实际看到的结果，再问确定物质身份还缺什么证据，别从相似外观跳到相同成分。"
+        "explanation": "读懂：题目让学生反复蒸发、加水，并说明没有洒漏；cycle 是“重复的过程”。\n解析：蒸发时离开的是水，盐留成固体；再加足量清水，盐重新溶解，所以盐仍在盘中。它没有随水汽离开，也不是由水新造出来，更没有变成可过滤的沙子。\n下次：遇到循环过程，逐步记每种成分的位置和状态，回到起点核对，别把重新看见当成新产生。"
       },
       "review": {
         "difficulty": "medium",
         "skills": [
-          "证据边界"
+          "application",
+          "sequence"
         ],
         "vocabulary": [
-          "appearance alone doesn't identify"
+          "dissolving",
+          "residue",
+          "evaporate"
         ],
-        "rationale": "只能确认有残留，不能仅凭白色认定是盐或原液只有盐和水。残留既然留下就不是都随水蒸气走了；原液也可能在溶解时看起来透明。 逐题补明提问、线索中文意思和检查方法。",
-        "answer_evidence": "If an unknown liquid leaves a residue, appearance alone doesn't identify that residue as salt.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "不洒漏的蒸发和再溶解循环中，盐仍留在盘中，只在固体与溶解状态之间改变。",
+        "answer_evidence": "不洒漏的蒸发和再溶解循环中，盐仍留在盘中，只在固体与溶解状态之间改变。",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1355,16 +1364,16 @@
         "explanation": "读懂：问传播后为什么可能没有长出新植物。don’t select the destination 是“不能选择最终落在哪里”。\n解析：种子可能落到干岩石等不适合生长的地方。运到别处只解决移动，不保证生长；也不是离开母株就失活、必须有意搬运，或小钩永远不脱落。\n下次：把传播和落地后生长分成两步，先确认到了哪里，再核对那里是否满足生长条件。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "条件推断"
         ],
         "vocabulary": [
           "don't select the destination"
         ],
-        "rationale": "种子可能落到干岩石等不适合生长的地方。运到别处只解决移动，不保证生长；也不是离开母株就失活、必须有意搬运，或小钩永远不脱落。 逐题补明提问、线索中文意思和检查方法。",
+        "rationale": "按实际任务校正：落在干岩石等不适合生长的地点，已直接说明传播不能保证建立新植株。",
         "answer_evidence": "A bur might end up on a dry rock where its seeds can't establish themselves.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1530,16 +1539,16 @@
         "explanation": "读懂：问两袋收水不同为何不能只归因于叶片数量。humidity 是“空气湿度”。\n解析：一袋叶片更多，湿度也更高，两项同时不同，而湿度会影响失水。空袋对照不能自动消除这种差别，滴水量也不能直接当自然速率，更不能认定叶多在任何条件下都收水更多。\n下次：列出两组所有不同条件，再逐个问是否会影响结果，确认能否只归于一项。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "研究设计推断"
         ],
         "vocabulary": [
           "including its humidity"
         ],
-        "rationale": "一袋叶片更多，湿度也更高，两项同时不同，而湿度会影响失水。空袋对照不能自动消除这种差别，滴水量也不能直接当自然速率，更不能认定叶多在任何条件下都收水更多。 补全题目所问与具体检查步骤。",
+        "rationale": "保留条件比较，校正 hard 为 medium：叶数和湿度同时不同；题干明确点出两者，只需识别混杂条件，不是新的多步推演。",
         "answer_evidence": "The bag changes the air around the leaves, including its humidity.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2265,16 +2274,16 @@
         "explanation": "读懂：问杯外水滴来自哪里。water vapor in the surrounding air 是“周围空气中的水蒸气”。\n解析：水汽遇足够冷的表面凝成水滴，再流到桌上。冷表面是促成凝结的条件，不是造水材料；也不是饮料漏出或桌上水往上吸。\n下次：追踪物质来源时，把“水从哪来”和“什么使它变化”分开，再核对路径。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "机制主旨"
         ],
         "vocabulary": [
           "The surrounding air contains water vapor"
         ],
-        "rationale": "水汽遇足够冷的表面凝成水滴，再流到桌上。冷表面是促成凝结的条件，不是造水材料；也不是饮料漏出或桌上水往上吸。 补全题目所问与具体检查步骤。",
+        "rationale": "按实际任务校正：液滴来自周围空气水汽是紧接开头问题给出的明确答案。",
         "answer_evidence": "The surrounding air contains water vapor.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2405,16 +2414,16 @@
         "explanation": "读懂：问筛子利用什么差别分离。by size 是“按颗粒大小”。\n解析：筛孔决定哪些颗粒能穿过，不是按颜色、化学成分或放进混合物的顺序。分出砂和砾石，是因为尺寸不同，不能说筛子认得它们的名称。\n下次：遇到分离工具，先找它能实际区分的性质，再检查是否误把结果当作识别成分。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "原理主旨"
         ],
         "vocabulary": [
           "separates particles by size"
         ],
-        "rationale": "筛孔决定哪些颗粒能穿过，不是按颜色、化学成分或放进混合物的顺序。分出砂和砾石，是因为尺寸不同，不能说筛子认得它们的名称。 补全题目所问与具体检查步骤。 将干扰项改为材料内的对象、机制或范围误读。",
+        "rationale": "按实际任务校正：第一句直接说明筛分依据颗粒尺寸，题干只问该原则，不要求再为新混合物选筛子。",
         "answer_evidence": "A sieve separates particles by size.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2475,16 +2484,16 @@
         "explanation": "读懂：问两种同样细的粉末加大砾石会怎样过筛。particles of the same size 是“尺寸相同的颗粒”。\n解析：两种粉末都比孔小，会一起通过；砾石比孔大，留在上面。筛子不按黑白颜色分组，所以不能只放白粉通过，也不能让较大的砾石过、较细的粉末留。\n下次：逐组比较颗粒大小和孔大小，遇到一样大的不同材料，再检查它们应不应该一起处理。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "多组条件应用"
         ],
         "vocabulary": [
           "size, not the chemical name"
         ],
-        "rationale": "两种粉末都比孔小，会一起通过；砾石比孔大，留在上面。筛子不按黑白颜色分组，所以不能只放白粉通过，也不能让较大的砾石过、较细的粉末留。 补全题目所问与具体检查步骤。",
+        "rationale": "校正 hard 为 medium：两种粉末同样小、砾石更大，套用同一个孔径规则即可；颜色是已明确无关的因素，增加一种粉末不构成多步难题。",
         "answer_evidence": "If two different materials have particles of the same size, this mesh can't reliably sort one from the other.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2895,16 +2904,16 @@
         "explanation": "读懂：“Their edges also establish the edges of the tubes”意为两者共用边界，题目问怎样由空隙发现问题。\n解析：空隙过宽提示周围管子位置或比例需调整；改颜色、加名称或白漆不能校正边界。\n下次：听到共用边界→把空隙偏差对应到相邻轮廓→检查比例是否一起改善。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "空间关系推断"
         ],
         "vocabulary": [
           "Their edges also establish the edges of the tubes"
         ],
-        "rationale": "共享轮廓让过宽空隙指向周边构件位置，改颜色或标部件名不能校正比例。原解释给出动作依据和具体检查。",
+        "rationale": "按实际任务校正：空隙过宽就检查周围部件，是原文直接给出的绘画建议。",
         "answer_evidence": "If one gap is too wide in your drawing, you have a clue that the surrounding parts need adjusting.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3175,16 +3184,16 @@
         "explanation": "读懂：“It needn't require a spoken reply”指不必有口头回应，题目问沉默能说明什么。\n解析：角色面向观众说话已构成直接交流；沉默既不证明技巧失败，也不证明不适或同意。\n下次：听到不必条件→区分行为成立与回应形式→避免用沉默推断态度。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "范围推断"
         ],
         "vocabulary": [
           "It needn't require a spoken reply"
         ],
-        "rationale": "无需出声回应仍可构成直接称呼；沉默不能证明同意、失败或不适。原解释保留多个可能情绪与互动方式。",
+        "rationale": "按实际任务校正：直接对观众说话不必得到口头回应已经明示，未提供需进一步判断语用意图的新场景。",
         "answer_evidence": "It needn't require a spoken reply.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3315,16 +3324,16 @@
         "explanation": "读懂：问同时改镜头顺序和配乐，为何难单测顺序的作用。Music can support the sequence 是“配乐也能帮助传达这组镜头的意思”。\n解析：两项都改了，理解变化可能来自任一项，不能全算给排序。原镜头相同仍可讲出不同故事；重新剪辑也不改变已经拍下的现实事件，配乐更不能取代顺序的作用。\n下次：比较两版前列出所有差别；只测排序时，让配乐等其他条件保持相同，再看观众怎样理解。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "比较设计推断"
         ],
         "vocabulary": [
           "Music can support the sequence"
         ],
-        "rationale": "保留真实新情境的双因素判断，补清题目所问与英文意思，未为保困难比例改动内容。",
+        "rationale": "校正 hard 为 medium：排序和配乐同时变化，与同库其他双因素实验题要求相当，不能仅因应用新例子就标 hard。",
         "answer_evidence": "Music can support the sequence",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3455,16 +3464,16 @@
         "explanation": "读懂：“assemble a sentence from scattered pieces”指要从零散片段拼出整句，题目问过度换行的风险。\n解析：过多断行增加整合负担，并未改变词义或期限，也不必使版面更宽。\n下次：听到过度使用技巧→找它破坏的整体关系→检查局部突出是否损害连贯。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "因果推断"
         ],
         "vocabulary": [
           "assemble a sentence from scattered pieces"
         ],
-        "rationale": "过多断行让整句拼接困难，非改变期限和词典义，也不必使海报更宽。原解析已准确说明代价。",
+        "rationale": "按实际任务校正：过多换行让人拼凑分散的句子，正是文中指出的阅读负担。",
         "answer_evidence": "Too many breaks can make readers assemble a sentence from scattered pieces.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -4301,16 +4310,16 @@
         "explanation": "读懂：问重读 borrowed（借用）且没有前文时，最能确定什么。stress 是“重音”。\n解析：突出的是借用这个动作，而非人名或颜色。但究竟在对比买、拿走还是其他动作，材料没说，所以不能断定未经许可拿走，也不能认定另一个人或蓝色是争议点。\n下次：先找重读词属于人、物还是动作，再找上下文是否给出具体对比；没有就不补造故事。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "重音迁移推断"
         ],
         "vocabulary": [
           "the contrast we're inviting the listener to consider"
         ],
-        "rationale": "突出的是借用这个动作，而非人名或颜色。但究竟在对比买、拿走还是其他动作，材料没说，所以不能断定未经许可拿走，也不能认定另一个人或蓝色是争议点。 补明提问和操作步骤，逐项核对当前选项。",
+        "rationale": "校正 hard 为 medium：把已说明的重音规则从人名和颜色换到动词，再保留未明说的对比项；属于有清楚支架的一步迁移。",
         "answer_evidence": "Stress can guide attention toward information that is new, disputed, or especially relevant. But it doesn't spell out every alternative by itself.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -4336,16 +4345,16 @@
         "explanation": "读懂：“correcting someone”指纠正他人的理解，题目问 Leo 这一假设的作用。\n解析：若误以为 Leo 借的，强调 Maya 可纠正借者；没有断言两人都借过或讨论所有权、时态。\n下次：听到假设误解→看重音纠正哪一成分→别把假设人物变成事实参与者。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "例证作用"
         ],
         "vocabulary": [
           "correcting someone"
         ],
-        "rationale": "Leo为假设误认的借者，强调Maya能纠正该误会，不证明双人借用或所有权。原解释准确标明假设。",
+        "rationale": "按实际任务校正：本来误以为 Leo 借了本子，强调 Maya 用于纠正借者，例子的意图已明确解释。",
         "answer_evidence": "If we put extra emphasis on Maya, we may be correcting someone who thought Leo borrowed it.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -4581,16 +4590,16 @@
         "explanation": "读懂：问朗读为何可能发现不了同音词写错。same pronunciation 是“相同发音”。\n解析：两个词意思不同却同音，错误拼写读出来仍可像正确词，所以只听声音分不出来。熟悉场景不会抹掉意义差别，读出声也不会把错误词变成想要的意思。\n下次：先判断检查方法只听声音还是也看意义；遇同音词，再用完整句意补查写法。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "机制推断"
         ],
         "vocabulary": [
           "The wrong written word can still sound perfectly acceptable"
         ],
-        "rationale": "两个词意思不同却同音，错误拼写读出来仍可像正确词，所以只听声音分不出来。熟悉场景不会抹掉意义差别，读出声也不会把错误词变成想要的意思。 补明提问和操作步骤，逐项核对当前选项。 将无关或不合理干扰改为相关概念误读。",
+        "rationale": "按实际任务校正：同音错词读起来仍正确是材料直接给出的原因。",
         "answer_evidence": "The wrong written word can still sound perfectly acceptable.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -4721,16 +4730,16 @@
         "explanation": "读懂：问故事里的 walks（走过来）为什么用现在时。Yesterday 是“昨天”，已经确定发生时间。\n解析：这里仍是昨天发生的事，讲者切到现在时让场面更像眼前发生。不能单看这个词就改判为现在或每天的习惯，也不是纠正开头日期。\n下次：先抓明确时间词，再连起前后事件；若仍是一段过去故事，检查现在时是否只让叙述更生动。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "语篇推断"
         ],
         "vocabulary": [
           "the opening tells us that the event happened yesterday"
         ],
-        "rationale": "这里仍是昨天发生的事，讲者切到现在时让场面更像眼前发生。不能单看这个词就改判为现在或每天的习惯，也不是纠正开头日期。 补明提问和操作步骤，逐项核对当前选项。",
+        "rationale": "按实际任务校正：沿用原例 walks，开头 yesterday 与讲者解释已共同明确仍在讲昨天。",
         "answer_evidence": "The shift doesn't move the event to today.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -4861,16 +4870,16 @@
         "explanation": "读懂：问既想简述数月又想突出一个紧张瞬间，应如何安排。summarize a long period 是“概括一段长时间”。\n解析：先用较远的概览压缩数月，再贴近人物感觉，能同时满足两个目标。一直概览会漏掉瞬间体验；逐刻写数月却概括关键瞬间把方法用反；也不需要全用对话。\n下次：分别给“快速交代时间”和“让人感到当下”配上概览、近距离描写，再检查切换是否发生在重点处。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "叙述策略应用"
         ],
         "vocabulary": [
           "summarize a long period"
         ],
-        "rationale": "先用较远的概览压缩数月，再贴近人物感觉，能同时满足两个目标。一直概览会漏掉瞬间体验；逐刻写数月却概括关键瞬间把方法用反；也不需要全用对话。 补明提问和操作步骤，逐项核对当前选项。",
+        "rationale": "校正 hard 为 medium：概括数月后贴近紧张瞬间，直接使用讲者已经示范的先概览再聚焦顺序，干扰项明显颠倒两种用途。",
         "answer_evidence": "A more distant account can summarize a long period",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -5176,16 +5185,16 @@
         "explanation": "读懂：问价格除以数量得到什么。unit price 是“单位价格”。\n解析：总价分给每件，得到一件的平均花费。不是买完剩余的钱、顾客人数或限购数量；那些需要不同信息。\n下次：看计算时先带上单位：美元除以件，结果是每件多少美元，再核对选项。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "术语含义"
         ],
         "vocabulary": [
           "unit price"
         ],
-        "rationale": "总价分给每件，得到一件的平均花费。不是买完剩余的钱、顾客人数或限购数量；那些需要不同信息。 补明提问和操作步骤，逐项核对当前选项。",
+        "rationale": "按实际任务校正：总价除数量得到单位价格是原文明说的定义。",
         "answer_evidence": "Dividing price by quantity gives us a unit price",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -5561,7 +5570,7 @@
         "explanation": "读懂：问答卷不变、比较组变强时会怎样。relative position can fall 是“相对位置可能下降”。\n解析：她答对多少没变，所以正确率不变；但更多比较对象可能超过她，名次便可能下降。不能因个人没变就认定名次固定，也不能说正确率因此下降或两项都必升。\n下次：更换比较组时，分别检查个人答题结果和相对他人的位置，找出哪项依赖别人。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "指标区别",
           "条件"
@@ -5569,9 +5578,9 @@
         "vocabulary": [
           "relative position can fall"
         ],
-        "rationale": "她答对多少没变，所以正确率不变；但更多比较对象可能超过她，名次便可能下降。不能因个人没变就认定名次固定，也不能说正确率因此下降或两项都必升。 补明提问和操作步骤，逐项核对当前选项。 明示关系或简单应用不标困难，降为适中。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
+        "rationale": "按实际任务校正：答案正是讲者提出的原情境：答卷不变而比较组更强，排名可降、正确率不变。",
         "answer_evidence": "her relative position can fall while her percent correct stays at sixty.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -5988,16 +5997,16 @@
         "explanation": "读懂：问一组改练四十分钟后，为什么难单独判断间隔的作用。equal total practice 是“总练习量相等”。\n解析：原本只比时间分布，现在总时长也变了，成绩差可能有两个原因。不是非得三十分钟才能研究，也不是多练会取消测试延迟或抹掉安排的作用。\n下次：新方案改变一项条件时，回头检查原来固定的条件；若两项都变，不把全部效果归给一项。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "研究设计推断"
         ],
         "vocabulary": [
           "total practice time is equal"
         ],
-        "rationale": "原本只比时间分布，现在总时长也变了，成绩差可能有两个原因。不是非得三十分钟才能研究，也不是多练会取消测试延迟或抹掉安排的作用。 补明提问和操作步骤，逐项核对当前选项。",
+        "rationale": "校正 hard 为 medium：练习总时长也改变，明确引入一个混杂条件；要求与 L1245、L1274、L1325 一致。",
         "answer_evidence": "The comparison needs a clear schedule, equal total practice, and a stated time for measuring the result.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -6058,16 +6067,16 @@
         "explanation": "读懂：问六个按钮展示什么原则。grouping by proximity 是“把靠得近的东西看成一组”。\n解析：按钮一样，只改变间距就能让人看成两组，不一定需要边框。看起来成组不保证功能相同，标签位置也会影响人把它与谁关联。\n下次：看到视觉分组，先查间距，再分清“被看作相关”和“实际功能相同”。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "主旨"
         ],
         "vocabulary": [
           "grouping by proximity"
         ],
-        "rationale": "按钮一样，只改变间距就能让人看成两组，不一定需要边框。看起来成组不保证功能相同，标签位置也会影响人把它与谁关联。 补明提问和操作步骤，逐项核对当前选项。",
+        "rationale": "按实际任务校正：邻近元素容易被看成一组在演示后直接定义，问题只提取这个原则。",
         "answer_evidence": "grouping by proximity, the tendency to see nearby elements as belonging together.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -6128,7 +6137,7 @@
         "explanation": "读懂：问标签更靠近错误那组按钮会有什么问题。spacing can mislead 是“间距会误导”。\n解析：靠近常让人觉得有关，用户可能把标签读成在说明错的一组。不能假定人只看文字而忽略位置，也不能说隔得越远越显得相关；相同按钮颜色更不能保证联系正确。\n下次：先看标签离谁最近，再核对它实际说明哪组；两者不一致就调整位置关系。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "因果关系",
           "视觉分组"
@@ -6136,9 +6145,9 @@
         "vocabulary": [
           "the spacing can mislead"
         ],
-        "rationale": "靠近常让人觉得有关，用户可能把标签读成在说明错的一组。不能假定人只看文字而忽略位置，也不能说隔得越远越显得相关；相同按钮颜色更不能保证联系正确。 补明提问和操作步骤，逐项核对当前选项。 将无关或不合理干扰改为相关概念误读。 明示关系或简单应用不标困难，降为适中。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
+        "rationale": "按实际任务校正：标签靠近错组会让人误连，是讲者直接指出的风险，并未要求分析新的多组界面。",
         "answer_evidence": "If the label actually belongs to a more distant group, the spacing can mislead.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {

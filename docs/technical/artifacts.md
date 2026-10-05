@@ -12,6 +12,7 @@ artifacts/
 ├─ practice-history/             个人练习与综合测验归档、录音
 ├─ mock-sessions/                个人模考进度、归档及录音
 ├─ test-sessions/                综合测验进度，使用时自动创建
+├─ logs/                         托盘服务运行日志，自动轮转
 ├─ ets-reference/                七份原始 PDF 与资料索引
 └─ qa/                          当前验证输出，任务开始时按需创建
    ├─ browser-data/<UUID>/       正在使用的隔离测试数据
@@ -31,7 +32,7 @@ tmp/
    └─ <原源码目录>/__pycache__/   Python 字节码缓存，保留原目录层级
 ```
 
-前三个运行目录及 `TOEFL_DATA_DIR` 的含义保持不变。个人记录和录音由应用管理，不按日期或文件大小当作开发垃圾清理。`ets-reference/test-1.pdf` 至 `test-5.pdf` 仍是[模考导入器](../../question_bank/README.md#模考导入与隔离)的输入；当前题库和原卷题面图片仍在 `question_bank/`。
+前三个运行目录及 `TOEFL_DATA_DIR` 的含义保持不变；托盘的 `logs/` 同样位于该数据根目录，轮转规则见[启动说明](development.md#环境与启动)。个人记录和录音由应用管理，不按日期或文件大小当作开发垃圾清理。`ets-reference/test-1.pdf` 至 `test-5.pdf` 仍是[模考导入器](../../question_bank/README.md#模考导入与隔离)的输入；当前题库和原卷题面图片仍在 `question_bank/`。
 
 ## 命名与使用
 

@@ -3,16 +3,17 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#17202A" />
+    <meta name="theme-color" content="#303B37" />
     <title>TOEFL 26 / Practice Workbench</title>
-    <link rel="stylesheet" href="/frontend/styles.css?v=20260930-type" />
-    <link rel="stylesheet" href="/frontend/landing.css?v=20260928-cleanup" />
-    <link rel="stylesheet" href="/frontend/practice.css?v=20260930-type" />
-    <link rel="stylesheet" href="/frontend/practice-setup.css?v=20260927-modules" />
-    <link rel="stylesheet" href="/frontend/practice-review.css?v=20260930-type" />
-    <link rel="stylesheet" href="/frontend/mock-exam.css?v=20260928-cleanup" />
-    <link rel="stylesheet" href="/frontend/adaptive-test.css?v=20260927" />
-    <link rel="stylesheet" href="/frontend/history.css?v=20260927-workbench-colors" />
+    <link rel="stylesheet" href="/frontend/styles.css?v=20261005-text-flow" />
+    <link rel="stylesheet" href="/frontend/landing.css?v=20261005-palette" />
+    <link rel="stylesheet" href="/frontend/exam-guide.css?v=20261005-text-flow" />
+    <link rel="stylesheet" href="/frontend/practice.css?v=20261005-text-flow" />
+    <link rel="stylesheet" href="/frontend/practice-setup.css?v=20261005-text-flow" />
+    <link rel="stylesheet" href="/frontend/practice-review.css?v=20261005-text-flow" />
+    <link rel="stylesheet" href="/frontend/mock-exam.css?v=20261005-text-flow" />
+    <link rel="stylesheet" href="/frontend/adaptive-test.css?v=20261005-text-flow" />
+    <link rel="stylesheet" href="/frontend/history.css?v=20261005-text-flow" />
   </head>
   <body>
     <main class="app-shell">
@@ -39,6 +40,22 @@
               <p class="brand-caption">托福练习工作台</p>
             </div>
           </div>
+          <button id="open-exam-guide" class="text-button guide-entry" type="button">
+            <svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.6"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              aria-hidden="true"
+            >
+              <path
+                d="M4 4h6a3 3 0 0 1 3 3v14a4 4 0 0 0-4-3H4V4Zm16 0h-4a3 3 0 0 0-3 3v14a4 4 0 0 1 4-3h3V4Z"
+              />
+            </svg>
+            2026 新托福指南
+          </button>
         </header>
         <div class="training-board">
           <div id="section-grid" class="section-grid" aria-live="polite"></div>
@@ -132,6 +149,321 @@
         <section id="mock-papers" class="resource-library" aria-label="选择模考试卷" hidden>
           <div id="library-content"></div>
         </section>
+      </section>
+
+      <section id="exam-guide" class="guide-view" hidden aria-labelledby="guide-title">
+        <header class="guide-heading">
+          <div>
+            <h1 id="guide-title" tabindex="-1">2026 新托福指南</h1>
+          </div>
+          <button id="guide-home" class="text-button home-button return-button" type="button">
+            <svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.8"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              aria-hidden="true"
+            >
+              <path d="m10 5-7 7 7 7M3 12h18" />
+            </svg>
+            返回练习首页
+          </button>
+        </header>
+
+        <div class="guide-intro">
+          <p>
+            适用于 <strong>2026 年 1 月 21 日起</strong>的 TOEFL iBT。顺序：<strong
+              >阅读 → 听力 → 写作 → 口语</strong
+            >。全程预留约 2 小时。
+          </p>
+          <p>
+            阅读、听力后半部分的难度和题型配比随答题表现调整。下表按 ETS 2026
+            参考题量换算篇数、段数，含不计分题；实际安排可能变化。
+          </p>
+        </div>
+
+        <div class="guide-sections">
+          <details id="guide-reading" class="guide-section" open>
+            <summary>
+              <span class="guide-subject">阅读</span>
+              <span class="guide-total">官方参考：50 题 · 约 30 分钟</span>
+            </summary>
+            <div class="guide-section-body">
+              <table class="guide-table">
+                <caption class="sr-only">
+                  阅读题型、全科参考篇数、每篇题量与本应用练习用时
+                </caption>
+                <thead>
+                  <tr>
+                    <th scope="col">题型与做法</th>
+                    <th scope="col">全科篇数与题量</th>
+                    <th scope="col">本应用练习用时</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">
+                      补全单词
+                      <p>根据上下文补全单词缺少的字母。</p>
+                    </th>
+                    <td><strong>参考 3 篇</strong><small>每篇 10 个空，共 30 个空。</small></td>
+                    <td>
+                      <strong data-guide-budget="reading.complete_words">见专项练习设置</strong>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row">
+                      日常阅读
+                      <p>阅读邮件、通知等，回答相关问题。</p>
+                    </th>
+                    <td>
+                      <strong>总篇数未固定</strong
+                      ><small>每篇 2 或 3 题；官方全科题量为 5–15 题。</small>
+                    </td>
+                    <td>
+                      <strong data-guide-budget="reading.read_daily_life">见专项练习设置</strong>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row">
+                      学术阅读
+                      <p>阅读短文，回答主旨、细节和推断题。</p>
+                    </th>
+                    <td>
+                      <strong>参考 1–3 篇</strong
+                      ><small>每篇通常 5 题、约 200 词；全科 5–15 题。</small>
+                    </td>
+                    <td>
+                      <strong data-guide-budget="reading.read_academic_passage"
+                        >见专项练习设置</strong
+                      >
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <p class="guide-note">正式考试按两部分分别计时，不按单篇限时。</p>
+            </div>
+          </details>
+
+          <details id="guide-listening" class="guide-section">
+            <summary>
+              <span class="guide-subject">听力</span>
+              <span class="guide-total">官方参考：47 题 · 约 29 分钟</span>
+            </summary>
+            <div class="guide-section-body">
+              <table class="guide-table">
+                <caption class="sr-only">
+                  听力题型、全科参考段数、每段题量与本应用练习用时
+                </caption>
+                <thead>
+                  <tr>
+                    <th scope="col">题型与做法</th>
+                    <th scope="col">全科段数与题量</th>
+                    <th scope="col">本应用练习用时</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">
+                      听句选回应
+                      <p>听一句话或一个问题，选择合适的回应。</p>
+                    </th>
+                    <td><strong>参考 15–19 句</strong><small>每句 1 题。</small></td>
+                    <td>
+                      <strong data-guide-budget="listening.listen_choose_response"
+                        >见专项练习设置</strong
+                      >
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row">
+                      对话理解
+                      <p>听两人对话，回答意图、细节等问题。</p>
+                    </th>
+                    <td><strong>参考 5 段对话</strong><small>每段 2 题，共 10 题。</small></td>
+                    <td>
+                      <strong data-guide-budget="listening.listen_conversation"
+                        >见专项练习设置</strong
+                      >
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row">
+                      通知理解
+                      <p>听校园通知，回答安排、变化等问题。</p>
+                    </th>
+                    <td>
+                      <strong>参考 3–5 段通知</strong><small>每段 2 题，全科 6–10 题。</small>
+                    </td>
+                    <td>
+                      <strong data-guide-budget="listening.listen_announcement"
+                        >见专项练习设置</strong
+                      >
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row">
+                      学术讲座
+                      <p>听短讲座，回答主题、例子等问题。</p>
+                    </th>
+                    <td>
+                      <strong>参考 2–4 段讲座</strong><small>每段 4 题，全科 8–16 题。</small>
+                    </td>
+                    <td>
+                      <strong data-guide-budget="listening.listen_academic_talk"
+                        >见专项练习设置</strong
+                      >
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <p class="guide-note">正式考试每段录音只播放一次。上表练习用时包含听录音和答题。</p>
+            </div>
+          </details>
+
+          <details id="guide-writing" class="guide-section">
+            <summary>
+              <span class="guide-subject">写作</span>
+              <span class="guide-total">12 题 · 约 23 分钟</span>
+            </summary>
+            <div class="guide-section-body">
+              <table class="guide-table">
+                <caption class="sr-only">
+                  写作题型、考试任务与本应用练习用时
+                </caption>
+                <thead>
+                  <tr>
+                    <th scope="col">题型与做法</th>
+                    <th scope="col">考试要完成什么</th>
+                    <th scope="col">本应用练习用时</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">
+                      组句
+                      <p>把词块排成完整句子，可能有多余词块。</p>
+                    </th>
+                    <td>
+                      <strong>共 10 道句子题</strong>
+                    </td>
+                    <td>
+                      <strong data-guide-budget="writing.build_sentence">见专项练习设置</strong>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row">
+                      写邮件
+                      <p>按指定情境写信，回应题目要求。</p>
+                    </th>
+                    <td><strong>写 1 封邮件</strong></td>
+                    <td>
+                      <strong data-guide-budget="writing.write_email">每封 7 分钟</strong>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row">
+                      学术讨论
+                      <p>参与课堂讨论，表达观点并说明理由。</p>
+                    </th>
+                    <td><strong>写 1 篇讨论回应</strong></td>
+                    <td>
+                      <strong data-guide-budget="writing.academic_discussion">每篇 10 分钟</strong>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <p class="guide-note">
+                邮件、讨论沿用官方限时，包含读题和写作；组句时间为本应用设置。
+              </p>
+            </div>
+          </details>
+
+          <details id="guide-speaking" class="guide-section">
+            <summary>
+              <span class="guide-subject">口语</span>
+              <span class="guide-total">11 题 · 约 8 分钟</span>
+            </summary>
+            <div class="guide-section-body">
+              <table class="guide-table">
+                <caption class="sr-only">
+                  口语题型、考试任务及录音限时与本应用练习用时
+                </caption>
+                <thead>
+                  <tr>
+                    <th scope="col">题型与做法</th>
+                    <th scope="col">考试要说多少</th>
+                    <th scope="col">本应用练习用时</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">
+                      听后复述
+                      <p>听一句、原样复述一句，句子逐渐变长。</p>
+                    </th>
+                    <td><strong>共 7 句，逐句复述</strong><small>每句录音限时 8–12 秒。</small></td>
+                    <td>
+                      <strong data-guide-budget="speaking.listen_repeat">见专项练习设置</strong>
+                    </td>
+                  </tr>
+                  <tr>
+                    <th scope="row">
+                      模拟访谈
+                      <p>围绕同一话题，讲述经历、表达观点。</p>
+                    </th>
+                    <td><strong>共 4 问，逐题回答</strong><small>每问最多说 45 秒。</small></td>
+                    <td>
+                      <strong data-guide-budget="speaking.take_interview">见专项练习设置</strong>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+              <p class="guide-note">整组用时包含听题和切换，单次录音按上述时限结束。</p>
+            </div>
+          </details>
+        </div>
+
+        <footer class="guide-sources">
+          <p>
+            来源：ETS 官方资料 · 核查于
+            <time datetime="2026-10-05">2026-10-05</time>。各科时间不含考试说明。
+          </p>
+          <nav aria-label="指南官方来源">
+            <a
+              href="https://www.ets.org/toefl/test-takers/ibt/about/content.html"
+              target="_blank"
+              rel="noopener noreferrer"
+              >ETS 考试结构</a
+            >
+            <a
+              href="https://files.eric.ed.gov/fulltext/EJ1487502.pdf#page=29"
+              target="_blank"
+              rel="noopener noreferrer"
+              >ETS 技术手册：计分配比</a
+            >
+            <a
+              href="https://www.ets.org/pdfs/toefl/toefl-ibt-test-specifications-2026.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              >2026 题型规范</a
+            >
+            <a
+              href="https://www.ets.org/pdfs/toefl/toefl-ibt-test-overview.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              >题型与作答时间示例</a
+            >
+            <a
+              href="https://www.ets.org/content/dam/ets-org/pdfs/toefl/toefl-ibt-teachers-resources-practice-test-1.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              >官方练习 Test 1</a
+            >
+          </nav>
+        </footer>
       </section>
 
       <section id="mock-view" class="mock-view" hidden aria-label="完整模考"></section>
@@ -376,8 +708,8 @@
     <script src="/frontend/practice-sentence.js?v=20260927-modules" defer></script>
     <script src="/frontend/practice-review.js?v=20260930-type" defer></script>
     <script src="/frontend/practice-recorder.js?v=20260927-modules" defer></script>
-    <script src="/frontend/adaptive-test.js?v=20260928-routes" defer></script>
-    <script src="/frontend/app.js?v=20260928-routes" defer></script>
+    <script src="/frontend/adaptive-test.js?v=20261005-setup" defer></script>
+    <script src="/frontend/app.js?v=20261005-guide-copy" defer></script>
     <script src="/frontend/mock-exam.js?v=20260928-routes" defer></script>
     <script src="/frontend/history.js?v=20260928-routes" defer></script>
   </body>

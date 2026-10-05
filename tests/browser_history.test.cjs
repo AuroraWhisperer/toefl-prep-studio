@@ -1,4 +1,5 @@
 const { test, expect } = require('@playwright/test');
+const { expectFullWidth } = require('./browser_layout_helpers.cjs');
 const { openSettings, start, submit } = require('./browser_practice_helpers.cjs');
 const { randomUUID } = require('node:crypto');
 test.use({
@@ -329,6 +330,7 @@ test('empty categories, date filters, and network retry are distinct states', as
   await expect(page.locator('.history-empty')).toContainText('还没有单项训练记录');
   await page.locator('#history-tab-test').click();
   await expect(page.locator('.history-empty')).toContainText('完成首页的综合测验后');
+  await expectFullWidth(page.locator('.history-empty p'));
   await page.locator('#history-from').fill('2000-01-01');
   await page.locator('#history-to').fill('2000-01-02');
   await page.getByRole('button', { name: '查找记录', exact: true }).click();

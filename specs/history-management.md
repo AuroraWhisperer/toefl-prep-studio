@@ -28,6 +28,7 @@
 ## Archive diagnostics and recovery
 
 - Invalid JSON, invalid UTF-8, mismatched record IDs, or missing/incorrectly typed fields required by the current operation return HTTP 409. The message identifies the data directory and filename; logs contain the path, not decoded answer inputs or validation dumps.
+- Full practice/test archives require feedback with a question ID and textual reference answer for each saved question, exactly once. Incomplete or duplicate feedback is rejected before listing or review; validation preserves the original record bytes and legacy scores.
 - Filesystem read failures return HTTP 503 with a different message. A failed scan never returns a partial list or fabricated zero counts. Existing missing-record 404 and invalid-request 422 behavior remains separate.
 - Material counting still supports older minimal records containing an ID and question/material references; full review requires the scored snapshot. IDs explicitly excluded by 重置概率 remain excluded before counting. Explicit `repeat_decay=0` bypasses history counts as before, but does not repair the archives.
 - Mock listing reads stored snapshots without advancing unfinished-session timers. Both mock review routes and history use the same completed-review business functions; incomplete mocks never expose answer keys.

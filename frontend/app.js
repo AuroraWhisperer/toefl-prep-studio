@@ -377,10 +377,14 @@
             `<label class="setting-choice"><input type="radio" name="${name}" value="${value}" ${value === selected ? 'checked' : ''}><span>${label(value)}</span></label>`,
         )
         .join('');
+    const taskChoices = radios('task_type', info.task_types, state.setupTask, (type) => {
+      const task = info.practice_tasks[type];
+      return `${task.label} <small class="task-bank-count" title="题库数量">${task.bank_units} ${task.unit}</small>`;
+    });
     dom.setupContent.innerHTML = `
-      <header class="setup-heading"><h1>${SECTION_NAMES[section]}专项练习</h1><p>选择题型，安排这一轮的练习节奏。</p></header>
+      <header class="setup-heading"><h1>${SECTION_NAMES[section]}专项练习</h1></header>
       <form id="practice-settings">
-        <fieldset class="setup-task-options"><legend>题型</legend><div class="setting-options">${radios('task_type', info.task_types, state.setupTask, (type) => info.practice_tasks[type].label)}</div></fieldset>
+        <fieldset class="setup-task-options"><legend>题型</legend><div class="setting-options">${taskChoices}</div></fieldset>
         <div class="setup-options-row">
           <fieldset><legend>题量</legend><div class="setting-options">${radios('count', config.count_options, state.setupCount, (count) => `${count} ${config.unit}`)}</div></fieldset>
           <fieldset><legend>计时方式</legend><div class="setting-options">${radios('timer_mode', config.timer_modes, state.setupTimer, (mode) => (mode === 'countup' ? '正计时' : '倒计时'))}</div></fieldset>
@@ -699,6 +703,7 @@
     dom.difficulty.textContent = DIFFICULTY_LABELS[question.difficulty] || '待分级';
     dom.difficulty.title = state.meta.difficulty_note;
     dom.questionContent.innerHTML = questionMarkup(question);
+    const vocabularyHighlight = highlightReadingVocabulary(question);
     bindQuestionControls(question);
     renderQuestionIndex();
     dom.previous.disabled =
@@ -710,13 +715,57 @@
     dom.submit.hidden = false;
     state.questionStartedAt = Date.now();
     window.requestAnimationFrame(() => {
+      if (dom.exam.hidden || currentQuestion() !== question) return;
+      const passage = vocabularyHighlight?.isConnected
+        ? vocabularyHighlight.closest('.passage-copy')
+        : null;
+      if (passage && !dom.exam.hidden && getComputedStyle(passage).overflowY === 'auto') {
+        const bounds = passage.getBoundingClientRect();
+        // Keep the paragraph's context visible, or the word itself in a very long paragraph.
+        passage.scrollTop += Math.max(
+          vocabularyHighlight.closest('p').getBoundingClientRect().top - bounds.top,
+          vocabularyHighlight.getBoundingClientRect().bottom - bounds.bottom + 8,
+        );
+      }
       const firstInput =
         question.response_type === 'recording_text'
           ? dom.questionContent.querySelector('[data-audio-text]')
           : dom.questionContent.querySelector(`[data-answer-id="${question.id}"]`) ||
             dom.questionContent.querySelector('textarea, input, button.choice-option');
-      if (firstInput) firstInput.focus({ preventScroll: true });
+      if (firstInput && !dom.questionContent.contains(document.activeElement))
+        firstInput.focus({ preventScroll: true });
     });
+  }
+
+  function highlightReadingVocabulary(question) {
+    if (
+      question.section !== 'reading' ||
+      !question.skills?.some((skill) => ['vocabulary', '语境词义'].includes(skill))
+    )
+      return null;
+    const term = question.prompt.match(/['"‘“]([^'"‘’“”]+)['"’”]/)?.[1];
+    if (!term) return null;
+    const pattern = new RegExp(`\\b${term.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i');
+    let paragraphs = [
+      ...dom.questionContent.querySelectorAll('.passage-copy > p, .document-body > p'),
+    ];
+    const reference = question.prompt.match(
+      /\bparagraph\s+(\d+)\b|\b(first|second|third|fourth|fifth|final|last)\s+paragraph\b/i,
+    );
+    if (reference) {
+      const index = reference[1]
+        ? Number(reference[1]) - 1
+        : ['first', 'second', 'third', 'fourth', 'fifth'].indexOf(reference[2].toLowerCase());
+      paragraphs = [paragraphs.at(index)].filter(Boolean);
+    }
+    for (const paragraph of paragraphs) {
+      const text = paragraph.textContent;
+      const match = text.match(pattern);
+      if (!match) continue;
+      paragraph.innerHTML = `${escapeHtml(text.slice(0, match.index))}<mark class="vocabulary-highlight">${escapeHtml(match[0])}</mark>${escapeHtml(text.slice(match.index + match[0].length))}`;
+      return paragraph.querySelector('.vocabulary-highlight');
+    }
+    return null;
   }
 
   function materialMarkup(question) {
@@ -859,7 +908,7 @@
       return practiceLayout(introduction, markup);
     }
     if (question.task_type === 'complete_words') {
-      markup += `<p class="cloze-instruction" lang="en">Fill in the missing letters in the paragraph.</p>${clozeMarkup(
+      markup += `<h3 class="cloze-title" lang="en">${escapeHtml(question.passage_title)}</h3>${clozeMarkup(
         question,
         state.questions.filter((item) => item.group_id === question.group_id),
         { answers: state.answers },
@@ -921,7 +970,8 @@
   }
 
   function bindQuestionControls(question) {
-    dom.questionContent.querySelectorAll('.cloze-letters').forEach((letters) => {
+    const clozeWords = [...dom.questionContent.querySelectorAll('.cloze-letters')];
+    clozeWords.forEach((letters, wordIndex) => {
       const inputs = [...letters.querySelectorAll('input')];
       const save = () => {
         saveClozeAnswer(letters);
@@ -934,7 +984,10 @@
           if (event.isComposing) return;
           input.value = input.value.replace(/[^a-z]/gi, '').slice(0, 1);
           save();
-          if (input.value) inputs[index + 1]?.focus();
+          if (input.value) {
+            const next = inputs[index + 1] || clozeWords[wordIndex + 1]?.querySelector('input');
+            next?.focus();
+          }
         };
         input.addEventListener('input', enterLetter);
         input.addEventListener('compositionend', enterLetter);
@@ -1283,13 +1336,43 @@
 
   function showLanding() {
     if (state.submitting) return;
+    const fromGuide = !document.querySelector('#exam-guide').hidden;
     clearTimeout(testSaveTimer);
     state.testSession = null;
     stopTimer();
     stopRecording(true);
     clearPromptAudio();
     appViews.show(dom.landing);
+    if (fromGuide) appViews.focus(document.querySelector('#open-exam-guide'));
     window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
+  function showExamGuide() {
+    const guide = document.querySelector('#exam-guide');
+    guide.querySelectorAll('[data-guide-budget]').forEach((node) => {
+      const [section, task] = node.dataset.guideBudget.split('.');
+      const config = state.meta?.sections[section].practice_tasks[task];
+      if (!config) return;
+      const unit =
+        { write_email: '封', academic_discussion: '篇' }[task] ||
+        (section === 'listening' && config.unit === '组' ? '段' : config.unit);
+      const budgets =
+        task === 'build_sentence'
+          ? { [config.units_per_set]: config.seconds_per_set }
+          : config.group_seconds;
+      node.textContent = Object.entries(budgets)
+        .map(([count, seconds]) => {
+          const duration = formatDuration(seconds);
+          if (task === 'read_daily_life') return `${count} 题用 ${duration}`;
+          if (task === 'build_sentence') return `${count} 题共 ${duration}`;
+          if (section === 'speaking') return `整组约 ${duration}`;
+          return `每${unit} ${duration}`;
+        })
+        .join('；');
+    });
+    appViews.show(guide, { path: '/guide' });
+    window.scrollTo({ top: 0, behavior: 'instant' });
+    appViews.focus(document.querySelector('#guide-title'));
   }
 
   function returnFromExam() {
@@ -1437,6 +1520,11 @@
   });
 
   appViews.register(/^\/$/, showLanding);
+  appViews.register(/^\/guide$/, showExamGuide);
+  document
+    .querySelector('#open-exam-guide')
+    .addEventListener('click', () => appViews.navigate('/guide'));
+  document.querySelector('#guide-home').addEventListener('click', () => appViews.navigate('/'));
   appViews.register(/^\/practice\/(reading|listening|writing|speaking)$/, ([, section]) =>
     configureSection(section, true),
   );

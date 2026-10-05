@@ -150,7 +150,7 @@
         "explanation": "读懂：softened 是变软，不能据此断言食物安全；须报告、说明临时处理和预防。\n解析：范文不追责，区分关门与安全判断，暂不食用也不擅自丢室友物品。重点是共同查可靠指引，不提供未经证实的保鲜时限。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：发现共享物品异常→写观察而非归罪→限定临时行动→约定共同决定。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "任务覆盖与具体细节",
           "收件人关系与语气",
@@ -161,9 +161,9 @@
           "softened",
           "shared"
         ],
-        "rationale": "softened 是变软，不能据此断言食物安全；须报告、说明临时处理和预防。 难度来自任务整合与表达要求，非官方等级。",
+        "rationale": "题干已明确观察、未知责任人及待商量状态；写出临时处理和防再发生的安排即可，不要求医学或食品专业知识，标适中。",
         "answer_evidence": "范文不追责，区分关门与安全判断，暂不食用也不擅自丢室友物品。重点是共同查可靠指引，不提供未经证实的保鲜时限。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -269,7 +269,7 @@
         ],
         "min_words": 100,
         "max_score": 5,
-        "reference": "Hi Editor,\nThank you for featuring our design project in the newsletter. I noticed that the online article describes me as the sole winner of the design prize. The award was actually made jointly to Noor and me, so the current wording leaves out an equal recipient.\nNoor developed the user-testing approach while I worked on the visual design, and we presented the final project together. I would not want readers or future collaborators to assume that I completed everything alone. Could you name us both in the sentence announcing the award and in any headline that repeats the error? A short correction note would also help readers who saw the earlier version. I am happy to check the revised wording if that would be useful.\nThanks for your help,\nAlex",
+        "reference": "Dear Editor,\nThank you for featuring our design project in the newsletter. I noticed that the online article describes me as the sole winner of the design prize. The award was actually made jointly to Noor and me, so the current wording leaves out an equal recipient.\nNoor developed the user-testing approach while I worked on the visual design, and we presented the final project together. I would not want readers or future collaborators to assume that I completed everything alone. Could you name us both in the sentence announcing the award and in any headline that repeats the error? A short correction note would also help readers who saw the earlier version. I am happy to check the revised wording if that would be useful.\nThanks for your help,\nAlex",
         "explanation": "读懂：jointly 是共同获奖；不是要求额外表扬，而是更正已有事实。\n解析：范文列双方贡献说明署名影响，明确改标题、正文并加更正说明；只把伙伴名字塞进末尾可能保留“独自获奖”的错误。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：署名错误→定位原说法→给正确关系→检查所有仍会造成误解的位置。"
       },
       "review": {
@@ -284,9 +284,9 @@
           "award",
           "correction"
         ],
-        "rationale": "jointly 是共同获奖；不是要求额外表扬，而是更正已有事实。 难度来自任务整合与表达要求，非官方等级。",
+        "rationale": "将不自然的 Hi Editor 职称称呼改为常用 Dear Editor；联合获奖更正、双方贡献和协作请求保持准确，保留适中。",
         "answer_evidence": "范文列双方贡献说明署名影响，明确改标题、正文并加更正说明；只把伙伴名字塞进末尾可能保留“独自获奖”的错误。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -683,7 +683,7 @@
         "explanation": "读懂：omits 是漏掉；任务在核实食材信息，不是替客人判断是否能吃。\n解析：范文指出芝麻漏译，暂停供应并找负责人对照厨师确认；直接补一个词仍可能漏查其他食材，也不能保证绝对安全。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：信息影响选择→明确不一致→暂停依赖错误信息的环节→核实并批准再替换。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "任务覆盖与具体细节",
           "收件人关系与语气",
@@ -694,9 +694,9 @@
           "ingredients",
           "translation"
         ],
-        "rationale": "omits 是漏掉；任务在核实食材信息，不是替客人判断是否能吃。 难度来自任务整合与表达要求，非官方等级。",
+        "rationale": "漏掉的食材和未供应状态已直接给出；暂停、核查和请负责人批准属于明确行动链，风险后果本身不是英语难度，标适中。",
         "answer_evidence": "范文指出芝麻漏译，暂停供应并找负责人对照厨师确认；直接补一个词仍可能漏查其他食材，也不能保证绝对安全。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -929,7 +929,7 @@
         "explanation": "读懂：rewrite 是代写改写；指导可针对问题，但提交内容应由学生完成。\n解析：范文设清边界后给论点提问、独立例句和二十分钟提纲检查；逐句换成导师表达仍可能成为代写，不是简单缩短服务时间。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：越界求助→先区分教学与代做→选最关键弱点→让学习者执行修改并留出时间。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "任务覆盖与具体细节",
           "收件人关系与语气",
@@ -940,9 +940,9 @@
           "feedback",
           "revise"
         ],
-        "rationale": "rewrite 是代写改写；指导可针对问题，但提交内容应由学生完成。 难度来自任务整合与表达要求，非官方等级。",
+        "rationale": "辅导协议边界已给出；说明不能代写并安排有限反馈，与其他按规则拒绝和给替代方案的适中邮件一致。",
         "answer_evidence": "范文设清边界后给论点提问、独立例句和二十分钟提纲检查；逐句换成导师表达仍可能成为代写，不是简单缩短服务时间。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1011,7 +1011,7 @@
         "explanation": "读懂：duplicate 是重复记录；两人输入同一观察不等于两次独立采样。\n解析：范文保留原笔记、另记更正并重算，分工核表与日期，最后检查结论；只删一行而不改总结会留下错误。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：数据重复→追溯同一来源→保留更正轨迹→检查所有依赖它的总计和结论。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "任务覆盖与具体细节",
           "收件人关系与语气",
@@ -1022,9 +1022,9 @@
           "duplicate",
           "totals"
         ],
-        "rationale": "duplicate 是重复记录；两人输入同一观察不等于两次独立采样。 难度来自任务整合与表达要求，非官方等级。",
+        "rationale": "重复原因和未交稿状态已给出；保留原记录、修正汇总及分配核查任务，与 W86/W341 的协作修订负担相当，标适中。",
         "answer_evidence": "范文保留原笔记、另记更正并重算，分工核表与日期，最后检查结论；只删一行而不改总结会留下错误。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1134,7 +1134,7 @@
         "explanation": "读懂：reliably 是稳定可靠地做到；承认独奏准备不足，不等于退出整场。\n解析：范文明确仍参加合奏，提出熟悉曲目的演奏者或指挥批准的改编，并要求确认角色；“我会尽量”可能掩盖实际风险。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：被临时加重职责→说明能力与期限的交集→保留可承担部分→尽早让负责人定替代。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "任务覆盖与具体细节",
           "收件人关系与语气",
@@ -1145,9 +1145,9 @@
           "ensemble",
           "rehearsals"
         ],
-        "rationale": "reliably 是稳定可靠地做到；承认独奏准备不足，不等于退出整场。 难度来自任务整合与表达要求，非官方等级。",
+        "rationale": "时间与能力界限已说明；礼貌拒绝独奏、保留合奏并提出替代，不要求作曲或音乐知识，标适中。",
         "answer_evidence": "范文明确仍参加合奏，提出熟悉曲目的演奏者或指挥批准的改编，并要求确认角色；“我会尽量”可能掩盖实际风险。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1175,7 +1175,7 @@
         "explanation": "读懂：confirmed 是已确认，goal 是目标；两者不能因申请需要而互换。\n解析：范文保留五百人的愿景，但改成计划及测量方法，再一起核全部数字；把“预计”藏在别处无法修正本句误导。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：申请中的数字→辨目标、估计、实绩→让词语对应证据状态→逐项核对后提交。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "任务覆盖与具体细节",
           "收件人关系与语气",
@@ -1186,9 +1186,9 @@
           "confirmed",
           "target"
         ],
-        "rationale": "confirmed 是已确认，goal 是目标；两者不能因申请需要而互换。 难度来自任务整合与表达要求，非官方等级。",
+        "rationale": "500 是目标且尚未报名均已明示；改正 confirmed 用词并请求共同核数即可，不按资助申请题材虚高分级，标适中。",
         "answer_evidence": "范文保留五百人的愿景，但改成计划及测量方法，再一起核全部数字；把“预计”藏在别处无法修正本句误导。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1298,7 +1298,7 @@
         "explanation": "读懂：sequence 是活动顺序；博物馆关门是硬时间，散步长度可以调整。\n解析：范文先两小时博物馆、步行十分钟再走河边，余时留休息和出发；不是把六点前每分钟塞满，还问偏好以决定取舍。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：多活动有固定截止→先排会关闭的地点→留移动和离开缓冲→用对方偏好决定可缩减项。"
       },
       "review": {
-        "difficulty": "easy",
+        "difficulty": "medium",
         "skills": [
           "任务覆盖与具体细节",
           "收件人关系与语气",
@@ -1309,9 +1309,9 @@
           "trail",
           "departure"
         ],
-        "rationale": "sequence 是活动顺序；博物馆关门是硬时间，散步长度可以调整。 难度来自任务整合与表达要求，非官方等级。",
+        "rationale": "需要合并到达、离开、闭馆、步行转场和行程时长多个时间条件，并留弹性后询偏好；词汇虽日常，实际整合负担高于简单邀约，标适中。",
         "answer_evidence": "范文先两小时博物馆、步行十分钟再走河边，余时留休息和出发；不是把六点前每分钟塞满，还问偏好以决定取舍。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1339,7 +1339,7 @@
         "explanation": "读懂：clarity 是清澈度，不等于 swimming safety（游泳安全）。\n解析：范文指出测量边界，给替换句并显式排除安全结论；把“安全”改成“看起来安全”仍超出证据范围。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：报道夸大结论→定位测了什么与没测什么→重写有限结论→发布前确认更正。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "任务覆盖与具体细节",
           "收件人关系与语气",
@@ -1350,9 +1350,9 @@
           "clarity",
           "sampling"
         ],
-        "rationale": "clarity 是清澈度，不等于 swimming safety（游泳安全）。 难度来自任务整合与表达要求，非官方等级。",
+        "rationale": "题干直接限定只测清澈度、未测游泳安全；应准确改述该范围并求发布前确认，不要求专业水质推断，标适中。",
         "answer_evidence": "范文指出测量边界，给替换句并显式排除安全结论；把“安全”改成“看起来安全”仍超出证据范围。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1544,7 +1544,7 @@
         "explanation": "读懂：identical names 是同名，不等于同一客户；要保护有效记录。\n解析：范文用不同账号反证，先在副本测试并把冲突转人工；只多检查几个姓名仍没修正匹配规则，也不能直接在主文件试删。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：自动处理疑点→找反例→改识别依据→副本测试含正反样例后才操作原件。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "任务覆盖与具体细节",
           "收件人关系与语气",
@@ -1555,9 +1555,9 @@
           "account",
           "duplicates"
         ],
-        "rationale": "identical names 是同名，不等于同一客户；要保护有效记录。 难度来自任务整合与表达要求，非官方等级。",
+        "rationale": "同名不同账号的反例已提供；解释规则问题、建议副本核查并分工即可，不需编写程序或专业算法，标适中。",
         "answer_evidence": "范文用不同账号反证，先在副本测试并把冲突转人工；只多检查几个姓名仍没修正匹配规则，也不能直接在主文件试删。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1626,7 +1626,7 @@
         "explanation": "读懂：gradual return 是逐步恢复参与；队长不能替专业人员判断能打多久。\n解析：范文欢迎但不施压，只要安排所需限制、不索私人病情，并给记录轮转等角色；说“少打一局肯定没事”仍属越权保证。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：健康限制影响分工→尊重专业边界→仅收集必要安排信息→提供不以冒险换归属的角色。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "任务覆盖与具体细节",
           "收件人关系与语气",
@@ -1637,9 +1637,9 @@
           "match",
           "participation"
         ],
-        "rationale": "gradual return 是逐步恢复参与；队长不能替专业人员判断能打多久。 难度来自任务整合与表达要求，非官方等级。",
+        "rationale": "逐步恢复及队长无医学判断权限已明示；欢迎、请确认限制和提供其他角色，属于普通协调表达，标适中。",
         "answer_evidence": "范文欢迎但不施压，只要安排所需限制、不索私人病情，并给记录轮转等角色；说“少打一局肯定没事”仍属越权保证。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1913,7 +1913,7 @@
         "explanation": "读懂：unanimously 是一致通过，majority 是多数；更正记录不等于推翻结果。\n解析：范文承认决议有效，要求记两票反对及送货通道顾虑，并可与主席核对；长篇重辩停车方案会偏离秘书的记录职责。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：会议记录有误→区分结果与过程→更正必要事实及理由→核对后再定稿。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "任务覆盖与具体细节",
           "收件人关系与语气",
@@ -1924,9 +1924,9 @@
           "majority",
           "unanimously"
         ],
-        "rationale": "unanimously 是一致通过，majority 是多数；更正记录不等于推翻结果。 难度来自任务整合与表达要求，非官方等级。",
+        "rationale": "多数通过与两人反对都由题干给出；更正一致通过的记录并提出核对，不需论证停车政策本身，标适中。",
         "answer_evidence": "范文承认决议有效，要求记两票反对及送货通道顾虑，并可与主席核对；长篇重辩停车方案会偏离秘书的记录职责。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1954,7 +1954,7 @@
         "explanation": "读懂：credit 是时数记账，不是现金赔偿；规则未覆盖准备工作，不能先认定欠款。\n解析：范文分开已做准备与未办活动，向协调员问适用规则，再建议预约时先约定准备额度及取消处理；向成员直接讨时数会跳过核实。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：规则空白→陈述已完成工作→问适用方式不预设权利→把未来约定前移到预约。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "任务覆盖与具体细节",
           "收件人关系与语气",
@@ -1965,9 +1965,9 @@
           "canceled",
           "credit"
         ],
-        "rationale": "credit 是时数记账，不是现金赔偿；规则未覆盖准备工作，不能先认定欠款。 难度来自任务整合与表达要求，非官方等级。",
+        "rationale": "时数交换规则和准备工作缺口已有解释；陈述事实、求适用说明及建议事先约定，不以不熟悉的 time bank 场景标困难。",
         "answer_evidence": "范文分开已做准备与未办活动，向协调员问适用规则，再建议预约时先约定准备额度及取消处理；向成员直接讨时数会跳过核实。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1995,7 +1995,7 @@
         "explanation": "读懂：eco-friendly 是笼统环保说法；采购要核材料与实际处理条件。\n解析：范文要材质、回收或堆肥条件和专门收集要求，再对校内清单决定；可堆肥不等于可放任意回收箱，不能仅凭宣传下单。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：遇环境宣称→拆材料和处理路径→核当地设施是否兼容→据此决定而非只看标签。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "任务覆盖与具体细节",
           "收件人关系与语气",
@@ -2006,9 +2006,9 @@
           "materials",
           "recycling"
         ],
-        "rationale": "eco-friendly 是笼统环保说法；采购要核材料与实际处理条件。 难度来自任务整合与表达要求，非官方等级。",
+        "rationale": "询问材质、处理条件并说明购买取决于校内适用性；不要求知道具体回收技术或认证，按适中请求信息任务处理。",
         "answer_evidence": "范文要材质、回收或堆肥条件和专门收集要求，再对校内清单决定；可堆肥不等于可放任意回收箱，不能仅凭宣传下单。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2118,7 +2118,7 @@
         "explanation": "读懂：anonymously 是匿名，但认出亲属作品后仍有利益关联。\n解析：范文在未评分时披露，建议回避该项或整体替换，并不向其他评委透露身份；保证“我绝对公正”不能消除程序疑虑。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：评审中发现关系→及时披露并暂停相关判断→由组织者定回避范围→不额外泄露身份。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "任务覆盖与具体细节",
           "收件人关系与语气",
@@ -2129,9 +2129,9 @@
           "entries",
           "fairness"
         ],
-        "rationale": "anonymously 是匿名，但认出亲属作品后仍有利益关联。 难度来自任务整合与表达要求，非官方等级。",
+        "rationale": "尚未评分及亲属关系已给出；披露、提出回避并询程序即可，伦理情节不能单独替代实际语言负担，标适中。",
         "answer_evidence": "范文在未评分时披露，建议回避该项或整体替换，并不向其他评委透露身份；保证“我绝对公正”不能消除程序疑虑。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2405,7 +2405,7 @@
         "explanation": "读懂：handover 是交接职责，不是接管前任私人邮箱。\n解析：范文拒收个人密码，按服务商流程换社团联系地址，再核余额、待付款和周期扣费；只有能登录不代表账目交接完成。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：账号绑个人→分离组织与私人访问→走正式转移→用业务记录核对交接完整性。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "任务覆盖与具体细节",
           "收件人关系与语气",
@@ -2416,9 +2416,9 @@
           "password",
           "handover"
         ],
-        "rationale": "handover 是交接职责，不是接管前任私人邮箱。 难度来自任务整合与表达要求，非官方等级。",
+        "rationale": "题干已指定通过服务商转官方邮箱的替代办法；说明边界并索取交接记录，不需自行设计身份认证或财务制度，标适中。",
         "answer_evidence": "范文拒收个人密码，按服务商流程换社团联系地址，再核余额、待付款和周期扣费；只有能登录不代表账目交接完成。",
-        "reviewed_on": "2026-09-27"
+        "reviewed_on": "2026-10-05"
       }
     },
     {

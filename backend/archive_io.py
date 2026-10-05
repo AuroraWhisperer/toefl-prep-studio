@@ -57,11 +57,16 @@ class SectionScore(StoredObject):
     possible: float
 
 
+class FeedbackReference(StoredObject):
+    question_id: str = Field(min_length=1)
+    reference_answer: str
+
+
 class PracticeResult(StoredObject):
     total_questions: int = Field(ge=0)
     answered_questions: int = Field(ge=0)
     sections: dict[str, SectionScore] = Field(min_length=1)
-    feedback: list[dict]
+    feedback: list[FeedbackReference]
 
 
 class PracticeArchive(MaterialArchive):
@@ -73,6 +78,14 @@ class PracticeArchive(MaterialArchive):
     task_type: str | None
     result: PracticeResult
     recordings: dict[str, str]
+
+    @model_validator(mode='after')
+    def check_feedback(self):
+        question_ids = {question.id for question in self.questions}
+        feedback_ids = [item.question_id for item in self.result.feedback]
+        if len(feedback_ids) != len(set(feedback_ids)) or set(feedback_ids) != question_ids:
+            raise ValueError('Feedback must cover every archived question exactly once')
+        return self
 
 
 class ExpiredRecording(StoredObject):

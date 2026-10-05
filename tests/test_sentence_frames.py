@@ -65,6 +65,8 @@ def test_sentence_bank_covers_official_frame_variants():
         ('W33', 'The results raised an interesting question but the experiment failed.'),
         ('W37', 'On Monday, were the tutor and the students both available?'),
         ('W43', 'When you reached the station, had the last train already left?'),
+        ('W44', 'Is this the first course outside your department you have taken?'),
+        ('W178', 'Please give the books to the librarian.'),
         ('W47', 'The equipment is too heavy for one person safely to carry.'),
         ('W47', 'For one person, the equipment is too heavy to carry safely.'),
         ('W47', 'For one person, the equipment is too heavy to safely carry.'),
@@ -95,6 +97,7 @@ def test_reviewed_contextual_variants_are_accepted(question_id, answer):
     [
         ('W33', 'Although the experiment failed but the results raised an interesting question.'),
         ('W43', 'When you reached the station did the last train already left?'),
+        ('W178', 'Please give to the librarian the books with torn covers.'),
         ('W59', 'Does the footpath shorter than the road through town?'),
         ('W61', 'She suggested that we to discuss the budget before choosing a venue.'),
         ('W64', 'If the report would be clearer it included a diagram.'),

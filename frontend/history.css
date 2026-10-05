@@ -123,7 +123,7 @@
   padding: 8px;
   background: var(--white);
   border-radius: 12px;
-  box-shadow: 0 8px 32px rgba(23, 32, 42, 0.16);
+  box-shadow: 0 8px 32px rgba(48, 59, 55, 0.16);
 }
 .history-management-options button {
   display: grid;
@@ -358,7 +358,6 @@
 .history-empty p {
   margin: 0 auto;
   color: var(--slate);
-  max-width: 48ch;
   font-size: 0.9rem;
 }
 .history-empty button {

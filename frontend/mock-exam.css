@@ -77,7 +77,6 @@ button:disabled {
 }
 .exam-entry p {
   margin: 0;
-  max-width: 28ch;
   font-size: 0.82rem;
   color: var(--slate);
 }
@@ -86,10 +85,11 @@ button:disabled {
   border-radius: 8px;
 }
 .mock-entry {
-  --card-edge: #2856c7;
-  --frame-ink: #9db7fa;
+  --card-edge: #405e52;
+  --frame-ink: #a3b7a5;
+  --focus: var(--white);
   min-height: calc(var(--home-card-height) + 36px);
-  background: var(--signal);
+  background: var(--card-edge);
   color: var(--white);
 }
 .mock-entry::before {
@@ -117,13 +117,11 @@ button:disabled {
 }
 .mock-entry h2 span {
   margin-top: 6px;
-  color: #dce6ff;
+  color: #e0e9df;
   font-size: 0.86rem;
 }
 .mock-entry p {
-  color: #dce6ff;
-  max-width: none;
-  text-wrap: balance;
+  color: #e0e9df;
 }
 .mock-entry .primary-button {
   width: 100%;
@@ -131,6 +129,10 @@ button:disabled {
   border-color: var(--white);
   background: var(--white);
   color: var(--signal);
+}
+.mock-entry .primary-button:hover {
+  background: var(--signal-soft);
+  color: var(--signal-hover);
 }
 .test-entry {
   --card-edge: #9ba79a;
@@ -156,7 +158,7 @@ button:disabled {
   color: var(--slate);
 }
 .test-entry button:disabled {
-  color: #5d6570;
+  color: #606d66;
   background: #e1e4df;
   border-color: #c4c9c2;
   opacity: 1;
@@ -269,7 +271,6 @@ button:disabled {
 }
 .mock-disclaimer p {
   margin: 12px 0 0;
-  max-width: 80ch;
 }
 .mock-device-row {
   display: flex;
@@ -588,7 +589,7 @@ button:disabled {
   overflow: auto;
 }
 #mock-submit-dialog::backdrop {
-  background: #14233280;
+  background: #303b3780;
 }
 #mock-review-grid {
   display: flex;
@@ -646,7 +647,6 @@ button:disabled {
 }
 .mock-review-list p {
   white-space: pre-wrap;
-  max-width: 80ch;
   margin: 12px 0;
 }
 .mock-review-list audio {

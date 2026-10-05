@@ -362,3 +362,47 @@ def test_final_archive_recovers_failed_session_write_before_retry(monkeypatch, r
     assert tests.read_session(session['id'])['responses'][qid]['answer'] == 'The accepted answer.'
     assert history.read_record(session['id']) == archived
     assert len(list(history.HISTORY_DIR.glob('*.json'))) == 1
+
+
+@pytest.mark.parametrize('action', ['clear', 'recording'])
+def test_pending_completion_is_recovered_before_clearing_or_uploading(monkeypatch, action):
+    active = start(2)
+    session = start()
+    for _ in range(8):
+        session = event(event(session, 'begin'), 'submit')
+    session = event(session, 'begin')
+    qid = session['phase']['questions'][0]['id']
+    url = f"/api/v1/tests/sessions/{session['id']}"
+    original_write = tests.write_archive
+
+    def fail_completed(path, value):
+        if value.get('status') == 'completed':
+            raise PermissionError('Final session cannot be committed')
+        return original_write(path, value)
+
+    with monkeypatch.context() as fault:
+        fault.setattr(tests, 'write_archive', fail_completed)
+        failed = TestClient(app, raise_server_exceptions=False).post(
+            url, json={'phase_index': 8, 'action': 'submit'}
+        )
+    assert failed.status_code == 500
+    assert tests.read_session(session['id'])['status'] == 'active'
+    assert history.read_record(session['id'])['category'] == 'test'
+
+    if action == 'clear':
+        cleared = client.post('/api/v1/history/reset', json={'scope': 'all', 'confirm': True})
+        assert cleared.status_code == 200
+        assert cleared.json()['deleted'] == 1
+        assert client.get(url).status_code == 404
+        assert client.get('/api/v1/history?category=test').json()['total'] == 0
+        assert client.get(f"/api/v1/tests/sessions/{active['id']}").status_code == 200
+    else:
+        audio_url = f'{url}/recordings/{qid}'
+        uploaded = client.put(
+            audio_url, content=b'final clip', headers={'content-type': 'audio/webm'}
+        )
+        assert uploaded.status_code == 200
+        assert client.get(url).json()['status'] == 'completed'
+        archive_audio = f"/api/v1/history/test/{session['id']}/recordings/{qid}"
+        assert client.get(archive_audio).content == b'final clip'
+        assert client.get(audio_url).content == b'final clip'

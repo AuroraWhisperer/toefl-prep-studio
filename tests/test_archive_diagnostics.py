@@ -83,6 +83,34 @@ def test_incomplete_practice_record_has_identifiable_list_and_detail_errors(
     assert path.read_bytes() == broken
 
 
+@pytest.mark.parametrize(
+    'damage', ['missing_id', 'missing_reference', 'bad_reference', 'empty', 'missing', 'duplicate']
+)
+def test_incomplete_feedback_is_diagnosed_before_review(archived_practice, damage, caplog):
+    path, original = archived_practice
+    record = json.loads(original)
+    feedback = record['result']['feedback']
+    feedback[0]['answer'] = 'private-answer-never-log'
+    if damage == 'missing_id':
+        feedback[0].pop('question_id')
+    elif damage == 'missing_reference':
+        feedback[0].pop('reference_answer')
+    elif damage == 'bad_reference':
+        feedback[0]['reference_answer'] = ['invalid']
+    elif damage == 'empty':
+        feedback.clear()
+    elif damage == 'missing':
+        feedback.pop()
+    else:
+        feedback[-1] = feedback[0].copy()
+    path.write_text(json.dumps(record), encoding='utf-8')
+    broken = path.read_bytes()
+    assert_diagnostic(client.get(f'/api/v1/history/practice/{path.stem}'), path)
+    assert_diagnostic(client.get('/api/v1/history'), path)
+    assert path.read_bytes() == broken
+    assert 'private-answer-never-log' not in caplog.text
+
+
 @pytest.mark.parametrize('questions', [None, [], [None], [{}], [{'id': 'R01', 'group_id': []}]])
 def test_incomplete_material_data_cannot_become_zero_counts(archived_practice, questions):
     path, original = archived_practice

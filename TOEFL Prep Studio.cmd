@@ -13,17 +13,14 @@ python -m venv .venv
 if errorlevel 1 goto failed
 
 :dependencies
-".venv\Scripts\python.exe" -c "import fastapi, uvicorn, edge_tts" >nul 2>&1
+".venv\Scripts\python.exe" -c "import fastapi, uvicorn, edge_tts, pystray, PIL" >nul 2>&1
 if not errorlevel 1 goto launch
 echo 首次启动：正在安装依赖，请保持联网……
 ".venv\Scripts\python.exe" -m pip install -r requirements.txt
 if errorlevel 1 goto failed
 
 :launch
-echo 正在启动托福练习，准备好后会自动打开浏览器。
-echo 练习时请保留此窗口，可以最小化；关闭此窗口即停止服务。
-echo.
-".venv\Scripts\python.exe" scripts\launch.py
+start "" ".venv\Scripts\pythonw.exe" "scripts\launch_tray.py"
 if errorlevel 1 goto failed
 exit /b 0
 

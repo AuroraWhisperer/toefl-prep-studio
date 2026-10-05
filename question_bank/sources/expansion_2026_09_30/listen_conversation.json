@@ -60,16 +60,16 @@
         "explanation": "读懂：问拿走伞前要做什么。sign this collection sheet 是“在领取表上签字”。\n解析：找到后工作人员要求签收。一个月是失物保管期，不是等候期；另买一把只是她先前想过的事，也没要求重写褪色字母。\n下次：物品确认后继续听下一条指令，再把过去打算和当前必须做的动作分开。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "行动顺序"
         ],
         "vocabulary": [
           "sign this collection sheet"
         ],
-        "rationale": "找到后工作人员要求签收。一个月是失物保管期，不是等候期；另买一把只是她先前想过的事，也没要求重写褪色字母。 补明问题、关键英文与复核步骤。",
+        "rationale": "调为简单：签领取表是明确末尾指令，不能仅因是第二问就标为适中。",
         "answer_evidence": "Please sign this collection sheet.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -130,16 +130,16 @@
         "explanation": "读懂：问已投的钱还能不能用于这轮。your time hasn’t started yet 是“你的使用时间还没开始”。\n解析：女士明确说不用再投，原来的钱仍可用。没有提启动后退款、重新付费，或低温比其他档更贵。\n下次：付款后重新操作设备时，先听是否已经开始计时，再确认需不需要再次付款。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "细节与否定"
         ],
         "vocabulary": [
           "your time hasn't started yet"
         ],
-        "rationale": "女士明确说不用再投，原来的钱仍可用。没有提启动后退款、重新付费，或低温比其他档更贵。 补明问题、关键英文与复核步骤。",
+        "rationale": "调为简单：不用再投币、时间尚未开始，直接支持原付款仍可用。",
         "answer_evidence": "No, your time hasn't started yet.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -235,16 +235,16 @@
         "explanation": "读懂：问怎样帮助使用不同版本的人。chapter titles 是“章节标题”。\n解析：故事一样但页码不同，在页数范围旁加章节名，就能找到相同内容。无需买新版、删引言或换小说。\n下次：版本不同造成定位问题时，找不随排版改变的章节信息，再核对本次读到哪里。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "问题解决"
         ],
         "vocabulary": [
           "chapter titles"
         ],
-        "rationale": "故事一样但页码不同，在页数范围旁加章节名，就能找到相同内容。无需买新版、删引言或换小说。 补明问题、关键英文与复核步骤。",
+        "rationale": "调为简单：提供章节名和页码是女方明确承诺，没有应用新的版本情境。",
         "answer_evidence": "I'll send the chapter titles for each meeting as well as the page ranges.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -270,16 +270,16 @@
         "explanation": "读懂：问为什么等小说读完才讨论访谈。reveals the ending 是“透露结局”。\n解析：推迟是避免剧透，不是访谈没翻译、只有女士有，或必须先读它才能懂火车那章。男士的版本开头就有访谈。\n下次：听延后安排，找直接解释原因的句子，再检查是否把不愿现在读误当成没有材料。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "隐含目的"
         ],
         "vocabulary": [
           "reveals the ending"
         ],
-        "rationale": "推迟是避免剧透，不是访谈没翻译、只有女士有，或必须先读它才能懂火车那章。男士的版本开头就有访谈。 补明问题、关键英文与复核步骤。",
+        "rationale": "调为简单：访谈揭露结局是明确给出的推迟原因，不需推测说话人态度。",
         "answer_evidence": "We'll discuss it after finishing the novel, since it reveals the ending.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -410,16 +410,16 @@
         "explanation": "读懂：问折完整批邀请函前要做什么。one approved 是“先批准一份样品”。\n解析：先给主办者检查折法，再做两百份，避免整批折反。没有要求大信封、增印地图或删掉图片。\n下次：听到整批操作前的步骤，找小样检查由谁完成，再确认通过后才做全部。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "行动顺序"
         ],
         "vocabulary": [
           "one approved"
         ],
-        "rationale": "先给主办者检查折法，再做两百份，避免整批折反。没有要求大信封、增印地图或删掉图片。 补明问题、关键英文与复核步骤。",
+        "rationale": "调为简单：先找主办者批准一个样张，是直接下一步指令。",
         "answer_evidence": "Let's get one approved by the event organizer before doing all two hundred.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -620,16 +620,16 @@
         "explanation": "读懂：问为什么衣架上要留角色标签。several look alike 是“好几件看起来很像”。\n解析：标签帮助第二天快速找到各角色对应的外套。它不是钥匙归属、出售许可或测湿度的标记。\n下次：保留标识的目的题，先找哪些东西容易混，再连到下次怎样取对。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "目的"
         ],
         "vocabulary": [
           "several look alike"
         ],
-        "rationale": "标签帮助第二天快速找到各角色对应的外套。它不是钥匙归属、出售许可或测湿度的标记。 补明问题、关键英文与复核步骤。",
+        "rationale": "调为简单：标签帮助明天快速找到相似外套，是同句明示的用途。",
         "answer_evidence": "We need to find each coat quickly tomorrow, and several look alike.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -655,16 +655,16 @@
         "explanation": "读懂：问为什么卡原本还没集满。shop logo, not a purchase stamp 是“店标，不是购物章”。\n解析：男士把相似的店标多算作一次消费，所以实际少一章。不是卡过期、来自别店，或店员删了章。\n下次：计数被纠正时先查哪些标记真正有效，再剔除外观相似却不算数的那一个。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "更正"
         ],
         "vocabulary": [
           "the shop logo, not a purchase stamp"
         ],
-        "rationale": "男士把相似的店标多算作一次消费，所以实际少一章。不是卡过期、来自别店，或店员删了章。 补明问题、关键英文与复核步骤。",
+        "rationale": "调为简单：把店标误看成消费章已由两人直接确认，其他选项并不构成数量计算。",
         "answer_evidence": "The last mark is the shop logo, not a purchase stamp.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -795,16 +795,16 @@
         "explanation": "读懂：问为什么需要键盘手。practice their entrances 是“练习歌手进入演唱的时机”。\n解析：这次只排第一幕，重点是给出清楚提示让歌手在正确时机加入。不是做全剧正式录音、招长期演奏者，或教歌手弹键盘。\n下次：先记排练范围，再记本次训练目标，检查选项有没有把临时协助扩大成长久或成品任务。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "目的"
         ],
         "vocabulary": [
           "practice their entrances"
         ],
-        "rationale": "这次只排第一幕，重点是给出清楚提示让歌手在正确时机加入。不是做全剧正式录音、招长期演奏者，或教歌手弹键盘。 补明问题、关键英文与复核步骤。 替换脱离对话或过弱的干扰项。",
+        "rationale": "调为简单：帮助歌手练习进入时机，是明确说明的主要目的，非实际读谱要求。",
         "answer_evidence": "We mainly need the singers to practice their entrances.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1040,16 +1040,16 @@
         "explanation": "读懂：问 Lina 没及时回复时怎么办。Use the clean half first 是“先用干净的那半边”。\n解析：会议可以从空白半边开始，保留她的角落等回复。不是取消会议、只抄总数就擦，或搬走白板。\n下次：先确认哪个条件尚未满足，再找仍可先做的部分，同时保留待确认的内容。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "条件行动"
         ],
         "vocabulary": [
           "Use the clean half first"
         ],
-        "rationale": "会议可以从空白半边开始，保留她的角落等回复。不是取消会议、只抄总数就擦，或搬走白板。 补明问题、关键英文与复核步骤。",
+        "rationale": "调为简单：未获回复先用空白半边，是女方对同一条件的直接回答。",
         "answer_evidence": "Use the clean half first.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1075,16 +1075,16 @@
         "explanation": "读懂：问为什么先不显示作者名字。influenced by who took it 是“受到拍摄者身份影响”。\n解析：先不看作者名字，是为了让大家先对照片本身作出反应，避免受拍摄者身份影响；之后作者仍会参与说明。不是筛选出售作品、排除作者或不归还照片。\n下次：听到先隐藏、后公开→找先这样做的目的→检查限制是否只适用于前一阶段。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "目的"
         ],
         "vocabulary": [
           "influenced by who took it"
         ],
-        "rationale": "匿名只持续首轮，先评价作品再听作者说明；正确目的与讨论先后一致。",
+        "rationale": "调为简单：先看照片再知道作者的目的已由问答确认，干扰项不涉及相近的匿名评价理由。",
         "answer_evidence": "We'll display the front without names during the first discussion.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1110,16 +1110,16 @@
         "explanation": "读懂：问建议带哪种照片。still have questions about 是“自己仍有疑问的”。\n解析：她可以带一张自己还不知道怎么改进的照片，让大家一起讨论。不必获过奖或用最贵的相机拍，也不是让她带别人的作品。\n下次：听到为讨论选择材料→找仍需解决的问题→检查是否把学习讨论误当成评奖。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "隐含建议"
         ],
         "vocabulary": [
           "still have questions about"
         ],
-        "rationale": "活动强调未解决的问题能促进学习，不限最佳作品、设备价格或获奖。",
+        "rationale": "调为简单：带仍有疑问的照片是明确建议，获奖和昂贵器材都未作为要求。",
         "answer_evidence": "choose one you still have questions about.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1250,16 +1250,16 @@
         "explanation": "读懂：问调整垫圈后用什么测试。existing motor 是“原来这台电机”。\n解析：先调整车轮间距，再用现有电机试跑，才能看这次调整有没有效果。没有同时换更重车架、电池、前轮或另一电机。\n下次：听到一次调整→保留其他原有条件再试→检查这次调整是否有效。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "行动顺序"
         ],
         "vocabulary": [
           "existing motor"
         ],
-        "rationale": "原题before replacing预设必换电机，与调整后已变直的结果不合；改问实际测试，保留键0并用完整材料再答。",
+        "rationale": "调为简单：调整后仍用原电机测试，是直接指令，没有要求推断实际机械故障。",
         "answer_evidence": "Try it with the existing motor before changing anything else.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1285,16 +1285,16 @@
         "explanation": "读懂：问应该带哪两份录音。the first and the last 是“第一份和最后一份”。\n解析：第一份和最后一份一起听，才能比较哪里进步了。删掉首份、只选最流畅的一份都会少了比较依据；也没要求先写完整稿再录一份。\n下次：听到要了解改进过程→保留开始和结束时的材料→检查是否能作前后比较。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "细节"
         ],
         "vocabulary": [
           "the first and the last"
         ],
-        "rationale": "比较前后变化需两端版本，原解释区分最佳筛选和过程观察。",
+        "rationale": "调为简单：第一份和最后一份录音由女方直接指定。",
         "answer_evidence": "Bring the first and the last.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1320,16 +1320,16 @@
         "explanation": "读懂：问首份录音的停顿有什么用。trouble organizing the idea 是“组织想法有困难”。\n解析：停顿可能显示哪里还没想清怎样组织，和后版比较能帮助理解进步。它不意味着应删掉练习题、必须每个停顿都保留，也不保证后版已完美。\n下次：听到要保留有缺点的材料→找它能显示哪一步困难→检查后来的改进是否解决了这一步。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "原因"
         ],
         "vocabulary": [
           "trouble organizing the idea"
         ],
-        "rationale": "停顿提供组织难点线索已明示，保留may而不当确诊；改掉凭停顿证明麦克风坏的弱项。 原文已明确给出该关系，调为适中。 技能标注改为原因：女士直接说明停顿可能暴露组织思路的困难。",
+        "rationale": "调为简单：停顿可能显示组织困难，是女方明说的用途，不要求评价真实录音。",
         "answer_evidence": "Those pauses may show where you had trouble organizing the idea.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1460,16 +1460,16 @@
         "explanation": "读懂：问为什么标版本。Course reading lists sometimes specify it 是“课程书单有时指定版本”。\n解析：有的课程要求指定版本，读者需要据此判断这本能不能用。版本不是决定谁能写批注的规则，也没说页码都相同或书只按出版月份排列。\n下次：听到要求补写一项信息→找读者要用它作什么决定→检查所填内容能否帮助判断。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "目的"
         ],
         "vocabulary": [
           "specify it"
         ],
-        "rationale": "it对应edition，版本信息供选书而非批注权限、同页码或月份分类；原解释准确。",
+        "rationale": "调为简单：部分课程指定版本是直接原因，其他选项未提供接近的版本用途。",
         "answer_evidence": "Course reading lists sometimes specify it.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1530,16 +1530,16 @@
         "explanation": "读懂：问男士最后决定怎样参加。arrive for setup 是“安装准备阶段就到”。\n解析：他听懂提前到场是为了学安装和操作后，决定从准备阶段就参加。不是八点才来、换带另一件设备，或因七点看不见星星就取消。\n下次：听到最后决定→用新决定替换最初打算→检查到场时间和参与环节。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "决定"
         ],
         "vocabulary": [
           "arrive for setup"
         ],
-        "rationale": "最终明确愿不漏指导而早来，区别最初以为直接观星；原解释保留。",
+        "rationale": "调为简单：男方明确决定来参加准备阶段，正项复述末尾决定。",
         "answer_evidence": "I'll arrive for setup",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1705,16 +1705,16 @@
         "explanation": "读懂：问谁上传推荐信。asks referees to upload letters themselves 是“要求推荐人自己上传信件”。\n解析：申请人填推荐人的邮箱，让系统发出邀请；推荐人用自己的链接上传。不是由面试官代传，也不需要申请人借密码或使用共享账号。\n下次：听到几个人分别提交材料→记清谁填写信息、谁实际上传→核对各自使用哪个链接。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "流程"
         ],
         "vocabulary": [
           "referees to upload letters themselves"
         ],
-        "rationale": "申请者填邮箱、推荐人用邀请链接，角色清楚；原解析强调不同动作而非凭账号猜测。 英文关键短语按实际录音稿补齐，避免把省写当作原文。",
+        "rationale": "调为简单：推荐人自己通过系统链接上传，是直接说明的操作者和渠道。",
         "answer_evidence": "The application asks referees to upload letters themselves.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1775,16 +1775,16 @@
         "explanation": "读懂：问女士建议用什么替代多种口音。pace and tone 是“语速和语气”。\n解析：从人物意图出发，用快慢、犹豫和语气区分，不必靠很多口音。不是所有人都犹豫、都一样快，也不是让听众先背口音清单。\n下次：听到角色的说话意图不同→对应调整语速和语气→检查听众能否分清谁在说话。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "建议"
         ],
         "vocabulary": [
           "pace and tone"
         ],
-        "rationale": "人物急躁/犹豫提供自然区分依据；避免删除全部台词这一离题弱干扰。",
+        "rationale": "调为简单：用语速语气代替多个口音，是第一轮明确建议，不以表演主题抬高难度。",
         "answer_evidence": "You could distinguish them with pace and tone instead.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -1845,16 +1845,16 @@
         "explanation": "读懂：问女士想找出什么。Mill Creek 是日记里一家人跨过的“米尔溪”。\n解析：她在找日记里那条溪流对应现在什么地点。桥和面包店是定位线索，不是在查面包师、桥的主人或下一版地图何时发布。\n下次：听到旧地名在新地图上找不到→先确认要找的地点→再用历史名称和周边事物核对。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "主旨"
         ],
         "vocabulary": [
           "crossed Mill Creek"
         ],
-        "rationale": "她找水道地理位置，桥和面包房是辅助线索而非目标，原解析清楚。",
+        "rationale": "调为简单：问题只识别寻找日记中的溪流地点，桥和面包店都是定位线索。",
         "answer_evidence": "The diary says the family crossed Mill Creek, but I can't find it on the current town map.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2055,16 +2055,16 @@
         "explanation": "读懂：问下雨后哪项仍能进行。lunch can still happen 是“午餐仍能举行”。\n解析：天气限制户外游戏，不自动取消聚餐；集合点也改为社区室入口。\n下次：听到备用场所→区分受天气影响与仍能进行的部分→避免全盘取消。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "范围"
         ],
         "vocabulary": [
           "lunch can still happen"
         ],
-        "rationale": "已订社区室保证午餐，游戏视天决定；原解释区分仍可做与受天气影响部分。",
+        "rationale": "调为简单：雨天仍能在社区室吃午饭已经明确说明，正项无需推算天气或更改计划。",
         "answer_evidence": "The lunch can still happen; only the games outside depend on the weather.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2090,16 +2090,16 @@
         "explanation": "读懂：问哪些人需要再次回复。Only if their attendance has changed 是“只有出席计划改变时才需要”。\n解析：餐食人数已经统计过，只需计划改变的人回复。照常来的人不用重复报名，是否参加游戏、有没有折叠椅都不是这次回复的条件。\n下次：听到只有某种情况才要回复→写清这个条件→检查选项是否多包括了不必回复的人。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "条件整合"
         ],
         "vocabulary": [
           "Only if their attendance has changed"
         ],
-        "rationale": "既有餐数，无变化无需重报；带椅或户外游戏均非回复条件，原说明清楚。 英文关键短语按实际录音稿补齐，避免把省写当作原文。",
+        "rationale": "调为简单：只有出席计划改变才回复，是女方对回复范围的直接回答。",
         "answer_evidence": "Only if their attendance has changed.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2160,16 +2160,16 @@
         "explanation": "读懂：问男士建议先做什么。before solving the clues again 是“在重新解这些线索之前”。\n解析：先核对建筑年代，把已有答案重新排序，就能检查问题是否解决。不必立刻重解所有线索、去掉最老建筑，或向别队要答案。\n下次：听到建议先检查一项→完成这项检查→确认是否还有必要把所有步骤重做。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "行动顺序"
         ],
         "vocabulary": [
           "before solving the clues again"
         ],
-        "rationale": "先依年代重排已有答案，现有解释符合先检查再重做的顺序，无新增无据建议。 英文关键短语按实际录音稿补齐，避免把省写当作原文。",
+        "rationale": "调为简单：先查年代并重排已有答案，是明确第一步；无需考生实际解谜。",
         "answer_evidence": "Try changing the order before solving the clues again.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2230,16 +2230,16 @@
         "explanation": "读懂：问什么时候去约有指导的器械介绍。after the tour 是“参观之后”。\n解析：他会在参观结束后到接待处，预约另一天有指导的器械介绍。不是今天跑步测试时约，也不要求先租长期储物柜或先预约才能观看示范。\n下次：听到现在参观、之后预约→分别记时间和地点→别把预约日与实际操作日混在一起。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "计划"
         ],
         "vocabulary": [
           "after the tour"
         ],
-        "rationale": "参观终点接待处可办预约，既非体测时也不以先租柜或先约才准看为条件；原解释明确。",
+        "rationale": "调为简单：参观结束后在接待处预约，时间地点均在问答中直接确认。",
         "answer_evidence": "make the exercise appointment afterward.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2440,16 +2440,16 @@
         "explanation": "读懂：问用完后需不需要把屏幕降回去。No need 是“不需要”。\n解析：她可以保持现在的高度，男士来用时会按自己的需要调整。不必每次降到最低，也不用留下垫箱或拔掉所有线缆。\n下次：听到“不用”→找到它否定的是前面的哪项动作→确认最后要保留什么状态。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "话语理解"
         ],
         "vocabulary": [
           "No need"
         ],
-        "rationale": "男士到场自行调至适合高度，不要求复位或拔线；原解释指回简短回答所针对的问题。",
+        "rationale": "调为简单：不用恢复高度、男方自行调整是对是否降下显示器的直接回答。",
         "answer_evidence": "No need. I'll set it to my position when I arrive.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2510,16 +2510,16 @@
         "explanation": "读懂：问今天能先准备什么。empty containers and place cards 是“空容器与席位卡”。\n解析：可先准备不含鲜花的容器和席位卡，鲜花留工作间过夜。不是今天把室外花艺全部摆好、再订一批花，或把容器收起来等活动后再用。\n下次：听到部分可提前→抓具体对象→不要把时间规则扩大到全部工作。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "计划"
         ],
         "vocabulary": [
           "empty containers and place cards"
         ],
-        "rationale": "阶段性准备清楚，替换其他月份活动等离题选项。",
+        "rationale": "调为简单：今天准备空容器和席位卡，是女方直接列出的两项物品。",
         "answer_evidence": "We can prepare the empty containers and place cards now.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2545,16 +2545,16 @@
         "explanation": "读懂：问为什么先核釉料代码。before firing 是“烧制之前”。\n解析：釉料烧前、烧后颜色可能不同，先核对代码才能确认用的是哪种。色差不证明样片贴错标签，代码也不规定刻线数量，更不是所有罐里的釉都相同。\n下次：听到原料与成品颜色不同→核对产品代码和烧好的样片→别只凭未烧制时的颜色判断拿错了。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "原因"
         ],
         "vocabulary": [
           "before firing"
         ],
-        "rationale": "原料灰色与成品绿可相容，代码匹配才确认同釉；原解析明确阶段与身份区别。",
+        "rationale": "调为简单：烧前颜色不代表最终颜色已经明说，题目不要求陶艺专业知识。",
         "answer_evidence": "The color before firing isn't a reliable guide to the final color.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2615,16 +2615,16 @@
         "explanation": "读懂：问有声书为什么仍要排队。one borrower at a time 是“同一时间只给一位借阅者”。\n解析：虽然是数字有声书，图书馆的许可仍只允许一人同时借用，所以要等前一位用完。不是录音尚未制作、纸本丢失，或他已取消预约。\n下次：听到数字资源也要排队→找同时可供几个人使用的规定→别因文件能复制就当作可无限借阅。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "原因"
         ],
         "vocabulary": [
           "one borrower at a time"
         ],
-        "rationale": "题内指定许可决定等待，不从数字文件可复制推不限访问；原解释清楚。",
+        "rationale": "调为简单：许可只允许同时一位借阅者，是直接给出的无法立即借用原因。",
         "answer_evidence": "The library's license allows one borrower at a time for this title.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2720,16 +2720,16 @@
         "explanation": "读懂：问什么时候需要重新称容器。change either 是“两个部件中任一个换了”。\n解析：标签记录的是这个罐子连同盖子的重量，换掉任何一个都要重新称。相同的罐盖没变就不用每次重称；米价或标签贴在盖上也不是重新称的条件。\n下次：听到换一个部件就要重测→列出原来一起称的部件→检查现在是否仍是同一套。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "条件"
         ],
         "vocabulary": [
           "change either"
         ],
-        "rationale": "旧记录依赖同罐同盖，更换任一需重测，非价格或标签摆位条件；原解析完整。",
+        "rationale": "调为简单：罐或盖子改变就重新称，是明示条件；未要求计算皮重。",
         "answer_evidence": "If you change either, have it weighed again.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2790,16 +2790,16 @@
         "explanation": "读懂：问信号变弱前先做什么。while you’re connected 是“仍联网时”。\n解析：仍联网时先打开已买的票，之后按这个系统的规则才能离线显示。手写购买号不能替代票码，也不应等上车才首次下载或保存收据后删应用。\n下次：听到可以离线使用→先找必须联网完成的准备→检查顺序是否正确。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "条件顺序"
         ],
         "vocabulary": [
           "before leaving while you're connected"
         ],
-        "rationale": "按题内帮助页先打开已购票才可之后离线显示，不能改写票码、到站才首次下载或删应用；原解释不扩大为全公交规则。",
+        "rationale": "调为简单：在有网络时先打开已购车票，是直接操作建议。",
         "answer_evidence": "Open the purchased ticket before leaving while you're connected.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2860,16 +2860,16 @@
         "explanation": "读懂：问为什么别向前台说取消。give the court to someone else 是“把场地分给别人”。\n解析：前台可能把空出的场地让给其他人，他们就没法继续用。对话没说取消会自动延长时段、让搭档重新付费，或保留同一块场地稍后再来。\n下次：听到要取消预约→跟着听场地会被怎样处理→分清晚点使用和彻底放弃。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "后果"
         ],
         "vocabulary": [
           "give the court to someone else"
         ],
-        "rationale": "取消会释放场地，保留预约与搭档迟到不矛盾；把记分失效罚款等弱项改为时间及预约误读。",
+        "rationale": "调为简单：取消后场地可能给别人，是男方直接给出的原因。",
         "answer_evidence": "they might give the court to someone else.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2895,16 +2895,16 @@
         "explanation": "读懂：问异常高的雨量可能从哪里来。dripped from the roof 是“从屋檐滴下”。\n解析：屋檐滴水可能额外进入，所以不只是直接落入的雨。同型号排除的是型号差别，并没证明全地区雨量增多；也没人说他比对方多放了几天。\n下次：听到测量数值异常→查摆放位置和额外的雨水来源→检查是否只测到了原本要测的雨量。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "原因"
         ],
         "vocabulary": [
           "dripped from the roof"
         ],
-        "rationale": "位置会额外汇入屋顶水，不能因同型号排除安放影响；以人工收回时机误读替换记数字导致下雨的弱项。 技能标注改为原因：女士直接提出屋顶滴水这一可能原因。",
+        "rationale": "调为简单：屋檐滴水进入雨量筒是明说的可能原因，不需自行解释仪器原理。",
         "answer_evidence": "Water could have dripped from the roof into it.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -2965,16 +2965,16 @@
         "explanation": "读懂：问为什么还需要照片。leaf arrangement 是“叶片怎样排列”。\n解析：两种候选花相似，要补叶片排列才能区分。不是植物已移走，也不表示花照没花；继续只拍同角度的花，不会补上缺的特征。\n下次：听到两个候选→找能区分它们的特征→针对性补证据。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "证据用途"
         ],
         "vocabulary": [
           "separate these two possibilities"
         ],
-        "rationale": "花照有用但不能区分两个候选，叶序可鉴别；替换图书馆名称等离题选项。",
+        "rationale": "调为简单：叶片排列能区分两种植物是直接说明，题目没有要求识别实际物种。",
         "answer_evidence": "the leaf arrangement would separate these two possibilities.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3280,16 +3280,16 @@
         "explanation": "读懂：问改订单后什么没变。still at eleven tomorrow 是“仍是明天十一点”。\n解析：订单数量和出席人数有变，取货时间仍是明天十一点。二十四个并非这次确认的总数，不能把它当作保留项。\n下次：听到“仍然”→记下没有改变的项目→再与本次实际修改的内容核对。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "变更范围"
         ],
         "vocabulary": [
           "still at eleven tomorrow"
         ],
-        "rationale": "领取时间与订单号未变，但题选项只有时间，答案唯一；数量人数均已变，原解释保留。",
+        "rationale": "调为简单：明日十一点领取由问答再次确认，正项只提取不变事项。",
         "answer_evidence": "Pickup is still at eleven tomorrow?",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3350,16 +3350,16 @@
         "explanation": "读懂：问女士怎样让他先了解工作再决定。try one session 是“先试做一次”。\n解析：她让男士先试做一次，了解工作后再决定是否承诺整个学期。不是立即要求每次参加，也没允许跳过打包说明，或保证以后每项工作都一样。\n下次：听到先试做再决定→记清试做与长期承诺的顺序→别把试一次当作已经答应全部工作。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "意图"
         ],
         "vocabulary": [
           "try one session"
         ],
-        "rationale": "先尝试后作学期承诺已明确，未保证永远任务相同也不免操作说明。 内容已明示，按实际要求降为适中。",
+        "rationale": "调为简单：先试一次再决定整个学期，是明确提出的降低承诺负担的方法。",
         "answer_evidence": "You can try one session before committing to the term.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3385,16 +3385,16 @@
         "explanation": "读懂：问他们正在解决什么问题。can’t hear your count 是“听不清你的倒数”。\n解析：表演者听不清倒数，因此要改用看得见的提示，让她知道何时上场。不是帘子高度、观众看不全，或灯光人员取消了排练。\n下次：听到某种提示传不到→找换用的提示方式→检查它要告诉对方何时做什么。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "主旨"
         ],
         "vocabulary": [
           "can't hear your count"
         ],
-        "rationale": "观众说话遮蔽听觉入场提示，需改视觉信号；其他舞台问题没发生，原解释清楚。",
+        "rationale": "调为简单：帘后听不清进场倒数在第一句直接提出。",
         "answer_evidence": "I can't hear your count from behind the curtain when the audience is talking.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3455,16 +3455,16 @@
         "explanation": "读懂：问应该拿什么帮助辨认旧数字。same numbers elsewhere 是“同页其他位置的相同数字”。\n解析：看同一个作者在别处怎么写数字，可比较笔形。现在房间放几把椅子、猜过去容量或看其他住户笔迹，都不能直接证明这个作者当时写了什么；仍模糊就保留疑问。\n下次：听到手写难辨→找同作者重复字形→比较后仍保留疑点。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "证据方法"
         ],
         "vocabulary": [
           "same numbers elsewhere"
         ],
-        "rationale": "同作者笔迹直接相关，替换现代商店价格等弱项。",
+        "rationale": "调为简单：比较同一书写者在别处的数字是直接建议，不要求实际辨认旧笔迹。",
         "answer_evidence": "Look at how the writer forms the same numbers elsewhere on the page.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3560,16 +3560,16 @@
         "explanation": "读懂：问为什么每盆留单独说明。not all need water together 是“不是每盆都同时需要水”。\n解析：每盆保湿情况不同，需分别判断，不是所有盆需求相同或两天都一定要浇。纸条帮助按状态处理，也不是让他不看土就照统一日期浇。\n下次：听到每件物品的需要不同→分别查看各自说明→按实际状态决定怎样处理。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "目的"
         ],
         "vocabulary": [
           "not all need water together"
         ],
-        "rationale": "单独标注回应大盆保湿久、小盆较快干，去掉门锁和钥匙期限的离题项。",
+        "rationale": "调为简单：大盆保湿更久、需求不同已经说明，选项无需结合新的养护情境。",
         "answer_evidence": "The large pot stays damp longer than the small ones",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3595,16 +3595,16 @@
         "explanation": "读懂：问女士建议怎样试背包。with your things inside 是“装上你实际要带的东西”。\n解析：装上实际物品再试，才能知道背重物时是否舒服；空包的感觉不够。不是出发后才试、拆掉调节带，或只按空包舒适度挑选。\n下次：听到试用建议→按真正使用时的状态试→检查结果是否能代表之后的使用。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "建议"
         ],
         "vocabulary": [
           "with your things inside"
         ],
-        "rationale": "实际重量改变肩带贴合，空包舒服不代表负重舒服；原解释与步骤一致。",
+        "rationale": "调为简单：背包装上实际物品后试背，是明确指令。",
         "answer_evidence": "Try it with your things inside",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3735,16 +3735,16 @@
         "explanation": "读懂：问哪些文字算入字数。include the text in the small project table 是“包括小项目表里的文字”。\n解析：小项目表里的文字要计入，标题不计入。不是只数课程名或只算标题，也不能说正文和表格都不算。\n下次：听到计入与排除的规定→分别列清包含哪些文字→按规定重新数，不凭版式猜。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "范围"
         ],
         "vocabulary": [
           "include the text in the small project table"
         ],
-        "rationale": "表格文字计入、标题排除，原解释已区分版式与计数规则。",
+        "rationale": "调为简单：标题不算、项目表文字要算已明确给出，题目仅问后者。",
         "answer_evidence": "include the text in the small project table.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3770,16 +3770,16 @@
         "explanation": "读懂：问应先删哪部分。Removing repetition should come before 是“先去掉重复内容”。\n解析：先删申请其他部分已写过的课程信息，保留能说明他本人贡献的例子。不应把项目表全删；标题原本不计字数，删它也解决不了超限。\n下次：听到要压缩字数→先找重复信息→检查删后是否仍保留了证明本人能力的例子。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "建议"
         ],
         "vocabulary": [
           "Removing repetition should come before"
         ],
-        "rationale": "重复课程另处已有，优先删而保留有贡献例子，原话直接指示且解析具体。 内容已明示，按实际要求降为适中。 技能标注改为建议：女士直接点明先删重复课程信息。",
+        "rationale": "调为简单：先删已在别处出现的课程信息，是明确的修改优先级。",
         "answer_evidence": "Start with the paragraph that repeats your course list.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3805,16 +3805,16 @@
         "explanation": "读懂：问十五分钟里还必须留什么。in total 是“总共”。\n解析：十五分钟包括观众提问，所以稿子应缩到十一或十二分钟。不是给完整十五分钟讲述后再另加问答或休息，也不要求再讲一遍内容。\n下次：听到总时长→列所含环节→为互动预留时间。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "范围"
         ],
         "vocabulary": [
           "in total"
         ],
-        "rationale": "讲稿与问答共享15分钟，去掉通勤及第二讲者等离题项。",
+        "rationale": "调为简单：总时段须给提问留时间是已确认的要求，不需要计算复杂安排。",
         "answer_evidence": "If I use all of it, there won't be any discussion.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3910,16 +3910,16 @@
         "explanation": "读懂：问接下来先打印什么。one test sheet first 是“先打一张测试页”。\n解析：先打印一张含正反面的测试页，翻过来确认方向正确后再印剩余份数。只印封面或正面无法检查背面倒置的问题，也不该直接整批重印。\n下次：听到已改设置→先用一份包含故障部位的样张验证→确认正常后再批量处理。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "步骤"
         ],
         "vocabulary": [
           "one test sheet first"
         ],
-        "rationale": "双面单张覆盖故障后才批量，不能仅测正面；原解释清楚。",
+        "rationale": "调为简单：先印一张双面测试页，是直接的下一步指令。",
         "answer_evidence": "Print one test sheet first, including both sides.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3980,16 +3980,16 @@
         "explanation": "读懂：问更新的收据显示什么。which pair you kept 是“你保留了哪双”。\n解析：她退回较小的、留下较大的，更新收据要显示最后保留的那双。不是两双都退、两双都还留着，也不是把退掉的那双记为新购买。\n下次：听到只退部分商品→找最后留下哪一件→核对新凭证是否如实显示结果。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "结果"
         ],
         "vocabulary": [
           "which pair you kept"
         ],
-        "rationale": "部分退货仍记录保留商品；去掉订单历史消失及第三次购买的弱项。",
+        "rationale": "调为简单：新收据显示保留的鞋子，是工作人员直接说明的内容。",
         "answer_evidence": "an updated receipt showing which pair you kept.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -4225,16 +4225,16 @@
         "explanation": "读懂：问为什么静音还不够。screen still lighting up 是“屏幕仍然会亮起来”。\n解析：她看见屏幕亮就会分心，所以只关声音不能解决问题。没有说手机仍响、伙伴要求每条立即回复，或她每读一句就休息。\n下次：听到一种办法无效→找仍在发生的干扰→确认它是否被这项办法解决。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "原因"
         ],
         "vocabulary": [
           "screen still lighting up"
         ],
-        "rationale": "关声音后屏幕仍会亮，正确项由对话直接支持；改掉隔壁呼喊等离题项，解析区分声音、视觉提示与未说明的回复要求。",
+        "rationale": "调为简单：屏幕仍亮并吸引注意已由两人明确确认，不需推断静音设置。",
         "answer_evidence": "Is the screen still lighting up beside your book?",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -4400,16 +4400,16 @@
         "explanation": "读懂：问今天免门票的范围。permanent galleries are free 是“常设展厅免费”。\n解析：临展仍需单独买票，因此不能把免费理解成所有展览。对话也没把免费限于导览时段或会员。\n下次：听到免费或开放→找后面补充的范围→检查选项有没有多加或漏掉限制。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "范围"
         ],
         "vocabulary": [
           "permanent galleries are free"
         ],
-        "rationale": "免费限于常设展厅；用临展、导览时段和会员资格构成范围误读，避免无关的未来任意日期干扰。",
+        "rationale": "调为简单：常设展免费、临展单独购票是直接范围说明，其他限制均未提出。",
         "answer_evidence": "The permanent galleries are free. The temporary exhibition still needs a separate ticket.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -4785,16 +4785,16 @@
         "explanation": "读懂：问男士担心什么。block that aisle 是“挡住那条通道”。\n解析：角落摊位虽然更大，围观者却可能堵住入口。男士没有说摊位更小、内广场看不清，或主办方要求撤桌。\n下次：听到场地有优势但仍有担心→找具体受影响的人或通道→别把优势误当作问题本身。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "问题定位"
         ],
         "vocabulary": [
           "block that aisle"
         ],
-        "rationale": "人群堵住入口是唯一明确担忧；选项改为摊位和观看安排相关问题，避免价格和取消活动等离题项。",
+        "rationale": "调为简单：围观者可能堵入口，是男方直接提出的担心。",
         "answer_evidence": "We can't let a crowd block that aisle.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -5065,16 +5065,16 @@
         "explanation": "读懂：问男士建议先做什么。help position it 是“帮忙调整麦克风的位置”。\n解析：先请技术人员检查，同时按正常速度念几句；抢读反而可能让人听不清。没有要求先改开场稿或直接换麦克风。\n下次：听到设备让声音异常→找建议的第一项检查→别把原先打算或未提过的办法当成决定。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "建议"
         ],
         "vocabulary": [
           "help position it"
         ],
-        "rationale": "先请技术人员调整位置是明确建议；将放弃练习和删除开场改成相关但未采用的设备、语速处理。",
+        "rationale": "调为简单：先请技术人员检查麦克风位置，是明确第一步，非声音工程诊断题。",
         "answer_evidence": "Let's ask the sound technician to help position it before you change the way you speak.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {

@@ -2,6 +2,7 @@
 
 import json
 from collections import Counter
+from datetime import date
 from pathlib import Path
 
 import pytest
@@ -31,13 +32,16 @@ def test_new_sources_double_each_task_with_complete_materials_and_reviewed_diffi
     section, first, count, group_count = ADDITIONS[task]
     source = json.loads((SOURCE / f'{task}.json').read_text(encoding='utf8'))
     records = source['items']
+    notes = json.loads(
+        (ROOT / 'question_bank/sources/review_notes.json').read_text(encoding='utf8')
+    )
     assert source['section'] == section and source['task_type'] == task
     assert [r['question']['id'] for r in records] == [
         f'{section[0].upper()}{i}' for i in range(first, first + count)
     ]
     store = QuestionStore()
     generated = {q['id']: q for q in store.questions_for(section, 'bank', task)}
-    assert len(generated) == count * 2
+    assert len(generated) == count * (6 if task == 'complete_words' else 2)
     groups = Counter()
     levels = Counter()
     for record in records:
@@ -46,7 +50,10 @@ def test_new_sources_double_each_task_with_complete_materials_and_reviewed_diffi
         groups[question.get('group_id', qid)] += 1
         levels[review['difficulty']] += 1
         assert question['section'] == section and question['task_type'] == task
-        assert review['reviewed_on'] == '2026-09-30'
+        assert date.fromisoformat(review['reviewed_on']) >= date(2026, 9, 30)
+        assert review == {
+            key: value for key, value in notes[qid].items() if key != 'content_sha256'
+        }
         assert content_fingerprint(generated[qid], store.answer(qid)) == content_fingerprint(
             question, answer
         )

@@ -3117,7 +3117,7 @@
         "explanation": "读懂：“Would you rather”让对方在两个任务之间选择偏好。\n解析：选择图表并把开头交给同伴，完成分工；排列顺序、是否保留和制作地点都没有选任务。\n下次：听到 rather 与 or→识别任务分工→核对回答明确承担其中一项。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "交际意图",
           "语境回应"
@@ -3125,9 +3125,9 @@
         "vocabulary": [
           "Would you rather"
         ],
-        "rationale": "改引言或做图二选一，明确做图完成分工；保留两者、文本先后和制图位置不是承担任务。",
+        "rationale": "复习引言还是处理图表是直接任务二选一；答复明确选择 charts，其他选项未选择，与 L276/L308 的直接偏好题相当，标简单。",
         "answer_evidence": "Would you rather",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3219,7 +3219,7 @@
         "explanation": "读懂：“try somewhere else”建议因店内满座而换地方。\n解析：拐角另一家提供可行替代；等满座前点餐与已满矛盾，菜单和积分卡都不解决座位问题。\n下次：听到 elsewhere 的建议→寻找可替代地点→检查是否解决当前拥挤。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "交际意图",
           "语境回应"
@@ -3227,9 +3227,9 @@
         "vocabulary": [
           "try somewhere else"
         ],
-        "rationale": "店满提议换处，拐角另一家可尝试；趁没满点餐与已满矛盾，积分卡和菜单不解决座位。",
+        "rationale": "咖啡馆已满并明确提议另找一家，正项直接提供附近替代，与其他简单地点建议相当。",
         "answer_evidence": "try somewhere else",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3321,7 +3321,7 @@
         "explanation": "读懂：“split the cost of the taxi three ways”是由三人平均分担出租车费用。\n解析：每人付三分之一对应分账；改路线、三辆车和夜间加价都不是三人分担当前车费。\n下次：听到 split cost→找分担人数→核对每人比例是否相加为全部。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "交际意图",
           "语境回应"
@@ -3329,9 +3329,9 @@
         "vocabulary": [
           "split the cost of the taxi three ways"
         ],
-        "rationale": "车费三人分，每人三分之一准确；路线、夜价和三辆车混淆当前分担。",
+        "rationale": "三人均摊与每人三分之一直接对应；路线、三辆车和夜间价均未响应分账，常见数字关系标简单。",
         "answer_evidence": "split the cost of the taxi three ways",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3355,7 +3355,7 @@
         "explanation": "读懂：“rather wait for the printed program”明确偏好等纸质节目单。\n解析：帮领纸本尊重偏好；重发链接、找信号和放大字都仍要求用手机阅读。\n下次：听到 rather 加两个方式→确认偏好的载体→检查答复是否仍强推另一方式。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "交际意图",
           "语境回应"
@@ -3363,9 +3363,9 @@
         "vocabulary": [
           "rather wait for the printed program"
         ],
-        "rationale": "宁愿等纸节目单，帮领取纸本尊重载体；链接、信号和放大字仍要求手机阅读。",
+        "rationale": "偏好纸本后帮领一份，是直接接受方式选择；其余选项仍要求手机阅读，单一关系标简单。",
         "answer_evidence": "rather wait for the printed program",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3525,7 +3525,7 @@
         "explanation": "读懂：“so we don't have to rush”解释提早出发是为避免赶时间。\n解析：约更早会合落实提议；昨天匆忙、已走的列车和校钟都不安排这次提前出行。\n下次：听到 so 引出目的→把提议转成时间安排→检查是否减轻赶路压力。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "交际意图",
           "语境回应"
@@ -3533,9 +3533,9 @@
         "vocabulary": [
           "so we don't have to rush"
         ],
-        "rationale": "提早出发免匆忙，约七点半落实提议；校钟、已开火车和昨天匆忙不是此次安排。",
+        "rationale": "早出发的明确建议与约七点半直接对应，与 L58 的实际操作相当，不因扩充批次不同保留较高标签。",
         "answer_evidence": "so we don't have to rush",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -3797,7 +3797,7 @@
         "explanation": "读懂：“keep an eye on my bag”是暂时帮忙看管行李。\n解析：留在包旁等对方回来符合托看请求；包容量、票价和路线图都不承诺照看。\n下次：听到 keep an eye on→理解为照看→核对持续时间是否覆盖对方离开。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "交际意图",
           "语境回应"
@@ -3805,9 +3805,9 @@
         "vocabulary": [
           "keep an eye on my bag"
         ],
-        "rationale": "keep an eye on 包是临时代管，留在原地到其返回覆盖离开时段；优惠、容量和路线图不照看。",
+        "rationale": "照看包的常用请求与留在原地等待直接对应，与 L88/L389 相当，不把同一搭配在另一批题中统一抬高。",
         "answer_evidence": "keep an eye on my bag",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -4885,7 +4885,7 @@
         "explanation": "读懂：“double-check the address”是再次核实地址，不是把数量翻倍。\n解析：与客户最新邮件对照可验证地址；寄两件、比较重量和标签尺寸都没有核对收件信息。\n下次：听到 double-check→理解为复核→选择能对照可靠记录的动作。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "交际意图",
           "语境回应"
@@ -4893,9 +4893,9 @@
         "vocabulary": [
           "double-check the address"
         ],
-        "rationale": "double-check 地址是复核，与客户最新邮箱比对有依据；两件包、两倍重和大标签只重复双倍概念。",
+        "rationale": "寄出前核对地址与对照最新邮件直接对应，与 L823 订购前重测的核查任务相当，标简单。",
         "answer_evidence": "double-check the address",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -5123,7 +5123,7 @@
         "explanation": "读懂：“rather not give my presentation first”表示不愿第一个做报告。\n解析：同伴先讲让其后讲，回应顺序偏好；排名单首位相反，首页和午餐前结束都不改变先后。\n下次：听到 rather not first→识别顺序请求→检查他人是否愿意先进行。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "交际意图",
           "语境回应"
@@ -5131,9 +5131,9 @@
         "vocabulary": [
           "rather not give my presentation first"
         ],
-        "rationale": "不想第一报告，他人先讲照顾顺序；首位名单反向，首张幻灯和午前结束未调序。",
+        "rationale": "不想第一个展示与同伴先讲直接对应，其他选项不处理顺序或反向安排，标简单。",
         "answer_evidence": "rather not give my presentation first",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -5157,7 +5157,7 @@
         "explanation": "读懂：“bring our own lunch”说明费用虽含材料，却不含午餐。\n解析：自带食物落实午餐安排；不用带饭误解费用范围，另付材料费与 covers 相反，多要用品不回应午餐。\n下次：听到 covers 与 but→分开已包含和自备项目→逐项核对。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "交际意图",
           "语境回应"
@@ -5165,9 +5165,9 @@
         "vocabulary": [
           "bring our own lunch"
         ],
-        "rationale": "材料含费午餐自带，打包食物遵守；不带饭漏限制，另付材料相反，多要用品无关午饭。",
+        "rationale": "费用不含午餐、需自带，与准备食物直接对应；错误项均忽略明确范围，普通单一行动标简单。",
         "answer_evidence": "bring our own lunch",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -5702,7 +5702,7 @@
         "explanation": "读懂：“Would Friday work for you”这里问周五时间是否方便，不是询问工作。\n解析：午饭后可以说明可用时段；找工作、日历颜色和上周班次都不确认这次会面时间。\n下次：听到日期加 work for you→理解为安排合适→核对回应是否给可用时段。"
       },
       "review": {
-        "difficulty": "medium",
+        "difficulty": "easy",
         "skills": [
           "交际意图",
           "语境回应"
@@ -5710,9 +5710,9 @@
         "vocabulary": [
           "Would Friday work for you"
         ],
-        "rationale": "Friday work for you 问是否方便，午后可明确时间；求职、上周班和日历色不答本周安排。",
+        "rationale": "询问周五是否方便，回答午饭后可以，是常见可用时段确认，与 L81 相当，标简单。",
         "answer_evidence": "Would Friday work for you",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -6084,9 +6084,9 @@
         "vocabulary": [
           "Had the supplier mentioned"
         ],
-        "rationale": "询问现在能否修改订单，是针对迟来费用信息的补救。说当初已清楚额外收费，反转了原意；先确认再问费仍跳过核查；也不能推出对方今后想只看标价。",
+        "rationale": "保留困难：倒装过去反事实需还原未及时获知额外费用的真实情况，再选择针对既有订单的补救。语域偏正式，仅作少量句法变化，不将正式程度当普遍听力标准。",
         "answer_evidence": "Had the supplier mentioned",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -6369,31 +6369,32 @@
         "task_type": "listen_choose_response",
         "prompt": "Choose the best response to the speaker.",
         "response_type": "choice",
-        "audio_text": "Woman: It's a useful example, although I wouldn't use it as evidence that the policy always works.",
+        "audio_text": "Woman: So much for our quiet study room. The choir's booked the room next door again, and I can already hear them warming up.",
         "options": [
-          "Let's call it evidence that the policy failed outside this setting.",
-          "We can use this case to show the policy works wherever conditions are similar.",
-          "Let's quote the result and leave out the circumstances to keep the claim simple.",
-          "We can present it as one case and mention its limits."
+          "I'll confirm this booking since the room is advertised as quiet.",
+          "Let's ask for seats in the room where the choir is rehearsing.",
+          "We can start early next time, so there's no need to move today.",
+          "Let's see whether there's a room farther from the rehearsal space."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：useful example 是‘有用的例子’，但 always works 是‘总是有效’；说话人不允许从单个例子推到所有情况。\n解析：把它作为一个案例并说明限制，保留价值也守住证据范围。推断别处失败或所有相似场景都成功，都超出这一例；删掉具体背景又会隐去适用条件。\n下次：听到案例和普遍结论放在一起，先圈出样本覆盖的情况，再检查结论有没有超出这个范围。"
+        "explanation": "读懂：So much for 在这里表示“原先的打算泡汤了”；说话人已听到隔壁合唱团热身，对安静自习的期待落空。\n解析：找离排练处远些的房间，回应眼前噪声。只信安静的宣传忽略实际情况；进合唱团的排练室更不能安静；只说明下次早来，没有解决今天已经听到的声音。\n下次：听到评价与实际情况相反，先判断是赞同还是失望，再选能回应当前问题的行动；检查是否只重复原计划或转到下次。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "交际意图",
-          "语境回应"
+          "语气与隐含态度"
         ],
         "vocabulary": [
-          "wouldn't use it as evidence that the policy always works"
+          "So much for",
+          "warming up"
         ],
-        "rationale": "把它作为一个案例并说明限制，保留价值也守住证据范围。推断别处失败或所有相似场景都成功，都超出这一例；删掉具体背景又会隐去适用条件。",
-        "answer_evidence": "wouldn't use it as evidence that the policy always works",
-        "reviewed_on": "2026-09-30"
+        "rationale": "替换重复的案例外推题；常用词构成的失望表达与听到隔壁热身相互印证，需理解原期待已经落空，按适中处理。",
+        "answer_evidence": "So much for our quiet study room; I can already hear them warming up",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -6901,9 +6902,9 @@
         "vocabulary": [
           "were it not for the clash"
         ],
-        "rationale": "改到实验课后，才可能消除冲突。在实验课期间留座、保留原时间却先确认，都没解决撞时间；说活动本身不吸引他，又错把时间问题当兴趣问题。",
+        "rationale": "保留困难：were it not for 要还原现实中的实验课冲突，区分愿意参加与目前无法确认。较正式条件式为有限补充，不要求所有困难题使用倒装。",
         "answer_evidence": "were it not for the clash",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -6913,31 +6914,32 @@
         "task_type": "listen_choose_response",
         "prompt": "Choose the best response to the speaker.",
         "response_type": "choice",
-        "audio_text": "Woman: The reviews are positive, although most were written by people who received a free sample.",
+        "audio_text": "Woman: Thanks for offering to bring all the food, but I'd hate for you to spend the whole morning cooking. A salad would be plenty.",
         "options": [
-          "We should look for feedback from paying customers too.",
-          "Let's compare only the sample reviews, since those users had time to test it.",
-          "Let's discard praise and keep complaints.",
-          "Let's rely on the number of positive reviews without checking who wrote them."
+          "All right, I'll bring a salad and leave the rest to the group.",
+          "Great, I'll make the whole meal as you suggested.",
+          "No food from me, then; I won't bring anything.",
+          "I'll cook everything the night before and bring it all."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：received a free sample 是‘拿到免费样品’，多数好评都来自这类用户，评价来源比较单一。\n解析：补看自费买家的反馈，能增加另一类使用者的证据。只看赠样评价仍没扩大来源；只留负评换成了另一种偏向；只数好评又忽略了谁在评价。赠样也不等于评价必然虚假。\n下次：听到评价来源集中，先找缺少哪类使用者，再补充来源，检查是否把可能偏向误当成必然造假。"
+        "explanation": "读懂：对方感谢愿意包办食物，但说 A salad would be plenty（带一份沙拉就足够），是在减轻帮忙的负担。\n解析：只带沙拉、其余交给大家，符合缩小范围的意思。继续做整餐忽略限制；完全不带把少带误成不要；改前一晚做，虽避开早晨却仍包办了全部食物。\n下次：听到感谢后接 but，先找后面的具体调整，再保留仍被接受的部分；检查回应有没有把少做变成不做，或只调整时间却没调整范围。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "交际意图",
-          "语境回应"
+          "礼貌表达与范围"
         ],
         "vocabulary": [
-          "received a free sample"
+          "I'd hate for you to",
+          "plenty"
         ],
-        "rationale": "补看自费买家的反馈，能增加另一类使用者的证据。只看赠样评价仍没扩大来源；只留负评换成了另一种偏向；只数好评又忽略了谁在评价。赠样也不等于评价必然虚假。",
-        "answer_evidence": "received a free sample",
-        "reviewed_on": "2026-09-30"
+        "rationale": "替换重复的评价样本偏向题；从感谢、担心对方负担和沙拉就够，理解礼貌缩小帮忙范围，不能听成全拒绝或只改做饭时间。",
+        "answer_evidence": "Thanks for offering to bring all the food; A salad would be plenty",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -6961,7 +6963,7 @@
         "explanation": "读懂：explains its assumptions 是‘说明估算以哪些条件为前提’，对方不要求预测绝对准确。\n解析：把数字、假设条件和计算过程一起写明，才回应要求。精确数字不替代假设说明；只放去年总额让人猜变化也不够；等未来确定才估算，又误解了估算的用途。\n下次：听到估算要说明 assumptions，先找人数、单价或时间等前提，再检查计算是否基于这些已写明的条件。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "交际意图",
           "语境回应"
@@ -6969,9 +6971,9 @@
         "vocabulary": [
           "explains its assumptions"
         ],
-        "rationale": "把数字、假设条件和计算过程一起写明，才回应要求。精确数字不替代假设说明；只放去年总额让人猜变化也不够；等未来确定才估算，又误解了估算的用途。",
+        "rationale": "要求解释估算假设已明说，正项直接说明数字、假设和算法；无额外推断链，不能只因 assumptions 话题标困难，调为适中。",
         "answer_evidence": "explains its assumptions",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -7540,7 +7542,7 @@
         "explanation": "读懂：qualifications 在这里是‘结论的限定条件’，不是学历；编辑要缩短篇幅，却没有要求删掉这些条件。\n解析：删重复而保留限制，才能同时做到简短和准确。只留强结果、把条件移到私人笔记，会让读者看不到限制；保留全部重复例子，又没有完成缩短要求。\n下次：听到缩短文章，先区分重复内容和决定结论范围的条件，删完后检查读者是否仍看得到限制。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "交际意图",
           "语境回应"
@@ -7548,9 +7550,9 @@
         "vocabulary": [
           "qualifications from the claim"
         ],
-        "rationale": "删重复而保留限制，才能同时做到简短和准确。只留强结果、把条件移到私人笔记，会让读者看不到限制；保留全部重复例子，又没有完成缩短要求。",
+        "rationale": "需区分篇幅缩短与保留结论限制，qualifications 的语境义有要求，但两目标已明确；与 L918 等取舍题相当，调为适中。",
         "answer_evidence": "qualifications from the claim",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -8016,7 +8018,7 @@
         "explanation": "读懂：asked for our preference 是‘问我们更想要哪个’，这不等于把最终决定权交给我们。\n解析：先表达偏好，再等最终分配，才符合当前阶段。宣布房间已归我们或说已经约定保留，都提前当成定案；完全不回复偏好，又漏掉组织者正在征询的信息。\n下次：听到 preference，先判断谁有最终决定权，再检查自己是否只是表达愿望，尚不能向别人宣布结果。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "交际意图",
           "语境回应"
@@ -8024,9 +8026,9 @@
         "vocabulary": [
           "asked for our preference"
         ],
-        "rationale": "先表达偏好，再等最终分配，才符合当前阶段。宣布房间已归我们或说已经约定保留，都提前当成定案；完全不回复偏好，又漏掉组织者正在征询的信息。",
+        "rationale": "征询偏好尚非分配结果，题面已提示该区别；先表偏好再等分配与 L915/L951 的流程边界相当，调为适中。",
         "answer_evidence": "asked for our preference",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -8092,9 +8094,9 @@
         "vocabulary": [
           "depend on work from the others"
         ],
-        "rationale": "为相连任务设分阶段期限，能让前一组及时交给后一组。同日才让后组开始、让各组互等最终成果，都没安排可行的交接；只推迟总日期也没解决何时交接。",
+        "rationale": "保留困难：需把不同团队之间的先后依赖转成分段交接期限；只统一或延后最终日期不能解决下游开工条件。",
         "answer_evidence": "depend on work from the others",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -8104,31 +8106,33 @@
         "task_type": "listen_choose_response",
         "prompt": "Choose the best response to the speaker.",
         "response_type": "choice",
-        "audio_text": "Man: The survey tells us what current members think, not why other people haven't joined.",
+        "audio_text": "Man: If I say yes to one more committee, I might as well move my bed into the office.",
         "options": [
-          "We can ask the same members why they think other people stay away.",
-          "Let's compare current members' answers by how recently they joined.",
-          "We can infer people's reasons from the membership totals alone.",
-          "We could speak to nonmembers before drawing that conclusion."
+          "Great, I'll add your name to the next committee.",
+          "Would you like me to find space for a bed near your desk?",
+          "I'll confirm you'll join once we find a meeting room nearby.",
+          "It sounds as if you'd rather pass on this one."
         ]
       },
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：调查对象是 current members（现有会员），但想知道的是其他人为什么没加入，两组人不同。\n解析：直接找非会员了解原因，才补上缺少的对象。让会员猜别人为何不来，仍是转述推测；只比较新老会员仍没问未加入者；总人数本身也不说明动机。\n下次：听到调查结论，先对照实际问了谁和想了解谁；两者不同，就检查是否还需访问缺少的群体。"
+        "explanation": "读懂：might as well 是“不如干脆”；再接一个委员会就要把床搬进办公室，是夸张地说自己会忙得没时间回家。\n解析：回应他可能想 pass on this one（这次不参加），接住了不愿再加任务的意思。直接报名把抱怨当同意；找放床的位置按字面误解；换附近会议室也没有减掉委员会的职责。\n下次：遇到明显夸张的后果，先联系造成它的负担，再判断说话人的态度；检查回应是承接意愿，还是把夸张当成真实请求。"
       },
       "review": {
-        "difficulty": "hard",
+        "difficulty": "medium",
         "skills": [
           "交际意图",
-          "语境回应"
+          "夸张与隐含态度"
         ],
         "vocabulary": [
-          "why other people haven't joined"
+          "one more committee",
+          "might as well",
+          "pass on"
         ],
-        "rationale": "直接找非会员了解原因，才补上缺少的对象。让会员猜别人为何不来，仍是转述推测；只比较新老会员仍没问未加入者；总人数本身也不说明动机。",
-        "answer_evidence": "why other people haven't joined",
-        "reviewed_on": "2026-09-30"
+        "rationale": "替换又一组调查对象外推题；普通词汇通过把床搬到办公室的夸张表达过度忙碌，需推断不愿再加任务，不能按字面布置房间。",
+        "answer_evidence": "If I say yes to one more committee, I might as well move my bed into the office.",
+        "reviewed_on": "2026-10-05"
       }
     },
     {
@@ -8500,9 +8504,9 @@
         "vocabulary": [
           "trial group volunteered"
         ],
-        "rationale": "下一轮加入兴趣程度不同的人，能补充原样本欠缺的反应。请同批志愿者猜别人怎么想、只招最热衷的人、只保持人数一样，都没有解决谁被选进来的问题；加入更多类型也不自动保证代表所有人。",
+        "rationale": "保留困难：由自愿报名的选择方式推到参与兴趣可能不同，辨别增加兴趣类型与仅增同类样本、维持人数的差异；不要求掌握统计术语。",
         "answer_evidence": "trial group volunteered",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-05"
       }
     },
     {

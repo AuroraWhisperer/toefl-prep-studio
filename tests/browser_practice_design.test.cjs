@@ -1,4 +1,5 @@
 const { test, expect } = require('@playwright/test');
+const { expectFullWidth } = require('./browser_layout_helpers.cjs');
 const { openSettings, start } = require('./browser_practice_helpers.cjs');
 
 test.beforeEach(async ({ page, request }) => {
@@ -183,8 +184,9 @@ for (const viewport of [
             element.clientWidth - parseFloat(style.paddingLeft) - parseFloat(style.paddingRight)
           );
         });
-        if (task === 'complete_words') expect(bounds.width).toBeLessThanOrEqual(usableWidth);
-        else expect(bounds.width).toBeCloseTo(usableWidth, 0);
+        expect(bounds.width).toBeCloseTo(usableWidth, 0);
+        const prompts = content.locator('.question-copy');
+        if (await prompts.count()) await expectFullWidth(prompts);
         const material = content.locator(
           section === 'speaking'
             ? '.speaking-task'
@@ -200,8 +202,8 @@ for (const viewport of [
               : '.practice-response',
         );
         if (task === 'complete_words') {
-          await expect(content.locator('.cloze-instruction')).toHaveText(
-            'Fill in the missing letters in the paragraph.',
+          await expect(content.getByRole('heading', { level: 3 })).toHaveText(
+            selected.questions[0].passage_title,
           );
           await expect(content.locator('.cloze-letters')).toHaveCount(10);
           await expect(

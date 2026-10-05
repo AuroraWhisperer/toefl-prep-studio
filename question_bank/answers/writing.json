@@ -421,9 +421,10 @@
   "W44": {
     "type": "sentence",
     "accepted": [
-      "Is this the first course you have taken outside your department?"
+      "Is this the first course you have taken outside your department?",
+      "Is this the first course outside your department you have taken?"
     ],
-    "explanation": "读懂：你问对方正在上的课是否是他第一次选修本院系之外的课程。\n解析：Is this 是外层“这是……吗”；the first course 是要确认的课程，you have taken 紧接其后，说明“你修过的”。outside your department 表示“本院系之外”，不能拆成 outside this 或把 you have taken 变成独立提问的顺序。题目只提供一个 Is，它负责整句发问。\n下次：先拼“Is this the first course”，再接“你修过的—在院系之外”。注意 first 与 have taken 一起把当前这门课放到以往修课经历中比较。"
+    "explanation": "读懂：问这是否是对方第一门院系以外的课；outside your department 意为“在你所在院系之外”。\n解析：Is this 构成问句；you have taken 说明修过哪门课。地点短语可放在它后面，也可先接 course 再接从句，两种词序都表达题目所问。\n下次：看到名词后的修饰成分，先确定各自修饰谁，再排列；检查完整问句、六块和院系范围都保留。"
   },
   "W45": {
     "type": "sentence",
@@ -1076,8 +1077,8 @@
       "funding"
     ],
     "min_words": 100,
-    "reference": "I support small grants for student-led research, provided that students receive basic supervision. The first student is right that even modest funding can turn an idea into a practical investigation. For example, a group studying campus travel could use a small grant to print accessible surveys and count traffic at several locations. The educational value comes from planning the study, managing resources, and responding to imperfect evidence. Established researchers still need substantial support, but a limited student fund would not have to compete with major laboratory projects. Requiring a short public report would also make the results useful to the campus and encourage students to explain both findings and limitations.",
-    "explanation": "读懂：有限研究经费是否应拨小额资助给学生自发项目？争论是初学者的实践学习价值与成熟研究的资金需要。\n解析：范文有条件支持，以校园交通调查的问卷和计数说明小额钱能支持真实方法练习，再要求基本指导与公开短报告，强调说明局限，而非保证新手一定产出突破。student-led 是“学生主导的”。反对分散资金也可论证，不能只说研究重要。\n下次：先定是否设学生基金，再写一项小预算能完成的工作及所得能力，最后处理指导或预算取舍。把学生基金的规模讲清，别假定其永远不会影响其他项目。"
+    "reference": "I support small grants for student-led research, provided that students receive basic supervision. The first student is right that even modest funding can turn an idea into a practical investigation. For example, a group studying campus travel could use a small grant to print accessible surveys and count traffic at several locations. The educational value comes from planning the study, managing resources, and responding to imperfect evidence. Established researchers still need substantial support, so I would reserve only a small, clearly defined share of the existing budget for supervised student projects. Most funding would remain available for ongoing research. The university should review the learning gained before expanding the student share. Requiring a short public report would also make the results useful to the campus and encourage students to explain both findings and limitations.",
+    "explanation": "读懂：是否应资助学生自发研究？limited research budget 是“有限的研究预算”，需要权衡学生的实践学习价值与成熟研究的资金需要。\n解析：范文用校园交通调查说明小额资助的学习价值，再明确只从现有预算划出小份额、大部分仍供持续研究，并先评估学习收益再扩额。这承认资金取舍，不能把另设基金说成不影响其他项目。\n下次：先表明立场，用一项具体工作说明收益，再检查预算、指导等条件是否仍满足题面；其他立场也可成立，但不能靠假定资源增加来消除原有矛盾。"
   },
   "W112": {
     "type": "subjective",
@@ -1708,9 +1709,10 @@
   "W178": {
     "type": "sentence",
     "accepted": [
-      "Please give the librarian the books with torn covers."
+      "Please give the librarian the books with torn covers.",
+      "Please give the books to the librarian."
     ],
-    "explanation": "读懂：torn covers 是“破损的封面”；应把这些书交给图书管理员。\n解析：give the librarian（图书管理员） the books（这些书） 是“给某人某物”，with torn covers 紧跟 books 识别破书。额外 to 不够另占空位，也不能插进双宾语结构。\n下次：先找接收者 librarian→再放被交出的 books→用 with torn covers 限定书，检查破损的是封面而非管理员。"
+    "explanation": "读懂：问损坏的书交给谁；the librarian 是“图书管理员”。\n解析：give 后可排“人＋物”，留下 to；也可排“物＋to＋人”，留下 with torn covers（封皮破损的）。前句已说明是哪批书，两种表达都用四块完成交付要求。\n下次：看到 give，先选一种“给谁、给什么”的结构，再填词块；检查固定 Please、四个空和剩余一块都符合题面。"
   },
   "W179": {
     "type": "sentence",
@@ -1917,7 +1919,7 @@
     "accepted": [
       "The researcher whose article you read will lead the trip."
     ],
-    "explanation": "读懂：whose article 是“其文章”；带队的是你读过文章的那位研究者。\n解析：固定 whose 表文章属于研究者；article you read（你读过） 组成修饰段，will lead the trip（将带领这次出行） 才是主句。不能把 you 当成带队者。\n下次：先用 whose 找所属物 article→把 you read 接在文章后→回到研究者接 will lead，核对两个主语各管一个动作。"
+    "explanation": "读懂：问哪位研究者带队；whose article 意为“他的那篇文章”。\n解析：whose 已固定，article you read 表示“你读过的文章”，这一段限定研究者；will lead the trip 才是研究者的主句动作。you 是读文章的人，不是带队者。\n下次：遇到固定 whose，先接所属名词及其说明，再找主句谓语；检查从句和主句分别是谁做什么。"
   },
   "W207": {
     "type": "sentence",
@@ -2329,7 +2331,7 @@
     ],
     "min_words": 100,
     "max_score": 5,
-    "reference": "Hi Editor,\nThank you for featuring our design project in the newsletter. I noticed that the online article describes me as the sole winner of the design prize. The award was actually made jointly to Noor and me, so the current wording leaves out an equal recipient.\nNoor developed the user-testing approach while I worked on the visual design, and we presented the final project together. I would not want readers or future collaborators to assume that I completed everything alone. Could you name us both in the sentence announcing the award and in any headline that repeats the error? A short correction note would also help readers who saw the earlier version. I am happy to check the revised wording if that would be useful.\nThanks for your help,\nAlex",
+    "reference": "Dear Editor,\nThank you for featuring our design project in the newsletter. I noticed that the online article describes me as the sole winner of the design prize. The award was actually made jointly to Noor and me, so the current wording leaves out an equal recipient.\nNoor developed the user-testing approach while I worked on the visual design, and we presented the final project together. I would not want readers or future collaborators to assume that I completed everything alone. Could you name us both in the sentence announcing the award and in any headline that repeats the error? A short correction note would also help readers who saw the earlier version. I am happy to check the revised wording if that would be useful.\nThanks for your help,\nAlex",
     "explanation": "读懂：jointly 是共同获奖；不是要求额外表扬，而是更正已有事实。\n解析：范文列双方贡献说明署名影响，明确改标题、正文并加更正说明；只把伙伴名字塞进末尾可能保留“独自获奖”的错误。本范文为练习示例，非官方满分答案；其他合理表达也可。\n下次：署名错误→定位原说法→给正确关系→检查所有仍会造成误解的位置。"
   },
   "W258": {
