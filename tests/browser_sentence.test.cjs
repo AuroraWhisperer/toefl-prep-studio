@@ -16,8 +16,8 @@ const questions = ['W01', 'W04', 'W05', 'W07', 'W39', 'W31', 'W38', 'W51', 'W56'
 const words = (text) => (text.toLowerCase().match(/[a-z]+(?:'[a-z]+)?/g) || []).join(' ');
 
 // Private keys remain in the test process, never in a browser payload.
-function correctOrder(question) {
-  const target = words(keys[question.id].accepted[0]).split(' ');
+function correctOrder(question, answer = keys[question.id].accepted[0]) {
+  const target = words(answer).split(' ');
   function visit(slot, offset, order) {
     const fixed = words(question.template_parts[slot]).split(' ').filter(Boolean);
     if (target.slice(offset, offset + fixed.length).join(' ') !== fixed.join(' ')) return null;
@@ -132,6 +132,133 @@ test('clearing fixed-text sentences does not submit the fixed words as an answer
   const scored = await submit(page);
   expect(scored.answered_questions).toBe(0);
   expect(scored.feedback.every((item) => !item.correct)).toBe(true);
+});
+
+for (const desktop of [
+  { width: 2560, height: 1440, scale: 1 },
+  { width: 2048, height: 1152, scale: 1.25 },
+  { width: 1707, height: 960, scale: 1.5 },
+]) {
+  test.describe(`sentence review at ${desktop.scale * 100}% scaling`, () => {
+    test.use({
+      viewport: { width: desktop.width, height: desktop.height },
+      deviceScaleFactor: desktop.scale,
+    });
+    test('shows saved tiles, positional colors and a single reference after submission and reload', async ({
+      page,
+      request,
+    }, testInfo) => {
+      const orders = questions.slice(0, 5).map((q) => correctOrder(q));
+      orders[0] = correctOrder(questions[0], keys.W01.accepted[1]);
+      [orders[1][0], orders[1][1]] = [orders[1][1], orders[1][0]];
+      orders[2][1] = null;
+      for (const [index, order] of orders.entries()) {
+        await page.locator(`[data-question-index="${index}"]`).click();
+        for (const [slot, token] of order.entries()) {
+          if (token === null) continue;
+          await page.locator('.sentence-slot').nth(slot).click();
+          await page.locator(`[data-word="${token}"]`).click();
+        }
+      }
+      const result = await submit(page);
+      expect(result.feedback.slice(0, 6).map((item) => item.correct)).toEqual([
+        true,
+        false,
+        false,
+        true,
+        true,
+        false,
+      ]);
+      const reviewUrl = page.url();
+      expect((await request.get(reviewUrl)).status()).toBe(200);
+      const palette = {
+        correct: { color: 'rgb(53, 99, 67)', background: 'rgb(237, 244, 232)' },
+        incorrect: { color: 'rgb(170, 68, 59)', background: 'rgb(251, 239, 236)' },
+      };
+      async function checkReview(index) {
+        const nav = page.locator('#review-index button').nth(index);
+        await nav.focus();
+        await page.keyboard.press('Enter');
+        const item = result.feedback[index];
+        const color = palette[item.correct ? 'correct' : 'incorrect'];
+        await expect(nav).toHaveCSS('background-color', color.background);
+        await expect(nav).toHaveCSS('color', color.color);
+        await expect(nav).toHaveAttribute('aria-current', 'step');
+        await expect(nav).toHaveAttribute(
+          'aria-label',
+          new RegExp(item.correct ? '全部正确' : '有错题或未作答'),
+        );
+        const question = questions[index];
+        const order = orders[index] || Array(question.template_parts.length - 1).fill(null);
+        const reference = correctOrder(question);
+        const slots = page.locator('.review-sentence-slot');
+        await expect(slots).toHaveCount(order.length);
+        for (const [slot, token] of order.entries()) {
+          const correct =
+            token !== null &&
+            (item.correct ||
+              words(question.word_bank[token]) === words(question.word_bank[reference[slot]]));
+          const color = palette[correct ? 'correct' : 'incorrect'];
+          let text = token === null ? '未填' : question.word_bank[token];
+          if (slot === 0 && !question.template_parts[0].trim())
+            text = text.charAt(0).toUpperCase() + text.slice(1);
+          await expect(slots.nth(slot)).toHaveText(text);
+          await expect(slots.nth(slot)).toHaveCSS('background-color', color.background);
+          await expect(slots.nth(slot)).toHaveCSS('color', color.color);
+          await expect(slots.nth(slot)).toHaveCSS('border-top-color', color.color);
+          await expect(slots.nth(slot)).toHaveAttribute(
+            'title',
+            token === null ? '未填' : correct ? '位置正确' : '与正确答案的位置不同',
+          );
+        }
+        await expect(page.locator('.review-material .sentence-fixed')).toHaveText(
+          question.template_parts,
+        );
+        await expect(page.locator('.reference-answer')).toHaveCount(1);
+        await expect(page.locator('.review-material .reference-answer')).toHaveText(
+          item.reference_answer,
+        );
+        await expect(page.locator('.reference-answer')).toHaveCSS('color', palette.correct.color);
+        await expect(
+          page.locator('.review-answers .submitted-answer, .review-answers .reference-answer'),
+        ).toHaveCount(0);
+        await expect(page.locator('.review-word-bank span')).toHaveText(question.word_bank);
+        expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(
+          true,
+        );
+      }
+      for (let index = 0; index < 6; index++) await checkReview(index);
+      await checkReview(1);
+      await page.locator('.review-explanations summary').click();
+      await expect(page.locator('.review-explanations')).toHaveAttribute('open', '');
+      await page.screenshot({ path: testInfo.outputPath('sentence-review.png'), fullPage: true });
+      await page.reload();
+      for (const index of [0, 1, 2, 5]) await checkReview(index);
+      await page.setViewportSize({ width: 1050, height: 800 });
+      await checkReview(1);
+    });
+  });
+}
+
+test('legacy free-text answers remain visible when they cannot be split into archived tiles', async ({
+  page,
+}) => {
+  await page.route('**/api/v1/exam/submit', async (route) => {
+    const body = route.request().postDataJSON();
+    body.responses[0].answer = 'This is my older typed answer.';
+    const response = await route.fetch({ postData: body });
+    await route.fulfill({ response });
+  });
+  await submit(page);
+  await expect(page.locator('.review-material .submitted-answer')).toHaveText(
+    'This is my older typed answer.',
+  );
+  await expect(page.locator('.review-sentence-slot')).toHaveCount(0);
+  await expect(page.locator('.reference-answer')).toHaveText(keys.W01.accepted[0]);
+  await page.reload();
+  await expect(page.locator('.review-material .submitted-answer')).toHaveText(
+    'This is my older typed answer.',
+  );
 });
 
 test('previously cached word-only questions still render and submit safely', async ({ page }) => {

@@ -305,6 +305,88 @@ test('a slow mock resume from the picker cannot overwrite a newer Back navigatio
   await expect(page.locator('.app-shell')).toHaveJSProperty('inert', false);
 });
 
+test('a slow adaptive resume from the picker cannot overwrite a newer Back navigation', async ({
+  page,
+  request,
+}) => {
+  const created = await (
+    await request.post('/api/v1/tests/sessions', { data: { level: 5 } })
+  ).json();
+  await page.addInitScript((id) => localStorage.setItem('toefl-adaptive-session', id), created.id);
+  expect((await request.get('/')).status()).toBe(200);
+  await page.goto('/');
+  await page.locator('#open-tests').click();
+  await onlyView(page, 'test-setup', '/tests');
+  const url = `/api/v1/tests/sessions/${created.id}`;
+  let release;
+  const gate = new Promise((resolve) => {
+    release = resolve;
+  });
+  await page.route(`**${url}`, async (route) => {
+    await gate;
+    await route.continue();
+  });
+  const pending = page.waitForRequest((r) => r.url().endsWith(url));
+  await page.locator('#resume-test').press('Enter');
+  await pending;
+  await page.goBack();
+  const resumed = page.waitForResponse((r) => r.url().endsWith(url));
+  release();
+  await resumed;
+  await page.evaluate(
+    () => new Promise((resolve) => requestAnimationFrame(() => requestAnimationFrame(resolve))),
+  );
+  await onlyView(page, 'landing-view', '/');
+  await expect(page.locator('.app-shell')).toHaveJSProperty('inert', false);
+});
+
+for (const destination of ['history', 'home']) {
+  test(`leaving a slow practice load keeps the newer ${destination} view`, async ({
+    page,
+    request,
+  }) => {
+    expect((await request.get('/')).status()).toBe(200);
+    await page.goto('/');
+    let release, finish;
+    const gate = new Promise((resolve) => {
+      release = resolve;
+    });
+    const delivered = new Promise((resolve) => {
+      finish = resolve;
+    });
+    await page.route('**/api/v1/exam?*', async (route) => {
+      const response = await route.fetch();
+      await gate;
+      await route.fulfill({ response });
+      finish();
+    });
+    const pending = page.waitForRequest((r) => r.url().includes('/api/v1/exam?'));
+    await page.locator('[data-section="reading"][data-mode="exam"]').click();
+    await pending;
+    await page.locator('#open-history').click();
+    await onlyView(page, 'history-view', '/history');
+    if (destination === 'home') {
+      await page.locator('#history-home').click();
+      await onlyView(page, 'landing-view', '/');
+    }
+    release();
+    await delivered;
+    await page.evaluate(
+      () => new Promise((resolve) => requestAnimationFrame(() => requestAnimationFrame(resolve))),
+    );
+    await onlyView(
+      page,
+      destination === 'history' ? 'history-view' : 'landing-view',
+      destination === 'history' ? '/history' : '/',
+    );
+    await expect(page.locator('#toast')).toBeHidden();
+    if (destination === 'history') await page.locator('#history-home').click();
+    await page.unroute('**/api/v1/exam?*');
+    await page.locator('[data-section="reading"][data-mode="exam"]').click();
+    await expect(page.locator('#exam-view')).toBeVisible();
+  });
+}
+
 test('two quick Back actions during a failed save restore the active entry without corrupting history', async ({
   page,
   request,

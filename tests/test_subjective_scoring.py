@@ -4,6 +4,16 @@ from backend.exam_service import score_one, score_submission
 from backend.question_store import store
 
 
+@pytest.mark.parametrize('apostrophe', ["'", '’'])
+def test_word_count_keeps_contractions_and_possessives_together(apostrophe):
+    answer = "I don't think today's meeting needs another speaker.".replace("'", apostrophe)
+    earned, possible, feedback, correct = score_one(
+        {'section': 'writing'}, store.answer('W21'), answer
+    )
+    assert (earned, possible, correct) == (0, 0, None)
+    assert feedback.startswith('当前有 8 词。')
+
+
 @pytest.mark.parametrize('section', ['writing', 'speaking'])
 @pytest.mark.parametrize('phrase', ['online seminars flexible ', 'ONLINE, seminars! Flexible? '])
 def test_repeated_keywords_get_a_warning_without_a_grade(section, phrase):

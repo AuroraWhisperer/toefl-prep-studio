@@ -20,7 +20,7 @@ def normalize_text(value: Any) -> str:
         return ""
     if isinstance(value, list):
         value = " ".join(str(item) for item in value)
-    return " ".join(WORD_RE.findall(str(value).lower()))
+    return " ".join(WORD_RE.findall(str(value).lower().replace("’", "'")))
 
 
 def _choice_index(value: Any) -> int | None:
@@ -28,7 +28,7 @@ def _choice_index(value: Any) -> int | None:
 
 
 def _word_count(value: Any) -> int:
-    return len(WORD_RE.findall(str(value or "")))
+    return len(normalize_text(value).split())
 
 
 def _score_choice(key: dict, answer: Any) -> tuple[float, float, str, bool]:
@@ -254,6 +254,7 @@ def score_submission(
         else None,
         "legacy_total": round(sum(completed_legacy), 1) if len(completed_legacy) == 4 else None,
         "feedback": feedback,
+        "passage_translations": store.passage_translations(questions, feedback),
         "answered_questions": sum(item["answered"] for item in feedback),
         "total_questions": len(questions),
         "note": "仅汇总可自动核对题目的练习分，漏答计零。邮件、讨论与访谈待人工复核，不计入分数或正确率；复述仅比对转写文字，不评价发音。结果不等同于官方 TOEFL 成绩。",

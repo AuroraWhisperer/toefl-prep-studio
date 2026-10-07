@@ -135,6 +135,64 @@ async function submitPhase(page) {
   await beginStage(page);
 }
 
+test('automatic mock submission preserves answers when conflict recovery fails', async ({
+  page,
+  context,
+  request,
+}) => {
+  const errors = [];
+  page.on('pageerror', (error) => errors.push(error.message));
+  await prepare(page, context);
+  await begin(page);
+  await page.clock.install();
+  await page.clock.pauseAt(new Date());
+  const id = await page.evaluate(() => localStorage.getItem('toefl-mock-session'));
+  const url = `/api/v1/mock/sessions/${id}`;
+  const deadline = (await page.evaluate(() => Date.now() / 1000)) + 2;
+  let failSync = false;
+  let recovered = false;
+  let syncAttempts = 0;
+  let submissions = 0;
+  await page.route(`**${url}`, async (route) => {
+    if (route.request().method() === 'POST') {
+      if (route.request().postDataJSON().action === 'advance') {
+        submissions += 1;
+        if (!recovered)
+          return route.fulfill({ status: 409, json: { detail: '阶段已变化，请同步进度' } });
+      }
+    } else if (failSync && !recovered) {
+      syncAttempts += 1;
+      return route.fulfill({ status: 503, json: { detail: '暂时无法同步进度' } });
+    }
+    const response = await route.fetch();
+    const payload = await response.json();
+    payload.server_time = await page.evaluate(() => Date.now() / 1000);
+    if (payload.phase_index === 0) payload.deadline = deadline;
+    await route.fulfill({ response, json: payload });
+  });
+  await page.reload();
+  const input = page.locator('input[data-answer]').first();
+  await expect(input).toBeVisible();
+  const questionId = await input.getAttribute('data-answer');
+  failSync = true;
+  await page.clock.runFor(1900);
+  await input.fill('b');
+  await page.clock.runFor(100);
+  await expect.poll(() => syncAttempts).toBe(1);
+  await expect(page.locator('#mock-next')).toBeEnabled();
+  expect(errors).toEqual([]);
+  await expect(page.locator('#mock-error')).toHaveText('暂时无法同步进度');
+  await expect(page.locator('#mock-save')).toContainText('保存失败；请重试');
+  await expect(input).toHaveValue('b');
+  await expect(page.locator('.mock-reading-cloze')).toHaveJSProperty('inert', true);
+  recovered = true;
+  await page.locator('#mock-submit').click();
+  await page.locator('#confirm-mock-submit').click();
+  await expect(page.locator('.mock-heading h2')).toHaveText('Reading · Module 2');
+  expect((await (await request.get(url)).json()).answers[questionId]).toBe('b');
+  expect(submissions).toBe(2);
+});
+
 test('deadline-crossing navigation submits the preserved final answer', async ({
   page,
   context,
@@ -299,6 +357,80 @@ async function prepareMockRecording(page, context, request) {
   await beginStage(page);
   await expect(page.locator('#mock-record-state')).toHaveText('正在录音，请回答。');
   return { url, questionId: session.phase.items[0].id };
+}
+
+for (const fails of [false, true]) {
+  test(`a delayed mock result cannot affect a new session (failure: ${fails})`, async ({
+    page,
+    context,
+    request,
+  }) => {
+    const { url } = await prepareMockRecording(page, context, request);
+    let session = await (await request.get(url)).json();
+    while (session.item_index < 3) {
+      const response = await request.post(url, {
+        data: {
+          phase_index: session.phase_index,
+          item_index: session.item_index,
+          action: session.response_deadline ? 'next' : 'respond',
+        },
+      });
+      expect(response.status()).toBe(200);
+      session = await response.json();
+    }
+    await page.reload();
+    await expect(page.locator('#mock-record-state')).toHaveText('正在录音，请回答。');
+    let release;
+    const held = new Promise((resolve) => {
+      release = resolve;
+    });
+    await page.route(`**${url}/result`, async (route) => {
+      const response = await route.fetch();
+      await held;
+      if (fails) await route.fulfill({ status: 503, json: { detail: 'Delayed result failure' } });
+      else await route.fulfill({ response });
+    });
+    const pendingResult = page.waitForRequest((r) => r.url().endsWith(`${url}/result`));
+    await page.locator('#mock-next').click();
+    await expect.poll(() => page.evaluate(() => mockRecordingProbe.stops)).toBe(1);
+    await page.evaluate(() => mockRecordingProbe.current.finish());
+    await pendingResult;
+    const returned = page.waitForResponse((r) => r.url().endsWith(`${url}/result`));
+    let newId;
+    try {
+      await page.goBack();
+      await expect(page.locator('#landing-view')).toBeVisible();
+      await page.locator('#open-mocks').click();
+      await page.locator('[data-paper=ets-test-1]').click();
+      await page.locator('#mock-sound-check').click();
+      await expect(page.locator('#mock-sound-state')).toContainText('示范已播放');
+      await page.locator('#mock-mic-check').click();
+      await page.locator('#mock-consent').check();
+      const created = page.waitForResponse(
+        (r) => r.url().endsWith('/api/v1/mock/sessions') && r.request().method() === 'POST',
+      );
+      await page.locator('#begin-mock').click();
+      newId = (await (await created).json()).id;
+      createdSessions.add(newId);
+      await beginStage(page);
+    } finally {
+      release();
+    }
+    await (await returned).finished();
+    await page.evaluate(
+      () => new Promise((resolve) => requestAnimationFrame(() => requestAnimationFrame(resolve))),
+    );
+    await expect(page.locator('.mock-heading h2')).toHaveText('Reading · Module 1');
+    await expect(page.locator('#mock-error')).toHaveCount(0);
+    await expect(page).toHaveURL(new RegExp(`/mocks/sessions/${newId}$`));
+    const input = page.locator('input[data-answer]').first();
+    const questionId = await input.getAttribute('data-answer');
+    await input.fill('a');
+    await expect(page.locator('#mock-save')).toHaveText('已保存');
+    expect(
+      (await (await request.get(`/api/v1/mock/sessions/${newId}`)).json()).answers[questionId],
+    ).toBe('a');
+  });
 }
 
 for (const expired of [true, false]) {

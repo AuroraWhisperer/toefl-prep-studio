@@ -29,7 +29,7 @@ try:
         read_archive,
         write_archive,
     )
-    from .exam_service import reference_answer
+    from .exam_service import reference_answer, score_submission
     from .question_store import material_groups, store
 except ImportError:
     import mock_exam
@@ -41,7 +41,7 @@ except ImportError:
         read_archive,
         write_archive,
     )
-    from exam_service import reference_answer
+    from exam_service import reference_answer, score_submission
     from question_store import material_groups, store
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -90,8 +90,8 @@ def read_record(record_id: UUID):
     return read_archive(path, PracticeArchive)
 
 
-def save_submission(payload, result):
-    """Snapshot the scored questions, never resample a randomized practice set."""
+def save_submission(payload):
+    """Return an existing result, or score and archive this submission once."""
     record_id = payload.submission_id or uuid4()
     body = payload.model_dump(mode='json', exclude={'submission_id'})
     fingerprint = hashlib.sha256(json.dumps(body, sort_keys=True).encode()).hexdigest()
@@ -101,6 +101,15 @@ def save_submission(payload, result):
             if existing['fingerprint'] != fingerprint:
                 raise HTTPException(409, '该次提交已归档，请开始新一轮练习')
             return existing['result']
+        result = score_submission(
+            store,
+            [item.model_dump() for item in payload.responses],
+            section=payload.section,
+            mode=payload.mode,
+            task_type=payload.task_type,
+            count=payload.count,
+            question_ids=payload.question_ids,
+        )
         write_record(
             {
                 'id': str(record_id),
@@ -350,6 +359,9 @@ def detail(category: Category, record_id: UUID):
             )
         },
         'learning_explanations': learning_explanations,
+        'passage_translations': store.passage_translations(
+            record['questions'], record['result']['feedback']
+        ),
         'recordings': {
             question_id: f'/api/v1/history/{category}/{record_id}/recordings/{question_id}'
             for question_id in record['recordings']

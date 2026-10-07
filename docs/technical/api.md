@@ -40,9 +40,13 @@ GET /api/v1/exam?section=writing&mode=bank&task_type=write_email
 
 邮件、讨论和访谈的反馈为 `manual_review: true`、`correct: null`、`earned: 0`、`possible: 0`；两个零表示不参与计分，而非判为零分。这些题保留在 `answered` / `total` 中，文字反馈仅提供字数与重复措辞提示，不使用范文关键词判定质量。只有开放题的科目 `percentage` 为 `null`；混合科目的百分比只统计可自动核对部分。含人工复核题的科目不返回数字 `band6` / `legacy_score`，该次提交的 `overall_band6` / `legacy_total` 也为 `null`。复述仍按转写文字比对。
 
+文字比对与字数提示将直撇号 `'` 和弯撇号 `’` 视为同一字符，缩写和所有格不会因撇号样式被拆词或扣分；实际提交的文字与参考答案保持原样，已有归档结果不重新评分。
+
 原创题号为 `R`、`L`、`S` 或 `W` 加 2–4 位数字（例如 `R01`、`R1000`）；通过格式校验后仍须属于当前题库与所提交题组。`responses` 和 `question_ids` 各最多 5,745 项，专项另按完整材料和可选题量校验。
 
-客户端应生成并复用 `submission_id`（UUID）：相同 ID 和内容的重试返回已归档结果，不重复归档或用新版评分替换旧结果；同一 ID 改交其他内容返回 `409`。历史摘要的 `manual_review_count` 表示待人工复核题数，旧记录按原始反馈统计，不追溯改分。提交模型见 [models.py](../../backend/models.py)，题型校验及评分见 [exam_service.py](../../backend/exam_service.py)。
+交卷结果及已完成综合测验的 `result.passage_translations` 按补词 `group_id` 返回中文参考译文；普通取题和进行中的测验不含译文。历史详情顶层另有 `passage_translations`，仅返回与归档英文及参考词重建结果匹配的最新译文，不修改归档 `result`。客户端在显示时将它覆盖到已保存的译文映射上。维护方式见[补词整篇译文](../../question_bank/README.md#补词整篇译文)。
+
+客户端应生成并复用 `submission_id`（UUID）：相同 ID 和内容的重试返回已归档结果，不重复归档或用新版评分替换旧结果；同一 ID 改交其他内容返回 `409`。通过请求模型校验后，服务端先检查提交 ID，再对新提交执行题型校验、评分和归档，因此固定题组更新不会阻断原样重试。历史摘要的 `manual_review_count` 表示待人工复核题数，旧记录按原始反馈统计，不追溯改分。提交模型见 [models.py](../../backend/models.py)，题型校验及评分见 [exam_service.py](../../backend/exam_service.py)。
 
 ## 模考与综合测验
 

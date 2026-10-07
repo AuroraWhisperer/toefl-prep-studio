@@ -236,6 +236,10 @@ def test_generator_reproduces_bank_after_source_move(tmp_path, monkeypatch):
         'changed_explanation',
         'changed_expansion',
         'changed_expansion_review',
+        'missing_answer_evidence',
+        'missing_reviewed_on',
+        'empty_answer_evidence',
+        'empty_reviewed_on',
     ],
 )
 def test_generator_validation_failure_preserves_existing_bank(tmp_path, monkeypatch, failure):
@@ -245,6 +249,10 @@ def test_generator_validation_failure_preserves_existing_bank(tmp_path, monkeypa
         notes['L01']['content_sha256'] = 'unreviewed-content'
     elif failure == 'extra_review':
         notes['R9999'] = copy.deepcopy(notes['R01'])
+    elif failure.startswith('missing_'):
+        del notes['R01'][failure.removeprefix('missing_')]
+    elif failure.startswith('empty_'):
+        notes['R01'][failure.removeprefix('empty_')] = ''
     (output / 'sources').mkdir(parents=True)
     (output / 'sources/review_notes.json').write_text(json.dumps(notes), encoding='utf8')
     for name in ('cloze_explanations.json', 'productive_explanations.json'):
@@ -276,12 +284,20 @@ def test_generator_validation_failure_preserves_existing_bank(tmp_path, monkeypa
         target.parent.mkdir(parents=True, exist_ok=True)
         existing[target] = source.read_bytes() + b'\n'
         target.write_bytes(existing[target])
+    for name in ('catalogue.csv', 'audit.md'):
+        target = tmp_path / 'docs' / 'question-bank' / name
+        target.parent.mkdir(parents=True, exist_ok=True)
+        existing[target] = (ROOT / 'docs/question-bank' / name).read_bytes() + b'\n'
+        target.write_bytes(existing[target])
     monkeypatch.setattr(builder, 'ROOT', tmp_path)
     monkeypatch.setattr(builder, 'QUESTION_ROOT', output)
 
     with pytest.raises(
         ValueError,
-        match='Content changed since review|Review notes must cover exactly|Expansion review differs',
+        match=(
+            'Content changed since review|Review notes must cover exactly'
+            '|Expansion review differs|Incomplete content review'
+        ),
     ):
         builder.main()
 

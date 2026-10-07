@@ -120,6 +120,37 @@ def test_correct_answers_score_all_reading_and_listening_items(client):
         assert result.json()['sections'][section]['percentage'] == 100
 
 
+@pytest.mark.parametrize('question_id', ['S16', 'S69'])
+def test_repeat_scoring_ignores_apostrophe_style_but_preserves_words(client, question_id):
+    reference = store.answer(question_id)['reference']
+    alternate = reference.replace("'", '’') if "'" in reference else reference.replace('’', "'")
+    assert alternate != reference
+    for answer, expected in [
+        (reference, 5),
+        (alternate, 5),
+        (' '.join(alternate.split()[2:]), None),
+    ]:
+        response = client.post(
+            '/api/v1/exam/submit',
+            json={
+                'section': 'speaking',
+                'mode': 'bank',
+                'task_type': 'listen_repeat',
+                'responses': [{'question_id': question_id, 'answer': answer}],
+            },
+        )
+        assert response.status_code == 200
+        item = next(q for q in response.json()['feedback'] if q['question_id'] == question_id)
+        assert item['answer'] == answer
+        assert item['reference_answer'] == reference
+        assert item['possible'] == 5
+        if expected is None:
+            assert item['earned'] < 5
+        else:
+            assert item['earned'] == expected
+            assert item['correct'] is True
+
+
 @pytest.mark.parametrize(
     'payload',
     [

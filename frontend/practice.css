@@ -235,6 +235,7 @@
 
 .academic-material .passage-copy p {
   margin: 0 0 0.75em;
+  text-indent: 2em;
 }
 
 .academic-material .passage-copy p:last-child {
@@ -394,12 +395,14 @@
 
 .cloze-passage {
   line-height: 2.7;
+  text-indent: 2em;
 }
 
 .cloze-word {
   display: inline-flex;
   align-items: baseline;
   white-space: nowrap;
+  text-indent: 0;
 }
 
 .cloze-letters {
@@ -969,9 +972,10 @@
 .reading-document h3 {
   padding: 20px 22px 0;
   margin: 0 0 16px;
-  font-size: 1.35rem;
+  font-size: 1.4rem;
   line-height: 1.3;
   letter-spacing: -0.02em;
+  text-align: center;
 }
 
 .document-body {
@@ -982,6 +986,7 @@
 
 .document-body p {
   margin: 0 0 12px;
+  text-indent: 2em;
 }
 
 .document-agenda .document-kind,
@@ -992,11 +997,6 @@
 .document-flyer {
   background: #f5f6f0;
   border-color: #aeb5a0;
-}
-
-.document-email h3,
-.document-messages h3 {
-  font-size: 1.1rem;
 }
 
 .document-messages .document-body p {
@@ -1019,6 +1019,11 @@
 
 .academic-material {
   min-width: 0;
+}
+
+.academic-material .passage-title {
+  font-size: 1.4rem;
+  text-align: center;
 }
 
 .academic-material .passage-copy {

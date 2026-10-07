@@ -22,12 +22,12 @@
   <a href="#题型预览">题型预览</a> ·
   <a href="#使用须知">使用须知</a> ·
   <a href="#文档导航">文档导航</a> ·
-  <a href="https://github.com/AuroraWhisperer/toefl-prep-studio/releases">版本管理（v1.2.0）</a>
+  <a href="https://github.com/AuroraWhisperer/toefl-prep-studio/releases">版本管理（v1.3.0）</a>
 </p>
 
 </div>
 
-**v1.2.0 更新：** 原创题库增至 5,745 题，补词与两类口语题池扩至三倍；修订难度与解析，新增 Windows 托盘启动和新托福指南，改善阅读定位、桌面布局及归档恢复。详见[更新说明](docs/releases/v1.2.0.md)。
+**v1.3.0 更新：** 为全部 270 篇原创补词提供交卷后的中文参考译文，复盘显示题目难度，造句支持词块位置核对；改善复盘布局与滚动，修复页面切换、交卷重试、撇号评分和模考导入问题。详见[更新说明](docs/releases/v1.3.0.md)。
 
 ## 快速开始
 

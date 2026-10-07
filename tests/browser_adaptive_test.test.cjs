@@ -296,11 +296,19 @@ test('all nine stages complete, archive under tests and reopen manual-review fee
   expect(await page.evaluate(() => localStorage.getItem('toefl-adaptive-session'))).toBeNull();
   const record = await (await request.get(`/api/v1/history/test/${sessionId}`)).json();
   expect(record.questions).toHaveLength(120);
+  const reviewGroups = [...Map.groupBy(record.questions, (q) => q.group_id || q.id).values()];
+  const difficultyLabels = { easy: 'Easy', medium: 'Medium', hard: 'Hard' };
+  await expect(page.locator('#result-view .review-difficulty')).toHaveText(
+    reviewGroups.at(-1).map((q) => `难度：${difficultyLabels[q.difficulty]}`),
+  );
   await page.evaluate((record) => {
     document.querySelector('#result-view').hidden = true;
     window.dispatchEvent(new CustomEvent('open-history-practice', { detail: record }));
   }, record);
   await expect(page.locator('#result-title')).toHaveText('进阶卷 历史复盘');
+  await expect(page.locator('#result-view .review-difficulty')).toHaveText(
+    reviewGroups[0].map((q) => difficultyLabels[q.difficulty]),
+  );
   expect(errors).toEqual([]);
 });
 

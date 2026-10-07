@@ -36,6 +36,8 @@ def apply_review(questions: list[dict], answers: dict, notes: dict) -> None:
             or not note['skills']
             or not note['vocabulary']
             or not note['rationale']
+            or not note.get('answer_evidence')
+            or not note.get('reviewed_on')
         ):
             raise ValueError(f"Incomplete content review: {question['id']}")
         if note['content_sha256'] != content_fingerprint(question, answers[question['id']]):

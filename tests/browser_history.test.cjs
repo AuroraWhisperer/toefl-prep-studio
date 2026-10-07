@@ -56,6 +56,13 @@ for (const display of [
       await expect(page.getByLabel('截止日期', { exact: true })).toBeVisible();
       await expect(page.locator('.history-row-score')).toContainText('练习原始分 · 非官方成绩');
       const view = await page.locator('#history-view').boundingBox();
+      const back = await page.locator('#history-home').boundingBox();
+      const title = await page.locator('#history-title').boundingBox();
+      const management = await page.locator('#history-management').boundingBox();
+      expect(back.x).toBeCloseTo(view.x, 0);
+      expect(back.x + back.width).toBeLessThan(title.x);
+      expect(Math.abs(back.y + back.height / 2 - title.y - title.height / 2)).toBeLessThan(2);
+      expect(management.x + management.width).toBeCloseTo(view.x + view.width, 0);
       const row = await page.locator('.history-row').boundingBox();
       expect(view.width).toBeGreaterThan(display.width * 0.92);
       expect(view.x).toBeLessThanOrEqual(80);
@@ -73,7 +80,7 @@ for (const display of [
         path: testInfo.outputPath('history-compact-archive.png'),
         fullPage: true,
       });
-      await page.keyboard.press('Tab');
+      await page.keyboard.press('Shift+Tab');
       await expect(page.locator('#history-home')).toBeFocused();
       await expect(page.locator('#history-home')).not.toHaveCSS('outline-style', 'none');
       await page.keyboard.press('Tab');

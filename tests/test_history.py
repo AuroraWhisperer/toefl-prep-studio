@@ -127,6 +127,40 @@ def test_retry_is_idempotent_but_new_attempts_remain_separate():
     assert client.get('/api/v1/history').json()['total'] == 2
 
 
+def test_retry_returns_archive_after_the_fixed_form_changes(monkeypatch):
+    payload, result = submit('listening', responses=[{'question_id': 'L01', 'answer': 0}])
+    path = history.HISTORY_DIR / f"{payload['submission_id']}.json"
+    original = path.read_bytes()
+    counts = history.submitted_material_counts()
+    questions_for = history.store.questions_for
+
+    def revised_form(section='all', mode='exam', task_type=None):
+        questions = questions_for(section, mode, task_type)
+        if mode == 'exam':
+            return [question for question in questions if question['id'] != 'L01']
+        return questions
+
+    monkeypatch.setattr(history.store, 'questions_for', revised_form)
+    retried = client.post('/api/v1/exam/submit', json=payload)
+    assert retried.status_code == 200, retried.text
+    assert retried.json() == result
+    assert path.read_bytes() == original
+    assert history.submitted_material_counts() == counts
+    assert client.get('/api/v1/history').json()['total'] == 1
+
+
+def test_submission_id_conflict_is_reported_before_current_question_validation():
+    payload, _ = submit('listening')
+    path = history.HISTORY_DIR / f"{payload['submission_id']}.json"
+    original = path.read_bytes()
+    changed = {**payload, 'responses': [{'question_id': 'R01', 'answer': 0}]}
+
+    response = client.post('/api/v1/exam/submit', json=changed)
+    assert response.status_code == 409, response.text
+    assert path.read_bytes() == original
+    assert client.get('/api/v1/history').json()['total'] == 1
+
+
 def test_invalid_submission_is_not_archived_and_categories_do_not_leak():
     assert (
         client.post(

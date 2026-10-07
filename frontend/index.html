@@ -5,15 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#303B37" />
     <title>TOEFL 26 / Practice Workbench</title>
-    <link rel="stylesheet" href="/frontend/styles.css?v=20261005-text-flow" />
-    <link rel="stylesheet" href="/frontend/landing.css?v=20261005-palette" />
-    <link rel="stylesheet" href="/frontend/exam-guide.css?v=20261005-text-flow" />
-    <link rel="stylesheet" href="/frontend/practice.css?v=20261005-text-flow" />
-    <link rel="stylesheet" href="/frontend/practice-setup.css?v=20261005-text-flow" />
-    <link rel="stylesheet" href="/frontend/practice-review.css?v=20261005-text-flow" />
-    <link rel="stylesheet" href="/frontend/mock-exam.css?v=20261005-text-flow" />
-    <link rel="stylesheet" href="/frontend/adaptive-test.css?v=20261005-text-flow" />
-    <link rel="stylesheet" href="/frontend/history.css?v=20261005-text-flow" />
+    <link rel="stylesheet" href="/frontend/styles.css" />
+    <link rel="stylesheet" href="/frontend/landing.css" />
+    <link rel="stylesheet" href="/frontend/exam-guide.css" />
+    <link rel="stylesheet" href="/frontend/practice.css" />
+    <link rel="stylesheet" href="/frontend/practice-setup.css" />
+    <link rel="stylesheet" href="/frontend/practice-review.css" />
+    <link rel="stylesheet" href="/frontend/mock-exam.css" />
+    <link rel="stylesheet" href="/frontend/adaptive-test.css" />
+    <link rel="stylesheet" href="/frontend/history.css" />
   </head>
   <body>
     <main class="app-shell">
@@ -476,21 +476,21 @@
 
       <section id="history-view" class="history-view" hidden aria-labelledby="history-title">
         <header class="history-heading">
+          <button id="history-home" class="text-button home-button return-button" type="button">
+            <svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.8"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              aria-hidden="true"
+            >
+              <path d="m10 5-7 7 7 7M3 12h18" /></svg
+            ><span>返回首页</span>
+          </button>
           <h1 id="history-title" tabindex="-1">答题记录</h1>
           <div class="history-heading-actions">
-            <button id="history-home" class="text-button home-button return-button" type="button">
-              <svg
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                stroke-width="1.8"
-                stroke-linecap="round"
-                stroke-linejoin="round"
-                aria-hidden="true"
-              >
-                <path d="m10 5-7 7 7 7M3 12h18" /></svg
-              ><span>返回首页</span>
-            </button>
             <details id="history-management" class="history-management">
               <summary>
                 记录管理<svg
@@ -703,14 +703,16 @@
       <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
     </main>
 
-    <script src="/frontend/audio-cache.js?v=20260928-cleanup" defer></script>
-    <script src="/frontend/view-navigation.js?v=20260928-routes" defer></script>
-    <script src="/frontend/practice-sentence.js?v=20260927-modules" defer></script>
-    <script src="/frontend/practice-review.js?v=20260930-type" defer></script>
-    <script src="/frontend/practice-recorder.js?v=20260927-modules" defer></script>
-    <script src="/frontend/adaptive-test.js?v=20261005-setup" defer></script>
-    <script src="/frontend/app.js?v=20261005-guide-copy" defer></script>
-    <script src="/frontend/mock-exam.js?v=20260928-routes" defer></script>
-    <script src="/frontend/history.js?v=20260928-routes" defer></script>
+    <script src="/frontend/audio-cache.js" defer></script>
+    <script src="/frontend/view-navigation.js" defer></script>
+    <script src="/frontend/practice-sentence.js" defer></script>
+    <script src="/frontend/practice-materials.js" defer></script>
+    <script src="/frontend/practice-review.js" defer></script>
+    <script src="/frontend/practice-recorder.js" defer></script>
+    <script src="/frontend/adaptive-test.js" defer></script>
+    <script src="/frontend/app.js" defer></script>
+    <script src="/frontend/mock-review.js" defer></script>
+    <script src="/frontend/mock-exam.js" defer></script>
+    <script src="/frontend/history.js" defer></script>
   </body>
 </html>

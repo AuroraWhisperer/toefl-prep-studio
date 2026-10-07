@@ -22,12 +22,12 @@
   <a href="#task-previews">Task previews</a> ·
   <a href="#usage-notes">Usage notes</a> ·
   <a href="#documentation">Documentation</a> ·
-  <a href="https://github.com/AuroraWhisperer/toefl-prep-studio/releases">Releases (v1.2.0)</a>
+  <a href="https://github.com/AuroraWhisperer/toefl-prep-studio/releases">Releases (v1.3.0)</a>
 </p>
 
 </div>
 
-**New in v1.2.0:** The original bank grows to 5,745 items, with the cloze and both speaking pools tripled. This release revises difficulty and explanations, adds a Windows tray launcher and a 2026 TOEFL guide, and improves reading navigation, desktop layouts, and archive recovery. See the [release notes](docs/releases/v1.2.0.md).
+**New in v1.3.0:** All 270 original cloze passages now offer Chinese reference translations after submission. Review shows saved question difficulty and checks sentence tile positions, with improved layouts and scrolling. Fixes cover navigation, submission retries, apostrophe scoring, and mock imports. See the [release notes](docs/releases/v1.3.0.md).
 
 ## Quick start
 

@@ -5,10 +5,10 @@ from __future__ import annotations
 import copy
 import json
 import random
+import re
 from collections import Counter
 from pathlib import Path
 from typing import Any
-
 
 SECTIONS = ("reading", "listening", "writing", "speaking")
 
@@ -27,6 +27,7 @@ class QuestionStore:
         self._questions: dict[str, dict] | None = None
         self._answers: dict[str, dict] | None = None
         self._manifest: dict | None = None
+        self._cloze_translations: dict | None = None
 
     def _read(self, path: Path) -> Any:
         return json.loads(path.read_text(encoding="utf-8"))
@@ -60,6 +61,26 @@ class QuestionStore:
         if self._manifest is None:
             self._manifest = self._read(self.question_root / "manifest.json")
         return copy.deepcopy(self._manifest)
+
+    def passage_translations(self, questions: list[dict], feedback: list[dict]) -> dict[str, str]:
+        """Match review translations to the intact passage, including archived reference words."""
+        groups = material_groups([q for q in questions if q['task_type'] == 'complete_words'])
+        if not groups:
+            return {}
+        if self._cloze_translations is None:
+            self._cloze_translations = self._read(
+                self.question_root / 'sources' / 'cloze_translations.json'
+            )
+        references = {item['question_id']: item['reference_answer'] for item in feedback}
+        translations = {}
+        for group_id, group in groups.items():
+            entry = self._cloze_translations.get(group_id)
+            source = re.sub(
+                r'\{(R\d+)\}', lambda match: references.get(match[1], match[0]), group[0]['passage']
+            )
+            if entry and entry['source'] == source:
+                translations[group_id] = entry['translation']
+        return translations
 
     def _sort_key(self, item: dict) -> tuple[int, int, int]:
         if self._manifest is None:

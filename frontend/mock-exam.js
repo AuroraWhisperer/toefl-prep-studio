@@ -566,21 +566,26 @@
     freezeAnswers(true);
     document.querySelector('#mock-next').disabled = true;
     try {
-      if (session.phase.section === 'speaking') await uploadRecording();
-      await act(forward ? 'next' : 'advance');
+      try {
+        if (speaking) await uploadRecording();
+        await act(forward ? 'next' : 'advance');
+      } catch (e) {
+        const recordingExpired =
+          speaking &&
+          e.status === 422 &&
+          answerTimeEnded() &&
+          e.message === '录音不属于当前口语题目';
+        if (e.status !== 409 && !recordingExpired) throw e;
+        await sync(recordingExpired);
+        if (!speaking) error(`本次提交未确认保存：${e.message}。已显示服务端保存的进度。`);
+        return;
+      }
       draft = { ...session.answers };
       draftOrders = structuredClone(session.word_orders || {});
       renderPhase();
     } catch (e) {
-      const recordingExpired =
-        speaking && e.status === 422 && answerTimeEnded() && e.message === '录音不属于当前口语题目';
-      if (e.status === 409 || recordingExpired) {
-        await sync(recordingExpired);
-        if (!speaking) error(`本次提交未确认保存：${e.message}。已显示服务端保存的进度。`);
-      } else {
-        error(e.message);
-        status('保存失败；请重试，答案仍留在当前页面');
-      }
+      error(e.message);
+      status('保存失败；请重试，答案仍留在当前页面');
     } finally {
       busy = false;
       if (!answerTimeEnded()) freezeAnswers(false);
@@ -675,12 +680,17 @@
 
   async function showResult() {
     cleanup();
-    const result = await api(`/api/v1/mock/sessions/${session.id}/result`);
-    renderResult(result);
+    const version = generation;
+    try {
+      const result = await api(`/api/v1/mock/sessions/${session.id}/result`);
+      if (version === generation) renderResult(result);
+    } catch (e) {
+      if (version === generation) throw e;
+    }
   }
 
   function renderResult(result) {
-    view.innerHTML = `<div class="mock-heading"><button class="text-button home-button" data-mock-home type="button">← 返回首页</button><h1>${esc(result.paper.title)} · 模考复盘</h1></div><div class="mock-review-summary"><div><strong>${result.objective_correct} / ${result.objective_total}</strong>客观题参考正确数</div><div><strong>${result.pending_review}</strong>写作与口语任务待复核</div></div><p class="library-note">${esc(result.notice)}</p><p><a href="${esc(result.paper.source_url)}" target="_blank" rel="noopener noreferrer">核对 ETS 原卷与答案</a></p><div class="mock-review-list">${result.review.map((q) => `<details><summary>${esc(q.phase_title)} · 第 ${q.number} 题 — ${q.correct === null ? '待人工复核' : q.correct ? '正确' : '未答 / 待订正'}</summary><p>你的回答：${esc(q.answer || (q.recording_url ? '已保存录音' : '未作答'))}</p>${q.reference ? `<p>参考答案：${esc(q.reference)}</p>` : ''}${q.accepted_alternatives?.length ? `<p>题面词块可接受答案（原卷参考键存在差异）：${q.accepted_alternatives.map(esc).join(' / ')}</p>` : ''}${q.audio_text ? `<p>原始音频脚本：${esc(q.audio_text)}</p>` : ''}${q.prompt ? `<p>${esc(q.prompt)}</p>` : ''}${q.options ? `<p>${q.options.map((v, i) => `${'ABCD'[i]}. ${esc(v)}`).join('<br>')}</p>` : ''}${q.explanation ? `<details class="mock-learning-notes"><summary>学习解析（本地编写，非 ETS 官方解析）</summary><p class="mock-explanation">${esc(q.explanation)}</p></details>` : ''}${q.recording_url ? `<audio controls preload="none" src="${esc(q.recording_url)}"></audio>` : ''}${q.pages.length ? `<details><summary>查看原卷题面</summary>${q.pages.map((p) => `<img loading="lazy" src="${esc(p.url)}" alt="原卷第 ${p.page} 页">`).join('')}</details>` : ''}</details>`).join('')}</div>`;
+    view.innerHTML = window.mockReviewMarkup(result, esc);
   }
 
   function setPicker(open) {

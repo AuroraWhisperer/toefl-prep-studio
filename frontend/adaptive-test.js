@@ -125,7 +125,8 @@
       }
       if (event.target.closest('[data-test-home]')) onHome();
       if (event.target.closest('#begin-test-phase')) guarded(() => send('begin'));
-      if (event.target.closest('#resume-test')) guarded(() => resume());
+      if (event.target.closest('#resume-test'))
+        appViews.navigate(`/tests/${localStorage.getItem(storageKey)}`);
     });
     view.addEventListener('change', (event) => {
       if (event.target.id !== 'test-level') return;

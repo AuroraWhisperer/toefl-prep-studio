@@ -13,7 +13,6 @@ from fastapi.responses import FileResponse, JSONResponse, Response
 from fastapi.staticfiles import StaticFiles
 
 try:  # Works both as `python backend/app.py` and as an imported package.
-    from .exam_service import score_submission
     from .logging_config import server_log_config
     from .models import ExamSubmitRequest, TTSRequest
     from .question_store import material_groups, store
@@ -22,7 +21,6 @@ try:  # Works both as `python backend/app.py` and as an imported package.
     from .history import router as history_router, save_submission, submitted_material_counts
     from .adaptive_test import router as test_router
 except ImportError:  # pragma: no cover - exercised by the direct script command.
-    from exam_service import score_submission
     from logging_config import server_log_config
     from models import ExamSubmitRequest, TTSRequest
     from question_store import material_groups, store
@@ -39,14 +37,27 @@ TTS_TIMEOUT_SECONDS = 20
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 logger = logging.getLogger("toefl_trainer")
 
-app = FastAPI(title="TOEFL iBT 2026 Practice API", version="1.2.0")
+
+class FrontendFiles(StaticFiles):
+    """Serve current frontend files even when an old browser sends cache validators."""
+
+    def file_response(self, full_path, stat_result, scope, status_code=200) -> FileResponse:
+        return FileResponse(
+            full_path,
+            stat_result=stat_result,
+            status_code=status_code,
+            headers={"Cache-Control": "no-store"},
+        )
+
+
+app = FastAPI(title="TOEFL iBT 2026 Practice API", version="1.3.0")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://127.0.0.1:38761", "http://localhost:38761"],
     allow_methods=["GET", "POST", "PUT"],
     allow_headers=["Content-Type"],
 )
-app.mount("/frontend", StaticFiles(directory=str(ROOT / "frontend")), name="frontend")
+app.mount("/frontend", FrontendFiles(directory=str(ROOT / "frontend")), name="frontend")
 mock_pages = ROOT / 'question_bank' / 'mock' / 'pages'
 if mock_pages.is_dir():
     app.mount('/mock-pages', StaticFiles(directory=str(mock_pages)), name='mock-pages')
@@ -68,7 +79,7 @@ app.include_router(test_router)
 @app.get("/mocks/sessions/{session_id}", include_in_schema=False)
 @app.get("/mocks/{paper_id}", include_in_schema=False)
 def home() -> FileResponse:
-    return FileResponse(FRONTEND)
+    return FileResponse(FRONTEND, headers={"Cache-Control": "no-store"})
 
 
 @app.get("/api/v1/health")
@@ -141,18 +152,9 @@ def exam(
 def submit(payload: ExamSubmitRequest) -> dict:
     started = perf_counter()
     try:
-        result = score_submission(
-            store,
-            [item.model_dump() for item in payload.responses],
-            section=payload.section,
-            mode=payload.mode,
-            task_type=payload.task_type,
-            count=payload.count,
-            question_ids=payload.question_ids,
-        )
+        result = save_submission(payload)
     except ValueError as exc:
         raise HTTPException(status_code=422, detail=str(exc)) from exc
-    result = save_submission(payload, result)
     logger.info(
         "Submission scored section=%s mode=%s task=%s received=%d answered=%d total=%d elapsed_ms=%.1f",
         payload.section,

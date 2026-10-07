@@ -62,6 +62,7 @@ async function allTaskFlows(page) {
     `${Math.floor(seconds / 60) ? `${Math.floor(seconds / 60)} 分钟` : ''}${seconds % 60 ? `${seconds >= 60 ? ' ' : ''}${seconds % 60} 秒` : ''}`;
   for (const [section, tasks] of Object.entries(settings)) {
     for (const [task, counts] of Object.entries(tasks)) {
+      if (results.length) await page.goto('/');
       const count = counts.at(-1);
       await openSettings(page, section, task, count);
       const config = meta.sections[section].practice_tasks[task];
@@ -147,6 +148,20 @@ async function allTaskFlows(page) {
       assert.equal(scored.total_questions, selected.total);
       assert.equal(scored.answered_questions, 1);
       assert.equal(scored.feedback[0].question_id, selected.questions[0].id);
+      const reviewGroups = [...Map.groupBy(selected.questions, (q) => q.group_id || q.id).values()];
+      const expectedDifficulty = (questions) =>
+        questions.map(
+          (question) =>
+            `${task === 'complete_words' ? '' : '难度：'}${{ easy: 'Easy', medium: 'Medium', hard: 'Hard' }[question.difficulty]}`,
+        );
+      for (const [index, questions] of reviewGroups.entries()) {
+        if (reviewGroups.length > 1) await page.locator(`[data-review-index="${index}"]`).click();
+        assert.deepEqual(
+          await page.locator('#result-view .review-difficulty').allTextContents(),
+          expectedDifficulty(questions),
+        );
+      }
+      if (reviewGroups.length > 1) await page.locator('[data-review-index="0"]').click();
       if (selected.questions[0].response_type === 'choice') {
         const feedback = scored.feedback[0];
         const options = page.locator('.review-original').first().locator('.review-options li');
@@ -198,6 +213,12 @@ async function allTaskFlows(page) {
         );
         await page.locator('#review-index button').first().click();
       }
+      await page.reload();
+      await page.locator('#result-view').waitFor({ state: 'visible' });
+      assert.deepEqual(
+        await page.locator('#result-view .review-difficulty').allTextContents(),
+        expectedDifficulty(reviewGroups[0]),
+      );
       results.push({ section, task, count, questions: selected.total, reviewed: true });
     }
   }

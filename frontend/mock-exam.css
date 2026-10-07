@@ -463,6 +463,15 @@ button:disabled {
 .mock-native-answer h3 {
   margin-top: 0;
 }
+.mock-material h3,
+.mock-reading-cloze h3 {
+  font-size: 1.4rem;
+  text-align: center;
+}
+.mock-material:has(> h3) > p,
+.mock-cloze-text {
+  text-indent: 2em;
+}
 .mock-native-answer .mock-choice {
   display: flex;
   border: 1px solid var(--rule);
@@ -489,6 +498,7 @@ button:disabled {
 }
 .mock-letter-input {
   display: inline-block;
+  text-indent: 0;
   min-width: 2ch;
   max-width: 14ch;
   border: 0;

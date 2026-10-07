@@ -99,9 +99,9 @@ def listening_items(text, keys, prefix):
     return items
 
 
-def import_paper(number):
+def read_paper(number, doc):
+    """Extract and validate one paper without changing imported files."""
     path = SOURCE / f'test-{number}.pdf'
-    doc = pymupdf.open(path)
     paper_id = f'ets-test-{number}'
     pages, keys, section, module = {}, {}, None, None
     for index, page in enumerate(doc):
@@ -120,12 +120,9 @@ def import_paper(number):
                 (section, module if section in ('reading', 'listening') else 0), []
             ).append(index)
     phases, private = [], {}
-    asset_dir = OUTPUT / 'pages' / paper_id
-    asset_dir.mkdir(parents=True, exist_ok=True)
 
-    def image(index):
+    def page_info(index):
         name = f'page-{index + 1}.png'
-        doc[index].get_pixmap(matrix=pymupdf.Matrix(1.45, 1.45)).save(asset_dir / name)
         return {
             'url': f'/mock-pages/{paper_id}/{name}',
             'page': index + 1,
@@ -151,7 +148,7 @@ def import_paper(number):
                 'items': [],
             }
             if section == 'reading':
-                phase['pages'] = [image(i) for i in selected]
+                phase['pages'] = [page_info(i) for i in selected]
                 phase['items'] = [
                     {
                         'id': f'{prefix}-{n}',
@@ -200,7 +197,7 @@ def import_paper(number):
                     'discussion': 'Academic Discussion',
                 }[task],
                 'seconds': seconds,
-                'pages': [image(i) for i in chosen],
+                'pages': [page_info(i) for i in chosen],
                 'items': items,
             }
         )
@@ -247,16 +244,47 @@ def import_paper(number):
         'phases': phases,
     }
     enrich_paper(paper, doc)
-    (OUTPUT / f'{paper_id}.json').write_text(
-        json.dumps(paper, ensure_ascii=False, indent=2), encoding='utf-8'
-    )
+    return paper, private
+
+
+def import_paper(number):
+    with pymupdf.open(SOURCE / f'test-{number}.pdf') as document:
+        paper, private = read_paper(number, document)
+        images = {}
+        for phase in paper['phases']:
+            for page in phase['pages']:
+                page_number = page['page']
+                pixmap = document[page_number - 1].get_pixmap(matrix=pymupdf.Matrix(1.45, 1.45))
+                images[page_number] = pixmap.tobytes('png')
+    paper_json = json.dumps(paper, ensure_ascii=False, indent=2)
+    answers_json = json.dumps(private, ensure_ascii=False, indent=2)
+
+    paper_id = paper['id']
+    asset_dir = OUTPUT / 'pages' / paper_id
+    asset_dir.mkdir(parents=True, exist_ok=True)
+    for page_number, image_bytes in images.items():
+        (asset_dir / f'page-{page_number}.png').write_bytes(image_bytes)
+    (OUTPUT / f'{paper_id}.json').write_text(paper_json, encoding='utf-8')
     answers_dir = ROOT / 'question_bank' / 'answers' / 'mock'
     answers_dir.mkdir(parents=True, exist_ok=True)
-    (answers_dir / f'{paper_id}.json').write_text(
-        json.dumps(private, ensure_ascii=False, indent=2), encoding='utf-8'
-    )
-    print(paper_id, [(p['title'], len(p['items'])) for p in phases])
+    (answers_dir / f'{paper_id}.json').write_text(answers_json, encoding='utf-8')
+    print(paper_id, [(p['title'], len(p['items'])) for p in paper['phases']])
     return paper
+
+
+def rebuild_question_screens(number):
+    target = OUTPUT / f'ets-test-{number}.json'
+    paper = json.loads(target.read_text(encoding='utf-8'))
+    source = SOURCE / f'test-{number}.pdf'
+    if hashlib.sha256(source.read_bytes()).hexdigest() != paper['source_sha256']:
+        raise ValueError(
+            f'{target.name}: source PDF differs from the imported paper; '
+            'run a full import and review before rebuilding question screens.'
+        )
+    with pymupdf.open(source) as document:
+        enrich_paper(paper, document)
+    target.write_text(json.dumps(paper, ensure_ascii=False, indent=2), encoding='utf-8')
+    print(target.name, 'structured question screens updated')
 
 
 if __name__ == '__main__':
@@ -268,11 +296,6 @@ if __name__ == '__main__':
     OUTPUT.mkdir(parents=True, exist_ok=True)
     for number in range(1, 6):
         if args.structured_only:
-            target = OUTPUT / f'ets-test-{number}.json'
-            paper = json.loads(target.read_text(encoding='utf-8'))
-            with pymupdf.open(SOURCE / f'test-{number}.pdf') as document:
-                enrich_paper(paper, document)
-            target.write_text(json.dumps(paper, ensure_ascii=False, indent=2), encoding='utf-8')
-            print(target.name, 'structured question screens updated')
+            rebuild_question_screens(number)
         else:
             import_paper(number)
