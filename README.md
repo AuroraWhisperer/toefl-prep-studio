@@ -22,12 +22,12 @@
   <a href="#题型预览">题型预览</a> ·
   <a href="#使用须知">使用须知</a> ·
   <a href="#文档导航">文档导航</a> ·
-  <a href="https://github.com/AuroraWhisperer/toefl-prep-studio/releases">版本管理（v1.3.0）</a>
+  <a href="https://github.com/AuroraWhisperer/toefl-prep-studio/releases">版本管理（v1.4.0）</a>
 </p>
 
 </div>
 
-**v1.3.0 更新：** 为全部 270 篇原创补词提供交卷后的中文参考译文，复盘显示题目难度，造句支持词块位置核对；改善复盘布局与滚动，修复页面切换、交卷重试、撇号评分和模考导入问题。详见[更新说明](docs/releases/v1.3.0.md)。
+**v1.4.0 更新：** 新增「语法与搭配」学习页，提供 24 个主题、400 个知识点和 453 组双语例句；造句题由 150 扩至 450 题，原创题库共 6,045 题。全部 510 道听答题支持交卷后的中文译文，改进听力与新增造句题的中文解析，并复核合理词序和难度。详见[更新说明](docs/releases/v1.4.0.md)。
 
 ## 快速开始
 
@@ -106,13 +106,13 @@ python -m venv .venv
 
 ## 题库覆盖
 
-原创练习库有 **5,745 道练习小题，覆盖 12 种题型**。在难度与设计修订基础上，补词扩至 **270 篇／2,700 空**，听后复述扩至 **45 组／315 句**，访谈扩至 **45 组／180 问**，均为本轮扩充前的三倍。各档保留词汇、语法、搭配与语境，按实际作答负担分级，不强制各档占比。见[本轮扩充与验证](docs/question-bank/cloze-speaking-expansion-2026-10-05.md)和[出题原则](AGENTS.md#question-design-principles)。下面的「整科题数」指一次固定整科练习的题量。
+原创练习库有 **6,045 道练习小题，覆盖 12 种题型**。造句题由 150 扩至 **450 题**，新增内容覆盖陈述与疑问语序、从句、时态与被动、非谓语、比较及条件关系；见[造句扩充与验证](docs/question-bank/sentence-expansion-2026-10-07.md)。补词已有 **270 篇／2,700 空**，听后复述 **45 组／315 句**，访谈 **45 组／180 问**；见[此前扩充报告](docs/question-bank/cloze-speaking-expansion-2026-10-05.md)。各档保留词汇、语法、搭配与语境，按实际作答负担分级，不强制各档占比，详见[出题原则](AGENTS.md#question-design-principles)。下面的「整科题数」指一次固定整科练习的题量。
 
 | 科目 | 原创题数 | 整科题数 | 题型 |
 | :--- | ---: | ---: | :--- |
 | **阅读** | **3,390** | 50 | 补词 · 日常生活阅读 · 学术文章 |
 | **听力** | **1,410** | 47 | 应答 · 对话 · 公告 · 学术讲座 |
-| **写作** | **450** | 12 | 造句 · 邮件 · 学术讨论 |
+| **写作** | **750** | 12 | 造句 · 邮件 · 学术讨论 |
 | **口语** | **495** | 11 | 听后复述 · 模拟访谈 |
 
 ETS 模考试卷独立存放，不参与原创练习抽题。题面与答案键分开保存，评分在服务端完成。来源、审阅和生成流程见[题库维护文档](question_bank/README.md)。
@@ -257,6 +257,7 @@ ETS 模考试卷独立存放，不参与原创练习抽题。题面与答案键�
   <tbody>
     <tr><td><a href="docs/technical/development.md"><strong>开发指南</strong></a></td><td>环境配置、启动排查、测试与格式化</td></tr>
     <tr><td><a href="docs/toefl-2026-guide.md"><strong>2026 新托福指南</strong></a></td><td>12 种题型的题量、时间依据与本地练习预算核查；首页右上角可打开指南</td></tr>
+    <tr><td><a href="docs/grammar-and-collocations.md"><strong>语法与搭配</strong></a></td><td>首页小入口打开托福学习页：24 个主题、400 个知识点、453 组双语例句，聚焦组句、补词、理解与表达，支持分类和中英搜索</td></tr>
     <tr><td><a href="PRODUCT.md"><strong>产品规范</strong></a></td><td>功能行为、练习规则与能力边界</td></tr>
     <tr><td><a href="DESIGN.md"><strong>设计规范</strong></a></td><td>视觉语言、页面布局与键鼠交互</td></tr>
     <tr><td><a href="docs/technical/architecture.md"><strong>系统架构</strong></a></td><td>技术栈、模块职责、数据流与存储</td></tr>

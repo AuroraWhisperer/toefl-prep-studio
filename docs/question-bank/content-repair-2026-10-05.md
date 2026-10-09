@@ -55,4 +55,4 @@ W44 新增“course 后先放院系范围、再接关系从句”的词序；W17
 
 本轮已处理复核中确认的内容缺陷。测试通过与文本复核不等于 ETS 心理测量标定，也不证明语音逐句发音、语调和真实限时听辨均已验证；造句的接受答案仍非所有可能合法表达的穷举。
 
-本机原始审查保存在 `artifacts/qa/content-difficulty-2026-10-05/`；修订批次、3,615 题台账、基线指纹、前后统计、测试日志与截图保存在 `artifacts/qa/content-repair-2026-10-05/`。这些运行资料由 Git 忽略；本报告、来源记录和逐题 catalogue 随源码维护。
+本机原始审查保存在 `tmp/cleanup-2026-10-09/artifacts/qa/content-difficulty-2026-10-05/`；修订批次、3,615 题台账、基线指纹、前后统计、测试日志与截图保存在 `tmp/cleanup-2026-10-09/artifacts/qa/content-repair-2026-10-05/`。这些运行资料由 Git 忽略；本报告、来源记录和逐题 catalogue 随源码维护。

@@ -9238,6 +9238,9032 @@
         "把交流目标落实为合作任务",
         "限定替代方案的收益与边界"
       ]
+    },
+    {
+      "id": "W451",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can visitors borrow books from this library?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Visitors ",
+        " ",
+        " ",
+        " ",
+        " from this library."
+      ],
+      "word_bank": [
+        "a temporary card",
+        "to borrow",
+        "need",
+        "books"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "动词不定式表示目的",
+        "动宾结构"
+      ]
+    },
+    {
+      "id": "W452",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Is anyone using the small rehearsal room?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "are",
+        "for",
+        "available",
+        "another hour",
+        "The room",
+        "is"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "主谓一致",
+        "介词搭配"
+      ]
+    },
+    {
+      "id": "W453",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why is your backpack still here?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "it up",
+        "am waiting",
+        "to pick",
+        "my roommate",
+        "for"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "等待某人做某事",
+        "不定式动作主体"
+      ]
+    },
+    {
+      "id": "W454",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Will the campus shop accept cash?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "It ",
+        " ",
+        " ",
+        " ",
+        " after six."
+      ],
+      "word_bank": [
+        "accept",
+        "accepts",
+        "cash",
+        "does",
+        "not"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "一般现在时否定",
+        "助动词后原形"
+      ]
+    },
+    {
+      "id": "W455",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Which desk should I use to collect my parcel?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Please ",
+        " ",
+        " ",
+        " ",
+        " on the left."
+      ],
+      "word_bank": [
+        "to",
+        "the desk",
+        "your collection notice",
+        "take"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "祈使句",
+        "方向介词"
+      ]
+    },
+    {
+      "id": "W456",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Do I need to buy a notebook for the workshop?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "we",
+        "use",
+        "using",
+        "the paper",
+        "can",
+        "provide",
+        "You"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "情态动词后原形",
+        "省略关系词的定语从句"
+      ]
+    },
+    {
+      "id": "W457",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "How often does the student newspaper come out?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "It ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "is published",
+        "every",
+        "once",
+        "two weeks"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "一般现在时被动",
+        "频率表达"
+      ]
+    },
+    {
+      "id": "W458",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Are the chairs in the hallway for our club meeting?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the music department",
+        "Those",
+        "to",
+        "belongs",
+        "belong",
+        "chairs"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "主谓一致",
+        "动词介词搭配"
+      ]
+    },
+    {
+      "id": "W459",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I cannot hear the recording through these headphones.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "Have",
+        "them",
+        "you",
+        "the correct socket",
+        "plugged",
+        "into"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "现在完成时疑问句",
+        "代词指代"
+      ]
+    },
+    {
+      "id": "W460",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "When is the next student council election?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " of November."
+      ],
+      "word_bank": [
+        "will",
+        "takes place",
+        "at the end",
+        "It",
+        "take place"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "将来时",
+        "时间短语"
+      ]
+    },
+    {
+      "id": "W461",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are there no towels by the pool?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "The staff ",
+        " ",
+        " ",
+        " ",
+        " yet."
+      ],
+      "word_bank": [
+        "downstairs",
+        "brought",
+        "have not",
+        "the clean ones"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "现在完成时否定",
+        "替代词指代"
+      ]
+    },
+    {
+      "id": "W462",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can I leave my bicycle beside this entrance?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " be ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "must",
+        "Bicycles",
+        "the residence hall",
+        "behind",
+        "parked",
+        "are"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "情态动词被动语态",
+        "地点介词"
+      ]
+    },
+    {
+      "id": "W463",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the cashier give you another receipt?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "The first one ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "showed",
+        "not",
+        "the student discount",
+        "did",
+        "show"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "过去时否定",
+        "代词指代"
+      ]
+    },
+    {
+      "id": "W464",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Is this the only printer students can use?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the floor above",
+        "There",
+        "on",
+        "another one",
+        "is"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "存在句",
+        "不定代词"
+      ]
+    },
+    {
+      "id": "W465",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I missed the first bus to the nature reserve.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "you",
+        "How long",
+        "have",
+        "does",
+        "to wait",
+        "for the next one",
+        "do"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "特殊疑问句",
+        "等待时间"
+      ]
+    },
+    {
+      "id": "W466",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Did your sister find a seat at the talk?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "She ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "able",
+        "the front",
+        "to sit",
+        "near",
+        "was"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "过去的能力表达",
+        "地点短语"
+      ]
+    },
+    {
+      "id": "W467",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Are these spare keys for the equipment cabinet?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the cabinet",
+        "The smaller key",
+        "beside",
+        "opens",
+        "open",
+        "the sink"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "一般现在时主谓一致",
+        "后置地点修饰"
+      ]
+    },
+    {
+      "id": "W468",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I have not received my course confirmation.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "check",
+        "the address",
+        "on your application",
+        "checking",
+        "You",
+        "should"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "情态动词建议",
+        "名词后置修饰"
+      ]
+    },
+    {
+      "id": "W469",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Who can show me how the scanner works?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the information desk",
+        "the assistant",
+        "at",
+        "Ask"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "祈使句",
+        "介词短语修饰"
+      ]
+    },
+    {
+      "id": "W470",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are you taking the stairs?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "The elevator ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "service",
+        "being",
+        "been",
+        "since Monday",
+        "has",
+        "out of"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "现在完成时",
+        "起始时间"
+      ]
+    },
+    {
+      "id": "W471",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Is the pottery class suitable for beginners?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "this class",
+        "for",
+        "required",
+        "No previous experience",
+        "is"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "否定限定词",
+        "被动语态"
+      ]
+    },
+    {
+      "id": "W472",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why is the lecture starting late?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the locked room",
+        "outside",
+        "Several students",
+        "is",
+        "are",
+        "still waiting"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "现在进行时",
+        "主谓一致"
+      ]
+    },
+    {
+      "id": "W473",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Does the laboratory supply safety glasses?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "have to",
+        "of safety glasses",
+        "Every student",
+        "bring",
+        "a pair",
+        "has",
+        "to"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "不定限定词与主谓一致",
+        "义务表达"
+      ]
+    },
+    {
+      "id": "W474",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I am worried that the bus will be crowded.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "Why",
+        "a little earlier",
+        "leave",
+        "we",
+        "don't"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "建议性疑问句",
+        "比较级修饰"
+      ]
+    },
+    {
+      "id": "W475",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Did the club members agree on a venue?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " the room ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "with",
+        "windows",
+        "chose",
+        "They",
+        "the largest"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "过去时陈述句",
+        "名词修饰"
+      ]
+    },
+    {
+      "id": "W476",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can I use this dictionary during the quiz?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "printed dictionaries",
+        "Only",
+        "are allowed",
+        "during",
+        "the quiz",
+        "is allowed"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "主谓一致",
+        "限制范围"
+      ]
+    },
+    {
+      "id": "W477",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "What is wrong with the online form?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "It ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "I",
+        "unless",
+        "enter",
+        "my changes",
+        "a phone number",
+        "save",
+        "will not"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "条件从句",
+        "否定条件"
+      ]
+    },
+    {
+      "id": "W478",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you choose the afternoon appointment?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "It ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "there",
+        "after class",
+        "gives",
+        "to get",
+        "enough time",
+        "me"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "双宾语",
+        "不定式修饰时间"
+      ]
+    },
+    {
+      "id": "W479",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Where can students refill their water bottles?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "has",
+        "installed",
+        "A drinking fountain",
+        "have been installed",
+        "next to",
+        "the main staircase",
+        "been"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "完成时被动",
+        "主谓一致"
+      ]
+    },
+    {
+      "id": "W480",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Should we move these plants outside now?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the weather",
+        "stay",
+        "indoors",
+        "improves",
+        "They",
+        "until",
+        "need to"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "时间从句",
+        "动词不定式"
+      ]
+    },
+    {
+      "id": "W481",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I have been looking everywhere for my student ID.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " of your coat?"
+      ],
+      "word_bank": [
+        "it",
+        "in",
+        "the pocket",
+        "be",
+        "Could"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "情态动词疑问句",
+        "所属关系"
+      ]
+    },
+    {
+      "id": "W482",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you submit the travel request for your supervisor?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to submit",
+        "My supervisor",
+        "it",
+        "me",
+        "asked",
+        "on her behalf"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "动词加宾语加不定式",
+        "代办表达"
+      ]
+    },
+    {
+      "id": "W483",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can everyone see the demonstration from here?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "too small",
+        "is",
+        "The screen",
+        "for",
+        "to read",
+        "people at the back"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "too...to结构",
+        "逻辑主语"
+      ]
+    },
+    {
+      "id": "W484",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "What should we do with the survey sheets?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Please ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the envelope",
+        "on the desk",
+        "in",
+        "the completed forms",
+        "put"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "祈使句",
+        "地点短语修饰"
+      ]
+    },
+    {
+      "id": "W485",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Is the documentary available with subtitles?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "You",
+        "can",
+        "turns",
+        "turn",
+        "in",
+        "on",
+        "the settings",
+        "them"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "可分短语动词",
+        "情态动词后原形"
+      ]
+    },
+    {
+      "id": "W486",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why has the gallery removed that painting?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "It is ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "by",
+        "a specialist",
+        "being",
+        "been",
+        "cleaned"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "现在进行时被动",
+        "施动者"
+      ]
+    },
+    {
+      "id": "W487",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Did your group need the whole afternoon?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "much sooner",
+        "we",
+        "We",
+        "than",
+        "finished",
+        "expected"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "比较级",
+        "比较从句"
+      ]
+    },
+    {
+      "id": "W488",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I cannot decide between the two accommodation options.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " your classes?"
+      ],
+      "word_bank": [
+        "to",
+        "does",
+        "Which one",
+        "is",
+        "closer"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "特殊疑问句",
+        "比较级搭配"
+      ]
+    },
+    {
+      "id": "W489",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Are we expected to read all the articles tonight?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "The tutor",
+        "the first two",
+        "tomorrow",
+        "assigned",
+        "for",
+        "only"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "范围限定",
+        "省略名词"
+      ]
+    },
+    {
+      "id": "W490",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you bring your own lunch?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "more",
+        "Buying food",
+        "I",
+        "can afford",
+        "cost",
+        "costs",
+        "on campus",
+        "than"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "动名词作主语",
+        "比较结构"
+      ]
+    },
+    {
+      "id": "W491",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can the audience ask questions during the presentation?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "Questions",
+        "should",
+        "the presentation",
+        "is over",
+        "until",
+        "be saved"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "情态动词被动",
+        "时间从句"
+      ]
+    },
+    {
+      "id": "W492",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I would like a room away from the street.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "Would",
+        "one",
+        "you",
+        "the courtyard",
+        "prefer",
+        "facing"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "礼貌疑问句",
+        "现在分词后置修饰"
+      ]
+    },
+    {
+      "id": "W493",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why is your assignment shorter than mine?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " the examples ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "removed",
+        "I",
+        "that",
+        "repeated",
+        "the same point"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "定语从句",
+        "动宾结构"
+      ]
+    },
+    {
+      "id": "W494",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Do the museum tickets cover the special exhibition?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "includes",
+        "does",
+        "to that exhibition",
+        "include",
+        "not",
+        "The ticket price",
+        "admission"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "否定陈述句",
+        "名词介词搭配"
+      ]
+    },
+    {
+      "id": "W495",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Is the outdoor concert likely to be canceled?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "strong",
+        "depends",
+        "on",
+        "how",
+        "That",
+        "the wind becomes"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "介词后的嵌入式问句",
+        "疑问词与程度词"
+      ]
+    },
+    {
+      "id": "W496",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I thought the writing center closed at five.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "exam week",
+        "It",
+        "stays",
+        "an hour later",
+        "open",
+        "during"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "状态动词",
+        "时间比较"
+      ]
+    },
+    {
+      "id": "W497",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the coach ask us to arrive early?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "She",
+        "us",
+        "begins",
+        "before",
+        "to warm up",
+        "wants",
+        "practice"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "动词加宾语加不定式",
+        "时间从句"
+      ]
+    },
+    {
+      "id": "W498",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can I renew this book without visiting the library?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "nobody",
+        "can renew it",
+        "online",
+        "as long as",
+        "it",
+        "has reserved",
+        "You"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "条件从句",
+        "代词指代"
+      ]
+    },
+    {
+      "id": "W499",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Who is responsible for updating the club website?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "in",
+        "charge",
+        "The student",
+        "of publicity",
+        "the updates",
+        "handles"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "主语后置修饰",
+        "in charge of 固定搭配"
+      ]
+    },
+    {
+      "id": "W500",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I have never attended a poster session before.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "like",
+        "you",
+        "to explain",
+        "Would",
+        "me",
+        "works",
+        "it",
+        "how"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "礼貌提议",
+        "宾语与不定式"
+      ]
+    },
+    {
+      "id": "W501",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The shuttle schedule has changed again.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Do you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "on Fridays",
+        "what",
+        "time",
+        "the last shuttle",
+        "does",
+        "know",
+        "leaves"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式问句",
+        "陈述语序"
+      ]
+    },
+    {
+      "id": "W502",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why were you talking to the volunteer coordinator?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " whether ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to find out",
+        "was",
+        "wanted",
+        "required",
+        "training"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式是否问句",
+        "被动语态"
+      ]
+    },
+    {
+      "id": "W503",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The instructions mention a second attachment.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Can you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "located",
+        "it",
+        "does",
+        "where",
+        "me",
+        "show",
+        "is"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "双宾语",
+        "嵌入式地点问句"
+      ]
+    },
+    {
+      "id": "W504",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "What did the new student ask about lunch?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "She asked ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "serves",
+        "meals",
+        "the cafeteria",
+        "on weekends",
+        "whether",
+        "vegetarian"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式是否问句",
+        "时间修饰"
+      ]
+    },
+    {
+      "id": "W505",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Did you understand the registration announcement?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " to upload."
+      ],
+      "word_bank": [
+        "need",
+        "do",
+        "we",
+        "am not sure",
+        "which documents"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式宾语问句",
+        "不定式补语"
+      ]
+    },
+    {
+      "id": "W506",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the sound technician call?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "He ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "was wondering",
+        "for the panel",
+        "microphones",
+        "we",
+        "would need",
+        "how many"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "数量嵌入式问句",
+        "过去将来时"
+      ]
+    },
+    {
+      "id": "W507",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The bookstore says my order is ready.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Have they ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "told",
+        "should",
+        "you",
+        "you",
+        "which counter",
+        "from",
+        "collect it"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式问句",
+        "介词置于句尾"
+      ]
+    },
+    {
+      "id": "W508",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I am trying to sign up for the field trip.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Do you ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "is",
+        "when",
+        "remember",
+        "closes",
+        "registration"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "嵌入式时间问句",
+        "不及物动词"
+      ]
+    },
+    {
+      "id": "W509",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are you reading the housing contract again?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "who",
+        "is responsible",
+        "to check",
+        "need",
+        "for repairs"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "主语疑问从句",
+        "介词搭配"
+      ]
+    },
+    {
+      "id": "W510",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Did the adviser explain the course prerequisites?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " I ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "explained",
+        "must complete",
+        "She",
+        "which courses",
+        "I can enroll",
+        "before"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式宾语问句",
+        "时间从句"
+      ]
+    },
+    {
+      "id": "W511",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the maintenance team ask to see the leak?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "They ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "been",
+        "needed",
+        "had",
+        "to know",
+        "water",
+        "dripping",
+        "how long"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "间接问句",
+        "过去完成进行时"
+      ]
+    },
+    {
+      "id": "W512",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The art studio has changed its access rules.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Could you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "still",
+        "tell",
+        "me",
+        "do",
+        "guests",
+        "are",
+        "allowed inside",
+        "whether"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式是否问句",
+        "被动语态"
+      ]
+    },
+    {
+      "id": "W513",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "What are you asking the librarian about?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "this journal",
+        "off campus",
+        "to know",
+        "can be",
+        "would like",
+        "accessed",
+        "how"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式方式问句",
+        "情态被动"
+      ]
+    },
+    {
+      "id": "W514",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I cannot find the details about the photography contest.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Do you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "know",
+        "be sent",
+        "to whom",
+        "the entries",
+        "should"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "介词前置的间接问句",
+        "情态被动"
+      ]
+    },
+    {
+      "id": "W515",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the student ask for a sample report?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "He ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "a brief summary",
+        "by",
+        "did not",
+        "understand",
+        "meant",
+        "the instructor",
+        "what"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "宾语从句",
+        "动词介词搭配"
+      ]
+    },
+    {
+      "id": "W516",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I heard that the room booking was rejected.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Has anyone ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "was",
+        "our request",
+        "turned down",
+        "why",
+        "explained"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式原因问句",
+        "短语动词被动"
+      ]
+    },
+    {
+      "id": "W517",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are you checking the wall clock?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " at nine or at nine thirty."
+      ],
+      "word_bank": [
+        "cannot remember",
+        "the exam",
+        "whether",
+        "starts"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "嵌入式选择",
+        "时间表达"
+      ]
+    },
+    {
+      "id": "W518",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "You used the new bicycle repair service last week.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Could you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "for a basic repair",
+        "me",
+        "charged",
+        "how much",
+        "they",
+        "tell"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式数量问句",
+        "收费搭配"
+      ]
+    },
+    {
+      "id": "W519",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "What did the tutor want to clarify?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "She ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "which part",
+        "asked",
+        "confusing",
+        "we",
+        "found",
+        "of the assignment"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式问句",
+        "宾语补足语"
+      ]
+    },
+    {
+      "id": "W520",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "My project partner says the file has disappeared.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "in a different folder",
+        "saved",
+        "she",
+        "wonder",
+        "it",
+        "whether"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式是否问句",
+        "宾语指代"
+      ]
+    },
+    {
+      "id": "W521",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you call the swimming pool?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "if",
+        "lane reservations",
+        "to ask",
+        "wanted",
+        "were necessary"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "嵌入式是否问句",
+        "主句与询问内容衔接"
+      ]
+    },
+    {
+      "id": "W522",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Did the department announce the scholarship results?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "have not heard",
+        "for the award",
+        "who",
+        "been selected",
+        "has"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "主语疑问从句",
+        "完成时被动"
+      ]
+    },
+    {
+      "id": "W523",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The delivery driver is waiting downstairs.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Does he ",
+        " ",
+        " he ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "know",
+        "is supposed",
+        "which entrance",
+        "to",
+        "use",
+        "is"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式宾语问句",
+        "预期与规定"
+      ]
+    },
+    {
+      "id": "W524",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I want to renew my locker rental.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Have you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "the same locker",
+        "next term",
+        "will",
+        "available",
+        "whether",
+        "be",
+        "checked"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式是否问句",
+        "将来时"
+      ]
+    },
+    {
+      "id": "W525",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "What did the organizer ask you to find out?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "She ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "hold",
+        "could",
+        "safely",
+        "to know",
+        "the room",
+        "wanted",
+        "how many people"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式宾语问句",
+        "情态动词"
+      ]
+    },
+    {
+      "id": "W526",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you stay after the statistics class?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " from the table."
+      ],
+      "word_bank": [
+        "the average",
+        "asked",
+        "had been",
+        "calculated",
+        "how"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式方式问句",
+        "过去完成时被动"
+      ]
+    },
+    {
+      "id": "W527",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The new exchange student is looking for her classroom.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Can you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "is",
+        "her",
+        "in",
+        "which building",
+        "her class",
+        "show"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式地点问句",
+        "句末介词"
+      ]
+    },
+    {
+      "id": "W528",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why do you need the original survey form?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to see",
+        "want",
+        "were",
+        "exactly what",
+        "the participants",
+        "asked"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式问句",
+        "被动语态"
+      ]
+    },
+    {
+      "id": "W529",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "What is still unclear about the internship?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "can",
+        "the working hours",
+        "around my classes",
+        "do not know",
+        "whether",
+        "be adjusted"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式是否问句",
+        "情态被动"
+      ]
+    },
+    {
+      "id": "W530",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The seminar recording is online now.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Do you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "discussed",
+        "the survey results",
+        "the speaker",
+        "remember",
+        "at which point"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "介词前置嵌入式问句",
+        "时间定位"
+      ]
+    },
+    {
+      "id": "W531",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are you comparing these two bus maps?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "am",
+        "to work out",
+        "fewer transfers",
+        "trying",
+        "requires",
+        "which route"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "主语疑问从句",
+        "比较数量"
+      ]
+    },
+    {
+      "id": "W532",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Did you understand the revised attendance policy?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "as attendance",
+        "participation",
+        "am unsure",
+        "whether",
+        "counts",
+        "online"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式是否问句",
+        "动词搭配"
+      ]
+    },
+    {
+      "id": "W533",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the interviewer ask about your timetable?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "He ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "was free",
+        "needed",
+        "to know",
+        "on",
+        "I",
+        "which days"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "介词前置嵌入式问句",
+        "过去时"
+      ]
+    },
+    {
+      "id": "W534",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The application asks for a reference letter.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Could you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "who",
+        "explain",
+        "write",
+        "should",
+        "for me",
+        "it"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "主语疑问从句",
+        "情态动词"
+      ]
+    },
+    {
+      "id": "W535",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "What is your question about the experiment?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "why",
+        "would like",
+        "was",
+        "the second reading",
+        "so different",
+        "to understand"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式原因问句",
+        "系表结构"
+      ]
+    },
+    {
+      "id": "W536",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I found two different deadlines on the website.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Can you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "one",
+        "to transfer students",
+        "applies",
+        "which",
+        "confirm"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "主语疑问从句",
+        "动词介词搭配"
+      ]
+    },
+    {
+      "id": "W537",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you email the conference office?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "access",
+        "the registration fee",
+        "whether",
+        "to the recordings",
+        "asked",
+        "included"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式是否问句",
+        "名词介词搭配"
+      ]
+    },
+    {
+      "id": "W538",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The facilities manager wants feedback on the new signs.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Do you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "she",
+        "what",
+        "to comment",
+        "on",
+        "know",
+        "wants",
+        "us"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌套宾语结构",
+        "句末介词"
+      ]
+    },
+    {
+      "id": "W539",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "What did your adviser say about the project title?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " whether ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "asked",
+        "it",
+        "accurately described",
+        "She",
+        "what we had studied"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "两层宾语从句",
+        "从句整体作宾语"
+      ]
+    },
+    {
+      "id": "W540",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you ask for the meeting notes?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "had",
+        "while I was away",
+        "needed",
+        "what",
+        "been decided",
+        "to find out"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "主语疑问从句",
+        "过去完成时被动"
+      ]
+    },
+    {
+      "id": "W541",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can you help me find the right lab manual?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Tell me ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "this term",
+        "are",
+        "taking",
+        "you",
+        "which course"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "祈使句中的嵌入式问句",
+        "进行时"
+      ]
+    },
+    {
+      "id": "W542",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are you contacting the property manager?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the heating",
+        "to check",
+        "remotely",
+        "want",
+        "be turned on",
+        "can",
+        "if"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式是否问句",
+        "情态被动"
+      ]
+    },
+    {
+      "id": "W543",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The professor has offered to discuss our draft.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Have you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "when",
+        "she",
+        "asked",
+        "would",
+        "her",
+        "be available"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式时间问句",
+        "礼貌表达"
+      ]
+    },
+    {
+      "id": "W544",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the guide stop beside the old wall?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "She ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "without modern tools",
+        "it",
+        "wanted",
+        "built",
+        "how",
+        "to explain",
+        "had been"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式方式问句",
+        "过去完成时被动"
+      ]
+    },
+    {
+      "id": "W545",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I am confused about the reading list.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Could you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "which books",
+        "are",
+        "optional",
+        "are",
+        "clarify",
+        "essential",
+        "and which"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "并列嵌入式问句",
+        "省略重复名词"
+      ]
+    },
+    {
+      "id": "W546",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "What did the mechanic ask about your bicycle?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "He ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the brake pads",
+        "replaced",
+        "last",
+        "asked",
+        "when",
+        "I",
+        "had"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式时间问句",
+        "过去完成时"
+      ]
+    },
+    {
+      "id": "W547",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I need to send these samples to another department.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Find out ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "whether",
+        "refrigerated",
+        "they",
+        "during transport",
+        "need",
+        "to be"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式是否问句",
+        "不定式被动"
+      ]
+    },
+    {
+      "id": "W548",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the resident adviser come by?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "She ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "had",
+        "was checking",
+        "received",
+        "the evacuation instructions",
+        "we",
+        "whether"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式是否问句",
+        "过去完成时"
+      ]
+    },
+    {
+      "id": "W549",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The archive has moved some of its collections.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Do you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "that",
+        "we requested",
+        "have",
+        "any idea",
+        "are now stored",
+        "the photographs",
+        "where"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式问句",
+        "定语从句与主句边界"
+      ]
+    },
+    {
+      "id": "W550",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why is the committee asking for a revised budget?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "It ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "could reduce",
+        "needs",
+        "affecting safety",
+        "we",
+        "which costs",
+        "without",
+        "to know"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式宾语问句",
+        "介词加动名词"
+      ]
+    },
+    {
+      "id": "W551",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Which version of the map should we print?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Use ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the version",
+        "shows",
+        "the temporary entrance",
+        "that"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "限制性定语从句",
+        "关系词作主语"
+      ]
+    },
+    {
+      "id": "W552",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you choose that research supervisor?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Her ",
+        " ",
+        " ",
+        " is ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "work",
+        "to my interests",
+        "urban gardens",
+        "on",
+        "closely related"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "主语后置修饰",
+        "形容词介词搭配"
+      ]
+    },
+    {
+      "id": "W553",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Who is the student standing by the stage?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "whose",
+        "the competition",
+        "is",
+        "won",
+        "the person",
+        "photographs",
+        "She"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "所属关系定语从句",
+        "系表结构"
+      ]
+    },
+    {
+      "id": "W554",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are those boxes marked with red labels?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "They ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "with care",
+        "be handled",
+        "must",
+        "that",
+        "equipment",
+        "contain"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "定语从句",
+        "情态被动"
+      ]
+    },
+    {
+      "id": "W555",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Which of these forms should visiting students complete?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "is",
+        "they",
+        "need",
+        "The form",
+        "the one",
+        "with the blue heading"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "后置修饰",
+        "省略关系词的定语从句"
+      ]
+    },
+    {
+      "id": "W556",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I met someone who studies the same subject as you.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Was it ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "the presentation",
+        "the student",
+        "on renewable energy",
+        "gave",
+        "who"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "疑问句中的定语从句",
+        "关系词作主语"
+      ]
+    },
+    {
+      "id": "W557",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why was the museum courtyard closed?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "A ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "was being",
+        "that",
+        "by the storm",
+        "had been",
+        "damaged",
+        "removed",
+        "tree"
+      ],
+      "difficulty": "hard",
+      "skills": [
+        "定语从句边界",
+        "两种被动时态"
+      ]
+    },
+    {
+      "id": "W558",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Where will the peer tutors meet their students?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "They ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "where",
+        "meets",
+        "the room",
+        "will use",
+        "usually",
+        "the book club"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "地点定语从句",
+        "频率副词"
+      ]
+    },
+    {
+      "id": "W559",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "What happened to the chairs we ordered?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "The ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "supplier",
+        "to replace them",
+        "has",
+        "promised",
+        "we",
+        "contacted",
+        "that"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "定语从句",
+        "主谓一致"
+      ]
+    },
+    {
+      "id": "W560",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why is this part of the questionnaire blank?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "It ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "that",
+        "living",
+        "is",
+        "applies",
+        "off campus",
+        "the section",
+        "only to students"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "定语从句",
+        "分词后置修饰"
+      ]
+    },
+    {
+      "id": "W561",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Which office handles requests for accessible seating?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "office",
+        "can",
+        "help you",
+        "whose",
+        "is",
+        "The coordinator",
+        "beside the auditorium"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "所属关系定语从句",
+        "主句边界"
+      ]
+    },
+    {
+      "id": "W562",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you keep the receipt for the calculator?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "It ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "that",
+        "the proof of purchase",
+        "need",
+        "for a refund",
+        "is",
+        "I"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "宾语关系从句",
+        "用途表达"
+      ]
+    },
+    {
+      "id": "W563",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Who arranged the campus cleanup?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "by students",
+        "who",
+        "It",
+        "in the neighborhood",
+        "live",
+        "was organized"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "被动语态",
+        "定语从句"
+      ]
+    },
+    {
+      "id": "W564",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why is the old timetable still on the noticeboard?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "The person ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "responsible for",
+        "away",
+        "it",
+        "has been",
+        "all week",
+        "updating"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "形容词后置修饰",
+        "介词加动名词"
+      ]
+    },
+    {
+      "id": "W565",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Where can I find the handouts from yesterday?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "in the folder",
+        "need",
+        "marked Workshop Materials",
+        "is",
+        "Everything",
+        "you"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "省略关系词的定语从句",
+        "过去分词修饰"
+      ]
+    },
+    {
+      "id": "W566",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why was your proposal returned for revision?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "The committee ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "included",
+        "a plan",
+        "a clearer timeline",
+        "wanted",
+        "that"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "定语从句",
+        "过去时"
+      ]
+    },
+    {
+      "id": "W567",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Which photograph should we use for the poster?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Choose ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "one",
+        "which",
+        "everyone",
+        "the camera",
+        "is facing",
+        "in"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "介词加关系代词",
+        "进行时"
+      ]
+    },
+    {
+      "id": "W568",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are you looking for a larger room?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "The number ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "our expectations",
+        "of students",
+        "who",
+        "has exceeded",
+        "have exceeded",
+        "registered"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "主语中心词",
+        "定语从句干扰"
+      ]
+    },
+    {
+      "id": "W569",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "What does the blue sticker on this book mean?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "It ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "cannot",
+        "taken",
+        "out of the library",
+        "be",
+        "books",
+        "identifies",
+        "that"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "定语从句",
+        "情态被动否定"
+      ]
+    },
+    {
+      "id": "W570",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Which bus stop is closest to the community garden?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Use ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the building",
+        "the stop",
+        "are held",
+        "the evening classes",
+        "where",
+        "opposite"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "多层名词修饰",
+        "地点定语从句"
+      ]
+    },
+    {
+      "id": "W571",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you choose a course with weekly quizzes?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "learn",
+        "I",
+        "when",
+        "review",
+        "better",
+        "I",
+        "regularly",
+        "the material"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "时间条件从句",
+        "频率表达"
+      ]
+    },
+    {
+      "id": "W572",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Will the campus tour continue in the rain?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "The tour ",
+        " ",
+        " unless ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the weather",
+        "becomes",
+        "go ahead",
+        "will",
+        "dangerous"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "否定条件从句",
+        "主将从现"
+      ]
+    },
+    {
+      "id": "W573",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the lecturer post the slides before class?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "She ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "questions",
+        "could prepare",
+        "to read them",
+        "wanted",
+        "we",
+        "so that",
+        "us"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "宾语加不定式",
+        "目的从句"
+      ]
+    },
+    {
+      "id": "W574",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can I enter the makerspace before the supervisor arrives?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "You ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "wait",
+        "a supervisor",
+        "must",
+        "outside",
+        "is present",
+        "until"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "时间从句",
+        "义务表达"
+      ]
+    },
+    {
+      "id": "W575",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you take notes instead of recording the interview?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        ", ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to take notes",
+        "was permitted",
+        "but",
+        "I",
+        "preferred",
+        "Although",
+        "recording"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "让步从句",
+        "不定式补语"
+      ]
+    },
+    {
+      "id": "W576",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Should we start setting up the display now?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "We ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the tables",
+        "as soon as",
+        "has",
+        "can begin",
+        "cleared",
+        "the previous group"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "时间从句",
+        "完成先后"
+      ]
+    },
+    {
+      "id": "W577",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are you bringing a paper copy of the directions?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "am bringing",
+        "my phone",
+        "it",
+        "runs out of power",
+        "I",
+        "in case"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "预防性条件从句",
+        "准备措施与可能情况"
+      ]
+    },
+    {
+      "id": "W578",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Will taking this class delay your graduation?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "It",
+        "on time",
+        "I complete",
+        "the other requirements",
+        "will not",
+        "as long as"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "条件从句",
+        "省略谓语"
+      ]
+    },
+    {
+      "id": "W579",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the team check the instrument?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        ", ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the first reading",
+        "checked",
+        "seemed unusual",
+        "Because",
+        "the instrument",
+        "we"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "原因从句",
+        "系表结构"
+      ]
+    },
+    {
+      "id": "W580",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can we reserve the hall without paying today?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "The booking ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "has been received",
+        "will not",
+        "be confirmed",
+        "the deposit",
+        "until"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "时间从句",
+        "完成时被动"
+      ]
+    },
+    {
+      "id": "W581",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did your group choose a local supplier?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        ", ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "was",
+        "Even though",
+        "much faster",
+        "delivery",
+        "was higher",
+        "the price",
+        "but"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "让步从句",
+        "比较级"
+      ]
+    },
+    {
+      "id": "W582",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Do we need permission to photograph the collection?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "You ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "provided that",
+        "a flash",
+        "take photographs",
+        "may",
+        "do not",
+        "use",
+        "you"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "条件从句",
+        "否定范围"
+      ]
+    },
+    {
+      "id": "W583",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you wait to send the group email?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " that ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "wanted",
+        "to the new time",
+        "had agreed",
+        "to make sure",
+        "everyone"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "宾语从句",
+        "过去完成时"
+      ]
+    },
+    {
+      "id": "W584",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Will we be able to hear each other in that café?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "It",
+        "avoid the lunch rush",
+        "quiet",
+        "should be",
+        "if",
+        "enough",
+        "we"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "条件从句",
+        "形容词加enough"
+      ]
+    },
+    {
+      "id": "W585",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why does the practice room have a clock outside?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "Students",
+        "is left",
+        "before their booking ends",
+        "can",
+        "see",
+        "how much time"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式主语问句",
+        "时间从句"
+      ]
+    },
+    {
+      "id": "W586",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Could we submit the report a day later?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        ", ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the figures again",
+        "we",
+        "could",
+        "had",
+        "more time",
+        "If",
+        "we",
+        "check"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "非真实条件",
+        "情态结果"
+      ]
+    },
+    {
+      "id": "W587",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are the two research groups sharing a workspace?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "work on separate projects",
+        "while",
+        "can",
+        "exchange ideas",
+        "They",
+        "they"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "时间从句",
+        "同时关系"
+      ]
+    },
+    {
+      "id": "W588",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Do I need to print the online ticket?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "it",
+        "There is no need",
+        "can display",
+        "to print it",
+        "you",
+        "if",
+        "on your phone"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "存在句与不定式",
+        "条件从句"
+      ]
+    },
+    {
+      "id": "W589",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the librarian ask for the article title?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " once ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "more accurately",
+        "could search",
+        "She",
+        "she",
+        "knew the exact title"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "时间从句",
+        "过去时一致"
+      ]
+    },
+    {
+      "id": "W590",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Will there be room for everyone at the workshop?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        ", ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "a second session",
+        "will need",
+        "we",
+        "sign up",
+        "more students",
+        "If"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "真实条件",
+        "主将从现"
+      ]
+    },
+    {
+      "id": "W591",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you turn down the weekend shift?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "made",
+        "I",
+        "I",
+        "because",
+        "could not accept it",
+        "other plans",
+        "had already"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "原因从句",
+        "过去完成时"
+      ]
+    },
+    {
+      "id": "W592",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can we use the survey results in our presentation?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "must mention",
+        "surveyed",
+        "that",
+        "only a small group",
+        "we",
+        "was",
+        "Yes, but"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "宾语从句",
+        "范围限制与被动"
+      ]
+    },
+    {
+      "id": "W593",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the club move its meeting online?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "if",
+        "had met",
+        "would have",
+        "Several members",
+        "on campus",
+        "missed",
+        "we",
+        "it"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "过去反事实条件",
+        "完成时"
+      ]
+    },
+    {
+      "id": "W594",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Should we send invitations before the room is confirmed?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "where",
+        "the event will be held",
+        "we",
+        "I",
+        "know",
+        "until",
+        "would rather wait"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "偏好表达",
+        "嵌套地点问句"
+      ]
+    },
+    {
+      "id": "W595",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the lecturer use a diagram?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "It ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the process",
+        "a written description did",
+        "made",
+        "than",
+        "to understand",
+        "easier"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "宾语补足语",
+        "比较从句省略"
+      ]
+    },
+    {
+      "id": "W596",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Will the practice interview be recorded?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " only if ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "you",
+        "will be",
+        "It",
+        "recorded",
+        "give your permission"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "必要条件",
+        "被动语态"
+      ]
+    },
+    {
+      "id": "W597",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why was the deadline extended for all students?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "tried",
+        "The system",
+        "was unavailable",
+        "when",
+        "their work",
+        "to submit",
+        "most students"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "时间从句",
+        "不定式补语"
+      ]
+    },
+    {
+      "id": "W598",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can students suggest topics for the guest lecture?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " as long as ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "they",
+        "The committee",
+        "suggestions",
+        "welcomes",
+        "relate to the course"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "条件从句",
+        "代词指代"
+      ]
+    },
+    {
+      "id": "W599",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Did the architect redesign the whole building?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        ", ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "Although",
+        "the interior",
+        "remained",
+        "unchanged",
+        "was redesigned",
+        "the entrance",
+        "but"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "让步从句",
+        "系表结构"
+      ]
+    },
+    {
+      "id": "W600",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Will our presentation make sense without the video?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " provided we ",
+        "."
+      ],
+      "word_bank": [
+        "It",
+        "explain the example carefully",
+        "still be",
+        "should",
+        "clear"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "情态系表结构",
+        "条件从句衔接"
+      ]
+    },
+    {
+      "id": "W601",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The repair shop says my laptop is ready.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "Have",
+        "replaced",
+        "the keyboard",
+        "just cleaned it",
+        "they",
+        "or"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "现在完成时疑问句",
+        "并列动作"
+      ]
+    },
+    {
+      "id": "W602",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I am planning to join the debate club.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "during the semester",
+        "the club",
+        "does",
+        "How often",
+        "meets",
+        "meet"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "特殊疑问句",
+        "助动词后原形"
+      ]
+    },
+    {
+      "id": "W603",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The projector stopped working halfway through my talk.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "Were",
+        "when it happened",
+        "your own cable",
+        "using",
+        "you"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "过去进行时疑问句",
+        "时间从句"
+      ]
+    },
+    {
+      "id": "W604",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I need to move the interview to another day.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "more convenient",
+        "Would",
+        "be",
+        "for you",
+        "Thursday morning"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "情态疑问句",
+        "比较级"
+      ]
+    },
+    {
+      "id": "W605",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The laboratory has changed its safety procedure.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "have",
+        "to do",
+        "What",
+        "before entering",
+        "does",
+        "we",
+        "do"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "特殊疑问句",
+        "have to 义务表达"
+      ]
+    },
+    {
+      "id": "W606",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The author is visiting our class next week.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "so far",
+        "have",
+        "read",
+        "you",
+        "Which of her books"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "特殊疑问句",
+        "现在完成时"
+      ]
+    },
+    {
+      "id": "W607",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Someone left a camera in the seminar room.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "the back row",
+        "near",
+        "was",
+        "did",
+        "Who",
+        "sitting",
+        "this morning"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "主语疑问句",
+        "过去进行时"
+      ]
+    },
+    {
+      "id": "W608",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The first session was fully booked.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "going",
+        "to offer",
+        "another session",
+        "Are",
+        "they",
+        "later in the week"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "将来计划疑问句",
+        "时间表达"
+      ]
+    },
+    {
+      "id": "W609",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I cannot open the document you shared.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " with a different program?"
+      ],
+      "word_bank": [
+        "try",
+        "tried",
+        "you",
+        "it",
+        "opening",
+        "Did"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "助动词后原形",
+        "try加动名词"
+      ]
+    },
+    {
+      "id": "W610",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The apartment listing does not mention utility costs.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "in",
+        "the rent",
+        "included",
+        "Are",
+        "water",
+        "and electricity"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "被动疑问句",
+        "并列主语"
+      ]
+    },
+    {
+      "id": "W611",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I forgot to bring the consent form.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "I",
+        "when I arrive",
+        "Can",
+        "a copy",
+        "sign"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "情态疑问句",
+        "时间从句"
+      ]
+    },
+    {
+      "id": "W612",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The dance society has found a new rehearsal space.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "How much",
+        "will",
+        "to rent it",
+        "it",
+        "cost",
+        "for a month"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "特殊疑问句",
+        "形式主语"
+      ]
+    },
+    {
+      "id": "W613",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The survey needs responses from first-year students.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "yet",
+        "any of them",
+        "been",
+        "invited",
+        "to take part",
+        "Have"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "完成时被动疑问句",
+        "不定式补语"
+      ]
+    },
+    {
+      "id": "W614",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I want to reserve a piano practice room.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "how long",
+        "can",
+        "one at a time",
+        "students",
+        "For",
+        "book"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "介词前置的直接问句",
+        "情态动词"
+      ]
+    },
+    {
+      "id": "W615",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The meeting began before I arrived.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "got there",
+        "they",
+        "the budget",
+        "you",
+        "Had",
+        "discussed",
+        "by the time"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "过去完成时疑问句",
+        "时间先后"
+      ]
+    },
+    {
+      "id": "W616",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I think one of these buses goes to the aquarium.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " entrance?"
+      ],
+      "word_bank": [
+        "does",
+        "the main",
+        "outside",
+        "Which one",
+        "stops"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "主语疑问句",
+        "主谓一致"
+      ]
+    },
+    {
+      "id": "W617",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The student newspaper wants to interview you.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "to ask",
+        "about",
+        "like",
+        "me",
+        "they",
+        "What",
+        "would"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "特殊疑问句",
+        "句末介词"
+      ]
+    },
+    {
+      "id": "W618",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I can use either the library computer or my own laptop.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "be",
+        "more practical",
+        "Which",
+        "would",
+        "for",
+        "the workshop"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "主语疑问句",
+        "情态系表结构"
+      ]
+    },
+    {
+      "id": "W619",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The robotics club is recruiting new members.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " programming experience?"
+      ],
+      "word_bank": [
+        "Does",
+        "joining",
+        "previous",
+        "requires",
+        "any",
+        "require"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "动名词作主语",
+        "一般疑问句"
+      ]
+    },
+    {
+      "id": "W620",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I have two tickets for the exhibition opening.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "coming along",
+        "Would",
+        "be",
+        "interested",
+        "in",
+        "either of your friends"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "礼貌疑问句",
+        "介词加动名词"
+      ]
+    },
+    {
+      "id": "W621",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are you still using the old software?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "The update ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "not",
+        "our department",
+        "been",
+        "by",
+        "being",
+        "has",
+        "approved"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "现在完成时被动否定",
+        "施动者"
+      ]
+    },
+    {
+      "id": "W622",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The office has finally found my application.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to the wrong address",
+        "been",
+        "It",
+        "sent",
+        "had",
+        "by mistake"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "过去完成时被动",
+        "原因解释"
+      ]
+    },
+    {
+      "id": "W623",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why do we need to wait outside the lab?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "The floors ",
+        " ",
+        ", ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "go in",
+        "so",
+        "are being",
+        "can",
+        "nobody",
+        "cleaned"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "进行时被动",
+        "因果并列"
+      ]
+    },
+    {
+      "id": "W624",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Will students have to pay to use the new software?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "The licenses ",
+        " ",
+        " ",
+        " ",
+        " at no extra cost."
+      ],
+      "word_bank": [
+        "provided",
+        "will be",
+        "the university",
+        "by"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "将来时被动",
+        "by 引出动作执行者"
+      ]
+    },
+    {
+      "id": "W625",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the instructor delay the demonstration?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "The equipment ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "it",
+        "been",
+        "was moved",
+        "had",
+        "tested",
+        "since",
+        "not"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "过去完成时被动",
+        "时间从句"
+      ]
+    },
+    {
+      "id": "W626",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The seminar room looks different today.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "arranged",
+        "The tables",
+        "in a circle",
+        "have",
+        "been",
+        "to encourage discussion"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "完成时被动",
+        "目的不定式"
+      ]
+    },
+    {
+      "id": "W627",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why do these library books have colored tape on them?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "that",
+        "require",
+        "for courses",
+        "They",
+        "are used",
+        "short-term loans"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "一般现在时被动",
+        "定语从句"
+      ]
+    },
+    {
+      "id": "W628",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can I choose my own interview time?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Each applicant ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "after",
+        "all forms",
+        "be assigned",
+        "a time",
+        "received",
+        "have been",
+        "will"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "双宾语被动",
+        "完成时间条件"
+      ]
+    },
+    {
+      "id": "W629",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why was the outdoor staircase closed?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "during",
+        "the routine inspection",
+        "was discovered",
+        "A loose step"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "过去时被动",
+        "时间短语"
+      ]
+    },
+    {
+      "id": "W630",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Are the final exhibition labels ready?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "before printing",
+        "They",
+        "still",
+        "for errors",
+        "are",
+        "being checked"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "进行时被动",
+        "介词搭配"
+      ]
+    },
+    {
+      "id": "W631",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Did you know about the room change before you left home?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "that",
+        "me",
+        "upstairs",
+        "the class",
+        "had moved",
+        "had told",
+        "Nobody"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "过去完成时",
+        "宾语从句"
+      ]
+    },
+    {
+      "id": "W632",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you miss the sign-up deadline?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "all week",
+        "had assumed",
+        "would",
+        "registration",
+        "that",
+        "remain open",
+        "I"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "过去完成时",
+        "过去将来时"
+      ]
+    },
+    {
+      "id": "W633",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The library website was unavailable this morning.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "It ",
+        " ",
+        " ",
+        " normally ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "been",
+        "the server restarted",
+        "working",
+        "since",
+        "has"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "现在完成进行时",
+        "时间起点"
+      ]
+    },
+    {
+      "id": "W634",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the technician ask us to save our work?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the update",
+        "restart",
+        "going to",
+        "as part of",
+        "were",
+        "The computers"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "过去的将来计划",
+        "介词搭配"
+      ]
+    },
+    {
+      "id": "W635",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Will you be able to help at the event next month?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "then",
+        "will",
+        "by",
+        "I",
+        "have finished",
+        "my exams"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "将来完成时",
+        "时间界限"
+      ]
+    },
+    {
+      "id": "W636",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why is the seminar being repeated next week?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "their classes",
+        "were still in progress",
+        "could not",
+        "Some students",
+        "because",
+        "attend"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "过去能力否定",
+        "原因从句"
+      ]
+    },
+    {
+      "id": "W637",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The café was empty when I arrived.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "got there",
+        "closed",
+        "already",
+        "It",
+        "by the time",
+        "you",
+        "had"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "过去完成时",
+        "时间先后"
+      ]
+    },
+    {
+      "id": "W638",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why is the student orchestra practicing so often?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "will",
+        "They",
+        "next month",
+        "that",
+        "take place",
+        "are preparing",
+        "for a concert"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "进行时与将来时",
+        "定语从句"
+      ]
+    },
+    {
+      "id": "W639",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "What was new about working in the archive last summer?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " before I ",
+        "."
+      ],
+      "word_bank": [
+        "had never",
+        "started there",
+        "handled",
+        "I",
+        "such old documents"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "过去完成时否定",
+        "时间从句"
+      ]
+    },
+    {
+      "id": "W640",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why has the committee not announced a decision?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "It",
+        "the proposal",
+        "is waiting",
+        "has",
+        "every member",
+        "read",
+        "until"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "完成时间条件",
+        "主谓一致"
+      ]
+    },
+    {
+      "id": "W641",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Is your roommate still away on the field course?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "for",
+        "has been",
+        "back",
+        "She",
+        "two days"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "现在完成时状态",
+        "持续时间"
+      ]
+    },
+    {
+      "id": "W642",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the workshop run longer than planned?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "kept answering",
+        "after",
+        "the session",
+        "The instructor",
+        "questions",
+        "to end",
+        "was supposed"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "持续动作",
+        "过去预定时间"
+      ]
+    },
+    {
+      "id": "W643",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Have you spoken to the exchange coordinator this week?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " since Monday morning."
+      ],
+      "word_bank": [
+        "her",
+        "trying",
+        "have been",
+        "to reach",
+        "I"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "完成进行时",
+        "不定式补语"
+      ]
+    },
+    {
+      "id": "W644",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the computer lose the unsaved changes?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "editing the file",
+        "while",
+        "was",
+        "I",
+        "ran out",
+        "The battery"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "过去时与过去进行时",
+        "同时关系"
+      ]
+    },
+    {
+      "id": "W645",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Will the exhibit still be open during our visit?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "have",
+        "arrive",
+        "will",
+        "we",
+        "It",
+        "closed",
+        "by the time",
+        "in the city"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "将来完成时",
+        "主将从现"
+      ]
+    },
+    {
+      "id": "W646",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you not answer my message during the lecture?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to silent mode",
+        "before the lecture began",
+        "switched",
+        "had",
+        "my phone",
+        "I"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "过去完成时",
+        "时间从句"
+      ]
+    },
+    {
+      "id": "W647",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Is the student center open during the renovations?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "used",
+        "Only the ground floor",
+        "are repaired",
+        "while",
+        "is being",
+        "the upper floors"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "被动语态",
+        "并列范围对照"
+      ]
+    },
+    {
+      "id": "W648",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the caterer ask for a final head count?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the kitchen",
+        "before",
+        "had to",
+        "be ordered",
+        "closed for the weekend",
+        "The meals"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "过去义务被动",
+        "时间从句"
+      ]
+    },
+    {
+      "id": "W649",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Are the photographs on the course website new?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "went on",
+        "last spring",
+        "They",
+        "during",
+        "were taken",
+        "the field trip",
+        "we"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "过去时被动",
+        "省略关系词的定语从句"
+      ]
+    },
+    {
+      "id": "W650",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why will the old website remain available for a while?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "have not switched",
+        "yet",
+        "Some users",
+        "to the new system"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "现在完成时否定",
+        "动词介词搭配"
+      ]
+    },
+    {
+      "id": "W651",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the adviser recommend a lighter course load?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "She ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "me",
+        "enough time",
+        "encouraged",
+        "independent reading",
+        "to leave",
+        "for"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "动词加宾语加不定式",
+        "时间用途"
+      ]
+    },
+    {
+      "id": "W652",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The deadline is close, but I still cannot settle on a title.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to spend",
+        "Avoid",
+        "spending",
+        "on",
+        "the title",
+        "too much time"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "动词加动名词",
+        "介词搭配"
+      ]
+    },
+    {
+      "id": "W653",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you ask your classmate to read the instructions?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " that ",
+        "."
+      ],
+      "word_bank": [
+        "to check",
+        "I had understood them correctly",
+        "I",
+        "someone",
+        "wanted"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "宾语加不定式",
+        "宾语从句"
+      ]
+    },
+    {
+      "id": "W654",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can the drama club store props in this room?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "The manager ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "agreed",
+        "us",
+        "use",
+        "to let",
+        "it",
+        "until Friday",
+        "to use"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "使役结构",
+        "不带to的不定式"
+      ]
+    },
+    {
+      "id": "W655",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you rewrite the opening paragraph?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to identify",
+        "easier",
+        "I",
+        "the main point",
+        "was trying",
+        "to make"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "不定式补语",
+        "宾语补足语"
+      ]
+    },
+    {
+      "id": "W656",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I am nervous about speaking at the student forum.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "in front of a friend",
+        "feel",
+        "you",
+        "Practicing",
+        "may help",
+        "more confident"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "动名词作主语",
+        "help加原形"
+      ]
+    },
+    {
+      "id": "W657",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are you checking the equipment list before leaving?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "want",
+        "I",
+        "to forget",
+        "to avoid",
+        "anything we need",
+        "forgetting"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "不定式与动名词",
+        "否定范围"
+      ]
+    },
+    {
+      "id": "W658",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The curator has asked for help with the new exhibit.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "helping",
+        "in",
+        "to arrange the photographs",
+        "I",
+        "to help",
+        "am interested"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "介词加动名词",
+        "动词不定式"
+      ]
+    },
+    {
+      "id": "W659",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the workshop require students to work in pairs?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to compare",
+        "their approaches",
+        "allows",
+        "students",
+        "Working",
+        "with a partner"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "动名词主语",
+        "allow加宾语加不定式"
+      ]
+    },
+    {
+      "id": "W660",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I cannot remember whether I locked the studio.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " than ",
+        "."
+      ],
+      "word_bank": [
+        "to worry about it all evening",
+        "It",
+        "would be",
+        "better",
+        "to check"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "形式主语",
+        "不定式比较"
+      ]
+    },
+    {
+      "id": "W661",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the team keep the first draft of the design?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "had changed",
+        "us",
+        "to see",
+        "how much",
+        "It",
+        "enabled",
+        "the idea"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "enable结构",
+        "嵌入式程度问句"
+      ]
+    },
+    {
+      "id": "W662",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can I leave the application unsigned for now?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to sign it",
+        "it online",
+        "submitting",
+        "You",
+        "need",
+        "before"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "不定式补语",
+        "介词加动名词"
+      ]
+    },
+    {
+      "id": "W663",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why does the lab ask us to label our samples immediately?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "from",
+        "us",
+        "Labeling them",
+        "prevents",
+        "one sample with another",
+        "confusing"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "动名词主语",
+        "prevent结构"
+      ]
+    },
+    {
+      "id": "W664",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I find it difficult to follow the speaker's examples.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "instead of",
+        "down",
+        "the key steps",
+        "Try",
+        "every word",
+        "writing"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "try加动名词",
+        "替代结构"
+      ]
+    },
+    {
+      "id": "W665",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the tutor give us a model paragraph?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "us",
+        "what",
+        "It",
+        "understand",
+        "looks like",
+        "helped",
+        "a clear topic sentence"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "help加原形",
+        "嵌入式问句"
+      ]
+    },
+    {
+      "id": "W666",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The rehearsal space is much smaller than I expected.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " for everyone ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "enough room",
+        "in a circle",
+        "There is",
+        "not",
+        "to stand"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "存在句",
+        "enough与逻辑主语"
+      ]
+    },
+    {
+      "id": "W667",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are you taking the shorter route?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "will save",
+        "to cross",
+        "It",
+        "having",
+        "the busy intersection",
+        "us"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "save加宾语和动名词",
+        "义务表达"
+      ]
+    },
+    {
+      "id": "W668",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can the class finish the activity without internet access?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to work",
+        "students",
+        "offline",
+        "are designed",
+        "to allow",
+        "The materials"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "被动语态",
+        "两层不定式"
+      ]
+    },
+    {
+      "id": "W669",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you bring a notebook to the gallery?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "enjoy",
+        "I",
+        "to sketch",
+        "that",
+        "sketching",
+        "catch my attention",
+        "details"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "动词加动名词",
+        "定语从句"
+      ]
+    },
+    {
+      "id": "W670",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I missed the training session for the booking system.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the administrator",
+        "to show",
+        "Ask",
+        "a room",
+        "how",
+        "you",
+        "to reserve"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "ask加宾语加不定式",
+        "疑问词加不定式"
+      ]
+    },
+    {
+      "id": "W671",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did your group reject the larger venue?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to rent",
+        "was",
+        "It",
+        "for a single evening",
+        "for us",
+        "too expensive"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "too...to结构",
+        "逻辑主语"
+      ]
+    },
+    {
+      "id": "W672",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can I submit a photograph instead of scanning the receipt?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "The office",
+        "a scan",
+        "prefers",
+        "rather than a photograph",
+        "to receive"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "动词不定式",
+        "选择对比"
+      ]
+    },
+    {
+      "id": "W673",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are you setting an alarm for the oven?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " the samples."
+      ],
+      "word_bank": [
+        "I",
+        "do not",
+        "to burn",
+        "to risk",
+        "burning",
+        "want"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "动词补语",
+        "risk加动名词"
+      ]
+    },
+    {
+      "id": "W674",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I am not sure how to divide the work fairly.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "need to be",
+        "to list",
+        "the tasks",
+        "is",
+        "done",
+        "that",
+        "The first step"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "不定式作表语",
+        "定语从句与被动"
+      ]
+    },
+    {
+      "id": "W675",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the teacher ask us to explain our answers?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "gaps",
+        "helps",
+        "in our understanding",
+        "notice",
+        "us",
+        "Explaining our reasoning"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "动名词主语",
+        "help加原形"
+      ]
+    },
+    {
+      "id": "W676",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The assignment requires a source published this year.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to check",
+        "before",
+        "choosing an article",
+        "Remember",
+        "the publication date"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "remember加不定式",
+        "时间顺序"
+      ]
+    },
+    {
+      "id": "W677",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you return to the study room?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "my charger",
+        "I",
+        "leaving",
+        "under",
+        "the desk",
+        "remembered"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "remember加动名词",
+        "过去经历"
+      ]
+    },
+    {
+      "id": "W678",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can students bring a guest to the awards ceremony?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "guest",
+        "each student",
+        "one",
+        "allows",
+        "to bring",
+        "The invitation"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "allow加宾语加不定式",
+        "数量限定"
+      ]
+    },
+    {
+      "id": "W679",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you stop at the reception desk?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "whether",
+        "rooms",
+        "I",
+        "the meeting",
+        "stopped",
+        "had changed",
+        "to ask"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "stop加不定式",
+        "嵌入式是否问句"
+      ]
+    },
+    {
+      "id": "W680",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The group discussion kept getting interrupted.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " their phones."
+      ],
+      "word_bank": [
+        "everyone",
+        "checking",
+        "We",
+        "to stop",
+        "asked"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "ask结构",
+        "stop加动名词"
+      ]
+    },
+    {
+      "id": "W681",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why is the stairwell being repainted?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to make",
+        "the emergency signs",
+        "more visible",
+        "The aim",
+        "is"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "不定式作表语",
+        "宾语补足语"
+      ]
+    },
+    {
+      "id": "W682",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I have only a few minutes to prepare my question.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "short enough",
+        "to answer clearly",
+        "for the speaker",
+        "it",
+        "Keep"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "宾语补足语",
+        "enough结构"
+      ]
+    },
+    {
+      "id": "W683",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the team ask for a second opinion?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "a problem",
+        "about",
+        "We",
+        "overlooking",
+        "with the design",
+        "were concerned"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "形容词介词搭配",
+        "动名词"
+      ]
+    },
+    {
+      "id": "W684",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can I take this course without completing the introductory one?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "have",
+        "you",
+        "that",
+        "equivalent experience",
+        "You",
+        "to demonstrate",
+        "may be required"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "被动加不定式",
+        "宾语从句"
+      ]
+    },
+    {
+      "id": "W685",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are you reading the comments before revising?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "which changes",
+        "for",
+        "I",
+        "need",
+        "is asking",
+        "the reviewer",
+        "to understand"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "不定式补语",
+        "嵌入式宾语问句"
+      ]
+    },
+    {
+      "id": "W686",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The classroom is getting too warm.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "to open",
+        "opening",
+        "the window beside you",
+        "you",
+        "mind",
+        "Would"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "礼貌请求",
+        "mind加动名词"
+      ]
+    },
+    {
+      "id": "W687",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the student choose to volunteer at the museum?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "working",
+        "experience",
+        "with visitors",
+        "hoped",
+        "She",
+        "to gain"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "不定式补语",
+        "动名词修饰经验"
+      ]
+    },
+    {
+      "id": "W688",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can we ask the instructor to check our outline first?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "offered",
+        "we",
+        "to look at it",
+        "before",
+        "write the full report",
+        "She"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "动词加不定式",
+        "时间从句"
+      ]
+    },
+    {
+      "id": "W689",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you agree to chair the meeting?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " a discussion."
+      ],
+      "word_bank": [
+        "seemed",
+        "like a good opportunity",
+        "It",
+        "to practice",
+        "leading"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "名词加不定式",
+        "practice加动名词"
+      ]
+    },
+    {
+      "id": "W690",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I keep losing track of the tasks I have completed.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "can help",
+        "Making",
+        "a checklist",
+        "of your progress",
+        "keep track",
+        "you"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "动名词主语",
+        "固定搭配"
+      ]
+    },
+    {
+      "id": "W691",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the lecturer use familiar examples?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "made",
+        "to grasp",
+        "They",
+        "the abstract idea",
+        "easier",
+        "for us"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "宾语补足语",
+        "不定式逻辑主语"
+      ]
+    },
+    {
+      "id": "W692",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can the student club borrow the department's camera?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to use it",
+        "on Monday",
+        "return it",
+        "we",
+        "have permission",
+        "We",
+        "as long as"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "名词加不定式",
+        "条件从句"
+      ]
+    },
+    {
+      "id": "W693",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are you testing the microphone before the audience arrives?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "that everyone",
+        "want",
+        "to make sure",
+        "able",
+        "to hear",
+        "will be",
+        "I"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "不定式链",
+        "宾语从句"
+      ]
+    },
+    {
+      "id": "W694",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I am thinking of dropping one of my classes.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "with your adviser",
+        "first",
+        "is worth",
+        "It",
+        "discussing",
+        "the options",
+        "to discuss"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "worth加动名词",
+        "介词搭配"
+      ]
+    },
+    {
+      "id": "W695",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the team choose a shared document?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the latest changes",
+        "everyone",
+        "immediately",
+        "It",
+        "see",
+        "to see",
+        "lets"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "使役动词",
+        "不带to的不定式"
+      ]
+    },
+    {
+      "id": "W696",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can you help me prepare for the scholarship interview?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "I",
+        "answering",
+        "practice",
+        "to help",
+        "you",
+        "questions",
+        "would be happy"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "不定式补语",
+        "help与practice结构"
+      ]
+    },
+    {
+      "id": "W697",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you decline the extra assignment?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "had set aside",
+        "meant",
+        "for revision",
+        "I",
+        "giving up",
+        "Taking it on",
+        "the time",
+        "would have"
+      ],
+      "difficulty": "hard",
+      "skills": [
+        "动名词主语",
+        "mean加动名词与过去假设"
+      ]
+    },
+    {
+      "id": "W698",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I need to learn how to use the campus booking app.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "The tutorial",
+        "how",
+        "or change",
+        "a reservation",
+        "shows",
+        "you",
+        "to cancel"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "双宾语",
+        "疑问词加不定式"
+      ]
+    },
+    {
+      "id": "W699",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the researcher remove the names from the forms?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "individual students",
+        "She",
+        "from being",
+        "identified",
+        "so",
+        "to prevent",
+        "did"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "目的不定式",
+        "prevent与动名词被动"
+      ]
+    },
+    {
+      "id": "W700",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can we use yesterday's data as our final results?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "need",
+        "the measurement",
+        "is reliable",
+        "We",
+        "to make sure",
+        "it",
+        "to repeat"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "不定式补语",
+        "目的与宾语从句"
+      ]
+    },
+    {
+      "id": "W701",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you choose the small seminar instead of the lecture?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " than the lecture does."
+      ],
+      "word_bank": [
+        "more",
+        "It",
+        "to ask questions",
+        "opportunities",
+        "offers"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "比较结构",
+        "不定式修饰名词"
+      ]
+    },
+    {
+      "id": "W702",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Are all of the rooms in the residence hall the same size?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "those downstairs",
+        "on the top floor",
+        "are",
+        "slightly smaller",
+        "than",
+        "The rooms"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "比较级",
+        "替代词指代"
+      ]
+    },
+    {
+      "id": "W703",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why was the second survey easier to complete?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "fewer questions",
+        "than",
+        "It",
+        "the first one did",
+        "contained"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "可数名词比较",
+        "代动词"
+      ]
+    },
+    {
+      "id": "W704",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I thought the train would be faster than the bus.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "The journey",
+        "by bus",
+        "it does",
+        "almost as long",
+        "by train",
+        "as",
+        "takes"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "同等比较",
+        "代动词"
+      ]
+    },
+    {
+      "id": "W705",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the library move the popular books downstairs?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " to ",
+        "."
+      ],
+      "word_bank": [
+        "more accessible",
+        "The new location",
+        "makes",
+        "them",
+        "a wider range of readers"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "宾语补足语",
+        "比较与介词搭配"
+      ]
+    },
+    {
+      "id": "W706",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Is the morning class less demanding than the evening one?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "of preparation",
+        "Both classes",
+        "the same",
+        "amount",
+        "require",
+        "each week"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "同等数量表达",
+        "数量短语结构"
+      ]
+    },
+    {
+      "id": "W707",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the committee request a shorter summary?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "far more detailed",
+        "was",
+        "needed",
+        "than",
+        "The original",
+        "they"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "比较级程度",
+        "比较从句"
+      ]
+    },
+    {
+      "id": "W708",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Are the online and printed timetables equally reliable?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "is",
+        "the printed one",
+        "than",
+        "more frequently",
+        "updated",
+        "The online version"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "被动语态",
+        "频率比较"
+      ]
+    },
+    {
+      "id": "W709",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you choose the apartment farther from campus?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " the one near the station."
+      ],
+      "word_bank": [
+        "noisy",
+        "is not",
+        "It",
+        "as",
+        "as"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "否定同等比较",
+        "替代词"
+      ]
+    },
+    {
+      "id": "W710",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The first practice test felt much harder than this one.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "more familiar",
+        "than",
+        "You",
+        "with the format",
+        "before",
+        "may be",
+        "you were"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "比较结构",
+        "形容词介词搭配"
+      ]
+    },
+    {
+      "id": "W711",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why do you prefer meeting in the small room?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "It",
+        "can use",
+        "we",
+        "is",
+        "without making a reservation",
+        "the quietest space"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "最高级",
+        "省略关系词的定语从句"
+      ]
+    },
+    {
+      "id": "W712",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Do we have to attend both training sessions?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "everything",
+        "will cover",
+        "Either session",
+        "to know",
+        "need",
+        "you"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "不定限定词",
+        "省略关系词的定语从句"
+      ]
+    },
+    {
+      "id": "W713",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the office reject both proposed dates?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " the guest speaker."
+      ],
+      "word_bank": [
+        "for",
+        "suitable",
+        "were",
+        "Neither date",
+        "was"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "否定限定词",
+        "主谓一致"
+      ]
+    },
+    {
+      "id": "W714",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Are the survey results representative of the whole class?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        ", ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "cannot draw",
+        "responded",
+        "a firm conclusion",
+        "we",
+        "Only a few students",
+        "so"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "数量范围",
+        "因果与否定"
+      ]
+    },
+    {
+      "id": "W715",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why is the club still looking for volunteers?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "been",
+        "yet",
+        "Not all",
+        "have",
+        "of the positions",
+        "filled"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "部分否定",
+        "完成时被动"
+      ]
+    },
+    {
+      "id": "W716",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can we use any photograph from the collection?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "may",
+        "Some of the images",
+        "the photographer's permission",
+        "only with",
+        "be used"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "情态被动",
+        "条件范围"
+      ]
+    },
+    {
+      "id": "W717",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the instructor ask us to keep both drafts?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "Each version",
+        "shows",
+        "in",
+        "the development of the argument",
+        "a different stage",
+        "show"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "不定限定词",
+        "主谓一致"
+      ]
+    },
+    {
+      "id": "W718",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Does every member of the group need to upload the report?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the whole group",
+        "needs",
+        "Only one person",
+        "to submit it",
+        "on behalf of"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "范围限定",
+        "不定式补语"
+      ]
+    },
+    {
+      "id": "W719",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why is the new list shorter than the old one?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "no longer",
+        "are",
+        "because",
+        "Several items",
+        "they",
+        "required",
+        "have been removed"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "完成时被动",
+        "否定时间范围"
+      ]
+    },
+    {
+      "id": "W720",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Can first-year students apply for all of these grants?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        ", but ",
+        "."
+      ],
+      "word_bank": [
+        "Most of the grants",
+        "to them",
+        "open",
+        "are",
+        "a few are restricted to seniors"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "数量对比",
+        "适用范围"
+      ]
+    },
+    {
+      "id": "W721",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The new timetable leaves almost no break between classes.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "concerns me",
+        "how little time",
+        "to get",
+        "What",
+        "is",
+        "we have",
+        "across campus"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "主语从句",
+        "嵌入式程度问句"
+      ]
+    },
+    {
+      "id": "W722",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the adviser suggest changing my research question?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to answer",
+        "too broad",
+        "I had proposed",
+        "was",
+        "What",
+        "in a short paper"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "主语从句",
+        "too...to结构"
+      ]
+    },
+    {
+      "id": "W723",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I do not understand why our room booking disappeared.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "it",
+        "What we need",
+        "an explanation",
+        "of why",
+        "is",
+        "was canceled"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "主语从句",
+        "嵌入式原因问句"
+      ]
+    },
+    {
+      "id": "W724",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the tutor ask us to compare two reports?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " but ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the evidence",
+        "they present",
+        "What",
+        "their length",
+        "matters",
+        "is not",
+        "how clearly"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "主语从句",
+        "not...but对比"
+      ]
+    },
+    {
+      "id": "W725",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The instructions say to use a reliable source.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the question",
+        "counts",
+        "What",
+        "depends on",
+        "you are investigating",
+        "as reliable"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "主语从句",
+        "省略关系词的定语从句"
+      ]
+    },
+    {
+      "id": "W726",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the committee postpone the vote?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "costs",
+        "the plan",
+        "depends",
+        "we have not confirmed",
+        "is affordable",
+        "Whether",
+        "on"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "whether 主语从句",
+        "主句与修饰语边界"
+      ]
+    },
+    {
+      "id": "W727",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "I expected the feedback to focus on spelling.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "was",
+        "gave",
+        "What",
+        "surprised me",
+        "the tutor",
+        "attention",
+        "to the structure",
+        "how much"
+      ],
+      "difficulty": "hard",
+      "skills": [
+        "主语从句",
+        "嵌入式数量问句"
+      ]
+    },
+    {
+      "id": "W728",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you decide not to use that chart?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "was",
+        "its labels",
+        "that",
+        "The problem",
+        "could be",
+        "in two different ways",
+        "interpreted"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "表语从句",
+        "情态被动"
+      ]
+    },
+    {
+      "id": "W729",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The two groups reached different conclusions from the same data.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "One possibility",
+        "used different definitions",
+        "is",
+        "they",
+        "that"
+      ],
+      "difficulty": "easy",
+      "skills": [
+        "表语从句",
+        "可能性表达"
+      ]
+    },
+    {
+      "id": "W730",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the department create a shared equipment calendar?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "was",
+        "was available",
+        "what",
+        "that",
+        "The idea",
+        "to ensure",
+        "everyone could see"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "不定式作表语",
+        "宾语从句嵌套"
+      ]
+    },
+    {
+      "id": "W731",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The course description lists statistics as a prerequisite.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Do you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "whether",
+        "that requirement",
+        "I took",
+        "the course",
+        "would satisfy",
+        "know",
+        "last year"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式问句",
+        "定语从句边界"
+      ]
+    },
+    {
+      "id": "W732",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are you asking the archive staff about that letter?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "the person",
+        "it",
+        "actually wrote",
+        "who",
+        "am trying",
+        "whether",
+        "signed it",
+        "to establish"
+      ],
+      "difficulty": "hard",
+      "skills": [
+        "嵌入式是否问句",
+        "定语从句与副词"
+      ]
+    },
+    {
+      "id": "W733",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The guest speaker mentioned a book I would like to read.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Can you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "it",
+        "she",
+        "written",
+        "remember",
+        "had",
+        "said",
+        "which author"
+      ],
+      "difficulty": "hard",
+      "skills": [
+        "插入转述层",
+        "嵌入式主语问句"
+      ]
+    },
+    {
+      "id": "W734",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the lab manager ask for the original measurements?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "She ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to check",
+        "the values",
+        "the records",
+        "wanted",
+        "we",
+        "reported",
+        "matched",
+        "whether"
+      ],
+      "difficulty": "hard",
+      "skills": [
+        "嵌入式是否问句",
+        "省略关系词的定语从句"
+      ]
+    },
+    {
+      "id": "W735",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The notice says some rooms will be unavailable tomorrow.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Does it ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "when",
+        "will be closed",
+        "specify",
+        "they",
+        "which rooms",
+        "will reopen",
+        "and"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "并列嵌入式问句",
+        "将来被动"
+      ]
+    },
+    {
+      "id": "W736",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why are you requesting a copy of the agreement?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "need",
+        "the deposit",
+        "to confirm",
+        "before",
+        "we paid",
+        "were promised",
+        "we",
+        "what"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式宾语问句",
+        "被动与时间范围"
+      ]
+    },
+    {
+      "id": "W737",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The instructor says our topic is still too general.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Could you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "to focus on",
+        "us",
+        "her",
+        "which aspect",
+        "she",
+        "would like",
+        "ask"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式问句",
+        "宾语加不定式"
+      ]
+    },
+    {
+      "id": "W738",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the student affairs office contact you?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "They ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "getting",
+        "whether",
+        "needed assistance",
+        "to know",
+        "anyone in our group",
+        "to the venue",
+        "wanted"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式是否问句",
+        "名词加动名词"
+      ]
+    },
+    {
+      "id": "W739",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The budget includes a charge that I do not recognize.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Can you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "is for",
+        "who",
+        "explain",
+        "and",
+        "what",
+        "approved it",
+        "the fee"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "并列嵌入式问句",
+        "介词置后"
+      ]
+    },
+    {
+      "id": "W740",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you ask the coordinator to review the instructions?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "I ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "to the form",
+        "or to the supporting documents",
+        "was unsure",
+        "whether",
+        "the deadline",
+        "applied"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式选择问句",
+        "介词平行"
+      ]
+    },
+    {
+      "id": "W741",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did you choose that elective course?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "met the requirement",
+        "It",
+        "was the only one",
+        "and",
+        "fit my timetable",
+        "that"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "定语从句",
+        "并列谓语"
+      ]
+    },
+    {
+      "id": "W742",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The rehearsal ended much later than I expected.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "there",
+        "Was",
+        "a technical problem",
+        "be",
+        "that",
+        "resolved",
+        "had to"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "存在疑问句",
+        "定语从句与被动"
+      ]
+    },
+    {
+      "id": "W743",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the librarian recommend this database?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "and available in full text",
+        "relevant",
+        "It",
+        "articles",
+        "to my topic",
+        "that are",
+        "contains"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "定语从句",
+        "并列表语"
+      ]
+    },
+    {
+      "id": "W744",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The room looks large enough for our workshop.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "to move around",
+        "Is",
+        "safely",
+        "for everyone",
+        "there",
+        "enough space"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "存在疑问句",
+        "enough与逻辑主语"
+      ]
+    },
+    {
+      "id": "W745",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the editor ask for the source of that statistic?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "out of context",
+        "the number",
+        "She",
+        "to verify",
+        "that",
+        "taken",
+        "had not been",
+        "needed"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "宾语从句",
+        "完成时被动否定"
+      ]
+    },
+    {
+      "id": "W746",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The sign-up sheet has three different columns.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Could you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "tell",
+        "our names in",
+        "me",
+        "which one",
+        "to put",
+        "are supposed",
+        "we"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "嵌入式问句",
+        "规定表达与句末介词"
+      ]
+    },
+    {
+      "id": "W747",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the department shorten the orientation session?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "students",
+        "suggested",
+        "would benefit more",
+        "that",
+        "from a guided tour",
+        "The feedback"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "宾语从句",
+        "比较与介词搭配"
+      ]
+    },
+    {
+      "id": "W748",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The volunteers have not all received their instructions.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "we",
+        "until",
+        "everyone",
+        "has been",
+        "Should",
+        "wait",
+        "briefed"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "情态疑问句",
+        "完成时被动条件"
+      ]
+    },
+    {
+      "id": "W749",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "Why did the tutor suggest reading the conclusion first?",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "."
+      ],
+      "word_bank": [
+        "would help",
+        "what",
+        "understand",
+        "was trying to establish",
+        "us",
+        "Doing so",
+        "the author"
+      ],
+      "difficulty": "medium",
+      "skills": [
+        "动名词主语",
+        "help与嵌入式问句"
+      ]
+    },
+    {
+      "id": "W750",
+      "section": "writing",
+      "task_type": "build_sentence",
+      "prompt": "The visitor center has changed its weekend hours.",
+      "response_type": "sentence",
+      "instruction": "Make an appropriate sentence.",
+      "template_parts": [
+        "Do you ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        " ",
+        "?"
+      ],
+      "word_bank": [
+        "know",
+        "the opening time",
+        "whether",
+        "is",
+        "correct",
+        "still",
+        "on the old map",
+        "listed"
+      ],
+      "difficulty": "hard",
+      "skills": [
+        "嵌入式是否问句",
+        "过去分词修饰与主句边界"
+      ]
     }
   ]
 }

@@ -24,6 +24,7 @@ flowchart LR
 | --- | --- |
 | `/` | 首页 |
 | `/guide` | 2026 新托福指南；题型、题量、官方时间与本地练习预算 |
+| `/foundations` | 语法与搭配；分类、搜索和展开状态在当前页面内保留，刷新后重置 |
 | `/practice/{section}` | 阅读、听力、写作或口语的专项设置 |
 | `/practice/{section}/run/{id}`、`/exam/{section}/{id}` | 当前专项或整科练习，仅恢复当前标签页内仍保留的同一轮作答 |
 | `/history`、`/history/{category}/{id}` | 答题记录及已归档复盘；分类为 `practice`、`mock`、`test` |
@@ -47,6 +48,7 @@ flowchart LR
 | [mock-exam.js](../../frontend/mock-exam.js) | ETS 固定模考的设备检查、说明页、逐阶段作答、录音和复盘入口 |
 | [mock-review.js](../../frontend/mock-review.js) | 模考复盘摘要与逐题答案的 HTML，供交卷结果和历史记录共用 |
 | [history.js](../../frontend/history.js) | 记录分类、日期筛选、分页、详情及记录管理 |
+| [foundations.js](../../frontend/foundations.js)、[foundations-data.js](../../frontend/foundations-data.js) | 独立语法与搭配参考、分类和搜索；正文为本地静态学习笔记，不读取答案或写入练习历史，见[学习页说明](../grammar-and-collocations.md) |
 | [practice-sentence.js](../../frontend/practice-sentence.js)、[practice-review.js](../../frontend/practice-review.js) | 造句词块交互，以及按材料分组的成绩与复盘展示 |
 | [practice-materials.js](../../frontend/practice-materials.js) | 作答与复盘共用的阅读材料、填词和音频脚本 HTML；接收题目与作答数据，不管理计时、提交或事件绑定 |
 | [practice-recorder.js](../../frontend/practice-recorder.js)、[audio-cache.js](../../frontend/audio-cache.js) | 练习麦克风与转写；共享提示音缓存、角色配音和浏览器语音回退 |

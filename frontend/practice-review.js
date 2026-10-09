@@ -192,10 +192,9 @@
       const sharedAudio =
         question.audio_text && group.every((q) => q.audio_text === question.audio_text);
       if (sharedAudio)
-        markup += audioMarkup(question).replace(
-          '<details class="script-details">',
-          '<details class="script-details" open>',
-        );
+        markup += audioMarkup(question, {
+          translation: snapshot.result.audio_translations?.[question.id],
+        }).replace('<details class="script-details">', '<details class="script-details" open>');
       markup += group
         .map((q, index) => {
           const item = feedback[index];

@@ -22,7 +22,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问主要观点；“depends on”是取决于，指声学处理取决于房间用途。\n解析：课堂重清楚，音乐厅还需声音丰满，所以要按用途处理。软装越多越好忽略吸音过度；房形决定音量换了话题；两类场所同样处理抹去了需求差别。\n下次：听到两种场景对比，找共同判断标准，再查答案是否保留差异。"
+        "explanation": "读懂：题目问房间声学的主旨。intended use 是“这个房间准备用来做什么”。\n解析：选“声音处理要适合房间用途”：教室要少些回声以听清词句，音乐厅却可能需要部分反射让音乐饱满。“两者需相似反射量”忽略区别；“软装改善一切聆听”忽略吸声过多的代价；“房形决定人说多响”不是讲述重点。\n下次：主旨题抓不同例子得出的共同原则；这里先看用途，再决定需要多少反射。"
       },
       "review": {
         "difficulty": "medium",
@@ -33,9 +33,9 @@
         "vocabulary": [
           "reverberation"
         ],
-        "rationale": "课堂清晰与音乐丰满感的对比共同支持按用途设计；三项分别抹平差别、过度推广吸音、改换房形话题。原解释已把主旨和错因讲清，保留。",
+        "rationale": "选“声音处理要适合房间用途”：教室要少些回声以听清词句，音乐厅却可能需要部分反射让音乐饱满。“两者需相似反射量”忽略区别；“软装改善一切聆听”忽略吸声过多的代价；“房形决定人说多响”不是讲述重点。",
         "answer_evidence": "So the aim depends on what people do in the space.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -58,7 +58,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问窗帘怎样让话更清楚；“overlaps less”指前后词的声音较少重叠。\n解析：软材料吸收部分声音，减少反射叠加。教师放慢语速把材料效果换成人的行为；增强反射与吸收相反；增加嗓音能量也倒转了能量减少的方向。\n下次：听机制时串起材料、声音变化、听觉结果，核对因果方向。"
+        "explanation": "读懂：题目问厚窗帘如何让教室讲话更清晰。overlaps less 是“前一个词残留的声音更少盖住后一个词”。\n解析：选“减少使连续词语重叠的反射声”：软材料吸收部分声能，反射减弱。“让教师放慢语速”没有依据，教师未改变，改变的是房间；“增强教师声音能量”也不对，窗帘吸收部分声音而非放大它；“把更多反射导向后墙”不是所述方法，重点是减少强反射。\n下次：听改善效果的原因，沿“材料做了什么→声音怎样变→为何听清”逐步核对。"
       },
       "review": {
         "difficulty": "easy",
@@ -69,9 +69,9 @@
         "vocabulary": [
           "absorb"
         ],
-        "rationale": "窗帘吸音→少反射→连续词语少重叠，答案直接且唯一；干扰改变说话速度、能量或反射方向。保留清楚的因果说明。",
+        "rationale": "选“减少使连续词语重叠的反射声”：软材料吸收部分声能，反射减弱。“让教师放慢语速”没有依据，教师未改变，改变的是房间；“增强教师声音能量”也不对，窗帘吸收部分声音而非放大它；“把更多反射导向后墙”不是所述方法，重点是减少强反射。",
         "answer_evidence": "speech may become easier to understand because one word overlaps less with the next.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -94,7 +94,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问提音乐厅的作用；“lifeless”在这里指声音缺少活力。\n解析：音乐需要适量反射，吸音过多会失去丰满感，用来限制前面的建议。两类场所同样处理忽视需求差异；软面增强反射倒转吸音机制；教师嗓音有问题与教师未变的例子不符。\n下次：举例前若提出疑问，追踪例子如何回答，再检查它支持还是限制前述观点。"
+        "explanation": "读懂：题目问举音乐厅的用意。lifeless 是“听起来缺乏生气、干瘪”，说明吸声过多也有代价。\n解析：选“说明减少反射可能有坏处”：音乐需要部分反射来融合音符、增加饱满感。“指出教师声音造成听不清”没有；“建议音乐厅与教室同样处理”相反；“解释软表面加强反射”也反了，软装吸收声能。\n下次：转到相反用途的例子时，找它限制了前面哪条建议；别把条件性好处当万能办法。"
       },
       "review": {
         "difficulty": "medium",
@@ -105,9 +105,9 @@
         "vocabulary": [
           "fullness"
         ],
-        "rationale": "音乐厅例子限制“吸音越多越好”，不是支持课堂和乐厅一律处理。原说明已解释举例作用及另外三项的错误。",
+        "rationale": "选“说明减少反射可能有坏处”：音乐需要部分反射来融合音符、增加饱满感。“指出教师声音造成听不清”没有；“建议音乐厅与教室同样处理”相反；“解释软表面加强反射”也反了，软装吸收声能。",
         "answer_evidence": "Too much absorption could make that hall sound lifeless.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -130,7 +130,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问改变用途后应怎样做；“what listeners need”是听者需要听到什么。\n解析：讨论重在听清连续说话，应重新评估吸音与反射。都涉及声音不能推出需求相同；保留音乐效果忽视新用途；只看教师嗓音漏掉房间和听者。\n下次：用途变化题先换成新目标，再用文中原则检验旧方案是否仍合适。"
+        "explanation": "读懂：题目问音乐室改讨论室应怎么做。new listening needs 是“新用途下需要怎样听声音”。\n解析：选“按新的聆听需要重新检查表面材料”：讨论重在辨清快速对话，原先音乐效果未必合适。“都有声音就保持原处理”漏掉用途差别；“加反射板保留音乐效果”仍围绕旧用途；“只按教师声音挑家具”忽略听众和房间反射。\n下次：房间换用途时，先列新活动对听清声音的要求，再检查旧设计是否仍适用。"
       },
       "review": {
         "difficulty": "medium",
@@ -141,9 +141,9 @@
         "vocabulary": [
           "acoustic"
         ],
-        "rationale": "校正 hard 为 medium：新用途须重新评估声学处理，直接延用讲者按活动需要选择的建议，没有更复杂的新约束。",
+        "rationale": "选“按新的聆听需要重新检查表面材料”：讨论重在辨清快速对话，原先音乐效果未必合适。“都有声音就保持原处理”漏掉用途差别；“加反射板保留音乐效果”仍围绕旧用途；“只按教师声音挑家具”忽略听众和房间反射。",
         "answer_evidence": "A room for rapid conversation and a room for an orchestra don't necessarily need the same treatment.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -166,7 +166,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问讲座主题；“overlap”是时间重合，这里关注花与昆虫的活动是否碰得上。\n解析：两者受不同信号影响，时间可能错开而影响合作。昆虫决定开花把关系倒置；暖春增加鸟食换了对象且预设好处；只记花期漏掉昆虫自身信号和实际活动期。\n下次：主旨题找两个对象及其关系，检查选项有没有换对象或删掉一方证据。"
+        "explanation": "读懂：题目问讲座主旨。seasonal signals 是“温度、白昼长短等季节信号”。\n解析：选“不同季节信号怎样打乱生物间的配合”：花因升温早开，昆虫时间却可能未同步提前。“暖春增加候鸟食物”未讨论；“昆虫决定植物开花”倒置了各自响应信号；“只凭花期解释昆虫变化”忽略必须同时调查双方。\n下次：主旨题记录两方各受什么信号影响，再看双方时间关系怎样改变。"
       },
       "review": {
         "difficulty": "medium",
@@ -177,9 +177,9 @@
         "vocabulary": [
           "phenology"
         ],
-        "rationale": "花与昆虫响应信号不同，导致活动时间错配；主旨保留两方关系，另三项变更物种、因果或删去昆虫。材料自足且解释具体。",
+        "rationale": "选“不同季节信号怎样打乱生物间的配合”：花因升温早开，昆虫时间却可能未同步提前。“暖春增加候鸟食物”未讨论；“昆虫决定植物开花”倒置了各自响应信号；“只凭花期解释昆虫变化”忽略必须同时调查双方。",
         "answer_evidence": "Each species has responded to its own signals, yet the partnership is now less well timed.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -202,7 +202,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问昆虫为何可能赶不上花期；“how long the days are”是白天持续多久。\n解析：植物主要受温度影响，昆虫还可能看日长，所以未同步提前。花开触发昆虫换了信号；等待再次变冷添了未给出的条件；跟随植物固定延迟忽略双方独立响应。\n下次：时间差原因题分别列出各自的触发条件，再查是否误用另一物种的条件。"
+        "explanation": "读懂：题目问昆虫为何可能晚于提前开放的花出现。besides warmer air 是“除了气温变暖以外”。\n解析：选“它们的时间还受其他信号影响”：昆虫出现也可能取决于白昼长度，所以不一定随早暖同步提前。“等待气温再降”没有依据，文中举的是日长信号；“第一朵花直接触发出现”把两者时间相关误当成花直接发信号；“固定间隔后跟随植物”也不对，各自依据不同信号，没有给出固定间隔。\n下次：时间不同题先找双方采用的信号是否相同；不要自行加上等待、固定间隔等规则。"
       },
       "review": {
         "difficulty": "medium",
@@ -213,9 +213,9 @@
         "vocabulary": [
           "emergence"
         ],
-        "rationale": "昆虫还受日长影响，暖春不必同步提前，不能套用植物信号。原解析说明每项误读，无科学常识作答门槛。",
+        "rationale": "选“它们的时间还受其他信号影响”：昆虫出现也可能取决于白昼长度，所以不一定随早暖同步提前。“等待气温再降”没有依据，文中举的是日长信号；“第一朵花直接触发出现”把两者时间相关误当成花直接发信号；“固定间隔后跟随植物”也不对，各自依据不同信号，没有给出固定间隔。",
         "answer_evidence": "A plant might respond mainly to warmer air, while an insect's emergence could also depend on how long the days are.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -238,7 +238,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问暖春例子的用途；“imagine”意为设想，提示这是说明原理的假设。\n解析：花早开、虫照常出现，展示时间错配。已完成的研究把假设说成实测；双方进食季都延长忽略花虫可能错过；反应相同则抹掉不同信号造成的差异。\n下次：听到设想提示，先区分例证与真实研究，再看例子展示哪种关系。"
+        "explanation": "读懂：题目问异常早暖的春天这个例子说明什么。imagine 表示“设想”，这里不是在报告某项实地实验。\n解析：选“说明本来相关的两个时间安排可能错开”：花提前而昆虫仍接近原日期。“报告一项具名长期研究”没有研究名称和结果；“双方觅食期都延长”与可能少访花、少食物相反；“信号对两者作用相同”也与时间分离相反。\n下次：例子题确认是真实研究还是假设，再抓它展示的变化关系，不添加未给出的结果。"
       },
       "review": {
         "difficulty": "medium",
@@ -249,9 +249,9 @@
         "vocabulary": [
           "pollinating"
         ],
-        "rationale": "imagine明确是假设暖春，花早虫照常展示时间分离；不是命名实测、共同延长或相同响应。保留假设与事实区别。",
+        "rationale": "选“说明本来相关的两个时间安排可能错开”：花提前而昆虫仍接近原日期。“报告一项具名长期研究”没有研究名称和结果；“双方觅食期都延长”与可能少访花、少食物相反；“信号对两者作用相同”也与时间分离相反。",
         "answer_evidence": "The flowers open earlier, while the insects appear close to their usual date.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -274,7 +274,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问怎样研究时间配合；“throughout the season”是整个季节持续记录。\n解析：要比较双方活动期及多年变化。单次花数不能呈现时间重合；单年的首只昆虫漏掉花期与持续活动；鸟种名单改成了另一个对象组合。\n下次：研究问题含时间关系，就记录双方的时间序列，再查次数和对象是否足够。"
+        "explanation": "读懂：题目问怎样最好研究花与昆虫的时间是否合拍。overlap 是“两者活跃时间重叠多少”。\n解析：选“跨季节比较开花与昆虫活动日期”：同时记录双方整个季节并持续多年，才能看重叠变化。“只记暖年第一只昆虫”少花期及后续；“最热下午数一次花”少时间变化与昆虫；“列开花时鸟类名单”研究对象不符。\n下次：研究两种时间关系，要同时记录两方并覆盖变化过程；检查数据能否真正比较重叠。"
       },
       "review": {
         "difficulty": "easy",
@@ -285,9 +285,9 @@
         "vocabulary": [
           "flowering"
         ],
-        "rationale": "按实际听题要求校正：持续记录花期与昆虫活动并跨年比较是讲者逐项给出的研究做法。",
+        "rationale": "选“跨季节比较开花与昆虫活动日期”：同时记录双方整个季节并持续多年，才能看重叠变化。“只记暖年第一只昆虫”少花期及后续；“最热下午数一次花”少时间变化与昆虫；“列开花时鸟类名单”研究对象不符。",
         "answer_evidence": "You would record flowering dates and insect activity throughout the season, ideally over several years.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -310,7 +310,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问核心区别；“replica”是新制作的复制品，供人体验使用动作。\n解析：原件保存历史实物，模型让人操作，二者互补。原件演示而复制品断代调换功能；必须取代原件误读并排展示；模型更可靠忽略现代材料等限制。\n下次：功能对比题给每个对象配上作用，再核对是否被调换或排成高低。"
+        "explanation": "读懂：题目问原物与复制品的核心区别。replica 是“新制作的复制品”，可让观众亲手操作。\n解析：选“原物保存历史证据，复制品展示使用动作”：玻璃中的脆弱把手保护了真物，工作模型让人体验用力。“模型比真物更可靠”无此优劣结论；“原物解释动作、复制品证明年代”颠倒作用；“只有替换原物才有价值”与并排展示相反。\n下次：比较两种展品，分别记它们能回答什么；别把互补作用改成谁必须取代谁。"
       },
       "review": {
         "difficulty": "medium",
@@ -321,9 +321,9 @@
         "vocabulary": [
           "replica"
         ],
-        "rationale": "原件保历史实物、模型演示使用过程，两项功能互补；其余项颠倒功能、错误比较可靠性或要求取代。解析清楚，保留。",
+        "rationale": "选“原物保存历史证据，复制品展示使用动作”：玻璃中的脆弱把手保护了真物，工作模型让人体验用力。“模型比真物更可靠”无此优劣结论；“原物解释动作、复制品证明年代”颠倒作用；“只有替换原物才有价值”与并排展示相反。",
         "answer_evidence": "One preserves direct evidence from the past; the other helps visitors explore an action that the protected object can no longer safely demonstrate.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -346,7 +346,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问这次体验最该还原什么；“resistance”指操作时感到的阻力。\n解析：活动让人感受操作所需力气，阻力直接相关。漆色对本活动较次要；木材年代不能代替操作感觉；原件隔柜位置是保护安排，也不能演示使用费力程度。\n下次：复制品细节题先找活动目标，再判断哪项特征会改变目标体验。"
+        "explanation": "读懂：题目问复制把手时哪项特征特别重要。resistance 是“推动把手时手上感到的阻力”。\n解析：选“移动时感到的阻力”：活动要体验印刷机操作有多费力，阻力直接决定体验。“木材的历史年龄”不是新复制品的必要条件；“原把手的保护展示位置”不是操作特征；“漆色完全相同”文中说对这项活动可能没那么重要。\n下次：复制品特征题先找体验目的，再选直接影响该体验的特征；外观相同不一定是最重要的。"
       },
       "review": {
         "difficulty": "easy",
@@ -357,9 +357,9 @@
         "vocabulary": [
           "resistance"
         ],
-        "rationale": "问题限定操作费力程度，所以阻力比木材年代、漆色、展示位置直接相关；答案唯一，解释按活动目标区分特征。",
-        "answer_evidence": "such as its size and the resistance a user would feel.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“移动时感到的阻力”：活动要体验印刷机操作有多费力，阻力直接决定体验。“木材的历史年龄”不是新复制品的必要条件；“原把手的保护展示位置”不是操作特征；“漆色完全相同”文中说对这项活动可能没那么重要。",
+        "answer_evidence": "The replica should match the relevant features of the original, such as its size and the resistance a user would feel.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -382,7 +382,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问简化机械结构可能意味着什么；“change the experience”是改变使用感受。\n解析：简化会使操作感受与过去有差别，所以展示有局限。精确漆色不能弥补机械差别；模型无法增强原件年代证据；隐瞒改动违背标签说明要求。\n下次：遇到模型简化，追踪被改变的体验，再检查结论是否承认这种局限。"
+        "explanation": "读懂：题目问简化机械结构可能带来什么。change the experience 是“让体验与过去实际操作不同”。\n解析：选“演示可能不同于原来的体验”：简化结构会改变动作或用力感，因此标签需说明变化。“不说明改动就使用”与透明说明相反；“漆色必须完全一致才有用”不对，此活动研究用力，原文说漆色可能没那么重要；“比真把手更能证明年代”也不对，新制模型演示动作，真把手才是从过去留下的实物证据。\n下次：推断模型的限制时，找被简化部分怎样影响体验；保留“可能”，不要扩大成完全无用。"
       },
       "review": {
         "difficulty": "easy",
@@ -393,9 +393,9 @@
         "vocabulary": [
           "mechanism"
         ],
-        "rationale": "按实际听题要求校正：现代材料或简化机制会改变体验已明示，无需据新模型自行判断哪些属性失真。",
+        "rationale": "选“演示可能不同于原来的体验”：简化结构会改变动作或用力感，因此标签需说明变化。“不说明改动就使用”与透明说明相反；“漆色必须完全一致才有用”不对，此活动研究用力，原文说漆色可能没那么重要；“比真把手更能证明年代”也不对，新制模型演示动作，真把手才是从过去留下的实物证据。",
         "answer_evidence": "Modern wood or a simplified mechanism could change the experience.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -418,7 +418,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问展开顺序；“fragile”是易损，开头由原件不能随意操作引出问题。\n解析：先提展示难题，再用复制品解决部分问题，最后补充局限及配合方式。发明史没有年代发展；问卷比较没有调查数据；模型取代原件把并排互补误读为替换。\n下次：结构题依次记问题、办法、限制等功能，再对照是否凭空加了研究或历史。"
+        "explanation": "读懂：题目问讲座如何展开。fragile 是“易损坏”，开头先提出真物无法安全让人操作的问题。\n解析：选“提出展示难题，给出工具，再讲局限”：脆弱把手难示范，复制品可操作，但材料与结构差别须说明。“按多年代追溯发明”没有；“对比改馆前后问卷”没有；“推荐模型替换真物”与最后并置两者相反。\n下次：结构题把各段功能写成动作，再核对顺序；尤其检查结尾是互补还是替换。"
       },
       "review": {
         "difficulty": "medium",
@@ -428,9 +428,9 @@
         "vocabulary": [
           "fragile"
         ],
-        "rationale": "通读全组确认依次为易损原件的展示难题、复制品方法、材料及机构局限，再强调互补；无历史演变和调查。保留结构题。",
-        "answer_evidence": "The two displays answer different questions.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“提出展示难题，给出工具，再讲局限”：脆弱把手难示范，复制品可操作，但材料与结构差别须说明。“按多年代追溯发明”没有；“对比改馆前后问卷”没有；“推荐模型替换真物”与最后并置两者相反。",
+        "answer_evidence": "That's why the label should explain what was reproduced and what was changed.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -453,7 +453,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问主要解释的过程；“shifting the channel sideways”是河道向侧面移动。\n解析：外岸侵蚀、内岸沉积共同改变弯道位置。调查得恒速忽略洪水使速度变化；内岸侵蚀把两岸作用调换；沉积固定弯道把促成位移的过程说成阻止变化。\n下次：过程主旨找变化对象和机制，再核对位置、方向及速度是否被误读。"
+        "explanation": "读懂：题目问主要解释哪个过程。erosion 是“侵蚀、带走材料”，deposition 是“沉积、留下材料”。\n解析：选“侵蚀和沉积如何让河弯移动”：外侧冲走、内侧堆积，共同令河道横向变化。“主要侵蚀内岸”方向反；“年度调查证明速度恒定”与洪水会加快相反；“沙沉积保持弯道固定”忽略两种过程正让河道移动。\n下次：听河弯过程，分别标外岸与内岸的变化，再合看河道结果；不要把方位记反。"
       },
       "review": {
         "difficulty": "medium",
@@ -464,9 +464,9 @@
         "vocabulary": [
           "deposition"
         ],
-        "rationale": "外岸侵蚀与内岸沉积共同让弯道侧移；干扰错置内岸作用、稳定效果、恒速假设，原解析完整。",
+        "rationale": "选“侵蚀和沉积如何让河弯移动”：外侧冲走、内侧堆积，共同令河道横向变化。“主要侵蚀内岸”方向反；“年度调查证明速度恒定”与洪水会加快相反；“沙沉积保持弯道固定”忽略两种过程正让河道移动。",
         "answer_evidence": "These two processes work together, shifting the channel sideways over time.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -489,7 +489,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问弯道内岸发生什么；“drop sand and gravel”是让沙子和砾石沉下来。\n解析：内岸水较慢，容易沉积。快水带走材料把外岸机制套到内岸；两侧同样堆积抹掉冲刷与沉积差别；外岸侵蚀阻止内岸沉积把可共同发生说成互斥。\n下次：空间对比题给位置分别配速度与过程，再检查是否串了两侧信息。"
+        "explanation": "读懂：题目问河弯内岸通常怎样。slower water 是“较慢的水流”，drop 指水流把砂石沉积下来。\n解析：选“较慢的水流留下砂和砾石”：原文直接说明内岸沉积。“快水带走砂石”是外侧侵蚀的方向；“两岸同量堆积”不对，讲者把外岸说成较快水流带走材料、内岸说成较慢水流沉积，作用并不相同；“外岸侵蚀使内岸不能沉积”与两过程并存相反。\n下次：听位置细节时，把方位、流速、结果绑在一起记；核对选项是否把另一位置的特征移过来。"
       },
       "review": {
         "difficulty": "easy",
@@ -500,9 +500,9 @@
         "vocabulary": [
           "gravel"
         ],
-        "rationale": "内岸慢水沉积沙砾明确；选项区分外岸机制和两岸同时但不同过程。基本细节题保留。",
-        "answer_evidence": "Near the inner bank, slower water can drop sand and gravel",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“较慢的水流留下砂和砾石”：原文直接说明内岸沉积。“快水带走砂石”是外侧侵蚀的方向；“两岸同量堆积”不对，讲者把外岸说成较快水流带走材料、内岸说成较慢水流沉积，作用并不相同；“外岸侵蚀使内岸不能沉积”与两过程并存相反。",
+        "answer_evidence": "Near the inner bank, slower water can drop sand and gravel, a process called deposition.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -525,7 +525,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问叠放透明图纸的目的；“on top of one another”是相互叠放。\n解析：各年岸线重叠能显示位置变化。单次河宽忽略跨年比较；推定以后恒定移动量忽略洪水影响；仅凭两岸距离算流速把宽度当成水流速度依据。\n下次：图示方法题先确定被比较的变量，再查选项是否换成别的量或过度预测。"
+        "explanation": "读懂：题目问把透明测绘纸叠起来的目的。annual survey 是“每年的测量记录”。\n解析：选“方便比较河岸位置的变化”：不同年份线条叠在一起，移动一眼可见。“从两岸距离计算流速”不是用途；“确定今后每年固定移动量”忽略速度可变；“用一个观察位置表示全河宽”也没体现跨年比较。\n下次：图示方法题先找它把哪几份信息放在一起；再问叠加后能直接看到什么变化。"
       },
       "review": {
         "difficulty": "medium",
@@ -535,9 +535,9 @@
         "vocabulary": [
           "transparent"
         ],
-        "rationale": "透明年图叠放只直观比较岸线位移，不能仅凭宽度算流速或预测恒速。原解释没有超出材料，保留。",
+        "rationale": "选“方便比较河岸位置的变化”：不同年份线条叠在一起，移动一眼可见。“从两岸距离计算流速”不是用途；“确定今后每年固定移动量”忽略速度可变；“用一个观察位置表示全河宽”也没体现跨年比较。",
         "answer_evidence": "Place the sheets on top of one another, and the shifting bend becomes visible.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -560,7 +560,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问紧靠当前河岸修路的隐患；“a changing corridor”是会变动的河流占用范围。\n解析：河道会移位，今天在岸外不保证以后安全。同一沙堆年年保护忽视冲淤变化；距离固定增长捏造恒速与方向；单张照片不能反映移动速度。\n下次：选址题遇到环境会变，比较当前边界和可能变化范围，再查是否误当静态。"
+        "explanation": "读懂：题目问贴近现河岸规划步道有什么隐患。changing corridor 是“未来河流可能占用的一带空间”。\n解析：选“河道移动后，眼下安全的位置可能不再安全”：不能只看今日水边。“同一沙堆年年保护”没有保证；“一张照片足以评估”看不出变化速度；“离水距离按固定速率增加”既不保证方向，也不保证速度固定。\n下次：规划位置题除看当前位置，还要问对象会不会移动；检查方案是否给未来变化留出空间。"
       },
       "review": {
         "difficulty": "medium",
@@ -571,9 +571,9 @@
         "vocabulary": [
           "corridor"
         ],
-        "rationale": "校正 hard 为 medium：讲者已明确提醒按变化中的河道走廊规划步道；正项只是概括安全性可能随河道变化。",
+        "rationale": "选“河道移动后，眼下安全的位置可能不再安全”：不能只看今日水边。“同一沙堆年年保护”没有保证；“一张照片足以评估”看不出变化速度；“离水距离按固定速率增加”既不保证方向，也不保证速度固定。",
         "answer_evidence": "The space a river may occupy matters as well as the space it occupies now.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -596,7 +596,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问旧信比喻的作用；“doesn't update the news”是不会让消息变成最新的。\n解析：放大使字清楚却不改消息年代，对应望远镜看清旧星光。文字比图像可靠换成资料优劣；放大看到更新阶段混淆清晰度与时间；旧记录该丢弃与可比较不同时期观测相反。\n下次：类比题把两边的相同关系配对，再排除只借用了物品却换了关系的说法。"
+        "explanation": "读懂：题目问望远镜为何比作读旧信的放大镜。update the news 是“把消息变成新的”，放大镜做不到。\n解析：选“区分看得更清与信息更新”：大望远镜能看清旧光，不能让已在路上的光代表现在。“旧观测应替换而非比较”与建议相反；“文字比图像可靠”未比较；“放大能看到更新阶段”恰是比喻否定的。\n下次：比喻题把两边对应起来：放大等于看清，信的年代等于光的出发时间；检查哪一项不会改变。"
       },
       "review": {
         "difficulty": "medium",
@@ -606,9 +606,9 @@
         "vocabulary": [
           "magnifying"
         ],
-        "rationale": "旧信类比对应清楚程度与消息年代的分离，不涉及可靠性高低或替换观测；三项错因已明说。",
+        "rationale": "选“区分看得更清与信息更新”：大望远镜能看清旧光，不能让已在路上的光代表现在。“旧观测应替换而非比较”与建议相反；“文字比图像可靠”未比较；“放大能看到更新阶段”恰是比喻否定的。",
         "answer_evidence": "The glass helps you see the writing; it doesn't update the news.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -631,7 +631,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问光年的含义；“a distance”明确说它是距离。\n解析：定义是光一年走过的距离。恒星可见多久换成时间；全年亮度换成发光程度；年观测次数则把单位误当工作量。\n下次：遇到带时间词的单位，先听定义测什么量，再核对选项的量是否一致。"
+        "explanation": "读懂：题目问光年量什么。a light-year is a distance 明说“光年是距离单位”。\n解析：选“光在一年中行进的距离”：一年用于说明走了多久，从而定义路程。“一年亮度”是发光强度；“一年观测次数”是计数；“恒星可见多久”是时长，都不是光年测量的量。\n下次：遇到带“年”的术语先听定义的类别；分清时间单位和借一年定义的距离单位。"
       },
       "review": {
         "difficulty": "easy",
@@ -642,9 +642,9 @@
         "vocabulary": [
           "light-year"
         ],
-        "rationale": "光年定义清楚为距离，亮度、次数、持续时间均换测量量；基础定义题可保留，非靠冷门天文知识。",
+        "rationale": "选“光在一年中行进的距离”：一年用于说明走了多久，从而定义路程。“一年亮度”是发光强度；“一年观测次数”是计数；“恒星可见多久”是时长，都不是光年测量的量。",
         "answer_evidence": "A light-year is a distance, the distance light travels in one year.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -667,7 +667,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问主旨；“an earlier chapter”比喻恒星过去的一个阶段。\n解析：星光传播需要时间，设备看得更清楚也仍是过去。大望远镜缩短路程时间混淆收光与传播；只放大一张图漏掉跨时或多星比较；亮度决定到达时间把距离关系换错。\n下次：主旨题保留核心原理和讲者强调的限制，检查设备能力是否被夸大。"
+        "explanation": "读懂：题目问讲座主旨。earlier chapter of its history 是“恒星过去的一段历史”。\n解析：选“远处星光显示过去，即使望远镜让图像更清”：光传播有延迟，更大仪器不改变光出发时间。“只能放大一张照片研究变化”与多时点或多恒星比较相反；“亮度说明何时到地球”没有；“大望远镜缩短光旅行时间”错误。\n下次：主旨题把原因“光要走一段时间”和限制“看清不能变新”连在一起。"
       },
       "review": {
         "difficulty": "medium",
@@ -678,9 +678,9 @@
         "vocabulary": [
           "fainter"
         ],
-        "rationale": "全文中心为传播时延让观察显示过去，大镜收光不改变这点；其余选项把亮度、放大能力或传播时间关系扭曲。",
-        "answer_evidence": "Distance gives astronomy a built-in view of the past.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“远处星光显示过去，即使望远镜让图像更清”：光传播有延迟，更大仪器不改变光出发时间。“只能放大一张照片研究变化”与多时点或多恒星比较相反；“亮度说明何时到地球”没有；“大望远镜缩短光旅行时间”错误。",
+        "answer_evidence": "It doesn't make the arriving light newer.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -703,7 +703,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问由距离差能推什么；“left that star”指星光离开恒星的时刻。\n解析：同一时刻收到的光，较远者走得更久，所以更早出发。距离不能决定恒星生命阶段；望远镜不能消除两者时差；较远也不意味着光速更快。\n下次：推断传播时差时固定接收时刻，再比较路程，检查是否混入天体年龄或速度变化。"
+        "explanation": "读懂：题目给两颗同样亮但距离不同的恒星，问能推出什么。farther 是“更远”，光需要走更久。\n解析：选“现在看到的较远恒星的光更早出发”：路程更远，传播所需时间更长。“远星光速更高”没有依据，文中以固定的一年光程定义光年，远近改变的是光要走的路程和所需时间；“大望远镜让两颗显示同一历史时刻”不能改变传播延迟；“近星必处于生命更早阶段”把距离造成的观察年代与恒星自身年龄混淆。\n下次：距离推断题只推光传播时间；不要从远近直接推恒星年龄或亮度。"
       },
       "review": {
         "difficulty": "medium",
@@ -714,9 +714,9 @@
         "vocabulary": [
           "observations"
         ],
-        "rationale": "由固定光速传播与同一接收时刻推远者更早出发，只需一步应用；不需要恒星年龄或专业计算，调为适中，原解释已分清。",
+        "rationale": "选“现在看到的较远恒星的光更早出发”：路程更远，传播所需时间更长。“远星光速更高”没有依据，文中以固定的一年光程定义光年，远近改变的是光要走的路程和所需时间；“大望远镜让两颗显示同一历史时刻”不能改变传播延迟；“近星必处于生命更早阶段”把距离造成的观察年代与恒星自身年龄混淆。",
         "answer_evidence": "The light entering our telescope tonight left that star one hundred years ago.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -739,7 +739,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问对自发小路的看法；“physical trace”是人走过后留下的实物痕迹。\n解析：痕迹提示需求，还须查地面条件及未留痕者。正式步道无用扩大结论；马上铺路跳过风险检查；代表所有人漏掉无法穿草地的人。\n下次：听证据价值时同时记它能说明什么、漏了谁，再核对结论范围。"
+        "explanation": "读懂：题目问怎样看待草地上踩出来的路。desire path 是“人们反复行走自然形成的小路”。\n解析：选“它提供有用线索，但还须调查”：它可能反映捷径需求，也可能积水、伤根或漏掉轮椅使用者。“代表人人偏好”漏掉未留下脚印的人；“正式道路通常没必要”不能推出，轮椅使用者可能正要靠正式道路通行，踩出的捷径只提示某些连接不足；“应赶在人们改习惯前铺路”未说，也跳过安全调查。\n下次：看到使用痕迹，先问它显示了谁的需求，再查哪些人和风险没被记录。"
       },
       "review": {
         "difficulty": "medium",
@@ -750,9 +750,9 @@
         "vocabulary": [
           "desire path"
         ],
-        "rationale": "草地足迹提示需求而不自动要求铺路，还要研究积水、根系及无足迹人群。主旨唯一，原解释兼顾价值和限制。",
-        "answer_evidence": "So designers should combine the physical trace with observations and conversations.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“它提供有用线索，但还须调查”：它可能反映捷径需求，也可能积水、伤根或漏掉轮椅使用者。“代表人人偏好”漏掉未留下脚印的人；“正式道路通常没必要”不能推出，轮椅使用者可能正要靠正式道路通行，踩出的捷径只提示某些连接不足；“应赶在人们改习惯前铺路”未说，也跳过安全调查。",
+        "answer_evidence": "designers should combine the physical trace with observations and conversations.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -775,7 +775,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问斜穿草地的痕迹说明什么；“overlooked”是原设计遗漏了。\n解析：人反复走捷径，提示两处间需要更直接的连接。绕远更方便与走捷径的行为不符；原计划已包含该路误把自发形成当正式步道；轮椅最易走此路忽略草地可通行性差异。\n下次：行为痕迹题先推最小的需求结论，再查是否把走得过的人当成所有用户。"
+        "explanation": "读懂：题目问图书馆到车站的斜向小路可能说明什么。overlooked 是“原设计没考虑到”。\n解析：选“原道路规划漏掉一条有用的直达联系”：人们走对角线说明现路可能绕远。“是轮椅最易走的路”不能从草地脚印推出；“多数人更爱长路”与走捷径相反；“原规划已有这条路”与自然踩出的定义不符。\n下次：从路线痕迹推需求时，只推它实际连接了哪里、节省了什么；别代表未使用的人。"
       },
       "review": {
         "difficulty": "easy",
@@ -786,9 +786,9 @@
         "vocabulary": [
           "diagonally"
         ],
-        "rationale": "自发斜路显示规划漏掉直达需求，不能推出所有人偏好或轮椅可用。基础行为推断有完整材料证据。",
+        "rationale": "选“原道路规划漏掉一条有用的直达联系”：人们走对角线说明现路可能绕远。“是轮椅最易走的路”不能从草地脚印推出；“多数人更爱长路”与走捷径相反；“原规划已有这条路”与自然踩出的定义不符。",
         "answer_evidence": "It can reveal a connection that the original design overlooked.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -811,7 +811,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问轮椅使用者例子的作用；“left no visible track”是没留下可见痕迹。\n解析：不能过草地的人需求被足迹遗漏。照搬痕迹形状忽略场地风险；保留绕远路为首选漏掉直接连接需求；走长路等于喜欢长路混淆被迫选择与偏好。\n下次：举例涉及缺席人群时，查证据是否看得见他们，再区分被迫选择与偏好。"
+        "explanation": "读懂：题目问提到轮椅使用者的作用。left no visible track 是“没有留下可见痕迹”。\n解析：选“指出草地上看不见的一些需求”：轮椅使用者可能被迫绕远，脚印没有记下他们。“长路说明喜欢长路”把被迫当偏好；“必须照脚印形状铺路”不对，原路线还可能积水或伤树根；“建议保留长路为最佳方案”也不对，轮椅使用者是被迫绕远，应调查如何满足其更方便通行的需求。\n下次：看到观察数据，问谁因无法参与而没有被记录；没有痕迹不等于没有需求。"
       },
       "review": {
         "difficulty": "medium",
@@ -822,9 +822,9 @@
         "vocabulary": [
           "wheelchair"
         ],
-        "rationale": "轮椅者走长路可能是被迫，足迹遗漏其需求；例子作用与三种错误推广已说清。",
+        "rationale": "选“指出草地上看不见的一些需求”：轮椅使用者可能被迫绕远，脚印没有记下他们。“长路说明喜欢长路”把被迫当偏好；“必须照脚印形状铺路”不对，原路线还可能积水或伤树根；“建议保留长路为最佳方案”也不对，轮椅使用者是被迫绕远，应调查如何满足其更方便通行的需求。",
         "answer_evidence": "Someone using a wheelchair may have been forced to take the longer sidewalk and left no visible track.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -847,7 +847,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问捷径积水时怎样处理；“which connection people need”是人们需要哪两处连通。\n解析：保留通行需求，另找安全实现方式。走的人多不证明雨天安全；已有绕远路不等于没有直达需求；地面有问题也不抹掉痕迹反映的连接需要。\n下次：现有路线有障碍时拆开需求与路线，再检查替代方案能否安全满足同一需求。"
+        "explanation": "读懂：题目问热门捷径会积水时怎么办。safely for a wider range of users 是“让更多不同使用者都能安全通行”。\n解析：选“另找办法满足同样的通行需要”：需要仍在，但原线有积水风险。“多人走就证明安全，照原线铺”错误；“有长路就不需要直达”忽略捷径需求；“积水让痕迹完全无价值”又把有用线索全否定。\n下次：把“人想去哪里”和“现有线路是否安全”分开；保留需求，再找可行路线。"
       },
       "review": {
         "difficulty": "medium",
@@ -858,9 +858,9 @@
         "vocabulary": [
           "shortcut"
         ],
-        "rationale": "校正 hard 为 medium：积水是原文已有的例子，另找安全办法满足通行需要属于一般的建议应用。",
+        "rationale": "选“另找办法满足同样的通行需要”：需要仍在，但原线有积水风险。“多人走就证明安全，照原线铺”错误；“有长路就不需要直达”忽略捷径需求；“积水让痕迹完全无价值”又把有用线索全否定。",
         "answer_evidence": "It's which connection people need, and how to provide it safely for a wider range of users.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -883,7 +883,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问主题；“signals often work together”指多种信号配合起作用。\n解析：语法、语调、目光与时序共同帮助轮流说话。语法消除停顿夸大作用；电话用户喜欢同时说把技术延迟当偏好；沉默控制谈话把研究重点换成夺取控制权。\n下次：主旨题把各例子归到共同作用，再核对是否把偶发现象说成意图。"
+        "explanation": "读懂：题目问对话讲座的主旨。turn 是“轮到一个人说话的一轮”。\n解析：选“帮助人们安排说话轮次的线索”：语法、语调、眼神和延迟共同影响接话。“语法阻止日常停顿”不对，例句正是在语法未完整时停顿；“沉默用来控制对话”偏离重点，文中说不能仅凭安静决定对方已说完，还要看语法、声调和眼神；“电话用户喜欢同时说话”把无意重叠当成偏好。\n下次：主旨题把反复出现的线索归到共同目的：它们帮助判断何时接话。"
       },
       "review": {
         "difficulty": "medium",
@@ -894,9 +894,9 @@
         "vocabulary": [
           "closure"
         ],
-        "rationale": "语法、语调、目光及通信延迟共同解释轮流接话，不是防止停顿、抢控制权或喜欢重叠。原主旨说明保留。",
-        "answer_evidence": "These signals often work together.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“帮助人们安排说话轮次的线索”：语法、语调、眼神和延迟共同影响接话。“语法阻止日常停顿”不对，例句正是在语法未完整时停顿；“沉默用来控制对话”偏离重点，文中说不能仅凭安静决定对方已说完，还要看语法、声调和眼神；“电话用户喜欢同时说话”把无意重叠当成偏好。",
+        "answer_evidence": "Grammar can suggest that a sentence is complete, a falling voice can signal closure, and a glance may invite the listener to respond.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -919,7 +919,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问未完短语后为何不能只凭停顿接话；“unfinished grammar”是语法结构尚未完成。\n解析：结构未完提示还有后文。完整提问待答套用了后面的另一例子；决定换题把停顿擅定为主题转换；看向别处邀请他人加入了本例未给的目光动作。\n下次：遇到停顿先看句子是否说完，再合并其他信号，检查是否仅凭沉默判断。"
+        "explanation": "读懂：题目问未完成句后的停顿为何不一定请人接话。unfinished grammar 是“句子在语法上还没说完整”。\n解析：选“语法表明后面还有话”：说“我本想问你关于……”后仍缺内容。“决定换话题”没有依据，未完成的句子更提示原来这句话还要继续；“问题已完成等答案”与未完成相反；“看向别处邀请别人”没有这个动作。\n下次：听停顿时同时检查句子是否完整；不要仅凭安静就判断轮到自己说。"
       },
       "review": {
         "difficulty": "easy",
@@ -930,9 +930,9 @@
         "vocabulary": [
           "unfinished"
         ],
-        "rationale": "未完句法说明仍有后文，不能仅凭停顿判断让出话轮；另项挪用完整问句、臆造换话题或目光。原说明具体。",
+        "rationale": "选“语法表明后面还有话”：说“我本想问你关于……”后仍缺内容。“决定换话题”没有依据，未完成的句子更提示原来这句话还要继续；“问题已完成等答案”与未完成相反；“看向别处邀请别人”没有这个动作。",
         "answer_evidence": "The unfinished grammar tells you more words are probably coming.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -955,7 +955,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问延迟电话中同时开口能推什么；“neither intended to interrupt”是双方都未打算打断。\n解析：看不到目光又有时延，可能误判接话时机。双方想控制谈话擅加动机；句子必须未完把一个例子变必要条件；忽略可见邀请与电话缺少视觉线索矛盾。\n下次：同时发生的行为先查环境限制，再判断意图，排除带必然动机的推断。"
+        "explanation": "读懂：题目问有延迟的电话中两人同时开口能说明什么。visual cue 是“眼神等视觉提示”。\n解析：选“可能因提示缺失或延迟而同时说话”：电话看不到眼神，回复又变慢，双方可能误判。“两人都想夺控制权”不能断定；“句子必不完整”没有保证；“有人无视看得见的邀请”电话中本就少了视觉线索。\n下次：听到同时说话，先查渠道与延迟；把可观察的重叠同是否故意抢话分开。"
       },
       "review": {
         "difficulty": "medium",
@@ -966,9 +966,9 @@
         "vocabulary": [
           "overlap"
         ],
-        "rationale": "电话缺视觉、回复延迟导致同时开口且无打断意图，材料已直接展开这条因果，不应标困难推断；改适中并保留完整解释。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
-        "answer_evidence": "You lose the visual cue, and the timing of the reply changes.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“可能因提示缺失或延迟而同时说话”：电话看不到眼神，回复又变慢，双方可能误判。“两人都想夺控制权”不能断定；“句子必不完整”没有保证；“有人无视看得见的邀请”电话中本就少了视觉线索。",
+        "answer_evidence": "Two people may start together even though neither intended to interrupt.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -991,7 +991,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问区分两种同时说话的目的；“social meaning”是行为在人际交往中的含义。\n解析：声音重叠未必是有意抢话，还要看上下文。录音无法研究把证据有限扩大成无用；停顿全是夺权混淆停顿与重叠；目光消除一切不确定又夸大单一信号。\n下次：概念区分题找多出来的判断条件，再查是否只凭表面现象下结论。"
+        "explanation": "读懂：题目问为何区分声音重叠与故意打断。social meaning 是“这样说话是否表示抢话、控制等意图”。\n解析：选“提醒不能只凭声音判断意图”：同样同时出声可能因延迟，也可能故意抢话。“视觉提示消除所有不确定”不对，眼神只是与语法、语调共同使用的一项线索；“每次停顿都在夺控制权”不对，停顿也可能在未完成句中等待后续；“不能用录音研究对话”过度，原文只是要求还要结合前后对话和参与者能接收到的提示。\n下次：判断意图时补看前后对话和可用提示；别把一种声音现象直接等同一种动机。"
       },
       "review": {
         "difficulty": "medium",
@@ -1002,9 +1002,9 @@
         "vocabulary": [
           "interruption"
         ],
-        "rationale": "重叠是声学现象，抢话多了控制意图；区分旨在防止仅凭声音判断社会含义。原解析恰当，不宣称录音无用。",
+        "rationale": "选“提醒不能只凭声音判断意图”：同样同时出声可能因延迟，也可能故意抢话。“视觉提示消除所有不确定”不对，眼神只是与语法、语调共同使用的一项线索；“每次停顿都在夺控制权”不对，停顿也可能在未完成句中等待后续；“不能用录音研究对话”过度，原文只是要求还要结合前后对话和参与者能接收到的提示。",
         "answer_evidence": "The sound pattern alone doesn't settle the social meaning.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1027,7 +1027,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问主要观点；“how those contents are arranged”是材料如何排列、堆放。\n解析：材料间隙影响水和空气，进而影响分解。紧压最好与缺氧机制相反；加水解决一切忽略已湿透的情况；容器大小比成分重要是文中未比较的因素。\n下次：主旨题找例子共同解释的变量，再保留结尾强调的多个条件。"
+        "explanation": "读懂：题目问堆肥讲座的主旨。arranged 是“这些材料怎样堆放”，会影响空气能否进入。\n解析：选“材料排列影响分解所需条件”：压紧湿料堵气，粗干料和翻动能增加通气。“越压紧越好”相反；“原料不如容器大小重要”未比较；“慢堆肥都靠加水解决”忽略过湿时缺氧。\n下次：主旨题连接材料摆放、空气水分和分解效果；排除把单一操作当通用答案。"
       },
       "review": {
         "difficulty": "medium",
@@ -1038,9 +1038,9 @@
         "vocabulary": [
           "decomposition"
         ],
-        "rationale": "成分与堆放结构共同影响微生物的水氧条件；其余选项夸大压实、加水或引入未比大小。解释明确。",
-        "answer_evidence": "The point is that what a pile contains and how those contents are arranged both matter.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“材料排列影响分解所需条件”：压紧湿料堵气，粗干料和翻动能增加通气。“越压紧越好”相反；“原料不如容器大小重要”未比较；“慢堆肥都靠加水解决”忽略过湿时缺氧。",
+        "answer_evidence": "what a pile contains and how those contents are arranged both matter.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1063,7 +1063,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问湿材料压紧后的问题；“reaching the interior”是进入堆的内部。\n解析：空隙被压小或被水填满，氧气难进入。内部太干与湿透状况相反；更大气孔散湿倒转压实效果；氧气过多则把供应不足说成过剩。\n下次：因果题画出空隙、水、氧气的变化顺序，再查选项是否倒转变化。"
+        "explanation": "读懂：题目问湿料压太紧为什么不好。oxygen 是“氧气”，微生物需要它。\n解析：选“限制氧气进入内部”：材料挤紧、水填满小空隙，空气难进。“内部太干”与湿料相反；“氧气过多”方向相反；“空隙变大让水跑掉”也与空隙被堵相反。\n下次：原因题沿“压紧→空隙被水占→氧进不去”核对，注意别把变化方向反过来。"
       },
       "review": {
         "difficulty": "easy",
@@ -1074,9 +1074,9 @@
         "vocabulary": [
           "oxygen"
         ],
-        "rationale": "湿且压紧填塞空气通道，氧气不易进入；干燥、气孔扩大、氧气过多均反转原机制，保留。",
+        "rationale": "选“限制氧气进入内部”：材料挤紧、水填满小空隙，空气难进。“内部太干”与湿料相反；“氧气过多”方向相反；“空隙变大让水跑掉”也与空隙被堵相反。",
         "answer_evidence": "Oxygen then has trouble reaching the interior.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1099,7 +1099,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问为什么保持配料和湿度相同；“loosely packed”是松散堆放。\n解析：控制其他条件，才较容易比较松紧结构的作用。水分无作用把控制变量当否定作用；速度必相同抹掉待观察差异；比较哪种成分最快需区分成分，此处比较的是同配方堆法。\n下次：实验条件相同题先找唯一变化项，再查是否把控制条件误读成研究结论。"
+        "explanation": "读懂：题目问实验为什么让两容器原料与水分相同。packing structure 是“堆得松还是紧”。\n解析：选“让松紧成为主要比较差别”：这样观察到的变化更能用来研究结构作用。“保证分解一样快”不对，两组松紧不同正可能使分解速度不同；“证明水分无作用”也不对，只是把水分固定住以免它干扰本次比较，没有检验水分不同的结果；“找哪种原料最快”原料没有被分别比较。\n下次：比较实验先找唯一主动改变的因素；其他条件相同是为了减少别的解释，不是保证结果相同。"
       },
       "review": {
         "difficulty": "medium",
@@ -1110,9 +1110,9 @@
         "vocabulary": [
           "compressing"
         ],
-        "rationale": "配料和湿度相同，把松紧安排作为主要比较项；不意味着湿度无效或速率必同。合理实验理解，保留。",
-        "answer_evidence": "two containers with the same ingredients and moisture level, leaving one loosely packed and compressing the other.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“让松紧成为主要比较差别”：这样观察到的变化更能用来研究结构作用。“保证分解一样快”不对，两组松紧不同正可能使分解速度不同；“证明水分无作用”也不对，只是把水分固定住以免它干扰本次比较，没有检验水分不同的结果；“找哪种原料最快”原料没有被分别比较。",
+        "answer_evidence": "leaving one loosely packed and compressing the other.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1135,7 +1135,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问湿透又压实的堆该改善什么；“keep passages open”是保持通道畅通。\n解析：当前缺空气通道，应改善疏松度。继续压实会加重堵塞；淹没使空气更难进入；加细湿食料只增材料和湿度，没有解决通气问题。\n下次：处理故障先确认缺少或过多的条件，再配措施，检查是否会加重原问题。"
+        "explanation": "读懂：题目问已泡湿又压紧的堆肥该如何改善。air passages 是“让空气通过的空隙”。\n解析：选“改善通气而非继续加水”：当前问题是空隙被堵、氧难进入。“继续压紧”更堵；“再加细湿碎屑”可能加重挤实；“加水至完全淹没”也更不利空气进入。\n下次：先判慢分解是缺水还是缺氧，再对症处理；不要把干堆的办法用在湿透的堆上。"
       },
       "review": {
         "difficulty": "medium",
@@ -1146,9 +1146,9 @@
         "vocabulary": [
           "coarser"
         ],
-        "rationale": "情境已湿透压实，应改善通气，另外三项加压或加湿使问题更重。原解释把措施与故障相连。",
+        "rationale": "选“改善通气而非继续加水”：当前问题是空隙被堵、氧难进入。“继续压紧”更堵；“再加细湿碎屑”可能加重挤实；“加水至完全淹没”也更不利空气进入。",
         "answer_evidence": "Mixing in coarser dry material can help keep passages open",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1171,7 +1171,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问主旨；“trade-off”是取舍，保住某些关系会牺牲另一些。\n解析：地图须按任务评价，并理解限制。印刷精细消除全部变形把几何难题当印刷失误；保角也保面积合并了不同性质；世界图总不如局部图忽略用途不同。\n下次：工具评价题先找用途与保留信息，再检查选项是否要求它同时做到一切。"
+        "explanation": "读懂：题目问地图投影的核心观点。projection 是“把曲面地球转换成平面地图的规则”。\n解析：选“按地图目的评价投影”：比较面积与导航所需特征不同，没有一种保留全部。“世界地图做任何事都不如局部图”不对，跨国土地面积比较仍可用适当世界地图；“印刷仔细就消除失真”也不对，失真来自曲面转平面的取舍，不是印刷粗心；“保角度必也保面积”与文中两者取舍相反。\n下次：评价地图先问要比较什么，再看它保留哪项关系；不能只凭某处变形说整图无用。"
       },
       "review": {
         "difficulty": "medium",
@@ -1182,9 +1182,9 @@
         "vocabulary": [
           "projection"
         ],
-        "rationale": "曲面投影无法保全部关系，应按面积或导航任务评价；局部图、印刷清晰及保角选项均过度推广。原解释保留。",
-        "answer_evidence": "ask what it was designed to show.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“按地图目的评价投影”：比较面积与导航所需特征不同，没有一种保留全部。“世界地图做任何事都不如局部图”不对，跨国土地面积比较仍可用适当世界地图；“印刷仔细就消除失真”也不对，失真来自曲面转平面的取舍，不是印刷粗心；“保角度必也保面积”与文中两者取舍相反。",
+        "answer_evidence": "It's one whose choices fit the reader's task and whose limitations are understood.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1207,7 +1207,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问橘皮例子的作用；“without tearing or stretching”是不撕裂也不拉伸。\n解析：曲面难原样铺平，解释平面制图的取舍。放大兼保面积形状没有消除曲面难题；缩小免投影混淆比例与转换规则；平图贴回球面把演示方向反过来。\n下次：实物演示题提取起点、终点和困难，再对应抽象问题并核对方向。"
+        "explanation": "读懂：题目问压平橘皮的例子说明什么。flatten 是“弄成平面”。\n解析：选“曲面变平面很难不变形”：不撕不拉地摊平橘皮，类似地球转平面图。“平图转回球面”方向反；“放大世界图便同时保面积形状”不对，整体放大并不能修复把曲面摊成平面时产生的关系变化；“比例尺缩小就不需投影”也不能解决曲面转平面。\n下次：比喻题先核对变化方向，再找对应困难；大小改变不等于曲面问题消失。"
       },
       "review": {
         "difficulty": "easy",
@@ -1217,9 +1217,9 @@
         "vocabulary": [
           "curved"
         ],
-        "rationale": "橘皮从曲到平演示投影难题，干扰反向转换或误把缩放当消除变形；定义与类比通俗自足。",
+        "rationale": "选“曲面变平面很难不变形”：不撕不拉地摊平橘皮，类似地球转平面图。“平图转回球面”方向反；“放大世界图便同时保面积形状”不对，整体放大并不能修复把曲面摊成平面时产生的关系变化；“比例尺缩小就不需投影”也不能解决曲面转平面。",
         "answer_evidence": "Try flattening the peel of an orange without tearing or stretching it.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1242,7 +1242,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问保持面积比例意味着什么；“areas proportional”是面积成比例。\n解析：真实面积两倍，图上面积也两倍。边界转弯数属于形状复杂度；离中心距离属于位置；角度扩大则属于角度变化，三者都不能代替面积比例。\n下次：比例题先确定比较的量，再核对倍数作用于面积、长度还是角度。"
+        "explanation": "读懂：题目问等积地图如何显示实际面积为另一地两倍的地区。areas proportional 是“地图面积按实际比例对应”。\n解析：选“图上也占两倍面积”：这是等积的定义。“角度加倍”改变的是角度；“边界转折加倍”是形状细节；“离中心两倍远”是位置，三者都没有表达面积比例。\n下次：听比例定义时记清被比较的量和单位；两倍面积不能换成两倍距离或角度。"
       },
       "review": {
         "difficulty": "easy",
@@ -1253,9 +1253,9 @@
         "vocabulary": [
           "proportional"
         ],
-        "rationale": "二倍真实面积对应二倍图面面积，另外三项混入角度、边界复杂度和中心距离；无额外数学门槛，保留简单题。",
+        "rationale": "选“图上也占两倍面积”：这是等积的定义。“角度加倍”改变的是角度；“边界转折加倍”是形状细节；“离中心两倍远”是位置，三者都没有表达面积比例。",
         "answer_evidence": "a region twice as large on Earth occupies twice as much space on the map.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1278,7 +1278,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问比较国土面积该选什么地图；“area-preserving”是保持面积比例。\n解析：任务比较面积，应优先保面积并接受其他取舍。放大部分国家会歪曲比例；只保局部角度未回应任务；印刷清晰只改善可读性，不能证明比例合适。\n下次：选图先把研究问题变成必须保留的量，再检查清晰度和美观是否掩盖失真。"
+        "explanation": "读懂：题目问比较国家陆地面积的报告该选什么图。area-preserving 是“保留面积比例的”。\n解析：选“优先保持相对面积，即使形状有所变化”：任务就是比较土地多少。“不管面积只保局部角度”服务错了目的；“印得清楚便准确”与投影取舍无关；“为了标签放大北方国家”反而使面积比较失真。\n下次：按报告问题选地图特征：比较面积就保面积，再接受与任务无关的必要变形。"
       },
       "review": {
         "difficulty": "medium",
@@ -1289,9 +1289,9 @@
         "vocabulary": [
           "distortion"
         ],
-        "rationale": "比较国土大小需保相对面积，可接受形状变化；印刷、局部角度或北方国家放大不能回应任务。当前适中合理。",
+        "rationale": "选“优先保持相对面积，即使形状有所变化”：任务就是比较土地多少。“不管面积只保局部角度”服务错了目的；“印得清楚便准确”与投影取舍无关；“为了标签放大北方国家”反而使面积比较失真。",
         "answer_evidence": "If we're comparing how much land different countries contain, an area-preserving map helps answer that question.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1314,7 +1314,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问主要解释什么；“syncopation”是切分节奏，把重音放在预期之外的位置。\n解析：稳定拍子与错位重音形成张力。歌手取代鼓手误把配合当替代；必须加速混淆速度和重音位置；合奏消除张力与这里用声部对比产生张力相反。\n下次：音乐概念题先区分速度、拍子和重音，再检查选项是否混用了它们。"
+        "explanation": "读懂：题目问切分节奏讲座主要解释什么。syncopation 是“把重音放在通常不预期的位置”。\n解析：选“意外重音怎样与稳定节拍形成对照”：拍点仍在，歌声重音偏离它。“歌手逐渐替代鼓手节拍”不对，鼓手仍可维持规律节拍供歌声形成对照；“必须加速才有趣”也不对，原文说速度可保持稳定而重音位置变化；“多声部一起演奏就没张力”也相反，对照能产生张力。\n下次：听音乐主旨，分清“拍子是否稳定”和“重音放哪”；不要把错开重音等同加速。"
       },
       "review": {
         "difficulty": "medium",
@@ -1325,9 +1325,9 @@
         "vocabulary": [
           "syncopation"
         ],
-        "rationale": "错位重音以稳定拍子作参照而形成切分，不要求加速、替代鼓声或消除合奏张力。概念原文释义充分。",
-        "answer_evidence": "This is one way to create syncopation, an emphasis where the listener doesn't normally expect it.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“意外重音怎样与稳定节拍形成对照”：拍点仍在，歌声重音偏离它。“歌手逐渐替代鼓手节拍”不对，鼓手仍可维持规律节拍供歌声形成对照；“必须加速才有趣”也不对，原文说速度可保持稳定而重音位置变化；“多声部一起演奏就没张力”也相反，对照能产生张力。",
+        "answer_evidence": "It can create movement and tension within a pattern that remains quite steady.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1350,7 +1350,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问规律拍子有什么用；“hear the surprise”是听出出乎预期的感觉。\n解析：先有规律参照，错位重音才突出。乐器重音全一致会消掉对比；把偏移重音当稳定拍子混同参照与偏离；听起来更快换成了速度效果。\n下次：反差效果题找参照与偏离，再查是否把参照误写成必须完全一致。"
+        "explanation": "读懂：题目问稳定可辨的节奏为何有用。expect 是“预期”：先知道通常的拍点，才能听出重音偏离。\n解析：选“给听众一个预期，让意外重音突出”：稳定节拍提供对比。“把歌手偏移重音当固定拍”不对，听众需要保留原节拍作为参照，才能发现歌手的重音偏离了它；“强迫所有乐器同音重读”与不同声部对照相反；“不改音就令乐曲变快”不是作用。\n下次：问对照为何成立，先找作为参照的规律；没有参照就难判断哪里出乎预期。"
       },
       "review": {
         "difficulty": "medium",
@@ -1361,9 +1361,9 @@
         "vocabulary": [
           "accents"
         ],
-        "rationale": "规律提供预期，偏离才突出；不能把偏离当规律或把重音位置当速度。原解析解释作用和错误映射。",
+        "rationale": "选“给听众一个预期，让意外重音突出”：稳定节拍提供对比。“把歌手偏移重音当固定拍”不对，听众需要保留原节拍作为参照，才能发现歌手的重音偏离了它；“强迫所有乐器同音重读”与不同声部对照相反；“不改音就令乐曲变快”不是作用。",
         "answer_evidence": "a listener needs some sense of a regular pattern to hear the surprise.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1386,7 +1386,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问分两次听的目的；“Comparing the two”是比较低音与歌声两部分。\n解析：分别追踪后更易听出重音相对拍子的位置。判断谁出错把有意切分当失误；比较音量换了观察变量；演出应拆开误把练耳步骤当表演规定。\n下次：分步观察题先找每步追踪什么，再核对合并比较的目标。"
+        "explanation": "读懂：题目问先听低音、再听歌手的练习目的。pulse 是“基本拍点”，accents 是“重音”。\n解析：选“比较拍点与重音的位置”：低音标稳定拍，歌手重音偏移，分次关注后更易听差别。“音乐会必须分开演”把练习当演出规定；“测哪声更响”不是位置比较；“找谁出错”误把有意切分当失误。\n下次：听分次练习时记每次关注什么，再问两者要比较哪项特征。"
       },
       "review": {
         "difficulty": "easy",
@@ -1396,9 +1396,9 @@
         "vocabulary": [
           "pulse"
         ],
-        "rationale": "先追低音再听歌声是听辨重音与拍子的比较方法，不是音量、失误或演出分开要求。清楚的练耳目的题保留。",
+        "rationale": "选“比较拍点与重音的位置”：低音标稳定拍，歌手重音偏移，分次关注后更易听差别。“音乐会必须分开演”把练习当演出规定；“测哪声更响”不是位置比较；“找谁出错”误把有意切分当失误。",
         "answer_evidence": "Comparing the two makes the displaced accents easier to notice.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1421,7 +1421,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问各声部同时失去规律会怎样；“contrast”是相对于稳定节拍的反差。\n解析：参照不清会让错位重音难以辨认。必定加速把规律性换成速度；更易与稳定低音比较忽略低音也变了；都会落在相同拍点又与不可预测相反。\n下次：推断条件变化时检查参照是否还存在，再判断原有效果会增强还是减弱。"
+        "explanation": "读懂：题目问所有声部同时难以预测会怎样。contrast 是“固定节拍与偏移重音之间的反差”。\n解析：选“更难听出切分的反差”：规律不清，意外重音缺少参照。“必然听出更快拍子”没有依据，不可预测说明规律难辨，不说明单位时间内节拍变多；“更容易与稳定低音比较”此时低音也不稳定；“各声部开始强调同一规律拍”与不可预测相反。\n下次：推断失去参照的后果，先找原效果依赖什么；不要把难预测等同速度快。"
       },
       "review": {
         "difficulty": "medium",
@@ -1432,9 +1432,9 @@
         "vocabulary": [
           "unpredictable"
         ],
-        "rationale": "全部不可预测会削弱参照，错位反差更难辨；不必变快、不再有稳定低音、也非全部同拍。保留有条件结论。",
+        "rationale": "选“更难听出切分的反差”：规律不清，意外重音缺少参照。“必然听出更快拍子”没有依据，不可预测说明规律难辨，不说明单位时间内节拍变多；“更容易与稳定低音比较”此时低音也不稳定；“各声部开始强调同一规律拍”与不可预测相反。",
         "answer_evidence": "If every part becomes unpredictable at once, the contrast can be harder to hear.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1457,7 +1457,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问主旨；“insulation”是隔热，这里指减慢体热散失。\n解析：蓬起羽毛留住较静止的空气，减少热流失。变圆等于增重误判外形；羽毛产热混淆保热与产热；颜色控温则换成了文中未解释的机制。\n下次：外观变化题先找内部机制，再核对是减少损失还是增加产生。"
+        "explanation": "读懂：题目问鸟羽讲座主旨。insulation 是“减慢热量流失的保温作用”。\n解析：选“鸟能改变羽毛排列以减少散热”：蓬起羽毛困住较静止的空气。“冷时突然变重”被开头否定；“冬羽颜色控制体温”未讲颜色；“羽毛自己制造热”明确否定，热来自身体。\n下次：保温题先分清“产生热”与“减少热跑掉”；再找结构怎样影响后者。"
       },
       "review": {
         "difficulty": "medium",
@@ -1468,9 +1468,9 @@
         "vocabulary": [
           "insulation"
         ],
-        "rationale": "保温来自羽层排列留住静止空气，不是颜色、增重或羽毛产热；材料解释隔热术语，原三行完整清楚。",
-        "answer_evidence": "It shows how changing the arrangement of a covering can change the movement of heat through it.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“鸟能改变羽毛排列以减少散热”：蓬起羽毛困住较静止的空气。“冷时突然变重”被开头否定；“冬羽颜色控制体温”未讲颜色；“羽毛自己制造热”明确否定，热来自身体。",
+        "answer_evidence": "Between those feathers are pockets of relatively still air, and that air slows the loss of heat from the bird's warm body.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1493,7 +1493,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问被保住的热来自哪里；“the body produces”是身体产生的。\n解析：身体产热，羽毛和空气减慢散失。羽毛生热混淆隔热材料与热源；空气独立供热也把保存当产生；羽层更重而生热则把重量变化当成热源。\n下次：来源题把产生、保存和传递分开，再核对题目问的是哪一环。"
+        "explanation": "读懂：题目问被羽毛留住的热主要来自哪里。body produces 是“身体产生”。\n解析：选“鸟自身身体产生的热”：羽毛负责保留。“羽毛材料自己发热”被否定；“羽层变重产生温暖”不对，开头说鸟没有突然增重，只是蓬起羽毛，作用是留空气减少身体散热；“困住的空气独立供热”也错，空气减慢流失而非热源。\n下次：问热源时追到“谁产生”，不要把保存热量的材料当成产生热的东西。"
       },
       "review": {
         "difficulty": "easy",
@@ -1504,9 +1504,9 @@
         "vocabulary": [
           "retain"
         ],
-        "rationale": "身体才是热源，空气和羽毛减慢流失；答案明确，另三项将保存混同产生，原解释保留。",
+        "rationale": "选“鸟自身身体产生的热”：羽毛负责保留。“羽毛材料自己发热”被否定；“羽层变重产生温暖”不对，开头说鸟没有突然增重，只是蓬起羽毛，作用是留空气减少身体散热；“困住的空气独立供热”也错，空气减慢流失而非热源。",
         "answer_evidence": "The feathers don't manufacture heat; they help retain heat the body produces.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1529,7 +1529,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问羽毛压扁、留气减少的影响；“compressed”是被压紧。\n解析：较静止的空气能隔热，减少后保热能力可能下降。羽毛加热补偿与羽毛不产热相反；材料没变就同样保暖忽略排列；越密越保暖则漏掉被挤走的空气。\n下次：机制应用题改变一个条件，沿原因果链推结果，再检查是否只看材料而忽略结构。"
+        "explanation": "读懂：题目问羽毛压平、能留的空气变少会怎样。hold less still air 是“困住较少静止空气”。\n解析：选“减慢散热的能力可能下降”：静止空气少，保温可能变差。“羽毛增产热来补偿”羽毛不产热；“更密就保温更好”忽略空气减少；“材料没变就保温一样”忽略排列也影响功能。\n下次：应用保温原理时，查看结构能否留住空气；材料相同不保证效果相同。"
       },
       "review": {
         "difficulty": "medium",
@@ -1540,9 +1540,9 @@
         "vocabulary": [
           "compressed"
         ],
-        "rationale": "留气减少可能降低隔热能力，需结合空气作用与压扁后果；材料不变不代表结构作用不变。现有适中题合理。",
+        "rationale": "选“减慢散热的能力可能下降”：静止空气少，保温可能变差。“羽毛增产热来补偿”羽毛不产热；“更密就保温更好”忽略空气减少；“材料没变就保温一样”忽略排列也影响功能。",
         "answer_evidence": "If the layers are compressed or badly disrupted, they may hold less still air.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1565,7 +1565,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问夹克类比有什么用。air held within it 是“留在夹克内部的空气”。\n解析：夹克和羽毛都靠内部空气减慢散热，熟悉的衣服帮助理解鸟的保温方式。重点不是布料厚重，也不是比较谁产热；把覆盖层压紧还可能挤走空气，不能因此断定更保暖。\n下次：遇到生活类比，先找两者相同的工作方式，再检查选项是否只抓外形、重量或换了机制。"
+        "explanation": "读懂：题目问提到保暖夹克的目的。air held within it 是“夹克填充物里留住的空气”。\n解析：选“帮助理解困住空气的作用”：熟悉衣物例子说明保暖不仅看重量。“布厚是主要热源”把厚度当发热；“比较布料与羽毛产生多少热”两者作用是保温；“压紧能更保暖”与压缩失去空气相反。\n下次：生活类比题找共同作用：衣服与羽毛都留住空气；不要把材料重量当热源。"
       },
       "review": {
         "difficulty": "easy",
@@ -1575,9 +1575,9 @@
         "vocabulary": [
           "fabric"
         ],
-        "rationale": "类比核心为留气减慢散热；修改“布厚当热源”的过窄解释，准确区分原选项的厚度强调和材料产热，其他内容保留。",
+        "rationale": "选“帮助理解困住空气的作用”：熟悉衣物例子说明保暖不仅看重量。“布厚是主要热源”把厚度当发热；“比较布料与羽毛产生多少热”两者作用是保温；“压紧能更保暖”与压缩失去空气相反。",
         "answer_evidence": "Much of its usefulness comes from the air held within it, not simply from the weight of the fabric.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1600,7 +1600,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问讲座讨论的问题；“a spread of viewpoints”是分散在各处的观察角度。\n解析：布景既要表现环境，也要让不同座位看清。只用中央视角漏掉侧席；保留复杂布景却挡动作牺牲可见性；移除场景虽解遮挡，却丢掉戏剧情境。\n下次：设计问题题先列两个须兼顾的目标，再查选项是否遗漏其中一个。"
+        "explanation": "读懂：题目问舞台设计的主要难题。sightline 是“观众眼睛到舞台某处的视线”。\n解析：选“兼顾场景布置和不同座位的可见性”：要保留剧情环境，又让侧席看见重要动作。“只以中间位置为标准”被否定；“哪怕挡动作也保布景”只顾一端；“拆掉场景来改善视野”牺牲另一目标。\n下次：遇到设计取舍，记清必须同时满足哪两个要求；别选只解决一端的极端办法。"
       },
       "review": {
         "difficulty": "medium",
@@ -1611,9 +1611,9 @@
         "vocabulary": [
           "sightline"
         ],
-        "rationale": "舞台布景表现剧情与多个座位的可见性必须兼顾；其余选项只保一方目标。原说明给出具体取舍，保留。",
+        "rationale": "选“兼顾场景布置和不同座位的可见性”：要保留剧情环境，又让侧席看见重要动作。“只以中间位置为标准”被否定；“哪怕挡动作也保布景”只顾一端；“拆掉场景来改善视野”牺牲另一目标。",
         "answer_evidence": "The task is to coordinate what the stage represents with what spectators can actually see.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1636,7 +1636,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问为何只查中央视角不够；“block that line”是挡住那条视线。\n解析：观察角度不同，布景可能遮住侧席所见入口。门窄涉及演员能否通行；换入口涉及表演路线；模型尺寸错误涉及制作比例，三者都不是讲者指出的座位视角差异。\n下次：可见性题区分观察位置、实际通行与模型尺寸，再锁定讲者所解释的问题。"
+        "explanation": "读懂：题目问为什么中央看得见还不够。seats near the sides 是“靠边的座位”。\n解析：选“布景可能挡住侧席看入口的视线”：观看角度不同，同一道具会产生不同遮挡。“入口太窄”谈演员能否通过，本文是观众视线是否被挡；“模型比例错”没有依据，小模型是用来发现角度问题的工具；“演员改走别处”也没发生，同一个入口从不同座位看就可能有差别。\n下次：视野题按观察者位置分别判断；不要把一个最佳座位的所见代表所有观众。"
       },
       "review": {
         "difficulty": "easy",
@@ -1647,9 +1647,9 @@
         "vocabulary": [
           "spectator"
         ],
-        "rationale": "中央可见不代表侧席可见，门宽、演员路线和模型比例是不同问题；答案唯一且原解释逐项区分。",
+        "rationale": "选“布景可能挡住侧席看入口的视线”：观看角度不同，同一道具会产生不同遮挡。“入口太窄”谈演员能否通过，本文是观众视线是否被挡；“模型比例错”没有依据，小模型是用来发现角度问题的工具；“演员改走别处”也没发生，同一个入口从不同座位看就可能有差别。",
         "answer_evidence": "Scenery that looks harmless from the center can block that line from seats near the sides.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1672,7 +1672,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问小模型的好处；“before anything is built at full size”是正式按实物尺寸建造前。\n解析：先移动墙面、平台检查视线，能提前处理问题。所有人同视角违背多位置检查；无需表现环境丢掉舞台目标；首稿后不能改与模型可试调正相反。\n下次：原型用途题先找它提前检验什么，再确认它是否仍须服务最终目标。"
+        "explanation": "读懂：题目问小舞台模型的好处。before anything is built at full size 是“正式按实物大小建造以前”。\n解析：选“建造前就能处理视线问题”：模型里可移动墙和台面试方案。“首图后布景必须固定”相反；“可假定观众同视点”也相反；“最终设计不用表现剧情环境”没有取消这项要求。\n下次：工具优势题找它使哪项工作更早、更方便完成；不要把试验工具理解成省略设计目标。"
       },
       "review": {
         "difficulty": "easy",
@@ -1683,9 +1683,9 @@
         "vocabulary": [
           "platforms"
         ],
-        "rationale": "按实际听题要求校正：在全尺寸制作前移动模型中的墙和平台已给出，其他选项否认模型的基本目的。",
+        "rationale": "选“建造前就能处理视线问题”：模型里可移动墙和台面试方案。“首图后布景必须固定”相反；“可假定观众同视点”也相反；“最终设计不用表现剧情环境”没有取消这项要求。",
         "answer_evidence": "they can move walls and platforms before anything is built at full size.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1708,7 +1708,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问转动书柜为何更合适；“while opening the view”是同时让视线通畅。\n解析：小调整兼顾看清入口与保留场景。只顾中间席与修正侧席遮挡相反；书柜变主角不是设计目标；继续藏住入口则没有解决例中的问题。\n下次：方案比较题列出每个方案保住和牺牲的目标，再选同时满足关键目标者。"
+        "explanation": "读懂：题目问转动书架为何好于拆掉所有布景。preserve 是“保留”，opening the view 是“让视线通畅”。\n解析：选“改善视野，同时保留预期场景”：稍转书架可能兼顾两者。“只考虑中央观众”违背多视点原则；“使左席仍看不见入口”与目的相反；“让书架成为演出中心”没有依据，转动是让观众看见演员入口，同时保留房间布置，并非把注意力引向书架。\n下次：比较修改方案时，检查它解决遮挡后是否保住另一必要功能；小调整也可能兼顾两端。"
       },
       "review": {
         "difficulty": "medium",
@@ -1719,9 +1719,9 @@
         "vocabulary": [
           "scenery"
         ],
-        "rationale": "旋转书柜兼顾侧席视线及场景氛围，既不继续遮挡也不将书柜变焦点；材料直接给出双目标，保留适中。",
+        "rationale": "选“改善视野，同时保留预期场景”：稍转书架可能兼顾两者。“只考虑中央观众”违背多视点原则；“使左席仍看不见入口”与目的相反；“让书架成为演出中心”没有依据，转动是让观众看见演员入口，同时保留房间布置，并非把注意力引向书架。",
         "answer_evidence": "Turning it slightly might preserve the intended room design while opening the view.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1744,7 +1744,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问主要目的；“remain blended longer”是保持混合状态更久。\n解析：讲座解释液滴分开与乳化剂延缓分层。摇晃永久转化液体误读物理混合；营养比较换了评价目标；消除分层所需用量既未给数值，也超出较慢分层的结论。\n下次：过程讲座先锁定比较的性质，再查选项是否把延缓说成永久消除。"
+        "explanation": "读懂：题目问油醋混合讲座目的。emulsion 是“一种液体以小液滴分散在另一种中”，并非永久合为一种物质。\n解析：选“解释有些混合物为何保持混合更久”：芥末能减缓油滴重新聚合。“确定永久不分层所需芥末量”没测数量且不保证永久；“比较营养”未讲；“摇晃永久改变液体种类”明确否定。\n下次：主旨题注意研究的是保持多久；别把延缓分离夸成永不分离或化学转变。"
       },
       "review": {
         "difficulty": "medium",
@@ -1755,9 +1755,9 @@
         "vocabulary": [
           "emulsion"
         ],
-        "rationale": "摇动形成分散油滴，乳化剂延缓聚合再分层；主旨是稳定时间而非营养或永久转化，术语文内解释。",
-        "answer_evidence": "The useful result is a slower return to separate layers",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“解释有些混合物为何保持混合更久”：芥末能减缓油滴重新聚合。“确定永久不分层所需芥末量”没测数量且不保证永久；“比较营养”未讲；“摇晃永久改变液体种类”明确否定。",
+        "answer_evidence": "the mixture can remain blended longer.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1780,7 +1780,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问芥末如何起作用；“keep the droplets from joining”是阻止小液滴合在一起。\n解析：液滴较少聚合，分层变慢。除去油滴把稳定油滴当去油；水变油把物理状态当成分转化；无需打散忽略仍要摇晃形成液滴。\n下次：物质作用题找它改变哪一步，再核对是形成、维持还是移除对象。"
+        "explanation": "读懂：题目问芥末怎样起作用。droplets 是“小液滴”，joining 是“合并到一起”。\n解析：选“帮助防止小油滴聚合”：这样较慢回到分层。“代替把油打成滴”仍需摇晃；“摇后清除油滴”并未移除油；“把水变第二层油”更不是乳化作用。\n下次：听物质作用，锁定它影响的具体过程；区别减少聚合、去除物质和改变物质种类。"
       },
       "review": {
         "difficulty": "easy",
@@ -1791,9 +1791,9 @@
         "vocabulary": [
           "emulsifier"
         ],
-        "rationale": "芥末帮助液滴不聚合，非把油去掉、水变油或免摇匀。原因果和三项错因已清楚。",
+        "rationale": "选“帮助防止小油滴聚合”：这样较慢回到分层。“代替把油打成滴”仍需摇晃；“摇后清除油滴”并未移除油；“把水变第二层油”更不是乳化作用。",
         "answer_evidence": "Mustard contains substances that help keep the droplets from joining",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1816,7 +1816,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问刚摇完同样均匀能说明多少；“over time”指随时间推移。\n解析：瞬间外观不能判定维持多久，还要追踪分层。芥末无后效把当前相同当未来相同；乳化剂等量无法从外观推出；不必再观察恰好漏掉稳定性的时间维度。\n下次：稳定性题看到一次结果，先问能维持多久，再检查是否已有跨时证据。"
+        "explanation": "读懂：题目问两瓶刚摇完同样均匀能说明什么。over time 是“经过一段时间后”。\n解析：选“还不足以判断谁能保持混合更久”：即刻外观不能代替观察重新分层速度。“不必以后再看”与研究目的相反；“证明芥末没有后期作用”推不出，作用要看过一段时间谁分层慢；“证明乳化剂量相同”也推不出，刚摇匀是摇晃的即时效果，不能据此确定两瓶成分。\n下次：研究稳定性要看时间经过后的变化；瞬间相同不能证明后续相同或成分相同。"
       },
       "review": {
         "difficulty": "medium",
@@ -1827,9 +1827,9 @@
         "vocabulary": [
           "stability"
         ],
-        "rationale": "即时外观不足判断保持混合多久，原文已明说需随时间观察；仅将该限制应用于两瓶同样平滑，降为适中并保留解析。",
-        "answer_evidence": "because we're investigating the stability of the mixture over time.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“还不足以判断谁能保持混合更久”：即刻外观不能代替观察重新分层速度。“不必以后再看”与研究目的相反；“证明芥末没有后期作用”推不出，作用要看过一段时间谁分层慢；“证明乳化剂量相同”也推不出，刚摇匀是摇晃的即时效果，不能据此确定两瓶成分。",
+        "answer_evidence": "Tasting them immediately wouldn't answer our question, because we're investigating the stability of the mixture over time.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1852,7 +1852,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问为何摇晃时间相同；“the same length of time”是相同时长。\n解析：控制摇晃影响，便于比较加不加芥末。两瓶同味忽略只有一瓶加芥末；液滴同时聚合抹掉待测差异；保证都不分层把控制条件说成预定结果。\n下次：实验公平性题找另一个可能影响结果的因素，再查是否把控制过程当成结果保证。"
+        "explanation": "读懂：题目问两瓶为什么摇同样久。the same length of time 是“相同摇晃时间”。\n解析：选“减少另一种解释”：若时间不同，分层差异也可能来自摇晃程度，就难判断芥末作用。“保证两瓶不分层”未保证；“让液滴同刻合并”不是目的；“让芥末同样改变两瓶味道”只有一瓶加芥末且研究的不是味道。\n下次：对照实验先找想检验的因素，再保持其他处理一致；这样差异较不容易被别的因素解释。"
       },
       "review": {
         "difficulty": "medium",
@@ -1863,9 +1863,9 @@
         "vocabulary": [
           "droplets"
         ],
-        "rationale": "固定摇动时长避免另一个分层影响因素，让芥末差异可比较；不保证预定结果，也不是比较口味。原解释完整。",
+        "rationale": "选“减少另一种解释”：若时间不同，分层差异也可能来自摇晃程度，就难判断芥末作用。“保证两瓶不分层”未保证；“让液滴同刻合并”不是目的；“让芥末同样改变两瓶味道”只有一瓶加芥末且研究的不是味道。",
         "answer_evidence": "adding mustard to only one and shaking both for the same length of time.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1888,7 +1888,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问讲座解释的表面矛盾；“front edge retreats uphill”是冰川前端向山上退缩。\n解析：冰仍向下流，但末端融化更快时边界向上退。全段同样失冰却变长没对应此机制；积雪须等停止融化颠倒同时发生的过程；末端等于标记速度混同边界与冰体。\n下次：看似相反的移动先查是否同一对象，再分别追踪物体与边界。"
+        "explanation": "读懂：题目问讲者解释了什么看似矛盾的现象。front edge retreats uphill 是“冰川末端往山上退”。\n解析：选“冰块向下流，末端却向上退”：材料运动与整体边缘位置不是同一件事。“下端停融才能积雪”不对，高处积雪与下端融化可同时发生；“各处同量失冰仍变长”没有此设定，本文比较下端流入量和融化量；“末端必与每块冰同速”不对，冰继续下行时末端仍可因融化而往上退。\n下次：遇到表面矛盾，先分清两句话描述的是个体材料还是整体边界。"
       },
       "review": {
         "difficulty": "medium",
@@ -1899,9 +1899,9 @@
         "vocabulary": [
           "glacier"
         ],
-        "rationale": "冰体运动与前端边界位置为不同对象，下流与上退可并存；另外三项混淆速度、停止条件或增减范围，原解析保留。",
+        "rationale": "选“冰块向下流，末端却向上退”：材料运动与整体边缘位置不是同一件事。“下端停融才能积雪”不对，高处积雪与下端融化可同时发生；“各处同量失冰仍变长”没有此设定，本文比较下端流入量和融化量；“末端必与每块冰同速”不对，冰继续下行时末端仍可因融化而往上退。",
         "answer_evidence": "a glacier can move downhill while its front edge retreats uphill.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1924,7 +1924,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问末端何时退缩；“faster than”是速度超过，用来比较损失与补充。\n解析：融化移除多于流来补足，末端缩回。补充更快把关系倒置；上部积雪快没有比较末端的融化与流入；全冰川停流也不是退缩的必要条件。\n下次：增减边界题列当地补充量与损失量，再核对哪一边更大。"
+        "explanation": "读懂：题目问冰川下端在什么条件下退缩。replaces it 是“流来的冰补上损失”。\n解析：选“融化速度快于流来的冰补充速度”：下端净损失使边缘后退。“高处积雪快于冰流”不是这里给的下端条件；“补充快于融化”方向相反；“整条冰川停止向下流”没有必要，讲者强调可继续流。\n下次：听增减比较，明确同一位置的补充与流失；谁更快决定边界进退。"
       },
       "review": {
         "difficulty": "medium",
@@ -1935,9 +1935,9 @@
         "vocabulary": [
           "melting"
         ],
-        "rationale": "末端融化快于补给才退缩，不能倒置比例或把上部积雪、整川停流当同一条件。答案可直接从局部收支得出。",
+        "rationale": "选“融化速度快于流来的冰补充速度”：下端净损失使边缘后退。“高处积雪快于冰流”不是这里给的下端条件；“补充快于融化”方向相反；“整条冰川停止向下流”没有必要，讲者强调可继续流。",
         "answer_evidence": "If melting removes ice faster than flowing ice replaces it there, the end of the glacier shifts uphill.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1960,7 +1960,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问传送带例子的作用；“movement from loss”是把移动与物质损失分开。\n解析：带子前进而冰块提前化掉，说明运动方向与可见末端变化不同。外部机器推动照搬比喻；固定工厂速度添了恒速；用灯测冰川把示意当实际研究办法。\n下次：类比题只迁移明确对应的关系，再看讲者是否指出不适用的部分。"
+        "explanation": "读懂：题目问传送带运冰块的比喻作用。transport 是“往前运”，loss 是“沿途融化损失”。\n解析：选“把向前运动与材料损失分开”：带向前走，冰可先融掉，冰的可见末端仍后退。“冰川像工厂恒速运行”没保证；“外部机械力驱冰川”明确不是真实原因；“研究者用灯测自然融化”把比喻当实验。\n下次：比喻题提取关系，忽略不对应的装置细节；讲者说的限制尤其能排除字面照搬。"
       },
       "review": {
         "difficulty": "medium",
@@ -1971,9 +1971,9 @@
         "vocabulary": [
           "conveyor"
         ],
-        "rationale": "传送带保持前送但冰块融化导致末端后撤，类比只迁移移动与损失的分离，不迁移机器和固定速度。原解释合适。",
-        "answer_evidence": "it helps us separate movement from loss.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“把向前运动与材料损失分开”：带向前走，冰可先融掉，冰的可见末端仍后退。“冰川像工厂恒速运行”没保证；“外部机械力驱冰川”明确不是真实原因；“研究者用灯测自然融化”把比喻当实验。",
+        "answer_evidence": "Still, it helps us separate movement from loss.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1996,7 +1996,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问只画末端位置为何不够；“One measurement cannot stand in for the other”是两种测量不能互相代替。\n解析：边界可退而冰体仍前进，只测末端不能直接知道冰体运动。只有追标记能知退缩否认末端地图的用途；测得流入速度调换测量对象；与标记信息相同又混同物体和边界。\n下次：测量充分性题把每种数据配到对象，再检查未测的变量是否被擅自推出。"
+        "explanation": "读懂：题目问只测冰川末端为何不足。track markers 是“追踪冰上的标记”，能显示冰块本身移动。\n解析：选“无法直接看到各冰块标记怎样移动”：边缘变化和材料运动要分别测。“只能跟标记才发现末端后退”不对，画末端可测后退；“两种测量信息相同”相反；“末端测绘量的是来冰速度”把测量对象换了。\n下次：测量题先给每种测法匹配对象；不能用边界位置替代内部材料运动。"
       },
       "review": {
         "difficulty": "medium",
@@ -2006,9 +2006,9 @@
         "vocabulary": [
           "markers"
         ],
-        "rationale": "材料明说测端点与追踪冰标记不能替代，对题目只需将测量与对象相配；不构成困难推断，降适中，保留解释。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
+        "rationale": "选“无法直接看到各冰块标记怎样移动”：边缘变化和材料运动要分别测。“只能跟标记才发现末端后退”不对，画末端可测后退；“两种测量信息相同”相反；“末端测绘量的是来冰速度”把测量对象换了。",
         "answer_evidence": "researchers can track markers on the ice and also map the end position. One measurement cannot stand in for the other.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2031,7 +2031,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问主旨；“sunk cost”是已经付出且收不回的成本。\n解析：决策看今后的工作与收益，不能只因过去投入而继续。总选简单方案把比较变硬规则；过去学到的东西无用忽略可用知识；耗时最多就最好把投入误当成果价值。\n下次：决策题先分已发生与仍可改变的部分，再比较未来，检查是否只在为过去找理由。"
+        "explanation": "读懂：题目问沉没成本讲座主旨。sunk cost 是“已经花掉、现在收不回的成本”。\n解析：选“决策比较未来后果，不仅凭收不回的投入”：该比较剩余工作与成品价值。“选已花时最多的保证最好”不对，已经花多久并不说明最终成品更适合演出，例中新简单方案反而可能更合适；“过去工作经验都无用”与可转用技术相反；“有简单方案就必须放弃原案”过度，仍须比未来收益。\n下次：决策题把已花且收不回的成本划开，再比较从现在起各方案还要付出什么、得到什么。"
       },
       "review": {
         "difficulty": "medium",
@@ -2042,9 +2042,9 @@
         "vocabulary": [
           "sunk cost"
         ],
-        "rationale": "沉没成本不可追回但经验可影响未来，主旨是比较未来结果；不是永远换简方案或否定学习价值。原说明无经济知识门槛。",
-        "answer_evidence": "The decision should compare what happens from this point onward",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“决策比较未来后果，不仅凭收不回的投入”：该比较剩余工作与成品价值。“选已花时最多的保证最好”不对，已经花多久并不说明最终成品更适合演出，例中新简单方案反而可能更合适；“过去工作经验都无用”与可转用技术相反；“有简单方案就必须放弃原案”过度，仍须比未来收益。",
+        "answer_evidence": "The decision should compare what happens from this point onward: the work still needed and the value of each finished set.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2067,7 +2067,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问六个下午为何算沉没成本；“whichever design”是无论选哪种设计。\n解析：过去时间两种选择下都拿不回来。改方案能返还时间把避免今后投入当追回过去；六个下午含在剩余一个下午里混淆已用与待用；原方案已完成违背还需四个下午。\n下次：判断沉没成本时问换方案能否收回，再核对数字属于过去还是未来。"
+        "explanation": "读懂：题目问前六个下午为何算沉没成本。whichever design 是“无论选哪个设计”。\n解析：选“无论之后怎么选，这段时间都收不回”：改方案或继续都不能取回过去。“选简单方案能还回时间”错误；“六下午包含在剩余一下午内”不对，六下午已花掉，一下午指从现在起做新方案还需的时间，是不同时间段；“原设计现在不用继续做”与还需四下午相反。\n下次：判断沉没成本时问：换方案能否把这项过去投入拿回来？不能才属于这里的成本。"
       },
       "review": {
         "difficulty": "easy",
@@ -2078,9 +2078,9 @@
         "vocabulary": [
           "recovered"
         ],
-        "rationale": "六下午在两种选择下都已过去，不能和未来一下午、四下午相加混同。基础定义题唯一且解释具体。",
+        "rationale": "选“无论之后怎么选，这段时间都收不回”：改方案或继续都不能取回过去。“选简单方案能还回时间”错误；“六下午包含在剩余一下午内”不对，六下午已花掉，一下午指从现在起做新方案还需的时间，是不同时间段；“原设计现在不用继续做”与还需四下午相反。",
         "answer_evidence": "The six afternoons are gone whichever design the group chooses.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2103,7 +2103,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问旧经验例子有什么作用；“affect the future”是能影响后续结果。\n解析：已耗时间不能追回，但学到的技能可用于新设计，应纳入比较。六个下午全变未来节省捏造数量；必须完工才算学会违背已学到；只旧设计受益与可用于新设计相反。\n下次：限定说明题分开不可追回的付出和仍可使用的成果，再查两者是否混算。"
+        "explanation": "读懂：题目问为何提到已学到的建造技术。knowledge can affect the future 是“已有知识仍能影响未来”。\n解析：选“区分有用经验和收不回的花费”：技术可用于新设计，所以要算其未来作用。“仅原方案能受益”与新设计可用相反；“六下午都算未来节省”没有依据；“必须完成原方案才能学技术”技术已学到。\n下次：讨论过去投入时分开“无法取回的时间”与“还能使用的知识”；后者应进入未来比较。"
       },
       "review": {
         "difficulty": "medium",
@@ -2114,9 +2114,9 @@
         "vocabulary": [
           "technique"
         ],
-        "rationale": "先前经验可能用于新方案，区别时间不可追回与知识仍有价值；另三项错误限定使用对象、学习时点或省时数量。",
-        "answer_evidence": "That knowledge can affect the future and belongs in the comparison.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“区分有用经验和收不回的花费”：技术可用于新设计，所以要算其未来作用。“仅原方案能受益”与新设计可用相反；“六下午都算未来节省”没有依据；“必须完成原方案才能学技术”技术已学到。",
+        "answer_evidence": "Perhaps the group learned a construction technique it can use in the new design.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2139,7 +2139,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问继续原方案的合理依据；“future benefits”是今后能得到的好处。\n解析：若未来价值足以支持剩余投入，继续可以合理。想追回六个下午不能改变时间不可回收；先被选中只是历史顺序；承认过去付出也没有比较两种未来结果。\n下次：评估坚持理由时看它能否改变未来收益或代价，再排除只描述既往投入的理由。"
+        "explanation": "读懂：题目问什么能合理支持保留原设计。future benefits 是“从现在继续做将带来的好处”。\n解析：选“未来好处值得尚需额外付出的工作”：这才是比较未来收益与成本。“想拿回六下午”愿望不能恢复时间；“改方案等于承认过去做过”不涉及收益；“原来最先选的”也不能证明现在最佳。\n下次：决定继续时找未来理由，并与剩余代价比较；“已经开始”本身不足以支持继续。"
       },
       "review": {
         "difficulty": "medium",
@@ -2149,9 +2149,9 @@
         "vocabulary": [
           "benefits"
         ],
-        "rationale": "继续原方案需未来收益支持剩余投入，结尾直接说明；此题辨别合理依据而非复杂推断，降适中。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
+        "rationale": "选“未来好处值得尚需额外付出的工作”：这才是比较未来收益与成本。“想拿回六下午”愿望不能恢复时间；“改方案等于承认过去做过”不涉及收益；“原来最先选的”也不能证明现在最佳。",
         "answer_evidence": "Continuing can be sensible when future benefits support it",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2174,7 +2174,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问主旨；“refrain”是反复出现的一句或一段话。\n解析：固定复句帮助记忆和互动，周围内容仍可调整。每字不变把稳定部分扩大成全部；文字保留所有特征忽略停顿和观众参与；参与妨碍组织与复句给讲者准备时间相反。\n下次：固定与变化并存时分别记其范围，再查主旨是否把一部分的特征套到整体。"
+        "explanation": "读懂：题目问口头故事的主旨。refrain 是“反复出现的短句”，其他细节仍可随观众反应改变。\n解析：选“重复句支撑故事表演，表演也能适应观众”：熟悉句帮助跟随和准备，细节可长可短。“每字不变才有效”与可调整相反；“文字稿保留一切重要特征”漏掉参与和停顿；“观众参与阻止组织后续”与重复句提供准备时间相反。\n下次：主旨题找哪些部分稳定、哪些部分可变；不要把局部重复扩大成全文固定。"
       },
       "review": {
         "difficulty": "medium",
@@ -2185,9 +2185,9 @@
         "vocabulary": [
           "refrain"
         ],
-        "rationale": "复句固定、细节按观众反应变化，两者并存；主旨不能推广到每字相同或否定互动。原解析保留。",
+        "rationale": "选“重复句支撑故事表演，表演也能适应观众”：熟悉句帮助跟随和准备，细节可长可短。“每字不变才有效”与可调整相反；“文字稿保留一切重要特征”漏掉参与和停顿；“观众参与阻止组织后续”与重复句提供准备时间相反。",
         "answer_evidence": "The refrain can remain stable while the surrounding details change.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2210,7 +2210,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问复句怎样帮助讲故事的人；“prepare the next episode”是准备下一个情节。\n解析：熟悉复句出现时，讲者可稍作组织。无需看观众与按反应调整相反；听众回翻重读是纸书功能；每段等时长与可缩短或扩展描述冲突。\n下次：作用题先辨题目问讲者还是听者，再把支持对象和具体动作配对。"
+        "explanation": "读懂：题目问重复句怎样帮助讲述者。prepare the next episode 是“准备下一个情节”。\n解析：选“腾出一点时间准备后续”：听众熟悉句出现时，讲者可组织下一段。“让听众默读前文”口头故事不能翻页；“不必观察观众兴趣”与调整细节相反；“每段描述必须等长”没有要求。\n下次：作用题锁定受益的是讲者还是听众，再找具体帮助；不能把印刷阅读的行为套进口头故事。"
       },
       "review": {
         "difficulty": "easy",
@@ -2221,9 +2221,9 @@
         "vocabulary": [
           "episode"
         ],
-        "rationale": "复句给讲述者组织下一段的时间，区别于观众重读、固定时长或忽略反应；题目对象和解释对应。",
+        "rationale": "选“腾出一点时间准备后续”：听众熟悉句出现时，讲者可组织下一段。“让听众默读前文”口头故事不能翻页；“不必观察观众兴趣”与调整细节相反；“每段描述必须等长”没有要求。",
         "answer_evidence": "It can also give the teller a moment to prepare the next episode.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2246,7 +2246,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问保留复句却缩短描写应如何理解；“restless audience”是坐不住、注意力不集中的听众。\n解析：按观众反应调整细节，同时保留熟悉支点，正体现稳定与变化并存。复句失效忽略仍保留作用；变成固定书面文体与现场调整相反；只研究不变词句漏掉互动和节奏。\n下次：表演调整题把稳定骨架和可变细节分开，再看变化是否回应观众需要。"
+        "explanation": "读懂：题目问保留重复句、为坐不住的观众缩短描写意味着什么。restless 是“坐不住、注意力开始涣散”。\n解析：选“保留稳定部分，同时调整表演”：正对应讲者描述的灵活性。“重复句失去组织作用”不能推出，重复句仍保留，仍可给听众熟悉的标志，只是旁边描述缩短了；“变成固定文字”反而是现场调整；“只研究没变的话”漏掉调整及互动的重要性。\n下次：应用题分开识别保持与改变的部分，再看改变是否回应了听众需求。"
       },
       "review": {
         "difficulty": "medium",
@@ -2257,9 +2257,9 @@
         "vocabulary": [
           "restless"
         ],
-        "rationale": "情境直接体现稳定位点与可变细节相配，保留复句不等于失效或书面固化。适中应用标签合理。",
+        "rationale": "选“保留稳定部分，同时调整表演”：正对应讲者描述的灵活性。“重复句失去组织作用”不能推出，重复句仍保留，仍可给听众熟悉的标志，只是旁边描述缩短了；“变成固定文字”反而是现场调整；“只研究没变的话”漏掉调整及互动的重要性。",
         "answer_evidence": "The teller might shorten one description for a restless audience",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2282,7 +2282,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问结构；“For someone studying the performance”引出怎样研究表演。\n解析：先举复句，解释作用与可变性，再谈录音等研究资料。追溯起源没有年代线；失败后去重复与肯定复句相反；三种故事排名把一则故事的三次拜访当成三篇故事。\n下次：结构题把例子内容和段落功能分开，再查选项是否把情节数量当文章数量。"
+        "explanation": "读懂：题目问讲座结构。a refrain 是“反复出现的短句”；开头介绍它，中间解释用途，结尾讨论怎样记录整个口头表演。\n解析：选“介绍重复特征、解释用途、考虑研究方法”：随后提到文字稿的遗漏与录音、现场笔记。“失败表演后去掉重复”没发生；“比较三个无关情节并排名”没有；“追溯村庄故事起源和版本”也没有。\n下次：结构题按“概念—作用—研究方法”标各段功能，不把例子中的三个访问当成三篇故事。"
       },
       "review": {
         "difficulty": "medium",
@@ -2292,9 +2292,9 @@
         "vocabulary": [
           "transcript"
         ],
-        "rationale": "讲座从反复句现象到用途与变化，再到录音和现场笔记研究；三次拜访是故事情节而非三篇作品，结构解释完整。",
-        "answer_evidence": "So we should examine oral storytelling as an interaction unfolding in time",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“介绍重复特征、解释用途、考虑研究方法”：随后提到文字稿的遗漏与录音、现场笔记。“失败表演后去掉重复”没发生；“比较三个无关情节并排名”没有；“追溯村庄故事起源和版本”也没有。",
+        "answer_evidence": "A recording, together with notes about the event, can reveal those features.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2317,7 +2317,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问主旨；“dormant”指种子活着却暂时不能开始生长的休眠状态。\n解析：某些种子要先经历冷湿期再遇暖，顺序影响萌发。没马上发芽就死忽视休眠；所有种子持续保暖抹掉差异；必须冬前生长与避开入冬前短暖期的作用相反。\n下次：过程主旨题同时记录条件和先后顺序，再查是否把某些物种扩大成所有。"
+        "explanation": "读懂：题目问种子讲座目的。dormant 是“仍活着但暂不开始生长”，不等于死了。\n解析：选“解释延迟发芽怎样依赖一连串条件”：某些种子先需冷湿，再遇暖才发芽。“不迅速发芽就失去生长能力”被否定；“持续温暖适合所有植物”不对，例中某些种子须先冷湿处理，只有暖环境可能仍不发芽；“必须冬前发芽”与防止冬前误发芽相反。\n下次：种子不发芽时，先问是否还缺前一步条件；不要把尚未发生等同永远不能发生。"
       },
       "review": {
         "difficulty": "medium",
@@ -2328,9 +2328,9 @@
         "vocabulary": [
           "dormant"
         ],
-        "rationale": "休眠的活种子需特定条件顺序，冷后暖适用于部分种类；没有把所有延迟都等同死亡。定义、机制和结论限制清楚。",
-        "answer_evidence": "Notice the order of the signals: cold first, then warmth.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“解释延迟发芽怎样依赖一连串条件”：某些种子先需冷湿，再遇暖才发芽。“不迅速发芽就失去生长能力”被否定；“持续温暖适合所有植物”不对，例中某些种子须先冷湿处理，只有暖环境可能仍不发芽；“必须冬前发芽”与防止冬前误发芽相反。",
+        "answer_evidence": "a period of cold, moist conditions must come before warmer temperatures can trigger germination",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2353,7 +2353,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问先冷后暖的意义；“a brief warm spell”是一小段温暖天气。\n解析：先要求冷期，可避免把冬前短暖误当合适生长季。同日萌发没有这种同步保证；此后不需水把温度条件替代水分；秋天短暖便发芽正是该顺序帮助避免的风险。\n下次：季节适应题先找要避开的时机，再核对条件顺序是否被颠倒或省略。"
+        "explanation": "读懂：题目问先冷后暖为何对秋季种子有用。brief warm spell 是“冬前一小段回暖天气”。\n解析：选“减少冬前短暂回暖时误开始生长”：先经历冷期，避免只因秋暖就启动。“区域种子同一天长”没保证；“秋天一暖马上长”正相反；“冷后不用水也长”没有取消水分条件。\n下次：听生长条件的顺序，想清它避免了哪种不利时机；不是温度高就立即有利。"
       },
       "review": {
         "difficulty": "easy",
@@ -2364,9 +2364,9 @@
         "vocabulary": [
           "germination"
         ],
-        "rationale": "按实际任务校正：冷后转暖能防冬前短暂暖期误萌发，是原文明说的作用。",
+        "rationale": "选“减少冬前短暂回暖时误开始生长”：先经历冷期，避免只因秋暖就启动。“区域种子同一天长”没保证；“秋天一暖马上长”正相反；“冷后不用水也长”没有取消水分条件。",
         "answer_evidence": "This sequence can help prevent a seed released in autumn from starting during a brief warm spell just before winter.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2389,7 +2389,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问实验能支持到哪一层；“for this batch”是限于这一批种子。\n解析：两组后期同样温暖，差别支持前期冷处理的作用。推到所有植物扩大样本范围；后期温暖无用未被单独检验；未冷组全死不能由没发芽直接判定。\n下次：实验结论先划物种、批次和被改变的条件，再检查选项有没有跨出这三条边界。"
+        "explanation": "读懂：题目问冷处理组更多发芽能支持什么结论。for this batch 是“只针对这批受试种子”。\n解析：选“前面的冷期有助这批种子发芽”：两组后来都在同样暖环境，差别是此前处理。“后来温暖不必要”没单独测试；“未冷组全部已死”没有证明；“所有植物都需冷处理”超出同种同批实验范围。\n下次：实验结论限定到实际对象和处理；没测试的条件不能宣布无用，也不能推广到所有物种。"
       },
       "review": {
         "difficulty": "medium",
@@ -2399,9 +2399,9 @@
         "vocabulary": [
           "chilled"
         ],
-        "rationale": "实验结论及该批次范围在原文明确给出；辨别死种、全物种、无暖需求三个过度结论属适中，不应虚标困难。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
+        "rationale": "选“前面的冷期有助这批种子发芽”：两组后来都在同样暖环境，差别是此前处理。“后来温暖不必要”没单独测试；“未冷组全部已死”没有证明；“所有植物都需冷处理”超出同种同批实验范围。",
         "answer_evidence": "the result would support the role of that earlier cold period for this batch.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2424,7 +2424,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问讲座结构；“Not necessarily”是未必，先否定不发芽就死亡的简单判断。\n解析：先纠正假设，再讲温度顺序，后设计实验并限制结论。病种治疗没有出现；普遍规律与物种差异相反；作物产量比较把季节例子换成收获统计。\n下次：结构题依次标疑问、解释、检验、限制，再排除文中没有的数据或诊断。"
+        "explanation": "读懂：题目问讲者怎样展开。开头用 Not necessarily（不一定）质疑“没发芽就是死了”的判断，随后解释生长条件并提出实验。\n解析：选“质疑假设、说明过程、提出有限范围的实验”：解释冷湿再暖，随后设计同批种子对照并限制结论。“普遍规律且所有植物遵守”与物种要求不同相反；“列死种、疾病和治疗”未做；“比夏秋收成算产量”也未做。\n下次：结构题追踪开头问题怎样得到解释，再看实验结论是否被限定范围。"
       },
       "review": {
         "difficulty": "medium",
@@ -2434,9 +2434,9 @@
         "vocabulary": [
           "requirements"
         ],
-        "rationale": "开头否定没萌发就死亡，再解释条件顺序，设计有限对照；未报告疾病诊断和产量计算，原结构说明保留。",
-        "answer_evidence": "If a seed doesn't sprout after a few days in a warm pot, is it dead? Not necessarily.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“质疑假设、说明过程、提出有限范围的实验”：解释冷湿再暖，随后设计同批种子对照并限制结论。“普遍规律且所有植物遵守”与物种要求不同相反；“列死种、疾病和治疗”未做；“比夏秋收成算产量”也未做。",
+        "answer_evidence": "Seeds have different requirements, and a lack of immediate growth can have more than one explanation.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2459,7 +2459,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问主旨；“controlled change”是被设计允许并限制在合适范围内的变化。\n解析：伸缩缝让热胀冷缩有空间，避免内力积聚。所有缝都是量错把设计当缺陷；必须阻止长度变化与顺应伸缩相反；只看安装当天漏掉使用期间温差。\n下次：稳定性题先看系统怎样应对变化，再查是否误把稳定理解成完全不动。"
+        "explanation": "读懂：题目问桥梁讲座主旨。expansion joint 是“伸缩缝”，给热胀冷缩留活动余地。\n解析：选“允许计划内的移动能帮助桥稳定”：不留空间反而会积累内力。“所有缝都因量错”被开头否定；“温度只在组装时重要”忽略未来温差；“稳定必须阻止长度变化”与结论相反。\n下次：设计主旨题区分失控变化与设计允许的变化；稳定不一定等于完全不动。"
       },
       "review": {
         "difficulty": "medium",
@@ -2470,9 +2470,9 @@
         "vocabulary": [
           "expansion joint"
         ],
-        "rationale": "伸缩缝允许热变避免内部力累积，体现稳定依赖受控移动；不能等同误测、恒温或绝对刚性。原解析清楚。",
+        "rationale": "选“允许计划内的移动能帮助桥稳定”：不留空间反而会积累内力。“所有缝都因量错”被开头否定；“温度只在组装时重要”忽略未来温差；“稳定必须阻止长度变化”与结论相反。",
         "answer_evidence": "a structure can achieve stability by allowing controlled change",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2495,7 +2495,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问接缝盖板的用途；“while parts beneath it slide”是下面部件仍可滑动。\n解析：盖板兼顾通行与伸缩。保持安装温度把机械构件当温控设备；缝宽完全不变否定允许位移；不再检查忽略堵塞和损坏仍可能发生。\n下次：双重功能题保留同时发生的两件事，再检查方便使用是否被误当消除维护。"
+        "explanation": "读懂：题目问某些伸缩缝上盖板的用途。parts beneath it slide 是“下面的部件能够滑动”。\n解析：选“车辆能过，下面仍能移动”：盖板兼顾通行和伸缩。“完全固定开口宽度”取消了伸缩；“不必检查下方零件”不对，盖板供通行，下方仍可能被杂物或损坏影响伸缩，所以还须检查；“维持组装当天温度”盖板没有这种功能。\n下次：部件用途题把它兼顾的两项功能都写出；别把覆盖理解成锁死。"
       },
       "review": {
         "difficulty": "easy",
@@ -2506,9 +2506,9 @@
         "vocabulary": [
           "slide"
         ],
-        "rationale": "盖板让交通通行而下层滑动，不是恒温或免维护装置；答案保留同时两项作用，原解释准确。",
+        "rationale": "选“车辆能过，下面仍能移动”：盖板兼顾通行和伸缩。“完全固定开口宽度”取消了伸缩；“不必检查下方零件”不对，盖板供通行，下方仍可能被杂物或损坏影响伸缩，所以还须检查；“维持组装当天温度”盖板没有这种功能。",
         "answer_evidence": "a cover lets traffic cross the opening while parts beneath it slide.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2531,7 +2531,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问杂物堵缝可能造成什么；“interfere with movement”是妨碍移动。\n解析：堵住后不能按设计伸缩，可能妨碍应对温差。挡杂物不等于隔绝热；更硬就更稳定忽略内力风险；不再需要缝把失效当需求消失。\n下次：部件受阻题沿原功能推后果，再查是否误把失去活动能力看成更牢固。"
+        "explanation": "读懂：题目问杂物堵缝可能怎样。interfere with movement 是“妨碍部件移动”。\n解析：选“干扰桥梁适应温度变化”：缝被堵后难伸缩，可能积累力。“保证桥不变暖”不对，杂物只是挡住缝里的运动，并不会阻止外界温度使桥梁受热；“更硬所以更稳”与允许移动的原理相反；“证明不再需伸缩缝”无依据，堵塞正说明须维护。\n下次：应用题从部件原功能推故障后果：本来给移动留空间，堵住便妨碍这项功能。"
       },
       "review": {
         "difficulty": "medium",
@@ -2542,9 +2542,9 @@
         "vocabulary": [
           "debris"
         ],
-        "rationale": "杂物阻挡设计位移会妨碍温差适应，不能视为更坚固或不再需伸缩缝。适中机制应用保留。",
+        "rationale": "选“干扰桥梁适应温度变化”：缝被堵后难伸缩，可能积累力。“保证桥不变暖”不对，杂物只是挡住缝里的运动，并不会阻止外界温度使桥梁受热；“更硬所以更稳”与允许移动的原理相反；“证明不再需伸缩缝”无依据，堵塞正说明须维护。",
         "answer_evidence": "debris or damaged parts can interfere with movement.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2567,7 +2567,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问文章如何展开；“aren't necessarily signs”是未必是某种问题的迹象。\n解析：从看似缺陷的缝隙出发，讲伸缩机制，归纳允许变化的设计原则。桥梁更换费用没有计算；选完全不热变的材料没有这种筛选；按维护排名也不是只举一种盖板结构的作用。\n下次：结构题追踪开头现象怎样得到解释，再判断结尾是原则、比较还是计算。"
+        "explanation": "读懂：题目问从开头到结尾如何推进。开头的桥缝看似缺陷，随后解释用途；结尾 The larger principle 是“更广的一条原则”，提示讲者要从桥缝推广到一般设计道理。\n解析：选“解释表面缺陷，得出更广的设计原则”：由桥缝推广到允许可控变化以获得稳定。“算换桥成本”未做；“选完全不热变形材料”未做；“列伸缩缝并按维修量排名”也未做。\n下次：结构题找具体观察最终被用来说明什么原则；别把提到维护误当成维护排名。"
       },
       "review": {
         "difficulty": "medium",
@@ -2577,9 +2577,9 @@
         "vocabulary": [
           "rigid"
         ],
-        "rationale": "以看似缺陷的桥缝引入热胀冷缩，再概括受控变化原则；无费用、材料排行或维护排名，原解释完整。",
-        "answer_evidence": "They aren't necessarily signs that the builders measured badly.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“解释表面缺陷，得出更广的设计原则”：由桥缝推广到允许可控变化以获得稳定。“算换桥成本”未做；“选完全不热变形材料”未做；“列伸缩缝并按维修量排名”也未做。",
+        "answer_evidence": "The larger principle is that a structure can achieve stability by allowing controlled change",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2602,7 +2602,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问核心观点；“new observations”是对原场景的新观察，区别于计算补出的像素。\n解析：放大可更平滑，但没有凭空增加实拍证据。放大总无用忽略展示价值；新增像素都是新观察混淆计算与记录；边缘平滑证明细节齐全把外观当真实性。\n下次：图像证据题分开显示效果与信息来源，再查新细节是否有原始观测支持。"
+        "explanation": "读懂：题目问数码照片讲座的中心。new observations 是“新实际观察到的信息”，不同于软件估算。\n解析：选“加大图像尺寸不一定增加真实细节”：新增像素可由旧像素算来。“放大总让图无用”过度，展示仍有用；“每个新增像素都是新拍到的”不对，此处软件根据旧像素估算，并没重新拍照；“边缘平滑证明拍清最小细节”也不对，估算能让边缘好看，却不能证明原相机记录了细字。\n下次：看处理后的图，先问信息来自新观测还是旧数据计算；清晰外观不等于事实更完整。"
       },
       "review": {
         "difficulty": "medium",
@@ -2613,9 +2613,9 @@
         "vocabulary": [
           "pixels"
         ],
-        "rationale": "插值可改善呈现却无新增实拍数据，既不等同真实性也不必完全无用。主旨保留双面范围。",
+        "rationale": "选“加大图像尺寸不一定增加真实细节”：新增像素可由旧像素算来。“放大总让图无用”过度，展示仍有用；“每个新增像素都是新拍到的”不对，此处软件根据旧像素估算，并没重新拍照；“边缘平滑证明拍清最小细节”也不对，估算能让边缘好看，却不能证明原相机记录了细字。",
         "answer_evidence": "More pixels can change how an image looks without increasing what we know about the scene.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2638,7 +2638,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问插值做什么；“estimating values”是估算数值。\n解析：软件根据已有像素估计中间颜色。读取新照片添了未发生的采集；核实模糊细节把估计当验证；增加相机实际观察量则混淆后期处理和最初记录。\n下次：数字处理题先辨输入已有数据还是新观测，再核对输出能证明什么。"
+        "explanation": "读懂：题目问 interpolation（插值）做什么。estimating values 是“估算数值”。\n解析：选“在已有像素之间估算颜色”：软件补出的值来源于旧数据。“从新拍图找回文字”没有新拍照；“验证模糊细节”估算不等于验证；“增加相机实际观测的细节”相机采集已结束。\n下次：处理方法题找输入和输出；只输入旧像素，就不能把输出称为新的现场观察。"
       },
       "review": {
         "difficulty": "easy",
@@ -2649,9 +2649,9 @@
         "vocabulary": [
           "interpolation"
         ],
-        "rationale": "插值从已有像素估算颜色，不是新拍摄、核实未知细节或扩充原始观察；基础定义题解释恰当。",
+        "rationale": "选“在已有像素之间估算颜色”：软件补出的值来源于旧数据。“从新拍图找回文字”没有新拍照；“验证模糊细节”估算不等于验证；“增加相机实际观测的细节”相机采集已结束。",
         "answer_evidence": "it can add pixels by estimating values between the existing ones.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2674,7 +2674,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问马赛克比喻作用；“more gradual”是颜色过渡更平缓。\n解析：过渡细腻仍不能知道原墙微小划痕，对应放大不补原始证据。格子增多就有新痕迹证据、平滑就证明细节准确，都把计算外观当真实观测；连展示也无用又否定了讲者保留的用途。\n下次：类比先找两个过程共同保留的限制，再区分看起来清楚与证据充分。"
+        "explanation": "读懂：题目问放大马赛克的比喻说明什么。more gradual 是“颜色过渡更平滑”。\n解析：选“过渡更平滑未必揭示原来缺失的特征”：网格可增多，却不知道原墙细划痕。“平滑证明重建准确”不对，平滑可来自估算，原墙划痕仍未知；“连展示都不能放大”过度，讲者说放大可有助展示；“加格子就获得细小痕迹证据”也错，新格只是重绘已有颜色，不是观察了原墙更多细节。\n下次：类比题区分画面表现的改善与新事实的获得；看它究竟增加哪一种。"
       },
       "review": {
         "difficulty": "medium",
@@ -2684,9 +2684,9 @@
         "vocabulary": [
           "mosaic"
         ],
-        "rationale": "大网格马赛克说明过渡平滑不补墙上小划痕证据，类比限制清楚，原解释逐项排除。",
-        "answer_evidence": "yet you haven't learned which tiny scratches were on the original wall.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“过渡更平滑未必揭示原来缺失的特征”：网格可增多，却不知道原墙细划痕。“平滑证明重建准确”不对，平滑可来自估算，原墙划痕仍未知；“连展示都不能放大”过度，讲者说放大可有助展示；“加格子就获得细小痕迹证据”也错，新格只是重绘已有颜色，不是观察了原墙更多细节。",
+        "answer_evidence": "you haven't learned which tiny scratches were on the original wall.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2709,7 +2709,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问怎样支持招牌文字的判断；“a separate source”是独立的另一资料来源。\n解析：清楚拍到招牌的新证据能核实文字。同一小图再放大仍同源；增加估计像素没有增加观测；换大屏变平滑只改显示，均不能独立确认原字。\n下次：证据不足时找能独立观察同一对象的资料，再查是否只是重复加工旧数据。"
+        "explanation": "读懂：题目问放大后似乎可读的招牌文字怎样才有证据。separate source 是“另一份独立资料”。\n解析：选“另一张确实清楚拍到招牌的照片”：它提供真实记录的文字。“更大屏上显示更平滑”“对同一小图再放大”“在字边增加估算像素”都仍依赖原来不清的记录，不能独立证实文字。\n下次：验证增强图中的细节，寻找真正记录该细节的新来源；反复处理同一缺失数据不增加证明力。"
       },
       "review": {
         "difficulty": "medium",
@@ -2720,9 +2720,9 @@
         "vocabulary": [
           "enlargement"
         ],
-        "rationale": "独立清晰照片对应材料明示的更近照片或另一来源，另外三个只是再加工同源数据；证据选择直接，降适中。",
-        "answer_evidence": "For that, you might need a closer photograph or a separate source.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“另一张确实清楚拍到招牌的照片”：它提供真实记录的文字。“更大屏上显示更平滑”“对同一小图再放大”“在字边增加估算像素”都仍依赖原来不清的记录，不能独立证实文字。",
+        "answer_evidence": "you might need a closer photograph or a separate source.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2745,7 +2745,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问主要区分什么；“Storage and movement”分别是储存与流动。\n解析：空隙容量关系到储水，孔隙连接关系到流动。地下水永不到地表扩大隔离；井数与湖深换了两个变量；湿岩无限供水把有水等同供给充分。\n下次：概念对比题分别列判断标准，再查选项是否把容量与速度合成一项。"
+        "explanation": "读懂：题目问地下水讲座主要区分什么。permeability 是“水通过材料的容易程度”，即渗透性。\n解析：选“能存多少水与水流得多容易”：孔隙总量关联储量，连通情况影响流动。“井数与地下湖深度”不是比较；“地下水与永不能上地表的水”不是比较，文中是在同一材料内区分储存与流动；“湿岩无限供水、干岩无孔”都无依据，湿只表明含水，能供多少还要看孔隙连接，干也不等于没有空隙。\n下次：听相关概念的区别，分别写“容量”和“速度/通畅程度”，不要互相替代。"
       },
       "review": {
         "difficulty": "medium",
@@ -2756,9 +2756,9 @@
         "vocabulary": [
           "permeability"
         ],
-        "rationale": "储水容量与易流通程度有别，湿样不保证供井速度；材料将孔隙、连通和渗透性解释自足，原说明保留。",
+        "rationale": "选“能存多少水与水流得多容易”：孔隙总量关联储量，连通情况影响流动。“井数与地下湖深度”不是比较；“地下水与永不能上地表的水”不是比较，文中是在同一材料内区分储存与流动；“湿岩无限供水、干岩无孔”都无依据，湿只表明含水，能供多少还要看孔隙连接，干也不等于没有空隙。",
         "answer_evidence": "Storage and movement are related questions, but answering one does not automatically answer the other.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2781,7 +2781,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问水能流过材料的关键；“connections between pores”是孔隙之间的连通。\n解析：通道连起来才便于流动。附近有大湖不证明该材料通水；只看总容量漏掉连接；样本湿润只说明含水，也不能证明水会流得顺畅。\n下次：流动条件题先找通道是否相连，再检查是否拿储量或含水状态代替。"
+        "explanation": "读懂：题目问水通过材料特别需要什么。connections between pores 是“孔隙之间互相连通”。\n解析：选“孔隙的连接”：有通道水才能容易流。“样本看得到水”只说明湿；“附近大地下湖”并非必需；“只看孔隙总量、不管连接”只能了解储水空间，不能判断流动。\n下次：流动题先找连续通路；有储存空间不自动意味着水能快速到别处。"
       },
       "review": {
         "difficulty": "easy",
@@ -2792,9 +2792,9 @@
         "vocabulary": [
           "pores"
         ],
-        "rationale": "孔隙间连通直接关系流动，湿样和容量只表含水，附近大湖非材料通水证据。答案唯一。",
+        "rationale": "选“孔隙的连接”：有通道水才能容易流。“样本看得到水”只说明湿；“附近大地下湖”并非必需；“只看孔隙总量、不管连接”只能了解储水空间，不能判断流动。",
         "answer_evidence": "For movement, the connections between pores matter.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2817,7 +2817,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问房间比喻的作用；“equal freedom of movement”是同等的通行自由。\n解析：房间容量相近，门是否通畅仍影响通行，对应储水与流速有别。空间多必流得快忽略通道；只数连接算容量混淆门与房间；堵住提速则倒转连通性的作用。\n下次：类比题配对空间与通道，再检查相同容量是否真的保证相同流动结果。"
+        "explanation": "读懂：题目问两栋多房间建筑的比喻作用。blocked doors 是“被堵的门”，对应不连通孔隙。\n解析：选“同样多空间不保证同样容易移动”：房间多但门堵，人仍走不通。“只数连接就量储量”对象错；“空间更多一定放水更快”正被否定；“堵连接增加供水速率”方向相反。\n下次：类比题匹配“房间—储存空间”“门—连接”，分别推容量与流动。"
       },
       "review": {
         "difficulty": "medium",
@@ -2827,9 +2827,9 @@
         "vocabulary": [
           "doorways"
         ],
-        "rationale": "同房间空间但门通畅不同类比相近容量而流动不一，不能把门当房间容量或堵门当提速。原解析保留。",
+        "rationale": "选“同样多空间不保证同样容易移动”：房间多但门堵，人仍走不通。“只数连接就量储量”对象错；“空间更多一定放水更快”正被否定；“堵连接增加供水速率”方向相反。",
         "answer_evidence": "Similar amounts of room space don't mean equal freedom of movement.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2852,7 +2852,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问湿层放水很慢可能意味着什么；“intended demand”是预计要满足的用水需求。\n解析：有储水不保证输送够快，因此供井速度可能不足。必比所有干层孔隙少无法由湿度推出；湿即够用混淆库存与供给；堵连接更快与通水机制相反。\n下次：资源可用性题同时看存量与释放速度，再检查能否满足具体需求。"
+        "explanation": "读懂：题目问湿润却放水慢的岩层意味着什么。intended demand 是“使用者所需的供水量”。\n解析：选“可能达不到井所需的供水速度”：有水不等于能足够快流向井。“堵孔连接会供得更快”反了，通路被堵只会妨碍流动；“湿就证明够用”也不对，岩层虽有水，若流向井太慢仍达不到每小时需求；“孔隙必少于任一干层”没有这种比较证据。\n下次：供水应用题同时检查有多少水和每段时间能流来多少；需求是流量时不能只看湿度。"
       },
       "review": {
         "difficulty": "medium",
@@ -2863,9 +2863,9 @@
         "vocabulary": [
           "well"
         ],
-        "rationale": "慢出水层可能赶不上用水需求是末段明确条件的一步应用；保留可能性和库存/供给区别，降为适中。",
-        "answer_evidence": "They also need to learn whether water can flow toward the well fast enough to meet the intended demand.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“可能达不到井所需的供水速度”：有水不等于能足够快流向井。“堵孔连接会供得更快”反了，通路被堵只会妨碍流动；“湿就证明够用”也不对，岩层虽有水，若流向井太慢仍达不到每小时需求；“孔隙必少于任一干层”没有这种比较证据。",
+        "answer_evidence": "whether water can flow toward the well fast enough to meet the intended demand.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2888,7 +2888,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问主旨；“under those conditions”是在那些特定条件下。\n解析：隐蔽效果受背景与观察者影响。暗淡色总有效忽略背景；人看不出等于所有天敌看不出跨越感知差异；只有无花纹才需选地点割裂了体表与环境的配合。\n下次：效果题同时记对谁、在哪里有效，再检查答案是否偷偷删掉条件。"
+        "explanation": "读懂：题目问伪装讲座主旨。observer 是“寻找它的观察者”，可能是人或不同捕食者。\n解析：选“伪装效果取决于环境和观察者”：同纸蛾换背景会变，真实捕食者感官也不同。“骗过人就骗过所有天敌”推得太远，真实天敌还可能靠气味、动作或不同色觉寻找；“只有没花纹时休息地点才重要”不对，同一花纹换背景也会更显眼或更隐蔽；“暗淡色在所有地方一样难找”忽略背景差别。\n下次：评价隐蔽效果先问“藏在哪、被谁找”；别脱离这两个条件谈最佳伪装。"
       },
       "review": {
         "difficulty": "medium",
@@ -2899,9 +2899,9 @@
         "vocabulary": [
           "Camouflage"
         ],
-        "rationale": "迷彩效果同时取决于背景和观察者；不能把人类平面找纸蛾推广为全捕食者保护。原解释清楚保留实验条件。",
+        "rationale": "选“伪装效果取决于环境和观察者”：同纸蛾换背景会变，真实捕食者感官也不同。“骗过人就骗过所有天敌”推得太远，真实天敌还可能靠气味、动作或不同色觉寻找；“只有没花纹时休息地点才重要”不对，同一花纹换背景也会更显眼或更隐蔽；“暗淡色在所有地方一样难找”忽略背景差别。",
         "answer_evidence": "What works against one background may stand out against another.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2924,7 +2924,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问花纹怎样帮助隐藏；“break up an animal's outline”是让轮廓不易被连成整体。\n解析：轮廓难辨能降低被发现机会。增强与背景反差可能更显眼；无需选择栖停地点忽略环境配合；不同背景可见性相似则与相同纸蛾在不同图上效果可变相反。\n下次：保护机制题把体表特征和环境放在一起判断，再查是否脱离背景谈效果。"
+        "explanation": "读懂：题目问身体花纹怎样帮助隐藏。break up an animal's outline 是“让完整轮廓不容易被辨认”。\n解析：选“使轮廓不那么明显”：花纹可干扰辨认或与背景相合。“增加与停留表面反差”通常会显眼；“不必选合适地点”违背背景依赖；“各背景可见性相同”也没有保证。\n下次：隐藏作用题找它让观察者难认的是颜色、轮廓还是动作；再核对背景条件。"
       },
       "review": {
         "difficulty": "easy",
@@ -2935,9 +2935,9 @@
         "vocabulary": [
           "outline"
         ],
-        "rationale": "花纹打散轮廓有助隐蔽，但不能替代背景选择或保证各背景同效果；基本机制题材料已说明。",
-        "answer_evidence": "A pattern can break up an animal's outline",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“使轮廓不那么明显”：花纹可干扰辨认或与背景相合。“增加与停留表面反差”通常会显眼；“不必选合适地点”违背背景依赖；“各背景可见性相同”也没有保证。",
+        "answer_evidence": "A pattern can break up an animal's outline or match features in its surroundings.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2960,7 +2960,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问找得较慢能得出什么结论；“those observers”限于参加观察的那些人。\n解析：数据只支持人在该图片中更难发现。所有天敌防护扩大对象；嗅觉无关超出纯视觉实验；真实寿命更长且不受运动影响把搜索时间升级为生存保证。\n下次：模拟实验结论列出对象、场景和测量指标，再核对是否越界到真实生存结果。"
+        "explanation": "读懂：题目问同学在深叶照片里更慢找到纸蛾能说明什么。under those conditions 是“在这次观察条件下”。\n解析：选“这张图中，这些观察者更难发现纸蛾”：这是直接测到的结果。“气味不重要”没测气味；“真蛾无论动不动都活更久”没测生存或动作；“防住所有天敌”也超出人看照片的范围。\n下次：实验结论严格保留对象和场景：人、纸图、查找时间；没测到的感官与生存不能补进结论。"
       },
       "review": {
         "difficulty": "easy",
@@ -2970,9 +2970,9 @@
         "vocabulary": [
           "predator"
         ],
-        "rationale": "按实际任务校正：对指定人群和图片的结论由讲者直接说出，其他选项跨到天敌、嗅觉或真实寿命。",
+        "rationale": "选“这张图中，这些观察者更难发现纸蛾”：这是直接测到的结果。“气味不重要”没测气味；“真蛾无论动不动都活更久”没测生存或动作；“防住所有天敌”也超出人看照片的范围。",
         "answer_evidence": "it was harder for those observers to detect under those conditions.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2995,7 +2995,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问讲座结构；“Our paper exercise also has limits”是纸片练习也有局限。\n解析：先给搜寻演示，再讲隐蔽机制，最后限制可推结论。天敌排名没有比较数据；世代颜色史换成演化叙事；背景无作用与开头同物不同背景可见性变化相反。\n下次：结构题看例子是引入机制还是报告历史，再注意结尾限制针对何种推断。"
+        "explanation": "读懂：题目问讲座结构。先用纸蛾找图活动解释伪装，随后 also has limits（也有局限）提示：下面要讲这个活动还不能证明什么。\n解析：选“简单演示引出解释，再说明解读限制”：真实捕食者感官与纸图不同。“列天敌并排名捕猎成功”没有；“讲蛾色世代进化史”没有；“失败实验证明背景永不重要”与演示相反。\n下次：结构题特别注意最后的“但此实验有局限”；它限制推广，不等于把前面结果全盘否定。"
       },
       "review": {
         "difficulty": "medium",
@@ -3005,9 +3005,9 @@
         "vocabulary": [
           "concealment"
         ],
-        "rationale": "纸蛾演示→迷彩机制→解释边界，未报告世代演变或捕食者排行。原结构说明准确，保留。",
+        "rationale": "选“简单演示引出解释，再说明解读限制”：真实捕食者感官与纸图不同。“列天敌并排名捕猎成功”没有；“讲蛾色世代进化史”没有；“失败实验证明背景永不重要”与演示相反。",
         "answer_evidence": "Our paper exercise also has limits.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3030,7 +3030,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问主旨；“capacity to provide service”是实际能提供多少服务的能力。\n解析：共享队列改变等待分配，不增加人员或办理速度。最短队总最快被复杂请求反例否定；合队让员工加速混淆排队与办理；所有专门服务都合队忽视专业窗口限制。\n下次：系统改进题分开组织方式与处理能力，再查改进究竟改变哪一个。"
+        "explanation": "读懂：题目问排队讲座主旨。service capacity 是“柜台单位时间处理业务的能力”。\n解析：选“共用一队改变等候方式，却不自动增加服务能力”：可更平均分配等待，员工处理速度没变。“最短独立队必最快”被开头例子否定；“合队使每员工更快”未必；“所有专门业务都该一队”忽略专家专窗。\n下次：主旨题分开“怎样等待”和“实际办得多快”；一个改善不自动带来另一个改善。"
       },
       "review": {
         "difficulty": "medium",
@@ -3041,9 +3041,9 @@
         "vocabulary": [
           "queue"
         ],
-        "rationale": "共享队列分配延迟更公平但不增加每位员工能力，例外为专门窗口；主旨同时保留效果和限制。",
+        "rationale": "选“共用一队改变等候方式，却不自动增加服务能力”：可更平均分配等待，员工处理速度没变。“最短独立队必最快”被开头例子否定；“合队使每员工更快”未必；“所有专门业务都该一队”忽略专家专窗。",
         "answer_evidence": "A better queue can distribute delays more evenly without creating extra staff",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3066,7 +3066,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问共享队首去哪里；“whichever counter becomes free next”是下一个空出的任一窗口。\n解析：队首动态去空闲窗口。去最复杂请求处把延误当目标；找最长分队套用了分队结构；到来即固定窗口则恢复了被困在某队的安排。\n下次：流程题记住分配动作的触发条件，再核对是到达时固定还是资源空出时决定。"
+        "explanation": "读懂：题目问共用队伍最前面的人去哪。whichever counter becomes free next 是“哪个柜台下一个空出来，就去哪”。\n解析：选“下一个可用柜台”：按空闲情况分派。“入场就固定分配窗口”不是共用队；“去正在处理最复杂请求的柜台”仍被占用；“去独立队最长的柜台”这里已无独立队伍安排。\n下次：流程细节题记触发条件“有柜台空闲”，再找被分配的人“队首”。"
       },
       "review": {
         "difficulty": "easy",
@@ -3077,9 +3077,9 @@
         "vocabulary": [
           "counter"
         ],
-        "rationale": "首位顾客去下一个空闲窗口，与固定分配、复杂窗口、最长分队不同；简单流程题适合保留。",
+        "rationale": "选“下一个可用柜台”：按空闲情况分派。“入场就固定分配窗口”不是共用队；“去正在处理最复杂请求的柜台”仍被占用；“去独立队最长的柜台”这里已无独立队伍安排。",
         "answer_evidence": "The person at its front goes to whichever counter becomes free next.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3102,7 +3102,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问窗口一直忙时，合并队伍会不会让总办理速度提高。the same work to do 是“仍有同样的工作要做”。\n解析：人员和每件业务的办理过程没变，只合队不一定能多办业务。请求也不会因此都变成相同时长；即使总速度没提高，先来先办的顺序仍可能更清楚。\n下次：听效率变化时，分开检查“每件办多快、每人等多久、先后是否公平”，别用其中一项代替其他项。"
+        "explanation": "读懂：题目问合队后所有柜台仍一直忙，能推出什么。same staff 是“仍是原来那些员工”。\n解析：选“仅靠合队，总处理速度未必提高”：业务仍需相同人力和处理时间。“每员工必处理更多”没依据；“每个请求时间相同”仍可复杂不同；“无法更清楚按到达排序”与速度是两回事，公平可改善。\n下次：推断题分别检查吞吐量、请求时长、排队公平；不要因一项未变否定另一项改善。"
       },
       "review": {
         "difficulty": "medium",
@@ -3112,9 +3112,9 @@
         "vocabulary": [
           "transactions"
         ],
-        "rationale": "办理速度不变已明示，降适中；用“总办理速度”替代未解释的吞吐量，解释四项对应的不同指标。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
-        "answer_evidence": "But combining lines doesn't make the actual ticket transactions faster.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“仅靠合队，总处理速度未必提高”：业务仍需相同人力和处理时间。“每员工必处理更多”没依据；“每个请求时间相同”仍可复杂不同；“无法更清楚按到达排序”与速度是两回事，公平可改善。",
+        "answer_evidence": "If every counter is continuously busy, the same staff still have the same work to do.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3137,7 +3137,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问专门窗口例子的作用；“only one counter”表示所需能力只在一个窗口。\n解析：顾客不能去任意窗口，说明共享队列有适用限制。专家总更快把专长当速度；先来顺序完全无价值扩大例外；合队消除复杂请求与工作本身未变相反。\n下次：例外题先找新增约束，再查它只限制当前方案还是推翻所有优点。"
+        "explanation": "读懂：题目问专家只在一窗口的例子有什么用。separate route 是“另设队列或办理通道”。\n解析：选“说明有时单独通道更合适”：特定顾客只能找该专家，共用下一空闲窗口不适用。“合队消除复杂请求”不对，队伍安排不改变顾客业务本身的难度；“到达顺序任何地方都没价值”也不对，普通共用队正可让先来先办更清楚，专窗只是需另行处理的条件；“专家总比别人快”没有速度比较。\n下次：方法例外题找哪项前提不再成立；不能任意柜台办理时，分流便可能合理。"
       },
       "review": {
         "difficulty": "medium",
@@ -3148,9 +3148,9 @@
         "vocabulary": [
           "specialist"
         ],
-        "rationale": "唯一专员窗口限制任意分配，说明独立路线可能必要；非专家一定快、顺序无用或复杂请求消失。原解释保留。",
-        "answer_evidence": "some customers need a specialist available at only one counter. Then a separate route may be useful.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“说明有时单独通道更合适”：特定顾客只能找该专家，共用下一空闲窗口不适用。“合队消除复杂请求”不对，队伍安排不改变顾客业务本身的难度；“到达顺序任何地方都没价值”也不对，普通共用队正可让先来先办更清楚，专窗只是需另行处理的条件；“专家总比别人快”没有速度比较。",
+        "answer_evidence": "Nor is one queue ideal when some customers need a specialist available at only one counter.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3173,7 +3173,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问主旨；“rapid swings”是短时间内明显来回变化，指环境湿度波动。\n解析：纸会随水分变化而变形，保护要兼顾环境和翻阅。主要怪翻页忽略无人触碰也会损伤；去掉所有水分违背合适条件目标；盒子让室内环境无关夸大缓冲能力。\n下次：保护措施题同时找损伤来源和措施边界，再查是否把一种措施说成全面替代。"
+        "explanation": "读懂：题目问纸张保存的主旨。humidity 是“空气湿度”，快速变化可使纸张变形。\n解析：选“保存纸张既要小心触碰，也要管环境变化”：湿度、盒子作用和移展都围绕环境。“装盒后房间无关”不对，盒子只减缓环境变化的影响；“主要因翻页太快损坏”不对，开头说无人触碰也会因环境受损；“除尽所有水最有效”也错，目标是适宜而稳定的湿度，不是一味越干越好。\n下次：保存类主旨同时看物品接触和周围条件；别把单项保护当成全部保障。"
       },
       "review": {
         "difficulty": "medium",
@@ -3184,9 +3184,9 @@
         "vocabulary": [
           "humidity"
         ],
-        "rationale": "湿度变化使纸形状变化，盒子仅缓冲；保存需环境与轻拿并重，原文专业词及时定义，解析完整。",
+        "rationale": "选“保存纸张既要小心触碰，也要管环境变化”：湿度、盒子作用和移展都围绕环境。“装盒后房间无关”不对，盒子只减缓环境变化的影响；“主要因翻页太快损坏”不对，开头说无人触碰也会因环境受损；“除尽所有水最有效”也错，目标是适宜而稳定的湿度，不是一味越干越好。",
         "answer_evidence": "Protecting paper therefore involves managing its environment as well as handling its pages carefully.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3209,7 +3209,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问纸页为何可能变形；“different rates”是不同速度。\n解析：各部分随水分涨缩不同步，容易不平整。盒子阻止响应把缓冲当完全隔绝；主要由触碰次数决定忽视无人碰也会吸放湿气；各处同速则删除了差异变形的条件。\n下次：变形原因题找材料各处变化是否一致，再检查保护手段是否被夸大成永久隔绝。"
+        "explanation": "读懂：题目问书页为何可能变形。different rates 是“各部分变化速度不同”。\n解析：选“不同部分尺寸变化不同步”：吸放水时一处伸缩快、一处慢，页会不平。“主要由触碰次数决定”不对，此处变化来自纸吸收和释放空气水分；“每部分同速伸缩”与造成不平的不同步条件相反；“盒子使尺寸不再受湿度影响”也错，盒子只缓冲变化，不是永久隔绝。\n下次：形变原因题把“水分变化→尺寸变化→不同步”串起来，检查选项是否保留关键差别。"
       },
       "review": {
         "difficulty": "easy",
@@ -3220,9 +3220,9 @@
         "vocabulary": [
           "dimensions"
         ],
-        "rationale": "各部位吸放湿速度不同导致变形，触摸、全同速和盒子完全阻断均不成立。简单因果题保留。",
+        "rationale": "选“不同部分尺寸变化不同步”：吸放水时一处伸缩快、一处慢，页会不平。“主要由触碰次数决定”不对，此处变化来自纸吸收和释放空气水分；“每部分同速伸缩”与造成不平的不同步条件相反；“盒子使尺寸不再受湿度影响”也错，盒子只缓冲变化，不是永久隔绝。",
         "answer_evidence": "If different parts of a page respond at different rates, the page may become uneven or distorted.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3245,7 +3245,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问盒装书长期放在不合适房间会怎样；“a buffer”是减缓变化的缓冲物。\n解析：盒子减慢影响，不能永久抵挡坏环境。完全隔绝将减缓夸成阻断；有缓冲就说明房间合适混淆局部保护与环境本身；书未拿出就不用监测忽略外部仍会影响内部。\n下次：屏障作用题区分延缓和永久隔绝，再核对持续环境是否超出保护能力。"
+        "explanation": "读懂：题目问盒中书长期放不合适房间会怎样。buffer 是“缓冲”，只减慢变化。\n解析：选“仅靠盒子可能保护不够”：盒子不是永久挡住环境的屏障。“减慢变化就使房间合适”没有改变房间条件；“永久隔绝影响”与原文相反；“装盒便不用监测”仍须看房间。\n下次：看到缓冲措施，区分延缓影响与永远阻断；长期风险仍须检查环境本身。"
       },
       "review": {
         "difficulty": "medium",
@@ -3256,9 +3256,9 @@
         "vocabulary": [
           "buffer"
         ],
-        "rationale": "盒子仅延缓而不永久隔离环境，长期不合适仍可能失护；解释正确保留“可能”，不绝对断定破坏时间。",
+        "rationale": "选“仅靠盒子可能保护不够”：盒子不是永久挡住环境的屏障。“减慢变化就使房间合适”没有改变房间条件；“永久隔绝影响”与原文相反；“装盒便不用监测”仍须看房间。",
         "answer_evidence": "It isn't a permanent shield against an unsuitable environment.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3281,7 +3281,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问结构；“when a book is moved”转向书搬到另一环境时的应用。\n解析：先讲吸放水导致变形，再讲盒子的缓冲与局限，最后用于借展搬移。印刷史没有时代发展；版面美观换了目的；一批毁损书及盒子致损把机制说明捏成个案结论。\n下次：结构题按原因、措施、应用给段落贴功能，再查是否虚构历史或实验结果。"
+        "explanation": "读懂：题目问讲座如何组织。buffer 是“缓冲物”，这里指盒子能减慢环境变化的影响；全文先讲纸为何变形，再看盒子的帮助与局限，最后谈移去展厅。\n解析：选“解释损伤过程、评价保护措施、应用到搬移”：顺序与全文一致。“追溯印刷史选最古书”没有；“比较页设计选漂亮展览”没有；“一处毁藏证明盒子致害”也没有，盒子有有限保护作用。\n下次：结构题为每段写“原因、措施、应用”等功能词，再比顺序，别只对照重复名词。"
       },
       "review": {
         "difficulty": "medium",
@@ -3291,9 +3291,9 @@
         "vocabulary": [
           "conservators"
         ],
-        "rationale": "开头损伤机制、中段措施限制、结尾转移环境的应用；其他结构选项误造印刷史、美观比较和具体毁损事件。",
-        "answer_evidence": "And when a book is moved to a different space for an exhibition, the change in conditions deserves attention.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“解释损伤过程、评价保护措施、应用到搬移”：顺序与全文一致。“追溯印刷史选最古书”没有；“比较页设计选漂亮展览”没有；“一处毁藏证明盒子致害”也没有，盒子有有限保护作用。",
+        "answer_evidence": "when a book is moved to a different space for an exhibition, the change in conditions deserves attention.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3316,7 +3316,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问主旨；“traveling pattern”是传播的波形，区别于某一部分水的运动。\n解析：波形向前传播，水体和漂浮物还可能往复或漂移。漂浮物总随波峰到岸混同两种运动；水固定不动把看台类比照搬；波峰记录完整路径正是文中否定的替代。\n下次：波动题先分传播图样与物质位置，再检查是否把两者速度或路径画成一样。"
+        "explanation": "读懂：题目问海浪讲座主旨。traveling pattern 是“传播的波形”，不是每一份水一路随波到岸。\n解析：选“波形传播不同于个别水体运动”：浮物可上下前后动，却不走波峰全程。“追波峰就知物体全路线”错误；“海水固定不动”忽略洋流及净移动；“浮物通常同波峰同速到岸”也未成立。\n下次：运动题先分清追踪的是波形、物体还是水体；不要把传播路线直接当材料路线。"
       },
       "review": {
         "difficulty": "medium",
@@ -3327,9 +3327,9 @@
         "vocabulary": [
           "disturbance"
         ],
-        "rationale": "波的传播图样与具体水体或物件的路程不同，原文又保留洋流及净漂移，避免人浪类比过度；解析准确。",
+        "rationale": "选“波形传播不同于个别水体运动”：浮物可上下前后动，却不走波峰全程。“追波峰就知物体全路线”错误；“海水固定不动”忽略洋流及净移动；“浮物通常同波峰同速到岸”也未成立。",
         "answer_evidence": "the traveling pattern and the motion of the water aren't the same thing.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3352,7 +3352,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问人浪例子的作用；“stand up and sit down”是原地站起再坐下。\n解析：观众原地起落，图样却绕场移动，展示图样与个体路程有别。水像座位固定忽略类比限制；由个人起立求波速混淆局部动作与图样传播；人随图样换座则把原地变化误作横向移动。\n下次：类比题提取作者保留的共同关系，再用其补充说明排除过度照搬。"
+        "explanation": "读懂：题目问球场人浪的比喻作用。stand up and sit down 是“站起再坐下”，人不必沿看台跑。\n解析：选“图样可传播，而参与者不必走完整条传播路线”：对应水波与水体的区别。“观众必须换座跟着跑”不对，人原地起坐即可让人浪传下去；“一次起立就量波速”把个人动作与图样传播速度混同；“海水也像座位完全固定”也不能照搬，讲者随后说明洋流和海浪仍可带来总体位移。\n下次：比喻题保留共同关系，同时注意不同处；人浪说明图样能走，不证明海水完全不走。"
       },
       "review": {
         "difficulty": "easy",
@@ -3363,9 +3363,9 @@
         "vocabulary": [
           "stadium"
         ],
-        "rationale": "看台人浪表现参与者原地起坐而模式周行；不能把水绝对固定或个体动作当传播路径，原解析具体。",
-        "answer_evidence": "People stand up and sit down while the rising pattern moves around the seats.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“图样可传播，而参与者不必走完整条传播路线”：对应水波与水体的区别。“观众必须换座跟着跑”不对，人原地起坐即可让人浪传下去；“一次起立就量波速”把个人动作与图样传播速度混同；“海水也像座位完全固定”也不能照搬，讲者随后说明洋流和海浪仍可带来总体位移。",
+        "answer_evidence": "Nobody has to run around the stadium with it.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3388,7 +3388,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问讲者补充了什么限制；“net movement”是扣掉来回运动后的总位移。\n解析：真实水体可被洋流带走，波也可产生一定净移动。粒子固定否认补充；洋流等于波峰混淆流动与波形部位；不可能后退与开头前后移动相反。\n下次：类比后的补充通常指出不同处，先找保留的现实复杂性，再核对术语对象。"
+        "explanation": "读懂：题目问讲者给人浪类比加什么限制。net movement 是“算掉往返后仍留下的总体位移”。\n解析：选“真实水体也能有总体移动”：洋流可远距离运输，波也可造成部分净移动。“洋流就是波峰”概念错；“浮物不能后退”与开头相反；“真实波要求粒子固定”与限制相反。\n下次：类比后听“当然、不过”，找真实对象比比喻多出的特点；不要把类比条件无限扩大。"
       },
       "review": {
         "difficulty": "medium",
@@ -3399,9 +3399,9 @@
         "vocabulary": [
           "crest"
         ],
-        "rationale": "补充说明真实水能整体移动，否定过度照搬固定座位；洋流不等于波峰，后退动作也有材料支持。",
+        "rationale": "选“真实水体也能有总体移动”：洋流可远距离运输，波也可造成部分净移动。“洋流就是波峰”概念错；“浮物不能后退”与开头相反；“真实波要求粒子固定”与限制相反。",
         "answer_evidence": "Currents can carry it over long distances, and waves can produce some net movement too.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3424,7 +3424,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问怎样判断漂浮物最终有没有漂走。overall drift 是“一段时间后总体位置的移动”。\n解析：要持续跟踪同一个物体，分清来回起伏和整体位置变化。波峰速度测的是另一对象；某一刻的最高点没有长期信息；前后移动也不能预先认定完全抵消。\n下次：判断是否漂移，记录同一物体一段时间的位置，再检查它是否只是来回重复，还是整体逐渐移向一边。"
+        "explanation": "读懂：题目问怎样判断浮物整体漂移。overall drift 是“多次往返后位置仍发生的净变化”。\n解析：选“持续追踪物体，分清反复运动和总位移”：需要看一段时间起终位置及路径。“只测波峰速度”对象错；“假定前后刚好抵消”未经测量；“只记最高点一瞬间”不足以知道整体移动。\n下次：查漂移时追物体本身并跨时间比较；把往返幅度与最后移了多远分开。"
       },
       "review": {
         "difficulty": "easy",
@@ -3434,9 +3434,9 @@
         "vocabulary": [
           "drift"
         ],
-        "rationale": "按实际任务校正：持续追踪物体并分开往复与净移动，是结尾完整给出的操作。",
+        "rationale": "选“持续追踪物体，分清反复运动和总位移”：需要看一段时间起终位置及路径。“只测波峰速度”对象错；“假定前后刚好抵消”未经测量；“只记最高点一瞬间”不足以知道整体移动。",
         "answer_evidence": "follow the object over time and separate its repeated motions from any overall drift.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3459,7 +3459,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问主旨；“sensory adaptation”是持续接触相同刺激后，感觉反应减弱的适应。\n解析：刺激可能还在，但经历影响感觉。人待久就必使气味源减弱混淆人和环境；新旧来客感觉必同忽略接触时长；只归因通风漏掉感觉适应。\n下次：感知变化题分别检查环境是否变和观察者经历是否变，再避免只凭感觉判断刺激量。"
+        "explanation": "读懂：题目问气味讲座主旨。sensory adaptation 是“持续接触后，感觉反应逐渐减弱”。\n解析：选“刺激仍在，感受却可能随接触变弱”：旧顾客闻淡，新进者仍闻浓。“两类人必须闻一样”相反；“人在旁边气味源总会变弱”没保证；“通风变化是唯一原因”忽略感觉适应。\n下次：感官题把外界强度与人的感受分开；感受变弱不自动说明刺激减少。"
       },
       "review": {
         "difficulty": "medium",
@@ -3470,9 +3470,9 @@
         "vocabulary": [
           "sensory adaptation"
         ],
-        "rationale": "持续刺激下反应会因适应减弱，但其他环境原因也可能存在；主旨恰当，未把感觉变化唯一归源。",
+        "rationale": "选“刺激仍在，感受却可能随接触变弱”：旧顾客闻淡，新进者仍闻浓。“两类人必须闻一样”相反；“人在旁边气味源总会变弱”没保证；“通风变化是唯一原因”忽略感觉适应。",
         "answer_evidence": "Our response to a steady sensory signal can decrease with continued exposure",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3495,7 +3495,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问离开再回来可能怎样；“noticeable again”是又能明显感觉到。\n解析：中断接触后同一气味可重新明显。气味必比初次强、来源必换过都把感受变化强归环境；熟悉就反应不变忽略接触过程可重新开始。\n下次：再次接触题先看感觉能否恢复，再核对是否真的有外界增强或更换的证据。"
+        "explanation": "读懂：题目问离开烘焙店一阵再回来可能怎样。noticeable again 是“再次明显感觉到”。\n解析：选“同样气味可能重新闻得明显”：离开一段时间后适应效果可减退。“气味必比第一次更浓”没保证；“熟悉房间就反应必不变”相反；“气味源一定换了”不必有外界变化。\n下次：细节题保留“可能”；重新感到强烈可以来自观察者状态，不必编造刺激换新。"
       },
       "review": {
         "difficulty": "easy",
@@ -3506,9 +3506,9 @@
         "vocabulary": [
           "exposure"
         ],
-        "rationale": "离开再入可恢复同气味显著度，不必源更强或更换；简单细节题已有明确解释。",
+        "rationale": "选“同样气味可能重新闻得明显”：离开一段时间后适应效果可减退。“气味必比第一次更浓”没保证；“熟悉房间就反应必不变”相反；“气味源一定换了”不必有外界变化。",
         "answer_evidence": "Leaving for a while and returning can make the same smell noticeable again.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3531,7 +3531,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问为何固定气味源与通风；“fresh comparison”是新进入者提供的对照。\n解析：减少环境差异，便于考察接触时间。两组时长相等抹掉实验变量；空气永不改浓度把控制当普遍结论；要求报告相同预设结果而非观察。\n下次：对照设计题先找被改变和被固定的因素，再检查固定条件是否被误当结论。"
+        "explanation": "读懂：题目问实验为何保持气味源和通风不变。exposure durations 是“接触气味的时长”。\n解析：选“比较接触时长时，减少环境变化这一解释”：早进组接触久，晚进组作新鲜对比。“证明空气流动永不影响气味”未测试；“要求两组报告相同”不是；“让两组待一样久”与实验设计相反。\n下次：对照实验固定外界条件，是为了考察人的经历差别；别把固定环境误当固定结果。"
       },
       "review": {
         "difficulty": "medium",
@@ -3542,9 +3542,9 @@
         "vocabulary": [
           "ventilation"
         ],
-        "rationale": "保持气源和通风减少环境替代解释，实际变化是接触时长；控制条件不等于普遍无作用或保证报告相同。",
+        "rationale": "选“比较接触时长时，减少环境变化这一解释”：早进组接触久，晚进组作新鲜对比。“证明空气流动永不影响气味”未测试；“要求两组报告相同”不是；“让两组待一样久”与实验设计相反。",
         "answer_evidence": "while the odor source and ventilation stay unchanged.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3567,7 +3567,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问仅凭一人觉得味淡能判定什么；“hasn't necessarily disappeared”是未必真的消失。\n解析：既可能刺激变弱，也可能人适应，资料不足以选定原因。凡味淡必适应扩大规律；诚实感觉不保证外界消失；人未离开也不能排除空气流动。\n下次：单次主观报告先列替代解释，再找能区分它们的证据，检查是否过早定因。"
+        "explanation": "读懂：题目只有某人觉得味淡，问能得出什么。not necessarily 是“不一定”，单一感觉无法判定原因。\n解析：选“环境改变与感觉适应都仍可能”：气味源减弱、通风带走或长期接触都能使感受降低。“报告诚实就证明气味离开”不对，人可能如实感觉变淡，但只是自身适应，气味仍在；“人没走就排除通风”也不对，人没有离开不代表空气没流动，通风仍可能带走气味；“只要味淡就证明适应”同样过早，气味源减弱或空气流动也可解释。\n下次：证据只有主观变化时，列出环境与观察者两类原因，再找能区分它们的数据。"
       },
       "review": {
         "difficulty": "medium",
@@ -3578,9 +3578,9 @@
         "vocabulary": [
           "odor"
         ],
-        "rationale": "原文逐一给出适应、气源减弱和通风变化，单报告不能定因是直接应用这些已明示备选，降适中。",
+        "rationale": "选“环境改变与感觉适应都仍可能”：气味源减弱、通风带走或长期接触都能使感受降低。“报告诚实就证明气味离开”不对，人可能如实感觉变淡，但只是自身适应，气味仍在；“人没走就排除通风”也不对，人没有离开不代表空气没流动，通风仍可能带走气味；“只要味淡就证明适应”同样过早，气味源减弱或空气流动也可解释。",
         "answer_evidence": "The source may weaken, or moving air may carry the odor away.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3603,7 +3603,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问雨水花园的主要作用；“runoff”是沿地表流走的雨水径流。\n解析：暂存并下渗可减缓冲向排水口的水流。永久水池错在时间；阻止雨落屋顶换成源头挡雨；越快入管越好与减缓骤增水流相反。\n下次：设施功能题把进水、暂存和去向连起来，再查停留时间与速度方向。"
+        "explanation": "读懂：题目问雨水花园主要做什么。runoff 是“沿地表流走的雨水”，soak into 是“渗入”。\n解析：选“暂存地表雨水，让它渗入土中”：这样减少雨水突然冲向排水口或溪流。“阻止雨落到屋顶院子”发生在接水前，花园做不到；“尽快送进排水管”与减缓急流相反；“维持永久水池”与只暂存相反。\n下次：功能题按水的路线理解：接住、暂存、下渗；检查选项是否把暂存改成快速排出或永久蓄水。"
       },
       "review": {
         "difficulty": "easy",
@@ -3614,9 +3614,9 @@
         "vocabulary": [
           "runoff"
         ],
-        "rationale": "雨水花园暂留径流再下渗以削弱骤增水流，非永久塘、挡雨或迅速排管；基础功能解释清楚。",
+        "rationale": "选“暂存地表雨水，让它渗入土中”：这样减少雨水突然冲向排水口或溪流。“阻止雨落到屋顶院子”发生在接水前，花园做不到；“尽快送进排水管”与减缓急流相反；“维持永久水池”与只暂存相反。",
         "answer_evidence": "The garden briefly holds water while it soaks into the soil",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3639,7 +3639,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问为何只种漂亮花不够；“the soil's ability to absorb water”是土壤吸水下渗的能力。\n解析：花园依靠水进入地下，外观不能保证排水。留水展示把暂存改成观赏水池；越快入管越好与减缓骤增水流相反；密植就能处理超量暴雨忽略土壤和容量限制。\n下次：设计充分性题在可见装饰之外找关键过程，再核对材料条件是否支撑过程。"
+        "explanation": "读懂：题目问为什么只种漂亮花不够。soil's ability to absorb water 是“土壤吸水、让水下渗的能力”。\n解析：选“下面土壤也要适当吸水”：花园须处理雨水，外观不能代替排水条件。“主要留水面展示”与非永久池相反；“种密些必能应付超量暴雨”没有保证且忽略土壤；“越快进排水管越好”与缓解突发水流的目的相反。\n下次：评价设施时先找它要完成的功能，再问外观之外什么条件决定功能能否实现。"
       },
       "review": {
         "difficulty": "easy",
@@ -3650,9 +3650,9 @@
         "vocabulary": [
           "depression"
         ],
-        "rationale": "按实际任务校正：土壤吸水能力是紧邻强调的条件；本题未提供需要分析的新排水布局。",
+        "rationale": "选“下面土壤也要适当吸水”：花园须处理雨水，外观不能代替排水条件。“主要留水面展示”与非永久池相反；“种密些必能应付超量暴雨”没有保证且忽略土壤；“越快进排水管越好”与缓解突发水流的目的相反。",
         "answer_evidence": "the soil's ability to absorb water is crucial.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3675,7 +3675,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问水停留过久说明应注意什么；“drains very slowly”是排水、下渗很慢。\n解析：久积水提示须查土壤排水条件。能接水不等于能按设计处理；更多花必解决没有机制保证；水留住反而可能占满容量，不能因此省掉溢流路径。\n下次：功能异常题回到该阶段应完成的动作，再查现象是成功还是处理受阻。"
+        "explanation": "读懂：题目问拟选地点积水超过预期意味着什么。drains very slowly 是“排水很慢”。\n解析：选“需进一步检查排水条件”：土壤下渗慢正会导致水留得太久。“多种花一定解决”没检验土壤；“证明已能成功处理雨水”只接住却排不掉不算功能完整；“既然水停着就不用溢流路线”更大雨仍可能超过容纳量。\n下次：看到水停留过久，先查排水再定方案；能接水不等于能按计划处理完。"
       },
       "review": {
         "difficulty": "medium",
@@ -3686,9 +3686,9 @@
         "vocabulary": [
           "overflow"
         ],
-        "rationale": "积水过久提示需核排水，不证明功能完成，也不能省溢流；当前适中判断材料支持。",
+        "rationale": "选“需进一步检查排水条件”：土壤下渗慢正会导致水留得太久。“多种花一定解决”没检验土壤；“证明已能成功处理雨水”只接住却排不掉不算功能完整；“既然水停着就不用溢流路线”更大雨仍可能超过容纳量。",
         "answer_evidence": "If the ground drains very slowly, water may remain longer than intended.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3711,7 +3711,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问提超大降雨的目的；“excess water”是超出处理能力的多余水量。\n解析：有容量上限，所以要规划溢流去向。每场都永久积水把极端条件扩大为常态；取代所有排水管超出辅助减流功能；只看外观违背依据水量和土壤设计。\n下次：超限情境题找备用去向或处理方式，再检查是否把例外情况当日常状态。"
+        "explanation": "读懂：题目问为何提超出花园容量的暴雨。overflow route 是“装不下时让多余水流走的路径”。\n解析：选“说明要安排多余雨水去处”：设计不能只顾普通雨量。“每次雨都永久淹没”把大于容量的情况扩大到所有雨；“取代所有排水管”没有建议；“只按外观定大小”忽略来水量和排水能力。\n下次：设计题遇到超过容量的情况，问多余部分会去哪；检查是否有安全的后续路径。"
       },
       "review": {
         "difficulty": "medium",
@@ -3722,9 +3722,9 @@
         "vocabulary": [
           "downpipe"
         ],
-        "rationale": "超容量暴雨用来解释多余水出口，不把超限情景推广为每场永久淹没；原解释保留范围。",
+        "rationale": "选“说明要安排多余雨水去处”：设计不能只顾普通雨量。“每次雨都永久淹没”把大于容量的情况扩大到所有雨；“取代所有排水管”没有建议；“只按外观定大小”忽略来水量和排水能力。",
         "answer_evidence": "Designers also consider where excess water will go during a storm larger than the garden can handle.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3747,7 +3747,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问主要目的；“unreliable narrator”是不完全可靠的叙述者，可能误解而非故意说谎。\n解析：读者对照说法与事件，判断叙述者局限。第一人称全无可信细节扩大范围；等同作者观点混同创作者与角色；总有欺骗意图忽略无心误读。\n下次：叙述题分开事件、角色解释和作者安排，再核对不可靠来自事实还是理解。"
+        "explanation": "读懂：题目问不可靠叙述者讲座目的。unreliable narrator 是“讲述时可能误解或歪曲事件的叙述者”。\n解析：选“说明读者怎样评价叙述声音”：用具体事件核对叙述者的大判断。“叙述者观点就是作者观点”被否定；“第一人称小说无可信细节”忽略真实细节可揭露判断问题；“总是故意骗人”忽略误解或自负也会造成不可靠。\n下次：阅读叙述者评价时，找文中具体事件核对；不可靠不等于每句都假或一定故意撒谎。"
       },
       "review": {
         "difficulty": "medium",
@@ -3758,9 +3758,9 @@
         "vocabulary": [
           "unreliable narrator"
         ],
-        "rationale": "不可靠叙述者可能误解而非撒谎，读者需对照事实与概括且区分作者；定义和例子可自足作答。",
-        "answer_evidence": "we follow the events and also evaluate the voice presenting them.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“说明读者怎样评价叙述声音”：用具体事件核对叙述者的大判断。“叙述者观点就是作者观点”被否定；“第一人称小说无可信细节”忽略真实细节可揭露判断问题；“总是故意骗人”忽略误解或自负也会造成不可靠。",
+        "answer_evidence": "This creates two levels of reading: we follow the events and also evaluate the voice presenting them.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3783,7 +3783,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问日记概括为何可疑；“a waste of the village's money”是浪费村里的钱。\n解析：邻居的批评就是反对，与无人反对冲突。邻居赞成省钱反转评价；没有他人反应漏掉刚给的例子；邻居提出总判断则调换了概括者与批评者。\n下次：概括与细节冲突题找能反证的具体事件，再核对评价方向和说话者。"
+        "explanation": "读懂：题目问日记的笼统说法为何可疑。nobody objected 是“没人反对”，a waste of money 是“浪费钱”。\n解析：选“声称无人反对后，却又记录邻居批评”：说计划浪费村里钱就是反对证据。“笼统结论是邻居说的”人物错，结论是日记作者说的；“邻居同意省钱”与浪费钱相反；“没给他人反应例子”邻居评论正是例子。\n下次：核对“所有、没有人”等概括时，寻找一个具体反例；判断与记下的事件可能冲突。"
       },
       "review": {
         "difficulty": "easy",
@@ -3794,9 +3794,9 @@
         "vocabulary": [
           "objection"
         ],
-        "rationale": "无人反对和邻居批评相冲突，邻居不是概括者也没有赞成省钱；简单矛盾识别题保留。",
+        "rationale": "选“声称无人反对后，却又记录邻居批评”：说计划浪费村里钱就是反对证据。“笼统结论是邻居说的”人物错，结论是日记作者说的；“邻居同意省钱”与浪费钱相反；“没给他人反应例子”邻居评论正是例子。",
         "answer_evidence": "The writer says nobody objected to a plan. A few lines later, the same writer reports that a neighbor called the plan a waste of the village's money.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3819,7 +3819,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问不可靠叙述中的准确细节有何价值；“question the writer's interpretation”是质疑叙述者的解释。\n解析：细节可提供反证，让读者发现总判断偏差。细节真不保证每个判断真；忽略细节反而丢掉核验依据；作者赞同角色也不能从细节准确推出。\n下次：判断资料可靠性时把观察与解释拆开，再用可核细节检查概括。"
+        "explanation": "读懂：题目问不可靠叙述中的准确细节有什么用。interpretation 是“叙述者对事件作出的解释或判断”。\n解析：选“帮助读者发现解释的弱点”：真实记录的邻居批评能反驳“无人反对”。“细节准确便每个判断都正确”从事实跳到全部评价；“应忽略细节只看概括”会错过反证；“证明作者同意叙述者”把虚构人物与作者合为一人。\n下次：把发生的事实与人物怎样评价分开；用细节检验评价，不让评价盖过细节。"
       },
       "review": {
         "difficulty": "easy",
@@ -3830,9 +3830,9 @@
         "vocabulary": [
           "interpretation"
         ],
-        "rationale": "按实际任务校正：准确细节能让读者质疑叙述者解释，在讲稿中直接说明。",
+        "rationale": "选“帮助读者发现解释的弱点”：真实记录的邻居批评能反驳“无人反对”。“细节准确便每个判断都正确”从事实跳到全部评价；“应忽略细节只看概括”会错过反证；“证明作者同意叙述者”把虚构人物与作者合为一人。",
         "answer_evidence": "accurate details can allow us to question the writer's interpretation.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3855,7 +3855,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问结构；“Imagine a fictional diary”是设想一本虚构日记。\n解析：先介绍概念，再用自相矛盾示例，最后说明双层阅读。作家传记与版本比较没有展开；裁决哪个计划便宜把示例当待解决的经济问题；官方档案鉴真把虚构例子当真实史料。\n下次：结构题先标清示例真假与用途，再检查选项是否把举例内容变成讲座任务。"
+        "explanation": "读懂：题目问讲座结构。unreliable narrator 是“不可靠的叙述者”；先介绍这个概念，再举日记前后矛盾，最后说明读者如何判断叙述。\n解析：选“引入概念、用矛盾举例、联系阅读策略”：策略是同时跟事件并评价说话者。“作家生平与版本比较”未出现；“决定哪种建设计划便宜”把小说例子当经济决策；“官方记录认证历史文件”未做，材料是设想的小说日记。\n下次：结构题分清例子服务的概念，不把例子中的情节当讲座真正要解决的任务。"
       },
       "review": {
         "difficulty": "medium",
@@ -3866,9 +3866,9 @@
         "vocabulary": [
           "fictional"
         ],
-        "rationale": "概念→虚构日记矛盾→双层阅读策略，非真实文件鉴定或经济方案决策；原解释明确示例身份。",
-        "answer_evidence": "This creates two levels of reading",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“引入概念、用矛盾举例、联系阅读策略”：策略是同时跟事件并评价说话者。“作家生平与版本比较”未出现；“决定哪种建设计划便宜”把小说例子当经济决策；“官方记录认证历史文件”未做，材料是设想的小说日记。",
+        "answer_evidence": "The important evidence is the gap between a broad claim and the particular event being described.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3891,7 +3891,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问讲座主要解释什么；“net movement”是两边流动相抵后，水总体往哪边走。\n解析：两个袋子分别变小和基本不变，都是用水的进出量解释体积变化。糖不能穿膜；浓度相同也不代表水停止运动；两个实验没有比较不同膜材料。\n下次：听完各个实验，找它们共同解释的现象，再检查选项是否把水、糖或膜的作用说反。"
+        "explanation": "读懂：题目问选择性膜演示的目的。selective 指“水能过膜，溶解的糖不能过”。\n解析：选“解释跨膜水流怎样改变袋子大小”：比较两边水流总量差异。“糖过膜扩散”与设定相反；“浓度相等就分子停动”与水仍双向过膜相反；“比较不同膜材袋大小”两次改变的是内外糖浓度，不是膜材料。\n下次：主旨题先记膜允许谁通过，再看两次设置比较的现象；别把糖的浓度误读成糖在过膜。"
       },
       "review": {
         "difficulty": "medium",
@@ -3903,9 +3903,9 @@
           "selective",
           "osmosis"
         ],
-        "rationale": "两个袋子分别变小和基本不变，都是用水的进出量解释体积变化。糖不能穿膜；浓度相同也不代表水停止运动；两个实验没有比较不同膜材料。",
-        "answer_evidence": "The difference between those movements produces the overall change.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“解释跨膜水流怎样改变袋子大小”：比较两边水流总量差异。“糖过膜扩散”与设定相反；“浓度相等就分子停动”与水仍双向过膜相反；“比较不同膜材袋大小”两次改变的是内外糖浓度，不是膜材料。",
+        "answer_evidence": "This net movement of water through a selective membrane is called osmosis.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3928,7 +3928,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问第一个袋子刚开始怎样变化；“more water leaves”是流出的水更多。\n解析：袋里是纯水，外面是糖水，起初出水多于进水，所以变小。糖被膜挡住，不会流进去；水能双向通过不等于进出量相等，也不是膜只许出、不许进。\n下次：先标清袋内和袋外，再比较进水量与出水量，用两者之差判断变大还是变小。"
+        "explanation": "读懂：题目问第一袋起初怎样。袋内纯水、袋外糖水，初始压力相同。more water leaves 是“出去的水比进来的多”。\n解析：选“袋子变小，因为出水多于进水”：总体水量减少。“糖进入使袋变大”糖不能穿膜；“水双向移动就大小不变”双向量未必相等；“变小因水完全不能进来”原文明确水仍可双向移动。\n下次：判断袋子变化，比较进水和出水的数量；双向运动不等于数量相等，也不等于单向通行。"
       },
       "review": {
         "difficulty": "easy",
@@ -3939,9 +3939,9 @@
         "vocabulary": [
           "more water leaves"
         ],
-        "rationale": "袋里是纯水，外面是糖水，起初出水多于进水，所以变小。糖被膜挡住，不会流进去；水能双向通过不等于进出量相等，也不是膜只许出、不许进。",
+        "rationale": "选“袋子变小，因为出水多于进水”：总体水量减少。“糖进入使袋变大”糖不能穿膜；“水双向移动就大小不变”双向量未必相等；“变小因水完全不能进来”原文明确水仍可双向移动。",
         "answer_evidence": "At first, more water leaves the bag than enters it, so the bag gets smaller.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3964,7 +3964,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问第二个袋子用来说明什么；“an unchanged bag”指体积基本没变的袋子。\n解析：两边糖浓度和压力相同，水仍双向流动，但没有总体增减。这个例子区分“体积不变”和“分子不动”；它没测试糖能否过膜，没单独向外侧加糖，也没设置压力差。\n下次：听到第二个实验，比较改了什么条件、观察到什么，再把结果接到讲者要澄清的误解上。"
+        "explanation": "读懂：题目问第二袋内外等浓度、等压力的设置说明什么。stays about the same 是“大小大致不变”。\n解析：选“水仍移动，大小却可无净变化”：两方向相抵，所以袋子不变。“测试糖能否过膜”糖不能过已设定；“外加糖逆转水流”此袋是等浓度；“隔离压差作用”此时没有设压差，而是保持相等。\n下次：看到总量不变，检查是否仍有相等的流入流出；静态结果不代表内部停止活动。"
       },
       "review": {
         "difficulty": "medium",
@@ -3975,9 +3975,9 @@
         "vocabulary": [
           "an unchanged bag"
         ],
-        "rationale": "两边糖浓度和压力相同，水仍双向流动，但没有总体增减。这个例子区分“体积不变”和“分子不动”；它没测试糖能否过膜，没单独向外侧加糖，也没设置压力差。",
-        "answer_evidence": "So an unchanged bag doesn't mean motion has stopped.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“水仍移动，大小却可无净变化”：两方向相抵，所以袋子不变。“测试糖能否过膜”糖不能过已设定；“外加糖逆转水流”此袋是等浓度；“隔离压差作用”此时没有设压差，而是保持相等。",
+        "answer_evidence": "Its size stays about the same, although water continues crossing in both directions.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -4000,7 +4000,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这次把糖水放在袋内；“higher concentration”是浓度更高，题目只问压力相同时的起初变化。\n解析：材料说水总体流向糖浓度更高的一侧，现在这一侧在袋内，所以袋子进水、变大。选变小把方向套成了第一个实验；选不变漏看浓度差；糖流出又违反了糖不能过膜的条件。\n下次：条件调换时重新标出哪边糖浓度高，再画水的总体流向，最后检查袋子体积是否与箭头一致。"
+        "explanation": "读懂：题目给第三袋：里面糖水、外面纯水，初始压力相同。higher concentration 是“不能过膜的糖浓度更高”。\n解析：选“起初进水多于出水，袋变大”：水总体向较高糖浓度的袋内流。“更多流出变小”方向反；“两向一样大小不变”只适合所举等浓度设置；“糖穿膜流走”违反糖不能过膜的条件。\n下次：应用渗透规则先标高糖侧，再在等压的初始条件下画水的总流向；别把水流与糖流混淆。"
       },
       "review": {
         "difficulty": "medium",
@@ -4011,9 +4011,9 @@
         "vocabulary": [
           "higher concentration"
         ],
-        "rationale": "材料说水总体流向糖浓度更高的一侧，现在这一侧在袋内，所以袋子进水、变大。选变小把方向套成了第一个实验；选不变漏看浓度差；糖流出又违反了糖不能过膜的条件。",
+        "rationale": "选“起初进水多于出水，袋变大”：水总体向较高糖浓度的袋内流。“更多流出变小”方向反；“两向一样大小不变”只适合所举等浓度设置；“糖穿膜流走”违反糖不能过膜的条件。",
         "answer_evidence": "With equal pressure, water initially moves overall toward the side with the higher concentration of sugar that cannot cross.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -4036,7 +4036,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问主旨；“aligned with”是与某个周期保持对应。\n解析：自然年不是整数天，须修正计数以贴近季节。地球突然多转一圈把标记校正当天体变化；小差异长期无影响忽略累积；规则决定公转周期倒置记录与自然。\n下次：计时制度题先分自然过程和记录方法，再查修正发生在哪一侧。"
+        "explanation": "读懂：题目问历法讲座主旨。leap day 是“闰日”，用来修正日期计数。\n解析：选“修正历法使整天计数跟上季节周期”：自然年略多于365天，需要补差。“历法决定自然周期”因果倒置，是计数适应自然；“地球突然多自转一次”被否定；“小年差几十年也无影响”忽略差距累积。\n下次：历法题区分自然发生的周期与人为日期标签；调整的是计数，不是地球运动。"
       },
       "review": {
         "difficulty": "medium",
@@ -4047,9 +4047,9 @@
         "vocabulary": [
           "leap day"
         ],
-        "rationale": "季节年非整数天导致日历计数需调整，改变记录而非地球运动；原解析清晰，不依赖闰年口诀。",
+        "rationale": "选“修正历法使整天计数跟上季节周期”：自然年略多于365天，需要补差。“历法决定自然周期”因果倒置，是计数适应自然；“地球突然多自转一次”被否定；“小年差几十年也无影响”忽略差距累积。",
         "answer_evidence": "they keep a human system of labels aligned with the cycle it is intended to represent.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -4072,7 +4072,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问每年固定365天为何偏移；“it accumulates”是差额不断累积。\n解析：自然周期略长，每年少算一点会越积越多。每冬恰长一天捏造变化规律；标签决定天数颠倒自然与计数；仅闰日不准把修正时点当误差来源。\n下次：累积误差题先找每次差多少及方向，再检查小差是否被当成长期为零。"
+        "explanation": "读懂：题目问每年固定365天为何偏离季节。accumulates 是“年年相加，差越来越大”。\n解析：选“季节年略长，差值逐年累积”：每年少算一点，长期就错开。“每冬后自然年正好增一天”没有；“标签设定自然年长度”方向反；“只有加闰日那天才不准”闰日是在纠正此前累积的差。\n下次：听小差距的长期效果，把每次差值相加；不要只看一年觉得小就认为长期无影响。"
       },
       "review": {
         "difficulty": "easy",
@@ -4083,9 +4083,9 @@
         "vocabulary": [
           "accumulates"
         ],
-        "rationale": "年度小差额累积导致日历偏移，非自然年每冬增长整天或闰日造成误差；简单因果成立。",
+        "rationale": "选“季节年略长，差值逐年累积”：每年少算一点，长期就错开。“每冬后自然年正好增一天”没有；“标签设定自然年长度”方向反；“只有加闰日那天才不准”闰日是在纠正此前累积的差。",
         "answer_evidence": "The difference in one year is small, but it accumulates.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -4108,7 +4108,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问慢钟类比的作用；“changes the reading”是改读数，而非时间本身。\n解析：小误差累积后需校正记录系统。调钟改变时间混淆测量与对象；越久误差越小倒转累积；短期准确就保证长期准确忽略每天微小偏差会积大。\n下次：测量类比题对应误差、累积和校正，再检查观察时间是否足够支持长期结论。"
+        "explanation": "读懂：题目问慢钟例子说明什么。loses a little time each day 是“每天慢一点”。\n解析：选“反复的小误差需要修正计量系统”：钟久了差明显，调读数类似历法补差。“调钟改变时间流逝”被否定；“运行越久误差越小”相反；“短期看准就证明长期准”正是例子反对的推断。\n下次：例子题找重复产生的误差及修正对象；这里改钟面读数，不能改变时间本身。"
       },
       "review": {
         "difficulty": "medium",
@@ -4118,9 +4118,9 @@
         "vocabulary": [
           "approximation"
         ],
-        "rationale": "慢钟类比共同点是小误差积累与修正读数，不能改变时间本身；原解释准确。",
-        "answer_evidence": "after many weeks the error is noticeable. Correcting it changes the reading, not the passage of time.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“反复的小误差需要修正计量系统”：钟久了差明显，调读数类似历法补差。“调钟改变时间流逝”被否定；“运行越久误差越小”相反；“短期看准就证明长期准”正是例子反对的推断。",
+        "answer_evidence": "Correcting it changes the reading, not the passage of time.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -4143,7 +4143,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问初步近似意味着什么；“first approximation”是第一次粗略接近，并非完全精确。\n解析：长期仍需较小修正。任何时长都精确抹掉近似性；自然年必整数与开头不整除相反；消去自然周期的小数部分混淆调整计数与改变被记录的周期。\n下次：遇到近似措辞，保留残余误差和时间尺度，再核对选项是否误写成永远精确。"
+        "explanation": "读懂：题目问“四年加一天只是初步近似”意味着什么。first approximation 是“第一步较接近的估算”，不是精确永远适用。\n解析：选“足够长时期仍可能需要更细调整”：原文说明长期要小修正。“任何时期都完全吻合”把近似说成精确；“去掉自然周期的小数部分”改不了自然运动；“自然年必须是整数天”与开头非整天相反。\n下次：听近似规则时保留残余误差；短期够用不意味着无限期完全准确。"
       },
       "review": {
         "difficulty": "medium",
@@ -4154,9 +4154,9 @@
         "vocabulary": [
           "adjustments"
         ],
-        "rationale": "初步近似保留长期微调需求，不意味着自然周期变整数或永远吻合；题与适中标签相符。",
+        "rationale": "选“足够长时期仍可能需要更细调整”：原文说明长期要小修正。“任何时期都完全吻合”把近似说成精确；“去掉自然周期的小数部分”改不了自然运动；“自然年必须是整数天”与开头非整天相反。",
         "answer_evidence": "smaller adjustments are needed over longer periods.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -4179,7 +4179,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问主旨；“support each other”是两种记录互相补充。\n解析：记谱便于看动作结构，录像保留具体表达，两者有各自限制。谱代替全部影像夸大完整性；任意机位都清楚忽略遮挡；消除表情差异与理解不同实现方式相反。\n下次：媒介比较题给各自配优势与缺口，再查组合是否补上缺口而非宣称完全替代。"
+        "explanation": "读懂：题目问舞蹈记录的主旨。movement notation 是“用符号记动作的舞谱”。\n解析：选“舞谱与视频保存相互补充的方面”：舞谱清楚列动作，视频显示某次力度和表情。“任何机位都完整拍到每人”忽略遮挡；“保存须消除表演差异”相反，差异也值得看；“舞谱替代所有图像记录”忽略舞谱未写死的表现。\n下次：比较记录方式先问各自留住什么、漏掉什么；选互补关系，别自动判谁完全取代谁。"
       },
       "review": {
         "difficulty": "medium",
@@ -4190,9 +4190,9 @@
         "vocabulary": [
           "Movement notation"
         ],
-        "rationale": "记谱与影像分别保结构及具体演绎，互补而非替代，摄像视角限制已解释；原说明保留。",
+        "rationale": "选“舞谱与视频保存相互补充的方面”：舞谱清楚列动作，视频显示某次力度和表情。“任何机位都完整拍到每人”忽略遮挡；“保存须消除表演差异”相反，差异也值得看；“舞谱替代所有图像记录”忽略舞谱未写死的表现。",
         "answer_evidence": "the two records can therefore support each other.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -4215,7 +4215,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问动作符号可能记什么；“for how long”是持续多久。\n解析：例子列身体部位、方向与时长。所有机位影像把符号当全景录像；观众准确情绪超出动作记录；规定唯一表达与同谱可有不同力度和情感相反。\n下次：记录内容题严格按给出的信息维度匹配，再排除未记录的视角或内心反应。"
+        "explanation": "读懂：题目问动作符号可能表示哪些信息。direction 是“移动方向”，for how long 是“持续多久”。\n解析：选“身体哪一部分、方向和时长”：这是原文直接列的动作信息。“所有表演者必须复制同一表情”舞谱留有表达空间；“相机所有角度看所有人”不是符号内容；“每名观众准确情绪”也不是动作记录能确定的。\n下次：列举细节题按“部位—方向—时间”记录；别把动作说明扩成演出和观众的所有信息。"
       },
       "review": {
         "difficulty": "easy",
@@ -4226,9 +4226,9 @@
         "vocabulary": [
           "symbols"
         ],
-        "rationale": "符号可记身体部位、方向、时长，非全部摄像视角、唯一表情或观众内心；直接列举型简单题保留。",
-        "answer_evidence": "which part of the body moves, in what direction, and for how long.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“身体哪一部分、方向和时长”：这是原文直接列的动作信息。“所有表演者必须复制同一表情”舞谱留有表达空间；“相机所有角度看所有人”不是符号内容；“每名观众准确情绪”也不是动作记录能确定的。",
+        "answer_evidence": "A symbol might indicate which part of the body moves, in what direction, and for how long.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -4251,7 +4251,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问同谱出现不同表演如何理解；“different realizations”是把同一结构演出来的不同方式。\n解析：相同动作结构仍可有力度、能量和表情差别。表达不同就读错方向混淆自由表达与动作要求；必有不同动作顺序违背题设；记谱全无价值又忽略其记录结构的用途。\n下次：同一规则的不同表现先查哪些参数留有余地，再判断差别是否真的违反结构。"
+        "explanation": "读懂：题目问同一舞谱被两舞者演得不同意味着什么。interpretation 是“个人对动作的表现方式”。\n解析：选“动作结构不变，表现可以不同”：同一动作可有不同力度、能量、表情。“每段录像必属不同动作序列”过度；“表情不同证明有人读错方向”未必；“差异说明舞谱没用”舞谱仍保存顺序等信息。\n下次：比较同谱演出，先分动作指令与表现细节；差别出在后者不等于前者错了。"
       },
       "review": {
         "difficulty": "medium",
@@ -4262,9 +4262,9 @@
         "vocabulary": [
           "interpretation"
         ],
-        "rationale": "同结构允许力度、能量和情感变化，差异不必是误读或另一序列；原解释区分规定与留白。",
+        "rationale": "选“动作结构不变，表现可以不同”：同一动作可有不同力度、能量、表情。“每段录像必属不同动作序列”过度；“表情不同证明有人读错方向”未必；“差异说明舞谱没用”舞谱仍保存顺序等信息。",
         "answer_evidence": "The same written movement may be carried out with different weight, energy, or expression.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -4287,7 +4287,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问篇章结构；“another record”表示引入另一种记录方式来比较。\n解析：先问如何保存舞蹈，再比较录像与记谱，最后建议互补。记谱兴衰没有历史线；设备排名和万能机位没有出现；禁止个人解释与肯定不同表达相反。\n下次：结构题抓问题、比较、建议的推进，再核对选项是否额外添了历史或冲突。"
+        "explanation": "读懂：题目问讲座结构。先问如何保存舞蹈，再比较录像和舞谱；结尾 support each other（互相补充）提示把两种记录结合使用。\n解析：选“提出保存问题、比较两种记录、建议结合使用”：结尾让学生看舞谱理解顺序、看视频比较表现。“给相机排名选万能角度”未做；“解决排练争执并禁止个人表达”与留表达空间相反；“追溯舞谱兴亡史”未讲历史。\n下次：结构题把问题、比较、建议各找一句证据；不要把方法比较误读成设备排行榜。"
       },
       "review": {
         "difficulty": "medium",
@@ -4297,9 +4297,9 @@
         "vocabulary": [
           "archive"
         ],
-        "rationale": "保存舞蹈的问题→两种记录优势限制→组合建议，非技术排名、禁解释或历史兴衰；完整组一致，原结构解析保留。",
-        "answer_evidence": "For a teaching archive, the two records can therefore support each other.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“提出保存问题、比较两种记录、建议结合使用”：结尾让学生看舞谱理解顺序、看视频比较表现。“给相机排名选万能角度”未做；“解决排练争执并禁止个人表达”与留表达空间相反；“追溯舞谱兴亡史”未讲历史。",
+        "answer_evidence": "A learner can consult the score for the movement sequence and watch recordings to examine different realizations.",
+        "reviewed_on": "2026-10-09"
       }
     }
   ]

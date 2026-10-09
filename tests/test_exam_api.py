@@ -47,29 +47,30 @@ def test_exam_counts_and_distribution(client, section):
 def test_meta_and_bank_counts(client):
     store.validate_integrity()
     data = client.get('/api/v1/meta').json()
-    assert data['total_questions'] == 5745
+    assert data['total_questions'] == 6045
     assert data['exam_total_questions'] == 120
     assert {s: m['question_count'] for s, m in data['sections'].items()} == {
         'reading': 3390,
         'listening': 1410,
-        'writing': 450,
+        'writing': 750,
         'speaking': 495,
     }
-    assert len(client.get('/api/v1/exam?mode=bank').json()['questions']) == 5745
+    assert len(client.get('/api/v1/exam?mode=bank').json()['questions']) == 6045
 
 
 @pytest.mark.parametrize('task_type', TARGETS['writing'])
 def test_writing_bank_filter_and_submission(client, task_type):
     params = {'section': 'writing', 'mode': 'bank', 'task_type': task_type}
     data = client.get('/api/v1/exam', params=params).json()
-    assert data['total'] == 150
+    expected = 450 if task_type == 'build_sentence' else 150
+    assert data['total'] == expected
     assert {q['task_type'] for q in data['questions']} == {task_type}
     response = client.post('/api/v1/exam/submit', json={**params, 'responses': []})
     assert response.status_code == 200
-    assert response.json()['sections']['writing']['total'] == 150
+    assert response.json()['sections']['writing']['total'] == expected
 
 
-@pytest.mark.parametrize('mode,count', [('exam', 120), ('bank', 5745)])
+@pytest.mark.parametrize('mode,count', [('exam', 120), ('bank', 6045)])
 def test_full_submission_above_old_100_item_limit(client, mode, count):
     questions = client.get('/api/v1/exam', params={'mode': mode}).json()['questions']
     response = client.post(

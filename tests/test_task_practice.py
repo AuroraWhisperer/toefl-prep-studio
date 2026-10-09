@@ -158,7 +158,7 @@ def test_expanded_bank_quality_and_metadata():
         for task, before in zip(tasks, baseline[section]):
             items = [q for q in questions if q['task_type'] == task]
             factor = 6 if section in {'reading', 'listening'} else 3
-            if task == 'complete_words' or section == 'speaking':
+            if task in {'complete_words', 'build_sentence'} or section == 'speaking':
                 factor *= 3
             assert len(items) == (before * 5 + (15 if task == 'read_daily_life' else 0)) * factor
             info = store.manifest()['sections'][section]['practice_tasks'][task]

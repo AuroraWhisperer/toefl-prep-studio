@@ -12,6 +12,7 @@ from backend.app import FrontendFiles, app
     [
         '/',
         '/guide',
+        '/foundations',
         '/practice/reading',
         '/practice/writing/run/example',
         '/exam/listening/example',

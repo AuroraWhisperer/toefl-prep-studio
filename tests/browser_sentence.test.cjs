@@ -1,4 +1,4 @@
-const { test, expect } = require('@playwright/test');
+const { test: base, expect } = require('@playwright/test');
 const { readFileSync } = require('node:fs');
 const path = require('node:path');
 const { openSettings, start, submit } = require('./browser_practice_helpers.cjs');
@@ -13,6 +13,7 @@ const keys = JSON.parse(
 const questions = ['W01', 'W04', 'W05', 'W07', 'W39', 'W31', 'W38', 'W51', 'W56', 'W70'].map((id) =>
   bank.find((q) => q.id === id),
 );
+const test = base.extend({ sentenceQuestions: [questions, { option: true }] });
 const words = (text) => (text.toLowerCase().match(/[a-z]+(?:'[a-z]+)?/g) || []).join(' ');
 
 // Private keys remain in the test process, never in a browser payload.
@@ -38,17 +39,110 @@ function correctOrder(question, answer = keys[question.id].accepted[0]) {
   return visit(0, 0, []);
 }
 
-test.beforeEach(async ({ page, request }) => {
-  expect((await request.get('/')).status()).toBe(200);
+test.beforeEach(async ({ page, request, sentenceQuestions }) => {
+  expect((await request.get('/practice/writing')).status()).toBe(200);
   await page.route('**/api/v1/exam?**', async (route) => {
     const response = await route.fetch();
     const payload = await response.json();
-    await route.fulfill({ response, json: { ...payload, questions } });
+    await route.fulfill({ response, json: { ...payload, questions: sentenceQuestions } });
   });
   await page.goto('/');
   await openSettings(page, 'writing', 'build_sentence', 10);
+  await expect(
+    page.locator('label').filter({ has: page.locator('input[value="build_sentence"]') }),
+  ).toContainText('450 题');
   await start(page);
 });
+
+for (const desktop of [
+  { width: 2560, height: 1440, scale: 1 },
+  { width: 2048, height: 1152, scale: 1.25 },
+  { width: 1707, height: 960, scale: 1.5 },
+]) {
+  test.describe(`October sentence additions at ${desktop.scale * 100}% scaling`, () => {
+    const additions = [
+      'W455',
+      'W467',
+      'W507',
+      'W549',
+      'W565',
+      'W586',
+      'W597',
+      'W716',
+      'W720',
+      'W750',
+    ].map((id) => bank.find((q) => q.id === id));
+    test.use({
+      sentenceQuestions: [additions, { scope: 'test' }],
+      viewport: { width: desktop.width, height: desktop.height },
+      deviceScaleFactor: desktop.scale,
+    });
+    test('new tiles and reviewed variants submit and retain their explanations after reload', async ({
+      page,
+    }, testInfo) => {
+      const errors = [];
+      page.on('pageerror', (error) => errors.push(error.message));
+      for (const [index, question] of additions.entries()) {
+        expect(question).not.toHaveProperty('accepted');
+        expect(question).not.toHaveProperty('explanation');
+        await expect(page.locator('#question-content')).not.toContainText('读懂：');
+        await expect(page.locator('.sentence-fixed')).toHaveText(question.template_parts);
+        const order = correctOrder(question, keys[question.id].accepted.at(-1));
+        expect(order).not.toBeNull();
+        for (const [slot, token] of order.entries()) {
+          if (slot === 0) {
+            await page.locator(`[data-word="${token}"]`).focus();
+            await page.keyboard.press('Enter');
+          } else {
+            await page.locator(`[data-word="${token}"]`).click();
+          }
+        }
+        await expect(page.locator('.sentence-slot.is-empty')).toHaveCount(0);
+        await expect(page.locator('[data-word]:enabled')).toHaveCount(
+          question.word_bank.length - order.length,
+        );
+        expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(
+          true,
+        );
+        if (index < additions.length - 1) await page.locator('#next-question').click();
+      }
+      await page.screenshot({ path: testInfo.outputPath('new-sentence.png'), fullPage: true });
+      const result = await submit(page);
+      expect(result.feedback.map((item) => item.question_id)).toEqual(additions.map((q) => q.id));
+      expect(result.feedback.every((item) => item.correct)).toBe(true);
+      for (const item of result.feedback)
+        expect(item.explanation).toBe(keys[item.question_id].explanation);
+      await page.locator('#review-index button').nth(7).click();
+      if (!(await page.locator('.review-explanations').evaluate((element) => element.open)))
+        await page.locator('.review-explanations summary').click();
+      await expect(page.locator('.review-explanations p').last()).toBeVisible();
+      await expect(page.locator('.review-explanations')).toContainText(keys.W716.explanation);
+      await page.screenshot({
+        path: testInfo.outputPath('reviewed-inversion.png'),
+        fullPage: true,
+      });
+      await page.locator('#review-index button').last().click();
+      if (!(await page.locator('.review-explanations').evaluate((element) => element.open)))
+        await page.locator('.review-explanations summary').click();
+      await expect(page.locator('.review-explanations p').last()).toBeVisible();
+      await expect(page.locator('.review-explanations')).toContainText(keys.W750.explanation);
+      await expect(page.locator('.reference-answer')).toHaveCount(1);
+      await page.screenshot({
+        path: testInfo.outputPath('new-sentence-review.png'),
+        fullPage: true,
+      });
+      await page.reload();
+      await page.locator('#review-index button').last().click();
+      await expect(page.locator('.review-sentence-slot')).toHaveCount(8);
+      await expect(page.locator('.reference-answer')).toHaveText(keys.W750.accepted[0]);
+      await page.setViewportSize({ width: 1280, height: 900 });
+      expect(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth)).toBe(
+        true,
+      );
+      expect(errors).toEqual([]);
+    });
+  });
+}
 
 test('blanks support keyboard, targeted insertion, drag swaps, undo and navigation', async ({
   page,

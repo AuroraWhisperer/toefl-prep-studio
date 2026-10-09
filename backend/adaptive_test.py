@@ -366,6 +366,9 @@ def build_result(session):
         'passage_translations': store.passage_translations(
             [q for phase in session['phases'] for q in phase['questions']], feedback
         ),
+        'audio_translations': store.audio_translations(
+            [q for phase in session['phases'] for q in phase['questions']]
+        ),
         'total_questions': len(feedback),
         'answered_questions': sum(q['answered'] for q in feedback),
         'note': '仅统计客观题参考正确数；邮件、讨论及口语待人工复核，不换算官方成绩。',

@@ -59,7 +59,8 @@
       return `<div class="cloze-passage" lang="en">${passage}</div>`;
     }
 
-    function audioMarkup(question) {
+    function audioMarkup(question, { translation = '' } = {}) {
+      const isResponse = question.task_type === 'listen_choose_response';
       const text = escapeHtml(question.audio_text || '');
       const script = PromptSpeech.parseTurns(question.audio_text || '')
         .map(
@@ -71,12 +72,13 @@
       <div class="audio-panel">
         <div class="audio-copy">
           <strong>听音频，再回答</strong>
-          <span>练习辅助：可重播、查看脚本；非考场功能。</span>
+          ${isResponse ? '' : '<span>练习辅助：可重播、查看脚本；非考场功能。</span>'}
         </div>
         <button class="audio-button" type="button" data-audio-text="${text}">▶ 播放提示音</button>
         <details class="script-details">
-          <summary>查看练习脚本</summary>
+          <summary>${isResponse ? '查看原文' : '查看练习脚本'}</summary>
           ${script}
+          ${translation ? `<p class="audio-translation" lang="zh-CN" aria-label="中文译文">${escapeHtml(translation)}</p>` : ''}
         </details>
       </div>`;
     }

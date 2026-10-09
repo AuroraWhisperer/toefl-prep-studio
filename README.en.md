@@ -22,12 +22,12 @@
   <a href="#task-previews">Task previews</a> ·
   <a href="#usage-notes">Usage notes</a> ·
   <a href="#documentation">Documentation</a> ·
-  <a href="https://github.com/AuroraWhisperer/toefl-prep-studio/releases">Releases (v1.3.0)</a>
+  <a href="https://github.com/AuroraWhisperer/toefl-prep-studio/releases">Releases (v1.4.0)</a>
 </p>
 
 </div>
 
-**New in v1.3.0:** All 270 original cloze passages now offer Chinese reference translations after submission. Review shows saved question difficulty and checks sentence tile positions, with improved layouts and scrolling. Fixes cover navigation, submission retries, apostrophe scoring, and mock imports. See the [release notes](docs/releases/v1.3.0.md).
+**New in v1.4.0:** A Grammar and Collocations page adds 24 topics, 400 learning notes, and 453 bilingual examples. Build a Sentence grows from 150 to 450 items, bringing the original bank to 6,045 items. All 510 Listen and Choose a Response prompts now offer Chinese translations after submission, with clearer listening and new sentence explanations, reviewed word orders, and difficulty labels. See the [release notes](docs/releases/v1.4.0.md).
 
 ## Quick start
 
@@ -106,13 +106,13 @@ Answers, time spent, feedback, and uploaded recordings are saved locally. Find a
 
 ## Question bank
 
-The original bank contains **5,745 practice items across 12 task types**. Following the difficulty and design revisions, Complete the Words now has **270 passages / 2,700 blanks**, Listen and Repeat **45 groups / 315 sentences**, and Take an Interview **45 groups / 180 questions**—each three times its size before this expansion. Every level retains vocabulary, grammar, collocations and context; difficulty reflects the actual task demands without quotas. See the [expansion and validation report](docs/question-bank/cloze-speaking-expansion-2026-10-05.md) and [authoring principles](AGENTS.md#question-design-principles). “Section set” below is the number of items in one fixed section practice session.
+The original bank contains **6,045 practice items across 12 task types**. Build a Sentence has grown from 150 to **450 items**, covering statement and question order, clauses, tense and voice, non-finite forms, comparisons and conditions; see the [sentence expansion and validation report](docs/question-bank/sentence-expansion-2026-10-07.md). Complete the Words has **270 passages / 2,700 blanks**, Listen and Repeat **45 groups / 315 sentences**, and Take an Interview **45 groups / 180 questions**; see the [earlier expansion report](docs/question-bank/cloze-speaking-expansion-2026-10-05.md). Every level retains vocabulary, grammar, collocations and context; difficulty reflects the actual task demands without quotas. See the [authoring principles](AGENTS.md#question-design-principles). “Section set” below is the number of items in one fixed section practice session.
 
 | Section | Bank items | Section set | Task types |
 | :--- | ---: | ---: | :--- |
 | **Reading** | **3,390** | 50 | Complete the Words<br>Read in Daily Life · Read an Academic Passage |
 | **Listening** | **1,410** | 47 | Choose a Response · Conversation<br>Announcement · Academic Talk |
-| **Writing** | **450** | 12 | Build a Sentence · Write an Email<br>Academic Discussion |
+| **Writing** | **750** | 12 | Build a Sentence · Write an Email<br>Academic Discussion |
 | **Speaking** | **495** | 11 | Listen and Repeat · Take an Interview |
 
 ETS mock papers are stored separately and excluded from original-practice sampling. Question content and answer keys are kept apart, with scoring handled by the server. See the [question-bank guide](question_bank/README.md) for sources, review requirements, and generation procedures.
@@ -257,6 +257,7 @@ For a closer look at a feature or before changing the code, start with the relev
   <tbody>
     <tr><td><a href="docs/technical/development.md"><strong>Development guide</strong></a></td><td>Environment setup, startup troubleshooting, tests, and formatting</td></tr>
     <tr><td><a href="docs/toefl-2026-guide.md"><strong>2026 TOEFL guide</strong></a></td><td>Counts and timing evidence for all 12 task types, checked against local practice budgets; open the guide from the top right of the homepage</td></tr>
+    <tr><td><a href="docs/grammar-and-collocations.md"><strong>Grammar and collocations</strong></a></td><td>A compact homepage entry opens 24 topics, 400 TOEFL learning notes, and 453 bilingual examples for sentence building, cloze, comprehension, and communication, with category filters and Chinese/English search</td></tr>
     <tr><td><a href="PRODUCT.md"><strong>Product specification</strong></a></td><td>Feature behavior, practice rules, and scope</td></tr>
     <tr><td><a href="DESIGN.md"><strong>Design specification</strong></a></td><td>Visual language, layouts, and keyboard and mouse interaction</td></tr>
     <tr><td><a href="docs/technical/architecture.md"><strong>System architecture</strong></a></td><td>Stack, module responsibilities, data flow, and storage</td></tr>

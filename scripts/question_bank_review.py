@@ -51,6 +51,8 @@ def apply_review(questions: list[dict], answers: dict, notes: dict) -> None:
 def source_file(question: dict) -> str:
     number = int(question['id'][1:])
     section = question['section']
+    if section == 'writing' and number > 450:
+        return f'expansion_2026_10_07/{question["task_type"]}.json'
     if section in {'reading', 'speaking'} and number > {'reading': 1590, 'speaking': 165}[section]:
         return f'expansion_2026_10_05/{question["task_type"]}.json'
     if section in {'reading', 'listening'} and number > {'reading': 795, 'listening': 705}[section]:
@@ -155,6 +157,14 @@ def write_catalogue(root: Path, bank_items: dict, notes: dict, manifest: dict) -
             '',
             '## 内容修订记录',
             '',
+            '- 2026-10-09 逐题复核 1,410 道原创听力及本机五套模考的 170 道听力解析，用中文说明正确项的原话依据及三个干扰项各自不成立的原因；保留题面、答案和分级，并如实标明模考重合选项。详见 [listening-explanations-2026-10-09.md](listening-explanations-2026-10-09.md)。',
+            '',
+            '- 2026-10-08 后续逐题重读并改写 W451–W750 全部 300 题的学习解析，使用普通中文说明题意、词块排列原因与检查方法；保留本轮起点的题面、接受答案、分级和考点。详见 [sentence-explanations-2026-10-08.md](sentence-explanations-2026-10-08.md)。',
+            '',
+            '- 2026-10-08 专项复核新增 W451–W750 共 300 道造句题，修订 85 题的考点、难度、语境、答案或解析；补收 17 个词序，按可见词块调整 29 题分级。其余 5,745 题保持本轮开始时的内容和审阅记录。详见 [sentence-review-2026-10-08.md](sentence-review-2026-10-08.md)。',
+            '',
+            '- 2026-10-07 新增 300 道原创造句题 W451–W750，造句由 150 扩至 450 题，写作共 750 题，全库共 6,045 题。复核语境、固定词块、合理词序、三行中文解析和实际作答难度；保留既有 5,745 题及审阅记录。详见 [sentence-expansion-2026-10-07.md](sentence-expansion-2026-10-07.md)。',
+            '',
             '- 2026-10-05 复核全部 3,615 道原创题，修订 701 题：300 题涉及题面、答案或解析，401 题仅调整难度等审阅信息。90 篇补词均保留至少两处语法目标；修正词汇与提示导致的虚高分级、造句漏收答案、模板化应用题和复述负担。详见 [content-repair-2026-10-05.md](content-repair-2026-10-05.md)。',
             '- 2026-10-05 在上述修订基础上新增 180 篇补词、30 组复述和 30 组访谈，共 2,130 小题；三类材料各扩至原数量的三倍，全库 5,745 题。沿用实际补全负担、语法与搭配覆盖和完整组审阅原则，保留原 3,615 题内容及审阅记录。详见 [cloze-speaking-expansion-2026-10-05.md](cloze-speaking-expansion-2026-10-05.md)。',
             '',
@@ -179,7 +189,7 @@ def write_catalogue(root: Path, bank_items: dict, notes: dict, manifest: dict) -
             '',
             '## 覆盖与边界',
             '',
-            f"2026-10-05 复核全部 {manifest['total_questions']} 道原创题的完整材料、题干、选项或词块、答案及解析推理；新增解析三行重读，未改解析其余行结合既有格式和引文回归检查。逐题范围及边界见本轮报告，结构和指纹全部校验。写作参考范文用于示例表达，非官方满分范文；开放写作和访谈仅提供字数与重复措辞提示，质量需人工复核。文本审阅与机器检查不代表语音验证或心理测量标定。",
+            f"当前 {manifest['total_questions']} 道原创题由上述不同轮次的内容审阅与扩充构成，各轮日期和范围以对应报告为准；2026-10-08 的专项复核仅覆盖新增 300 道造句题，不表示本日重读了其他题型。生成器校验全库结构和内容指纹。写作参考范文用于示例表达，非官方满分范文；开放写作和访谈仅提供字数与重复措辞提示，质量需人工复核。文本审阅与机器检查不代表语音验证或心理测量标定。",
             '',
             '选择题的答案证据、填词完整词和分级理由仅在维护资料中保留；答题 API 仅公开难度与考点。词汇清单是审阅证据，未冒充官方词频或 CEFR 逐词标定。',
             '',

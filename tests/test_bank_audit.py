@@ -72,7 +72,7 @@ def test_every_item_has_current_review_and_private_vocabulary_evidence():
     assert set(NOTES) == {q['id'] for q in questions}
     assert {q['id'] for q in questions} == {
         f'{prefix}{i:02d}'
-        for prefix, total in [('R', 3390), ('L', 1410), ('W', 450), ('S', 495)]
+        for prefix, total in [('R', 3390), ('L', 1410), ('W', 750), ('S', 495)]
         for i in range(1, total + 1)
     }
     groups = {}
@@ -206,7 +206,12 @@ def test_generator_reproduces_bank_after_source_move(tmp_path, monkeypatch):
         (output / 'sources' / name).write_bytes(
             (ROOT / 'question_bank/sources' / name).read_bytes()
         )
-    for directory in ('expansion_2026_09', 'expansion_2026_09_30', 'expansion_2026_10_05'):
+    for directory in (
+        'expansion_2026_09',
+        'expansion_2026_09_30',
+        'expansion_2026_10_05',
+        'expansion_2026_10_07',
+    ):
         expansion = output / 'sources' / directory
         expansion.mkdir()
         for source in (ROOT / 'question_bank/sources' / directory).glob('*.json'):
@@ -259,7 +264,12 @@ def test_generator_validation_failure_preserves_existing_bank(tmp_path, monkeypa
         (output / 'sources' / name).write_bytes(
             (ROOT / 'question_bank/sources' / name).read_bytes()
         )
-    for directory in ('expansion_2026_09', 'expansion_2026_09_30', 'expansion_2026_10_05'):
+    for directory in (
+        'expansion_2026_09',
+        'expansion_2026_09_30',
+        'expansion_2026_10_05',
+        'expansion_2026_10_07',
+    ):
         expansion = output / 'sources' / directory
         expansion.mkdir()
         for source in (ROOT / 'question_bank/sources' / directory).glob('*.json'):

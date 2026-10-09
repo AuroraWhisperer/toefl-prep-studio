@@ -1426,6 +1426,10 @@
         ...record.result.passage_translations,
         ...record.passage_translations,
       },
+      audio_translations: {
+        ...record.result.audio_translations,
+        ...record.audio_translations,
+      },
     });
     showRecordingArchiveStatus(Object.keys(pending).length);
     appViews.show(dom.result, {

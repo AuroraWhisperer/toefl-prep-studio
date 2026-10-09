@@ -193,7 +193,7 @@ RESPONSE_ITEMS = [
      '读懂：“keeps rejecting my student number”是网页一直不接受输入的学号，问题出在填写或校验这一步。\n解析：问开头字母是否也填了，是核查学号格式，并不保证这就是原因。网页拒收学号不等于申请已被否决；课程代码不能代替学号；把学生人数当学号也弄错了字段。\n下次：先锁定哪个字段报错，再检查它要求的完整格式；别把输入失败当审批失败，也别换成另一种编号。'),
     ("You wouldn't have a spare calculator, would you?",
      ['Yes, the calculation is correct.', 'Your student card lets you borrow books.', 'The spare room is available.', 'Yes, you can borrow this one.'], 3,
-     "读懂：“spare calculator”是多余可用的计算器；整句委婉地问“你有没有一个能借我的？”，不是在核对计算答案。\n解析：“Yes, you can borrow this one.”明确表示有，而且可以借，正好满足需求。计算结果正确没有回答是否有计算器；学生证可以借书换了物品；有空房间则把“spare”用到了无关的对象上。\n下次：听“你有没有多余的……”时，先找对方想借的具体东西，再判断回复是否提供它。别被相近词“计算”与“计算器”或同一个形容词带走。"),
+     '读懂：“spare calculator”是多余可借的计算器。整句是委婉地问“你有没有计算器可以借给我？”。\n解析：选“有，这个可以借给你”，因为它既确认有计算器，也答应借出。“计算结果正确”只评价运算，没回答能否借用；“学生证能借书”说的是书，不能代替计算器；“有空房间”把“多余可用”用在房间上，也没提供所需物品。\n下次：听到“有没有多余的……”先记想借的物品，再找提供该物品或说明借用办法的回复，检查没有把计算器换成计算结果。'),
     ("The doors open at five-thirty, but the talk doesn't start until six.",
      ['So the talk itself lasts only half an hour.', "Then let's arrive a little early to get seats.", "Then we shouldn't enter until the talk has started.", 'So the doors will stay closed until six.'], 1,
      "读懂：“doors open at five-thirty”是五点半允许入场；“doesn't start until six”是六点才开讲，两件事的时间不同。\n解析：早点到找座位，正好利用提前入场的半小时。半小时不是演讲时长；六点前可以入场，不必等讲座开始；说门六点才开也混淆了两个时间。\n下次：听到两个时刻，各写一个动作标签，再看两者之间能做什么；不要把入场到开讲的间隔当成活动总时长。"),
@@ -223,9 +223,9 @@ CONVERSATIONS = [
         "Student: I'll contact her now, then.",
         [
             ("Why is the application incomplete?", ["The student forgot to scan a signed form.", "The placement dates have not been confirmed through the link.", "The advisor has rejected the outside placement.", "The uploaded documents are in the wrong format."], 1,
-             "读懂：incomplete 是手续未齐，不一定是文件错误。校外实习要 supervisor（主管）通过 a separate link（另一条链接）确认日期，纸质签名不能替代这一步。\n解析：校外实习还要求 supervisor 通过 “a separate link” 确认日期，所以已上传签字扫描件仍可能显示 incomplete。顾问明确说 “the documents look fine”，排除了漏扫签名和文件格式错误，也没有否决实习。\n下次：状态异常题先分清“文件已交”和“额外确认已完成”。听到 Usually（通常）后仍要留意本人的特殊条件，按对方指出的缺项补办，不把整个流程重做。"),
+             '读懂：这题问申请为何仍显示不完整。incomplete 是手续未齐，不一定是文件错误。校外实习要 supervisor（主管）通过 a separate link（另一条链接）确认日期，纸质签名不能替代这一步。\n解析：选“主管尚未通过链接确认日期”：校外实习除签字表格外，还要主管另点链接确认日期，缺的是这一步。不选“忘扫签字表”：学生已扫描上传；不选“校外实习被拒”：顾问只是解释补办步骤；不选“文件格式错误”：顾问明确说文件没问题。\n下次：状态异常题先分清“文件已交”和“额外确认已完成”。听到 Usually（通常）后仍要留意本人的特殊条件，按对方指出的缺项补办，不把整个流程重做。'),
             ("What will the student most likely do next?", ["Upload all the documents again.", "Choose a different supervisor.", "Ask the supervisor to find and respond to an email.", "Visit the university's internship office."], 2,
-             "读懂：inbox 是收件箱，junk folder 是垃圾邮件夹。学生说要立刻联系主管，是请她找出确认邮件并回应，不是自己重新提交文件。\n解析：顾问让主管查 “inbox, including the junk folder”，学生随即说 “I'll contact her now”，因此下一步是请主管找到邮件并完成确认。顾问已否定重新上传，换主管或亲自去办公室也不是这项安排。\n下次：问下一步，结合对方最后的指示和本人接下来的承诺；写清“谁去联系谁、要对方完成什么”，别把先前已被否定的提议当最终决定。"),
+             '读懂：这题问学生接下来会做什么。inbox 是收件箱，junk folder 是垃圾邮件夹。学生说要立刻联系主管，是请她找出确认邮件并回应，不是自己重新提交文件。\n解析：选“请主管查找并回复邮件”：顾问让主管查收件箱和垃圾邮件夹，学生答应马上联系她。不选“重新上传全部文件”：顾问明确回答不用；不选“换主管”：现任主管只需补确认；不选“去实习办公室”：学生决定的是联系主管，没有安排到访。\n下次：问下一步，结合对方最后的指示和本人接下来的承诺；写清“谁去联系谁、要对方完成什么”，别把先前已被否定的提议当最终决定。'),
         ],
     ),
     (
@@ -238,9 +238,9 @@ CONVERSATIONS = [
         "Coordinator: Four is still correct. Just come at three forty-five for the equipment. The worksheet will be printed, so you won't need to download it beforehand.",
         [
             ("What caused the room change?", ["A network upgrade in the lab.", "A shortage of printed worksheets.", "An increase in workshop attendance.", "A change in the workshop topic."], 0,
-             "读懂：network is being upgraded 是网络正在升级，说明原电脑教室暂不能按计划使用，因此换到另一个房间。\n解析：搬到 Room 214 后紧接着解释 “The lab's network is being upgraded”，直接给出了换教室的原因。讲义会印好，但不是搬迁原因；人数增加和主题变更也未提到。\n下次：原因题把“发生了什么变化”和“紧接着给的理由”配对。后面有关设备、讲义、时间的安排是应对办法，不自动是变化的原因。"),
+             '读懂：这题问为什么换教室。network is being upgraded 是网络正在升级，说明原电脑教室暂不能按计划使用，因此换到另一个房间。\n解析：选“电脑教室网络升级”：协调员在说明搬到214室后，直接给出这一原因。不选“打印讲义不足”：原话说讲义会印好；不选“参加人数增加”：没有提到人数变化；不选“活动主题改变”：变的是教室，统计学工作坊的主题未变。\n下次：原因题把“发生了什么变化”和“紧接着给的理由”配对。后面有关设备、讲义、时间的安排是应对办法，不自动是变化的原因。'),
             ("Why should this student arrive at 3:45?", ["The workshop now begins earlier.", "All participants must print their worksheets.", "The coordinator will demonstrate the network.", "A loan computer and account need to be checked."], 3,
-             "读懂：loan machines 是借给学生用的电脑，check your account 是检查账户。学生需三点四十五分到场准备，但活动仍四点开始。\n解析：协调员先答应预留 “loan machines”，再要求提前到场 “check your account”，所以三点四十五分是为借用电脑和账户检查留时间。“Four is still correct” 排除了开课提前，讲义也无需学生现场打印。\n下次：出现两个时间，分别标成“准备时间”和“正式开始”。再核对题目问的是这个学生为什么早到，不要把个人设备安排推广成所有人的新开课时间。"),
+             '读懂：这题问这位学生为什么要三点四十五分到。loan machines 是借给学生用的电脑，check your account 是检查账户。学生需三点四十五分到场准备，但活动仍四点开始。\n解析：选“准备借用电脑并检查账户”：他没有笔记本，协调员要预留电脑，要求早到检查账户。不选“提前开课”：正式开始仍是四点；不选“所有人要打印讲义”：讲义由活动方提供；不选“演示网络”：网络升级是换房原因，早到是处理他的设备和账户。\n下次：出现两个时间，分别标成“准备时间”和“正式开始”。再核对题目问的是这个学生为什么早到，不要把个人设备安排推广成所有人的新开课时间。'),
         ],
     ),
     (
@@ -253,9 +253,9 @@ CONVERSATIONS = [
         "Librarian: Certainly. The diagrams are also available through the library website.",
         [
             ("Why does the librarian recommend the guide?", ["It is the only book available to borrow.", "It can replace the student's project instructions.", "It explains a relevant process at an accessible level.", "It contains more advanced chemistry than the first book."], 2,
-             "读懂：advanced chemistry 是高等化学，原书要求这种基础；指南有 diagrams（图示）和 case study（案例），能把项目所需的河流过程讲得更易懂。\n解析：原书需要 “advanced chemistry” 基础，而推荐的指南用 “diagrams and a case study” 讲河流改道，既切合项目又让学生觉得 “manageable”。推荐理由不是内容更高深、只有这本能借，也不是让它替代作业要求。\n下次：推荐理由要同时满足“讲什么”和“难度是否适合”。本题需要解释一个过程，既不能只给定义，也不是越高深越好；看推荐材料怎样回应这两项需求。"),
+             '读懂：这题问馆员为什么推荐这本指南。advanced chemistry 是高等化学，原书要求这种基础；指南有 diagrams（图示）和 case study（案例），能把项目所需的河流过程讲得更易懂。\n解析：选“用容易理解的方式解释相关过程”：指南讲河流改道，还配图和案例，能满足项目要求。不选“只有这本能借”：可借不等于唯一可借；不选“替代作业要求”：指南是帮助完成要求；不选“包含更高深的化学”：原书难在化学基础，换书正是为了降低理解门槛。\n下次：推荐理由要同时满足“讲什么”和“难度是否适合”。本题需要解释一个过程，既不能只给定义，也不是越高深越好；看推荐材料怎样回应这两项需求。'),
             ("What does the librarian suggest if more detail is needed?", ["Changing the project to a chemistry topic.", "Consulting sources listed in the guide.", "Copying the diagrams without reading.", "Waiting until the advanced course begins."], 1,
-             "读懂：references 在书籍语境里是参考文献，不是一般的“提及”。馆员建议先读指南，不够详细时再查它引用的其他资料。\n解析：“use its references if you need more detail” 明确要求沿指南的参考文献继续查资料。不是换成化学项目、只抄图示，也不用等到修读高级课程。\n下次：听到 if（如果）先记触发条件，再记条件满足后的动作。本题是“仍需细节→查参考文献”，别把辅助步骤误听成换题或放弃当前材料。"),
+             '读懂：这题问细节不够时应该怎样继续查资料。references 在书籍语境里是参考文献，不是一般的“提及”。馆员建议先读指南，不够详细时再查它引用的其他资料。\n解析：选“查指南列出的参考文献”：馆员说需要更多细节时，就沿参考文献寻找原始资料。不选“改做化学项目”：原项目仍研究河流；不选“只抄图不阅读”：图示是帮助理解，不能代替查资料；不选“等高级课开课”：馆员提供了现在就能使用的办法。\n下次：听到 if（如果）先记触发条件，再记条件满足后的动作。本题是“仍需细节→查参考文献”，别把辅助步骤误听成换题或放弃当前材料。'),
         ],
     ),
     (
@@ -268,9 +268,9 @@ CONVERSATIONS = [
         "Officer: Exactly. We'll announce the result tomorrow and only then invite speakers who work on the selected topic.",
         [
             ("Why should the student reread the proposals?", ["One proposal has been revised.", "The voting deadline has been extended.", "The officer removed both original topics.", "Invited speakers have already selected a theme."], 0,
-             "读懂：original list 是最初的清单；changed quite a bit 是改动不少。早上看过旧方案，不等于了解讨论之后的新方案。\n解析：“one proposal changed quite a bit” 说明其中一案在讨论中已有较大修改，早上看过 “original list” 也需重读。不是两个主题都被撤下；延期投票和嘉宾已定主题都没有依据。\n下次：有“看过但仍要再看”的提醒，优先找材料是否更新。比较旧版与最新版，不要默认重复阅读就是因为自己遗漏，或把其他日程变化当原因。"),
+             '读懂：这题问学生为什么要重读方案。original list 是最初的清单；changed quite a bit 是改动不少。早上看过旧方案，不等于了解讨论之后的新方案。\n解析：选“其中一份方案修改过”：早上看的是原清单，讨论中一个方案已改动不少。不选“投票延期”：只说截至今晚九点，没说延长；不选“两个主题都删除”：两个仍是候选；不选“嘉宾已定主题”：先由成员投票定主题，之后才邀请嘉宾。\n下次：有“看过但仍要再看”的提醒，优先找材料是否更新。比较旧版与最新版，不要默认重复阅读就是因为自己遗漏，或把其他日程变化当原因。'),
             ("What will happen after the vote?", ["Members will repeat the discussion in person.", "The message board will close for repairs.", "Speakers will be invited for the chosen topic.", "The debate will take place immediately."], 2,
-             "读懂：only then 是“只有那之后才”。先投票并宣布主题，再邀请该主题的 speakers（嘉宾），不是立刻举行下个月的辩论。\n解析：“announce the result tomorrow and only then invite speakers” 明确规定先确定主题，再邀请相关嘉宾。不是再开会重复讨论或立即辩论，辩论原定在下个月。\n下次：按时间词排出“投票→宣布结果→邀请嘉宾”。题目问哪一步随后发生，就选流程中的对应动作，不把准备环节与正式活动混在一起。"),
+             '读懂：这题问投票后会做什么。only then 是“只有那之后才”。先投票并宣布主题，再邀请该主题的 speakers（嘉宾），不是立刻举行下个月的辩论。\n解析：选“为选定主题邀请嘉宾”：对话安排是明天公布结果，然后才邀请相关嘉宾。不选“再次当面讨论”：负责人否定了明天再开会的提议；不选“留言板关停维修”：留言板用于投票，未提维修；不选“马上举行辩论”：正式辩论在下个月。\n下次：按时间词排出“投票→宣布结果→邀请嘉宾”。题目问哪一步随后发生，就选流程中的对应动作，不把准备环节与正式活动混在一起。'),
         ],
     ),
     (
@@ -283,9 +283,9 @@ CONVERSATIONS = [
         "Advisor: You can book both through the same page. A table is useful for discussion, but the workstation is what your project really needs.",
         [
             ("What concern does the student express at first?", ["The model is already overdue.", "A work shift conflicts with the proposed meeting.", "The partner refuses to use the studio.", "The advisor has canceled office hours."], 1,
-             "读懂：work until eight 是工作到八点；hold everyone up 是耽误大家，不是举起别人。学生担心周三工作班次会与伙伴提出的会面冲突。\n解析：伙伴建议 “Wednesday evening”，学生却 “work until eight”，所以最初担心的是工作班次与会面冲突，拖慢大家进度。模型已逾期、伙伴拒用工作室和取消答疑时间都未出现。\n下次：问 at first（起初）时回到开头，不用后面出现的软件或预约问题替换最初的担忧。把双方时间摆在一起，看冲突在哪里。"),
+             '读懂：这题问学生最初担心什么。work until eight 是工作到八点；hold everyone up 是耽误大家，不是举起别人。学生担心周三工作班次会与伙伴提出的会面冲突。\n解析：选“工作班次和约见时间冲突”：伙伴提议周三晚上见面，他却要工作到八点，怕耽误大家。不选“模型已逾期”：没说超期；不选“伙伴拒绝工作室”：工作室是后来才提出的方案；不选“顾问取消答疑”：对话没有这项安排。\n下次：问 at first（起初）时回到开头，不用后面出现的软件或预约问题替换最初的担忧。把双方时间摆在一起，看冲突在哪里。'),
             ("What does the advisor emphasize?", ["A table reservation includes a computer.", "The student must purchase a new laptop.", "The studio is closed on Thursday evenings.", "A workstation must be reserved separately from entry."], 3,
-             "读懂：entry 是入场资格，workstation 是电脑工作位。doesn't guarantee 表示“不保证”：能进工作室或订到桌子，都不等于已经预订到电脑。\n解析：“Entry to the studio doesn't guarantee access to a computer” 强调能入场不等于有电脑，项目所需的 workstation 必须另行预订。会议桌不会附送电脑，也没有要求买新笔记本或说周四工作室关闭。\n下次：预约题把“场地入场、桌子、设备”分开核对。项目需要运行软件，就检查是否明确拿到电脑工作位，而不是只完成一个名字相近的预约。"),
+             "读懂：这题问顾问特别强调什么。entry 是入场资格，workstation 是电脑工作位。doesn't guarantee 表示“不保证”：能进工作室或订到桌子，都不等于已经预订到电脑。\n解析：选“入场之外还要单独预约电脑工作位”：能进工作室并不保证有电脑可用，而项目必须用指定软件。不选“订桌子就含电脑”：桌子与电脑需分别预订；不选“必须买新笔记本”：可用工作室设备；不选“周四工作室关闭”：顾问正建议用周四开放时段。\n下次：预约题把“场地入场、桌子、设备”分开核对。项目需要运行软件，就检查是否明确拿到电脑工作位，而不是只完成一个名字相近的预约。"),
         ],
     ),
 ]
@@ -299,9 +299,9 @@ ANNOUNCEMENTS = [
         "We expect normal service to resume at two; any delay will be posted at both elevator entrances.",
         [
             ("What is the main purpose of the announcement?", ["To introduce new borrowing rules.", "To warn that the entire library is closing.", "To explain temporary access arrangements.", "To recruit assistants for the information desk."], 2,
-             "读懂：out of service 是暂停使用，remain available 是仍可使用。只有北电梯中午到两点维修，通知说明这段时间怎样从阅览室绕到南电梯。\n解析：北侧电梯暂时 “out of service”，南侧则 “remain available”，通知重点是维修期间如何改道通行。只有部分设施暂不可用，并非整个图书馆关闭，也不是新借阅规则或招聘通知。\n下次：通知主旨先找受影响设施、影响时段和替代办法。若主要篇幅是绕行与求助，就概括为临时通行安排，不把局部停用扩大成整栋关闭。"),
+             '读懂：这题问公告主要通知什么。out of service 是暂停使用，remain available 是仍可使用。只有北电梯中午到两点维修，通知说明这段时间怎样从阅览室绕到南电梯。\n解析：选“电梯停用期间的临时通行安排”：说明北梯维修、南梯路线以及求助地点。不选“借阅新规”：没有修改借书要求；不选“全馆关闭”：南梯和馆内仍可用；不选“招聘服务台助手”：让访客求助，不是在招人。\n下次：通知主旨先找受影响设施、影响时段和替代办法。若主要篇幅是绕行与求助，就概括为临时通行安排，不把局部停用扩大成整栋关闭。'),
             ("What should someone needing assistance with materials do?", ["Ask at the information desk.", "Wait by the north elevator until noon.", "Call the technicians working upstairs.", "Leave the materials outside the building."], 0,
-             "读懂：help carrying materials 是帮忙搬运资料；information desk 是咨询台。通知已明确指定需要搬运帮助的人去哪里求助。\n解析：需要 “help carrying materials” 的人被明确要求 “ask at the information desk”，所以应去咨询台求助。技术人员负责维修，等待北侧电梯或把材料留在室外都不是通知给出的做法。\n下次：服务通知题用“需要什么帮助→找哪个岗位”定位。不要只选离故障最近的人；技术人员修电梯，并不等于负责所有访客需求。"),
+             '读懂：这题问需要帮忙搬资料时找谁。help carrying materials 是帮忙搬运资料；information desk 是咨询台。通知已明确指定需要搬运帮助的人去哪里求助。\n解析：选“咨询台”：公告直接让有搬运困难的人到那里求助。不选“中午前等北梯”：北梯中午起停用，也不是求助点；不选“叫楼上技术员”：技术员负责修梯，未设为帮助渠道；不选“把资料放楼外”：没有这样的安排。\n下次：服务通知题用“需要什么帮助→找哪个岗位”定位。不要只选离故障最近的人；技术人员修电梯，并不等于负责所有访客需求。'),
         ],
     ),
     (
@@ -312,9 +312,9 @@ ANNOUNCEMENTS = [
         "Please keep the library entrance clear. Bicycle parking will be available behind the plaza, where volunteers can point you toward the stalls.",
         [
             ("Why is the market moving?", ["The library has changed its opening hours.", "Vendors need better access to electrical power.", "More bicycle parking is required in the courtyard.", "Customers requested an earlier opening time."], 1,
-             "读懂：electricity 是电力，refrigerated products 是需冷藏的商品。新地点能让更多商贩接电，这才是搬迁集市的原因。\n解析：“more vendors access to electricity for refrigerated products” 把搬迁原因直接连到冷藏商品的供电需求。九点开市并未改变，自行车停车位置只是配套信息，不是迁址原因。\n下次：先找 move（迁移）后面的原因句，再把开门时间、优惠和停车安排单独记成配套信息。题目问为什么换地方，不是问新地点还有什么便利。"),
+             '读懂：这题问集市为什么搬到图书馆广场。electricity 是电力，refrigerated products 是需冷藏的商品。新地点能让更多商贩接电，这才是搬迁集市的原因。\n解析：选“让摊贩更方便用电”：冷藏产品需要供电，广场能让更多摊位接电。不选“图书馆改开放时间”：没提；不选“院子需更多自行车位”：停车只是附带安排；不选“顾客要求提早开”：仍九点开市，并未提前。\n下次：先找 move（迁移）后面的原因句，再把开门时间、优惠和停车安排单独记成配套信息。题目问为什么换地方，不是问新地点还有什么便利。'),
             ("Who is eligible for a voucher?", ["Every vendor selling refrigerated goods.", "All customers arriving before nine.", "Anyone parking a bicycle behind the plaza.", "The first fifty customers who bring reusable bags."], 3,
-             "读懂：reusable bags 是可重复使用的袋子；bringing one 的 one 指袋子。领券要同时满足“带袋子”和“属于前五十位带袋顾客”。\n解析：“the first fifty customers bringing one” 中 one 指前句的 reusable bags，所以领券对象是带环保袋的顾客中的前五十位。卖冷藏品、骑车或九点前到场本身都不构成领券资格。\n下次：资格题把所有限制连成“且”：身份、行为、数量或截止时间缺一不可。尤其回指 one 时先找它替代什么，别只听到 first fifty 就漏掉带袋条件。"),
+             '读懂：这题问谁能获得代金券。reusable bags 是可重复使用的袋子；bringing one 的 one 指袋子。领券要同时满足“带袋子”和“属于前五十位带袋顾客”。\n解析：选“带环保袋的顾客中前五十位”：要同时符合带袋子和名额在前五十之内。不选“所有卖冷藏品的摊贩”：他们受益于供电，不是领券对象；不选“九点前到的所有人”：到得早仍须带袋且受名额限制；不选“在后方停自行车的人”：停车不构成领券资格。\n下次：听到前五十位带袋顾客→把数量和带袋行为连成两个必需条件→检查所选人群是否同时满足，不能只图到得早。'),
         ],
     ),
     (
@@ -325,9 +325,9 @@ ANNOUNCEMENTS = [
         "Posters do not need to be uploaded. They should be delivered to the hall by eight-thirty on Friday so volunteers can mount them before visitors arrive.",
         [
             ("Why are slides due on Thursday?", ["They must be tested on the presentation computer.", "Visitors will read them before buying tickets.", "Volunteers need time to turn them into posters.", "No changes of any kind will be allowed later."], 0,
-             "读懂：slides 是幻灯片，test the files 是测试文件。周四先交，是为了在报告厅电脑上检查能否正常使用；之后仍可做小改动。\n解析：周四中午先交幻灯片，是为了让工作人员当天下午 “test the files on the lecture hall computer”。“minor corrections afterward” 表明之后仍可小改，不是禁止一切修改，也没有售票预览或转印海报的安排。\n下次：提前提交的原因，通常要从截止日期到活动之间的工作找。将“周四交→当天下午测试→周五报告”串起来，别把有截止日误解成以后绝不能修改。"),
+             '读懂：这题问为什么周四中午前交幻灯片。slides 是幻灯片，test the files 是测试文件。周四先交，是为了在报告厅电脑上检查能否正常使用；之后仍可做小改动。\n解析：选“让工作人员在报告厅电脑试文件”：下午测试能提前发现兼容问题。不选“观众买票前阅读”：没有售票用途；不选“志愿者改成海报”：幻灯片与海报分开安排；不选“交后绝不能改”：允许小幅修改，只需带最终版并告知。\n下次：提前提交的原因，通常要从截止日期到活动之间的工作找。将“周四交→当天下午测试→周五报告”串起来，别把有截止日误解成以后绝不能修改。'),
             ("What must a student who revises slides after uploading do?", ['Use the uploaded version without telling the technician about the changes.', 'Bring only printed slides and replace the file after the session.', "Bring the final file and inform the technician.", 'Email the revised file after the presentation has finished.'], 2,
-             '读懂：“minor corrections afterward”允许上传后小改，但 final version（最终版本）要用 USB 盘带来，并在开讲前告知技术员。\n解析：带最终文件并提前说明，两个要求都要做。只用旧上传版、只带纸质材料，都没有提供要播放的新文件；演讲结束才发或替换也错过了使用时点。\n下次：听到允许修改但有条件，记清“文件版本、交付方式、通知对象、最迟时间”，逐项检查回复是否全部满足。'),
+             '读懂：这题问上传后又修改幻灯片怎么办。“minor corrections afterward”允许上传后小改，但 final version（最终版本）要用 USB 盘带来，并在开讲前告知技术员。\n解析：选“带最终文件并提前告知技术员”：USB中应是最后版本，场次开始前说明更新。不选“不告知直接用旧版”：无法呈现修订；不选“只带打印稿结束后换文件”：需要演示用最终电子版；不选“演示结束才发邮件”：错过正确使用新版的时机。\n下次：听到允许修改但有条件，记清“文件版本、交付方式、通知对象、最迟时间”，逐项检查回复是否全部满足。'),
         ],
     ),
     (
@@ -339,9 +339,9 @@ ANNOUNCEMENTS = [
         "Before leaving today, please confirm your emergency contact details with your team leader.",
         [
             ("What will volunteers do today?", ["Begin cleaning the riverbank.", "Receive instructions and join teams.", "Complete a swimming assessment.", "Collect outdoor clothing from the center."], 1,
-             "读懂：orientation 是活动前的说明与准备，不是户外活动本身。今天讲设备使用并分组，真正清理河道在 next weekend（下周末）。\n解析：今天是 orientation，内容是 “explain equipment use” 和 “divide volunteers into small teams”，即听说明并分组。清理活动在 “next weekend”，今天还不清理河岸，也不要求泳测或领取工作服。\n下次：同一通知有今天和未来的活动，分别列清单。题目问今天，就选培训与分组；不要因为活动名字叫清理河道，就把未来的实地工作搬到今天。"),
+             '读懂：这题问志愿者今天做什么。orientation 是活动前的说明与准备，不是户外活动本身。今天讲设备使用并分组，真正清理河道在 next weekend（下周末）。\n解析：选“接受说明并分组”：十点在学生活动中心培训，讲器材和分配队伍。不选“今天就清河岸”：户外活动在下周末；不选“游泳考核”：不会游泳也可参加；不选“领取工作服”：今天不需要户外工作服，没说发衣服。\n下次：同一通知有今天和未来的活动，分别列清单。题目问今天，就选培训与分组；不要因为活动名字叫清理河道，就把未来的实地工作搬到今天。'),
             ("Why does the speaker mention recording materials?", ["To explain why all volunteers need computers.", "To replace the cleanup with a classroom project.", "To warn that fewer volunteers are needed.", "To describe a role suitable for people who cannot swim."], 3,
-             "读懂：cannot swim 是不会游泳；record collected materials 是登记收集到的物品。提这个岗位，是说明不靠近水的工作也能让不会游泳者参与。\n解析：说完 “If you cannot swim, you can still participate” 后举出 “record collected materials”，并说明这些队伍 “well away from the water”，是在提供不会游泳者可承担的岗位。不是把清理改为课堂项目，也没有说减少志愿者或人人要用电脑。\n下次：问为什么举某个岗位例子，回看例子前提出的人群限制。把“这类人有顾虑→提供适合的角色”连起来，不把一个替代岗位说成整个活动被替换。"),
+             '读懂：这题问为什么提到记录收集材料的岗位。cannot swim 是不会游泳；record collected materials 是登记收集到的物品。提这个岗位，是说明不靠近水的工作也能让不会游泳者参与。\n解析：选“说明不会游泳者也能做的工作”：这些队伍远离水边，能安全参与。不选“证明全员需电脑”：没有电脑要求；不选“用课堂任务取代清理”：户外清理仍举行；不选“表示所需志愿者变少”：是在说明更多人可参与。\n下次：问为什么举某个岗位例子，回看例子前提出的人群限制。把“这类人有顾虑→提供适合的角色”连起来，不把一个替代岗位说成整个活动被替换。'),
         ],
     ),
 ]
@@ -352,13 +352,13 @@ TALKS = [
         'Imagine a field that has stopped being used for farming. At first it may look empty, but seeds are already arriving on the wind or being carried by animals. Fast-growing plants often establish themselves first. As they die and decompose, they add organic material to the soil. Their roots can also help hold the soil in place. These changes may allow shrubs and, later, trees to grow. Ecologists call this sequence succession. Picture two abandoned fields on opposite sides of a hill. One gets more moisture, and the other is exposed to drying winds. Even if both were abandoned in the same year, their plant communities need not develop at the same rate. It is tempting to picture succession as a fixed staircase, with every field passing through exactly the same stages. In reality, the route depends on conditions such as rainfall, nearby seed sources, and later disturbances. A fire, for instance, may remove young trees while leaving some underground roots intact. The community that develops afterward can therefore differ from the one that came before. So when we restore a damaged area, simply planting the species we hope to see at the end may not work. We also need to consider the conditions that allow those species to become established.',
         [
             ("What is the talk mainly about?", ['Why fields abandoned in the same year develop into similar plant communities.', 'How early plants prevent later disturbances from changing a community.', "How plant communities change and why the sequence can vary.", 'Why planting mature trees is enough to restore an abandoned field.'], 2,
-             '读懂：succession 是生态演替，即一个地方的植物群落逐渐变化。讲者先介绍过程，再强调水分、种子来源和后来的干扰会改变它。\n解析：主旨须同时包括群落变化与路径会有差别。同年弃耕不代表发展相同；早期植物不能阻止所有后续干扰；末尾也说只种目标树种可能不够。\n下次：听主旨时把开头的现象和转折后的重点各概括一句，再选能同时覆盖的答案；用结尾检查是否把有条件的过程说成保证。'),
+             '读懂：题目问整段主旨。succession 是“生态演替”，即一个地方的植物逐渐更替；讲者还说变化路线取决于当地条件。\n解析：选“植物群落怎样变化，以及变化顺序为什么可能不同”：前半段讲草本、灌木和树木的更替，后半段讲水分、种子和火灾会影响过程。“同年弃耕就发展相似”忽略环境差别；“早期植物阻止后来的干扰”与火灾例子相反；“只种成熟树就够了”与结尾“可能不成功”相反。\n下次：听主旨先记“讲什么过程”，再记转折后补充了什么；检查选项是否包含两部分。'),
             ("How can early plants help later ones?", ["By adding organic material and stabilizing soil.", 'By supplying all the seeds needed by later trees.', 'By keeping the soil unchanged until trees arrive.', 'By preserving underground roots from every later disturbance.'], 0,
-             '读懂：“add organic material”是增加有机物；“hold the soil in place”是固定土壤。早期植物死亡后分解，根也帮助固土。\n解析：这两种作用改善后来植物的生长条件。不是让土壤保持不变，也没有提供后来树种的全部种子；火灾可能保留部分根系，不等于早期植物能保证根不受任何干扰。\n下次：听先后生长的机制，逐步连起“前一种植物的作用—环境变化—后一种怎样受益”，不要把别处的种子或火灾信息移作它的功能。'),
+             '读懂：题目问先长出的植物怎样帮助后来的植物。decompose 是“腐烂分解”，hold the soil in place 是“固定土壤、防止流失”。\n解析：选“增加有机物并固定土壤”：早期植物分解后给土壤增加有机物，根也能稳住土壤，这些变化有助于灌木和树木生长。“提供后来树木所需的全部种子”无依据，种子可由风和动物带来；“保持土壤不变”与增加有机物相反；“保护地下根免受任何干扰”把部分根可能在火灾中存活夸大成了绝对保护。\n下次：听“怎样帮助”时，记下具体动作及其结果；排除把“可以帮助”说成“全部保证”的选项。'),
             ("Why does the speaker refer to a 'fixed staircase'?", ['To propose a planting schedule that restoration teams should follow.', "To describe a common but oversimplified model.", 'To show why wetter fields must reach a forest stage first.', 'To describe how several stages can be measured by plant height.'], 1,
-             '读懂：“fixed staircase”是固定的阶梯，借指所有地方都按一样的阶段变化。紧接的 In reality（实际上）开始纠正这种看法。\n解析：这个比喻是在引出过度简化的模型，不是提供统一种植表。讲者没有说湿地必先长成森林，也没用植物高度测阶段；重点是同一套固定顺序未必适用于各地。\n下次：听比喻先用一句白话说出它比的是什么，再听后面是支持还是反驳；转折后的态度决定这个比喻的用途。'),
+             '读懂：题目问为什么把演替比作 fixed staircase（固定的楼梯），不是问楼梯长什么样。\n解析：选“介绍一种常见但过于简单的理解”：楼梯比喻每片地都按同样阶段发展，紧接着讲者用“实际上”说明环境会改变路线。“提出种植时间表”不是这个比喻的用途；“湿地一定先变成森林”原文没有保证；“按植物高度测量阶段”误把楼梯的外形当成生态测量方法。\n下次：遇到比喻先听它前后是否有转折；判断讲者是支持这个想法，还是借它指出误解。'),
             ("A dry restoration site has few nearby seed sources. Which plan best follows the speaker's advice?", ['Plant the expected final tree species immediately and judge success by their initial height.', 'Remove the remaining underground roots first so that earlier vegetation cannot affect the project.', 'Use the same planting sequence as a wetter field because both were abandoned in the same year.', 'Check whether the desired species can establish under those conditions before choosing a planting plan.'], 3,
-             '读懂：“become established”指植物扎根并稳定生长。题干给出两个条件：场地干燥，附近种子来源少。\n解析：讲者说演替取决于雨水、种子来源等，所以先检查目标物种能否在这里存活，再定种植方案。只种成树看高度跳过了这些条件；全部去根没有依据；同年弃耕也不能抵消干湿差异。\n下次：把新场景的条件与讲者列出的影响因素逐一配对，再选择符合这些条件的做法；别用最终想看到的样子代替生长过程。'),
+             '读懂：题目要把讲者建议用于“干燥、附近种子少”的恢复地点。become established 是“能在这里存活并长起来”。\n解析：选“先判断目标植物能否在现有条件下长起来，再定种植方案”：结尾明确要求考虑植物立足所需的条件。“立即种最终树种、只看初始高度”没检查水分和种子限制；“先清除剩余地下根”原文没有这种要求；“照搬同年弃耕的湿润地点方案”忽略两地环境不同。\n下次：遇到应用题，把题中新条件逐个对照讲者的原则；选真正处理这些条件的办法。'),
         ],
     ),
     (
@@ -366,13 +366,13 @@ TALKS = [
         'When students reread a chapter, its sentences often start to feel familiar. That familiarity can be reassuring, but it is not the same as being able to explain the ideas without the book. Psychologists distinguish recognizing information from retrieving it. Recognition supplies a cue: you see a term and know you have encountered it. Retrieval asks you to produce the information with fewer clues. For example, after reading about a scientific process, close the book and explain its steps to yourself. You may discover a gap that was invisible while the paragraph was in front of you. Perhaps you remember the first and final stages but cannot explain the connection between them. Simply looking at a diagram again might hide that problem; describing it makes the missing connection noticeable. That difficulty is useful because it tells you where further study is needed. However, repeatedly producing an incorrect answer is not the goal. Check your explanation against a reliable source and correct it. Then try again after some time has passed. Spacing these attempts gives you opportunities to retrieve the idea in changing conditions. The practical lesson is not to abandon reading, but to combine it with attempts to recall and with feedback on those attempts.',
         [
             ("What distinction does the speaker make?", ["Between reading quickly and writing slowly.", "Between finding information familiar and recalling it independently.", "Between scientific and historical explanations.", "Between studying alone and joining a class."], 1,
-             "读懂：recognition 是看见提示后认出，retrieval 是较少提示下自行回忆。看书觉得 familiarity（熟悉）不代表合上书还能独立解释。\n解析：“familiarity” 不等于能 “explain the ideas without the book”：recognition 借助眼前提示认出信息，retrieval 则靠较少线索自行回忆。区分点不是读写速度、学科类别或独学与上课。\n下次：对比概念先找两者的判断标准。本题是“有没有依赖眼前线索”，而非速度、学科或地点；用同一标准检查每个选项，避免靠听见的名词乱配。"),
+             '读懂：题目问讲者区分了哪两种学习表现。familiar 是“看着熟悉”，retrieving 是“不靠眼前课文把信息想起来”。\n解析：选“觉得信息熟悉与独立回忆信息”：看着术语认得出来，不等于合上书还能解释。“快读与慢写”不是比较的两端；“科学解释与历史解释”把一个科学例子当成分类；“独自学习与参加课堂”也没有被比较。\n下次：听到“区分两者”时，分别写下两者要做的动作；用这两个动作核对选项。'),
             ("Why does the speaker suggest closing the book?", ["To prevent students from taking notes.", "To avoid reading unreliable sources.", "To make study sessions shorter.", "To reveal gaps that familiarity may conceal."], 3,
-             "读懂：close the book 是合上书，a gap 是知识或理解的缺口。没有眼前文字提示时，才可能发现自己记得开头结尾，却说不出中间的联系。\n解析：“close the book and explain its steps” 会暴露阅读时未察觉的 “a gap”，例如记得首尾却讲不清中间联系。合书是检验独立回忆，不是禁止笔记、避免不可靠来源或单纯缩短学习时间。\n下次：行动目的题先问“做完后暴露了什么”。合书不是为了不读书，而是撤掉提示来检验回忆；把做法与检验目标相连，别自行添加节省时间等目的。"),
+             '读懂：题目问为什么建议合上书。a gap 是“知识中缺掉的一环”，不是书页空白。\n解析：选“暴露被熟悉感遮住的知识缺口”：看着段落可能觉得懂，合上书解释时却说不清步骤之间的联系。“不让记笔记”没有依据，合书是要尝试自己解释；“避开不可靠资料”把后面核对答案的要求移成了合书原因；“缩短学习时间”也没依据，找缺口、纠错和再次回忆反而是完整的学习步骤。\n下次：问某个学习动作的目的时，找紧随其后的效果；这里要检查是否发现了自己说不出的部分。'),
             ("What qualification does the speaker add about retrieval practice?", ["Errors should be checked and corrected.", "It only works for scientific processes.", "The same incorrect answer should be repeated.", "All reading should be replaced by testing."], 0,
-             "读懂：qualification 在本题是对说法增加限制或补充，不是学历。讲者要求用 reliable source（可靠资料）检查回忆，并把错误纠正，不能一直重复错答案。\n解析：讲者强调反复给出错误答案 “is not the goal”，要求 “Check your explanation against a reliable source and correct it”，所以回忆练习必须核对并纠错。科学过程只是例子，方法并不限于科学，也不主张用测试取代全部阅读。\n下次：听到 However（不过）后，专记主张的边界。方法有效不等于随便怎么练都有效；本题必须加上“核对并纠错”，不能概括成越重复越好。"),
+             '读懂：题目问讲者对回忆练习补充了什么限制。correct it 是“把错误改正”，并非只反复作答。\n解析：选“要核对并纠正错误”：讲者说反复说错不是目标，应对照可靠资料修改。“只适用于科学过程”把例子当成唯一适用范围；“重复同一个错答案”正是讲者反对的；“用测试取代全部阅读”与结尾要结合阅读、回忆和反馈相反。\n下次：听到“不过”后的补充，记下方法生效还需要什么；排除删掉这一条件的选项。'),
             ("How is the talk organized?", ["A historical account followed by a prediction.", "A list of unrelated memory disorders.", "A distinction, an example, and practical guidance.", "An experiment followed by objections to its results."], 2,
-             "读懂：distinguish 是区分，For example 是举例，The practical lesson 是实际学习启示。这些词对应开头辨析两种记忆、随后举例、最后给建议。\n解析：先 “distinguish recognizing information from retrieving it” 界定区别，再以 “For example” 引出合书解释，最后用 “The practical lesson” 总结学习做法。全文是概念区分、实例、实践建议，并非历史预测、记忆障碍清单或实验结果争论。\n下次：结构题每段只记它在做什么，而不抄细节。用“区分概念→展示例子→建议做法”串联，再匹配选项；不要因出现科学例子就误判成报告实验。"),
+             '读懂：题目问讲座怎么展开。recognizing 与 retrieving 分别是“看见后认得”和“自己想起来”。\n解析：选“先作区分，再举例，最后给实际建议”：开头区分两种记忆表现，中间以合书解释科学过程为例，结尾建议核对错误并隔一段时间再练。“历史回顾再预测”没有历史顺序；“列举无关的记忆障碍”不是本文内容；“实验及反对实验结果”也不对，文中没有报告一项实验及争议。\n下次：结构题把开头、中间、结尾各压成一个动作，如“区分—举例—建议”，再比较选项顺序。'),
         ],
     ),
     (
@@ -380,13 +380,13 @@ TALKS = [
         "Suppose a town is deciding whether to keep a little-used bus route. Looking only at ticket sales, the service may seem to have limited value. But economists sometimes consider something called option value: the value of keeping a possibility available, even if people rarely use it. A resident who normally drives may still appreciate having a bus available when the car needs repairs. The route can also make it possible to accept a job before that resident knows whether driving will always be practical. Neither benefit appears fully in today's ticket revenue. Think of the decision from the resident’s perspective. Knowing there is a backup makes a plan less risky, even during a month when the car never breaks down. That reassurance is different from the benefit of a journey actually taken. Of course, recognizing option value does not mean every route should be retained at any cost. The town must compare the benefits with expenses and with alternatives, such as a less frequent service or transport that passengers book in advance. Surveys can help reveal how residents value access, though people may state a higher willingness to pay when no actual payment is required. The point is that a decision based solely on current use may overlook a service's contribution to future flexibility.",
         [
             ("What does 'option value' refer to in the talk?", ["The price of the most popular bus ticket.", "The cost of repairing a private car.", "The profit from expanding every bus route.", "The benefit of keeping a service available for possible use."], 3,
-             "读懂：option value 是保留备用选择的价值。公交即使平时少坐，未来需要时仍能使用，这种可用性本身就可能有好处。\n解析：“the value of keeping a possibility available” 强调保留未来可用的选择，即使 “people rarely use it” 仍有价值。它不是票价、修车费用，也不等于扩建所有线路的利润。\n下次：术语题先用讲者紧随其后的定义替换术语，再拿例子检验。区分“保留选择的好处”与“已经乘车的收益”，不要拿日常词义或票价硬套。"),
+             '读懂：题目问 option value（保留一个备用选择的价值）在这里指什么。公交很少乘坐，也可能在将来派上用场。\n解析：选“保留服务供将来可能使用所带来的好处”：价值在于需要时有车可坐，不只看今天卖了多少票。“最受欢迎车票的价格”是票价；“修私家车的费用”是备用公交可能被用到的背景；“扩建每条线路的利润”既不是定义，也没有被保证。\n下次：听术语定义先找“它是什么”的解释句，再用后面的例子确认；不要把例子中的花费当成定义。'),
             ("Why does the speaker mention a car needing repairs?", ["To show that car ownership is always uneconomical.", "To explain why buses require less maintenance.", "To illustrate a situation in which an unused alternative becomes useful.", "To argue that ticket prices should match repair costs."], 2,
-             "读懂：the car needs repairs 是汽车需要维修。平时开车的居民此时能改坐公交，说明不常使用的备用交通在特定情境下仍有价值。\n解析：平时开车的人在 “the car needs repairs” 时可用公交，例子说明平常闲置的替代方案也能在需要时派上用场。它没有比较公交与汽车的维修成本，也不证明养车总不划算或票价应等于修车费。\n下次：例子题先找它证明的抽象观点，再问情境变了什么。本题是“原选择暂不可用→备用选择派上用场”，不是比较两种交通工具的维修费用。"),
+             '读懂：题目问提到汽车需要维修有什么用。when the car needs repairs 是“当私家车送修、无法开时”。\n解析：选“说明平时不用的替代方式也有派上用场的时候”：车坏了仍可坐公交，展示了备用选择的价值。“有车永远不划算”不能由一次送修推出，例子只是说明偶尔需要备用交通；“公交维护更少”原文未比较维护量；“票价应等于修车费”也没有提出，只是两种不同的费用。\n下次：例子作用题先找例子在说明的概念，再说清“什么情况变化，使例子成立”。'),
             ("What caution does the speaker give about surveys?", ["Residents may overstate what they would actually pay.", "They measure ticket sales more accurately than records.", "They cannot include people who normally drive.", "They always underestimate the cost of bus service."], 0,
-             '读懂：willingness to pay 是愿意支付多少钱；no actual payment is required 是无需实际掏钱。调查中的口头金额可能高于真的要付款时愿付的金额。\n解析：“a higher willingness to pay when no actual payment is required” 提醒：不用真付款时，居民可能把愿付金额说得偏高。这里质疑的是口头意愿与实际付费的差距，并非调查必然低估运营成本、不能调查平常开车的居民或比票务记录更准确。\n下次：调查限制题分开“声称会做什么”和“实际付出时会怎样”。这里偏差针对愿付金额，别把它换成运营成本、受访者资格或售票数量。'),
+             '读懂：题目问调查有什么需要小心的地方。willingness to pay 是“愿意付多少钱”，不是已经付的钱。\n解析：选“居民口头说愿付的钱可能高于实际肯付的”：问卷不真的收钱时，人可能报高。“比记录更准确地测出票收入”不对，问卷问愿付多少，不能直接当成实际卖票所得；“不能调查平时开车的人”没有这项限制；“总会低估公交成本”既把可能说成必然，又把付费意愿换成运营成本。\n下次：听调查结论先分清“说会做”与“实际做了”；再看讲者提醒的是高估哪项数据。'),
             ("Which policy would be consistent with the speaker's argument?", ["Closing every route with low ticket revenue.", "Considering backup access, costs, and alternative service arrangements.", "Keeping all existing routes without comparing expenses.", "Basing the entire decision on a single survey result."], 1,
-             "读懂：at any cost 是不惜任何代价；alternatives 是替代安排。承认公交的备用价值，不等于所有线路都无条件保留，还要比较费用和其他服务方式。\n解析：保留备用交通有价值，但 “not mean every route should be retained at any cost” 随即限定了结论，应把备用便利与 “expenses and with alternatives” 一起比较。仅凭低票收就全关、无条件全留，或只信一次调查，都忽略了这项权衡。\n下次：政策题同时保留好处与限制：先算备用选择的价值，再看成本及替代方案。排除“全关”“全留”或只凭一个数字决策的选项，注意这不是盲目偏爱折中，而是对应原文列出的权衡。"),
+             '读懂：题目问哪种政策符合讲者观点。compare the benefits with expenses 是“把好处和开销一起比较”。\n解析：选“同时考虑备用交通的好处、成本和其他服务安排”：讲者既要求看到备用价值，也提出减班或预约交通等替代办法。“票收入低就全关掉”漏掉未来备用好处；“不计费用保留全部线路”忽略成本；“只凭一次调查决定”忽略调查可能夸大付费意愿及其他证据。\n下次：遇到政策题，先记讲者要求一起考虑的因素；检查选项是否只抓住其中一项。'),
         ],
     ),
 ]

@@ -679,6 +679,11 @@
   line-height: 1.75;
 }
 
+.script-details .audio-translation {
+  margin-top: 4px;
+  color: var(--slate);
+}
+
 .recording-panel {
   display: grid;
   gap: 13px;

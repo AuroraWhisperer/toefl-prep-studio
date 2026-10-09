@@ -1,0 +1,2042 @@
+{
+  "L01": {
+    "source": "Could you send me the revised lab schedule this afternoon?",
+    "translation": "你能今天下午把修改后的实验室日程表发给我吗？"
+  },
+  "L02": {
+    "source": "The seminar room is on the third floor, isn't it?",
+    "translation": "研讨室在三楼，是吗？"
+  },
+  "L03": {
+    "source": "I was hoping to join the study group, but I have a shift at six.",
+    "translation": "我本来想参加学习小组，但我六点要上班。"
+  },
+  "L04": {
+    "source": "The printer is out of paper again.",
+    "translation": "打印机又没纸了。"
+  },
+  "L05": {
+    "source": "Would you rather review the chapters now or after lunch?",
+    "translation": "你想现在复习这些章节，还是午饭后再复习？"
+  },
+  "L06": {
+    "source": "Do you happen to know whether Friday's office hours were canceled?",
+    "translation": "你知道周五的答疑时间是不是取消了吗？"
+  },
+  "L07": {
+    "source": "I can't locate the article, even though I have its title.",
+    "translation": "虽然知道文章的标题，我还是找不到这篇文章。"
+  },
+  "L08": {
+    "source": "Would you mind checking these citations before I submit the report?",
+    "translation": "在我提交报告之前，能请你帮我检查一下这些引用吗？"
+  },
+  "L09": {
+    "source": "It looks as though the field trip will go ahead after all.",
+    "translation": "看来实地考察最终还是会照常进行。"
+  },
+  "L10": {
+    "source": "I think I left my notebook in the seminar room.",
+    "translation": "我想我把笔记本落在了研讨室里。"
+  },
+  "L11": {
+    "source": "The online form keeps rejecting my student number.",
+    "translation": "在线表格总是不接受我填的学号。"
+  },
+  "L12": {
+    "source": "You wouldn't have a spare calculator, would you?",
+    "translation": "请问你有没有备用的计算器？"
+  },
+  "L13": {
+    "source": "The doors open at five-thirty, but the talk doesn't start until six.",
+    "translation": "五点半可以入场，但讲座要到六点才开始。"
+  },
+  "L14": {
+    "source": "I've finished entering the data, so it's over to you.",
+    "translation": "我已经完成了数据输入，接下来就交给你了。"
+  },
+  "L15": {
+    "source": "Could we meet by video instead of in the office?",
+    "translation": "我们可以通过视频而不是在办公室见面吗？"
+  },
+  "L16": {
+    "source": "I'd keep that sample out of direct sunlight if I were you.",
+    "translation": "如果我是你，就不会让那个样本受到阳光直射。"
+  },
+  "L17": {
+    "source": "This map must be older than we thought; the footbridge isn't on it.",
+    "translation": "这张地图肯定比我们原先以为的还旧；上面连那座人行桥都没有。"
+  },
+  "L48": {
+    "source": "Could you hold the door? My hands are full.",
+    "translation": "你能帮我扶住门吗？我两只手都拿满了东西。"
+  },
+  "L49": {
+    "source": "Do you know whether the café is still serving lunch?",
+    "translation": "你知道咖啡厅还提供午餐吗？"
+  },
+  "L50": {
+    "source": "I can't make the meeting at nine.",
+    "translation": "我不能参加九点钟的会议。"
+  },
+  "L51": {
+    "source": "Would you mind turning the music down a little?",
+    "translation": "你介意把音乐声音调小一点吗？"
+  },
+  "L52": {
+    "source": "Where do I hand in my application?",
+    "translation": "我在哪里递交申请？"
+  },
+  "L53": {
+    "source": "The copier is leaving a dark stripe down every page, even though the original is clean.",
+    "translation": "原件明明很干净，复印出来的每一页上却都有一道竖着的深色条纹。"
+  },
+  "L54": {
+    "source": "I thought the lecture was in Hall B.",
+    "translation": "我以为讲座是在 B 厅。"
+  },
+  "L55": {
+    "source": "How did your presentation go?",
+    "translation": "你的演讲进行得怎么样？"
+  },
+  "L56": {
+    "source": "Could I borrow your notes from yesterday?",
+    "translation": "能借我看看你昨天的笔记吗？"
+  },
+  "L57": {
+    "source": "Is this seat taken?",
+    "translation": "这个座位有人吗？"
+  },
+  "L58": {
+    "source": "We should leave a bit earlier to avoid traffic.",
+    "translation": "我们应该早点出发以避免交通堵塞。"
+  },
+  "L59": {
+    "source": "I haven't received the confirmation email.",
+    "translation": "我还没有收到确认电子邮件。"
+  },
+  "L60": {
+    "source": "Would you rather work indoors or outside?",
+    "translation": "您愿意在室内还是室外工作？"
+  },
+  "L61": {
+    "source": "You look familiar. Were you in my chemistry class?",
+    "translation": "你看着很眼熟。我们是不是一起上过化学课？"
+  },
+  "L62": {
+    "source": "They've pushed the deadline back to Friday, though I wouldn't leave the revisions until then.",
+    "translation": "他们把截止日期推迟到周五了，不过我不建议把修改拖到那时。"
+  },
+  "L63": {
+    "source": "Can you show me how this scanner works?",
+    "translation": "你能教我怎么用这个扫描仪吗？"
+  },
+  "L64": {
+    "source": "I may be a few minutes late.",
+    "translation": "我可能会迟到几分钟。"
+  },
+  "L65": {
+    "source": "Do we need to bring our own towels?",
+    "translation": "毛巾需要自带吗？"
+  },
+  "L66": {
+    "source": "I wonder if the professor has office hours today.",
+    "translation": "不知道教授今天有没有安排答疑时间。"
+  },
+  "L67": {
+    "source": "This graph doesn't seem to match the table.",
+    "translation": "该图似乎与表格不符。"
+  },
+  "L68": {
+    "source": "Could you give me a hand with these boxes?",
+    "translation": "你能帮我搬一下这些箱子吗？"
+  },
+  "L69": {
+    "source": "Are you free for lunch tomorrow?",
+    "translation": "明天有空吃午饭吗？"
+  },
+  "L70": {
+    "source": "I accidentally deleted the file.",
+    "translation": "我不小心删除了文件。"
+  },
+  "L71": {
+    "source": "What time should I arrive for the interview?",
+    "translation": "我应该几点到面试地点？"
+  },
+  "L72": {
+    "source": "I heard the workshop is fully booked.",
+    "translation": "听说工作坊的名额已经满了。"
+  },
+  "L73": {
+    "source": "Would extending my loan be out of the question if nobody else needs the book?",
+    "translation": "如果没有别人需要这本书，我能不能续借一下？"
+  },
+  "L74": {
+    "source": "Your microphone seems to be muted.",
+    "translation": "您的麦克风似乎已静音。"
+  },
+  "L75": {
+    "source": "Should we split the cost equally?",
+    "translation": "我们要平摊费用吗？"
+  },
+  "L76": {
+    "source": "I'm not sure I understood the last instruction.",
+    "translation": "我不确定自己有没有听懂最后一项要求。"
+  },
+  "L77": {
+    "source": "Is there a quicker way to get to the station?",
+    "translation": "有没有更快捷的方式去车站？"
+  },
+  "L78": {
+    "source": "We ran out of time before reaching the conclusion.",
+    "translation": "还没讲到结论部分，时间就用完了。"
+  },
+  "L79": {
+    "source": "Do you have this article in electronic form?",
+    "translation": "你有这篇文章的电子版吗？"
+  },
+  "L80": {
+    "source": "I can't find my access card anywhere.",
+    "translation": "我到处都找不到门禁卡。"
+  },
+  "L81": {
+    "source": "Can we move our rehearsal to Thursday?",
+    "translation": "我们可以把排练移到星期四吗？"
+  },
+  "L82": {
+    "source": "You wouldn't happen to have a spare pen, would you? Mine has just run out.",
+    "translation": "你碰巧有备用的笔吗？我的笔刚没墨了。"
+  },
+  "L83": {
+    "source": "The room is a little stuffy.",
+    "translation": "房间有点闷。"
+  },
+  "L84": {
+    "source": "How long does it take to walk there?",
+    "translation": "步行到那里需要多长时间？"
+  },
+  "L85": {
+    "source": "I don't think this citation is complete.",
+    "translation": "我觉得这条文献引用信息不完整。"
+  },
+  "L86": {
+    "source": "Would you prefer the morning shift?",
+    "translation": "你更想上早班吗？"
+  },
+  "L87": {
+    "source": "The elevator is being repaired.",
+    "translation": "电梯正在维修。"
+  },
+  "L88": {
+    "source": "Could you keep an eye on my bag? I'll only be gone a minute.",
+    "translation": "你能帮我看一下包吗？我马上就回来。"
+  },
+  "L89": {
+    "source": "I thought we agreed to meet outside.",
+    "translation": "我以为我们说好在外面见面的。"
+  },
+  "L90": {
+    "source": "Does this bus stop near the hospital?",
+    "translation": "这辆公交车在医院附近停靠吗？"
+  },
+  "L91": {
+    "source": "Could I have a receipt, please?",
+    "translation": "请给我一张收据，好吗？"
+  },
+  "L92": {
+    "source": "We need someone to take notes during the discussion.",
+    "translation": "我们需要有人在讨论过程中做笔记。"
+  },
+  "L93": {
+    "source": "I'm having trouble opening the attachment.",
+    "translation": "我打不开这个附件。"
+  },
+  "L94": {
+    "source": "Is the swimming pool open to visitors?",
+    "translation": "这个游泳池对访客开放吗？"
+  },
+  "L95": {
+    "source": "They say the workshop is full, but I wouldn't rule out getting in.",
+    "translation": "听说工作坊已经满员了，但我觉得还是有机会参加的。"
+  },
+  "L96": {
+    "source": "Could you speak a little more slowly?",
+    "translation": "你能说得稍微慢一点吗？"
+  },
+  "L97": {
+    "source": "We should double-check these totals.",
+    "translation": "我们应该再核对一下这些总数。"
+  },
+  "L98": {
+    "source": "Do you mind if I join your study group?",
+    "translation": "我可以加入你们的学习小组吗？"
+  },
+  "L99": {
+    "source": "I left my umbrella on the shuttle.",
+    "translation": "我把雨伞落在班车上了。"
+  },
+  "L100": {
+    "source": "When will the revised schedule be available?",
+    "translation": "修改后的日程表什么时候能出来？"
+  },
+  "L101": {
+    "source": "I could really use someone to cover Saturday; I can return the favor next week.",
+    "translation": "我真需要有人替我上周六的班；下周我可以帮对方代班作为回报。"
+  },
+  "L102": {
+    "source": "This sample looks different from the others.",
+    "translation": "这个样本看起来和其他的不一样。"
+  },
+  "L103": {
+    "source": "I didn't catch the speaker's last name.",
+    "translation": "我没听清发言人的姓。"
+  },
+  "L104": {
+    "source": "Would you like me to proofread your draft?",
+    "translation": "要我帮你校对一下草稿吗？"
+  },
+  "L105": {
+    "source": "Do I need an appointment to collect the keys?",
+    "translation": "领取钥匙需要预约吗？"
+  },
+  "L106": {
+    "source": "Meeting in the seminar room isn't out of the question, but getting everyone here could be tricky.",
+    "translation": "在研讨室开会也不是不行，不过让大家都到这里来可能有点难。"
+  },
+  "L107": {
+    "source": "I'm afraid I sent you the wrong version.",
+    "translation": "不好意思，我恐怕发错版本了。"
+  },
+  "L108": {
+    "source": "Could you recommend a quiet place to work?",
+    "translation": "你能推荐一个安静的地方，让我处理事情吗？"
+  },
+  "L109": {
+    "source": "Has anyone checked the batteries in the recorder?",
+    "translation": "有人检查过录音机的电池吗？"
+  },
+  "L110": {
+    "source": "I'm leaning toward the earlier flight, provided changing the ticket doesn't cost too much.",
+    "translation": "我倾向于乘坐较早的航班，前提是改签的费用不会太高。"
+  },
+  "L111": {
+    "source": "Can we postpone the photo session if it rains?",
+    "translation": "如果下雨的话可以推迟拍照吗？"
+  },
+  "L112": {
+    "source": "I was wondering who to contact about a refund.",
+    "translation": "我想知道应该联系谁来处理退款事宜。"
+  },
+  "L113": {
+    "source": "Would you check whether I've attached the right chart?",
+    "translation": "你能检查一下我附上的图表是否正确吗？"
+  },
+  "L114": {
+    "source": "The directions say to use the side entrance.",
+    "translation": "指引上说要走侧门。"
+  },
+  "L115": {
+    "source": "Thanks for pointing out the error before I submitted it.",
+    "translation": "谢谢你在我提交之前就指出了这个错误。"
+  },
+  "L236": {
+    "source": "Man: This chair keeps sinking while I'm typing.",
+    "translation": "我打字的时候，这把椅子总是往下沉。"
+  },
+  "L237": {
+    "source": "Woman: I thought the rehearsal was optional.",
+    "translation": "我以为排练是自愿参加的。"
+  },
+  "L238": {
+    "source": "Man: Would you mind reading the last number back to me?",
+    "translation": "你能把最后一个数字再念给我核对一下吗？"
+  },
+  "L239": {
+    "source": "Woman: The soup's good, but I can barely hold the bowl.",
+    "translation": "汤很好喝，但我几乎端不住这个碗。"
+  },
+  "L240": {
+    "source": "Man: Aren't these seats reserved for the visiting team?",
+    "translation": "这些座位不是给客队保留的吗？"
+  },
+  "L241": {
+    "source": "Woman: Could we keep the windows closed until the drilling outside stops?",
+    "translation": "能不能先关着窗户，等外面的钻孔作业停了再开？"
+  },
+  "L242": {
+    "source": "Man: I can't tell which cable belongs to the projector.",
+    "translation": "我分不清哪根线是投影仪的。"
+  },
+  "L243": {
+    "source": "Woman: I'd rather not have my full name on the public list.",
+    "translation": "我不想让我的全名出现在公开名单上。"
+  },
+  "L244": {
+    "source": "Man: Did you mean the entrance facing the river?",
+    "translation": "你是说朝河的入口吗？"
+  },
+  "L245": {
+    "source": "Woman: I'm not sure this joke belongs in a formal welcome speech.",
+    "translation": "我觉得这个笑话可能不适合放在正式的欢迎致辞里。"
+  },
+  "L246": {
+    "source": "Man: Is the deposit refundable if the trip is canceled?",
+    "translation": "如果行程取消，订金可以退吗？"
+  },
+  "L247": {
+    "source": "Woman: This paragraph sounds as if I did all the work myself.",
+    "translation": "这一段听起来好像所有的工作都是我自己做的。"
+  },
+  "L248": {
+    "source": "Man: Can I get off at the stop after the hospital?",
+    "translation": "我可以在医院后面那一站下车吗？"
+  },
+  "L249": {
+    "source": "Woman: I was hoping for something less sweet.",
+    "translation": "我本来想要没那么甜的东西。"
+  },
+  "L250": {
+    "source": "Man: Should I sign here even though the address is wrong?",
+    "translation": "即使地址错误，我也应该在这里签名吗？"
+  },
+  "L251": {
+    "source": "Woman: I didn't catch whether you said fifteen or fifty.",
+    "translation": "我没听清你说的是十五还是五十。"
+  },
+  "L252": {
+    "source": "Man: The poster looks great from here, but what about across the hall?",
+    "translation": "从这里看海报挺好，但从大厅另一头看呢？"
+  },
+  "L253": {
+    "source": "Woman: Would it be all right if I brought a guest?",
+    "translation": "带个客人可以吗？"
+  },
+  "L254": {
+    "source": "Man: I wish the instructions showed what the finished model looks like.",
+    "translation": "要是说明书能展示一下模型完成后的样子就好了。"
+  },
+  "L255": {
+    "source": "Woman: Could you give me a hand with this lid?",
+    "translation": "你能帮我打开这个盖子吗？"
+  },
+  "L256": {
+    "source": "Man: I can cover your shift, as long as I'm done by four.",
+    "translation": "我可以替你上班，但必须在四点前结束。"
+  },
+  "L257": {
+    "source": "Woman: This receipt lists two sandwiches, but I only bought one.",
+    "translation": "这张收据列出了两个三明治，但我只买了一个。"
+  },
+  "L258": {
+    "source": "Man: Are you using that outlet, or may I plug in my laptop?",
+    "translation": "你在用那个插座吗？我能把笔记本电脑接上去吗？"
+  },
+  "L259": {
+    "source": "Woman: I thought you were going to introduce our guest.",
+    "translation": "我以为你要介绍我们的客人。"
+  },
+  "L260": {
+    "source": "Man: Let's not decide until we've heard both proposals.",
+    "translation": "在听取了这两个建议之前我们不要做出决定。"
+  },
+  "L261": {
+    "source": "Woman: Your umbrella looks just like mine. I'm worried we might pick up the wrong one.",
+    "translation": "你的伞和我的一模一样。我担心我们会拿错。"
+  },
+  "L262": {
+    "source": "Man: Is there any chance of moving my appointment earlier?",
+    "translation": "能不能把我的预约时间往前调一点？"
+  },
+  "L263": {
+    "source": "Woman: That explanation went over my head.",
+    "translation": "这个解释超出了我的理解范围。"
+  },
+  "L264": {
+    "source": "Man: Do we need the original certificate, or is a scan enough?",
+    "translation": "我们需要证书原件，还是扫描件就够了？"
+  },
+  "L265": {
+    "source": "Woman: I'd join the hike if it weren't for my ankle.",
+    "translation": "如果不是脚踝受伤，我会参加徒步旅行。"
+  },
+  "L266": {
+    "source": "Man: How come the display case is empty?",
+    "translation": "陈列柜怎么是空的？"
+  },
+  "L267": {
+    "source": "Woman: Could you keep that story between us?",
+    "translation": "这件事能不能只留在你我之间，不告诉别人？"
+  },
+  "L268": {
+    "source": "Man: Do you want the light on or off while you work?",
+    "translation": "您工作时要开灯还是关灯？"
+  },
+  "L269": {
+    "source": "Woman: I seem to have left my key inside the locker.",
+    "translation": "我好像把钥匙落在储物柜里了。"
+  },
+  "L270": {
+    "source": "Man: Will the plants be all right while you're away?",
+    "translation": "你不在的时候，这些植物能照料好吗？"
+  },
+  "L271": {
+    "source": "Woman: That route is shorter, but it's all uphill.",
+    "translation": "那条路较短，但都是上坡路。"
+  },
+  "L272": {
+    "source": "Man: Is this price per person or for the whole cabin?",
+    "translation": "这个价格是按人算的，还是整间小木屋的价格？"
+  },
+  "L273": {
+    "source": "Woman: Could we pause here? I need to write that down.",
+    "translation": "我们可以在这里暂停一下吗？我需要把它写下来。"
+  },
+  "L274": {
+    "source": "Man: I take it the picnic is still on despite the forecast?",
+    "translation": "我的理解是，尽管天气预报不太好，野餐还是照常进行，对吗？"
+  },
+  "L275": {
+    "source": "Woman: I've got the slides, but no way to open this file type.",
+    "translation": "我有幻灯片，但无法打开此文件类型。"
+  },
+  "L276": {
+    "source": "Man: Would you prefer to give feedback aloud or in writing?",
+    "translation": "您愿意以口头还是书面形式提供反馈？"
+  },
+  "L277": {
+    "source": "Woman: We're nearly out of labels for the specimen jars.",
+    "translation": "我们的标本罐标签快用完了。"
+  },
+  "L278": {
+    "source": "Man: I don't suppose this table can be extended?",
+    "translation": "这张桌子能加长吗？"
+  },
+  "L279": {
+    "source": "Woman: Have you heard back from the editor yet?",
+    "translation": "编辑给你回信了吗？"
+  },
+  "L280": {
+    "source": "Man: Could you point me toward the lost-and-found desk?",
+    "translation": "你能给我指一下失物招领处吗？"
+  },
+  "L281": {
+    "source": "Woman: This microphone is picking up every little sound.",
+    "translation": "这个麦克风可以拾取每一个微小的声音。"
+  },
+  "L282": {
+    "source": "Man: Shall I put the frozen food away first?",
+    "translation": "要先把冷冻食品收起来吗？"
+  },
+  "L283": {
+    "source": "Woman: You're not planning to send that without proofreading it, are you?",
+    "translation": "你不会不校对就发送吧？"
+  },
+  "L284": {
+    "source": "Man: May I quote your comment in the newsletter?",
+    "translation": "我可以在简报里引用你的话吗？"
+  },
+  "L285": {
+    "source": "Woman: I wasn't expecting the courtyard to be so noisy.",
+    "translation": "没想到院子里这么吵。"
+  },
+  "L286": {
+    "source": "Man: Do you know whose gloves these are?",
+    "translation": "你知道这是谁的手套吗？"
+  },
+  "L287": {
+    "source": "Woman: I could use a second pair of eyes on this chart.",
+    "translation": "我想请另一个人也帮忙检查一下这张图表。"
+  },
+  "L288": {
+    "source": "Man: Is it worth taking a jacket, even if it's warm now?",
+    "translation": "虽然现在挺暖和，还是有必要带件外套吗？"
+  },
+  "L289": {
+    "source": "Woman: We seem to be talking about different editions.",
+    "translation": "我们似乎在谈论不同的版本。"
+  },
+  "L290": {
+    "source": "Man: Please don't put my bag in the overhead compartment.",
+    "translation": "请不要将我的包放在头顶行李舱中。"
+  },
+  "L291": {
+    "source": "Woman: I owe you one for staying late to help.",
+    "translation": "谢谢你留下来帮忙到这么晚，我欠你一个人情。"
+  },
+  "L292": {
+    "source": "Man: How soon could you have these photos ready?",
+    "translation": "这些照片多久可以准备好？"
+  },
+  "L293": {
+    "source": "Woman: Are we supposed to bring our own safety goggles?",
+    "translation": "我们应该带自己的护目镜吗？"
+  },
+  "L294": {
+    "source": "Man: I'd love to stay, but my parking meter is about to expire.",
+    "translation": "我很想留下，但我付费的停车时间快到了。"
+  },
+  "L295": {
+    "source": "Woman: Is there a cheaper option that still includes breakfast?",
+    "translation": "有没有更便宜还含早餐的选择？"
+  },
+  "L296": {
+    "source": "Man: That answer sounds a bit definite, given how little data we have.",
+    "translation": "我们手头的数据这么少，这个回答听起来有点过于肯定了。"
+  },
+  "L297": {
+    "source": "Woman: Can you make room for one more person on the bench?",
+    "translation": "你能在长椅上再腾出一个人的位置吗？"
+  },
+  "L298": {
+    "source": "Man: Should the caption identify everyone in the photograph?",
+    "translation": "照片说明里需要写出照片中每个人的名字吗？"
+  },
+  "L299": {
+    "source": "Woman: I thought this path would take us back to the lake.",
+    "translation": "我以为这条路会带我们回到湖边。"
+  },
+  "L300": {
+    "source": "Man: Can I leave this package with you until the courier arrives?",
+    "translation": "快递员来之前，我能先把这个包裹放在你这儿吗？"
+  },
+  "L301": {
+    "source": "Woman: The last speaker used up most of our question time.",
+    "translation": "最后一位发言者占用了我们大部分的提问时间。"
+  },
+  "L302": {
+    "source": "Man: Do you happen to have change for a twenty?",
+    "translation": "你能帮我把一张二十元的钞票换成零钱吗？"
+  },
+  "L303": {
+    "source": "Woman: Could you speak toward the room rather than the screen?",
+    "translation": "你能面向屋里的听众说话，而不是对着屏幕吗？"
+  },
+  "L304": {
+    "source": "Man: I'm torn between volunteering at the shelter and the garden.",
+    "translation": "我拿不定主意，是去收容所还是去花园做志愿者。"
+  },
+  "L305": {
+    "source": "Woman: There's a typo in the name on my badge.",
+    "translation": "我胸牌上的名字拼错了。"
+  },
+  "L306": {
+    "source": "Man: I assume we're splitting the cost equally?",
+    "translation": "我理解的是我们平摊费用，对吗？"
+  },
+  "L307": {
+    "source": "Woman: That was quicker than I expected.",
+    "translation": "这比我预想的要快。"
+  },
+  "L308": {
+    "source": "Man: Would you rather I emailed the photos or shared a folder?",
+    "translation": "您希望我通过电子邮件发送照片还是共享文件夹？"
+  },
+  "L309": {
+    "source": "Woman: I wouldn't count on finding parking right outside.",
+    "translation": "我不会指望在外面就能找到停车位。"
+  },
+  "L310": {
+    "source": "Man: Do I need to rinse these brushes before changing colors?",
+    "translation": "换颜色之前需要冲洗这些刷子吗？"
+  },
+  "L311": {
+    "source": "Woman: I didn't realize the lecture would be standing room only.",
+    "translation": "我没想到讲座座位全满了，只能站着听。"
+  },
+  "L312": {
+    "source": "Man: Could you hold the ladder steady for a moment?",
+    "translation": "你能把梯子扶稳一下吗？"
+  },
+  "L313": {
+    "source": "Woman: Does this coupon apply to items already on sale?",
+    "translation": "这张优惠券能用于已经打折的商品吗？"
+  },
+  "L314": {
+    "source": "Man: We could finish today if the glue sets in time.",
+    "translation": "如果胶水及时凝固，我们今天就可以完成。"
+  },
+  "L315": {
+    "source": "Woman: Would you check that the back door is latched?",
+    "translation": "你能检查一下后门有没有闩好吗？"
+  },
+  "L316": {
+    "source": "Man: I missed the name of the author, not the title.",
+    "translation": "我没听清的是作者的名字，不是标题。"
+  },
+  "L317": {
+    "source": "Woman: This seat belt won't reach the buckle.",
+    "translation": "这条安全带够不到带扣。"
+  },
+  "L318": {
+    "source": "Man: Could I listen to a sample before choosing the instrument?",
+    "translation": "我能先听一段演奏示范，再选乐器吗？"
+  },
+  "L319": {
+    "source": "Woman: I can lend you the tent, but I need it back dry.",
+    "translation": "我可以把帐篷借给你，不过还给我时得是干的。"
+  },
+  "L320": {
+    "source": "Man: Am I interrupting, or is now a good time?",
+    "translation": "我是不是打扰你了，还是说现在方便？"
+  },
+  "L321": {
+    "source": "Woman: Could you bring the discussion back to the main question?",
+    "translation": "你能把讨论引回主要问题吗？"
+  },
+  "L322": {
+    "source": "Man: I thought the rent included heating.",
+    "translation": "我以为房租已经包含暖气费了。"
+  },
+  "L323": {
+    "source": "Woman: We have enough chairs, just not enough space between them.",
+    "translation": "我们有足够的椅子，只是椅子之间的空间不够。"
+  },
+  "L324": {
+    "source": "Man: Is that an actual deadline or just a target date?",
+    "translation": "那是必须遵守的截止日期，还是只是计划完成的日期？"
+  },
+  "L325": {
+    "source": "Woman: I don't want to commit before seeing the full schedule.",
+    "translation": "在看到完整的时间表之前我不想做出承诺。"
+  },
+  "L326": {
+    "source": "Man: Can this fabric be washed, or does it need dry cleaning?",
+    "translation": "这种布料可以水洗，还是需要干洗？"
+  },
+  "L327": {
+    "source": "Woman: I wouldn't call the results conclusive yet.",
+    "translation": "我觉得这些结果还不足以下定论。"
+  },
+  "L328": {
+    "source": "Man: Could you move your cup away from the edge?",
+    "translation": "你能把杯子移离边缘吗？"
+  },
+  "L329": {
+    "source": "Woman: It might be easier to explain this over the phone.",
+    "translation": "通过电话解释可能会更容易。"
+  },
+  "L330": {
+    "source": "Man: Are these tickets transferable if I can't come?",
+    "translation": "如果我不能来的话，这些票可以转让吗？"
+  },
+  "L331": {
+    "source": "Woman: We need to get this bookshelf upstairs, but that staircase is narrower than I remembered.",
+    "translation": "我们需要把这个书架搬上楼，但是那个楼梯比我记忆中的要窄。"
+  },
+  "L332": {
+    "source": "Man: How far in advance should we book the rehearsal space?",
+    "translation": "应该提前多久预订排练场地？"
+  },
+  "L333": {
+    "source": "Woman: I meant the rough estimate, not the final invoice.",
+    "translation": "我说的是大致的费用估算，不是最终的发票。"
+  },
+  "L334": {
+    "source": "Man: Would you like me to take over while you have lunch?",
+    "translation": "你吃午饭的时候需要我来接手吗？"
+  },
+  "L335": {
+    "source": "Woman: We shouldn't assume everyone knows that abbreviation.",
+    "translation": "我们不应该假设每个人都知道这个缩写。"
+  },
+  "L336": {
+    "source": "Man: Is the workshop suitable for complete beginners?",
+    "translation": "这个工作坊适合零基础的人吗？"
+  },
+  "L337": {
+    "source": "Woman: I can see the screen, but I can't read the small print.",
+    "translation": "我可以看到屏幕，但看不清小字。"
+  },
+  "L338": {
+    "source": "Man: Could you let me know if a quieter room becomes available?",
+    "translation": "如果有更安静的房间可以告诉我吗？"
+  },
+  "L339": {
+    "source": "Woman: I thought we agreed not to use disposable plates.",
+    "translation": "我以为我们已经说好不用一次性盘子了。"
+  },
+  "L340": {
+    "source": "Man: Would a digital copy be acceptable for the application?",
+    "translation": "申请时提交电子版可以吗？"
+  },
+  "L341": {
+    "source": "Woman: That question puts me on the spot a little.",
+    "translation": "这个问题让我有点难以当场回答。"
+  },
+  "L342": {
+    "source": "Man: Can we store these boxes here overnight?",
+    "translation": "这些盒子可以在这里存放过夜吗？"
+  },
+  "L343": {
+    "source": "Woman: I'd prefer not to be photographed during the demonstration.",
+    "translation": "我不想在演示过程中被拍照。"
+  },
+  "L344": {
+    "source": "Man: Have we allowed enough time for questions at the end?",
+    "translation": "我们有没有在最后留出足够的提问时间？"
+  },
+  "L345": {
+    "source": "Woman: This plant looks thirsty, doesn't it?",
+    "translation": "这株植物看起来缺水了，是不是？"
+  },
+  "L346": {
+    "source": "Man: Do you have a version without background music?",
+    "translation": "有没有没有背景音乐的版本？"
+  },
+  "L347": {
+    "source": "Woman: The deadline is tomorrow, not next week.",
+    "translation": "截止日期是明天，而不是下周。"
+  },
+  "L348": {
+    "source": "Man: Could you explain what you mean by a flexible commitment?",
+    "translation": "你能解释一下，你说的“可以灵活调整的参与安排”是什么意思吗？"
+  },
+  "L349": {
+    "source": "Woman: Are you sure that wire isn't still live?",
+    "translation": "你确定那根电线已经不带电了吗？"
+  },
+  "L350": {
+    "source": "Man: I'd like to try it on, but this size looks a little small.",
+    "translation": "我想试穿一下，不过这个尺码看起来有点小。"
+  },
+  "L351": {
+    "source": "Woman: Could we avoid scheduling this during exam week?",
+    "translation": "我们可以避免在考试周安排这个吗？"
+  },
+  "L352": {
+    "source": "Man: We don't have to settle every detail today.",
+    "translation": "我们不必今天就敲定每个细节。"
+  },
+  "L353": {
+    "source": "Woman: Did the repair solve the rattling noise?",
+    "translation": "修过之后，那个咔嗒咔嗒的异响消失了吗？"
+  },
+  "L354": {
+    "source": "Man: Would you mind if I left a few minutes early?",
+    "translation": "你介意我提前几分钟离开吗？"
+  },
+  "L355": {
+    "source": "Woman: There seems to be a page missing between these two.",
+    "translation": "这两页之间好像少了一页。"
+  },
+  "L356": {
+    "source": "Man: Is the fee waived for student volunteers?",
+    "translation": "学生志愿者可以免交这笔费用吗？"
+  },
+  "L357": {
+    "source": "Woman: I'd hate to promise more than we can deliver.",
+    "translation": "我可不想答应太多，结果我们却做不到。"
+  },
+  "L358": {
+    "source": "Man: Could you send just the pages with my comments on them?",
+    "translation": "你能只发送那些有我批注的页面吗？"
+  },
+  "L359": {
+    "source": "Woman: I wasn't criticizing your idea, only the timing.",
+    "translation": "我不是在批评你的想法，只是批评时机。"
+  },
+  "L360": {
+    "source": "Man: Does the museum allow sketching in the galleries?",
+    "translation": "博物馆允许在展厅里写生吗？"
+  },
+  "L361": {
+    "source": "Woman: I think we're getting ahead of ourselves by choosing colors now.",
+    "translation": "我觉得我们现在就选颜色，有点操之过急了。"
+  },
+  "L362": {
+    "source": "Man: Can I borrow your bicycle if I return it by six?",
+    "translation": "如果我六点前归还，可以借用你的自行车吗？"
+  },
+  "L363": {
+    "source": "Woman: Is that conclusion based on observation or someone's guess?",
+    "translation": "这个结论是基于观察还是某人的猜测？"
+  },
+  "L364": {
+    "source": "Man: I'd rather walk than wait here another half hour.",
+    "translation": "我宁愿步行也不愿在这里再等半个小时。"
+  },
+  "L365": {
+    "source": "Woman: Could you lower the blinds just enough to cut the glare?",
+    "translation": "你能把百叶窗放下来一点，刚好挡住刺眼的光就行吗？"
+  },
+  "L366": {
+    "source": "Man: Do these stairs go all the way to the roof garden?",
+    "translation": "这些楼梯一直通到屋顶花园吗？"
+  },
+  "L367": {
+    "source": "Woman: I don't think the sample is representative of the whole class.",
+    "translation": "我认为这个样本不能代表全班。"
+  },
+  "L368": {
+    "source": "Man: Could we test the alarm without startling the visitors?",
+    "translation": "我们能在不吓到参观者的情况下测试警报吗？"
+  },
+  "L369": {
+    "source": "Woman: The handle feels loose again.",
+    "translation": "这个把手摸起来又松了。"
+  },
+  "L370": {
+    "source": "Man: Is there any reason not to publish the names yet?",
+    "translation": "现在还有什么原因让我们暂时不能公布姓名吗？"
+  },
+  "L371": {
+    "source": "Woman: I appreciate the offer, but I've already arranged a ride.",
+    "translation": "谢谢你的好意，不过我已经安排好搭车了。"
+  },
+  "L372": {
+    "source": "Man: Should we number the pages before binding them?",
+    "translation": "装订之前，我们应该先给各页编上页码吗？"
+  },
+  "L373": {
+    "source": "Woman: Could you confirm how many vegetarian meals we need?",
+    "translation": "你能确认一下我们需要多少份素食餐吗？"
+  },
+  "L374": {
+    "source": "Man: The weather's improving; is the outdoor session back on?",
+    "translation": "天气好转；户外活动恢复了吗？"
+  },
+  "L375": {
+    "source": "Woman: I thought the registration fee covered the materials.",
+    "translation": "我以为报名费已经包含材料费了。"
+  },
+  "L376": {
+    "source": "Man: Could you talk me through the first step?",
+    "translation": "你能详细讲一下第一步该怎么做吗？"
+  },
+  "L377": {
+    "source": "Woman: There's no point printing these until the figures are checked.",
+    "translation": "数字还没核对好，现在打印这些没有意义。"
+  },
+  "L378": {
+    "source": "Man: Is the afternoon demonstration a repeat of the morning one?",
+    "translation": "下午的演示是上午的重复吗？"
+  },
+  "L379": {
+    "source": "Woman: Could you put that in writing so I don't forget?",
+    "translation": "你能把它写下来，这样我就不会忘记吗？"
+  },
+  "L380": {
+    "source": "Man: That time estimate seems optimistic for a first attempt.",
+    "translation": "第一次尝试就估计只需这么点时间，似乎太乐观了。"
+  },
+  "L381": {
+    "source": "Woman: May I leave my shoes on, or should I remove them?",
+    "translation": "我可以穿着鞋，还是应该脱鞋？"
+  },
+  "L382": {
+    "source": "Man: Could you distinguish between confirmed bookings and tentative ones?",
+    "translation": "你能把已确认的预订和暂定的预订区分开吗？"
+  },
+  "L383": {
+    "source": "Woman: I think that remark came across more harshly than you intended.",
+    "translation": "我觉得你那句话听起来比你本来想表达的更严厉。"
+  },
+  "L384": {
+    "source": "Man: Will I still be able to access my notes after the course ends?",
+    "translation": "课程结束后我还能查看我的笔记吗？"
+  },
+  "L385": {
+    "source": "Woman: The music is fine; it's the announcements I can't hear.",
+    "translation": "音乐我听得清楚，听不清的是广播通知。"
+  },
+  "L386": {
+    "source": "Man: Could you recommend a seat with an unobstructed view?",
+    "translation": "你能推荐一个视线不被遮挡的座位吗？"
+  },
+  "L387": {
+    "source": "Woman: I can't tell if that's a six or an eight on the form.",
+    "translation": "我无法判断表格上的数字是六还是八。"
+  },
+  "L388": {
+    "source": "Man: Are you saying the whole event is canceled?",
+    "translation": "你是说整个活动都取消了？"
+  },
+  "L389": {
+    "source": "Woman: Could you keep an eye on the oven while I answer the door?",
+    "translation": "我去开门的时候你能帮我照看一下烤箱吗？"
+  },
+  "L390": {
+    "source": "Man: I don't mind the extra work, provided we share it fairly.",
+    "translation": "我不介意多做些工作，前提是大家公平分担。"
+  },
+  "L391": {
+    "source": "Woman: Can we use that recording, or do we need permission first?",
+    "translation": "我们可以使用那个录音吗，还是需要先获得许可？"
+  },
+  "L392": {
+    "source": "Man: I'm not sure this drawer can take any more weight.",
+    "translation": "我不确定这个抽屉还能承受更多的重量。"
+  },
+  "L393": {
+    "source": "Woman: Would you rather meet halfway than come all the way here?",
+    "translation": "你更愿意找个双方路程的中间地点见面，省得一路赶到我这里来吗？"
+  },
+  "L394": {
+    "source": "Man: Could you separate the damaged copies from the usable ones?",
+    "translation": "你能把损坏的那几份和还能用的分开吗？"
+  },
+  "L395": {
+    "source": "Woman: We might be able to squeeze in one more demonstration.",
+    "translation": "我们也许还能挤出时间，再安排一次演示。"
+  },
+  "L396": {
+    "source": "Man: Does the warranty cover accidental damage?",
+    "translation": "保修是否涵盖意外损坏？"
+  },
+  "L397": {
+    "source": "Woman: Could you avoid using flash near the animals?",
+    "translation": "能不能避免在动物附近使用闪光灯？"
+  },
+  "L398": {
+    "source": "Man: I wouldn't describe the change as permanent.",
+    "translation": "我不会将这种变化描述为永久性的。"
+  },
+  "L399": {
+    "source": "Woman: Have you checked whether the clock is fast?",
+    "translation": "你检查过这个钟是不是走快了吗？"
+  },
+  "L400": {
+    "source": "Man: Can I skip the introduction if I've used the equipment before?",
+    "translation": "如果我以前使用过该设备，可以跳过介绍吗？"
+  },
+  "L401": {
+    "source": "Woman: I was hoping you'd have a more definite answer by now.",
+    "translation": "我本来希望，到现在你已经能给出更明确的答复了。"
+  },
+  "L402": {
+    "source": "Man: Should we put the heavier items at the bottom?",
+    "translation": "较重的物品应该放在底部吗？"
+  },
+  "L403": {
+    "source": "Woman: This summary leaves out the reason we changed our plans.",
+    "translation": "此摘要忽略了我们改变计划的原因。"
+  },
+  "L404": {
+    "source": "Man: Could we get a table away from the kitchen door?",
+    "translation": "我们可以找一张远离厨房门的桌子吗？"
+  },
+  "L405": {
+    "source": "Woman: I think we'd better double-check the address before we set off.",
+    "translation": "我想我们出发前最好仔细检查一下地址。"
+  },
+  "L706": {
+    "source": "Man: Where do I leave the completed registration form?",
+    "translation": "填写完毕的注册表应该放在哪里？"
+  },
+  "L707": {
+    "source": "Woman: Could you spell your family name for me?",
+    "translation": "你能帮我拼一下你的姓氏吗？"
+  },
+  "L708": {
+    "source": "Man: What time does the first tour start?",
+    "translation": "第一场参观导览几点开始？"
+  },
+  "L709": {
+    "source": "Woman: Do we take our bags into the gallery or leave them here?",
+    "translation": "我们把包带进画廊还是留在这儿？"
+  },
+  "L710": {
+    "source": "Man: How many copies of the agenda should I print?",
+    "translation": "我应该打印多少份议程？"
+  },
+  "L711": {
+    "source": "Woman: I'm returning the book I borrowed yesterday.",
+    "translation": "我来归还昨天借的书。"
+  },
+  "L712": {
+    "source": "Man: Which bus goes to the science museum?",
+    "translation": "哪路车去科学馆？"
+  },
+  "L713": {
+    "source": "Woman: Could I borrow your ruler for a moment?",
+    "translation": "可以借一下你的尺子吗？"
+  },
+  "L714": {
+    "source": "Man: Do you prefer the window open or closed?",
+    "translation": "您喜欢开窗还是关窗？"
+  },
+  "L715": {
+    "source": "Woman: Where can I pick up my student card?",
+    "translation": "学生证在哪里领取？"
+  },
+  "L716": {
+    "source": "Man: I've brought the cable you asked for.",
+    "translation": "你要的电缆我已经带来了。"
+  },
+  "L717": {
+    "source": "Woman: Should I write my phone number here?",
+    "translation": "我应该在这里写我的电话号码吗？"
+  },
+  "L718": {
+    "source": "Man: How long can I keep this locker key?",
+    "translation": "这把储物柜钥匙可以保留多久？"
+  },
+  "L719": {
+    "source": "Woman: My shoelace came undone just as we reached the stairs.",
+    "translation": "我们刚走到楼梯口，我的鞋带就松开了。"
+  },
+  "L720": {
+    "source": "Man: Are we meeting inside the cafe or outside?",
+    "translation": "我们在咖啡馆里见面还是在外面见面？"
+  },
+  "L721": {
+    "source": "Woman: I think you've given me the wrong change.",
+    "translation": "我觉得你找错钱了。"
+  },
+  "L722": {
+    "source": "Man: Can you tell me where the restroom is?",
+    "translation": "你能告诉我洗手间在哪里吗？"
+  },
+  "L723": {
+    "source": "Woman: Would you like some more soup?",
+    "translation": "还要喝点汤吗？"
+  },
+  "L724": {
+    "source": "Man: When is the assignment due?",
+    "translation": "作业什么时候截止？"
+  },
+  "L725": {
+    "source": "Woman: Have you seen my blue notebook?",
+    "translation": "你看到我的蓝色笔记本了吗？"
+  },
+  "L726": {
+    "source": "Man: Is the application fee included in that amount?",
+    "translation": "这笔金额中包含申请费吗？"
+  },
+  "L727": {
+    "source": "Woman: Who should I give these spare badges to?",
+    "translation": "这些备用胸牌应该交给谁？"
+  },
+  "L728": {
+    "source": "Man: Can we move the table closer to the wall?",
+    "translation": "我们可以把桌子移到离墙近一点的地方吗？"
+  },
+  "L729": {
+    "source": "Woman: What floor is the language center on?",
+    "translation": "语言中心在几楼？"
+  },
+  "L730": {
+    "source": "Man: Did the parcel arrive this morning?",
+    "translation": "包裹今天早上到达了吗？"
+  },
+  "L731": {
+    "source": "Woman: Could you hold the door while I carry this box?",
+    "translation": "我搬这个箱子时，你能帮我扶住门吗？"
+  },
+  "L732": {
+    "source": "Man: Do I need to bring my own towel?",
+    "translation": "毛巾需要自带吗？"
+  },
+  "L733": {
+    "source": "Woman: I'd like to cancel my haircut appointment.",
+    "translation": "我想取消理发预约。"
+  },
+  "L734": {
+    "source": "Man: How often does the shuttle run?",
+    "translation": "班车多久一班？"
+  },
+  "L735": {
+    "source": "Woman: Is it all right if I sit near the front?",
+    "translation": "坐前面可以吗？"
+  },
+  "L736": {
+    "source": "Man: Does this machine take coins?",
+    "translation": "这个机器收硬币吗？"
+  },
+  "L737": {
+    "source": "Woman: I can't find the attachment in your email.",
+    "translation": "我在您的电子邮件中找不到附件。"
+  },
+  "L738": {
+    "source": "Man: Would you mind taking a photo of us?",
+    "translation": "介意给我们拍张照片吗？"
+  },
+  "L739": {
+    "source": "Woman: Which entrance should delivery drivers use?",
+    "translation": "送货司机应该从哪个入口进入？"
+  },
+  "L740": {
+    "source": "Man: The screen is too dark for me to read.",
+    "translation": "屏幕太暗，无法阅读。"
+  },
+  "L741": {
+    "source": "Woman: Can I pay for the parking here?",
+    "translation": "我可以在这里交停车费吗？"
+  },
+  "L742": {
+    "source": "Man: What should I bring to the painting class?",
+    "translation": "去绘画课要带什么？"
+  },
+  "L743": {
+    "source": "Woman: Thank you for helping me carry the suitcase.",
+    "translation": "谢谢你帮我提行李箱。"
+  },
+  "L744": {
+    "source": "Man: Can I have the receipt, please?",
+    "translation": "请问可以给我收据吗？"
+  },
+  "L745": {
+    "source": "Woman: Is the next train an express?",
+    "translation": "下一趟车是快车吗？"
+  },
+  "L746": {
+    "source": "Man: Could you show me how to save this file?",
+    "translation": "你能告诉我如何保存这个文件吗？"
+  },
+  "L747": {
+    "source": "Woman: Is there a vegetarian option on the lunch menu?",
+    "translation": "午餐菜单有素食吗？"
+  },
+  "L748": {
+    "source": "Man: Are these headphones yours?",
+    "translation": "这些耳机是你的吗？"
+  },
+  "L749": {
+    "source": "Woman: Where should visitors sign in?",
+    "translation": "访客应该在哪里签到？"
+  },
+  "L750": {
+    "source": "Man: Can you help me zip up this coat?",
+    "translation": "你能帮我拉上这件外套的拉链吗？"
+  },
+  "L751": {
+    "source": "Woman: How much is the student ticket?",
+    "translation": "学生票多少钱？"
+  },
+  "L752": {
+    "source": "Man: I've finished sorting the name tags.",
+    "translation": "我已经把姓名牌整理好了。"
+  },
+  "L753": {
+    "source": "Woman: Do you want the original document or a copy?",
+    "translation": "您想要原件还是复印件？"
+  },
+  "L754": {
+    "source": "Man: Is the shop open on Sundays?",
+    "translation": "店周日开门吗？"
+  },
+  "L755": {
+    "source": "Woman: Would you hold this page open while I copy the recipe?",
+    "translation": "我抄菜谱的时候，你能帮我按住这一页，让它别合上吗？"
+  },
+  "L756": {
+    "source": "Man: Where can I charge my laptop?",
+    "translation": "哪里可以给笔记本电脑充电？"
+  },
+  "L757": {
+    "source": "Woman: Do we need tickets for the garden tour?",
+    "translation": "游园需要门票吗？"
+  },
+  "L758": {
+    "source": "Man: Sorry, I didn't catch the room number.",
+    "translation": "抱歉，我没听清房间号。"
+  },
+  "L759": {
+    "source": "Woman: Which jacket did you leave in the hall?",
+    "translation": "你把哪件外套留在大厅了？"
+  },
+  "L760": {
+    "source": "Man: May I see your membership card?",
+    "translation": "我可以看一下您的会员卡吗？"
+  },
+  "L761": {
+    "source": "Woman: What day is the neighborhood market held?",
+    "translation": "邻里集市哪一天举行？"
+  },
+  "L762": {
+    "source": "Man: Could you put these cups on the top shelf?",
+    "translation": "你能把这些杯子放在最上面的架子上吗？"
+  },
+  "L763": {
+    "source": "Woman: Have we got enough chairs for everyone?",
+    "translation": "我们有足够的椅子供大家使用吗？"
+  },
+  "L764": {
+    "source": "Man: I'd like a glass of water without ice.",
+    "translation": "我想要一杯不加冰的水。"
+  },
+  "L765": {
+    "source": "Woman: What does this red light mean?",
+    "translation": "这个红灯是什么意思？"
+  },
+  "L766": {
+    "source": "Man: Do I return the tray to the counter?",
+    "translation": "托盘要退回柜台吗？"
+  },
+  "L767": {
+    "source": "Woman: Could we have two separate bills?",
+    "translation": "我们可以分开结账吗？"
+  },
+  "L768": {
+    "source": "Man: Where is the nearest recycling bin?",
+    "translation": "最近的回收垃圾桶在哪里？"
+  },
+  "L769": {
+    "source": "Woman: I accidentally picked up your notebook instead of mine.",
+    "translation": "我不小心拿错了笔记本，拿成你的了。"
+  },
+  "L770": {
+    "source": "Man: When will the replacement part be ready to collect?",
+    "translation": "更换零件什么时候可以领取？"
+  },
+  "L771": {
+    "source": "Woman: Can I use the elevator to reach the roof garden?",
+    "translation": "可以乘电梯到达屋顶花园吗？"
+  },
+  "L772": {
+    "source": "Man: Would you like the window seat?",
+    "translation": "您想要靠窗的座位吗？"
+  },
+  "L773": {
+    "source": "Woman: Which side of this postcard should I put the address on?",
+    "translation": "地址应该写在明信片的哪一面？"
+  },
+  "L774": {
+    "source": "Man: Are we supposed to write on both sides of the paper?",
+    "translation": "纸的两面都要写吗？"
+  },
+  "L775": {
+    "source": "Woman: Who is leading the workshop today?",
+    "translation": "今天的研讨会由谁主持？"
+  },
+  "L776": {
+    "source": "Man: This pen has run out of ink.",
+    "translation": "这支笔的墨水已用完。"
+  },
+  "L777": {
+    "source": "Woman: Do you have this shirt in a larger size?",
+    "translation": "这件衬衫有大号的吗？"
+  },
+  "L778": {
+    "source": "Man: May I take one of these brochures?",
+    "translation": "我可以拿一本这些小册子吗？"
+  },
+  "L779": {
+    "source": "Woman: Why is the library closing early today?",
+    "translation": "今天图书馆怎么关门这么早？"
+  },
+  "L780": {
+    "source": "Man: Could I change my order from tea to coffee?",
+    "translation": "我可以把点的茶改成咖啡吗？"
+  },
+  "L781": {
+    "source": "Woman: Which of these folders contains the travel receipts?",
+    "translation": "这些文件夹里，哪个装着旅行的收据？"
+  },
+  "L782": {
+    "source": "Man: Do you know if the lecture is being recorded?",
+    "translation": "你知道这场讲座有没有录下来吗？"
+  },
+  "L783": {
+    "source": "Woman: Please remember to switch off the desk lamp.",
+    "translation": "请记得关掉台灯。"
+  },
+  "L784": {
+    "source": "Man: Are there any spaces left in the evening class?",
+    "translation": "晚上的课程还有名额吗？"
+  },
+  "L785": {
+    "source": "Woman: How do I connect to the guest network?",
+    "translation": "如何连接访客网络？"
+  },
+  "L786": {
+    "source": "Man: Is the entrance fee the same for children?",
+    "translation": "儿童的门票也是这个价格吗？"
+  },
+  "L787": {
+    "source": "Woman: Can you pass me the salt, please?",
+    "translation": "麻烦你把盐递给我，好吗？"
+  },
+  "L788": {
+    "source": "Man: When does your lunch break finish?",
+    "translation": "你午休什么时候结束？"
+  },
+  "L789": {
+    "source": "Woman: The zipper on my bag is stuck halfway.",
+    "translation": "我包上的拉链拉到一半卡住了。"
+  },
+  "L790": {
+    "source": "Man: Should I remove my shoes before entering?",
+    "translation": "进去之前需要脱鞋吗？"
+  },
+  "L791": {
+    "source": "Woman: I was going to cycle home, but look at those clouds.",
+    "translation": "我本来打算骑自行车回家，但看看那些云。"
+  },
+  "L792": {
+    "source": "Man: The report is due tomorrow, and I still haven't received your figures.",
+    "translation": "报告明天就要交了，可我还没有收到你的数据。"
+  },
+  "L793": {
+    "source": "Woman: Would it be possible to move my appointment back an hour?",
+    "translation": "可以将我的预约推迟一小时吗？"
+  },
+  "L794": {
+    "source": "Man: I thought we were supposed to bring our laptops.",
+    "translation": "我以为我们应该带笔记本电脑。"
+  },
+  "L795": {
+    "source": "Woman: We can ask for an extension, but I'd rather see how much we finish today.",
+    "translation": "我们可以申请延期，不过我想先看看今天能完成多少。"
+  },
+  "L796": {
+    "source": "Man: I can cover your shift on Friday if you'll take mine on Sunday.",
+    "translation": "如果你周日接我的班，我可以在周五替你值班。"
+  },
+  "L797": {
+    "source": "Woman: Would you rather revise the introduction or work on the charts?",
+    "translation": "你想修改引言部分，还是处理图表？"
+  },
+  "L798": {
+    "source": "Man: That room may be free, but it doesn't have a projector.",
+    "translation": "那个房间可能空着，但里面没有投影仪。"
+  },
+  "L799": {
+    "source": "Woman: Could you look over my abstract before I submit it?",
+    "translation": "在我提交之前你能看一下我的摘要吗？"
+  },
+  "L800": {
+    "source": "Man: The cafe's full. Shall we try somewhere else?",
+    "translation": "咖啡馆已满。我们要不要去别的地方试试？"
+  },
+  "L801": {
+    "source": "Woman: You don't happen to have a spare marker, do you?",
+    "translation": "你碰巧有备用的记号笔吗？"
+  },
+  "L802": {
+    "source": "Man: I'm afraid the deadline slipped my mind.",
+    "translation": "恐怕我忘记了截止日期。"
+  },
+  "L803": {
+    "source": "Woman: Can we split the cost of the taxi three ways?",
+    "translation": "我们三个人可以平摊出租车费吗？"
+  },
+  "L804": {
+    "source": "Man: I'd rather wait for the printed program than read it on my phone.",
+    "translation": "我宁愿等纸质节目单，也不想在手机上看。"
+  },
+  "L805": {
+    "source": "Woman: We can reserve the equipment now, but only for next week.",
+    "translation": "我们现在可以预订设备，但只能预订下周。"
+  },
+  "L806": {
+    "source": "Man: I was hoping the store would exchange this without a receipt.",
+    "translation": "我本来希望，即使没有收据，商店也能给我换货。"
+  },
+  "L807": {
+    "source": "Woman: The handout says room twelve, but the email says twenty.",
+    "translation": "讲义上写着十二号房间，但电子邮件上写着二十号房间。"
+  },
+  "L808": {
+    "source": "Man: Do you mind if I use your notes to catch up?",
+    "translation": "我可以借你的笔记补上落下的内容吗？"
+  },
+  "L809": {
+    "source": "Woman: Let's leave a little earlier so we don't have to rush.",
+    "translation": "我们早点出发吧，这样我们就不用着急了。"
+  },
+  "L810": {
+    "source": "Man: I'm not sure this paragraph belongs in the conclusion.",
+    "translation": "我不确定这一段适不适合放在结论部分。"
+  },
+  "L811": {
+    "source": "Woman: If the rain holds off, we could have lunch outside.",
+    "translation": "如果暂时不下雨，我们就可以在外面吃午饭。"
+  },
+  "L812": {
+    "source": "Man: Would you be able to take minutes at the meeting?",
+    "translation": "您能在会议上做会议记录吗？"
+  },
+  "L813": {
+    "source": "Woman: The printer works, but we're nearly out of paper.",
+    "translation": "打印机可以工作，但纸张快用完了。"
+  },
+  "L814": {
+    "source": "Man: Could you give me a rough idea of the cost?",
+    "translation": "你能大致说说需要多少钱吗？"
+  },
+  "L815": {
+    "source": "Woman: I won't be able to make the first session.",
+    "translation": "我无法参加第一节课。"
+  },
+  "L816": {
+    "source": "Man: The map makes the walk look shorter than it is.",
+    "translation": "地图让这段步行路程看起来比实际短。"
+  },
+  "L817": {
+    "source": "Woman: Can you keep an eye on my bag while I buy a ticket?",
+    "translation": "我买票的时候你能帮我看一下我的包吗？"
+  },
+  "L818": {
+    "source": "Man: I'd prefer to discuss the feedback in person.",
+    "translation": "我更想当面讨论这些反馈意见。"
+  },
+  "L819": {
+    "source": "Woman: We've got twice as many volunteers as we expected.",
+    "translation": "我们的志愿者数量是我们预期的两倍。"
+  },
+  "L820": {
+    "source": "Man: Is it worth taking the bus for such a short distance?",
+    "translation": "这么短的距离值得坐公交车吗？"
+  },
+  "L821": {
+    "source": "Woman: I don't want to leave the repairs until the last minute.",
+    "translation": "我不想把修理拖到最后一刻。"
+  },
+  "L822": {
+    "source": "Man: The room booking is confirmed, but we still need someone to unlock it.",
+    "translation": "房间预订已经确认了，不过我们还需要找人来开门。"
+  },
+  "L823": {
+    "source": "Woman: We'd better check the measurements before ordering the curtains.",
+    "translation": "订购窗帘之前我们最好检查一下尺寸。"
+  },
+  "L824": {
+    "source": "Man: I can proofread the text, but someone else will have to check the statistics.",
+    "translation": "我可以校对文字，但统计数据得由别人来核查。"
+  },
+  "L825": {
+    "source": "Woman: Could we postpone the vote until everyone has read the proposal?",
+    "translation": "我们可以推迟投票，直到每个人都读完提案吗？"
+  },
+  "L826": {
+    "source": "Man: I was under the impression that parking was free.",
+    "translation": "印象中停车是免费的。"
+  },
+  "L827": {
+    "source": "Woman: I've nearly finished the slides; I just need the final photo.",
+    "translation": "我快完成幻灯片了；我只需要最后一张照片。"
+  },
+  "L828": {
+    "source": "Man: Shall we compare our notes before we choose a topic?",
+    "translation": "我们要先对比一下笔记再选题吗？"
+  },
+  "L829": {
+    "source": "Woman: I'm happy to help with the exhibition, provided it isn't on Thursday.",
+    "translation": "我很乐意为展览提供帮助，只要不是周四。"
+  },
+  "L830": {
+    "source": "Man: We may need a larger room if all the guests accept.",
+    "translation": "如果所有受邀的客人都答应来，我们可能需要更大的房间。"
+  },
+  "L831": {
+    "source": "Woman: I wonder whether there's a cheaper way to get there.",
+    "translation": "我想知道是否有更便宜的方式到达那里。"
+  },
+  "L832": {
+    "source": "Man: The article is interesting, though it's a bit beyond the scope of our project.",
+    "translation": "这篇文章很有趣，尽管它有点超出了我们项目的范围。"
+  },
+  "L833": {
+    "source": "Woman: Would it help if I picked up the supplies on my way?",
+    "translation": "我顺路去把物资取来，能帮上忙吗？"
+  },
+  "L834": {
+    "source": "Man: I haven't heard back about my room booking.",
+    "translation": "我还没有收到有关我预订房间的消息。"
+  },
+  "L835": {
+    "source": "Woman: Let's not rule out the smaller venue just yet.",
+    "translation": "我们先别急着排除那个较小的场地。"
+  },
+  "L836": {
+    "source": "Man: I'm supposed to hand in a draft, not the finished essay, right?",
+    "translation": "我应该交的是草稿，而不是完成的论文，对吧？"
+  },
+  "L837": {
+    "source": "Woman: The cafe can fit us in at six, but not at seven.",
+    "translation": "咖啡馆六点能给我们安排座位，七点就不行了。"
+  },
+  "L838": {
+    "source": "Man: Can you make sure the guests know about the new entrance?",
+    "translation": "你能确保客人知道新入口吗？"
+  },
+  "L839": {
+    "source": "Woman: I don't mind sharing a room as long as it's quiet.",
+    "translation": "我不介意共用一个房间，只要安静即可。"
+  },
+  "L840": {
+    "source": "Man: The website says we need to book ahead, even for free events.",
+    "translation": "网站说我们需要提前预订，即使是免费活动。"
+  },
+  "L841": {
+    "source": "Woman: Could you check whether this source is up to date?",
+    "translation": "你能检查一下这份资料是不是最新的吗？"
+  },
+  "L842": {
+    "source": "Man: I've already paid the deposit; this bill seems to include it again.",
+    "translation": "我已经付过订金了，这张账单好像又把它算了一遍。"
+  },
+  "L843": {
+    "source": "Woman: We should leave enough time for questions after the talk.",
+    "translation": "演讲结束后我们应该留出足够的时间提问。"
+  },
+  "L844": {
+    "source": "Man: I'm still getting used to the new filing system.",
+    "translation": "我还在适应新的归档系统。"
+  },
+  "L845": {
+    "source": "Woman: There's a chance the field trip will be moved indoors.",
+    "translation": "实地考察有可能转移到室内。"
+  },
+  "L846": {
+    "source": "Man: I can send you the slides, but the photos belong to the guest speaker.",
+    "translation": "我可以给你发幻灯片，但照片属于演讲嘉宾。"
+  },
+  "L847": {
+    "source": "Woman: Would you mind moving your bag so I can get past?",
+    "translation": "你介意搬一下你的包让我过去吗？"
+  },
+  "L848": {
+    "source": "Man: The application asks for a reference from someone who has supervised my work.",
+    "translation": "申请要求提供一位指导过我工作的人的推荐意见。"
+  },
+  "L849": {
+    "source": "Woman: Let's double-check the address before sending the package.",
+    "translation": "在寄包裹之前我们先检查一下地址。"
+  },
+  "L850": {
+    "source": "Man: I'd like to join, but I can't commit to every weekend.",
+    "translation": "我想加入，但我不能保证每个周末都参加。"
+  },
+  "L851": {
+    "source": "Woman: The gallery has extended the deadline by a week.",
+    "translation": "画廊已将截止日期延长一周。"
+  },
+  "L852": {
+    "source": "Man: I'd like to try the software before paying for a subscription.",
+    "translation": "我想在付费订阅之前试用该软件。"
+  },
+  "L853": {
+    "source": "Woman: We can use the kitchen as long as we clean it afterward.",
+    "translation": "只要事后清理干净，我们就可以使用厨房。"
+  },
+  "L854": {
+    "source": "Man: I can't tell which version of the document is the latest.",
+    "translation": "我无法判断文档的哪个版本是最新的。"
+  },
+  "L855": {
+    "source": "Woman: Could you give me a hand setting up the display before the doors open?",
+    "translation": "开门迎客之前，你能帮我布置展览吗？"
+  },
+  "L856": {
+    "source": "Man: I'd rather not give my presentation first.",
+    "translation": "我不想先做演讲。"
+  },
+  "L857": {
+    "source": "Woman: The fee covers materials, but we have to bring our own lunch.",
+    "translation": "费用包括材料，但午餐得我们自己带。"
+  },
+  "L858": {
+    "source": "Man: I don't think the whole team needs to attend the briefing.",
+    "translation": "我觉得不需要整个团队都去参加简报会。"
+  },
+  "L859": {
+    "source": "Woman: Would you have time to explain the feedback after class?",
+    "translation": "课后你有时间解释反馈吗？"
+  },
+  "L860": {
+    "source": "Man: The new route saves time, although it means changing trains once.",
+    "translation": "新路线能节省时间，不过需要换一次火车。"
+  },
+  "L861": {
+    "source": "Woman: Could you send the document as a PDF rather than a photo?",
+    "translation": "您可以将文档以 PDF 格式而不是照片形式发送吗？"
+  },
+  "L862": {
+    "source": "Man: We should check whether permission is needed before recording the interview.",
+    "translation": "在录制采访之前，我们应该检查是否需要许可。"
+  },
+  "L863": {
+    "source": "Woman: I'd like to see a sample before we order the whole batch.",
+    "translation": "在我们订购整批产品之前，我想看一下样品。"
+  },
+  "L864": {
+    "source": "Man: The workshop is open to beginners, but places are limited.",
+    "translation": "工作坊对初学者开放，但名额有限。"
+  },
+  "L865": {
+    "source": "Woman: I can only stay for the first update, but I'd like to hear about my project.",
+    "translation": "我只能留下来听第一项进展汇报，但我想听到自己项目的进展。"
+  },
+  "L866": {
+    "source": "Man: I was expecting a confirmation, not another payment request.",
+    "translation": "我本来以为会收到确认信息，没想到又收到一份付款要求。"
+  },
+  "L867": {
+    "source": "Woman: Shall we test the sound before the audience arrives?",
+    "translation": "我们要在观众到来之前测试一下声音吗？"
+  },
+  "L868": {
+    "source": "Man: There's still room in the van, if you need a ride.",
+    "translation": "面包车里还有空间，如果您需要搭车的话。"
+  },
+  "L869": {
+    "source": "Woman: I'm not very familiar with this side of campus.",
+    "translation": "我对校园这边不太熟悉。"
+  },
+  "L870": {
+    "source": "Man: The course description says no prior experience is required.",
+    "translation": "课程描述说不需要任何经验。"
+  },
+  "L871": {
+    "source": "Woman: Could you keep the receipt in case we need to return it?",
+    "translation": "您可以保留收据以备我们需要退货吗？"
+  },
+  "L872": {
+    "source": "Man: I like the design, but the text is hard to read from a distance.",
+    "translation": "我喜欢这个设计，但是从远处看文字很难看清。"
+  },
+  "L873": {
+    "source": "Woman: Would Friday work for you, or should we find another day?",
+    "translation": "星期五适合你吗，还是我们应该改天？"
+  },
+  "L874": {
+    "source": "Man: I can return the camera tomorrow, unless you need it tonight.",
+    "translation": "我明天可以还相机，除非你今晚需要它。"
+  },
+  "L875": {
+    "source": "Woman: The staff discount doesn't apply to items already on sale.",
+    "translation": "员工折扣不适用于已经打折的商品。"
+  },
+  "L876": {
+    "source": "Man: I wouldn't call the proposal finished just because the budget balances.",
+    "translation": "我不会仅仅因为预算收支平衡，就认为这份方案已经完成了。"
+  },
+  "L877": {
+    "source": "Woman: I'd be happy to chair the meeting, assuming someone else takes the notes.",
+    "translation": "只要有人负责做记录，我很愿意主持会议。"
+  },
+  "L878": {
+    "source": "Man: It's not that the room is too small; it's the lack of daylight that bothers me.",
+    "translation": "我介意的不是房间太小，而是自然光不足。"
+  },
+  "L879": {
+    "source": "Woman: If only we'd checked the opening hours before coming all this way.",
+    "translation": "要是我们千里迢迢过来之前查一下营业时间就好了。"
+  },
+  "L880": {
+    "source": "Man: I've approved the purchase, but that doesn't mean the money will be available today.",
+    "translation": "我已批准购买，但这并不意味着今天就能拿到钱。"
+  },
+  "L881": {
+    "source": "Woman: The figures are encouraging, provided we don't mistake a busy opening week for steady demand.",
+    "translation": "这些数字令人鼓舞，但前提是我们不能把开业第一周的热闹当成持续稳定的需求。"
+  },
+  "L882": {
+    "source": "Man: I don't object to sharing the data; I'd just like to know who will have access.",
+    "translation": "我不反对分享数据；我只是想知道谁可以访问。"
+  },
+  "L883": {
+    "source": "Woman: I'd sooner shorten the discussion than cut the questions from the audience altogether.",
+    "translation": "我宁愿缩短讨论，也不愿完全取消观众的提问。"
+  },
+  "L884": {
+    "source": "Man: Had the supplier mentioned the extra charge earlier, we might have chosen differently.",
+    "translation": "如果供应商早点提到额外费用，我们可能会有不同的选择。"
+  },
+  "L885": {
+    "source": "Woman: The application was accepted for review; it hasn't been approved yet.",
+    "translation": "申请已受理审核；尚未获得批准。"
+  },
+  "L886": {
+    "source": "Man: I'd rather you told me the deadline was unrealistic than promised it and missed it.",
+    "translation": "我宁愿你告诉我这个截止时间不现实，也不希望你先答应却没能按时完成。"
+  },
+  "L887": {
+    "source": "Woman: I wouldn't count on an empty seat just because there's no charge for the lecture.",
+    "translation": "我不会因为讲座免费就指望有空座位。"
+  },
+  "L888": {
+    "source": "Man: The earlier train is faster, but I'd hate to miss the last workshop to catch it.",
+    "translation": "早一点的那班火车更快，但我不想为了赶它而错过最后一场工作坊。"
+  },
+  "L889": {
+    "source": "Woman: I'm willing to lend the display, on the understanding that it stays indoors.",
+    "translation": "我愿意把展品借出去，前提是说好它必须一直放在室内。"
+  },
+  "L890": {
+    "source": "Man: I could rewrite the whole introduction, though I'm not convinced that's where the problem lies.",
+    "translation": "我可以重写整个引言，不过我还不确定问题就出在那里。"
+  },
+  "L891": {
+    "source": "Woman: The discount makes sense only if we'd have bought the larger quantity anyway.",
+    "translation": "只有我们本来就打算买那么多，享受这个折扣才划算。"
+  },
+  "L892": {
+    "source": "Man: I won't ask you to stay late, but I do need to know what will remain unfinished.",
+    "translation": "我不会要求你加班，但我确实需要知道哪些事情还没做完。"
+  },
+  "L893": {
+    "source": "Woman: So much for our quiet study room. The choir's booked the room next door again, and I can already hear them warming up.",
+    "translation": "这下别指望安静的自习室了。合唱团又订了隔壁的房间，我已经听见他们在练声了。"
+  },
+  "L894": {
+    "source": "Man: The room is available in principle, but security still has to authorize evening access.",
+    "translation": "这个房间原则上可以用，但晚上进入还需要安保部门批准。"
+  },
+  "L895": {
+    "source": "Woman: I'd be more comfortable quoting that number if we knew how it had been calculated.",
+    "translation": "如果知道那个数字是怎么算出来的，我引用它时会更放心。"
+  },
+  "L896": {
+    "source": "Man: We're allowed to book two rooms, but I don't see why we should if one will do.",
+    "translation": "我们虽然可以订两个房间，但一个就够用的话，我不明白为什么要订两个。"
+  },
+  "L897": {
+    "source": "Woman: I didn't say the speaker was unavailable, only that we hadn't heard back.",
+    "translation": "我没说演讲嘉宾没空，只是说我们还没收到回复。"
+  },
+  "L898": {
+    "source": "Man: I can make the morning slot work, but only by moving another appointment.",
+    "translation": "上午那个时段我可以腾出来，但必须先调整另一项预约。"
+  },
+  "L899": {
+    "source": "Woman: It isn't the amount of feedback that's bothering me; it's that the comments point in opposite directions.",
+    "translation": "困扰我的不是反馈太多，而是这些意见相互矛盾。"
+  },
+  "L900": {
+    "source": "Man: I'd rather leave that claim out than support it with a source we haven't checked.",
+    "translation": "我宁愿忽略这一说法，也不愿用我们尚未检查过的来源来支持它。"
+  },
+  "L901": {
+    "source": "Woman: The refund is approved, though it may not appear on your statement until next week.",
+    "translation": "退款已获批准，但可能要到下周才会出现在您的对账单上。"
+  },
+  "L902": {
+    "source": "Man: I wouldn't say no to some help with the packing.",
+    "translation": "要是有人帮我打包，我当然愿意。"
+  },
+  "L903": {
+    "source": "Woman: The timetable leaves no margin for delays between sessions.",
+    "translation": "这份时间表在各场活动之间没有留出应对延误的余地。"
+  },
+  "L904": {
+    "source": "Man: I can see why the cheaper option appeals, but replacing it sooner could cost us more.",
+    "translation": "我明白便宜的那个选项为什么有吸引力，不过如果它更快就需要更换，反而可能更费钱。"
+  },
+  "L905": {
+    "source": "Woman: If we're going to invite questions, we need to be prepared to change the plan.",
+    "translation": "如果我们要请大家提问，就得做好修改计划的准备。"
+  },
+  "L906": {
+    "source": "Man: I haven't ruled it out; I just don't want to promise before checking my schedule.",
+    "translation": "我没有排除这种可能性；我只是不想在检查我的日程安排之前做出承诺。"
+  },
+  "L907": {
+    "source": "Woman: The pilot went well, but running it for the entire campus is another matter.",
+    "translation": "试点进展顺利，但在整个校园运行则是另一回事。"
+  },
+  "L908": {
+    "source": "Man: I'd be inclined to accept, were it not for the clash with my lab session.",
+    "translation": "要不是和我的实验课时间冲突，我会倾向于接受。"
+  },
+  "L909": {
+    "source": "Woman: Thanks for offering to bring all the food, but I'd hate for you to spend the whole morning cooking. A salad would be plenty.",
+    "translation": "谢谢你主动带来所有的食物，但我不想让你花整个早上做饭。一份沙拉就足够了。"
+  },
+  "L910": {
+    "source": "Man: I'm not asking for a perfect estimate, just one that explains its assumptions.",
+    "translation": "我不要求估算十全十美，只需要说清楚估算是基于哪些假设。"
+  },
+  "L911": {
+    "source": "Woman: We can reuse the display boards, provided the old labels come off cleanly.",
+    "translation": "只要旧标签能清除干净，这些展板就可以重复使用。"
+  },
+  "L912": {
+    "source": "Man: I appreciate the offer, but accepting it would leave the evening shift uncovered.",
+    "translation": "谢谢你的提议，不过如果接受，晚班就没人上了。"
+  },
+  "L913": {
+    "source": "Woman: If these figures include only in-store purchases, we shouldn't describe them as total sales.",
+    "translation": "如果这些数字只统计了店内购买，就不应该把它们叫作总销售额。"
+  },
+  "L914": {
+    "source": "Man: I could be persuaded, but not by another summary of benefits we've already discussed.",
+    "translation": "我不是不能被说服，但光是再总结一遍我们已经讨论过的好处，还说服不了我。"
+  },
+  "L915": {
+    "source": "Woman: The venue will hold the date for us, though that isn't the same as a confirmed booking.",
+    "translation": "场地方会替我们暂留那个日期，但这不等于预订已经确认。"
+  },
+  "L916": {
+    "source": "Man: I'd rather report a smaller improvement we can defend than a dramatic one we can't.",
+    "translation": "我宁愿报告一个有依据的小幅改善，也不愿声称出现了无法证实的巨大改善。"
+  },
+  "L917": {
+    "source": "Woman: It would be a shame to redesign everything when the problem may just be the instructions.",
+    "translation": "问题可能只是说明不清楚，如果就因此把一切重新设计，未免太可惜了。"
+  },
+  "L918": {
+    "source": "Man: I can accept a delay if it improves accuracy, but not if we're simply waiting for a nicer cover.",
+    "translation": "如果延迟可以提高准确性，我可以接受延迟，但如果我们只是在等待更好的封面，则不能接受。"
+  },
+  "L919": {
+    "source": "Woman: There's a difference between having access to the archive and being allowed to reproduce its contents.",
+    "translation": "能够查阅档案，和获准复制档案内容，是两回事。"
+  },
+  "L920": {
+    "source": "Man: We're still discussing it, and I wouldn't want our silence to be taken as agreement.",
+    "translation": "我们还在讨论这个问题，我不希望我们的沉默被视为同意。"
+  },
+  "L921": {
+    "source": "Woman: The extra space would be useful, but not at the expense of the accessible entrance.",
+    "translation": "额外的空间会很有用，但不能以牺牲无障碍入口为代价。"
+  },
+  "L922": {
+    "source": "Man: I'd be wary of comparing the two surveys unless they asked the same question.",
+    "translation": "除非两项调查问的是同一个问题，否则我会谨慎对待把它们放在一起比较。"
+  },
+  "L923": {
+    "source": "Woman: I don't need everyone to agree with me; I need to know where the plan might fail.",
+    "translation": "我不需要人人都赞同我，我需要知道这个计划哪里可能出问题。"
+  },
+  "L924": {
+    "source": "Man: The trial is free, but it converts to a paid plan unless we cancel.",
+    "translation": "试用是免费的，但除非我们取消，否则它会转换为付费计划。"
+  },
+  "L925": {
+    "source": "Woman: I'd rather have one person own the task than everyone assume someone else is doing it.",
+    "translation": "我宁愿让一个人负责这项任务，也不愿每个人都假设其他人正在做这件事。"
+  },
+  "L926": {
+    "source": "Man: We shouldn't confuse a lack of complaints with proof that the service works well.",
+    "translation": "没人投诉，并不能证明服务做得好，我们不该混为一谈。"
+  },
+  "L927": {
+    "source": "Woman: The editor is asking for a shorter piece, not for us to remove the qualifications from the claim.",
+    "translation": "编辑要求一篇较短的文章，而不是要求我们删除声明中的限定条件。"
+  },
+  "L928": {
+    "source": "Man: I'm prepared to be flexible about the date, but the location has to be reachable by public transport.",
+    "translation": "日期我可以灵活调整，但地点必须能乘公共交通到达。"
+  },
+  "L929": {
+    "source": "Woman: If we're changing the procedure, we owe people more than a link to a long document.",
+    "translation": "如果要改变流程，我们应该向大家提供更充分的说明，而不只是发一个长文档的链接。"
+  },
+  "L930": {
+    "source": "Man: The estimate assumes all the equipment arrives on time; that's the part I'm less sure about.",
+    "translation": "这个估算假定所有设备都能按时到达，而这正是我不太有把握的地方。"
+  },
+  "L931": {
+    "source": "Woman: I can live with a temporary workaround, as long as it doesn't become the permanent arrangement.",
+    "translation": "我可以接受临时解决方法，只要它不成为永久安排。"
+  },
+  "L932": {
+    "source": "Man: I thought the invitation was to observe the session, not to lead it.",
+    "translation": "我以为邀请我是去旁听那场活动，不是去主持。"
+  },
+  "L933": {
+    "source": "Woman: We may be able to finish by Friday, but I'd hesitate to guarantee it until the test results are in.",
+    "translation": "我们也许可以在周五之前完成，但在测试结果出来之前我不敢保证。"
+  },
+  "L934": {
+    "source": "Man: The collection is open for research, but that doesn't make every item suitable for public display.",
+    "translation": "该藏品开放供研究，但这并不意味着每件物品都适合公开展示。"
+  },
+  "L935": {
+    "source": "Woman: I don't mind reconsidering the decision if there's new evidence; I just don't want to repeat the same debate.",
+    "translation": "如果有新的证据，我不介意重新考虑这个决定；我只是不想重复同样的争论。"
+  },
+  "L936": {
+    "source": "Man: We shouldn't advertise a daily service until we know we can staff it every day.",
+    "translation": "只有确定每天都能安排到人手，我们才能宣传这项服务每天都有。"
+  },
+  "L937": {
+    "source": "Woman: I'd be cautious about calling that a saving if the maintenance costs haven't been included.",
+    "translation": "如果还没把维护费用算进去，我可不敢轻易说这样省了钱。"
+  },
+  "L938": {
+    "source": "Man: The instructions say we may use notes, not that we have to read from them.",
+    "translation": "要求里说我们可以用笔记，可没说必须照着笔记念。"
+  },
+  "L939": {
+    "source": "Woman: If we can only afford one improvement, I'd put reliability ahead of extra features.",
+    "translation": "如果资金只够做一项改进，我会优先提高可靠性，而不是增加功能。"
+  },
+  "L940": {
+    "source": "Man: I wouldn't interpret the short reply as a lack of interest; she may simply be busy.",
+    "translation": "我不会将简短的回复解释为缺乏兴趣；她可能只是很忙。"
+  },
+  "L941": {
+    "source": "Woman: The organizer asked for our preference, which isn't quite the same as offering us a choice.",
+    "translation": "组织者只是问我们更喜欢什么，这并不完全等于让我们自己选。"
+  },
+  "L942": {
+    "source": "Man: I'm happy for you to quote me, provided you include the sentence that comes after it.",
+    "translation": "你可以引用我的话，但要把紧接着的那句话也引进去。"
+  },
+  "L943": {
+    "source": "Woman: I can see the attraction of a single deadline, but some teams depend on work from the others.",
+    "translation": "我理解统一截止日期的好处，不过有些团队得先等其他团队的工作完成才能继续。"
+  },
+  "L944": {
+    "source": "Man: If I say yes to one more committee, I might as well move my bed into the office.",
+    "translation": "我要是再答应参加一个委员会，干脆把床搬到办公室算了。"
+  },
+  "L945": {
+    "source": "Woman: I'd accept the extra travel time if it meant we could all attend, but not merely for a nicer view.",
+    "translation": "如果多花点路上时间能让大家都参加，我可以接受；可如果只是为了景色更好，那就算了。"
+  },
+  "L946": {
+    "source": "Man: We can announce the speaker's name once the agreement is signed, but I'd hold off until then.",
+    "translation": "协议签好后，我们就能公布演讲嘉宾的名字；在那之前，我建议先别公布。"
+  },
+  "L947": {
+    "source": "Woman: The smaller sample isn't automatically invalid; it just gives us less confidence in broad conclusions.",
+    "translation": "样本少并不意味着它一定无效，只是我们据此作出广泛结论时，把握会小一些。"
+  },
+  "L948": {
+    "source": "Man: I'd rather delay the launch than have people discover that the advertised feature isn't ready.",
+    "translation": "我宁愿推迟发布，也不愿让人们发现广告中的功能尚未准备好。"
+  },
+  "L949": {
+    "source": "Woman: I'm not opposed to the change, but being consulted after it's decided feels a little pointless.",
+    "translation": "我并不反对这个改变，但是决定之后再征求意见，感觉有点没有意义。"
+  },
+  "L950": {
+    "source": "Man: We should distinguish between a date the supplier hopes for and one they've committed to.",
+    "translation": "我们应该区分供应商希望的日期和他们承诺的日期。"
+  },
+  "L951": {
+    "source": "Woman: The form lets us request an exception; it doesn't guarantee we'll get one.",
+    "translation": "这张表格允许我们申请破例处理，但不保证一定获批。"
+  },
+  "L952": {
+    "source": "Man: I'd rather know now that we need a smaller event than find out after we've sold the tickets.",
+    "translation": "我宁愿现在就知道我们需要举办一场规模较小的活动，而不是在售票后才知道。"
+  },
+  "L953": {
+    "source": "Woman: The article's age doesn't necessarily make it irrelevant, especially if we're tracing how the idea developed.",
+    "translation": "文章写得早，不一定就和我们的研究无关，尤其是当我们在追溯这个想法的发展过程时。"
+  },
+  "L954": {
+    "source": "Man: I'm comfortable with the price; it's the cancellation terms I'd like clarified.",
+    "translation": "价格我可以接受，我想弄清楚的是取消预订的条款。"
+  },
+  "L955": {
+    "source": "Woman: If the trial group volunteered, we should be careful about assuming everyone would respond the same way.",
+    "translation": "如果试用者都是自愿报名的，我们就不能轻易假定其他所有人也会有同样的反应。"
+  },
+  "L956": {
+    "source": "Man: I don't need a longer explanation; I need one that tells people what to do differently.",
+    "translation": "我不需要更长的解释，我需要的是能告诉大家具体该怎么改的解释。"
+  },
+  "L957": {
+    "source": "Woman: The deadline can move, but we shouldn't let that become a reason not to make progress this week.",
+    "translation": "截止日期可以改变，但我们不应该让它成为本周不取得进展的理由。"
+  },
+  "L958": {
+    "source": "Man: I'd be more willing to extend the trial if we agreed beforehand what would count as success.",
+    "translation": "如果事先说好达到什么标准才算成功，我会更愿意延长试用。"
+  },
+  "L959": {
+    "source": "Woman: The reservation is in my name, but that doesn't mean I'm covering everyone's meal.",
+    "translation": "预订是在我的名下，但这并不意味着我承担每个人的餐费。"
+  },
+  "L960": {
+    "source": "Man: I could support the proposal with a smaller initial commitment and a review after the first month.",
+    "translation": "如果一开始的投入小一些，并在第一个月结束后重新评估，我可以支持这个方案。"
+  }
+}

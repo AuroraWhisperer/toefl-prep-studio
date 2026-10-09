@@ -59,7 +59,7 @@ def test_resource_categories_are_separate():
         'writing',
         'speaking',
     ]
-    assert sum(p['question_count'] for p in resources['practice']) == 5745
+    assert sum(p['question_count'] for p in resources['practice']) == 6045
     assert all(p['question_count'] == 97 for p in resources['mock'])
 
 
@@ -392,7 +392,7 @@ def test_original_practice_does_not_copy_mock_content():
     from scripts.audit_mock_isolation import audit
 
     report = audit()
-    assert sum(report['practice_counts'].values()) == 5745
+    assert sum(report['practice_counts'].values()) == 6045
     assert report['paper_count'] == 5
     assert report['matches'] == []
 

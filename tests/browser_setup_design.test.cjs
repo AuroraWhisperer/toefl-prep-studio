@@ -73,7 +73,7 @@ test('task choices show bank totals separately from the selected round quantity'
   for (const [section, task, count, totals] of [
     ['reading', 'complete_words', 2, ['270 篇', '180 篇', '60 篇']],
     ['listening', 'listen_choose_response', 16, ['510 题', '150 组', '120 组', '90 组']],
-    ['writing', 'build_sentence', 20, ['150 题', '150 题', '150 题']],
+    ['writing', 'build_sentence', 20, ['450 题', '150 题', '150 题']],
     ['speaking', 'listen_repeat', 3, ['45 组', '45 组']],
   ]) {
     await openSettings(page, section, task, count);

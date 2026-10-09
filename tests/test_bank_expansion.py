@@ -33,12 +33,13 @@ SOURCES = ROOT / 'question_bank/sources/expansion_2026_09'
 
 def test_each_practice_task_has_its_current_expansion_factor():
     store = QuestionStore()
-    assert store.manifest()['total_questions'] == 5745
+    assert store.manifest()['total_questions'] == 6045
     for section, tasks in BASE_COUNTS.items():
         questions = store.questions_for(section, 'bank')
         factor = 9 if section == 'speaking' else 6 if section in {'reading', 'listening'} else 3
         expected = {
-            task: count * (18 if task == 'complete_words' else factor)
+            task: count
+            * (18 if task == 'complete_words' else 9 if task == 'build_sentence' else factor)
             for task, count in tasks.items()
         }
         assert Counter(q['task_type'] for q in questions) == expected
@@ -155,11 +156,11 @@ def test_full_bank_submission_limit_supports_the_expanded_bank_and_remains_bound
     request = ExamSubmitRequest(
         mode='bank', question_ids=ids, responses=[{'question_id': qid} for qid in ids]
     )
-    assert len(request.responses) == len(request.question_ids) == 5745
+    assert len(request.responses) == len(request.question_ids) == 6045
     with pytest.raises(ValidationError):
-        ExamSubmitRequest(mode='bank', responses=[{'question_id': 'R01'}] * 5746)
+        ExamSubmitRequest(mode='bank', responses=[{'question_id': 'R01'}] * 6046)
     with pytest.raises(ValidationError):
-        ExamSubmitRequest(mode='bank', question_ids=['R01'] * 5746)
+        ExamSubmitRequest(mode='bank', question_ids=['R01'] * 6046)
 
 
 @pytest.mark.parametrize(

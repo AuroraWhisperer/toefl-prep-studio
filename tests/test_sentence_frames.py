@@ -31,7 +31,7 @@ def can_assemble(question, sentence):
 def test_all_reviewed_sentence_frames_are_solvable():
     store = QuestionStore()
     questions = store.questions_for('writing', 'bank', 'build_sentence')
-    assert len(questions) == 150
+    assert len(questions) == 450
     for q in questions:
         assert q['instruction'] == 'Make an appropriate sentence.'
         assert 'Arrange every word' not in q['prompt']

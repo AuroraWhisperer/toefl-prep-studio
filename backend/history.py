@@ -362,6 +362,7 @@ def detail(category: Category, record_id: UUID):
         'passage_translations': store.passage_translations(
             record['questions'], record['result']['feedback']
         ),
+        'audio_translations': store.audio_translations(record['questions']),
         'recordings': {
             question_id: f'/api/v1/history/{category}/{record_id}/recordings/{question_id}'
             for question_id in record['recordings']

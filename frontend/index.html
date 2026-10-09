@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="/frontend/styles.css" />
     <link rel="stylesheet" href="/frontend/landing.css" />
     <link rel="stylesheet" href="/frontend/exam-guide.css" />
+    <link rel="stylesheet" href="/frontend/foundations.css" />
     <link rel="stylesheet" href="/frontend/practice.css" />
     <link rel="stylesheet" href="/frontend/practice-setup.css" />
     <link rel="stylesheet" href="/frontend/practice-review.css" />
@@ -40,22 +41,38 @@
               <p class="brand-caption">托福练习工作台</p>
             </div>
           </div>
-          <button id="open-exam-guide" class="text-button guide-entry" type="button">
-            <svg
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="1.6"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              aria-hidden="true"
-            >
-              <path
-                d="M4 4h6a3 3 0 0 1 3 3v14a4 4 0 0 0-4-3H4V4Zm16 0h-4a3 3 0 0 0-3 3v14a4 4 0 0 1 4-3h3V4Z"
-              />
-            </svg>
-            2026 新托福指南
-          </button>
+          <nav class="learning-links" aria-label="学习帮助">
+            <button id="open-foundations" class="text-button guide-entry" type="button">
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.6"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                aria-hidden="true"
+              >
+                <path d="M4 4h16v16H4zM8 8h8M8 12h8M8 16h4" />
+              </svg>
+              语法与搭配
+            </button>
+            <button id="open-exam-guide" class="text-button guide-entry" type="button">
+              <svg
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="1.6"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                aria-hidden="true"
+              >
+                <path
+                  d="M4 4h6a3 3 0 0 1 3 3v14a4 4 0 0 0-4-3H4V4Zm16 0h-4a3 3 0 0 0-3 3v14a4 4 0 0 1 4-3h3V4Z"
+                />
+              </svg>
+              2026 新托福指南
+            </button>
+          </nav>
         </header>
         <div class="training-board">
           <div id="section-grid" class="section-grid" aria-live="polite"></div>
@@ -151,11 +168,97 @@
         </section>
       </section>
 
+      <section
+        id="foundations-view"
+        class="foundations-view"
+        hidden
+        aria-labelledby="foundations-title"
+      >
+        <header class="guide-heading">
+          <button id="foundations-home" class="text-button home-button return-button" type="button">
+            <svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.8"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              aria-hidden="true"
+            >
+              <path d="m10 5-7 7 7 7M3 12h18" />
+            </svg>
+            返回练习首页
+          </button>
+          <h1 id="foundations-title" tabindex="-1">语法与搭配</h1>
+        </header>
+        <p class="foundations-intro">
+          围绕托福补词、组句、阅读听力和口语写作，整理常用语法、固定搭配与易混表达。按主题查阅，结合中文解析和双语例句掌握用法。
+        </p>
+        <div class="foundations-layout">
+          <nav id="foundations-chapters" class="foundations-chapters" aria-label="知识分类"></nav>
+          <div class="foundations-content">
+            <div class="foundations-search">
+              <label for="foundations-query">查找知识点</label>
+              <input
+                id="foundations-query"
+                type="search"
+                placeholder="输入考点、场景或搭配，如：间接问句、延期、account for"
+                aria-describedby="foundations-search-hint"
+                autocomplete="off"
+              />
+              <p id="foundations-search-hint">
+                搜索当前分类中的用法、例句与易错点；选择“全部内容”可查全库。
+              </p>
+            </div>
+            <div class="foundations-results-heading">
+              <div>
+                <h2 id="foundations-category-title">全部内容</h2>
+                <p id="foundations-count" role="status" aria-live="polite" aria-atomic="true"></p>
+              </div>
+              <button id="foundations-reset" class="text-button" type="button" hidden>
+                重置筛选
+              </button>
+            </div>
+            <p id="foundations-category-description" class="foundations-description">
+              组句可先看从句与非谓语；补词重点查固定结构；阅读听力关注因果与限定范围；表达练习可查邮件、访谈和学术话题。点击任一知识点展开。
+            </p>
+            <div id="foundations-topics"></div>
+            <div id="foundations-empty" class="foundations-empty" hidden>
+              <h3>暂时没有匹配的知识点</h3>
+              <p>试试更短的词，如“介词”或“申请”，或重置筛选后查找全部内容。</p>
+            </div>
+            <footer class="foundations-sources">
+              <p>
+                按 ETS 现行题型与公开样题选取适合托福学习的用法；讲解与例句均为本地自编。
+                不代表官方考点清单或出题频次排名。搭配须结合语境理解。
+              </p>
+              <nav aria-label="语法参考资料">
+                <a
+                  href="https://www.ets.org/content/dam/ets-org/pdfs/toefl/toefl-ibt-test-specifications-2026.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >ETS 2026 题型说明</a
+                >
+                <a
+                  href="https://www.ets.org/content/dam/ets-org/pdfs/toefl/toefl-ibt-teachers-resources-practice-test-1.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >ETS 公开样题</a
+                >
+                <a
+                  href="https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/verbs-prepositions"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  >动词搭配参考</a
+                >
+              </nav>
+            </footer>
+          </div>
+        </div>
+      </section>
+
       <section id="exam-guide" class="guide-view" hidden aria-labelledby="guide-title">
         <header class="guide-heading">
-          <div>
-            <h1 id="guide-title" tabindex="-1">2026 新托福指南</h1>
-          </div>
           <button id="guide-home" class="text-button home-button return-button" type="button">
             <svg
               viewBox="0 0 24 24"
@@ -170,6 +273,9 @@
             </svg>
             返回练习首页
           </button>
+          <div>
+            <h1 id="guide-title" tabindex="-1">2026 新托福指南</h1>
+          </div>
         </header>
 
         <div class="guide-intro">
@@ -206,7 +312,9 @@
                   <tr>
                     <th scope="row">
                       补全单词
-                      <p>根据上下文补全单词缺少的字母。</p>
+                      <p>
+                        给你一段短文，有些单词只写了开头，后面留着空。你要根据前后文，把缺少的字母填进去。
+                      </p>
                     </th>
                     <td><strong>参考 3 篇</strong><small>每篇 10 个空，共 30 个空。</small></td>
                     <td>
@@ -216,7 +324,9 @@
                   <tr>
                     <th scope="row">
                       日常阅读
-                      <p>阅读邮件、通知等，回答相关问题。</p>
+                      <p>
+                        读一封邮件、一则通知或其他生活中的短文，再做选择题。会问这段话是做什么用的、具体说了什么，或有话没直说但能推出来。
+                      </p>
                     </th>
                     <td>
                       <strong>总篇数未固定</strong
@@ -229,7 +339,9 @@
                   <tr>
                     <th scope="row">
                       学术阅读
-                      <p>阅读短文，回答主旨、细节和推断题。</p>
+                      <p>
+                        读一篇介绍知识的短文，再做选择题。会问文章主要讲什么、某个词是什么意思、能推出什么，或一句话该放在哪里。答题所需的信息都在文章里，不用事先懂这个专业。
+                      </p>
                     </th>
                     <td>
                       <strong>参考 1–3 篇</strong
@@ -268,7 +380,9 @@
                   <tr>
                     <th scope="row">
                       听句选回应
-                      <p>听一句话或一个问题，选择合适的回应。</p>
+                      <p>
+                        听一句问话或陈述，再从屏幕上的四个选项里，选出最适合接话的一句。不用自己开口回答。
+                      </p>
                     </th>
                     <td><strong>参考 15–19 句</strong><small>每句 1 题。</small></td>
                     <td>
@@ -280,7 +394,9 @@
                   <tr>
                     <th scope="row">
                       对话理解
-                      <p>听两人对话，回答意图、细节等问题。</p>
+                      <p>
+                        先听两个人的一段对话，再做选择题。会问他们在谈什么、遇到了什么问题、某句话是什么意思，或接下来打算做什么。
+                      </p>
                     </th>
                     <td><strong>参考 5 段对话</strong><small>每段 2 题，共 10 题。</small></td>
                     <td>
@@ -292,7 +408,9 @@
                   <tr>
                     <th scope="row">
                       通知理解
-                      <p>听校园通知，回答安排、变化等问题。</p>
+                      <p>
+                        先听一段简短通知，再做选择题。会问通知的目的、时间地点、安排有什么变化，或听到通知的人接下来要做什么。
+                      </p>
                     </th>
                     <td>
                       <strong>参考 3–5 段通知</strong><small>每段 2 题，全科 6–10 题。</small>
@@ -306,7 +424,9 @@
                   <tr>
                     <th scope="row">
                       学术讲座
-                      <p>听短讲座，回答主题、例子等问题。</p>
+                      <p>
+                        先听一段介绍知识的讲解，再做选择题。会问主要讲了什么、某个细节是什么、为什么提到某个例子，或几件事之间有什么联系。不用事先懂这个专业。
+                      </p>
                     </th>
                     <td>
                       <strong>参考 2–4 段讲座</strong><small>每段 4 题，全科 8–16 题。</small>
@@ -344,7 +464,12 @@
                   <tr>
                     <th scope="row">
                       组句
-                      <p>把词块排成完整句子，可能有多余词块。</p>
+                      <p>
+                        上面先给你一句对话，下面是几个空和打乱的单词或词组。你要把它们排好，拼出接得上这句话的回应或问句。
+                      </p>
+                      <p>
+                        每空放一个词块，一个词块可能有好几个单词。题目已经填好的文字不能改，有的词块用不上。
+                      </p>
                     </th>
                     <td>
                       <strong>共 10 道句子题</strong>
@@ -356,7 +481,9 @@
                   <tr>
                     <th scope="row">
                       写邮件
-                      <p>按指定情境写信，回应题目要求。</p>
+                      <p>
+                        题目会告诉你发生了什么、要给谁发邮件，并列出几件需要写进去的事。你要打字写一封邮件，把这些事都说清楚，语气要适合收件人。
+                      </p>
                     </th>
                     <td><strong>写 1 封邮件</strong></td>
                     <td>
@@ -366,9 +493,13 @@
                   <tr>
                     <th scope="row">
                       学术讨论
-                      <p>参与课堂讨论，表达观点并说明理由。</p>
+                      <p>
+                        先看教授的问题和两位学生的回复，再写一段自己的看法。你可以赞同、反对或补充他们的意见，但要用自己的话说明理由，不能只重复别人说过的内容。
+                      </p>
                     </th>
-                    <td><strong>写 1 篇讨论回应</strong></td>
+                    <td>
+                      <strong>写 1 篇讨论回应</strong><small>官方提示：有效回应至少 100 词。</small>
+                    </td>
                     <td>
                       <strong data-guide-budget="writing.academic_discussion">每篇 10 分钟</strong>
                     </td>
@@ -402,7 +533,9 @@
                   <tr>
                     <th scope="row">
                       听后复述
-                      <p>听一句、原样复述一句，句子逐渐变长。</p>
+                      <p>
+                        听一句，就马上对着麦克风把这句话原样说一遍。每句只复述一次，没有单独的准备时间；后面的句子会更长、更复杂。
+                      </p>
                     </th>
                     <td><strong>共 7 句，逐句复述</strong><small>每句录音限时 8–12 秒。</small></td>
                     <td>
@@ -412,7 +545,9 @@
                   <tr>
                     <th scope="row">
                       模拟访谈
-                      <p>围绕同一话题，讲述经历、表达观点。</p>
+                      <p>
+                        听面试官围绕同一个话题提问，比如你的经历、偏好或看法。每听完一问就录音回答，没有单独的准备时间；要把想法和理由说清楚。
+                      </p>
                     </th>
                     <td><strong>共 4 问，逐题回答</strong><small>每问最多说 45 秒。</small></td>
                     <td>
@@ -428,8 +563,9 @@
 
         <footer class="guide-sources">
           <p>
-            来源：ETS 官方资料 · 核查于
-            <time datetime="2026-10-05">2026-10-05</time>。各科时间不含考试说明。
+            来源：ETS 官方资料 · 题量与计时核查于
+            <time datetime="2026-10-05">2026-10-05</time>，题型说明补充于
+            <time datetime="2026-10-07">2026-10-07</time>。各科时间不含考试说明。
           </p>
           <nav aria-label="指南官方来源">
             <a
@@ -705,6 +841,8 @@
 
     <script src="/frontend/audio-cache.js" defer></script>
     <script src="/frontend/view-navigation.js" defer></script>
+    <script src="/frontend/foundations-data.js" defer></script>
+    <script src="/frontend/foundations.js" defer></script>
     <script src="/frontend/practice-sentence.js" defer></script>
     <script src="/frontend/practice-materials.js" defer></script>
     <script src="/frontend/practice-review.js" defer></script>

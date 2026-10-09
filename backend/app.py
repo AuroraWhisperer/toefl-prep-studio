@@ -50,7 +50,7 @@ class FrontendFiles(StaticFiles):
         )
 
 
-app = FastAPI(title="TOEFL iBT 2026 Practice API", version="1.3.0")
+app = FastAPI(title="TOEFL iBT 2026 Practice API", version="1.4.0")
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["http://127.0.0.1:38761", "http://localhost:38761"],
@@ -68,6 +68,7 @@ app.include_router(test_router)
 
 @app.get("/", include_in_schema=False)
 @app.get("/guide", include_in_schema=False)
+@app.get("/foundations", include_in_schema=False)
 @app.get("/practice/{section}", include_in_schema=False)
 @app.get("/practice/{section}/run/{run_id}", include_in_schema=False)
 @app.get("/exam/{section}/{run_id}", include_in_schema=False)

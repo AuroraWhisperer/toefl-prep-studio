@@ -22,7 +22,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问学生下午走哪个入口。“courtyard entrance”是庭院入口。\n解析：通知明确让学生一点至五点走庭院入口，前门要到明早才重开。主楼接待处是送货地点，不能把送货路线当学生入口；材料也没有安排从后门运设备或让学生走后门。\n下次：听到临时改道，先确认通知在说学生还是送货人员，再把各自的入口和时间配上；最后检查所选地点是否真的在通知中指定。"
+        "explanation": "读懂：这题问下午应走哪个入口。“courtyard entrance”是庭院入口。\n解析：选“庭院入口”：一点至五点前门刷漆，学生改从庭院进。不选“主楼送货入口”：送货仍去接待台，不是学生替代入口；不选“设备配送后门”：公告未指定；不选“刚刷漆的前门”：明早才重开。\n下次：听到临时改道，先确认通知在说学生还是送货人员，再把各自的入口和时间配上；最后检查所选地点是否真的在通知中指定。"
       },
       "review": {
         "difficulty": "easy",
@@ -32,9 +32,9 @@
         "vocabulary": [
           "courtyard entrance"
         ],
-        "rationale": "完整复核 L1111–L1112：学生下午走庭院并持原门禁卡，送货仍到主楼接待处；前门明早重开。用地点与人员混淆替代不合理的窗户选项。",
-        "answer_evidence": "use the courtyard entrance between one and five",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“庭院入口”：一点至五点前门刷漆，学生改从庭院进。不选“主楼送货入口”：送货仍去接待台，不是学生替代入口；不选“设备配送后门”：公告未指定；不选“刚刷漆的前门”：明早才重开。",
+        "answer_evidence": "Please use the courtyard entrance between one and five.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -57,7 +57,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问入门要带什么。“usual access card”是平时用的门禁卡。\n解析：旧门禁卡仍能开庭院入口，不必领金属钥匙。门口施工没有增加施工许可或送货收据的要求。\n下次：听到入口变了，再单独检查凭证有没有变；不要把地点变化理解成所有手续都要重办。"
+        "explanation": "读懂：这题问进去要带什么。“usual access card”是平时用的门禁卡。\n解析：选“平时的门禁卡”：它也能开庭院入口，不需新凭据。不选“新金属钥匙”：公告明确不用领；不选“刷漆许可表”：无此要求；不选“送货收据”：这是学生进工作室，不是交付物品。\n下次：听到入口变了，再单独检查凭证有没有变；不要把地点变化理解成所有手续都要重办。"
       },
       "review": {
         "difficulty": "easy",
@@ -67,9 +67,9 @@
         "vocabulary": [
           "usual access card"
         ],
-        "rationale": "调为简单：usual access card 原词出现在正项中，是原文直给的随身物品。",
-        "answer_evidence": "Your usual access card works there",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“平时的门禁卡”：它也能开庭院入口，不需新凭据。不选“新金属钥匙”：公告明确不用领；不选“刷漆许可表”：无此要求；不选“送货收据”：这是学生进工作室，不是交付物品。",
+        "answer_evidence": "Your usual access card works there, so you don't need to collect a key.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -92,7 +92,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：这题问预约维修时为什么先发照片。“suitable skills”是适合修这种物品的技能。\n解析：照片帮助安排会处理这类问题的志愿者。人仍要带物品来检查；照片不保证能修好，也不是为物品刊登售卖广告。\n下次：听到提前交照片或资料，找它帮工作人员做哪一步；安排到合适的人，不等于结果已经确定。"
+        "explanation": "读懂：这题问申请时为何发物品照片。“suitable skills”是适合修这种物品的技能。\n解析：选“便于匹配合适技能的志愿者”：先了解物品和损坏类型，再安排检查。不选“提前保证修好”：仍要现场看；不选“给物品做出售广告”：服务是维修；不选“不用把物品带来”：预约时仍须带实物及散落零件。\n下次：听到提前交照片或资料，找它帮工作人员做哪一步；安排到合适的人，不等于结果已经确定。"
       },
       "review": {
         "difficulty": "easy",
@@ -102,9 +102,9 @@
         "vocabulary": [
           "match you with a volunteer"
         ],
-        "rationale": "调为简单：照片帮助匹配具备相应技能的志愿者，目的直接说明，不含维修诊断任务。",
-        "answer_evidence": "match you with a volunteer who has suitable skills",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“便于匹配合适技能的志愿者”：先了解物品和损坏类型，再安排检查。不选“提前保证修好”：仍要现场看；不选“给物品做出售广告”：服务是维修；不选“不用把物品带来”：预约时仍须带实物及散落零件。",
+        "answer_evidence": "This helps us match you with a volunteer who has suitable skills.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -127,7 +127,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问确认预约意味着什么。“doesn't guarantee”是不保证；确认时间不保证一定修得好。\n解析：志愿者还要看实物，才能判断能否维修。照片没揭示所有问题，也没有承诺免费更换全部零件；电动工具反而要求留在家。\n下次：听到“已确认”，先问确认的是见面安排还是维修结果，再保留尚未检查才能决定的部分。"
+        "explanation": "读懂：这题问确认预约意味着什么。“doesn't guarantee”是不保证；确认时间不保证一定修得好。\n解析：选“安排检查时间，不保证一定可修”：能否维修须检查后判断。不选“照片已揭露全部问题”：未必足够；不选“可带任何电动设备”：自己的电动工具应留家；不选“所有坏件免费换”：没有这样的保证。\n下次：听到“已确认”，先问确认的是见面安排还是维修结果，再保留尚未检查才能决定的部分。"
       },
       "review": {
         "difficulty": "medium",
@@ -137,9 +137,9 @@
         "vocabulary": [
           "doesn't guarantee"
         ],
-        "rationale": "志愿者还要看实物，才能判断能否维修。照片没揭示所有问题，也没有承诺免费更换全部零件；电动工具反而要求留在家。 本轮补清题目所问和可执行的判断步骤。 关系已在材料明说，难度按实际加工要求调整。",
-        "answer_evidence": "doesn't guarantee that the item can be repaired",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“安排检查时间，不保证一定可修”：能否维修须检查后判断。不选“照片已揭露全部问题”：未必足够；不选“可带任何电动设备”：自己的电动工具应留家；不选“所有坏件免费换”：没有这样的保证。",
+        "answer_evidence": "A confirmed appointment doesn't guarantee that the item can be repaired; the volunteer must examine it first.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -162,7 +162,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问主厅满员后，其他观众到哪里看。“Room Twelve”是十二号房间，里面放实时转播。\n解析：额外观众现在可以去走廊对面的十二室；不是到问答结束才开放，也没有让人留在门外或去主持人办公室。\n下次：听到原场地已满，接着找给后来者安排的房间，再检查它何时开放。"
+        "explanation": "读懂：这题问主厅满了后去哪里看讲座。“Room Twelve”是十二号房间，里面放实时转播。\n解析：选“走廊对面的十二室”：那里有现场转播供额外访客看。不选“问答后才开的房间”：转播在讲座进行时开放；不选“主门外站着”：有明确室内溢出场地；不选“主持人办公室”：不是转播地点。\n下次：听到原场地已满，接着找给后来者安排的房间，再检查它何时开放。"
       },
       "review": {
         "difficulty": "easy",
@@ -172,9 +172,9 @@
         "vocabulary": [
           "Room Twelve"
         ],
-        "rationale": "额外观众现在可以去走廊对面的十二室；不是到问答结束才开放，也没有让人留在门外或去主持人办公室。 本轮补清题目所问和可执行的判断步骤。",
-        "answer_evidence": "Room Twelve across the corridor",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“走廊对面的十二室”：那里有现场转播供额外访客看。不选“问答后才开的房间”：转播在讲座进行时开放；不选“主门外站着”：有明确室内溢出场地；不选“主持人办公室”：不是转播地点。",
+        "answer_evidence": "Additional visitors may watch a live feed in Room Twelve across the corridor.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -197,7 +197,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问隔壁房间的观众怎样提问。“submitted on paper”是把问题写在纸上交出。\n解析：志愿者会把纸条送给主持人，所以仍可参与提问。无须挤进满员主厅，也不是打电话中断直播或等散场才问。\n下次：听到不能直接面对讲者，找谁负责传递问题，再核对问题要用纸条、口头还是其他方式提交。"
+        "explanation": "读懂：这题问十二室观众怎样提问。“submitted on paper”是把问题写在纸上交出。\n解析：选“写纸上交志愿者带给主持人”：可在演讲过程中递交。不选“不管容量挤进主厅”：主厅已满；不选“打电话打断直播”：未开放这渠道；不选“两间都关后才问”：要在活动中递交，结束后已关闭。\n下次：听到不能直接面对讲者，找谁负责传递问题，再核对问题要用纸条、口头还是其他方式提交。"
       },
       "review": {
         "difficulty": "easy",
@@ -207,9 +207,9 @@
         "vocabulary": [
           "submitted on paper"
         ],
-        "rationale": "调为简单：写纸条交志愿者是直接提问渠道，无需推断满员后的额外权限。",
-        "answer_evidence": "submitted on paper during the talk",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“写纸上交志愿者带给主持人”：可在演讲过程中递交。不选“不管容量挤进主厅”：主厅已满；不选“打电话打断直播”：未开放这渠道；不选“两间都关后才问”：要在活动中递交，结束后已关闭。",
+        "answer_evidence": "Questions from that room can be submitted on paper during the talk, and a volunteer will carry them to the moderator.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -232,7 +232,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问公告主要说明什么。“at their usual times”是仍在平时的时间，改的是活动地点。\n解析：跑道周一至周三维修，社团转入体育馆并调整活动。并非统一改时间、永久关闭全部设施或招工。\n下次：听到设施关闭，连着记关闭多久、谁受影响、去哪里继续；用这几项概括主旨。"
+        "explanation": "读懂：这题问公告主要通知什么。“at their usual times”是仍在平时的时间，改的是活动地点。\n解析：选“跑道暂时关闭以及社团替代场地”：周一至三修路，原时段改在体育馆活动。不选“所有社团改时间”：时间不变；不选“招人修室内馆”：修的是室外跑道；不选“所有体育设施永久关”：体育馆按正常时间开放。\n下次：听到设施关闭，连着记关闭多久、谁受影响、去哪里继续；用这几项概括主旨。"
       },
       "review": {
         "difficulty": "medium",
@@ -242,9 +242,9 @@
         "vocabulary": [
           "meet inside the gym at their usual times"
         ],
-        "rationale": "跑道周一至周三维修，社团转入体育馆并调整活动。并非统一改时间、永久关闭全部设施或招工。 本轮补清题目所问和可执行的判断步骤。",
-        "answer_evidence": "Club sessions normally held there will meet inside the gym at their usual times",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“跑道暂时关闭以及社团替代场地”：周一至三修路，原时段改在体育馆活动。不选“所有社团改时间”：时间不变；不选“招人修室内馆”：修的是室外跑道；不选“所有体育设施永久关”：体育馆按正常时间开放。",
+        "answer_evidence": "Club sessions normally held there will meet inside the gym at their usual times.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -267,7 +267,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：这题问为什么没看见工人也不能跑。“the new surface needs time before use”是新铺的表面还要等一段时间才能用。\n解析：施工的人离开，不等于表面已经能承受使用。教练在不在不是条件，也没让跑者去试湿地面；体育馆正用来接待转来的社团。\n下次：听到 even if（即使），先保留在这种情况下仍有效的规则，再找它背后的原因。"
+        "explanation": "读懂：这题问没工人时为何也不能上跑道。“the new surface needs time before use”是新铺的表面还要等一段时间才能用。\n解析：选“新表面仍需等待才能使用”：人员离开不代表材料已经可踩。不选“只有教练在才关”：无此例外；不选“体育馆完全容不下社团”：社团正转入那里；不选“工人等大家测湿地”：公告要求别试用。\n下次：听到 even if（即使），先保留在这种情况下仍有效的规则，再找它背后的原因。"
       },
       "review": {
         "difficulty": "medium",
@@ -277,9 +277,9 @@
         "vocabulary": [
           "even if no workers are visible"
         ],
-        "rationale": "施工的人离开，不等于表面已经能承受使用。教练在不在不是条件，也没让跑者去试湿地面；体育馆正用来接待转来的社团。 本轮补清题目所问和可执行的判断步骤。 关系已在材料明说，难度按实际加工要求调整。",
-        "answer_evidence": "the new surface needs time before use",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“新表面仍需等待才能使用”：人员离开不代表材料已经可踩。不选“只有教练在才关”：无此例外；不选“体育馆完全容不下社团”：社团正转入那里；不选“工人等大家测湿地”：公告要求别试用。",
+        "answer_evidence": "Please don't use the track even if no workers are visible; the new surface needs time before use.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -302,7 +302,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问投票评价哪一点。“stronger argument”是更有说服力的论证。\n解析：要看证据以及怎样回应反对意见。自己是否赞同政策、队员是否熟悉、发言是否更长，都不能替代对论证的评价。\n下次：听到评选标准，先记正在评表现还是评立场，再核对选项是不是换了评价对象。"
+        "explanation": "读懂：这题问投票应评什么。“stronger argument”是更有说服力的论证。\n解析：选“哪队论证更强”：看证据及回应反驳，不单看自己赞不赞成政策。不选“哪队熟人多”：与论证质量无关；不选“结束语谁最长”：长度不是标准；不选“只按个人政策立场”：正是公告提醒避开的判断。\n下次：听到评选标准，先记正在评表现还是评立场，再核对选项是不是换了评价对象。"
       },
       "review": {
         "difficulty": "medium",
@@ -312,9 +312,9 @@
         "vocabulary": [
           "stronger argument"
         ],
-        "rationale": "要看证据以及怎样回应反对意见。自己是否赞同政策、队员是否熟悉、发言是否更长，都不能替代对论证的评价。 本轮补清题目所问和可执行的判断步骤。",
-        "answer_evidence": "which team presented the stronger argument",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“哪队论证更强”：看证据及回应反驳，不单看自己赞不赞成政策。不选“哪队熟人多”：与论证质量无关；不选“结束语谁最长”：长度不是标准；不选“只按个人政策立场”：正是公告提醒避开的判断。",
+        "answer_evidence": "Before you vote, please remember that tonight's ballot asks which team presented the stronger argument.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -337,7 +337,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问什么时候公布结果。“after all slips have been counted”是全部选票统计完之后。\n解析：公布取决于计票完成，不取决于结束讲话或某队离场。大家还没投票时更不可能得出完整结果。\n下次：听到 after 后面是一项工作，就等那项工作完成；不要用旁边另一场活动的结束时间代替。"
+        "explanation": "读懂：这题问何时公布结果。“after all slips have been counted”是全部选票统计完之后。\n解析：选“所有票数清点完之后”：不会在结束语期间抢先宣布。不选“不管清点进度结束语时就报”：忽略核票；不选“第一队离开时”：离场不是触发条件；不选“投票入箱前”：尚未收齐，不能出结果。\n下次：听到清点全部票之后公布→先检查清点是否完成→不要用结束语结束或队伍离场代替这个条件。"
       },
       "review": {
         "difficulty": "easy",
@@ -347,9 +347,9 @@
         "vocabulary": [
           "after all slips have been counted"
         ],
-        "rationale": "公布取决于计票完成，不取决于结束讲话或某队离场。大家还没投票时更不可能得出完整结果。 本轮补清题目所问和可执行的判断步骤。",
-        "answer_evidence": "after all slips have been counted",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“所有票数清点完之后”：不会在结束语期间抢先宣布。不选“不管清点进度结束语时就报”：忽略核票；不选“第一队离开时”：离场不是触发条件；不选“投票入箱前”：尚未收齐，不能出结果。",
+        "answer_evidence": "We'll announce the result after all slips have been counted, rather than during the closing remarks.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -372,7 +372,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：这题问冰箱标签上写什么。“date you plan to remove it”是计划取走食物的日期。\n解析：要求姓名和取走日期，不是放入日期或制作日期；电话号码也不能代替姓名。清理时看的是计划取走日期是否已过。\n下次：听到标签要写日期，马上确认是制作、放入还是取走那天，再连同物主信息核对。"
+        "explanation": "读懂：这题问冰箱标签应写什么。“date you plan to remove it”是计划取走食物的日期。\n解析：选“主人姓名和计划取走日期”：周五按取走期限判断是否清理。不选“姓名和制作日”：制作日不是本规则所需日期；不选“姓名和放入日”：入柜日也不能替代计划取走日；不选“电话和取走日”：漏了明确要求的姓名。\n下次：听到标签要写日期，马上确认是制作、放入还是取走那天，再连同物主信息核对。"
       },
       "review": {
         "difficulty": "easy",
@@ -382,9 +382,9 @@
         "vocabulary": [
           "date you plan to remove it"
         ],
-        "rationale": "要求姓名和取走日期，不是放入日期或制作日期；电话号码也不能代替姓名。清理时看的是计划取走日期是否已过。 本轮补清题目所问和可执行的判断步骤。 干扰项改为本情境内的实际误读。",
-        "answer_evidence": "your name and the date you plan to remove it",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“主人姓名和计划取走日期”：周五按取走期限判断是否清理。不选“姓名和制作日”：制作日不是本规则所需日期；不选“姓名和放入日”：入柜日也不能替代计划取走日；不选“电话和取走日”：漏了明确要求的姓名。",
+        "answer_evidence": "Please label anything you place in the staff refrigerator with your name and the date you plan to remove it.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -407,7 +407,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：这题问没标签的容器会放到哪里。“collection tray beside reception”是接待处旁的领取盘。\n解析：没标签的容器会移到领取盘，不再放回冰箱。没有直接送到主人办公室或另配储物柜的安排；过取走日期是另一类清理条件。\n下次：听到几种物品状态，分别记“没标签”和“日期过期”各怎样处理，再找题目指定那一类。"
+        "explanation": "读懂：这题问没标签的容器放哪里。“collection tray beside reception”是接待处旁的领取盘。\n解析：选“接待台旁的领取托盘”：不会继续放回冰箱。不选“新分配柜”：没有存柜安排；不选“自动送主人办公室”：既无标签也无法这样确认；不选“冰箱最高层”：公告明确不是放回冰箱。\n下次：听到几种物品状态，分别记“没标签”和“日期过期”各怎样处理，再找题目指定那一类。"
       },
       "review": {
         "difficulty": "easy",
@@ -417,9 +417,9 @@
         "vocabulary": [
           "collection tray beside reception"
         ],
-        "rationale": "调为简单：无标签容器放接待处旁托盘，是明确地点提取。",
-        "answer_evidence": "the collection tray beside reception",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“接待台旁的领取托盘”：不会继续放回冰箱。不选“新分配柜”：没有存柜安排；不选“自动送主人办公室”：既无标签也无法这样确认；不选“冰箱最高层”：公告明确不是放回冰箱。",
+        "answer_evidence": "An unlabeled container will go to the collection tray beside reception, not back into the refrigerator.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -442,7 +442,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：这题问优惠券适用于什么。“books and stationery”是书和文具。\n解析：券可在校内书店购买这两类商品，咖啡馆消费不算；还限十月底前使用，且不能换现金。\n下次：听到优惠券适用范围，先列能买和不能买的东西，再检查时间限制，别因在同一家店就都算。"
+        "explanation": "读懂：这题问代金券能用于什么。“books and stationery”是书和文具。\n解析：选“校书店的书和文具”：须十月底前一次结账使用。不选“十月后任何购物”：已过有效期；不选“柜台取现金”：不能换现金；不选“仅书店咖啡馆饮料”：咖啡馆消费恰好排除。\n下次：听到优惠券适用范围，先列能买和不能买的东西，再检查时间限制，别因在同一家店就都算。"
       },
       "review": {
         "difficulty": "easy",
@@ -452,9 +452,9 @@
         "vocabulary": [
           "books and stationery"
         ],
-        "rationale": "调为简单：books and stationery 与正项直接对应，题干未要求组合消费金额。",
-        "answer_evidence": "It covers books and stationery",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“校书店的书和文具”：须十月底前一次结账使用。不选“十月后任何购物”：已过有效期；不选“柜台取现金”：不能换现金；不选“仅书店咖啡馆饮料”：咖啡馆消费恰好排除。",
+        "answer_evidence": "It covers books and stationery but not cafe purchases.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -477,7 +477,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：这题问为什么用券前要检查购物篮。“will not carry over”是剩余金额不会留到下次。\n解析：券只能用于这一次交易，没用完的额度不能以后补用。并不是所有东西要同价，文具也可以用；购物篮装满不会让券变成现金。\n下次：听到只能用一次，先检查未用完的金额会怎样，再在付款前确认本次要买的东西。"
+        "explanation": "读懂：这题问为什么先核对购物篮。“will not carry over”是剩余金额不会留到下次。\n解析：选“本次未用完的金额不能留到下次”：先确定所买内容，免得一次使用后浪费余额。不选“每件价格必须相同”：没有同价条件；不选“必须拿掉所有文具”：文具可用；不选“装满就变现金”：券不能兑现。\n下次：听到只能用一次，先检查未用完的金额会怎样，再在付款前确认本次要买的东西。"
       },
       "review": {
         "difficulty": "medium",
@@ -487,9 +487,9 @@
         "vocabulary": [
           "will not carry over"
         ],
-        "rationale": "券只能用于这一次交易，没用完的额度不能以后补用。并不是所有东西要同价，文具也可以用；购物篮装满不会让券变成现金。 本轮补清题目所问和可执行的判断步骤。 关系已在材料明说，难度按实际加工要求调整。",
-        "answer_evidence": "Any unused value from that transaction will not carry over to another visit",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“本次未用完的金额不能留到下次”：先确定所买内容，免得一次使用后浪费余额。不选“每件价格必须相同”：没有同价条件；不选“必须拿掉所有文具”：文具可用；不选“装满就变现金”：券不能兑现。",
+        "answer_evidence": "Any unused value from that transaction will not carry over to another visit, so check your basket before asking the cashier to apply it.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -512,7 +512,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：这题问讨论组今天改了哪项安排。“Room Eight instead of Room Six”是改在八号室，不去六号室。\n解析：正式开始时间没改。提前五分钟是阅读资料的准备时间；公告没有改协调人或所有问题的主题。\n下次：听到 instead of（改为前一个、取代后一个），记清新旧地点；再把提前到场和正式开始分开。"
+        "explanation": "读懂：这题问今天小组安排改了什么。“Room Eight instead of Room Six”是改在八号室，不去六号室。\n解析：选“房间”：从六室换到八室，其他所述开始时间不变。不选“开始时间”：公告明确未变；不选“协调员姓名”：没谈更换人员；不选“每题话题”：没说改变讨论内容。\n下次：听到 instead of（改为前一个、取代后一个），记清新旧地点；再把提前到场和正式开始分开。"
       },
       "review": {
         "difficulty": "easy",
@@ -522,9 +522,9 @@
         "vocabulary": [
           "Room Eight instead of Room Six"
         ],
-        "rationale": "正式开始时间没改。提前五分钟是阅读资料的准备时间；公告没有改协调人或所有问题的主题。 本轮补清题目所问和可执行的判断步骤。",
-        "answer_evidence": "Room Eight instead of Room Six",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“房间”：从六室换到八室，其他所述开始时间不变。不选“开始时间”：公告明确未变；不选“协调员姓名”：没谈更换人员；不选“每题话题”：没说改变讨论内容。",
+        "answer_evidence": "Today's research discussion group will meet in Room Eight instead of Room Six.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -547,7 +547,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问读过说明是否就算答应参加。“does not commit you”是不让你因此承担参加的承诺。\n解析：读资料后仍可提问和决定，不参加时在开始前告知即可。既没自动加入未来所有小组，也没失去提问机会；读资料不表示讨论已开始。\n下次：听到报名或参与流程，分清了解情况和正式同意，检查哪一步之后仍可作决定。"
+        "explanation": "读懂：这题问阅读说明纸意味着什么。“does not commit you”是不让你因此承担参加的承诺。\n解析：选“了解情况后再决定参加，并未承诺”：可以先提问，决定不参加则告知协调员。不选“已答应未来所有组”：远超当前同意范围；不选“讨论已开始”：要求提前五分钟读；不选“不能再问问题”：公告鼓励决定前提问。\n下次：听到报名或参与流程，分清了解情况和正式同意，检查哪一步之后仍可作决定。"
       },
       "review": {
         "difficulty": "medium",
@@ -557,9 +557,9 @@
         "vocabulary": [
           "does not commit you"
         ],
-        "rationale": "读资料后仍可提问和决定，不参加时在开始前告知即可。既没自动加入未来所有小组，也没失去提问机会；读资料不表示讨论已开始。 本轮补清题目所问和可执行的判断步骤。",
-        "answer_evidence": "reading the sheet does not commit you to joining",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“了解情况后再决定参加，并未承诺”：可以先提问，决定不参加则告知协调员。不选“已答应未来所有组”：远超当前同意范围；不选“讨论已开始”：要求提前五分钟读；不选“不能再问问题”：公告鼓励决定前提问。",
+        "answer_evidence": "You may ask questions before deciding whether to participate, and reading the sheet does not commit you to joining.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -582,7 +582,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：这题问去 Brookfield 的车在哪个站台出发。“Platform Three”是三号站台。\n解析：一号是原安排，通知已改成三号；一号当前停的车不能上。天桥和电梯是通往站台的设施，不是发车站台。\n下次：听到 previously（原先），把旧站台划掉，记当前更正后的站台，再核对目的地是否相同。"
+        "explanation": "读懂：这题问Brookfield列车从哪台出发。“Platform Three”是三号站台。\n解析：选“三号站台”：原列一号现已更换，10:15时间不变。不选“电梯入口”：那是求助位置；不选“天桥本身”：桥是前往站台通道；不选“一号”：那里目前的车不能上。\n下次：听到 previously（原先），把旧站台划掉，记当前更正后的站台，再核对目的地是否相同。"
       },
       "review": {
         "difficulty": "easy",
@@ -592,9 +592,9 @@
         "vocabulary": [
           "Platform Three"
         ],
-        "rationale": "一号是原安排，通知已改成三号；一号当前停的车不能上。天桥和电梯是通往站台的设施，不是发车站台。 本轮补清题目所问和可执行的判断步骤。",
-        "answer_evidence": "please proceed to Platform Three",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“三号站台”：原列一号现已更换，10:15时间不变。不选“电梯入口”：那是求助位置；不选“天桥本身”：桥是前往站台通道；不选“一号”：那里目前的车不能上。",
+        "answer_evidence": "Passengers for the ten-fifteen service to Brookfield, please proceed to Platform Three.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -617,7 +617,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：这题问不方便走台阶的乘客怎么办。“staff beside the lift”是电梯旁的工作人员。\n解析：需要无台阶路线的人应在那里求助。不能把通常的天桥楼梯路线套给他们，也不是去上一号站台的车；发车时间仍没变。\n下次：听到特殊通行需要，找为这类乘客单独给的指引，再核对求助地点和当前站台。"
+        "explanation": "读懂：这题问需要无台阶路线的人怎么办。“staff beside the lift”是电梯旁的工作人员。\n解析：选“找电梯旁工作人员”：他们会协助走合适路线。不选“自行走天桥楼梯”：不满足无台阶需要；不选“等发车改时”：时间没改；不选“改上一号台车”：不是去Brookfield的指定车。\n下次：听到特殊通行需要，找为这类乘客单独给的指引，再核对求助地点和当前站台。"
       },
       "review": {
         "difficulty": "easy",
@@ -627,9 +627,9 @@
         "vocabulary": [
           "staff beside the lift"
         ],
-        "rationale": "调为简单：无台阶通行需求者找电梯旁工作人员，人物与地点均明示。",
-        "answer_evidence": "speak to staff beside the lift",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“找电梯旁工作人员”：他们会协助走合适路线。不选“自行走天桥楼梯”：不满足无台阶需要；不选“等发车改时”：时间没改；不选“改上一号台车”：不是去Brookfield的指定车。",
+        "answer_evidence": "Platform Three is reached by the footbridge at the far end of the hall; passengers needing step-free access should speak to staff beside the lift.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -652,7 +652,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问扣费但没打印出纸时，向服务台提供什么。“job number”是这次打印任务的编号。\n解析：员工用任务编号找记录，不能用银行信息或余额代替。也不该不断重发来制造更多任务，报出自己的课表同样找不到这次打印。\n下次：听到一笔操作失败，先保留能定位那一次操作的编号，再核对要求的是任务信息还是个人信息。"
+        "explanation": "读懂：这题问扣费但没出纸时报什么信息。“job number”是这次打印任务的编号。\n解析：选“打印任务编号”：服务台凭编号查是否失败，再恢复打印额度。不选“账户当前余额”：不能定位具体失败任务；不选“银行卡资料”：不是直接退钱到银行卡；不选“课程表”：与打印记录无关。\n下次：听到一笔操作失败，先保留能定位那一次操作的编号，再核对要求的是任务信息还是个人信息。"
       },
       "review": {
         "difficulty": "easy",
@@ -662,9 +662,9 @@
         "vocabulary": [
           "report the job number"
         ],
-        "rationale": "调为简单：需报 job number 原词对应，没有核算退款金额。",
-        "answer_evidence": "report the job number at the help desk",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“打印任务编号”：服务台凭编号查是否失败，再恢复打印额度。不选“账户当前余额”：不能定位具体失败任务；不选“银行卡资料”：不是直接退钱到银行卡；不选“课程表”：与打印记录无关。",
+        "answer_evidence": "If the library printer charges your account but produces no pages, report the job number at the help desk.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -687,7 +687,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：这题问为什么不要马上重复发送文件。“charged separately”是每次新任务可能单独扣费。\n解析：重复提交可能再扣几次，并不会自动补回第一次余额。员工能用原编号核查，不需要多个新编号；一次失败也不代表以后不能打印。\n下次：听到建议别立即重试，先看每次重试是否会另扣钱，再找原任务的查询办法。"
+        "explanation": "读懂：这题问为什么别立即连续重发。“charged separately”是每次新任务可能单独扣费。\n解析：选“每个新任务可能再收费”：先报告原任务，避免多笔扣费。不选“必须多个新编号才可查旧任务”：一个原编号就可核查；不选“第二次自动退银行卡钱”：既不自动也非银行卡退款；不选“失败一次就永远不能印该文档”：只是先处理故障，不禁止重印。\n下次：听到建议别立即重试，先看每次重试是否会另扣钱，再找原任务的查询办法。"
       },
       "review": {
         "difficulty": "easy",
@@ -697,9 +697,9 @@
         "vocabulary": [
           "charged separately"
         ],
-        "rationale": "调为简单：每个新任务可能另扣费，是原文直接给的重发后果。",
-        "answer_evidence": "each new job may be charged separately",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“每个新任务可能再收费”：先报告原任务，避免多笔扣费。不选“必须多个新编号才可查旧任务”：一个原编号就可核查；不选“第二次自动退银行卡钱”：既不自动也非银行卡退款；不选“失败一次就永远不能印该文档”：只是先处理故障，不禁止重印。",
+        "answer_evidence": "Please don't send the same document repeatedly before reporting it, since each new job may be charged separately.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -722,7 +722,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：这题问普通写生可带哪些工具。“pencils and small notebooks”是铅笔和小笔记本。\n解析：公告直接允许这两样。大画架另外需要提前批准，不能因有空位或自己带了凳子就自动获准；也没说只准用馆方发的画纸。\n下次：听到欢迎参加活动，再读清通常允许的工具和需要另行申请的工具，不把欢迎等同于所有方式都允许。"
+        "explanation": "读懂：这题问普通素描可用哪些材料。“pencils and small notebooks”是铅笔和小笔记本。\n解析：选“铅笔和小笔记本”：这是无需额外许可的普通携带范围。不选“门口空就可用大画架”：大画架仍要提前批准；不选“自带凳就准用大架”：凳子不能替代许可；不选“只能馆方提供纸”：可用自己的小本。\n下次：听到欢迎参加活动，再读清通常允许的工具和需要另行申请的工具，不把欢迎等同于所有方式都允许。"
       },
       "review": {
         "difficulty": "easy",
@@ -732,9 +732,9 @@
         "vocabulary": [
           "pencils and small notebooks"
         ],
-        "rationale": "公告直接允许这两样。大画架另外需要提前批准，不能因有空位或自己带了凳子就自动获准；也没说只准用馆方发的画纸。 本轮补清题目所问和可执行的判断步骤。 干扰项改为本情境内的实际误读。",
-        "answer_evidence": "using pencils and small notebooks",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“铅笔和小笔记本”：这是无需额外许可的普通携带范围。不选“门口空就可用大画架”：大画架仍要提前批准；不选“自带凳就准用大架”：凳子不能替代许可；不选“只能馆方提供纸”：可用自己的小本。",
+        "answer_evidence": "Visitors are welcome to sketch in the sculpture gallery using pencils and small notebooks.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -757,7 +757,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：这题问为什么三点可能要暂时挪位置。“while the group enters”是导览团进来的时候。\n解析：需要腾出空间让团体通行，briefly 表示只是一小会儿。不是写生到三点就永久结束，也不是交作业或更换展品。\n下次：听到暂时挪动，先找现场来了谁、要腾什么空间，再检查选项有没有把临时配合扩大成取消活动。"
+        "explanation": "读懂：这题问为什么三点可能要暂时挪位置。“while the group enters”是导览团进来的时候。\n解析：选“给进入的导览团留空间”：保持通道畅通，团体进来时短暂让路。不选“收素描评分”：未安排审阅；不选“下午不准再画”：只是短暂移动；不选“更换雕塑腾位”：来的是导览团，不是搬展品。\n下次：听到暂时挪动，先找现场来了谁、要腾什么空间，再检查选项有没有把临时配合扩大成取消活动。"
       },
       "review": {
         "difficulty": "easy",
@@ -767,9 +767,9 @@
         "vocabulary": [
           "while the group enters"
         ],
-        "rationale": "调为简单：三点让位的原因直接是导览团进入，briefly 也排除整日停用。",
-        "answer_evidence": "move briefly while the group enters",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“给进入的导览团留空间”：保持通道畅通，团体进来时短暂让路。不选“收素描评分”：未安排审阅；不选“下午不准再画”：只是短暂移动；不选“更换雕塑腾位”：来的是导览团，不是搬展品。",
+        "answer_evidence": "This afternoon's guided tour will pass through at three, so staff may ask sketchers to move briefly while the group enters.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -792,7 +792,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：这题问借来的电脑能在哪里用。“inside this building”是这栋学习中心里面。\n解析：换到校园另一栋楼也算离开许可范围；不是全校通用。三小时是借用时长，不能变成借回家三天；还回发放柜台也不表示只能坐柜台边用。\n下次：听到地点限制，分清一个柜台、一栋楼和整个校园，再用原文指定的范围判断。"
+        "explanation": "读懂：这题问借出的笔记本能在哪用。“inside this building”是这栋学习中心里面。\n解析：选“学习中心这栋楼内”：去别的校园建筑也算离开许可区域。不选“全校园任意楼”：范围过大；不选“家中三天”：地点和期限都错，最长三小时；不选“只能坐发放柜台”：可在整栋楼内用，并非仅桌边。\n下次：听到地点限制，分清一个柜台、一栋楼和整个校园，再用原文指定的范围判断。"
       },
       "review": {
         "difficulty": "easy",
@@ -802,9 +802,9 @@
         "vocabulary": [
           "inside this building"
         ],
-        "rationale": "调为简单：inside this building 已直接限定使用地点，不需推断建筑间权限。",
-        "answer_evidence": "for use inside this building",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“学习中心这栋楼内”：去别的校园建筑也算离开许可区域。不选“全校园任意楼”：范围过大；不选“家中三天”：地点和期限都错，最长三小时；不选“只能坐发放柜台”：可在整栋楼内用，并非仅桌边。",
+        "answer_evidence": "The study center now lends laptops for use inside this building.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -827,7 +827,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：这题问延长借用有哪些条件。“Renewal depends on demand”是能否续借要看有没有其他人需要。\n解析：到期前要询问，不会自动多给三小时。存好工作只是保护文件，不会使别人不能借，也不会因把电脑带出楼就延长借期。\n下次：听到 depends on（取决于），记下谁要先申请、还看什么条件；提出请求与已经获准要分开。"
+        "explanation": "读懂：这题问续借有什么条件。“Renewal depends on demand”是能否续借要看有没有其他人需要。\n解析：选“到期前申请，并看其他需求”：不是自动续，也不能先假定设备无人要。不选“存好文件就保证不被他人申请”：保存不产生占用权；不选“离楼自动延长”：离楼本就违规；不选“自动再加三小时”：须询问并由需求决定。\n下次：听到 depends on（取决于），记下谁要先申请、还看什么条件；提出请求与已经获准要分开。"
       },
       "review": {
         "difficulty": "medium",
@@ -837,9 +837,9 @@
         "vocabulary": [
           "Renewal depends on demand"
         ],
-        "rationale": "到期前要询问，不会自动多给三小时。存好工作只是保护文件，不会使别人不能借，也不会因把电脑带出楼就延长借期。 本轮补清题目所问和可执行的判断步骤。 关系已在材料明说，难度按实际加工要求调整。",
-        "answer_evidence": "Renewal depends on demand",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“到期前申请，并看其他需求”：不是自动续，也不能先假定设备无人要。不选“存好文件就保证不被他人申请”：保存不产生占用权；不选“离楼自动延长”：离楼本就违规；不选“自动再加三小时”：须询问并由需求决定。",
+        "answer_evidence": "Renewal depends on demand.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -862,7 +862,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问预约页面采用哪个时区。the university's local time 是“大学所在地的时间”，确认邮件也会写明时区。\n解析：页面统一按学校时间显示；人在外地要先换算再加入自己的另一份日历。访问者所在地、设备设置和另一个日历的时间，都不会自动成为预约页面的时区。\n下次：先看页面明确标注哪地时间，再换算自己的日期和小时，最后检查日历记录；不要默认网页会跟着设备所在地变化。"
+        "explanation": "读懂：这题问预约网页使用哪地时间。the university's local time 是“大学所在地的时间”，确认邮件也会写明时区。\n解析：选“大学所在地时间”：不是访问者设备自动选定的当地时区。不选“访客设备选择的时区”：公告统一大学时间；不选“个人另一个日历时区”：添加前需自行换算；不选“自动按当前所在地”：异地学生正要留意差异。\n下次：先看页面明确标注哪地时间，再换算自己的日期和小时，最后检查日历记录；不要默认网页会跟着设备所在地变化。"
       },
       "review": {
         "difficulty": "easy",
@@ -872,9 +872,9 @@
         "vocabulary": [
           "university's local time"
         ],
-        "rationale": "保持简单；校正解析把 separate calendar 误说成另一个预约者的时区，材料实际指学生另设的日历。",
-        "answer_evidence": "the university's local time",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“大学所在地时间”：不是访问者设备自动选定的当地时区。不选“访客设备选择的时区”：公告统一大学时间；不选“个人另一个日历时区”：添加前需自行换算；不选“自动按当前所在地”：异地学生正要留意差异。",
+        "answer_evidence": "For students booking online advising, all times on the booking page are displayed in the university's local time.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -897,7 +897,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：这题问换算预约时间时，除了小时还要查什么。“date as well as the hour”是日期和钟点都要核对。\n解析：跨时区可能跨到另一天，只改小时会把预约记错日。学校时区已在邮件说明；别人的预约次数、会面时长或办公室地点不是这里提醒补查的信息。\n下次：听到把一个时区换成另一个，先换钟点，再检查日期是否跨日，最后一起写进日历。"
+        "explanation": "读懂：这题问异地学生除了小时还检查什么。“date as well as the hour”是日期和钟点都要核对。\n解析：选“自己所在地的日期”：时差可能跨日，不能只改钟点。不选“每次咨询长度”：不是公告强调的换算问题；不选“已有预约数量”：与时差无关；不选“导师办公室地点”：这是线上预约，无须用地点替代日期核对。\n下次：听到把一个时区换成另一个，先换钟点，再检查日期是否跨日，最后一起写进日历。"
       },
       "review": {
         "difficulty": "easy",
@@ -907,9 +907,9 @@
         "vocabulary": [
           "date as well as the hour"
         ],
-        "rationale": "调为简单：除了小时还应查日期，原句直接给出，题目并未要求时区换算。",
-        "answer_evidence": "check the date as well as the hour",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“自己所在地的日期”：时差可能跨日，不能只改钟点。不选“每次咨询长度”：不是公告强调的换算问题；不选“已有预约数量”：与时差无关；不选“导师办公室地点”：这是线上预约，无须用地点替代日期核对。",
+        "answer_evidence": "Please check the date as well as the hour, since your local date may differ.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -932,7 +932,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问开始种树前先做什么。“demonstrate the planting method”是工作人员示范种树方法。\n解析：先看示范再动手；工具已经提供，不必各自买一套。衣鞋应能沾泥，不是正式服装；也没让搬物资的人先离开。\n下次：听到 before（在……之前），按先后记下准备和开工步骤，再核对哪些东西已提供。"
+        "explanation": "读懂：这题问开始植树前先做什么。“demonstrate the planting method”是工作人员示范种树方法。\n解析：选“工作人员示范方法”：所有人先看正确操作，再开始。不选“搬运队永久离开”：仍承担送材料；不选“人人买工具包”：工具提供；不选“换正式服装”：要求可弄脏的衣鞋。\n下次：听到 before（在……之前），按先后记下准备和开工步骤，再核对哪些东西已提供。"
       },
       "review": {
         "difficulty": "easy",
@@ -942,9 +942,9 @@
         "vocabulary": [
           "demonstrate the planting method"
         ],
-        "rationale": "先看示范再动手；工具已经提供，不必各自买一套。衣鞋应能沾泥，不是正式服装；也没让搬物资的人先离开。 本轮补清题目所问和可执行的判断步骤。",
-        "answer_evidence": "demonstrate the planting method before anyone starts",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“工作人员示范方法”：所有人先看正确操作，再开始。不选“搬运队永久离开”：仍承担送材料；不选“人人买工具包”：工具提供；不选“换正式服装”：要求可弄脏的衣鞋。",
+        "answer_evidence": "Staff will demonstrate the planting method before anyone starts.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -967,7 +967,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：这题问只能搬物资的人该怎么办。“tell the coordinator at check-in”是在签到时告诉协调员。\n解析：搬运也有用，说明后可安排到配送组。无须因为不能种树就缺席，也不必勉强种植或等活动结束再来。\n下次：听到能力或时间有限，先找允许的替代工作，再在分工前告诉指定负责人。"
+        "explanation": "读懂：这题问只能帮搬物资的人应怎么办。“tell the coordinator at check-in”是在签到时告诉协调员。\n解析：选“签到时告诉协调员”：可分到配送队，仍有适合的工作。不选“活动后才到棚”：集合在九点，没要求迟到；不选“留家因为只收植树者”：公告明确欢迎搬运帮助；不选“不说明就直接植树”：应按能力先分工。\n下次：听到能力或时间有限，先找允许的替代工作，再在分工前告诉指定负责人。"
       },
       "review": {
         "difficulty": "easy",
@@ -977,9 +977,9 @@
         "vocabulary": [
           "assigned to the delivery team"
         ],
-        "rationale": "调为简单：只能搬物资者在签到时告知协调人，直接定位动作。",
-        "answer_evidence": "tell the coordinator at check-in",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“签到时告诉协调员”：可分到配送队，仍有适合的工作。不选“活动后才到棚”：集合在九点，没要求迟到；不选“留家因为只收植树者”：公告明确欢迎搬运帮助；不选“不说明就直接植树”：应按能力先分工。",
+        "answer_evidence": "If you can only help carry supplies, that is useful too; tell the coordinator at check-in so you can be assigned to the delivery team.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1002,7 +1002,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：这题问四分钟里包括什么。“including any introduction”是任何开场介绍也计时。\n解析：介绍加朗读共用四分钟，不是介绍另给无限时间。它也不是掌声或下一位的表演时长；作品短不必硬填满。\n下次：听到总时长后有 including（包括），把各部分加在一起，再核对选项有没有把其中一部分另算。"
+        "explanation": "读懂：这题问每人四分钟包括什么。“including any introduction”是任何开场介绍也计时。\n解析：选“介绍加朗读的全部时间”：不能把介绍当额外时长。不选“只计诗歌，介绍不限”：违反总限时；不选“只计后面掌声”：时段属于读者发言；不选“下一人整场”：每人各有自己的时段。\n下次：听到总时长后有 including（包括），把各部分加在一起，再核对选项有没有把其中一部分另算。"
       },
       "review": {
         "difficulty": "easy",
@@ -1012,9 +1012,9 @@
         "vocabulary": [
           "including any introduction"
         ],
-        "rationale": "调为简单：四分钟包括开场介绍，直接提取包含关系，无需合计不同段时长。",
-        "answer_evidence": "including any introduction",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“介绍加朗读的全部时间”：不能把介绍当额外时长。不选“只计诗歌，介绍不限”：违反总限时；不选“只计后面掌声”：时段属于读者发言；不选“下一人整场”：每人各有自己的时段。",
+        "answer_evidence": "Each reader at tonight's poetry event has a maximum of four minutes, including any introduction.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1037,7 +1037,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问红灯亮时该怎么做。“finish your current sentence”是说完当前这一句就收尾。\n解析：红灯表示该结束，不是新一轮四分钟，也不是继续等黄灯；不能一直等整首诗自然结束才停。\n下次：听到不同颜色的提示，把黄灯的剩余时间和红灯的结束动作分别记清，再按当前灯号行动。"
+        "explanation": "读懂：这题问红灯亮时怎么办。“finish your current sentence”是说完当前这一句就收尾。\n解析：选“结束正在说的这句话”：这是收尾提示，不再展开新段。不选“等黄灯再亮”：黄灯是之前剩一分钟；不选“再开一个四分钟作品”：超过额度；不选“诗已读完才停”：红灯要求当前句收尾，即使作品未完。\n下次：听到不同颜色的提示，把黄灯的剩余时间和红灯的结束动作分别记清，再按当前灯号行动。"
       },
       "review": {
         "difficulty": "easy",
@@ -1047,9 +1047,9 @@
         "vocabulary": [
           "finish your current sentence"
         ],
-        "rationale": "红灯表示该结束，不是新一轮四分钟，也不是继续等黄灯；不能一直等整首诗自然结束才停。 本轮补清题目所问和可执行的判断步骤。",
-        "answer_evidence": "finish your current sentence",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“结束正在说的这句话”：这是收尾提示，不再展开新段。不选“等黄灯再亮”：黄灯是之前剩一分钟；不选“再开一个四分钟作品”：超过额度；不选“诗已读完才停”：红灯要求当前句收尾，即使作品未完。",
+        "answer_evidence": "A yellow light means one minute remains; a red light means please finish your current sentence.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1072,7 +1072,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：这题问系统维护时哪项服务还能用。“temporary checkout form”是临时借书表。\n解析：可在柜台用表格借书，但网上目录不能用，预约也暂时无法确认。因此不能在维护时段照常检索或领取所有预约书。\n下次：听到系统暂停，按服务分别记还能做什么、什么要等，不把一项停用扩大成全部停摆。"
+        "explanation": "读懂：这题问目录系统维护时什么服务继续。“temporary checkout form”是临时借书表。\n解析：选“柜台用临时表借书”：在线不可用不等于实体借阅全部停止。不选“8:30前任取预约书”：预约要九点后确认；不选“在线检索不断”：目录8至9点停；不选“在停用系统里确认预约”：工作人员这小时也办不到。\n下次：听到系统暂停，按服务分别记还能做什么、什么要等，不把一项停用扩大成全部停摆。"
       },
       "review": {
         "difficulty": "medium",
@@ -1082,9 +1082,9 @@
         "vocabulary": [
           "temporary checkout form"
         ],
-        "rationale": "可在柜台用表格借书，但网上目录不能用，预约也暂时无法确认。因此不能在维护时段照常检索或领取所有预约书。 补清问题、英文意思及具体检查步骤。",
-        "answer_evidence": "Books may still be borrowed at the desk using the temporary checkout form",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“柜台用临时表借书”：在线不可用不等于实体借阅全部停止。不选“8:30前任取预约书”：预约要九点后确认；不选“在线检索不断”：目录8至9点停；不选“在停用系统里确认预约”：工作人员这小时也办不到。",
+        "answer_evidence": "Books may still be borrowed at the desk using the temporary checkout form.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1107,7 +1107,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：这题问预约了书的人该怎么办。“collect it after nine”是九点之后再来取。\n解析：八点到九点无法确认网上预约，等系统恢复再领即可。预约没有被永久取消，不用重新下好几次；也不会仅因这次维护而多出逾期费。\n下次：听到暂时无法核实某项申请，找恢复时间，再检查是否真的要求取消或重办。"
+        "explanation": "读懂：这题问已预约书的人应该怎么做。“collect it after nine”是九点之后再来取。\n解析：选“九点后再领”：系统恢复后才能核验预约。不选“只因这小时中断就付逾期费”：公告免除此影响；不选“中断时重复预约多次”：系统不可用且无需要；不选“默认预约永久取消”：只是确认服务暂时中断。\n下次：听到暂时无法核实某项申请，找恢复时间，再检查是否真的要求取消或重办。"
       },
       "review": {
         "difficulty": "easy",
@@ -1117,9 +1117,9 @@
         "vocabulary": [
           "collect it after nine"
         ],
-        "rationale": "调为简单：预约书在九点后领取的指令已经直接给出。",
-        "answer_evidence": "please collect it after nine",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“九点后再领”：系统恢复后才能核验预约。不选“只因这小时中断就付逾期费”：公告免除此影响；不选“中断时重复预约多次”：系统不可用且无需要；不选“默认预约永久取消”：只是确认服务暂时中断。",
+        "answer_evidence": "If you have reserved an item, please collect it after nine.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1142,7 +1142,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：这题问志愿者主要要做什么。“where the explanation becomes unclear”是指出哪里听不明白。\n解析：志愿者扮演普通参观者，听完向学生导览员反馈。不是代替他们讲解、考核专业知识，也不能在练习中一发现事实问题就打断。\n下次：听到扮演听众的任务，先记要观察什么，再核对反馈是在进行中还是结束后给。"
+        "explanation": "读懂：这题问志愿者主要帮什么。“where the explanation becomes unclear”是指出哪里听不明白。\n解析：选“指出导游说明哪里不清楚”：扮普通游客试听，不要求专业知识。不选“全程用专业事实考导游”：不符合角色；不选“每错一事实立刻打断”：应留到反馈时；不选“代替导游讲解”：学生导游练，志愿者听并反馈。\n下次：听到扮演听众的任务，先记要观察什么，再核对反馈是在进行中还是结束后给。"
       },
       "review": {
         "difficulty": "easy",
@@ -1152,9 +1152,9 @@
         "vocabulary": [
           "where the explanation becomes unclear"
         ],
-        "rationale": "志愿者扮演普通参观者，听完向学生导览员反馈。不是代替他们讲解、考核专业知识，也不能在练习中一发现事实问题就打断。 补清问题、英文意思及具体检查步骤。 将弱干扰换为本场景内的误读。",
-        "answer_evidence": "tell the guides where the explanation becomes unclear",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“指出导游说明哪里不清楚”：扮普通游客试听，不要求专业知识。不选“全程用专业事实考导游”：不符合角色；不选“每错一事实立刻打断”：应留到反馈时；不选“代替导游讲解”：学生导游练，志愿者听并反馈。",
+        "answer_evidence": "Your role is to listen and tell the guides where the explanation becomes unclear.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1177,7 +1177,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：这题问志愿者要留出多久。“a full half-hour session”是完整半小时。\n解析：导览二十分钟，之后评论十分钟，两段都参加就是三十分钟。只算导览或只算评论都会漏掉任务的一部分，两小时则不是公告要求。\n下次：听到活动分几段，先确认哪些都要参加，再把对应时长合起来检查总时间。"
+        "explanation": "读懂：这题问每人应留多长时间。“a full half-hour session”是完整半小时。\n解析：选“三十分钟”：二十分钟导览加十分钟反馈。不选“每位导游两小时”：无此时长；不选“只二十分钟不反馈”：漏了后一阶段；不选“只十分钟”：只有评论时间，没听实践过程。\n下次：听到活动分几段，先确认哪些都要参加，再把对应时长合起来检查总时间。"
       },
       "review": {
         "difficulty": "easy",
@@ -1187,9 +1187,9 @@
         "vocabulary": [
           "a full half-hour session"
         ],
-        "rationale": "调为简单：公告已明确要求报名完整半小时；虽然前文二十加十也可算，不再把已有总时长当额外计算负担。",
-        "answer_evidence": "a full half-hour session",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“三十分钟”：二十分钟导览加十分钟反馈。不选“每位导游两小时”：无此时长；不选“只二十分钟不反馈”：漏了后一阶段；不选“只十分钟”：只有评论时间，没听实践过程。",
+        "answer_evidence": "Sign up for a full half-hour session.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1212,7 +1212,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问今天对访客改了什么。“eleven rather than ten”是十一点开放，而不是十点。\n解析：今天晚开一小时，仍四点关；下周照旧十点开。不能把一次延迟改成永久安排，也没有要求访客清理送货车道。\n下次：听到改时间，给它加上适用日期，再分别检查开始与结束，别默认两头都顺延。"
+        "explanation": "读懂：这题问今天访客安排有何改变。“eleven rather than ten”是十一点开放，而不是十点。\n解析：选“开放从十点推迟到十一点”：今天受配送通道延误影响，四点仍关闭。不选“以后每周永久改时”：下周仍十点；不选“关闭四点改五点”：结束没变；不选“访客必须清通道”：没有要求游客参与。\n下次：听到改时间，给它加上适用日期，再分别检查开始与结束，别默认两头都顺延。"
       },
       "review": {
         "difficulty": "easy",
@@ -1222,9 +1222,9 @@
         "vocabulary": [
           "eleven rather than ten"
         ],
-        "rationale": "调为简单：今天从十点改十一点直接说明，问句只问这一变化。",
-        "answer_evidence": "at eleven rather than ten",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“开放从十点推迟到十一点”：今天受配送通道延误影响，四点仍关闭。不选“以后每周永久改时”：下周仍十点；不选“关闭四点改五点”：结束没变；不选“访客必须清通道”：没有要求游客参与。",
+        "answer_evidence": "Because delivery access is delayed, today's craft market will open to visitors at eleven rather than ten.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1247,7 +1247,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问摊主怎样到场。“usual setup time”是照平时的布置时间来。\n解析：访客晚一小时入场，摊主仍照常来，只改走侧门。不能把访客时间套给摊主，也不该走受阻车道或取消下周摊位。\n下次：听到通知涉及不同人，给每类人分别记时间和入口，再按题目指定的身份回答。"
+        "explanation": "读懂：这题问摊主应怎样到场。“usual setup time”是照平时的布置时间来。\n解析：选“照常时间布置，先走侧门”：访客晚开不等于摊主都晚到。不选“自动晚一小时布置”：与原时间要求相反；不选“走仍堵的配送道”：应避开；不选“取消下周摊位”：变化仅今天，没取消后续。\n下次：听到通知涉及不同人，给每类人分别记时间和入口，再按题目指定的身份回答。"
       },
       "review": {
         "difficulty": "medium",
@@ -1257,9 +1257,9 @@
         "vocabulary": [
           "usual setup time"
         ],
-        "rationale": "访客晚一小时入场，摊主仍照常来，只改走侧门。不能把访客时间套给摊主，也不该走受阻车道或取消下周摊位。 补清问题、英文意思及具体检查步骤。 原关系明示，按实际需求重分级。",
-        "answer_evidence": "arrive at the usual setup time, but please use the side gate",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“照常时间布置，先走侧门”：访客晚开不等于摊主都晚到。不选“自动晚一小时布置”：与原时间要求相反；不选“走仍堵的配送道”：应避开；不选“取消下周摊位”：变化仅今天，没取消后续。",
+        "answer_evidence": "Stallholders may arrive at the usual setup time, but please use the side gate until the delivery lane is cleared.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1282,7 +1282,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问声音演示比较什么。“struck with different materials”是用不同材料去敲击。\n解析：被敲的仍是同一个物体，改变敲击材料后比较声音。不是比较不同房间播放的音量或三个物体的外形，也不是换成三个物体再用相同材料敲击。\n下次：听到实验或演示，分开记保持相同的对象和改变的条件，再找要比较的结果。"
+        "explanation": "读懂：这题问访客要比较什么声音。“struck with different materials”是用不同材料去敲击。\n解析：选“不同材料敲同一物体产生的声音”：物体相同、敲击材料变化是比较重点。不选“三个房间音量”：未换房间；不选“同材质三个物体外形”：不是看形状；不选“同样敲具敲三个不同物体”：把固定项和变化项对调。\n下次：听到实验或演示，分开记保持相同的对象和改变的条件，再找要比较的结果。"
       },
       "review": {
         "difficulty": "easy",
@@ -1292,9 +1292,9 @@
         "vocabulary": [
           "different materials"
         ],
-        "rationale": "被敲的仍是同一个物体，改变敲击材料后比较声音。不是比较不同房间播放的音量或三个物体的外形，也不是换成三个物体再用相同材料敲击。 补清问题、英文意思及具体检查步骤。 将弱干扰换为本场景内的误读。",
-        "answer_evidence": "the same object sounds when struck with different materials",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“不同材料敲同一物体产生的声音”：物体相同、敲击材料变化是比较重点。不选“三个房间音量”：未换房间；不选“同材质三个物体外形”：不是看形状；不选“同样敲具敲三个不同物体”：把固定项和变化项对调。",
+        "answer_evidence": "You'll hear three short recordings and compare how the same object sounds when struck with different materials.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1317,7 +1317,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：这题问演示后可以碰哪些物品。“a separate handling set”是另外准备的一组体验物。\n解析：观众之后用专门的体验组，演示桌上的物品不在其中。不是一结束就可任拿桌上东西，更不能在示范者操作时动手；也没要求自带物品。\n下次：听到 separate（另外的一组），给演示用和体验用的物品分开记，再检查哪组、何时获准触碰。"
+        "explanation": "读懂：这题问之后访客能拿哪些物品。“a separate handling set”是另外准备的一组体验物。\n解析：选“另备的体验套装”：演示器物与供触摸器物分开。不选“只能自带物”：现场提供体验组；不选“示范者正操作时拿”：须在线后观看；不选“演示台任何物”：公告明确这套不供访客动手。\n下次：听到 separate（另外的一组），给演示用和体验用的物品分开记，再检查哪组、何时获准触碰。"
       },
       "review": {
         "difficulty": "easy",
@@ -1327,9 +1327,9 @@
         "vocabulary": [
           "a separate handling set"
         ],
-        "rationale": "调为简单：观众操作专门的体验组，对象在原文直接指定。",
-        "answer_evidence": "a separate handling set will be available",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“另备的体验套装”：演示器物与供触摸器物分开。不选“只能自带物”：现场提供体验组；不选“示范者正操作时拿”：须在线后观看；不选“演示台任何物”：公告明确这套不供访客动手。",
+        "answer_evidence": "Afterward, a separate handling set will be available for visitors to try.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1352,7 +1352,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问付款截图为什么可能不够。“doesn't identify the purchased items”是没有写清具体买了什么。\n解析：截图可能只有总金额，无法核对购买项目及支持的活动。不是所有截图都毫无用处，更没有必须现金支付或收据列全体成员的要求。\n下次：听到报销材料被认为不够，找缺的是金额、购买内容还是用途，再补缺项而不是重复交同一张图。"
+        "explanation": "读懂：这题问付款截图为什么可能不够。“doesn't identify the purchased items”是没有写清具体买了什么。\n解析：选“只有总额可能看不出买了什么”：报销需识别项目并关联社团活动。不选“收据须列全体社员”：无此要求；不选“任何截图都没有信息”：只是未明项目时不足；不选“购买必须现金”：付款方式不是问题。\n下次：听到报销材料被认为不够，找缺的是金额、购买内容还是用途，再补缺项而不是重复交同一张图。"
       },
       "review": {
         "difficulty": "medium",
@@ -1362,9 +1362,9 @@
         "vocabulary": [
           "doesn't identify the purchased items"
         ],
-        "rationale": "截图可能只有总金额，无法核对购买项目及支持的活动。不是所有截图都毫无用处，更没有必须现金支付或收据列全体成员的要求。 补清问题、英文意思及具体检查步骤。",
-        "answer_evidence": "if it doesn't identify the purchased items",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“只有总额可能看不出买了什么”：报销需识别项目并关联社团活动。不选“收据须列全体社员”：无此要求；不选“任何截图都没有信息”：只是未明项目时不足；不选“购买必须现金”：付款方式不是问题。",
+        "answer_evidence": "A payment screenshot showing only a total is insufficient if it doesn't identify the purchased items.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1387,7 +1387,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：这题问收据丢失时第一步做什么。“contact the treasurer before submitting”是提交前先联系财务负责人。\n解析：替代凭据要逐个审查，所以先问哪些能接受；不能自己当作截图一定有效，更不能编造收据。重复提交同一份也不会加速。\n下次：听到原凭据缺失，找指定负责人和替代流程，先确认再提交，不把可申请例外当作已获批准。"
+        "explanation": "读懂：这题问收据不见首先怎么办。“contact the treasurer before submitting”是提交前先联系财务负责人。\n解析：选“联系财务负责人询问替代证据”：每例须审查，先核准再提交。不选“编造明细收据”：不能提供真实证明；不选“重复交同一不完整申请”：不会加快审核；不选“默认所有付款图可用”：公告正说明未必足够。\n下次：听到原凭据缺失，找指定负责人和替代流程，先确认再提交，不把可申请例外当作已获批准。"
       },
       "review": {
         "difficulty": "easy",
@@ -1397,9 +1397,9 @@
         "vocabulary": [
           "reviewed individually"
         ],
-        "rationale": "调为简单：没收据先联系财务负责人，直接操作指令，不要求自行判断替代凭据。",
-        "answer_evidence": "contact the treasurer before submitting",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“联系财务负责人询问替代证据”：每例须审查，先核准再提交。不选“编造明细收据”：不能提供真实证明；不选“重复交同一不完整申请”：不会加快审核；不选“默认所有付款图可用”：公告正说明未必足够。",
+        "answer_evidence": "If the original receipt is missing, contact the treasurer before submitting; alternative evidence must be reviewed individually.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1422,7 +1422,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：这题问要带怎样的鞋。“a clean pair of shoes”是一双干净的鞋，进舞蹈室换穿。\n解析：入门课不要求买专业舞鞋，外穿鞋放门口鞋架；也不是要求所有人赤脚。要求在于干净、适合室内，不是价格或专业程度。\n下次：听到装备要求，抓必须满足的条件，再分清专业装备是否只是可选。"
+        "explanation": "读懂：这题问舞蹈课要求什么鞋。“a clean pair of shoes”是一双干净的鞋，进舞蹈室换穿。\n解析：选“室内换用的干净鞋”：室外鞋放门口架，入门课不需专业舞鞋。不选“必须新专业鞋”：明确不需要；不选“照穿泥户外鞋”：要换下；不选“任何情况下都赤脚”：公告要求带干净鞋，并非禁止鞋。\n下次：听到装备要求，抓必须满足的条件，再分清专业装备是否只是可选。"
       },
       "review": {
         "difficulty": "easy",
@@ -1432,9 +1432,9 @@
         "vocabulary": [
           "a clean pair of shoes"
         ],
-        "rationale": "入门课不要求买专业舞鞋，外穿鞋放门口鞋架；也不是要求所有人赤脚。要求在于干净、适合室内，不是价格或专业程度。 补清问题、英文意思及具体检查步骤。",
-        "answer_evidence": "a clean pair of shoes to change into inside the studio",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“室内换用的干净鞋”：室外鞋放门口架，入门课不需专业舞鞋。不选“必须新专业鞋”：明确不需要；不选“照穿泥户外鞋”：要换下；不选“任何情况下都赤脚”：公告要求带干净鞋，并非禁止鞋。",
+        "answer_evidence": "For the dance class tonight, please bring a clean pair of shoes to change into inside the studio.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1457,7 +1457,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：这题问为什么要六点前到。“change before six”是六点前完成换鞋。\n解析：提前是给换鞋留时间，课程本身六点开始。不是提前做完整堂课，也没要求来买舞鞋或先完成所有基础动作。\n下次：听到提前到场，找开课前要完成的具体动作，再把准备时间与正式课程分开。"
+        "explanation": "读懂：这题问为什么六点前到。“change before six”是六点前完成换鞋。\n解析：选“上课前留时间换鞋”：六点开始基础动作，准备应提前做好。不选“六点前上完整课”：六点才开始；不选“教练来前练完基础”：未要求提前自练；不选“先买专业舞鞋”：入门课不需购买。\n下次：听到提前到场，找开课前要完成的具体动作，再把准备时间与正式课程分开。"
       },
       "review": {
         "difficulty": "easy",
@@ -1467,9 +1467,9 @@
         "vocabulary": [
           "change before six"
         ],
-        "rationale": "调为简单：六点前来是留出换鞋时间，原因直接给出。",
-        "answer_evidence": "arrive early enough to change before six",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“上课前留时间换鞋”：六点开始基础动作，准备应提前做好。不选“六点前上完整课”：六点才开始；不选“教练来前练完基础”：未要求提前自练；不选“先买专业舞鞋”：入门课不需购买。",
+        "answer_evidence": "Please arrive early enough to change before six.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1492,7 +1492,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问什么时候能在望远镜旁拍照。“after the observation period”是观测结束后。\n解析：等观测完成、室内灯恢复，导览员会宣布拍照机会。门厅可拍不代表暗室观测时也可拍；关闪光仍不能自行提前拍。\n下次：听到拍照规定，同时记地点和阶段，再核对是否还要等工作人员宣布。"
+        "explanation": "读懂：这题问何时可在望远镜旁拍照。“after the observation period”是观测结束后。\n解析：选“观察结束、房间恢复灯光以后”：导游会宣布专门拍照机会。不选“整个暗室观测期间”：手机相机应收起；不选“关闭闪光随时可拍”：屏幕也会干扰；不选“只能进楼前”：入口展区和后续安排都可拍。\n下次：听到拍照规定，同时记地点和阶段，再核对是否还要等工作人员宣布。"
       },
       "review": {
         "difficulty": "medium",
@@ -1502,9 +1502,9 @@
         "vocabulary": [
           "after the observation period"
         ],
-        "rationale": "等观测完成、室内灯恢复，导览员会宣布拍照机会。门厅可拍不代表暗室观测时也可拍；关闪光仍不能自行提前拍。 补清问题、英文意思及具体检查步骤。",
-        "answer_evidence": "after the observation period, with the room lights restored",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“观察结束、房间恢复灯光以后”：导游会宣布专门拍照机会。不选“整个暗室观测期间”：手机相机应收起；不选“关闭闪光随时可拍”：屏幕也会干扰；不选“只能进楼前”：入口展区和后续安排都可拍。",
+        "answer_evidence": "There will be a photo opportunity beside the telescope after the observation period, with the room lights restored.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1527,7 +1527,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：这题问没开闪光为什么也要收起手机。“Even a bright screen”是连明亮屏幕也算在内。\n解析：屏幕发光同样会扰乱暗室观测，所以仅关闪光不够。不是手机没信号，也没要求把手机借给导览员；屏幕本身并非不发光。\n下次：听到 even（连……也），把容易漏掉的那种影响一起考虑，再看所选做法是否真正满足暗室要求。"
+        "explanation": "读懂：这题问不用闪光为何也要收手机。“Even a bright screen”是连明亮屏幕也算在内。\n解析：选“亮屏本身会扰乱暗处观测”：不闪光仍可能发出影响观看的光。不选“只有相机发光屏幕不发”：与事实说明相反；不选“全楼没信号”：未谈网络；不选“导游要拿所有手机演示”：没有收设备展示计划。\n下次：听到 even（连……也），把容易漏掉的那种影响一起考虑，再看所选做法是否真正满足暗室要求。"
       },
       "review": {
         "difficulty": "easy",
@@ -1537,9 +1537,9 @@
         "vocabulary": [
           "Even a bright screen"
         ],
-        "rationale": "调为简单：手机屏幕本身会干扰观测，与 L506/L179 的单一明示原因相当。",
-        "answer_evidence": "Even a bright screen can disturb the viewing conditions",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“亮屏本身会扰乱暗处观测”：不闪光仍可能发出影响观看的光。不选“只有相机发光屏幕不发”：与事实说明相反；不选“全楼没信号”：未谈网络；不选“导游要拿所有手机演示”：没有收设备展示计划。",
+        "answer_evidence": "Even a bright screen can disturb the viewing conditions.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1562,7 +1562,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：这题问找到不认识的物体时怎么办。“leave it where it is”是让它留在原处。\n解析：先别移动，并告诉组长；这类物品不能按普通垃圾直接装袋或运到中央。也不能把未知物随便记成空袋。\n下次：听到物品无法辨认，先按例外指令停下，再找到要报告的人，不自行套用普通垃圾流程。"
+        "explanation": "读懂：这题问发现认不出的物件怎么办。“leave it where it is”是让它留在原处。\n解析：选“留在原地并报告组长”：别自行搬到中央垃圾堆。不选“自己带到中央”：公告明确禁止；不选“记成空袋”：物件不是空袋；不选“藏普通垃圾袋”：把未确认物混入违背处理步骤。\n下次：听到物品无法辨认，先按例外指令停下，再找到要报告的人，不自行套用普通垃圾流程。"
       },
       "review": {
         "difficulty": "easy",
@@ -1572,9 +1572,9 @@
         "vocabulary": [
           "leave it where it is"
         ],
-        "rationale": "先别移动，并告诉组长；这类物品不能按普通垃圾直接装袋或运到中央。也不能把未知物随便记成空袋。 补清问题、英文意思及具体检查步骤。",
-        "answer_evidence": "leave it where it is and tell a team leader",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“留在原地并报告组长”：别自行搬到中央垃圾堆。不选“自己带到中央”：公告明确禁止；不选“记成空袋”：物件不是空袋；不选“藏普通垃圾袋”：把未确认物混入违背处理步骤。",
+        "answer_evidence": "If you find an object you cannot identify, leave it where it is and tell a team leader; don't carry it to the central pile.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1597,7 +1597,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：这题问不同站点的垃圾袋为什么要分开。“linked to the correct location”是能把统计结果对应到正确地点。\n解析：先分袋，才知道哪处收了多少；混成一堆就丢了来源。不是为了让袋子显大，也不是把全部算在中央站或避免清点。\n下次：听到分地点收集，先保留每袋的来源，再汇总数字，检查统计是否还能对应原地点。"
+        "explanation": "读懂：这题问为什么各站垃圾袋分开。“linked to the correct location”是能把统计结果对应到正确地点。\n解析：选“让统计数量能对应收集地点”：计数队要知道哪站收了什么。不选“让袋子显得更大”：外观非目的；不选“全部算中央站”：会丢失原地点；不选“防止统计内容”：恰好为了准确统计。\n下次：听到分地点收集，先保留每袋的来源，再汇总数字，检查统计是否还能对应原地点。"
       },
       "review": {
         "difficulty": "easy",
@@ -1607,9 +1607,9 @@
         "vocabulary": [
           "linked to the correct location"
         ],
-        "rationale": "调为简单：分袋是为了把数量对应到地点，目的在最后一句直接说明。",
-        "answer_evidence": "the counts can be linked to the correct location",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“让统计数量能对应收集地点”：计数队要知道哪站收了什么。不选“让袋子显得更大”：外观非目的；不选“全部算中央站”：会丢失原地点；不选“防止统计内容”：恰好为了准确统计。",
+        "answer_evidence": "Please keep each station's sacks separate so the counts can be linked to the correct location.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1632,7 +1632,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：这题问录播为什么下周才发布。“after captions have been checked”是字幕核对完以后。\n解析：今晚七点仍直播，延迟的是编辑后的录像。原因是核字幕，不是活动改期、等待更多问题或要等人人注册。\n下次：听到直播与录像，分别记举行时间和发布时间，再找哪个步骤让发布需要等待。"
+        "explanation": "读懂：这题问录像为什么下周才发布。“after captions have been checked”是字幕核对完以后。\n解析：选“先检查字幕”：实时活动今晚七点举行，编辑录像需完成字幕核验。不选“直播移到下周”：时间没改；不选“每个人注册后才发”：看回放不需注册；不选“等更多直播问题”：没有延迟收集问题的安排。\n下次：听到直播与录像，分别记举行时间和发布时间，再找哪个步骤让发布需要等待。"
       },
       "review": {
         "difficulty": "easy",
@@ -1642,9 +1642,9 @@
         "vocabulary": [
           "after captions have been checked"
         ],
-        "rationale": "调为简单：录像推迟到下周是先核字幕，原文直接给原因。",
-        "answer_evidence": "after captions have been checked",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“先检查字幕”：实时活动今晚七点举行，编辑录像需完成字幕核验。不选“直播移到下周”：时间没改；不选“每个人注册后才发”：看回放不需注册；不选“等更多直播问题”：没有延迟收集问题的安排。",
+        "answer_evidence": "The edited recording will be posted next week after captions have been checked.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1667,7 +1667,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问看回放的人可以做什么。“no longer be accepting submissions”是那时已不再接收提问。\n解析：回放可以不注册就看，但只有直播观众能当场提交问题。视频里看得到旧提问表，不代表它现在还开放；也无须曾在七点前注册。\n下次：听到录像展示一个入口，核对它现在是否仍开放，再分清观看资格和互动资格。"
+        "explanation": "读懂：这题问稍后看回放的人能做什么。“no longer be accepting submissions”是那时已不再接收提问。\n解析：选“不注册也可看，但提问表已关闭”：回放保留当时画面，不延长互动窗口。不选“只要播放表就永远开放”：录影中的表已失效；不选“通过录像截图提出新的现场问题”：只限实时参与者；不选“今晚七点前注册才可看”：回放无此要求。\n下次：听到录像展示一个入口，核对它现在是否仍开放，再分清观看资格和互动资格。"
       },
       "review": {
         "difficulty": "medium",
@@ -1677,9 +1677,9 @@
         "vocabulary": [
           "no longer be accepting submissions"
         ],
-        "rationale": "回放可以不注册就看，但只有直播观众能当场提交问题。视频里看得到旧提问表，不代表它现在还开放；也无须曾在七点前注册。 补清问题、英文意思及具体检查步骤。 原关系明示，按实际需求重分级。",
-        "answer_evidence": "Registering for the live stream is not required to watch the later recording",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“不注册也可看，但提问表已关闭”：回放保留当时画面，不延长互动窗口。不选“只要播放表就永远开放”：录影中的表已失效；不选“通过录像截图提出新的现场问题”：只限实时参与者；不选“今晚七点前注册才可看”：回放无此要求。",
+        "answer_evidence": "If you are watching later, the question form shown in the video will no longer be accepting submissions.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1702,7 +1702,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：这题问换到周六场需要什么。“only while seats remain”是还有余座才可换。\n解析：还须带原票在周四下午前办理，并由票房确认。仅提出申请不占座，不能不管余量；询问前也不必先放弃周五票。\n下次：听到换票，依次检查剩余座位、办理截止、原票和确认，别把请求提交当成已经成功。"
+        "explanation": "读懂：这题问换成周六票要满足什么。“only while seats remain”是还有余座才可换。\n解析：选“周六仍有空座且票房确认”：带原票在周四下午前办理，请求本身不占位。不选“询问前放弃周五票”：原票可先保留；不选“周六开演后才来”：过了办理期限；不选“只发请求不管空位”：确认前不保证成功。\n下次：听到换票，依次检查剩余座位、办理截止、原票和确认，别把请求提交当成已经成功。"
       },
       "review": {
         "difficulty": "medium",
@@ -1712,9 +1712,9 @@
         "vocabulary": [
           "only while seats remain"
         ],
-        "rationale": "还须带原票在周四下午前办理，并由票房确认。仅提出申请不占座，不能不管余量；询问前也不必先放弃周五票。 补清问题、英文意思及具体检查步骤。",
-        "answer_evidence": "does not hold a Saturday seat until staff confirm it",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“周六仍有空座且票房确认”：带原票在周四下午前办理，请求本身不占位。不选“询问前放弃周五票”：原票可先保留；不选“周六开演后才来”：过了办理期限；不选“只发请求不管空位”：确认前不保证成功。",
+        "answer_evidence": "Tickets for Friday's student play can be exchanged for Saturday only while seats remain.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1737,7 +1737,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：这题问周六满座时原票怎样处理。“you may keep the Friday ticket”是仍可保留周五票。\n解析：问能不能换不等于取消旧票。周六满了不会为每个请求另添座，也没有让两场变免费的安排。\n下次：听到变更申请失败，回到原安排看它是否继续有效，不把询问当作放弃原来的名额。"
+        "explanation": "读懂：这题问周六满座会怎样。“you may keep the Friday ticket”是仍可保留周五票。\n解析：选“仍可保留周五原票”：询问换票不会自动取消原权益。不选“两场因此免费”：没有补偿承诺；不选“原票自动取消”：公告明确否定；不选“每个申请都新增座位”：座位有限，满了不能保证换。\n下次：听到变更申请失败，回到原安排看它是否继续有效，不把询问当作放弃原来的名额。"
       },
       "review": {
         "difficulty": "easy",
@@ -1747,9 +1747,9 @@
         "vocabulary": [
           "not be canceled simply because you asked"
         ],
-        "rationale": "调为简单：周六满座仍保留周五票，原文直接给同一条件下的结果。",
-        "answer_evidence": "you may keep the Friday ticket",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“仍可保留周五原票”：询问换票不会自动取消原权益。不选“两场因此免费”：没有补偿承诺；不选“原票自动取消”：公告明确否定；不选“每个申请都新增座位”：座位有限，满了不能保证换。",
+        "answer_evidence": "If Saturday is full, you may keep the Friday ticket; it will not be canceled simply because you asked about changing it.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1772,7 +1772,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：这题问自行车绕行跟哪种标牌。“orange signs”是橙色标牌。\n解析：橙牌经过服务通道接回车道；蓝色行人牌去主入口，不接回去。不能只因看见主入口字样就跟走，也没有只在体育馆内找牌的指令。\n下次：听到多种颜色路线，把颜色与终点配在一起，再选适合自己出行方式的一条。"
+        "explanation": "读懂：这题问骑行绕路看哪种标志。“orange signs”是橙色标牌。\n解析：选“橙色标志”：沿服务通道绕施工后接回车道。不选“所有主入口指示”：主入口路线不接车道；不选“只有体育馆内标志”：绕路在室外通道；不选“蓝色标志”：那是行人通往主入口的路线。\n下次：听到多种颜色路线，把颜色与终点配在一起，再选适合自己出行方式的一条。"
       },
       "review": {
         "difficulty": "easy",
@@ -1782,9 +1782,9 @@
         "vocabulary": [
           "orange signs"
         ],
-        "rationale": "橙牌经过服务通道接回车道；蓝色行人牌去主入口，不接回去。不能只因看见主入口字样就跟走，也没有只在体育馆内找牌的指令。 补清问题、英文意思及具体检查步骤。",
-        "answer_evidence": "Follow the orange signs through the service lane",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“橙色标志”：沿服务通道绕施工后接回车道。不选“所有主入口指示”：主入口路线不接车道；不选“只有体育馆内标志”：绕路在室外通道；不选“蓝色标志”：那是行人通往主入口的路线。",
+        "answer_evidence": "Follow the orange signs through the service lane to rejoin it beyond the works.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1807,7 +1807,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：这题问经过共用庭院时怎么走。“walk their bicycles”是下车推着自行车走。\n解析：限制针对庭院这一小段，不是加速骑过，更不需把车留一周。蓝牌仍是去主入口的行人路线，不能用它接回车道。\n下次：听到路线中某段有特殊要求，标出那一段并改变动作，再检查没有扩大到整条路线。"
+        "explanation": "读懂：这题问经过共用庭院时骑车人须怎样。“walk their bicycles”是下车推着自行车走。\n解析：选“下车推行”：短段与行人共用，不能照常骑。不选“加速快过”：违背推行要求；不选“循蓝标接回车道”：蓝路不连车道；不选“把车留一周”：只是经过时推，不必长期停放。\n下次：听到路线中某段有特殊要求，标出那一段并改变动作，再检查没有扩大到整条路线。"
       },
       "review": {
         "difficulty": "easy",
@@ -1817,9 +1817,9 @@
         "vocabulary": [
           "walk their bicycles"
         ],
-        "rationale": "调为简单：共享庭院须推行自行车，是直接动作提取。",
-        "answer_evidence": "walk their bicycles through the short shared courtyard section",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“下车推行”：短段与行人共用，不能照常骑。不选“加速快过”：违背推行要求；不选“循蓝标接回车道”：蓝路不连车道；不选“把车留一周”：只是经过时推，不必长期停放。",
+        "answer_evidence": "Cyclists should walk their bicycles through the short shared courtyard section.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1842,7 +1842,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：这题问匿名稿件怎样还给作者。“return them by code”是凭识别代码归还。\n解析：稿子顶角写代码，作者自己保存对应记录，既能找回也不在正面署名。段落数和透露私人经历都不是归还依据。\n下次：听到匿名作品还要归还，找用什么代替姓名，再确认作者自己保留了对应记录。"
+        "explanation": "读懂：这题问匿名稿件怎样归还作者。“return them by code”是凭识别代码归还。\n解析：选“按识别代码”：顶角写短码，作者自己留底，再按码收回。不选“只按段落数量”：不可靠也未规定；不选“首页姓名”：要求去掉；不选“让大家公开个人细节”：可匿名收回，无需揭露。\n下次：听到匿名作品还要归还，找用什么代替姓名，再确认作者自己保留了对应记录。"
       },
       "review": {
         "difficulty": "easy",
@@ -1852,9 +1852,9 @@
         "vocabulary": [
           "return them by code"
         ],
-        "rationale": "调为简单：按识别码退回文稿，问题只问识别方式，未考正文可能暴露身份的另一个推理。",
-        "answer_evidence": "return them by code",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“按识别代码”：顶角写短码，作者自己留底，再按码收回。不选“只按段落数量”：不可靠也未规定；不选“首页姓名”：要求去掉；不选“让大家公开个人细节”：可匿名收回，无需揭露。",
+        "answer_evidence": "We'll exchange drafts for the first round of feedback, then return them by code.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1877,7 +1877,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：这题问为什么只删姓名还不够匿名。“recognize the situation”是同学仍可能认出文中讲的事情。\n解析：熟悉的个人经历也能让人猜到作者，所以还要检查正文细节。两份复印件不必然暴露身份，代码也不等于全名；活动没有要求公开署名。\n下次：听到不想被认出，除了姓名，再看内容里有没有别人熟悉的经历或细节，逐项检查识别线索。"
+        "explanation": "读懂：这题问只删姓名为何可能还不匿名。“recognize the situation”是同学仍可能认出文中讲的事情。\n解析：选“文中细节仍可能认出人或经历”：想隐藏身份还要删可辨认情境。不选“两份打印必暴露”：份数不必然识别人；不选“所有短码含全名”：代码并非姓名；不选“所有故事必须实名公开”：活动先匿名交换反馈。\n下次：听到不想被认出，除了姓名，再看内容里有没有别人熟悉的经历或细节，逐项检查识别线索。"
       },
       "review": {
         "difficulty": "medium",
@@ -1887,9 +1887,9 @@
         "vocabulary": [
           "recognize the situation"
         ],
-        "rationale": "熟悉的个人经历也能让人猜到作者，所以还要检查正文细节。两份复印件不必然暴露身份，代码也不等于全名；活动没有要求公开署名。 补清问题、英文意思及具体检查步骤。 原关系明示，按实际需求重分级。",
-        "answer_evidence": "remove personal details from the example itself if you don't want classmates to recognize the situation",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“文中细节仍可能认出人或经历”：想隐藏身份还要删可辨认情境。不选“两份打印必暴露”：份数不必然识别人；不选“所有短码含全名”：代码并非姓名；不选“所有故事必须实名公开”：活动先匿名交换反馈。",
+        "answer_evidence": "Please remove personal details from the example itself if you don't want classmates to recognize the situation.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1912,7 +1912,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：这题问站点是否必须按编号依次去。“any order”是顺序任意。\n解析：编号只用来把线索和答卷位置对应起来，不规定路线；也没有午前开始才可自由选顺序的条件。\n下次：听到编号，先确认它表示身份还是先后，再看选项有没有把标签误作行程要求。"
+        "explanation": "读懂：这题问必须按数字顺序走线索站吗。“any order”是顺序任意。\n解析：选“不必，数字只是线索编号”：可任意顺序走，但答案要记到匹配号下。不选“只有全部填完才可任意”：无此限制；不选“数字就是唯一路线”：公告明确否定；不选“中午前开始才自由”：没按开始时间区别。\n下次：听到编号，先确认它表示身份还是先后，再看选项有没有把标签误作行程要求。"
       },
       "review": {
         "difficulty": "easy",
@@ -1922,9 +1922,9 @@
         "vocabulary": [
           "any order"
         ],
-        "rationale": "编号只用来把线索和答卷位置对应起来，不规定路线；也没有午前开始才可自由选顺序的条件。 补清问题、英文意思及具体检查步骤。",
-        "answer_evidence": "its reference number, not a required visiting sequence",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“不必，数字只是线索编号”：可任意顺序走，但答案要记到匹配号下。不选“只有全部填完才可任意”：无此限制；不选“数字就是唯一路线”：公告明确否定；不选“中午前开始才自由”：没按开始时间区别。",
+        "answer_evidence": "Teams in the campus clue trail may visit the stations in any order.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1947,7 +1947,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问四点仍有题没解完时怎么办。“even if some clues remain unsolved”是即使还没全解出来。\n解析：所有队伍仍须回起点，外站四点关闭，不因进度延长。拆标牌是另一种未要求的行为；乱填编号也不能代替按时返回。\n下次：听到截止时间后有 even if（即使），检查哪个未完成情况也不能延期，再按统一时间行动。"
+        "explanation": "读懂：这题问四点仍有未解线索怎么办。“even if some clues remain unsolved”是即使还没全解出来。\n解析：选“返回起点服务台”：无论是否全解完，四点都要结束，户外站也关闭。不选“自己拆站牌”：工作人员负责关闭；不选“继续直至全解”：忽略统一截止；不选“随意填别的编号”：答案始终要与题号对应。\n下次：听到截止时间后有 even if（即使），检查哪个未完成情况也不能延期，再按统一时间行动。"
       },
       "review": {
         "difficulty": "easy",
@@ -1957,9 +1957,9 @@
         "vocabulary": [
           "even if some clues remain unsolved"
         ],
-        "rationale": "调为简单：四点未解完仍返回的情形已原样明说，不是新条件应用。",
-        "answer_evidence": "return to the starting desk by four, even if some clues remain unsolved",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“返回起点服务台”：无论是否全解完，四点都要结束，户外站也关闭。不选“自己拆站牌”：工作人员负责关闭；不选“继续直至全解”：忽略统一截止；不选“随意填别的编号”：答案始终要与题号对应。",
+        "answer_evidence": "All teams must return to the starting desk by four, even if some clues remain unsolved.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -1982,7 +1982,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：这题问岩石标本怎样找对应托盘。“matching code”是相符的编号。\n解析：标本外观相似，不能只按颜色放；托盘哪处空、学生先后离开都与标本归属无关。\n下次：听到相似物品归还，先找标签编号，再对照托盘编号，别用外观猜。"
+        "explanation": "读懂：这题问岩石怎样匹配回托盘。“matching code”是相符的编号。\n解析：选“按编号”：外观相似时仅看颜色会弄错。不选“哪个盘空就放哪”：忽略归属；不选“只看颜色”：公告明确反对；不选“按离场顺序”：人的顺序与标本编号无关。\n下次：听到相似物品归还，先找标签编号，再对照托盘编号，别用外观猜。"
       },
       "review": {
         "difficulty": "easy",
@@ -1992,9 +1992,9 @@
         "vocabulary": [
           "matching code"
         ],
-        "rationale": "标本外观相似，不能只按颜色放；托盘哪处空、学生先后离开都与标本归属无关。 补清问题、英文意思及具体检查步骤。",
-        "answer_evidence": "the tray with its matching code",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“按编号”：外观相似时仅看颜色会弄错。不选“哪个盘空就放哪”：忽略归属；不选“只看颜色”：公告明确反对；不选“按离场顺序”：人的顺序与标本编号无关。",
+        "answer_evidence": "After today's geology activity, return each rock specimen to the tray with its matching code.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2017,7 +2017,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：这题问标签松脱的标本放哪儿。“separate checking table”是单独的核查桌。\n解析：先放核查桌并告诉老师，不确定身份就不能按相近颜色随便归类。放大镜有自己的盒子，也不能把标本带回包里。\n下次：听到标签无法确认，先把物品单独留待核查，再找负责人，不强行放进看起来相似的一组。"
+        "explanation": "读懂：这题问标签松脱的标本放哪里。“separate checking table”是单独的核查桌。\n解析：选“单独核对桌，并告知教师”：不要猜归属，留待确认。不选“类似颜色盘”：容易混错；不选“带进自己包”：不是个人物品；不选“放大镜箱”：那是器材容器，不是待核标本区。\n下次：听到标签无法确认，先把物品单独留待核查，再找负责人，不强行放进看起来相似的一组。"
       },
       "review": {
         "difficulty": "easy",
@@ -2027,9 +2027,9 @@
         "vocabulary": [
           "separate checking table"
         ],
-        "rationale": "调为简单：标签松脱的标本放核查桌，地点直接明示。",
-        "answer_evidence": "the separate checking table",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“单独核对桌，并告知教师”：不要猜归属，留待确认。不选“类似颜色盘”：容易混错；不选“带进自己包”：不是个人物品；不选“放大镜箱”：那是器材容器，不是待核标本区。",
+        "answer_evidence": "If a label has come loose, leave that specimen on the separate checking table and tell the instructor.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2052,7 +2052,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：这题问闪灯是什么意思。“five minutes remain”是预约还剩五分钟。\n解析：这是收尾时间提醒，录音没有因此停止。它不表示接待处关闭，更不自动赠送下一小时。\n下次：听到新设备灯号，按通知给的定义配对，再分清剩余时间、设备状态和续用许可。"
+        "explanation": "读懂：这题问录音间灯闪表示什么。“five minutes remain”是预约还剩五分钟。\n解析：选“预约还剩五分钟”：用来保存工作并清场，不代表录音已停。不选“下一小时自动免费”：没授权续用；不选“接待处关门”：不是营业信号；不选“录音已结束”：公告明确区分剩时提示和实际停录。\n下次：听到新设备灯号，按通知给的定义配对，再分清剩余时间、设备状态和续用许可。"
       },
       "review": {
         "difficulty": "easy",
@@ -2062,9 +2062,9 @@
         "vocabulary": [
           "five minutes remain"
         ],
-        "rationale": "调为简单：闪灯表示还剩五分钟，信号定义已经提供。",
-        "answer_evidence": "five minutes remain",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“预约还剩五分钟”：用来保存工作并清场，不代表录音已停。不选“下一小时自动免费”：没授权续用；不选“接待处关门”：不是营业信号；不选“录音已结束”：公告明确区分剩时提示和实际停录。",
+        "answer_evidence": "A flashing light means five minutes remain; it does not mean the recording has stopped.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2087,7 +2087,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：这题问什么时候可以超过原预约继续用。“reception confirms an extension”是接待处确认延长时间。\n解析：需先获确认，光是去询问还不算。走廊没人或机器仍在录，也不能证明后面时段已归自己使用。\n下次：听到续用资源，先找谁有权确认，再核对是否已经答应，不用“眼前没人”代替许可。"
+        "explanation": "读懂：这题问什么时候可以超时继续用。“reception confirms an extension”是接待处确认延长时间。\n解析：选“接待处确认延长之后”：是否有后续预约需正式核实。不选“忽略闪灯便可”：忽略不产生许可；不选“走廊没人即可”：看不见人不等于空闲；不选“设备仍录着就可”：机器运行不等于预约已续。\n下次：听到续用资源，先找谁有权确认，再核对是否已经答应，不用“眼前没人”代替许可。"
       },
       "review": {
         "difficulty": "medium",
@@ -2097,9 +2097,9 @@
         "vocabulary": [
           "reception confirms an extension"
         ],
-        "rationale": "需先获确认，光是去询问还不算。走廊没人或机器仍在录，也不能证明后面时段已归自己使用。 补清问题、英文意思及具体检查步骤。",
-        "answer_evidence": "only after reception confirms an extension",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“接待处确认延长之后”：是否有后续预约需正式核实。不选“忽略闪灯便可”：忽略不产生许可；不选“走廊没人即可”：看不见人不等于空闲；不选“设备仍录着就可”：机器运行不等于预约已续。",
+        "answer_evidence": "You may continue only after reception confirms an extension.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2122,7 +2122,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问捐来的大衣先放哪里。collection desk 是“收集台”。\n解析：大衣先交收集台，再由志愿者检查、贴尺码标签后上架。直接上架跳过检查；尺码标签由志愿者处理；周六是交换活动，不是指定的捐入时间。\n下次：听流程时按“先交哪里→谁检查→放哪里”记顺序，核对题目问的是哪一步。"
+        "explanation": "读懂：这题问捐外套首先交哪里。collection desk 是“收集台”。\n解析：选“周五收集台”：志愿者先查状况、贴尺码，再挂已检区。不选“直接放已检查衣架”：跳过检查；不选“周六交换开始才放架”：公告要求周五先收；不选“捐者自己在标签旁检查”：检查与贴标由志愿者负责。\n下次：听流程时按“先交哪里→谁检查→放哪里”记顺序，核对题目问的是哪一步。"
       },
       "review": {
         "difficulty": "easy",
@@ -2132,9 +2132,9 @@
         "vocabulary": [
           "collection desk on Friday"
         ],
-        "rationale": "大衣先交收集台，再由志愿者检查、贴尺码标签后上架。直接上架跳过检查；尺码标签由志愿者处理；周六是交换活动，不是指定的捐入时间。 补明问题、关键英文和可执行检查。 干扰项改为本场景的具体误读。",
-        "answer_evidence": "bring clean coats to the collection desk on Friday",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“周五收集台”：志愿者先查状况、贴尺码，再挂已检区。不选“直接放已检查衣架”：跳过检查；不选“周六交换开始才放架”：公告要求周五先收；不选“捐者自己在标签旁检查”：检查与贴标由志愿者负责。",
+        "answer_evidence": "For the winter coat exchange, bring clean coats to the collection desk on Friday.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2157,7 +2157,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问谁能参加周六的交换活动。even if 表示“即使”。\n解析：即使没有大衣可捐，也能参加，所以捐不捐都可以。材料没有要求先买新大衣、捐出同尺码大衣，也没有把参加者限制为志愿者。\n下次：听参加条件时留意“即使……也可以”，检查选项有没有多加材料没说的门槛。"
+        "explanation": "读懂：这题问谁可以来周六换衣活动。even if 表示“即使”。\n解析：选“有没有衣服可捐的人都能来”：目的是让可用衣物找到需要者。不选“只有周五检查志愿者”：对象不限工作人员；不选“只有买过新外套的人”：无购买条件；不选“必须捐同尺码才可拿”：没有一换一或尺码对等要求。\n下次：听参加条件时留意“即使……也可以”，检查选项有没有多加材料没说的门槛。"
       },
       "review": {
         "difficulty": "easy",
@@ -2167,9 +2167,9 @@
         "vocabulary": [
           "even if you have no coat to donate"
         ],
-        "rationale": "调为简单：即使没有衣服捐也可参加，直接提取参加资格，无额外条件。",
-        "answer_evidence": "You may attend Saturday's exchange even if you have no coat to donate",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“有没有衣服可捐的人都能来”：目的是让可用衣物找到需要者。不选“只有周五检查志愿者”：对象不限工作人员；不选“只有买过新外套的人”：无购买条件；不选“必须捐同尺码才可拿”：没有一换一或尺码对等要求。",
+        "answer_evidence": "You may attend Saturday's exchange even if you have no coat to donate; the event is intended to help usable clothing find someone who needs it.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2192,7 +2192,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问绿色卡片那排能提供什么保护。outside the camera’s view 表示“不在摄像机画面内”。\n解析：坐这一排可以不出镜，但发言仍会被录到。它不是缺席学生专座，也没有保证书面作业匿名；不要把“不拍到人”理解成“不录到声音”。\n下次：听录制安排时分别记“画面”和“声音”，再检查选项说的是哪一种。"
+        "explanation": "读懂：这题问绿色卡片那排能提供什么保护。outside the camera’s view 表示“不在摄像机画面内”。\n解析：选“不进入摄像画面”：可避免露脸，但发言仍会被听到。不选“只给今天缺席者”：缺席者不坐现场；不选“所有书面作业保证匿名”：未作这项承诺；不选“任何话都不会录到”：原话明确声音仍可被收录。\n下次：听录制安排时分别记“画面”和“声音”，再检查选项说的是哪一种。"
       },
       "review": {
         "difficulty": "medium",
@@ -2202,9 +2202,9 @@
         "vocabulary": [
           "outside the camera's view"
         ],
-        "rationale": "坐这一排可以不出镜，但发言仍会被录到。它不是缺席学生专座，也没有保证书面作业匿名；不要把“不拍到人”理解成“不录到声音”。 补明问题、关键英文和可执行检查。",
+        "rationale": "选“不进入摄像画面”：可避免露脸，但发言仍会被听到。不选“只给今天缺席者”：缺席者不坐现场；不选“所有书面作业保证匿名”：未作这项承诺；不选“任何话都不会录到”：原话明确声音仍可被收录。",
         "answer_evidence": "That row is outside the camera's view, but spoken contributions will still be audible.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2227,7 +2227,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问通知给不愿开口的学生提供了什么办法。written comment 是“书面意见”，应找说话人明确给出的参与方式。\n解析：把书面意见交给老师，是公告指定的办法。绿色座位和镜头转开都只改变画面，不能排除声音被录；请同学代读是另想的方案，公告没有提供，不能据此说它已获安排。\n下次：题目问通知提供什么办法，先找明确的动作和接收人，再核对限制；不要把自己想到的可行方案当作材料已经给出的选项。"
+        "explanation": "读懂：这题问不想开口的人可以怎样参与。written comment 是“书面意见”，应找说话人明确给出的参与方式。\n解析：选“把书面意见交导师”：不用发声也能表达看法。不选“必须让同学念”：没提出代读；不选“镜头转开时继续说”：镜头不对着也可能录音；不选“绿排声音录不到所以可说”：错把避开画面当成隔音。\n下次：题目问通知提供什么办法，先找明确的动作和接收人，再核对限制；不要把自己想到的可行方案当作材料已经给出的选项。"
       },
       "review": {
         "difficulty": "easy",
@@ -2237,9 +2237,9 @@
         "vocabulary": [
           "written comment"
         ],
-        "rationale": "调为简单：改为明确询问说话人提供的办法，正项直接是交书面意见，避免把同学代读的未说明方案错说成必然录到本人声音。",
+        "rationale": "选“把书面意见交导师”：不用发声也能表达看法。不选“必须让同学念”：没提出代读；不选“镜头转开时继续说”：镜头不对着也可能录音；不选“绿排声音录不到所以可说”：错把避开画面当成隔音。",
         "answer_evidence": "You may submit a written comment to the tutor instead of speaking.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2262,7 +2262,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问参加者应自带什么。a container labeled with your name 是“标着自己姓名的容器”。\n解析：做好的食物可以带走，所以要自带有姓名标记的容器。食物是在课上做的；公用餐盘必须留在厨房；材料也没有要求给助教带姓名牌。\n下次：遇到携带要求，圈定“带什么”和“要有什么标记”，再排除属于现场公用的物品。"
+        "explanation": "读懂：这题问带回食物应自备什么。“a suitable container labeled with your name”是写有自己姓名、适合盛装食物的容器。\n解析：选“写有自己姓名的合适容器”：辨认归属并带走个人食物。不选“给助手多带名牌”：未要求；不选“先做成一餐来分享”：食物在工作坊制作；不选“借走教学厨房公用盘”：公用餐盘必须留下。\n下次：遇到携带要求，圈定“带什么”和“要有什么标记”，再排除属于现场公用的物品。"
       },
       "review": {
         "difficulty": "easy",
@@ -2272,9 +2272,9 @@
         "vocabulary": [
           "container labeled with your name"
         ],
-        "rationale": "做好的食物可以带走，所以要自带有姓名标记的容器。食物是在课上做的；公用餐盘必须留在厨房；材料也没有要求给助教带姓名牌。 补明问题、关键英文和可执行检查。 干扰项改为本场景的具体误读。",
+        "rationale": "选“写有自己姓名的合适容器”：辨认归属并带走个人食物。不选“给助手多带名牌”：未要求；不选“先做成一餐来分享”：食物在工作坊制作；不选“借走教学厨房公用盘”：公用餐盘必须留下。",
         "answer_evidence": "Please bring a suitable container labeled with your name.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2297,7 +2297,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问备用容器的供应情况。limited supply 是“数量有限”。\n解析：忘带的人应在最后清理前向助教询问，但不保证每人都有。不能等助教走后再取，也不能把必须留在厨房的公用餐盘当备用容器。\n下次：听备用安排时一起记“数量限制”和“申请时间”，检查选项有没有把可申请说成保证有。"
+        "explanation": "读懂：这题问备用容器供应如何。limited supply 是“数量有限”。\n解析：选“数量有限，清理前先向助手询问”：不能假定人人都有。不选“每人保证一个”：公告明确否定；不选“直接拿公用上菜盘”：共用器皿不能带走；不选“助手都离开后才领”：反而要在最终清理前提出。\n下次：听备用安排时一起记“数量限制”和“申请时间”，检查选项有没有把可申请说成保证有。"
       },
       "review": {
         "difficulty": "medium",
@@ -2307,9 +2307,9 @@
         "vocabulary": [
           "limited supply"
         ],
-        "rationale": "忘带的人应在最后清理前向助教询问，但不保证每人都有。不能等助教走后再取，也不能把必须留在厨房的公用餐盘当备用容器。 补明问题、关键英文和可执行检查。",
-        "answer_evidence": "ask the assistant before the final cleanup begins; a limited supply of spare containers is available.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“数量有限，清理前先向助手询问”：不能假定人人都有。不选“每人保证一个”：公告明确否定；不选“直接拿公用上菜盘”：共用器皿不能带走；不选“助手都离开后才领”：反而要在最终清理前提出。",
+        "answer_evidence": "If you forget a container, ask the assistant before the final cleanup begins; a limited supply of spare containers is available.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2332,7 +2332,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问抽奖用的邮箱填在哪里。separate link 是“另一个链接”。\n解析：交完匿名调查后，通过单独链接填写抽奖表；邮箱放在那里。调查意见框不能留联系方式，调查答案和抽奖登记也不是同一张表。\n下次：遇到两个表单，先给各自标上用途，再把联系信息放到明确要求它的那一张。"
+        "explanation": "读懂：这题问抽奖邮箱填在哪里。separate link 是“另一个链接”。\n解析：选“另一个抽奖表”：答完问卷后跟独立链接报名，与答卷分开储存。不选“问卷首页先填”：问卷不问姓名，也未设此邮箱栏；不选“每题答案旁”：把联系方式混入调查；不选“开放评论框”：公告明确不要放联系信息。\n下次：遇到两个表单，先给各自标上用途，再把联系信息放到明确要求它的那一张。"
       },
       "review": {
         "difficulty": "easy",
@@ -2342,9 +2342,9 @@
         "vocabulary": [
           "separate link"
         ],
-        "rationale": "调为简单：邮箱填单独抽奖表，是直接地点/表单定位，不要求判断数据匿名技术。",
-        "answer_evidence": "you may follow a separate link to enter a prize draw with your email address.",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“另一个抽奖表”：答完问卷后跟独立链接报名，与答卷分开储存。不选“问卷首页先填”：问卷不问姓名，也未设此邮箱栏；不选“每题答案旁”：把联系方式混入调查；不选“开放评论框”：公告明确不要放联系信息。",
+        "answer_evidence": "After submitting it, you may follow a separate link to enter a prize draw with your email address.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2367,7 +2367,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问不参加抽奖会不会影响调查。optional 是“可选的”，has no effect 是“不影响”。\n解析：抽奖可以不参加，问卷仍然有效。没有说会删除答案、要求重交或把匿名问卷改成实名；这些都把独立的奖励活动误当成调查条件。\n下次：听到可选活动，找它是否影响主任务；若明确“不影响”，就排除增加后果的选项。"
+        "explanation": "读懂：这题问不参加抽奖会怎样。optional 是“可选的”，has no effect 是“不影响”。\n解析：选“问卷仍有效计入”：抽奖自愿，不影响调查回复。不选“必须再填一次”：无此补填；不选“答卷自动删除”：明确不受影响；不选“公开署名”：不抽奖不产生姓名，更不会因此实名公开。\n下次：听到可选活动，找它是否影响主任务；若明确“不影响”，就排除增加后果的选项。"
       },
       "review": {
         "difficulty": "easy",
@@ -2377,9 +2377,9 @@
         "vocabulary": [
           "has no effect on whether your survey counts"
         ],
-        "rationale": "抽奖可以不参加，问卷仍然有效。没有说会删除答案、要求重交或把匿名问卷改成实名；这些都把独立的奖励活动误当成调查条件。 补明问题、关键英文和可执行检查。",
+        "rationale": "选“问卷仍有效计入”：抽奖自愿，不影响调查回复。不选“必须再填一次”：无此补填；不选“答卷自动删除”：明确不受影响；不选“公开署名”：不抽奖不产生姓名，更不会因此实名公开。",
         "answer_evidence": "Entering the draw is optional and has no effect on whether your survey counts.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2402,7 +2402,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问付款时拿什么去服务台。numbered tag 是“带编号的标签”。\n解析：买家只拿标签去付款，实物先留在展台，由志愿者取来。不是把作品自己搬走，也不用带同伴收据；定价销售更不需要竞价单。\n下次：听购物步骤时分清“带标签付款”和“拿到实物”，检查谁负责移动物品。"
+        "explanation": "读懂：这题问买家拿什么去收款台。numbered tag 是“带编号的标签”。\n解析：选“物品的编号价签”：实物先留展示处，由志愿者之后取给你。不选“拍卖出价单”：这是固定价格销售；不选“直接搬实物去”：要求先拿标签；不选“别人的收据”：不能代表自己的购买项目。\n下次：听购物步骤时分清“带标签付款”和“拿到实物”，检查谁负责移动物品。"
       },
       "review": {
         "difficulty": "easy",
@@ -2412,9 +2412,9 @@
         "vocabulary": [
           "numbered tag"
         ],
-        "rationale": "买家只拿标签去付款，实物先留在展台，由志愿者取来。不是把作品自己搬走，也不用带同伴收据；定价销售更不需要竞价单。 补明问题、关键英文和可执行检查。 干扰项改为本场景的具体误读。",
-        "answer_evidence": "bring its numbered tag to the payment desk",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“物品的编号价签”：实物先留展示处，由志愿者之后取给你。不选“拍卖出价单”：这是固定价格销售；不选“直接搬实物去”：要求先拿标签；不选“别人的收据”：不能代表自己的购买项目。",
+        "answer_evidence": "To buy an item, bring its numbered tag to the payment desk; leave the object on display until a volunteer collects it for you.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2437,7 +2437,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问什么时候应把标签放回去。decide not to buy 是“决定不买”。\n解析：取标签只在等待付款期间保留商品；决定不买就应还签。还想购买时不用先还，放弃后也不该一直占到活动结束；他人询问别的商品与此无关。\n下次：先找临时保留的条件，再问这个条件是否仍成立；放弃购买就检查是否要释放商品。"
+        "explanation": "读懂：这题问什么时候该把标签放回。decide not to buy 是“决定不买”。\n解析：选“决定不买时”：标签只是排队付款期间暂保留物品，放弃就释放。不选“别人问无关商品时”：与这件购买无关；不选“必须等整场结束”：会不必要占住；不选“仍打算买却排队前归还”：排队付款期间可持标签。\n下次：先找临时保留的条件，再问这个条件是否仍成立；放弃购买就检查是否要释放商品。"
       },
       "review": {
         "difficulty": "easy",
@@ -2447,9 +2447,9 @@
         "vocabulary": [
           "if you decide not to buy"
         ],
-        "rationale": "调为简单：不买就还标签，是直接触发条件和动作。",
+        "rationale": "选“决定不买时”：标签只是排队付款期间暂保留物品，放弃就释放。不选“别人问无关商品时”：与这件购买无关；不选“必须等整场结束”：会不必要占住；不选“仍打算买却排队前归还”：排队付款期间可持标签。",
         "answer_evidence": "Please return the tag if you decide not to buy.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2472,7 +2472,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问为什么需要提前申请档案箱。off-site storage 是“馆外存放处”。\n解析：工作人员需要时间从馆外把材料取来。问题在调取，不是读者要先读完材料、必须安排研究指导，或阅览室九点不开门。\n下次：听到提前申请，找后面说明的准备工作，别把开放时间当作材料到位时间。"
+        "explanation": "读懂：这题问为什么须提前申请档案箱。off-site storage 是“馆外存放处”。\n解析：选“有些要从校外仓储调取”：工作人员需要时间准备，前一天下午四点为期限。不选“先与导师读目录”：无此前提；不选“收齐全部申请阅览室才开”：阅览室九点照常；不选“每人必须安排导览研究课”：需要的是调档时间。\n下次：听到提前申请，找后面说明的准备工作，别把开放时间当作材料到位时间。"
       },
       "review": {
         "difficulty": "easy",
@@ -2482,9 +2482,9 @@
         "vocabulary": [
           "off-site storage"
         ],
-        "rationale": "调为简单：提前申请为从馆外调箱，原因直接给出。",
+        "rationale": "选“有些要从校外仓储调取”：工作人员需要时间准备，前一天下午四点为期限。不选“先与导师读目录”：无此前提；不选“收齐全部申请阅览室才开”：阅览室九点照常；不选“每人必须安排导览研究课”：需要的是调档时间。",
         "answer_evidence": "Staff use that time to retrieve material from off-site storage.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2507,7 +2507,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问什么能确认指定档案箱已经准备好。retrieval confirmation 是“材料已调取的确认通知”。\n解析：应等这份通知。目录中有箱子的记录，只说明馆里有它；阅览室开门只说明房间开放；提交申请本身也不代表已经调到。\n下次：需要某件资源时，区分“有记录、已申请、已备好”，找能证明最后一步完成的通知。"
+        "explanation": "读懂：这题问什么能确认某箱已准备好。retrieval confirmation 是“材料已调取的确认通知”。\n解析：选“调取完成的确认”：应等这一通知再围绕该箱安排研究。不选“目录里有箱名”：存在不代表已送到；不选“截止后递交请求本身”：可能来不及；不选“阅览室门已开”：场地营业不等于未调材料已在场。\n下次：需要某件资源时，区分“有记录、已申请、已备好”，找能证明最后一步完成的通知。"
       },
       "review": {
         "difficulty": "easy",
@@ -2517,9 +2517,9 @@
         "vocabulary": [
           "retrieval confirmation"
         ],
-        "rationale": "调为简单：具体箱子备好以调取确认通知为依据，关键词与正项直接对应。",
+        "rationale": "选“调取完成的确认”：应等这一通知再围绕该箱安排研究。不选“目录里有箱名”：存在不代表已送到；不选“截止后递交请求本身”：可能来不及；不选“阅览室门已开”：场地营业不等于未调材料已在场。",
         "answer_evidence": "Please wait for the retrieval confirmation before planning work around a specific box.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2542,7 +2542,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问开始时为什么盖住镜子。without relying on their reflection 是“不依赖镜中的自己”。\n解析：先盖镜子是为了靠记忆完成动作顺序；之后才打开镜子检查身体姿态。不是准备评分，也不是此时借镜子纠正姿态，更不是全程不再使用镜子。\n下次：听分阶段练习，分别记“这一阶段练什么”和“后面检查什么”，不要交换两者。"
+        "explanation": "读懂：这题问开始时为什么遮镜子。without relying on their reflection 是“不依赖镜中的自己”。\n解析：选“不靠镜像练习记动作顺序”：先锻炼记忆，后面再用镜子看姿态。不选“正式给记忆打分”：明确不是考试；不选“遮住时靠反射校对”：看不到反射；不选“整场都不用镜”：后来会揭开。\n下次：听分阶段练习，分别记“这一阶段练什么”和“后面检查什么”，不要交换两者。"
       },
       "review": {
         "difficulty": "easy",
@@ -2552,9 +2552,9 @@
         "vocabulary": [
           "without relying on their reflection"
         ],
-        "rationale": "先盖镜子是为了靠记忆完成动作顺序；之后才打开镜子检查身体姿态。不是准备评分，也不是此时借镜子纠正姿态，更不是全程不再使用镜子。 补明问题、关键英文和可执行检查。 干扰项改为本场景的具体误读。",
+        "rationale": "选“不靠镜像练习记动作顺序”：先锻炼记忆，后面再用镜子看姿态。不选“正式给记忆打分”：明确不是考试；不选“遮住时靠反射校对”：看不到反射；不选“整场都不用镜”：后来会揭开。",
         "answer_evidence": "This is to help dancers practice remembering the sequence without relying on their reflection.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2577,7 +2577,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问这一阶段应怎样看待做错动作。mistakes are expected 是“练习中预计会出错”。\n解析：这不是考核，出错属于练习过程，不代表考试不及格。也不能因此自己揭开镜子；后面仍会用镜子检查姿态。\n下次：先确认活动是练习还是评分，再判断错误意味着什么，并核对原有操作要求。"
+        "explanation": "读懂：这题问这一阶段出错应怎样理解。mistakes are expected 是“练习中预计会出错”。\n解析：选“练习中预期会发生”：任务是在少了镜像帮助后学习，不是一次定成败。不选“自动考试不及格”：非正式考核；不选“可以自行揭布”：应等老师揭；不选“以后永不检查姿态”：后面会用镜子检查对齐。\n下次：先确认活动是练习还是评分，再判断错误意味着什么，并核对原有操作要求。"
       },
       "review": {
         "difficulty": "easy",
@@ -2587,9 +2587,9 @@
         "vocabulary": [
           "mistakes are expected"
         ],
-        "rationale": "调为简单：mistakes are expected 已直接说明，不以舞蹈专业场景增加难度。",
+        "rationale": "选“练习中预期会发生”：任务是在少了镜像帮助后学习，不是一次定成败。不选“自动考试不及格”：非正式考核；不选“可以自行揭布”：应等老师揭；不选“以后永不检查姿态”：后面会用镜子检查对齐。",
         "answer_evidence": "It is not an assessment, and mistakes are expected.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2612,7 +2612,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问负责归还器材的表演者上车前做什么。before boarding 是“上车之前”。\n解析：要先把器材送到装卸台。不能放在车座旁就算归还，也不能把找器材的责任交给司机或自行改发车时间。\n下次：听“之前、之后”时把动作排成两步，核对题目问的先后关系和执行人。"
+        "explanation": "读懂：这题问负责还设备者上车前做什么。before boarding 是“上车之前”。\n解析：选“把设备送到装载台”：先交接再登十点侧门巴士。不选“留自己座位旁”：不是指定交付点；不选“不通知就改十一点发车”：发车保持原定；不选“让司机上台找设备”：司机不能为个人找箱等待。\n下次：听“之前、之后”时把动作排成两步，核对题目问的先后关系和执行人。"
       },
       "review": {
         "difficulty": "easy",
@@ -2622,9 +2622,9 @@
         "vocabulary": [
           "before boarding"
         ],
-        "rationale": "调为简单：上车前把器材交装卸台，是直接操作定位。",
+        "rationale": "选“把设备送到装载台”：先交接再登十点侧门巴士。不选“留自己座位旁”：不是指定交付点；不选“不通知就改十一点发车”：发车保持原定；不选“让司机上台找设备”：司机不能为个人找箱等待。",
         "answer_evidence": "Anyone assigned to return equipment should take it to the loading desk before boarding.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2647,7 +2647,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问找不到器材箱时应怎么办。tell the stage manager 是“告诉舞台主管”。\n解析：应马上报告，由另一组工作人员继续寻找，大巴仍准时发车。不能让所有乘客等待，也不能拿别人的箱子凑数，更不能因为发车就当作已归还。\n下次：听突发情况时找“向谁报告”和“谁继续处理”，再检查是否需要改变所有人的安排。"
+        "explanation": "读懂：这题问器材箱去向不明怎么办。tell the stage manager 是“告诉舞台主管”。\n解析：选“立刻报告舞台经理，由另一员工组追查”：客车仍按时走。不选“所有乘客都等每人重找”：公告明确不延误全车；不选“拿别人的箱补数”：掩盖真实缺失；不选“车要走就当已还”：离场时间不能证明归还。\n下次：听突发情况时找“向谁报告”和“谁继续处理”，再检查是否需要改变所有人的安排。"
       },
       "review": {
         "difficulty": "easy",
@@ -2657,9 +2657,9 @@
         "vocabulary": [
           "separate staff team will follow up"
         ],
-        "rationale": "调为简单：箱子不见先报舞台主管、由另一组跟进，原文已明确，不需自行安排搜寻。",
-        "answer_evidence": "tell the stage manager immediately; a separate staff team will follow up",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“立刻报告舞台经理，由另一员工组追查”：客车仍按时走。不选“所有乘客都等每人重找”：公告明确不延误全车；不选“拿别人的箱补数”：掩盖真实缺失；不选“车要走就当已还”：离场时间不能证明归还。",
+        "answer_evidence": "If a case is unaccounted for, tell the stage manager immediately; a separate staff team will follow up, while the passenger departure stays on schedule.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2682,7 +2682,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问地方历史馆藏现在在哪里。second floor 是“二楼”。\n解析：材料直接说已搬到二楼。入口是领新地图的位置，研习室里是尚未更换的旧地图，都不是馆藏的新位置；也没有说搬出馆外。\n下次：听到多个地点，给每处配上对应事物，最后只取题目问的馆藏位置。"
+        "explanation": "读懂：这题问地方史收藏现在在哪里。second floor 是“二楼”。\n解析：选“二楼”：收藏搬了楼层，但目录学科标签不变。不选“入口服务台”：那里有新地图和咨询，不是收藏位置；不选“每个自习室”：那里还有待替换旧图；不选“地图外的校外建筑”：公告明确楼内二楼。\n下次：听到多个地点，给每处配上对应事物，最后只取题目问的馆藏位置。"
       },
       "review": {
         "difficulty": "easy",
@@ -2692,9 +2692,9 @@
         "vocabulary": [
           "second floor"
         ],
-        "rationale": "材料直接说已搬到二楼。入口是领新地图的位置，研习室里是尚未更换的旧地图，都不是馆藏的新位置；也没有说搬出馆外。 补明问题、关键英文和可执行检查。",
-        "answer_evidence": "The local-history collection has moved to the second floor",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“二楼”：收藏搬了楼层，但目录学科标签不变。不选“入口服务台”：那里有新地图和咨询，不是收藏位置；不选“每个自习室”：那里还有待替换旧图；不选“地图外的校外建筑”：公告明确楼内二楼。",
+        "answer_evidence": "The local-history collection has moved to the second floor, but its catalog subject labels are unchanged.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2717,7 +2717,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问怎样认出当前地图。September Update 是“九月更新版”的标记。\n解析：看这个更新标记，才能认出反映现布局的地图。旧图还没全部换掉，因此不能见到就用；纸张大小和看到的先后顺序都不能说明版本。\n下次：新旧信息并存时先查日期或版本；仍有冲突再问工作人员，不凭外观判断。"
+        "explanation": "读懂：这题问怎样识别最新地图。September Update 是“九月更新版”的标记。\n解析：选“找标有九月更新的版本”：日期标记说明当前布局。不选“自动信任何自习室旧图”：部分尚未换；不选“越大越新”：尺寸无此意义；不选“忽略日期信第一块牌”：标志冲突时应问服务台。\n下次：新旧信息并存时先查日期或版本；仍有冲突再问工作人员，不凭外观判断。"
       },
       "review": {
         "difficulty": "easy",
@@ -2727,9 +2727,9 @@
         "vocabulary": [
           "September Update"
         ],
-        "rationale": "调为简单：September Update 标记与正项原词对应。",
-        "answer_evidence": "copies marked September Update show the current arrangement.",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“找标有九月更新的版本”：日期标记说明当前布局。不选“自动信任何自习室旧图”：部分尚未换；不选“越大越新”：尺寸无此意义；不选“忽略日期信第一块牌”：标志冲突时应问服务台。",
+        "answer_evidence": "Until then, follow the date on the map: copies marked September Update show the current arrangement.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2752,7 +2752,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问电子速写本按什么格式提交。one ordered file 是“一个按页序排列的文件”。\n解析：指定页面的图片要按顺序合成一个文件。不能每页分开交；只列页码没有图片不够；原本自己保留，不用交纸本。\n下次：提交前核对“哪些内容、什么顺序、几个文件”，用预览检查三项是否都满足。"
+        "explanation": "读懂：这题问速写本按什么形式提交。one ordered file 是“一个按页序排列的文件”。\n解析：选“指定页面按序合成一个文件上传”：原本自己保留，不交实体。不选“每页一个独立文件”：要求一个有序文件；不选“只交实物”：明确无需；不选“只有页码不含图像”：要交页面图像且笔记清晰。\n下次：提交前核对“哪些内容、什么顺序、几个文件”，用预览检查三项是否都满足。"
       },
       "review": {
         "difficulty": "easy",
@@ -2762,9 +2762,9 @@
         "vocabulary": [
           "one ordered file"
         ],
-        "rationale": "调为简单：一个有序图片文件直接说明，不需推断提交格式。",
-        "answer_evidence": "upload images of the required pages as one ordered file.",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“指定页面按序合成一个文件上传”：原本自己保留，不交实体。不选“每页一个独立文件”：要求一个有序文件；不选“只交实物”：明确无需；不选“只有页码不含图像”：要交页面图像且笔记清晰。",
+        "answer_evidence": "For Friday's sketchbook submission, upload images of the required pages as one ordered file.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2787,7 +2787,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问上传成功提示能证明什么。the file arrived 是“文件已经收到”。\n解析：它只确认文件送达，不检查淡铅笔字是否清楚。也不代表老师已评分或可以省去预览，所以仍要自己检查图片。\n下次：看到成功提示，先问它确认的是哪一步，再单独检查它没有验证的内容。"
+        "explanation": "读懂：这题问上传成功消息能确认什么。the file arrived 是“文件已经收到”。\n解析：选“收到文件，不能保证每页清楚”：还得本人预览页码和浅铅笔字。不选“所有浅字可读”：系统收件不检查这种质量；不选“导师已评分”：尚未评；不选“以后无需预览”：公告明确要求自行核对。\n下次：看到成功提示，先问它确认的是哪一步，再单独检查它没有验证的内容。"
       },
       "review": {
         "difficulty": "medium",
@@ -2797,9 +2797,9 @@
         "vocabulary": [
           "confirms that the file arrived"
         ],
-        "rationale": "它只确认文件送达，不检查淡铅笔字是否清楚。也不代表老师已评分或可以省去预览，所以仍要自己检查图片。 补明问题、关键英文和可执行检查。 依据已明确说出，按实际需求重分级。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
+        "rationale": "选“收到文件，不能保证每页清楚”：还得本人预览页码和浅铅笔字。不选“所有浅字可读”：系统收件不检查这种质量；不选“导师已评分”：尚未评；不选“以后无需预览”：公告明确要求自行核对。",
         "answer_evidence": "A successful upload message confirms that the file arrived, not that every image is clear.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2822,7 +2822,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问初学者在哪里等候。bench by the noticeboard 是“告示板旁的长椅”。\n解析：先在那里等教练签到，再下水。靠入口的泳道是上课位置，远端泳道给熟练泳者；两处都不是指定的等候点。\n下次：把“集合等候”和“正式活动”分开记，选择下水前应去的位置。"
+        "explanation": "读懂：这题问初学游泳者先在哪里等。bench by the noticeboard 是“告示板旁的长椅”。\n解析：选“告示板旁长凳”：教练先签到，再带进水中。不选“楼外等到明天”：课程今天照常；不选“远侧泳道”：那里留熟练游泳者；不选“最近泳道端头”：公告明确别在那里聚集。\n下次：把“集合等候”和“正式活动”分开记，选择下水前应去的位置。"
       },
       "review": {
         "difficulty": "easy",
@@ -2832,9 +2832,9 @@
         "vocabulary": [
           "bench by the noticeboard"
         ],
-        "rationale": "先在那里等教练签到，再下水。靠入口的泳道是上课位置，远端泳道给熟练泳者；两处都不是指定的等候点。 补明问题、关键英文和可执行检查。",
+        "rationale": "选“告示板旁长凳”：教练先签到，再带进水中。不选“楼外等到明天”：课程今天照常；不选“远侧泳道”：那里留熟练游泳者；不选“最近泳道端头”：公告明确别在那里聚集。",
         "answer_evidence": "Please wait on the bench by the noticeboard instead of gathering at the lane end.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2857,7 +2857,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问今天初学组使用哪几条泳道。nearest the entrance 是“离入口最近的”，这是指定位置。\n解析：初学组用入口最近的两条；远端泳道在这一小时给熟练泳者，不能两组对调。这里有明确分配，不是任意选空道，也没有把整个泳池都给初学组。\n下次：先把人群与指定位置配对，再核对数量和使用时段；检查有没有把另一组的位置套给本组，或把两条泳道扩大成全部。"
+        "explanation": "读懂：这题问初学组今天用哪两道。nearest the entrance 是“离入口最近的”，这是指定位置。\n解析：选“靠入口最近的两道”：场地分配明确。不选“哪道空用哪道”：不是自由选择；不选“远侧泳道”：那是熟练者区；不选“整个泳池”：其余泳道仍有不同安排。\n下次：先把人群与指定位置配对，再核对数量和使用时段；检查有没有把另一组的位置套给本组，或把两条泳道扩大成全部。"
       },
       "review": {
         "difficulty": "easy",
@@ -2867,9 +2867,9 @@
         "vocabulary": [
           "two lanes nearest the entrance"
         ],
-        "rationale": "调为简单：原文只指定今天用哪两道，未确认相对往常有变化；改问今天分配的泳道并按直接信息标简单。",
-        "answer_evidence": "two lanes nearest the entrance",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“靠入口最近的两道”：场地分配明确。不选“哪道空用哪道”：不是自由选择；不选“远侧泳道”：那是熟练者区；不选“整个泳池”：其余泳道仍有不同安排。",
+        "answer_evidence": "The beginner swimming session will use the two lanes nearest the entrance today.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2892,7 +2892,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问盘点时为什么拿书前要先询问。record its movement 是“记录书被拿到哪里”。\n解析：工作人员要跟踪书的去向，避免误记为丢失。仍能申请拿书阅读，所以不是全馆禁读或永久撤藏，也没提额外购买费。\n下次：听临时限制时找目的句，再检查限制是增加登记步骤，还是确实禁止使用。"
+        "explanation": "读懂：这题问盘点时拿艺术参考书为何先问。record its movement 是“记录书被拿到哪里”。\n解析：选“员工要记录书的移动”：避免有人正在读的书被误标失踪。不选“每书另收购买费”：不是销售；不选“全收藏永久撤销”：只是盘点；不选“全馆禁读”：仍可申请阅读，限制是记录流转。\n下次：听临时限制时找目的句，再检查限制是增加登记步骤，还是确实禁止使用。"
       },
       "review": {
         "difficulty": "easy",
@@ -2902,9 +2902,9 @@
         "vocabulary": [
           "record its movement"
         ],
-        "rationale": "调为简单：取书前告知是为盘点时记录去向，原文直接给原因。",
-        "answer_evidence": "staff will record its movement so it isn't mistakenly marked missing.",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“员工要记录书的移动”：避免有人正在读的书被误标失踪。不选“每书另收购买费”：不是销售；不选“全收藏永久撤销”：只是盘点；不选“全馆禁读”：仍可申请阅读，限制是记录流转。",
+        "answer_evidence": "You may still request a book for reading, and staff will record its movement so it isn't mistakenly marked missing.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2927,7 +2927,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问特殊规定何时结束。when the signs are removed 是“提示牌撤下时”。\n解析：材料用撤牌作为结束信号。有人要书、借阅期结束或书架看起来整齐，都不能代替这个明确条件。\n下次：遇到结束条件，把它记成可观察的信号；选择时不要用自己的进度猜测替代。"
+        "explanation": "读懂：这题问特别限制何时结束。when the signs are removed 是“提示牌撤下时”。\n解析：选“盘点告示移除时”：以馆方撤标为准。不选“读者看着架子整齐就行”：外观不证明盘完；不选“所有借期结束”：无关；不选“第一人申请书就结束”：申请可在限制中办理，不取消整项措施。\n下次：遇到结束条件，把它记成可观察的信号；选择时不要用自己的进度猜测替代。"
       },
       "review": {
         "difficulty": "easy",
@@ -2937,9 +2937,9 @@
         "vocabulary": [
           "when the signs are removed"
         ],
-        "rationale": "材料用撤牌作为结束信号。有人要书、借阅期结束或书架看起来整齐，都不能代替这个明确条件。 补明问题、关键英文和可执行检查。",
+        "rationale": "选“盘点告示移除时”：以馆方撤标为准。不选“读者看着架子整齐就行”：外观不证明盘完；不选“所有借期结束”：无关；不选“第一人申请书就结束”：申请可在限制中办理，不取消整项措施。",
         "answer_evidence": "The restriction ends when the signs are removed.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2962,7 +2962,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问海报卷用什么标记。by order number 是“按订单编号”。\n解析：因为多名报告人同姓，所以用订单号区分。姓氏并不可靠；标题虽然需要检查，但不是卷外标签；报告场次也不是指定的标记。\n下次：听到“用某项而不用另一项”，先记实际标记，再检查提到的其他信息只是用途不同。"
+        "explanation": "读懂：这题问海报卷用什么标识。by order number 是“按订单编号”。\n解析：选“订单号”：同姓报告人多，用编号避免混淆。不选“海报标题”：虽须核对标题，但卷的标记是编号；不选“报告场次”：没有此标记；不选“只有姓氏”：公告特意不用姓氏区分。\n下次：听到“用某项而不用另一项”，先记实际标记，再检查提到的其他信息只是用途不同。"
       },
       "review": {
         "difficulty": "easy",
@@ -2972,9 +2972,9 @@
         "vocabulary": [
           "by order number rather than surname"
         ],
-        "rationale": "因为多名报告人同姓，所以用订单号区分。姓氏并不可靠；标题虽然需要检查，但不是卷外标签；报告场次也不是指定的标记。 补明问题、关键英文和可执行检查。 干扰项改为本场景的具体误读。",
-        "answer_evidence": "Rolls are labeled by order number rather than surname",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“订单号”：同姓报告人多，用编号避免混淆。不选“海报标题”：虽须核对标题，但卷的标记是编号；不选“报告场次”：没有此标记；不选“只有姓氏”：公告特意不用姓氏区分。",
+        "answer_evidence": "Rolls are labeled by order number rather than surname because several presenters share the same family name.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -2997,7 +2997,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问帮同事领海报还需带什么。that colleague’s number 是“那位同事的订单号”。\n解析：每卷分别按订单号领取，所以除了自己的号码，还要同事的号码。自己的号码不能代表所有订单，也不必重下单或带整份讲稿。\n下次：代领多件物品时，检查每件是否有独立凭据，别把一人的号码套用于全部物品。"
+        "explanation": "读懂：这题问代同事领取还要带什么。that colleague’s number 是“那位同事的订单号”。\n解析：选“同事的订单号”：自己的号只对应自己的卷，每卷分别交付。不选“重新给同海报下单”：不需重复购买；不选“只用自己的号领全部”：无法明确同事订单；不选“同事完整讲稿”：不是领取凭据。\n下次：代领多件物品时，检查每件是否有独立凭据，别把一人的号码套用于全部物品。"
       },
       "review": {
         "difficulty": "easy",
@@ -3007,9 +3007,9 @@
         "vocabulary": [
           "that colleague's number"
         ],
-        "rationale": "调为简单：代领须带同事订单号，原文直接说明同一场景。",
-        "answer_evidence": "bring that colleague's number as well as your own.",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“同事的订单号”：自己的号只对应自己的卷，每卷分别交付。不选“重新给同海报下单”：不需重复购买；不选“只用自己的号领全部”：无法明确同事订单；不选“同事完整讲稿”：不是领取凭据。",
+        "answer_evidence": "If you collect for a colleague, bring that colleague's number as well as your own.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3032,7 +3032,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问八点应该查看什么。final location 是“最终确定的集合地点”。\n解析：去社团网页查室内还是室外集合。八点是查更新的时间，不是保证开始步行的时间；这次通知也不是更改相机或登记物品价格。\n下次：听到天气备选安排，记下“何时、到哪里、查什么”，不要自行从天气推断最终地点。"
+        "explanation": "读懂：这题问八点应检查什么。final location 是“最终确定的集合地点”。\n解析：选“社团页公布的最终集合地点”：天气可能改变场地，通知会指明。不选“带的物品价格”：只要求能放桌上；不选“换相机型号”：仍带同一相机；不选“活动是否总八点开始”：八点是查看通知时间，不是宣布每次开场时间。\n下次：听到天气备选安排，记下“何时、到哪里、查什么”，不要自行从天气推断最终地点。"
       },
       "review": {
         "difficulty": "easy",
@@ -3042,9 +3042,9 @@
         "vocabulary": [
           "final location"
         ],
-        "rationale": "调为简单：八点查最终集合地点，信息与渠道直接明示。",
+        "rationale": "选“社团页公布的最终集合地点”：天气可能改变场地，通知会指明。不选“带的物品价格”：只要求能放桌上；不选“换相机型号”：仍带同一相机；不选“活动是否总八点开始”：八点是查看通知时间，不是宣布每次开场时间。",
         "answer_evidence": "Check the club page at eight for the final location.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3067,7 +3067,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问什么情况会把活动移到室内。strong-wind weather alert 是“强风天气预警”。\n解析：强风预警才触发室内方案，小雨仍照常进行。查网页是了解安排，带小物件是进入室内后的准备，都不是搬到室内的原因。\n下次：把每个条件和结果配对，再排除查询步骤或后续准备，确认真正的触发条件。"
+        "explanation": "读懂：这题问什么天气会让活动改到室内。“weather alert for strong winds”是强风天气警报；普通小雨不会触发这项改变。\n解析：选“强风天气警报”：这是触发室内方案的条件。不选“有人带小物件”：那是改室内后的准备；不选“八点查看网页”：查看行为不决定天气；不选“只要小雨”：小雨时户外照常。\n下次：把每个条件和结果配对，再排除查询步骤或后续准备，确认真正的触发条件。"
       },
       "review": {
         "difficulty": "easy",
@@ -3077,9 +3077,9 @@
         "vocabulary": [
           "strong winds"
         ],
-        "rationale": "调为简单：强风预警触发室内方案，直接识别条件；与 L173 结冻触发替代活动相当。",
-        "answer_evidence": "a weather alert for strong winds would move the session indoors.",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“强风天气警报”：这是触发室内方案的条件。不选“有人带小物件”：那是改室内后的准备；不选“八点查看网页”：查看行为不决定天气；不选“只要小雨”：小雨时户外照常。",
+        "answer_evidence": "Tomorrow's photography walk will go ahead in light rain, but a weather alert for strong winds would move the session indoors.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3102,7 +3102,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问地图虚线表示什么。evening service 是“晚间班车服务”。\n解析：虚线对应六点后运行的晚间路线；实线才表示白天路线。它不是步行道、全天停运线路，也不表示每班的发车时间。\n下次：看图例时把线型、含义和时间条件一起记，核对选项有没有把路线和班次混淆。"
+        "explanation": "读懂：这题问地图虚线表示什么。evening service 是“晚间班车服务”。\n解析：选“晚间接驳路线”：六点以后才运营，不是全天捷径。不选“任何时候都关闭”：晚上可用；不选“步行小路”：是班车路线；不选“白天所有发车时刻”：实线示白天路径，时刻另查表。\n下次：看图例时把线型、含义和时间条件一起记，核对选项有没有把路线和班次混淆。"
       },
       "review": {
         "difficulty": "easy",
@@ -3112,9 +3112,9 @@
         "vocabulary": [
           "evening service"
         ],
-        "rationale": "虚线对应六点后运行的晚间路线；实线才表示白天路线。它不是步行道、全天停运线路，也不表示每班的发车时间。 补明问题、关键英文和可执行检查。",
+        "rationale": "选“晚间接驳路线”：六点以后才运营，不是全天捷径。不选“任何时候都关闭”：晚上可用；不选“步行小路”：是班车路线；不选“白天所有发车时刻”：实线示白天路径，时刻另查表。",
         "answer_evidence": "The shuttle map now includes a dotted line showing the evening service.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3137,7 +3137,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问去哪里找发车时间。separate timetable 是“单独的时刻表”。\n解析：应看地图旁的时刻表。地图上的虚线、线段长度和停靠站数说明路线信息，不能直接给出发车时间。\n下次：先判断问题问“去哪里”还是“几点走”，然后选择路线图或时刻表核对。"
+        "explanation": "读懂：这题问发车时间到哪里看。separate timetable 是“单独的时刻表”。\n解析：选“地图旁单独的时刻表”：地图说明去哪，表说明什么时候走。不选“看线条长短”：长度不能给具体时刻；不选“只数站点”：站数不等于班次时间；不选“只看虚线”：虚线说明晚间线路，不列具体发车时刻。\n下次：先判断问题问“去哪里”还是“几点走”，然后选择路线图或时刻表核对。"
       },
       "review": {
         "difficulty": "easy",
@@ -3147,9 +3147,9 @@
         "vocabulary": [
           "separate timetable"
         ],
-        "rationale": "调为简单：发车时间看旁边时刻表，单一来源定位。",
+        "rationale": "选“地图旁单独的时刻表”：地图说明去哪，表说明什么时候走。不选“看线条长短”：长度不能给具体时刻；不选“只数站点”：站数不等于班次时间；不选“只看虚线”：虚线说明晚间线路，不列具体发车时刻。",
         "answer_evidence": "Departure times are printed in the separate timetable beside the map.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3172,7 +3172,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问清点桌游零件时参照什么。list inside the lid 是“盒盖内的清单”。\n解析：这张清单对应本套游戏应有的零件。上次有几人玩、借出柜放几盒、另一款游戏照片，都不能确定本套应有的数量。\n下次：清点物品时先找“对应这一套”的标准，再逐项比数量，别拿其他套装代替。"
+        "explanation": "读懂：这题问按什么清点桌游零件。list inside the lid 是“盒盖内的清单”。\n解析：选“盒盖内的清单”：逐项对照该游戏本身的组成。不选“储物架尺寸”：不包含零件列表；不选“上次玩家人数”：人数不等于配件数；不选“另一游戏照片”：游戏内容可能不同，不能替本盒清单。\n下次：清点物品时先找“对应这一套”的标准，再逐项比数量，别拿其他套装代替。"
       },
       "review": {
         "difficulty": "easy",
@@ -3182,9 +3182,9 @@
         "vocabulary": [
           "list inside the lid"
         ],
-        "rationale": "这张清单对应本套游戏应有的零件。上次有几人玩、借出柜放几盒、另一款游戏照片，都不能确定本套应有的数量。 用完整中文补明问题和具体误读。",
-        "answer_evidence": "use the list inside the lid to count its pieces.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“盒盖内的清单”：逐项对照该游戏本身的组成。不选“储物架尺寸”：不包含零件列表；不选“上次玩家人数”：人数不等于配件数；不选“另一游戏照片”：游戏内容可能不同，不能替本盒清单。",
+        "answer_evidence": "Before returning a borrowed board game, use the list inside the lid to count its pieces.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3207,7 +3207,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问为什么不能拿别的游戏零件补缺。different purpose 是“不同的用途”。\n解析：看起来相似的零件，作用可能不同，所以应报告缺了什么，保留各套原有内容。材料没说因为延长借期、换新盒子或只接受未拆包装的配件。\n下次：听替代方案的限制，找材料明确给出的原因；核对功能是否相同，别只看外形。"
+        "explanation": "读懂：这题问为什么不拿别的游戏零件补。different purpose 是“不同的用途”。\n解析：选“外形相似也可能用途不同”：会混乱两套内容，须如实报告缺哪件。不选“会自动延长借期”：无此规则；不选“柜台只收未拆包装”：借用品已可使用；不选“换件必需更大盒子”：主要问题是身份和用途不对应。\n下次：听替代方案的限制，找材料明确给出的原因；核对功能是否相同，别只看外形。"
       },
       "review": {
         "difficulty": "medium",
@@ -3217,9 +3217,9 @@
         "vocabulary": [
           "different purpose"
         ],
-        "rationale": "看起来相似的零件，作用可能不同，所以应报告缺了什么，保留各套原有内容。材料没说因为延长借期、换新盒子或只接受未拆包装的配件。 用完整中文补明问题和具体误读。 替换脱离情境的干扰项。",
+        "rationale": "选“外形相似也可能用途不同”：会混乱两套内容，须如实报告缺哪件。不选“会自动延长借期”：无此规则；不选“柜台只收未拆包装”：借用品已可使用；不选“换件必需更大盒子”：主要问题是身份和用途不对应。",
         "answer_evidence": "A substitute that looks similar may serve a different purpose.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3242,7 +3242,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问初选阶段交什么。photographs of up to three works 是“最多三件作品的照片”。\n解析：此时用照片评选，三件是上限，不是至少三件或必须三件；实物的包装和送达要求等入选后才发。\n下次：听提交要求时分别记“当前阶段、形式、数量上限”，不要提前执行下一阶段的任务。"
+        "explanation": "读懂：这题问第一轮应提交什么。photographs of up to three works 是“最多三件作品的照片”。\n解析：选“最多三件作品的照片”：先据照片选，实物入选后按指示送。不选“三件实物原件”：此时不要实体；不选“至少三件照片”：把数量上限听成下限；不选“已入选作品包装方案”：还在初选，未通知入选。\n下次：听提交要求时分别记“当前阶段、形式、数量上限”，不要提前执行下一阶段的任务。"
       },
       "review": {
         "difficulty": "medium",
@@ -3252,9 +3252,9 @@
         "vocabulary": [
           "photographs of up to three works"
         ],
-        "rationale": "此时用照片评选，三件是上限，不是至少三件或必须三件；实物的包装和送达要求等入选后才发。 用完整中文补明问题和具体误读。 替换脱离情境的干扰项。",
-        "answer_evidence": "submit photographs of up to three works by Sunday.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“最多三件作品的照片”：先据照片选，实物入选后按指示送。不选“三件实物原件”：此时不要实体；不选“至少三件照片”：把数量上限听成下限；不选“已入选作品包装方案”：还在初选，未通知入选。",
+        "answer_evidence": "For the student exhibition, submit photographs of up to three works by Sunday.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3277,7 +3277,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问上传确认表示什么。submission has arrived 是“提交内容已收到”。\n解析：确认收到不等于作品入选；结果会另发消息。因此不能据此马上送实物，也不能认为后续的送达说明失效。\n下次：碰到确认通知，先定位它确认“收到”还是“通过”，等相应结果再做下一步。"
+        "explanation": "读懂：这题问上传确认代表什么。submission has arrived 是“提交内容已收到”。\n解析：选“投稿已收到，尚未确认入选”：选中结果会另发消息。不选“不用管配送指示”：入选后仍要按安排；不选“所有上传作品都收展”：收件不等于通过；不选“马上带全部实物”：此时只交照片。\n下次：碰到确认通知，先定位它确认“收到”还是“通过”，等相应结果再做下一步。"
       },
       "review": {
         "difficulty": "medium",
@@ -3287,9 +3287,9 @@
         "vocabulary": [
           "does not mean a work has been selected"
         ],
-        "rationale": "确认收到不等于作品入选；结果会另发消息。因此不能据此马上送实物，也不能认为后续的送达说明失效。 用完整中文补明问题和具体误读。",
+        "rationale": "选“投稿已收到，尚未确认入选”：选中结果会另发消息。不选“不用管配送指示”：入选后仍要按安排；不选“所有上传作品都收展”：收件不等于通过；不选“马上带全部实物”：此时只交照片。",
         "answer_evidence": "Receiving an upload confirmation means your submission has arrived; it does not mean a work has been selected.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3312,7 +3312,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问向嘉宾提问应发在哪里。question panel 是“提问面板”。\n解析：内容问题放在提问面板，聊天区只处理技术故障。材料没有让听众发到嘉宾私人邮箱，或等到活动后交给主持人。\n下次：听到多个沟通入口时，把每个入口与用途一一对应，再按自己的内容选择。"
+        "explanation": "读懂：这题问给嘉宾的问题发哪里。question panel 是“提问面板”。\n解析：选“提问面板”：聊天栏只处理技术问题，内容提问另归一处。不选“仅发技术聊天栏”：混淆渠道；不选“现场私发嘉宾邮箱”：未提供这途径；不选“结束后才给主持人”：要在活动中由主持人整理。\n下次：听到多个沟通入口时，把每个入口与用途一一对应，再按自己的内容选择。"
       },
       "review": {
         "difficulty": "easy",
@@ -3322,9 +3322,9 @@
         "vocabulary": [
           "question panel"
         ],
-        "rationale": "内容问题放在提问面板，聊天区只处理技术故障。材料没有让听众发到嘉宾私人邮箱，或等到活动后交给主持人。 用完整中文补明问题和具体误读。 替换脱离情境的干扰项。",
-        "answer_evidence": "please put questions in the question panel and use the chat only for technical problems.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“提问面板”：聊天栏只处理技术问题，内容提问另归一处。不选“仅发技术聊天栏”：混淆渠道；不选“现场私发嘉宾邮箱”：未提供这途径；不选“结束后才给主持人”：要在活动中由主持人整理。",
+        "answer_evidence": "During the online guest session, please put questions in the question panel and use the chat only for technical problems.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3347,7 +3347,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问为什么可能不会逐字读出某人的提问。group similar questions 是“把相似问题合在一起”。\n解析：主持人会先合并相似问题，因此可能保留意思而改变原话。不是嘉宾拒答，也不是系统删句，技术聊天区的规定更不表示整场只能问技术问题。\n下次：听到问题被整理时，区分“措辞改变”和“内容没被处理”，找主持人具体做了什么。"
+        "explanation": "读懂：这题问为什么未必读出提问原句。group similar questions 是“把相似问题合在一起”。\n解析：选“相似问题会合并”：同一关切可用另一种措辞向嘉宾提出。不选“嘉宾拒答观众”：已同意尽可能答；不选“面板只收短标签不收句子”：无此格式禁令；不选“只谈技术故障”：技术聊天与嘉宾问题正是分开的。\n下次：听到问题被整理时，区分“措辞改变”和“内容没被处理”，找主持人具体做了什么。"
       },
       "review": {
         "difficulty": "easy",
@@ -3357,9 +3357,9 @@
         "vocabulary": [
           "group similar questions"
         ],
-        "rationale": "调为简单：主持人合并相似提问直接说明，与 L548 同类要求相当。",
-        "answer_evidence": "The moderator will group similar questions before asking the guest",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“相似问题会合并”：同一关切可用另一种措辞向嘉宾提出。不选“嘉宾拒答观众”：已同意尽可能答；不选“面板只收短标签不收句子”：无此格式禁令；不选“只谈技术故障”：技术聊天与嘉宾问题正是分开的。",
+        "answer_evidence": "The moderator will group similar questions before asking the guest, so your exact wording may not be read aloud.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3382,7 +3382,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问预约开始后的十五分钟内要做什么。check in 是“签到”。\n解析：应在楼梯旁的终端签到，超过时间仍未使用的座位可能让给别人。这十五分钟是签到期限，不是增加的使用时间，也不是换学生证或去别的教室的安排。\n下次：听时间窗口，先确定它约束的动作，再检查是否误当成额外使用时间。"
+        "explanation": "读懂：这题问预约开始后十五分钟内须做什么。“checked in within fifteen minutes”是在十五分钟内完成签到，确认本人要使用座位。\n解析：选“签到”：不签到的空位之后可能释放给其他人。不选“申请新学生卡”：没这个步骤；不选“每次自动加十五分钟”：十五分钟是签到宽限；不选“移到未订教室”：已订的是书桌，须终端确认使用。\n下次：听时间窗口，先确定它约束的动作，再检查是否误当成额外使用时间。"
       },
       "review": {
         "difficulty": "easy",
@@ -3392,9 +3392,9 @@
         "vocabulary": [
           "within fifteen minutes"
         ],
-        "rationale": "调为简单：十五分钟内要签到，直接动作提取；未要求计算逾期时刻。",
+        "rationale": "选“签到”：不签到的空位之后可能释放给其他人。不选“申请新学生卡”：没这个步骤；不选“每次自动加十五分钟”：十五分钟是签到宽限；不选“移到未订教室”：已订的是书桌，须终端确认使用。",
         "answer_evidence": "Reserved study desks must be checked in within fifteen minutes of the booking start.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3417,7 +3417,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问提前签到会怎样影响预约。does not extend the end time 是“不延后结束时间”。\n解析：结束时间仍按原预约。提前签到不代表加时、可以整天使用，也不会取消后面学生的预约。\n下次：开始时间有变化时，另外核对结束时间是否也改变；没有说明就保留原来的终点。"
+        "explanation": "读懂：这题问提前签到对结束时间有什么影响。does not extend the end time 是“不延后结束时间”。\n解析：选“原结束时间不变”：早到不能顺延预约终点。不选“取消后续他人预约”：不会影响他人权益；不选“自动加时”：公告直接否定；不选“当天不限时”：仍受原预约区间限制。\n下次：开始时间有变化时，另外核对结束时间是否也改变；没有说明就保留原来的终点。"
       },
       "review": {
         "difficulty": "easy",
@@ -3427,9 +3427,9 @@
         "vocabulary": [
           "does not extend the end time"
         ],
-        "rationale": "调为简单：提前签到不延长结束时间直接明说，无额外时长运算。",
+        "rationale": "选“原结束时间不变”：早到不能顺延预约终点。不选“取消后续他人预约”：不会影响他人权益；不选“自动加时”：公告直接否定；不选“当天不限时”：仍受原预约区间限制。",
         "answer_evidence": "Checking in early does not extend the end time shown on your reservation.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3452,7 +3452,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问拼贴课适合带什么材料。happy to cut up 是“愿意让它被剪开”。\n解析：应带干净的小块纸包装或布料，剪掉也没关系。需要保存的重要文件和纪念物不合适，课程也没有要求专门买全新的用品。\n下次：遇到需要剪切的活动，先检查材料能否被破坏，再考虑外观是否合适。"
+        "explanation": "读懂：这题问拼贴课适合带什么材料。happy to cut up 是“愿意让它被剪开”。\n解析：选“愿意剪开的干净小纸片或布料”：材料要能实际裁切使用。不选“必须保持原样的纪念物”：与剪贴任务冲突；不选“必须保留的重要原件”：公告要求避免；不选“只能专门买全新用品”：包装和碎料就可用。\n下次：遇到需要剪切的活动，先检查材料能否被破坏，再考虑外观是否合适。"
       },
       "review": {
         "difficulty": "easy",
@@ -3462,9 +3462,9 @@
         "vocabulary": [
           "happy to cut up"
         ],
-        "rationale": "应带干净的小块纸包装或布料，剪掉也没关系。需要保存的重要文件和纪念物不合适，课程也没有要求专门买全新的用品。 用完整中文补明问题和具体误读。 替换脱离情境的干扰项。",
+        "rationale": "选“愿意剪开的干净小纸片或布料”：材料要能实际裁切使用。不选“必须保持原样的纪念物”：与剪贴任务冲突；不选“必须保留的重要原件”：公告要求避免；不选“只能专门买全新用品”：包装和碎料就可用。",
         "answer_evidence": "Please bring small pieces that you are happy to cut up.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3487,7 +3487,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问没材料可带的人能不能参加。class supply box 是“课堂公用材料箱”。\n解析：可以用公用箱里的材料参加；剪刀和胶水也会提供。不需要购物凭证或自带这些工具，也不是只能在门外看。\n下次：听到自己缺少用品时，继续找是否提供公共备用，再核对真正的参加条件。"
+        "explanation": "读懂：这题问没材料能否参加。class supply box 是“课堂公用材料箱”。\n解析：选“可以用共享材料箱”：没有自带物也能动手。不选“只有自带剪刀胶水才能”：这些也统一提供；不选“必须有购买收据”：无购买门槛；不选“只能站屋外观看”：可使用供应箱正常参与。\n下次：听到自己缺少用品时，继续找是否提供公共备用，再核对真正的参加条件。"
       },
       "review": {
         "difficulty": "easy",
@@ -3497,9 +3497,9 @@
         "vocabulary": [
           "you can still take part"
         ],
-        "rationale": "调为简单：没有材料可用公用箱，参加资格及替代办法都明示。",
+        "rationale": "选“可以用共享材料箱”：没有自带物也能动手。不选“只有自带剪刀胶水才能”：这些也统一提供；不选“必须有购买收据”：无购买门槛；不选“只能站屋外观看”：可使用供应箱正常参与。",
         "answer_evidence": "If you have no materials to contribute, the class supply box will be available, so you can still take part.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3522,7 +3522,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问会议证件允许进入哪些地方。adjoining cafe 是“紧挨着的咖啡馆”。\n解析：证件覆盖会议大厅和旁边的咖啡馆；不能打开校园其他研究楼。实验室访问另有接待流程，因此不能扩大成全校通行。\n下次：听通行范围时先记明确列出的区域，再排除把局部权限说成全校权限的选项。"
+        "explanation": "读懂：这题问会议胸牌能进入哪些地方。adjoining cafe 是“紧挨着的咖啡馆”。\n解析：选“会议厅及相邻咖啡馆”：权限限于会议区域。不选“无主人带领的任意实验室”：研究楼另需流程；不选“只许走室外路”：实际上可进厅和咖啡馆；不选“校园所有研究楼”：把局部证件扩大成全校通行。\n下次：听通行范围时先记明确列出的区域，再排除把局部权限说成全校权限的选项。"
       },
       "review": {
         "difficulty": "easy",
@@ -3532,9 +3532,9 @@
         "vocabulary": [
           "conference hall and the adjoining cafe"
         ],
-        "rationale": "调为简单：会议大厅与邻近咖啡馆直接列为许可范围，未要求套用新权限情景。",
+        "rationale": "选“会议厅及相邻咖啡馆”：权限限于会议区域。不选“无主人带领的任意实验室”：研究楼另需流程；不选“只许走室外路”：实际上可进厅和咖啡馆；不选“校园所有研究楼”：把局部证件扩大成全校通行。",
         "answer_evidence": "Conference visitor badges allow entry to the conference hall and the adjoining cafe.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3557,7 +3557,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问获邀参观实验室的人该怎么做。separate invitation 是“另一份单独的邀请”。\n解析：按那份邀请指定的地点与接待人会合。会议证件不能代替实验室签到，也不能从咖啡馆随意进入或跟着陌生访客进去。\n下次：多项活动各有流程时，先确认自己要参加哪项，再用该项的邀请和接待安排核对。"
+        "explanation": "读懂：这题问约了实验室参观的人怎么办。separate invitation 是“另一份单独的邀请”。\n解析：选“按另一份邀请到指定处会合接待人”：依实验室单独签到流程进入。不选“从咖啡馆能去全部实验室”：没有这种通路承诺；不选“胸牌绕过全部检查”：明确不能替接待；不选“跟陌生访客进任意实验室”：不符合自己的邀约和受限区手续。\n下次：多项活动各有流程时，先确认自己要参加哪项，再用该项的邀请和接待安排核对。"
       },
       "review": {
         "difficulty": "easy",
@@ -3567,9 +3567,9 @@
         "vocabulary": [
           "separate invitation"
         ],
-        "rationale": "调为简单：实验室访客按单独邀请会见接待人，是原文直接指令。",
+        "rationale": "选“按另一份邀请到指定处会合接待人”：依实验室单独签到流程进入。不选“从咖啡馆能去全部实验室”：没有这种通路承诺；不选“胸牌绕过全部检查”：明确不能替接待；不选“跟陌生访客进任意实验室”：不符合自己的邀约和受限区手续。",
         "answer_evidence": "Anyone scheduled for a laboratory visit must meet the host at the location named in the separate invitation.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3592,7 +3592,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问荐书短评应说明什么。who might like it and why 是“哪些人可能喜欢，以及为什么”。\n解析：要帮助别人判断是否想读，同时不能剧透结局。邮箱填在提交表上，不公开在短评里；只报价格也没有完成推荐要求。\n下次：写推荐前先列“适合谁、理由是什么”，写完再检查是否泄露结局或混入私人联系信息。"
+        "explanation": "读懂：这题问荐书短评应说明什么。who might like it and why 是“哪些人可能喜欢，以及为什么”。\n解析：选“谁可能喜欢及为什么”：帮助读者判断适合自己，同时不剧透结局。不选“公开私人邮箱”：邮箱填提交表而非展出正文；不选“详细讲结局”：公告要求避免；不选“只写新版价钱”：没有解释推荐对象和理由。\n下次：写推荐前先列“适合谁、理由是什么”，写完再检查是否泄露结局或混入私人联系信息。"
       },
       "review": {
         "difficulty": "easy",
@@ -3602,9 +3602,9 @@
         "vocabulary": [
           "who might like it and why"
         ],
-        "rationale": "要帮助别人判断是否想读，同时不能剧透结局。邮箱填在提交表上，不公开在短评里；只报价格也没有完成推荐要求。 用完整中文补明问题和具体误读。",
+        "rationale": "选“谁可能喜欢及为什么”：帮助读者判断适合自己，同时不剧透结局。不选“公开私人邮箱”：邮箱填提交表而非展出正文；不选“详细讲结局”：公告要求避免；不选“只写新版价钱”：没有解释推荐对象和理由。",
         "answer_evidence": "Explain who might like it and why, without revealing the ending.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3627,7 +3627,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问六十词限制包括哪些内容。do not count toward 是“不计入”。\n解析：推荐正文最多六十词，单独列出的书名和作者不计入。不是把所有表格栏都算进去，也不是只数结局描述或只算邮箱。\n下次：遇到字数上限，同时找哪些内容明确排除，再按正文范围核数。"
+        "explanation": "读懂：这题问六十词限制怎样算。do not count toward 是“不计入”。\n解析：选“计算短评正文，另列书名作者不计”：分清正文与识别书籍的资料。不选“只算结局描述”：本不该剧透，且全文推荐需计；不选“每栏连作者书名都算”：忽略明确豁免；不选“只算邮箱”：邮箱在另表，不是短评额度。\n下次：遇到字数上限，同时找哪些内容明确排除，再按正文范围核数。"
       },
       "review": {
         "difficulty": "medium",
@@ -3637,9 +3637,9 @@
         "vocabulary": [
           "do not count toward the sixty words"
         ],
-        "rationale": "推荐正文最多六十词，单独列出的书名和作者不计入。不是把所有表格栏都算进去，也不是只数结局描述或只算邮箱。 用完整中文补明问题和具体误读。 原依据已直说或只需一步联系，改为适中。",
+        "rationale": "选“计算短评正文，另列书名作者不计”：分清正文与识别书籍的资料。不选“只算结局描述”：本不该剧透，且全文推荐需计；不选“每栏连作者书名都算”：忽略明确豁免；不选“只算邮箱”：邮箱在另表，不是短评额度。",
         "answer_evidence": "Include the title and author separately; those details do not count toward the sixty words.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3662,7 +3662,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问志愿者该数哪些人。boarding the bus 是“正在上这辆公交车”。\n解析：只数此次上车的人。路过车站的人和车里原本已有的乘客不属于这个动作，材料也没有按服装筛选。\n下次：数人数前把对象改写成一个动作，再检查每类人是否真的完成了这个动作。"
+        "explanation": "读懂：这题问志愿者应统计哪些人。boarding the bus 是“正在上这辆公交车”。\n解析：选“正在上车的人”：对象是登车乘客，不是站旁所有人。不选“只数校服者”：没有服装筛选；不选“到站车里已坐的所有人”：不是本次上车行为；不选“路过车站的每个人”：公告明确排除。\n下次：数人数前把对象改写成一个动作，再检查每类人是否真的完成了这个动作。"
       },
       "review": {
         "difficulty": "easy",
@@ -3672,9 +3672,9 @@
         "vocabulary": [
           "people boarding the bus"
         ],
-        "rationale": "调为简单：只数上车的人，提取明确对象，不涉及统计推断。",
+        "rationale": "选“正在上车的人”：对象是登车乘客，不是站旁所有人。不选“只数校服者”：没有服装筛选；不选“到站车里已坐的所有人”：不是本次上车行为；不选“路过车站的每个人”：公告明确排除。",
         "answer_evidence": "Please count people boarding the bus, not everyone walking past the stop.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3697,7 +3697,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问提前结束观察该怎么记录。note the shorter period 是“注明实际较短的观察时段”。\n解析：保留实际人数，同时注明起止时间。不要自己乘算成一小时人数、借用别人时长，或直接删掉观察；比较处理由研究团队做。\n下次：观察时长不一时，先保存实际人数和实际时段，再检查有没有把估算数冒充记录数。"
+        "explanation": "读懂：这题问提前结束观察怎样记录。note the shorter period 是“注明实际较短的观察时段”。\n解析：选“保留实际数，并注明较短时段”：让研究组据真实时长作后续比较。不选“套另一人的观察时长”：会错配计数；不选“自行乘倍数编成整小时”：公告禁止；不选“无说明删整次记录”：仍有真实观察价值，应留存说明。\n下次：观察时长不一时，先保存实际人数和实际时段，再检查有没有把估算数冒充记录数。"
       },
       "review": {
         "difficulty": "medium",
@@ -3707,9 +3707,9 @@
         "vocabulary": [
           "note the shorter period"
         ],
-        "rationale": "保留实际人数，同时注明起止时间。不要自己乘算成一小时人数、借用别人时长，或直接删掉观察；比较处理由研究团队做。 用完整中文补明问题和具体误读。 原依据已直说或只需一步联系，改为适中。",
+        "rationale": "选“保留实际数，并注明较短时段”：让研究组据真实时长作后续比较。不选“套另一人的观察时长”：会错配计数；不选“自行乘倍数编成整小时”：公告禁止；不选“无说明删整次记录”：仍有真实观察价值，应留存说明。",
         "answer_evidence": "If you leave early, keep your count but note the shorter period.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3732,7 +3732,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问胶带框代表什么。occupied space 是“已被占用的空间”。\n解析：胶带框代表大布景到位后占据的地方。即使现在是空的，也不能穿过；它不是演员每句台词的站位或新增观众席。\n下次：临时标记没有实体时，先问它代表未来的什么物体，再按那个障碍练习行动。"
+        "explanation": "读懂：这题问地上的胶带轮廓代表什么。occupied space 是“已被占用的空间”。\n解析：选“未来布景占用的空间”：实体未到也要当作已占位置，练习绕行。不选“可任意通行的空地”：不能穿越；不选“每句都站那里”：是景物区而非统一站位；不选“新增观众座位”：未说安排观众。\n下次：临时标记没有实体时，先问它代表未来的什么物体，再按那个障碍练习行动。"
       },
       "review": {
         "difficulty": "easy",
@@ -3742,9 +3742,9 @@
         "vocabulary": [
           "as occupied space"
         ],
-        "rationale": "胶带框代表大布景到位后占据的地方。即使现在是空的，也不能穿过；它不是演员每句台词的站位或新增观众席。 用完整中文补明问题和具体误读。",
+        "rationale": "选“未来布景占用的空间”：实体未到也要当作已占位置，练习绕行。不选“可任意通行的空地”：不能穿越；不选“每句都站那里”：是景物区而非统一站位；不选“新增观众座位”：未说安排观众。",
         "answer_evidence": "Treat those outlines as occupied space, even though no solid object is there yet.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3767,7 +3767,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问通道看起来太窄时怎么办。actual measurements 是“实际尺寸”。\n解析：告诉舞台主管，按真实尺寸检查。不能自己挪标线、跨线走捷径，也不能假定最终布景会更小。\n下次：发现模拟布置可能有问题时，先报告并核对真实尺寸，确认后再调整路线。"
+        "explanation": "读懂：这题问路线似乎太窄时怎么办。actual measurements 是“实际尺寸”。\n解析：选“向舞台经理报告，按实测尺寸核对”：先确认布景与通行空间。不选“自己移动全部轮廓”：无权单独改布局；不选“忽略胶带走捷径”：将来实物会挡路；不选“假定成品会更小”：没有尺寸依据。\n下次：发现模拟布置可能有问题时，先报告并核对真实尺寸，确认后再调整路线。"
       },
       "review": {
         "difficulty": "easy",
@@ -3777,9 +3777,9 @@
         "vocabulary": [
           "checked against the actual measurements"
         ],
-        "rationale": "调为简单：觉得通道过窄先告知舞台主管核尺寸，直接操作定位。",
-        "answer_evidence": "tell the stage manager so it can be checked against the actual measurements.",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“向舞台经理报告，按实测尺寸核对”：先确认布景与通行空间。不选“自己移动全部轮廓”：无权单独改布局；不选“忽略胶带走捷径”：将来实物会挡路；不选“假定成品会更小”：没有尺寸依据。",
+        "answer_evidence": "If a route feels too narrow, tell the stage manager so it can be checked against the actual measurements.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3802,7 +3802,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问该排哪一条取货队伍。first digit 是“第一位数字”。\n解析：按订单号首位数字排队，同一订单里即使有多种植物，也在同一队领取。叶色、品种和哪队短都不是分队依据。\n下次：听分组规则时圈定唯一标准，遇到一单多件再核对是否仍按整单处理。"
+        "explanation": "读懂：这题问领取植物应该排哪队。first digit 是“第一位数字”。\n解析：选“按订单号第一位数字”：队列按订单组织，多品种也在同队领取。不选“按叶色”：不是排队依据；不选“每品种各排一队”：公告说多种也同一队；不选“哪个队最短”：不保证对应自己的订单。\n下次：听分组规则时圈定唯一标准，遇到一单多件再核对是否仍按整单处理。"
       },
       "review": {
         "difficulty": "easy",
@@ -3812,9 +3812,9 @@
         "vocabulary": [
           "first digit of your order number"
         ],
-        "rationale": "按订单号首位数字排队，同一订单里即使有多种植物，也在同一队领取。叶色、品种和哪队短都不是分队依据。 用完整中文补明问题和具体误读。",
-        "answer_evidence": "join the line indicated by the first digit of your order number.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“按订单号第一位数字”：队列按订单组织，多品种也在同队领取。不选“按叶色”：不是排队依据；不选“每品种各排一队”：公告说多种也同一队；不选“哪个队最短”：不保证对应自己的订单。",
+        "answer_evidence": "For today's plant sale pickup, join the line indicated by the first digit of your order number.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3837,7 +3837,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问离开前为什么要核对植物标签。look alike at this stage 是“这个生长阶段看起来很像”。\n解析：外形相似的幼株可能是不同品种，以后会长成不同样子，所以要拿标签对照订单。标签不是用来决定排队、营业时间或给植物重新起名的。\n下次：外观暂时分不清时，改用标签和订单核对身份，别把长得像当作同一品种。"
+        "explanation": "读懂：这题问走前为什么核对植物标签。look alike at this stage 是“这个生长阶段看起来很像”。\n解析：选“幼株外表相像，实际可能不同品种”：未来长势会不同，标签比当下外观可靠。不选“标签决定每位买家排队”：排队按订单首位；不选“标签告诉开放时间”：标签用于品种核对；不选“买家必须给每株新起名”：无此任务。\n下次：外观暂时分不清时，改用标签和订单核对身份，别把长得像当作同一品种。"
       },
       "review": {
         "difficulty": "medium",
@@ -3847,9 +3847,9 @@
         "vocabulary": [
           "may look alike at this stage"
         ],
-        "rationale": "外形相似的幼株可能是不同品种，以后会长成不同样子，所以要拿标签对照订单。标签不是用来决定排队、营业时间或给植物重新起名的。 用完整中文补明问题和具体误读。 替换脱离情境的干扰项。",
-        "answer_evidence": "two plants may look alike at this stage even though they will grow differently.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“幼株外表相像，实际可能不同品种”：未来长势会不同，标签比当下外观可靠。不选“标签决定每位买家排队”：排队按订单首位；不选“标签告诉开放时间”：标签用于品种核对；不选“买家必须给每株新起名”：无此任务。",
+        "answer_evidence": "Please check the labels before leaving; two plants may look alike at this stage even though they will grow differently.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3872,7 +3872,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问文件复制后接着做什么。open it on this computer 是“在这台电脑上打开”。\n解析：要在教室电脑上检查图片、字体和视频。复制成功不等于能正常显示；原文件要保留，也不应改成别组的编号。\n下次：文件交到另一台设备后，亲自打开并试播媒体，再检查是否仍保留原副本。"
+        "explanation": "读懂：这题问复制展示文件后还要做什么。open it on this computer 是“在这台电脑上打开”。\n解析：选“在教室电脑打开并测试”：检查图片字体，有视频也要试放。不选“马上删所有原件”：自己的副本要留到结束；不选“改成别组编号”：命名应是本组；不选“复制成功等于显示正常”：只复制不足以验证播放。\n下次：文件交到另一台设备后，亲自打开并试播媒体，再检查是否仍保留原副本。"
       },
       "review": {
         "difficulty": "easy",
@@ -3882,9 +3882,9 @@
         "vocabulary": [
           "open it on this computer"
         ],
-        "rationale": "调为简单：复制之后还要打开测试，原文直接给下一步。",
-        "answer_evidence": "open it on this computer and check that images and fonts appear correctly.",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“在教室电脑打开并测试”：检查图片字体，有视频也要试放。不选“马上删所有原件”：自己的副本要留到结束；不选“改成别组编号”：命名应是本组；不选“复制成功等于显示正常”：只复制不足以验证播放。",
+        "answer_evidence": "Copying the file is only the first step: open it on this computer and check that images and fonts appear correctly.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3907,7 +3907,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问为什么一定要在教室电脑上检查。appear correctly 是“显示正常”。\n解析：要求在那里测试图片、字体和视频，说明换了设备可能有显示或播放差异。它不是自动评分，也不是说每次都会丢图；有组号和标题也不能代替测试。\n下次：跨设备使用文件时，检查题目担心的是命名、传输还是呈现；针对最后实际使用的环境验证。"
+        "explanation": "读懂：这题问为何必须在教室电脑检查。appear correctly 是“显示正常”。\n解析：选“同一文件换环境可能显示或播放不同”：图片、字体和视频均需实际核对。不选“电脑自动给演示打分”：未提评分；不选“复制必丢所有图”：只是可能出问题，不是必然；不选“测试可省组名标题”：测试与命名要求都要遵守。\n下次：跨设备使用文件时，检查题目担心的是命名、传输还是呈现；针对最后实际使用的环境验证。"
       },
       "review": {
         "difficulty": "medium",
@@ -3917,9 +3917,9 @@
         "vocabulary": [
           "images and fonts appear correctly"
         ],
-        "rationale": "要求在那里测试图片、字体和视频，说明换了设备可能有显示或播放差异。它不是自动评分，也不是说每次都会丢图；有组号和标题也不能代替测试。 用完整中文补明问题和具体误读。 原依据已直说或只需一步联系，改为适中。",
-        "answer_evidence": "open it on this computer and check that images and fonts appear correctly. If your presentation includes a video, test that too.",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“同一文件换环境可能显示或播放不同”：图片、字体和视频均需实际核对。不选“电脑自动给演示打分”：未提评分；不选“复制必丢所有图”：只是可能出问题，不是必然；不选“测试可省组名标题”：测试与命名要求都要遵守。",
+        "answer_evidence": "Copying the file is only the first step: open it on this computer and check that images and fonts appear correctly.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3942,7 +3942,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问这次步行活动主要做什么。present-day views 是“现在看到的景观”，需要与路线页上的旧照片比较。\n解析：大家沿路对照旧照与眼前景物。公告明确不进历史建筑，因此不是进楼参观或拍室内展品；路线页已提供照片，也没有沿途收集参加者照片的安排。\n下次：先找活动使用的材料和观察对象，再核对允许进入的范围；排除只与地点相关、却没有实际安排的活动。"
+        "explanation": "读懂：这题问历史步行活动重点是什么。present-day views 是“现在看到的景观”，需要与路线页上的旧照片比较。\n解析：选“沿路比较老照片和现在景观”：带路线单辅助观察和讨论。不选“进入历史楼内”：公告明确不是室内参观；不选“拍楼内展品”：并不进入；不选“每站收参加者旧照”：使用路线单已有照片，没有征集任务。\n下次：先找活动使用的材料和观察对象，再核对允许进入的范围；排除只与地点相关、却没有实际安排的活动。"
       },
       "review": {
         "difficulty": "easy",
@@ -3952,9 +3952,9 @@
         "vocabulary": [
           "present-day views"
         ],
-        "rationale": "保持简单；清除解析中未出现在当前选项的赛跑和家庭照说法，逐项对应实际干扰项。",
+        "rationale": "选“沿路比较老照片和现在景观”：带路线单辅助观察和讨论。不选“进入历史楼内”：公告明确不是室内参观；不选“拍楼内展品”：并不进入；不选“每站收参加者旧照”：使用路线单已有照片，没有征集任务。",
         "answer_evidence": "Please bring the route leaflet so you can compare the old photographs with present-day views.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -3977,7 +3977,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问没带路线页可以怎么办。Spare leaflets 是“备用的宣传页”。\n解析：出发的老门口有备用页，可以到那里领取。无需预约，但要在出发前到；不用去别的门等，也没有让人进入关闭的建筑找。\n下次：缺少活动用品时，先找现场领取位置，再核对集合时间，别误判为不能参加。"
+        "explanation": "读懂：这题问没有路线单怎么办。Spare leaflets 是“备用的宣传页”。\n解析：选“在老门集合处拿备用”：两点前到即可，无需预约。不选“进关闭古楼找”：非室内活动且备用在门口；不选“去另一门等回程”：起终点同为老门；不选“没预约只能留家”：公告明确不需要报名。\n下次：缺少活动用品时，先找现场领取位置，再核对集合时间，别误判为不能参加。"
       },
       "review": {
         "difficulty": "easy",
@@ -3987,9 +3987,9 @@
         "vocabulary": [
           "Spare leaflets"
         ],
-        "rationale": "调为简单：老门口有备用路线页，是直接地点定位。",
+        "rationale": "选“在老门集合处拿备用”：两点前到即可，无需预约。不选“进关闭古楼找”：非室内活动且备用在门口；不选“去另一门等回程”：起终点同为老门；不选“没预约只能留家”：公告明确不需要报名。",
         "answer_evidence": "Spare leaflets will be available at the gate.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -4012,7 +4012,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问今天下午起用哪一版问卷。Version Three 是“第三版”。\n解析：从下午起改用第三版。即使选项没变，问法也已调整，不能随便混用第二版或拼接两版；已填旧表是保存的记录，不是继续发的表。\n下次：版本更换时同时记版本号和生效时间，再检查手中是空白新表还是已完成旧记录。"
+        "explanation": "读懂：这题问下午起应该用哪版调查表。Version Three 是“第三版”。\n解析：选“第三版”：问题措辞有澄清，选项虽相同也须使用新版。不选“自己混合两版手写”：不能擅改版本；不选“选项相同哪版都行”：题干措辞仍重要；不选“只能用已填第二版”：旧答卷保存，不拿来当新问卷。\n下次：版本更换时同时记版本号和生效时间，再检查手中是空白新表还是已完成旧记录。"
       },
       "review": {
         "difficulty": "easy",
@@ -4022,9 +4022,9 @@
         "vocabulary": [
           "Version Three"
         ],
-        "rationale": "调为简单：下午起用 Version Three，正项直接给版本号。",
-        "answer_evidence": "please use the sheet marked Version Three from this afternoon onward.",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“第三版”：问题措辞有澄清，选项虽相同也须使用新版。不选“自己混合两版手写”：不能擅改版本；不选“选项相同哪版都行”：题干措辞仍重要；不选“只能用已填第二版”：旧答卷保存，不拿来当新问卷。",
+        "answer_evidence": "Survey volunteers, please use the sheet marked Version Three from this afternoon onward.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -4047,7 +4047,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 1,
-        "explanation": "读懂：问为什么已填旧表要单独保留。which wording each person actually heard 是“每个人当时实际听到的问法”。\n解析：保留旧表才能知道答案对应哪种问法。抄到新表会丢失这一信息；不是为了删掉旧答案、假装问过新问题或增加样本数量。\n下次：材料改版后，先保留旧答案与旧问法的对应关系，再检查整理是否会改写当时的事实。"
+        "explanation": "读懂：这题问为什么旧答卷另存。which wording each person actually heard 是“每个人当时实际听到的问法”。\n解析：选“保留每个回应实际听到的问法”：不能把旧答案抄成好像回答了新版。不选“全部丢掉旧回答”：要求留存；不选“假装原人听了修订题”：正要避免；不选“让数量显得更多”：每张原答卷一条记录，不作重复。\n下次：材料改版后，先保留旧答案与旧问法的对应关系，再检查整理是否会改写当时的事实。"
       },
       "review": {
         "difficulty": "medium",
@@ -4057,9 +4057,9 @@
         "vocabulary": [
           "which wording each person actually heard"
         ],
-        "rationale": "保留旧表才能知道答案对应哪种问法。抄到新表会丢失这一信息；不是为了删掉旧答案、假装问过新问题或增加样本数量。 用完整中文补明问题和具体误读。 原依据已直说或只需一步联系，改为适中。 考点按明示信息的实际理解要求标注，不把复述包装成推断。",
+        "rationale": "选“保留每个回应实际听到的问法”：不能把旧答案抄成好像回答了新版。不选“全部丢掉旧回答”：要求留存；不选“假装原人听了修订题”：正要避免；不选“让数量显得更多”：每张原答卷一条记录，不作重复。",
         "answer_evidence": "The coordinator needs to know which wording each person actually heard.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -4082,7 +4082,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问做项目要在几点停下。seven forty-five 是“七点四十五分”。\n解析：七点四十五停工，留十五分钟清洁和归还工具；八点是关门时间。不能把清理时间继续拿来做项目或延到关门后。\n下次：遇到停工和关门两个时间，把各自动作写清，核对题目问的是哪一个。"
+        "explanation": "读懂：这题问项目操作几点停。seven forty-five 是“七点四十五分”。\n解析：选“七点四十五”：八点关门前十五分钟只做清洁和还工具。不选“七点半”：过早，不是规定值；不选“七点五十五”：只剩五分钟而非十五；不选“八点不留清理”：把关门时刻误当停止工作的时刻。\n下次：遇到停工和关门两个时间，把各自动作写清，核对题目问的是哪一个。"
       },
       "review": {
         "difficulty": "easy",
@@ -4092,9 +4092,9 @@
         "vocabulary": [
           "by seven forty-five"
         ],
-        "rationale": "七点四十五停工，留十五分钟清洁和归还工具；八点是关门时间。不能把清理时间继续拿来做项目或延到关门后。 用完整中文补明问题和具体误读。 替换脱离情境的干扰项。",
-        "answer_evidence": "Please stop your project by seven forty-five",
-        "reviewed_on": "2026-09-30"
+        "rationale": "选“七点四十五”：八点关门前十五分钟只做清洁和还工具。不选“七点半”：过早，不是规定值；不选“七点五十五”：只剩五分钟而非十五；不选“八点不留清理”：把关门时刻误当停止工作的时刻。",
+        "answer_evidence": "Please stop your project by seven forty-five so you have time to clean your station and return tools.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -4117,7 +4117,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 0,
-        "explanation": "读懂：问作品暂时搬不走应怎么办。labeled temporary storage 是“有标签的临时存放”。\n解析：关门前问负责人能否安排这种存放。不能自行占公桌或别人的空间，搬不走也不意味着可以关门后继续做。\n下次：正常收尾有困难时，先找负责人的替代安排，再核对物品是否标记并放在约定位置。"
+        "explanation": "读懂：这题问项目暂时搬不走怎么办。labeled temporary storage 是“有标签的临时存放”。\n解析：选“关门前问主管带标签临时存放”：需明确安排和识别标记。不选“自动延长到闭馆后工作”：无授权；不选“无标记留共享桌”：公告禁止；不选“占别人的储位”：不能替代主管协调。\n下次：正常收尾有困难时，先找负责人的替代安排，再核对物品是否标记并放在约定位置。"
       },
       "review": {
         "difficulty": "easy",
@@ -4127,9 +4127,9 @@
         "vocabulary": [
           "ask the supervisor"
         ],
-        "rationale": "调为简单：暂时搬不走先问带标签临存，原文直接给同一情况的办法。",
-        "answer_evidence": "ask the supervisor about labeled temporary storage before closing.",
-        "reviewed_on": "2026-10-05"
+        "rationale": "选“关门前问主管带标签临时存放”：需明确安排和识别标记。不选“自动延长到闭馆后工作”：无授权；不选“无标记留共享桌”：公告禁止；不选“占别人的储位”：不能替代主管协调。",
+        "answer_evidence": "If a project cannot be moved immediately, ask the supervisor about labeled temporary storage before closing.",
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -4152,7 +4152,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 2,
-        "explanation": "读懂：问为什么让获奖者确认地址。printed certificate 是“纸质证书”。\n解析：地址用于寄送证书，获奖结果已经确定。不是重新判断作品是否获奖，也没有要求参加以后每场比赛或公开住址。\n下次：收到索取信息的通知，找它明确服务的后续动作，再排除把配送要求变成评奖要求的选项。"
+        "explanation": "读懂：这题问获奖者为何核对邮寄地址。printed certificate 是“纸质证书”。\n解析：选“安排寄纸质证书”：想邮寄的人三天内回复，奖项结果已经确定。不选“决定照片是否获奖”：发信对象已获奖；不选“要求参加今后所有比赛”：无此义务；不选“在作品旁公开住址”：地址用于寄送，不是公开展示。\n下次：收到索取信息的通知，找它明确服务的后续动作，再排除把配送要求变成评奖要求的选项。"
       },
       "review": {
         "difficulty": "easy",
@@ -4162,9 +4162,9 @@
         "vocabulary": [
           "printed certificate sent to you"
         ],
-        "rationale": "调为简单：核邮寄地址是寄纸质证书，原因直述；不按证书或获奖场景虚高分级。",
+        "rationale": "选“安排寄纸质证书”：想邮寄的人三天内回复，奖项结果已经确定。不选“决定照片是否获奖”：发信对象已获奖；不选“要求参加今后所有比赛”：无此义务；不选“在作品旁公开住址”：地址用于寄送，不是公开展示。",
         "answer_evidence": "Please reply within three days if you want the printed certificate sent to you.",
-        "reviewed_on": "2026-10-05"
+        "reviewed_on": "2026-10-09"
       }
     },
     {
@@ -4187,7 +4187,7 @@
       "answer": {
         "type": "choice",
         "correct_index": 3,
-        "explanation": "读懂：问不要纸质证书会怎样。award itself remains valid 是“奖项本身仍然有效”。\n解析：纸质证书是可选的，选择不要并不取消获奖；无需因此提供邮寄地址，更不会推迟所有人的结果。\n下次：把荣誉资格和实物领取分开核对，检查材料是否把其中一项设为另一项的条件。"
+        "explanation": "读懂：这题问不想要纸质证书会怎样。award itself remains valid 是“奖项本身仍然有效”。\n解析：选“奖项仍然有效”：是否拿纸本不影响获奖资格。不选“所有人结果延期”：没有关联；不选“仍必须交邮址”：自取也不需地址，更非一律；不选“自动取消获奖”：公告明确奖项保持有效。\n下次：把荣誉资格和实物领取分开核对，检查材料是否把其中一项设为另一项的条件。"
       },
       "review": {
         "difficulty": "easy",
@@ -4197,9 +4197,9 @@
         "vocabulary": [
           "award itself remains valid"
         ],
-        "rationale": "纸质证书是可选的，选择不要并不取消获奖；无需因此提供邮寄地址，更不会推迟所有人的结果。 用完整中文补明问题和具体误读。",
+        "rationale": "选“奖项仍然有效”：是否拿纸本不影响获奖资格。不选“所有人结果延期”：没有关联；不选“仍必须交邮址”：自取也不需地址，更非一律；不选“自动取消获奖”：公告明确奖项保持有效。",
         "answer_evidence": "The award itself remains valid even if you prefer not to receive a paper copy.",
-        "reviewed_on": "2026-09-30"
+        "reviewed_on": "2026-10-09"
       }
     }
   ]

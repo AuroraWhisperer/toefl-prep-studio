@@ -4649,5 +4649,2250 @@
     "max_score": 5,
     "reference": "The main program should use semester-long online projects, while treating travel as a possible later extension. Student A is right that everyday contact matters, so the online work must reach beyond polite presentations about each country. Teams could compare how students at their two institutions find a quiet place to study, collect observations, and design a guide that both groups can use. Differences would then emerge through a practical problem rather than through rehearsed claims about national character. This gives Student B's wider access a specific collaborative purpose. The colleges should provide shared equipment and alternate meeting times so participation does not depend entirely on personal resources or one convenient time zone. Online contact cannot reproduce every part of visiting, but a sustained, accessible task is a stronger foundation than a memorable opportunity available only to a few.",
     "explanation": "读懂：online projects 是线上合作项目；要权衡亲身接触的深度与更多人持续参与的机会。\n解析：范文新增共同解决找安静自习地点的问题，以观察和共写指南让差异自然出现，避免只介绍国家印象；共享设备、轮换开会时间回应参与门槛，也承认线上不能复制所有到访体验。\n下次：少数深度体验与广泛参与相比→明确共同要完成的任务→举能产生真实交流的问题→检查设备、时间与体验限制。"
+  },
+  "W451": {
+    "type": "sentence",
+    "accepted": [
+      "Visitors need a temporary card to borrow books from this library."
+    ],
+    "explanation": "读懂：题目问访客能不能借书。temporary card 是“临时借书证”，回答说明借书前需要它。\n解析：先说“需要借书证”，排 need 和 a temporary card；再说拿证来做什么，用 to borrow 接 books，表示“用来借书”。\n下次：遇到“需要某物来做某事”，先排需要的东西，再接 to 和动作；最后检查动作后面有没有放对对象。"
+  },
+  "W452": {
+    "type": "sentence",
+    "accepted": [
+      "The room is available for another hour.",
+      "For another hour, the room is available."
+    ],
+    "explanation": "读懂：题目问排练室有没有人在用。available 是“可使用的”，回答说还能用一小时。\n解析：The room 只指一个房间，后面选 is，不选 are。for another hour 表示“再持续一小时”，这段时间可放句尾，也可放句首。\n下次：先看说的是一个还是多个，再选 is 或 are；表示能用多久时，用 for 接一段时间。"
+  },
+  "W453": {
+    "type": "sentence",
+    "accepted": [
+      "I am waiting for my roommate to pick it up."
+    ],
+    "explanation": "读懂：题目问背包怎么还在这里。回答说正在等室友来取，it 就指这个背包。\n解析：按“我在等—等谁—他来做什么”来排：am waiting 后接 for my roommate，再接 to pick 和给定的 it up，表示“把它取走”。\n下次：遇到“等某人做某事”，先把 wait for 后的人找齐，再用 to 接这个人要做的动作。"
+  },
+  "W454": {
+    "type": "sentence",
+    "accepted": [
+      "It does not accept cash after six."
+    ],
+    "explanation": "读懂：题目问店里收不收现金。cash 是“现金”，回答说六点以后不收。\n解析：It 后面排 does not，表示“不”；does 已经配合单数 It 变化了，所以后面的 accept 不再加 s，accepts 是多余词块。\n下次：看到 does not，后面的动作词用原形，也就是不再加 s；再检查“不做什么”和时间是否接完整。"
+  },
+  "W455": {
+    "type": "sentence",
+    "accepted": [
+      "Please take your collection notice to the desk on the left."
+    ],
+    "explanation": "读懂：题目问取包裹该去哪个服务台。collection notice 是“取件通知”，回答让人带着它去左边的台子。\n解析：Please 后先放 take，再接要带的 your collection notice。to 后接目的地 the desk；固定句尾 on the left 说明这个服务台在左边，不是可移动词块。\n下次：遇到让人带东西去某处，先排带什么，再用 to 接去哪里；最后检查题面固定的位置说明接上了哪件东西。"
+  },
+  "W456": {
+    "type": "sentence",
+    "accepted": [
+      "You can use the paper we provide.",
+      "We provide the paper you can use."
+    ],
+    "explanation": "读懂：题目问要不要自己买本子。provide 是“提供”，回答说可以用现场提供的纸。\n解析：can 后接 use，不能接 using。we provide 放在 the paper 后，说明是“我们提供的纸”；也可以先说“我们提供纸”，再用 you can use 说明这种纸能给你用。\n下次：先决定从“你可以用”还是“我们提供”说起，把说明纸的另一部分接在 paper 后；检查 can 后用的是 use。"
+  },
+  "W457": {
+    "type": "sentence",
+    "accepted": [
+      "It is published once every two weeks."
+    ],
+    "explanation": "读懂：题目问校报多久出版一次。once 是“一次”，every two weeks 是“每两周”。\n解析：报纸是被出版的，接给定的 is published。后面按“几次—每隔多久”排 once、every、two weeks，合起来就是“每两周一次”。\n下次：遇到出版或活动频率，先找“几次”，再接 every 和时间间隔；不要把每两周一次看成一周两次。"
+  },
+  "W458": {
+    "type": "sentence",
+    "accepted": [
+      "Those chairs belong to the music department."
+    ],
+    "explanation": "读懂：题目问走廊里的椅子是不是给社团开会用的。belong to 是“属于”，回答说属于音乐系。\n解析：Those chairs 指多把椅子，后面用 belong，不加 s。belong 必须和 to 连用，再接 the music department，说明属于谁。\n下次：遇到“属于”，先找物品，再用 belong to 接主人；物品是多个时，检查 belong 没有加 s。"
+  },
+  "W459": {
+    "type": "sentence",
+    "accepted": [
+      "Have you plugged them into the correct socket?"
+    ],
+    "explanation": "读懂：对方说耳机听不到录音。socket 是“插孔”，回应是在问耳机有没有插对地方。\n解析：问“你有没有做过这一步”，先排 Have you，再接 plugged。them 指耳机，接在 plugged 后；into 后放插孔，表示插到哪里。\n下次：问某一步是否已经做过，先排 Have 和人，再放动作；遇到“插入”，检查物品在 plugged 后、位置在 into 后。"
+  },
+  "W460": {
+    "type": "sentence",
+    "accepted": [
+      "It will take place at the end of November."
+    ],
+    "explanation": "读懂：题目问下次选举是什么时候。take place 是“举行”，回答说在十一月底。\n解析：will 表示将来，后面用不加 s 的 take place，不能用 takes place。at the end 要和固定句尾 of November 连起来，才是“十一月底”。\n下次：看到 will，先选没有额外变化的动作词；再把时间读完整，检查 at the end 后面接的是哪一段时间。"
+  },
+  "W461": {
+    "type": "sentence",
+    "accepted": [
+      "The staff have not brought the clean ones downstairs yet."
+    ],
+    "explanation": "读懂：题目问泳池边怎么没有毛巾。the clean ones 指“干净的那些毛巾”，回答说还没拿到楼下。\n解析：have not brought 表示“到现在还没拿来”，和固定句尾 yet 呼应。brought 后先放拿的东西 the clean ones，再放目的地 downstairs。\n下次：遇到“还没拿来”，先排否定的动作，再排物品和目的地；检查 ones 代替的是什么东西。"
+  },
+  "W462": {
+    "type": "sentence",
+    "accepted": [
+      "Bicycles must be parked behind the residence hall."
+    ],
+    "explanation": "读懂：题目问自行车能不能停在入口旁。回答要求停在 residence hall，也就是宿舍楼的后面。\n解析：先排 Bicycles must，再接题面已有的 be 和 parked，表示“自行车必须停放”。behind 后接宿舍楼。must 后不能用 are，所以 are 不选。\n下次：说明物品必须怎样处理时，先找 must be，再接处理动作；检查固定的 be 不被重复添加。"
+  },
+  "W463": {
+    "type": "sentence",
+    "accepted": [
+      "The first one did not show the student discount."
+    ],
+    "explanation": "读懂：题目问为什么又拿到一张收据。the first one 指第一张收据，它没显示学生折扣。\n解析：did not 表示过去“没有做”，后面的 show 就不用再变成 showed。show 后放 the student discount，说明缺少的是哪项信息。\n下次：看到 did not，动作词恢复原形，如 show；再检查否定的具体内容有没有接在动作后。"
+  },
+  "W464": {
+    "type": "sentence",
+    "accepted": [
+      "There is another one on the floor above.",
+      "On the floor above, there is another one."
+    ],
+    "explanation": "读懂：题目问是不是只有这一台打印机。another one 是“另一台”，回答说楼上还有。\n解析：There is 表示“有”，后接另一台打印机。on 和 the floor above 连成“在上一层”；这段地点可放在句尾，也可先说。\n下次：说明某处还有一件东西，先拼 There is 和物品，再安放地点；检查另一件用的是 another one。"
+  },
+  "W465": {
+    "type": "sentence",
+    "accepted": [
+      "How long do you have to wait for the next one?",
+      "For the next one, how long do you have to wait?"
+    ],
+    "explanation": "读懂：对方错过了第一班车。How long 是“多久”，回应问还得等多久才能坐下一班。\n解析：How long 后排 do you，不能用 does 配 you。have to wait 表示“不得不等”；for the next one 说明等下一班车，可放句尾，也可先提出。\n下次：问一个人要等多久，先排 How long 和 do you，再接 have to wait；检查等的对象跟在 for 后。"
+  },
+  "W466": {
+    "type": "sentence",
+    "accepted": [
+      "She was able to sit near the front."
+    ],
+    "explanation": "读懂：题目问她有没有找到座位。near the front 是“靠近前排”，回答说她坐到了前面附近。\n解析：was able to 表示“当时能够做到”。先排 was、able，再接整块 to sit；near 和 the front 连起来，说明坐在哪里。\n下次：看到 able，不要直接接动作，要有 to；把动作接好后，再检查地点说的是哪里。"
+  },
+  "W467": {
+    "type": "sentence",
+    "accepted": [
+      "The smaller key opens the cabinet beside the sink.",
+      "The smaller key beside the sink opens the cabinet."
+    ],
+    "explanation": "读懂：题目问备用钥匙是不是开设备柜的。the smaller key 是“较小的那把钥匙”。\n解析：一把钥匙配 opens，不选 open。beside the sink 是“在水槽旁”：放在 cabinet 后说明柜子位置，放在 key 后说明钥匙位置，两种意思都能回应前句。\n下次：先排“钥匙能开哪个柜子”，再看地点是在说明谁，把它放在那个物品后面；最后检查 opens 的 s。"
+  },
+  "W468": {
+    "type": "sentence",
+    "accepted": [
+      "You should check the address on your application."
+    ],
+    "explanation": "读懂：对方没收到课程确认通知。on your application 指“申请表上的”，回应建议检查填的地址。\n解析：should 表示“应该”，后面接 check，不用 checking。on your application 紧跟 the address，说明要查的是申请表上的地址。\n下次：提建议时，should 后用动作原形；再看后面的补充说明是在说哪样东西，把它接在那样东西后面。"
+  },
+  "W469": {
+    "type": "sentence",
+    "accepted": [
+      "Ask the assistant at the information desk.",
+      "At the information desk, ask the assistant."
+    ],
+    "explanation": "读懂：题目问谁能教自己用扫描仪。information desk 是“咨询台”，回答让你去问那里的助理。\n解析：Ask 是“去问”，后面先接人 the assistant。at 和 the information desk 连成地点，既可接在人后，也可放句首说明到哪里问。\n下次：遇到“去问”，先找问谁，再找去哪里；检查人跟着 Ask，地点跟着 at。"
+  },
+  "W470": {
+    "type": "sentence",
+    "accepted": [
+      "The elevator has been out of service since Monday."
+    ],
+    "explanation": "读懂：题目问为什么走楼梯。out of service 是“停用”，电梯从周一到现在一直不能用。\n解析：这段状态持续到现在，所以用 has been，再接 out of service。since Monday 说明从何时开始；has 后要用 been，不能用 being。\n下次：描述从过去持续到现在的状态，先检查 has been，再接状态；since 后放开始的时间。"
+  },
+  "W471": {
+    "type": "sentence",
+    "accepted": [
+      "No previous experience is required for this class.",
+      "For this class, no previous experience is required."
+    ],
+    "explanation": "读懂：题目问陶艺课适不适合初学者。No previous experience 表示“不需要以前学过的经验”。\n解析：is required 是“被要求、需要”。前面的 No 已经否定了经验要求，所以整句是在说不需要基础；for this class 说明是哪门课，可放句首或句尾。\n下次：遇到 No，先看它否定了什么，再接“需要”或其他动作；读完整句，确认没有把“不需要”看反。"
+  },
+  "W472": {
+    "type": "sentence",
+    "accepted": [
+      "Several students are still waiting outside the locked room.",
+      "Outside the locked room, several students are still waiting."
+    ],
+    "explanation": "读懂：题目问讲座为什么晚开始。still waiting 是“还在等”，几名学生仍被挡在锁着的教室外。\n解析：Several students 是好几个学生，所以选 are，不选 is。are still waiting 表示“还在等待”；outside 后接教室，这段地点也可以放句首。\n下次：看到 several，先按多人选 are；再接正在做的事，最后检查人是在地点里面还是外面。"
+  },
+  "W473": {
+    "type": "sentence",
+    "accepted": [
+      "Every student has to bring a pair of safety glasses."
+    ],
+    "explanation": "读懂：题目问实验室是否提供护目镜。回答说每个学生必须自己带一副；a pair 表示“一副”。\n解析：Every student 是逐个说“每一个学生”，按单数用 has，再接 to 和 bring。a pair 与 of safety glasses 连成“一副护目镜”；整块 have to 不选。\n下次：遇到 every 加一个人，按单数选 has；再接 to 和动作，检查“一副什么”有没有说完整。"
+  },
+  "W474": {
+    "type": "sentence",
+    "accepted": [
+      "Why don't we leave a little earlier?"
+    ],
+    "explanation": "读懂：对方担心公交车拥挤。Why don't we 在这里是“我们何不……”，是在提议早点出发。\n解析：先排 Why don't we，再接 leave，表示建议一起出发。a little earlier 是“稍早一点”，放在 leave 后说明提前多少。\n下次：看到 Why don't we，先按共同建议理解，再接动作；检查后面的时间或程度是在补充这个动作。"
+  },
+  "W475": {
+    "type": "sentence",
+    "accepted": [
+      "They chose the room with the largest windows."
+    ],
+    "explanation": "读懂：题目问社团定好场地没有。回答说选了窗户最大的房间，largest 是“最大的”。\n解析：They chose 表示“他们选了”，后面接已固定的 the room。with 再接 the largest 和 windows，说明这个房间“有最大的窗户”。\n下次：先说选了什么，再用 with 补充它有什么特点；检查“最大的”说的是窗户还是整个房间。"
+  },
+  "W476": {
+    "type": "sentence",
+    "accepted": [
+      "Only printed dictionaries are allowed during the quiz.",
+      "During the quiz, only printed dictionaries are allowed."
+    ],
+    "explanation": "读懂：题目问小测时能不能用这本词典。Only printed dictionaries 表示“只允许纸质词典”。\n解析：Only 放在 printed dictionaries 前，限定允许的是这一类。dictionaries 是复数，选 are allowed；during the quiz 表示“小测期间”，可放句首或句尾。\n下次：遇到 only，先看它限定哪一类东西；再按东西的单复数选 is 或 are，最后检查允许使用的时间。"
+  },
+  "W477": {
+    "type": "sentence",
+    "accepted": [
+      "It will not save my changes unless I enter a phone number."
+    ],
+    "explanation": "读懂：题目问在线表格出了什么问题。unless 是“除非”，回答说不填电话号码就无法保存修改。\n解析：will not save 先说“不会保存”，接 my changes；unless 后排 I enter a phone number，说明必须先填电话这个条件。\n下次：看到“不……unless……”，先理解成“不满足后面的条件，就不能做前面的事”，再检查条件和结果有没有放反。"
+  },
+  "W478": {
+    "type": "sentence",
+    "accepted": [
+      "It gives me enough time to get there after class.",
+      "It gives me enough time after class to get there."
+    ],
+    "explanation": "读懂：题目问为什么选下午的预约。enough time 是“足够的时间”，这样下课后来得及赶去。\n解析：gives 后先放得到时间的人 me，再放 enough time。to get there 说明这段时间用来赶到那里；after class 可放句尾，也可接在 enough time 后。\n下次：遇到“给某人留时间做事”，先排给谁、多少时间，再用 to 接动作；检查时间安排是否符合前句。"
+  },
+  "W479": {
+    "type": "sentence",
+    "accepted": [
+      "A drinking fountain has been installed next to the main staircase.",
+      "Next to the main staircase, a drinking fountain has been installed."
+    ],
+    "explanation": "读懂：题目问哪里能接饮用水。drinking fountain 是“饮水台”，回答说主楼梯旁新装了一台。\n解析：一台饮水台配 has，再接 been installed，表示“已经安装好”。next to 后接楼梯；have been installed 不配这里的单数设备。\n下次：说一件设施已经装好，先拼 has been 和安装动作；再接地点，检查 has 是否和单数设施对应。"
+  },
+  "W480": {
+    "type": "sentence",
+    "accepted": [
+      "They need to stay indoors until the weather improves.",
+      "Until the weather improves, they need to stay indoors."
+    ],
+    "explanation": "读懂：题目问现在要不要把植物搬出去。until 是“直到”，回答说要留在室内直到天气好转。\n解析：They 指植物，need to stay indoors 表示“需要待在室内”。until 后排 the weather improves；虽说的是之后的事，这种时间说明仍用 improves。\n下次：看到 until，先找要持续做的事，再找做到什么时候；检查时间说明里的动词，不额外加 will。"
+  },
+  "W481": {
+    "type": "sentence",
+    "accepted": [
+      "Could it be in the pocket of your coat?"
+    ],
+    "explanation": "读懂：对方到处找学生证。pocket 是“口袋”，回应猜测会不会在外套口袋里。\n解析：Could it be 表示“它会不会在……”，问句中 Could 放在 it 前。in 后接 the pocket，再连固定的 of your coat，说明是哪件衣服的口袋。\n下次：猜测东西在哪里时，先排 Could it be，再接地点；检查口袋和它所属的衣物有没有连起来。"
+  },
+  "W482": {
+    "type": "sentence",
+    "accepted": [
+      "My supervisor asked me to submit it on her behalf."
+    ],
+    "explanation": "读懂：题目问为什么替主管提交出差申请。on her behalf 是“代她办理”，回答说这是主管的要求。\n解析：按“谁要求—要求谁—做什么”来排：My supervisor asked 后接 me，再接 to submit it。it 指申请，her 指主管。\n下次：遇到 ask 某人做事，先把被要求的人放在 ask 后，再用 to 接动作；检查办理的东西和代办的人没有混淆。"
+  },
+  "W483": {
+    "type": "sentence",
+    "accepted": [
+      "The screen is too small for people at the back to read.",
+      "For people at the back, the screen is too small to read."
+    ],
+    "explanation": "读懂：题目问大家在这里能不能看清演示。too small 是“太小”，屏幕小到后排的人看不清。\n解析：先说 The screen is too small，再用 for 指出受影响的人，to read 说明做不到的动作。也可先说“对后排的人来说”，把 for 那段放句首。\n下次：遇到“太……以至于不能……”，用 too 接程度、to 接动作；出现 for 时，检查后面是不是做这个动作的人。"
+  },
+  "W484": {
+    "type": "sentence",
+    "accepted": [
+      "Please put the completed forms in the envelope on the desk.",
+      "Please put the completed forms on the desk in the envelope."
+    ],
+    "explanation": "读懂：题目问调查表该怎么处理。completed forms 是“填好的表格”，回答让人放进桌上的信封。\n解析：put 后先接要放的表格。in the envelope 说明放进信封，on the desk 说明在桌上；这两段位置说明可交换，表格仍要在信封里面。\n下次：遇到 put，先找放什么，再找放到哪里；地点不止一段时，检查物品、容器和位置的关系没有变。"
+  },
+  "W485": {
+    "type": "sentence",
+    "accepted": [
+      "You can turn them on in the settings.",
+      "In the settings, you can turn them on.",
+      "You can, in the settings, turn them on."
+    ],
+    "explanation": "读懂：题目问纪录片有没有字幕。turn them on 是“把它们打开”，them 指字幕。\n解析：can 后用 turn，不用 turns。turn on 表示“开启”；用 them 代替字幕时，要夹在 turn 和 on 中间。in the settings 说明在设置里操作。\n下次：遇到 turn on 这类可以拆开的搭配，若对象是 it 或 them，就把它放中间；再检查 can 后的动作词没有加 s。"
+  },
+  "W486": {
+    "type": "sentence",
+    "accepted": [
+      "It is being cleaned by a specialist."
+    ],
+    "explanation": "读懂：题目问画廊为什么撤下那幅画。being cleaned 是“正在清洁中”，回答说有专业人员在清理它。\n解析：画是被清洁的，而且动作正在进行，所以在固定的 It is 后排 being cleaned，不能用 been。by 后接 a specialist，指出谁在清洁。\n下次：说物品正在被处理，用 is being 接处理动作；再用 by 接做事的人，检查不是把物品写成做事者。"
+  },
+  "W487": {
+    "type": "sentence",
+    "accepted": [
+      "We finished much sooner than we expected."
+    ],
+    "explanation": "读懂：题目问小组是不是忙了整整一下午。much sooner 是“早得多”，回答说完成得比预计早。\n解析：先排 We finished，说明“我们完成了”；much sooner 说明早得多，than we expected 再说明是跟原来的预期相比。\n下次：看到 sooner、later 等比较词，先找早晚的动作，再用 than 接比较对象；检查是在和哪一个时间比。"
+  },
+  "W488": {
+    "type": "sentence",
+    "accepted": [
+      "Which one is closer to your classes?"
+    ],
+    "explanation": "读懂：对方拿不定主意选哪处住宿。closer 是“更近”，回应问哪处离上课地点近。\n解析：Which one 本身就在问“哪一处”，后面直接接 is closer。closer 要用 to 接靠近的地点，不需要再加 does。\n下次：遇到“哪一个更……”，先把 Which one 当作句子要说的对象，再接 is 和特点；检查比较词需要的介词。"
+  },
+  "W489": {
+    "type": "sentence",
+    "accepted": [
+      "The tutor only assigned the first two for tomorrow.",
+      "The tutor assigned only the first two for tomorrow.",
+      "For tomorrow, the tutor only assigned the first two.",
+      "For tomorrow, the tutor assigned only the first two."
+    ],
+    "explanation": "读懂：题目问今晚是不是所有文章都要读。the first two 指“前两篇”，回答说老师只布置了这两篇供明天使用。\n解析：先找 The tutor assigned，说明老师布置了任务。only 可放 assigned 前或 the first two 前，结合语境都表示这里只要求前两篇；for tomorrow 说明准备哪一天。\n下次：看到 only 和数量，先确认哪些属于任务，再接截止或使用时间；检查没有把“只做两篇”读成“全部都做”。"
+  },
+  "W490": {
+    "type": "sentence",
+    "accepted": [
+      "Buying food on campus costs more than I can afford.",
+      "On campus, buying food costs more than I can afford."
+    ],
+    "explanation": "读懂：题目问为什么自带午饭。afford 是“负担得起”，回答说在校内买饭太贵。\n解析：Buying food 表示“买饭这件事”，整件事按单数用 costs，不选 cost。more than I can afford 表示价格超过自己能承受的数额。\n下次：句首是“做某事”时，把整件事看作一个对象，再选单数动词；遇到 more than，检查超出的是什么标准。"
+  },
+  "W491": {
+    "type": "sentence",
+    "accepted": [
+      "Questions should be saved until the presentation is over.",
+      "Until the presentation is over, questions should be saved."
+    ],
+    "explanation": "读懂：题目问演讲中途可不可以提问。be saved 在这里是“留着稍后再提”，问题要等演讲结束再问。\n解析：Questions 后接 should be saved，表示问题应该先留着。until 后接 the presentation is over，说明一直等到演讲结束；这段时间也可放句首。\n下次：看到“留到……再做”，先排要保留的事，再用 until 接结束条件；检查提问发生在结束后。"
+  },
+  "W492": {
+    "type": "sentence",
+    "accepted": [
+      "Would you prefer one facing the courtyard?"
+    ],
+    "explanation": "读懂：对方想要远离街道的房间。courtyard 是“庭院”，回应问是否更喜欢朝向庭院的房间。\n解析：Would you prefer 是礼貌地问“你更想要吗”；one 代替一间房。facing the courtyard 接在 one 后，说明这间房朝向哪里。\n下次：选择某一件东西时，先说要哪一件，再在它后面补特点；看到 facing，检查说的是这个东西的朝向。"
+  },
+  "W493": {
+    "type": "sentence",
+    "accepted": [
+      "I removed the examples that repeated the same point."
+    ],
+    "explanation": "读懂：题目问为什么你的作业比较短。repeated the same point 是“重复同一个观点”，这些例子被删掉了。\n解析：I removed 后接固定的 the examples，说明删的是例子。that 后接 repeated the same point，用来说明删的是哪一类例子。\n下次：先说删了什么，再用 that 补充这些东西的特点；检查后半段始终是在说明前面的例子。"
+  },
+  "W494": {
+    "type": "sentence",
+    "accepted": [
+      "The ticket price does not include admission to that exhibition."
+    ],
+    "explanation": "读懂：题目问门票包不包括特别展览。admission 是“入场资格”，回答说票价不含特展。\n解析：The ticket price 后排 does not include；does 后的 include 不加 s，所以 includes 不选。admission 接 to that exhibition，说明进入哪个展览。\n下次：看到 does not，动作词不再加 s；遇到 admission，再检查 to 后面是不是要进入的场所或活动。"
+  },
+  "W495": {
+    "type": "sentence",
+    "accepted": [
+      "That depends on how strong the wind becomes."
+    ],
+    "explanation": "读懂：题目问露天音乐会是否可能取消。depends on 是“取决于”，要看风会变得多大。\n解析：先排 That depends on，再把 how 和 strong 连成“有多强”。最后接给定的 the wind becomes，说明判断的是风的强度。\n下次：问“有多大、多强”，把 how 和描述程度的词放一起；再检查是谁变大、变强，避免只剩一个程度词。"
+  },
+  "W496": {
+    "type": "sentence",
+    "accepted": [
+      "It stays open an hour later during exam week.",
+      "During exam week, it stays open an hour later."
+    ],
+    "explanation": "读懂：对方以为写作中心五点关门。an hour later 是“晚一小时”，考试周的关门时间延后了。\n解析：stays open 表示“继续开放”。后接 an hour later，和前句的五点相比；during exam week 说明这项安排只在考试周，可先说或后说。\n下次：看到 later，先找上文原定的时间，再算晚了多久；检查延长营业适用于哪一段日期。"
+  },
+  "W497": {
+    "type": "sentence",
+    "accepted": [
+      "She wants us to warm up before practice begins.",
+      "Before practice begins, she wants us to warm up."
+    ],
+    "explanation": "读懂：题目问教练为什么让大家早到。warm up 是“热身”，要在训练开始前做好。\n解析：She wants 后先接 us，说明希望谁去做，再接 to warm up。before 后排 practice begins，说明热身应早于训练开始。\n下次：遇到 want 某人做事，先放这个人，再用 to 接动作；看到 before，把两件事的先后顺序核对一遍。"
+  },
+  "W498": {
+    "type": "sentence",
+    "accepted": [
+      "You can renew it online as long as nobody has reserved it.",
+      "As long as nobody has reserved it, you can renew it online."
+    ],
+    "explanation": "读懂：题目问能不能不到图书馆就续借。as long as 是“只要”，条件是这本书还没有人预约。\n解析：先说 You can renew it online，表示可以在线续借；as long as 后接 nobody has reserved it。nobody 是“没有人”，两处 it 都指这本书。\n下次：看到 as long as，分清可以做的事和必须满足的条件；检查 nobody 的“没有人”有没有读出来。"
+  },
+  "W499": {
+    "type": "sentence",
+    "accepted": [
+      "The student in charge of publicity handles the updates."
+    ],
+    "explanation": "读懂：题目问谁更新社团网站。in charge of 是“负责”，回答说由负责宣传的学生处理。\n解析：in、charge、of publicity 连成“负责宣传的”，放在 The student 后，先认清是哪名学生。再接 handles 和 the updates，说明这个学生做什么。\n下次：遇到名词后的一长段说明，先把“说的是谁”读完整，再找这个人做什么；不要把描述身份的部分当成整句动作。"
+  },
+  "W500": {
+    "type": "sentence",
+    "accepted": [
+      "Would you like me to explain how it works?"
+    ],
+    "explanation": "读懂：对方没参加过海报交流活动。Would you like me to… 是“你想让我……吗”，回应主动提出讲解流程。\n解析：先排 Would you like，再放讲解的人 me 和动作 to explain。how it works 是“它怎样进行”，里面先放 it，再放 works。\n下次：遇到“想让我做什么”，把 me 放在动作前；解释“怎样运行”时，检查 how 后仍是“它—运行”的顺序。"
+  },
+  "W501": {
+    "type": "sentence",
+    "accepted": [
+      "Do you know what time the last shuttle leaves on Fridays?",
+      "Do you know what time on Fridays the last shuttle leaves?"
+    ],
+    "explanation": "读懂：对方说接驳车时刻表又改了。what time 是“几点”，回应想知道周五末班车的发车时间。\n解析：外面已有 Do you know 来提问，里面只说“车几点开”：what time 后放 the last shuttle，再放 leaves，不再插入 does。on Fridays 限定周五。\n下次：看到 Do you know，先把后面的内容按“谁—做什么”排好；检查里面没有再用 does 把顺序倒过来。"
+  },
+  "W502": {
+    "type": "sentence",
+    "accepted": [
+      "I wanted to find out whether training was required."
+    ],
+    "explanation": "读懂：题目问为什么和志愿者协调员交谈。whether 是“是否”，回答说想确认需不需要培训。\n解析：wanted 接 to find out，表示“想弄清楚”。固定的 whether 后放 training，再接 was required，意思是“培训是否是必需的”。\n下次：转述“想确认是否需要”，先放 whether，再说需要的是什么；检查没有把询问内容再次排成问句。"
+  },
+  "W503": {
+    "type": "sentence",
+    "accepted": [
+      "Can you show me where it is located?"
+    ],
+    "explanation": "读懂：说明里提到了第二个附件。where 是“在哪里”，回应请对方指出这个附件的位置。\n解析：show 后先接 me，表示“指给我看”；再接 where it is located。里面按“它—位于”排 it is located，不能加 does，也不把 is 移到 it 前。\n下次：遇到“告诉我在哪里”，先接接收信息的人，再接 where 和位置说明；检查里面是 it is 的顺序。"
+  },
+  "W504": {
+    "type": "sentence",
+    "accepted": [
+      "She asked whether the cafeteria serves vegetarian meals on weekends.",
+      "She asked whether on weekends the cafeteria serves vegetarian meals."
+    ],
+    "explanation": "读懂：题目问新生打听了什么午餐信息。vegetarian meals 是“素餐”，她问食堂周末是否供应。\n解析：whether 表示“是否”，后面按“食堂—供应—素餐”排 the cafeteria、serves、vegetarian meals。on weekends 说明供应的时间，不改变这个顺序。\n下次：转述别人问“是否”，先排服务提供者、动作和内容，再补时间；检查 vegetarian 放在 meals 前。"
+  },
+  "W505": {
+    "type": "sentence",
+    "accepted": [
+      "I am not sure which documents we need to upload."
+    ],
+    "explanation": "读懂：题目问有没有听懂注册通知。which documents 是“哪些文件”，回答说还不确定要上传哪些。\n解析：am not sure 后先放 which documents，提出不确定的内容；再接 we need 和固定的 to upload，说明“我们需要上传”。里面不需要加 do。\n下次：遇到“不确定哪些东西要做处理”，先放“哪些东西”，再接“谁需要做什么”；检查没有额外加 do。"
+  },
+  "W506": {
+    "type": "sentence",
+    "accepted": [
+      "He was wondering how many microphones we would need for the panel."
+    ],
+    "explanation": "读懂：题目问音响技术员为什么打电话。microphones 是“麦克风”，他想知道座谈会需要几个。\n解析：was wondering 表示“想知道”。how many 和 microphones 连成“多少个麦克风”，后面排 we would need，再用 for the panel 说明用途。\n下次：问数量时，让 how many 紧跟要数的东西，再排谁需要它们；检查数量和活动用途没有混在一起。"
+  },
+  "W507": {
+    "type": "sentence",
+    "accepted": [
+      "Have they told you which counter you should collect it from?",
+      "Have they told you from which counter you should collect it?"
+    ],
+    "explanation": "读懂：书店说订单备好了。which counter 是“哪个柜台”，回应问有没有告知该到哪里取货。\n解析：第一个 you 跟在 told 后，表示“告诉你”；第二个 you 放在 should 前，表示“你应该去取”。from 可放最后，也可和 which counter 一起放到询问内容开头。\n下次：遇到两个相同的人称词，先分清“告诉谁”和“谁去做”；里面按 you should 排，再检查取货地点的 from 没有漏掉。"
+  },
+  "W508": {
+    "type": "sentence",
+    "accepted": [
+      "Do you remember when registration closes?"
+    ],
+    "explanation": "读懂：对方正在报名参加实地考察。registration closes 是“报名截止”，回应问还记不记得截止时间。\n解析：remember 后接 when，表示“记得什么时候”。再排 registration closes，已经是完整的“报名截止”，不需要另外加 is。\n下次：看到 remember when，后面按“什么事情—发生什么”排；已有 closes 这类动作词时，检查没有多塞一个 is。"
+  },
+  "W509": {
+    "type": "sentence",
+    "accepted": [
+      "I need to check who is responsible for repairs."
+    ],
+    "explanation": "读懂：题目问为什么又看住宿合同。responsible for 是“负责”，回答说要确认谁负责维修。\n解析：need 后接 to check，表示“需要确认”；who 就是要找的负责人，直接接 is responsible，再用 for repairs 说明负责维修。\n下次：问的是“谁负责”时，who 已经代表那个人，不用另放一个人；检查 responsible 后的 for 和职责相连。"
+  },
+  "W510": {
+    "type": "sentence",
+    "accepted": [
+      "She explained which courses I must complete before I can enroll."
+    ],
+    "explanation": "读懂：题目问导师有没有解释先修要求。which courses 是“哪些课”，回答说了选课前必须先修完什么。\n解析：She explained 后接 which courses，再接固定的 I 和 must complete，说明我必须修完哪些课。before 后接 I can enroll，表示之后才能选课。\n下次：先拼“必须完成哪些事”，再用 before 接之后才能做的事；检查两段中的人和动作都齐全。"
+  },
+  "W511": {
+    "type": "sentence",
+    "accepted": [
+      "They needed to know how long water had been dripping."
+    ],
+    "explanation": "读懂：题目问维修人员为什么要查看漏水处。how long 是“多久”，他们想知道水已经滴了多长时间。\n解析：needed to know 表示“需要知道”。滴水从他们询问之前就持续着，所以 how long 后排 water，再接 had been dripping，说明此前一直在滴。\n下次：过去某时问“已经一直做了多久”，先排 how long 和做事者，再接 had been 与 -ing 动作；检查动作早于询问开始。"
+  },
+  "W512": {
+    "type": "sentence",
+    "accepted": [
+      "Could you tell me whether guests are still allowed inside?",
+      "Could you tell me whether guests still are allowed inside?"
+    ],
+    "explanation": "读懂：画室改了进入规则。still 是“仍然”，回应想确认来访者现在还能不能进去。\n解析：tell 后先接 me，再用 whether 引出“是否”。里面先放 guests，再排 are allowed inside；still 可在 are 前或后。已有 are，不再加 do。\n下次：请人说明“是否仍允许”，先拼谁被允许做什么，再加入 still；检查没有同时放进多余的 do。"
+  },
+  "W513": {
+    "type": "sentence",
+    "accepted": [
+      "I would like to know how this journal can be accessed off campus.",
+      "I would like to know how off campus this journal can be accessed."
+    ],
+    "explanation": "读懂：题目问正在向图书管理员打听什么。off campus 是“在校外”，回答想知道校外怎么访问这本期刊。\n解析：would like to know 表示“想知道”。how 后先放 this journal，再排 can be accessed，表示期刊怎样可以被访问；off campus 补充访问地点，通常放句尾。\n下次：问某样东西怎样才能被访问，先放 how 和这个东西，再接 can be 与访问动作；检查地点没有拆开动作结构。"
+  },
+  "W514": {
+    "type": "sentence",
+    "accepted": [
+      "Do you know to whom the entries should be sent?"
+    ],
+    "explanation": "读懂：对方找不到摄影比赛的细则。to whom 是“给谁”，回应问参赛作品应该寄给谁。\n解析：know 后接整块 to whom；再排 the entries should be sent，意思是“作品应该被寄送”。to 已经包含在词块里，不需要另找一个。\n下次：看到 to whom，先按“给谁”整体放好；后面先放物品，再说应该怎样处理，检查不是 should 在物品前。"
+  },
+  "W515": {
+    "type": "sentence",
+    "accepted": [
+      "He did not understand what the instructor meant by a brief summary."
+    ],
+    "explanation": "读懂：题目问学生为什么索要报告样例。a brief summary 是“简短概述”，他不明白老师具体指什么。\n解析：did not understand 表示“没理解”。what 后按 the instructor meant 排，问老师的意思；by 后放 a brief summary，指出需要解释的那句话。\n下次：遇到“某人说某个词是什么意思”，用 what 接这个人和 meant，再用 by 接那个词；检查是谁说、说了什么。"
+  },
+  "W516": {
+    "type": "sentence",
+    "accepted": [
+      "Has anyone explained why our request was turned down?"
+    ],
+    "explanation": "读懂：对方听说场地申请被拒。turned down 是“拒绝”，回应问有没有人说明原因。\n解析：固定的 Has anyone 后接 explained，问“有人解释过吗”。why 后按 our request was turned down 排，先说申请，再说被拒；不把 was 提到申请前。\n下次：外面问“有没有解释”，里面只说明“什么被怎样处理”；检查 why 后仍是对象在前、动作在后。"
+  },
+  "W517": {
+    "type": "sentence",
+    "accepted": [
+      "I cannot remember whether the exam starts at nine or at nine thirty."
+    ],
+    "explanation": "读懂：题目问为什么看钟。cannot remember 是“记不清”，说话者不确定九点还是九点半开考。\n解析：先排 cannot remember，再用 whether 引出两个可能。the exam 放 starts 前，表示“考试开始”；两个时间已固定在句尾，不需要移动。\n下次：看到 whether…or…，先按“是这个还是那个”理解；把事件和动作接在中间，再检查是否与固定的两种选择相连。"
+  },
+  "W518": {
+    "type": "sentence",
+    "accepted": [
+      "Could you tell me how much they charged for a basic repair?"
+    ],
+    "explanation": "读懂：对方上周修过自行车。how much 是“多少钱”，回应想问一次基础维修收了多少。\n解析：tell 后先接 me，再接 how much。里面按“他们—收费”排 they charged；for a basic repair 说明这笔钱收的是哪项服务。\n下次：问收费多少，先放 how much，再排谁收钱；最后用 for 接收费项目，检查没有把钱和服务放反。"
+  },
+  "W519": {
+    "type": "sentence",
+    "accepted": [
+      "She asked which part of the assignment we found confusing."
+    ],
+    "explanation": "读懂：题目问老师想弄清楚什么。confusing 是“让人困惑的”，她想知道作业哪部分难懂。\n解析：which part 和 of the assignment 连起来，先提出“作业的哪部分”。we found confusing 表示“我们觉得难懂”，是对前面那部分作业的评价。\n下次：遇到“觉得哪部分难懂”，先把“哪部分”说完整，再接谁觉得和 found confusing；检查评价的是哪样东西。"
+  },
+  "W520": {
+    "type": "sentence",
+    "accepted": [
+      "I wonder whether she saved it in a different folder."
+    ],
+    "explanation": "读懂：同伴说文件不见了。a different folder 是“另一个文件夹”，回应怀疑她是不是存到了别处。\n解析：wonder 后用 whether 表示“想知道是否”；再按“她—保存—文件”排 she saved it，最后接保存位置。it 和地点是两个词块，分别占空。\n下次：问文件是否存错地方，先排谁存了什么，再放地点；检查 it 仍指文件，没有被当成位置。"
+  },
+  "W521": {
+    "type": "sentence",
+    "accepted": [
+      "I wanted to ask if lane reservations were necessary."
+    ],
+    "explanation": "读懂：题目问为什么给泳池打电话。lane reservations 是“泳道预约”，回答想问是否必须预约。\n解析：wanted 接 to ask，表示“想询问”。这里的 if 是“是否”，后面先放 lane reservations，再放 were necessary，说明预约是不是必需的。\n下次：看到 ask if，先按“问是否”理解，再排询问对象和它的情况；不要把这里的 if 读成“如果”。"
+  },
+  "W522": {
+    "type": "sentence",
+    "accepted": [
+      "I have not heard who has been selected for the award."
+    ],
+    "explanation": "读懂：题目问奖学金结果公布了没有。selected 是“被选中”，回答说还没听说谁获选。\n解析：have not heard 表示“还没听说”。who 已代表获选的人，直接接 has been selected；for the award 说明选的是这个奖项的获得者。\n下次：问谁被选中时，who 就是那个人，后面直接接 has been 和选拔动作；检查没有再塞进另一个人称词。"
+  },
+  "W523": {
+    "type": "sentence",
+    "accepted": [
+      "Does he know which entrance he is supposed to use?"
+    ],
+    "explanation": "读懂：送货司机在楼下等。is supposed to 是“按规定应该”，回应问他知不知道该走哪个入口。\n解析：Does he know 已经提出外层问题。which entrance 后面有固定的 he，接 is supposed、to、use，组成“他应该使用”；单独的 is 是多余的。\n下次：遇到 supposed，检查后面有 to 和动作；若前面已有 know 这一层询问，里面仍先放人，再放 is。"
+  },
+  "W524": {
+    "type": "sentence",
+    "accepted": [
+      "Have you checked whether the same locker will be available next term?"
+    ],
+    "explanation": "读懂：对方想续租储物柜。the same locker 是“同一个柜子”，回应问有没有确认下学期还可用。\n解析：Have you 后接 checked，表示“核实过吗”。whether 后先放柜子，再排 will be available，说明将来能否使用；next term 是下学期。\n下次：问是否核实过未来安排，外面排 Have you checked，里面先放对象，再放 will be 和状态；最后核对时间。"
+  },
+  "W525": {
+    "type": "sentence",
+    "accepted": [
+      "She wanted to know how many people the room could safely hold.",
+      "She wanted to know how many people the room safely could hold.",
+      "She wanted to know how many people the room could hold safely."
+    ],
+    "explanation": "读懂：题目问组织者让你确认什么。hold 在这里是“容纳”，她想知道房间安全地能容纳多少人。\n解析：wanted to know 后先放 how many people。容纳人的是 the room，所以接 the room could hold；safely 可放 could 前、could 后或 hold 后，都表示安全地容纳。\n下次：问能容纳多少人，先提出人数，再说哪个空间能容纳；检查不是把“人”排成了容纳别人的一方。"
+  },
+  "W526": {
+    "type": "sentence",
+    "accepted": [
+      "I asked how the average had been calculated from the table."
+    ],
+    "explanation": "读懂：题目问统计课后为什么留下来。average 是“平均值”，回答想问表里的平均值是怎么算出来的。\n解析：asked 后用 how 引出“怎样”。先放 the average，再接 had been calculated，表示询问前已被算出的数值；固定句尾 from the table 说明数据来源。\n下次：问一个结果怎样算出，先放结果，再说它被怎样处理；检查 how 问方法、from 后说数据来源。"
+  },
+  "W527": {
+    "type": "sentence",
+    "accepted": [
+      "Can you show her which building her class is in?",
+      "Can you show her in which building her class is?"
+    ],
+    "explanation": "读懂：交换生正在找教室。which building 是“哪栋楼”，回应请对方告诉她上课地点。\n解析：show 后接 her，表示“指给她看”。里面按 her class is 排，说明她的课在哪里；in 可留句尾，也可和 which building 一起放在前面。\n下次：先分清 her 是听指引的人、her class 是要找的课程地点；检查里面按 her class is 排，并且保留 in。"
+  },
+  "W528": {
+    "type": "sentence",
+    "accepted": [
+      "I want to see exactly what the participants were asked."
+    ],
+    "explanation": "读懂：题目问为什么需要调查问卷原件。exactly what 是“具体什么”，回答想核实参与者实际被问了什么。\n解析：want 接 to see，表示“想看清、弄明白”。exactly what 后先排 the participants，再接 were asked；参与者是被问的人，所以需要 were asked。\n下次：先分清谁提问、谁被问；要查“被问了什么”，就先放 what，再接被问的人和 were asked。"
+  },
+  "W529": {
+    "type": "sentence",
+    "accepted": [
+      "I do not know whether the working hours can be adjusted around my classes."
+    ],
+    "explanation": "读懂：题目问对实习还有什么不清楚。adjusted 是“调整”，回答不知道工时能否配合课表安排。\n解析：do not know 后用 whether 引出“是否”。被调整的是 the working hours，所以先放工时，再排 can be adjusted；around my classes 说明要配合上课时间。\n下次：问某件事能否调整，先放被调整的对象，再接 can be 和处理动作；最后检查调整要满足什么安排。"
+  },
+  "W530": {
+    "type": "sentence",
+    "accepted": [
+      "Do you remember at which point the speaker discussed the survey results?"
+    ],
+    "explanation": "读懂：研讨会录像已经上线。at which point 是“在哪个时间点”，回应想找讲者讨论调查结果的片段。\n解析：remember 后接整块 at which point；里面按“讲者—讨论—结果”排 the speaker、discussed、the survey results，不另作问句倒装。\n下次：找录像中的时间点，先提出“在哪一刻”，再说谁做了什么；检查人仍在动作词前面。"
+  },
+  "W531": {
+    "type": "sentence",
+    "accepted": [
+      "I am trying to work out which route requires fewer transfers."
+    ],
+    "explanation": "读懂：题目问为什么比较两张公交图。fewer transfers 是“换乘更少”，回答要找少换乘的路线。\n解析：am trying to work out 表示“正在设法弄清”。which route 已代表要比较的路线，直接接 requires，再接 fewer transfers，说明需要几次换乘。\n下次：问“哪条路线需要更少”，让 which route 直接接需要的动作；检查后面比较的是换乘次数。"
+  },
+  "W532": {
+    "type": "sentence",
+    "accepted": [
+      "I am unsure whether online participation counts as attendance.",
+      "I am unsure whether participation online counts as attendance."
+    ],
+    "explanation": "读懂：题目问是否理解新的出勤规定。counts as attendance 是“算作出勤”，回答不确定线上参加算不算。\n解析：am unsure 后接 whether。online 放在 participation 前后都可，都是“线上参与”；接 counts as attendance，说明这种参与是否被认作出勤。\n下次：遇到 counts as，先找实际做的事，再看它被算作什么；检查线上参与和出勤这两个概念没有放反。"
+  },
+  "W533": {
+    "type": "sentence",
+    "accepted": [
+      "He needed to know on which days I was free.",
+      "He needed to know which days I was free on."
+    ],
+    "explanation": "读懂：题目问面试官为什么问课表。which days 是“哪些天”，他要知道你哪几天有空。\n解析：needed 接 to know，后面按 I was free 排，表示“我有空”。on 可和 which days 放一起，也可放句尾；给定的 was free 不拆开。\n下次：转述问哪天有空，先找日期，再排谁有空；检查内部是 I was，不是 was I，并且 on 没有漏掉。"
+  },
+  "W534": {
+    "type": "sentence",
+    "accepted": [
+      "Could you explain who should write it for me?"
+    ],
+    "explanation": "读懂：申请要求一封推荐信。who 是“谁”，回应问应该请谁帮自己写这封信。\n解析：explain 后接 who，who 就代表写信的人，后面排 should write it。it 指推荐信，for me 是“为我”，说明信是帮谁写的。\n下次：先分清谁写、写什么、帮谁写；检查 who 接动作，it 接在 write 后，for me 表示帮我而非由我来写。"
+  },
+  "W535": {
+    "type": "sentence",
+    "accepted": [
+      "I would like to understand why the second reading was so different."
+    ],
+    "explanation": "读懂：题目问对实验有什么疑问。reading 在这里是“测量读数”，说话者想知道第二次读数为何差这么多。\n解析：would like 接 to understand，表示“想弄明白”。why 后先放 the second reading，再排 was so different，问的是这个读数不同的原因。\n下次：看到 understand why，后面先放要解释的事物，再说它怎样；在实验语境里，检查 reading 是否指读数。"
+  },
+  "W536": {
+    "type": "sentence",
+    "accepted": [
+      "Can you confirm which one applies to transfer students?"
+    ],
+    "explanation": "读懂：网站上有两个截止日期。transfer students 是“转学生”，回应要确认哪一个适用于他们。\n解析：confirm 后用 which one 代替“哪一个日期”。它直接接 applies，再接 to transfer students，表示“适用于转学生”，不需要再放一个主语。\n下次：问哪一个适用时，先拼 which one，再接 applies to 和适用人群；检查日期与人群没有交换位置。"
+  },
+  "W537": {
+    "type": "sentence",
+    "accepted": [
+      "I asked whether the registration fee included access to the recordings."
+    ],
+    "explanation": "读懂：题目问为什么给会议办公室发邮件。access to 是“使用或观看的权限”，回答问报名费是否包含看录播的权限。\n解析：asked 后接 whether，表示问“是否”。先放 the registration fee，再接 included；access 和 to the recordings 连起来，说明费用包含什么。\n下次：问费用包不包含某项权益，先排费用和 included，再接权益；遇到 access，检查 to 后面是可使用的内容。"
+  },
+  "W538": {
+    "type": "sentence",
+    "accepted": [
+      "Do you know what she wants us to comment on?"
+    ],
+    "explanation": "读懂：设施主管想听听大家对新标识的意见。comment on 是“对……作评论”，回应问她具体要大家评论什么。\n解析：know 后用 what 提出评论对象；再排 she wants us，说明“她希望我们”，接 to comment 和 on。on 对应前面的 what，不能漏掉。\n下次：先分清谁希望、希望谁去做，再接动作；遇到 comment on，检查 on 仍与前面提出的评论对象相连。"
+  },
+  "W539": {
+    "type": "sentence",
+    "accepted": [
+      "She asked whether it accurately described what we had studied."
+    ],
+    "explanation": "读懂：题目问导师怎么评价项目标题。accurately described 是“准确描述”，她问标题是否说清了研究内容。\n解析：先排 She asked，再接固定的 whether。it 代替标题，接 accurately described；整块 what we had studied 是“我们研究过的内容”，放在描述动作后。\n下次：先找谁在描述、描述什么，再拼“是否准确”；检查标题是描述的一方，研究内容是被描述的一方。"
+  },
+  "W540": {
+    "type": "sentence",
+    "accepted": [
+      "I needed to find out what had been decided while I was away.",
+      "I needed to find out what, while I was away, had been decided."
+    ],
+    "explanation": "读懂：题目问为什么要会议记录。while I was away 是“我不在的时候”，回答要补上缺席期间已经作出的决定。\n解析：needed 接 to find out，表示“需要弄清”。what 代表作出的决定，直接接 had been decided；while I was away 说明决定发生的时段。\n下次：问“已经决定了什么”，把 what 接到 had been decided 前；再核对时间，确认是在缺席期间作出的决定。"
+  },
+  "W541": {
+    "type": "sentence",
+    "accepted": [
+      "Tell me which course you are taking this term."
+    ],
+    "explanation": "读懂：对方想找对实验手册。which course 是“哪门课”，回应先问他这学期在上什么课。\n解析：固定的 Tell me 后先放 which course，再排 you are taking，意思是“你正在修读”。this term 是“这学期”，放在后面限定时间。\n下次：看到 Tell me，后面的信息按“你—正在做什么”排；检查是 you are，不是直接提问时的 are you。"
+  },
+  "W542": {
+    "type": "sentence",
+    "accepted": [
+      "I want to check if the heating can be turned on remotely.",
+      "I want to check if the heating can remotely be turned on.",
+      "I want to check if the heating remotely can be turned on."
+    ],
+    "explanation": "读懂：题目问为什么联系物业。remotely 是“远程地”，回答想确认暖气能不能远程开启。\n解析：want to check 后的 if 表示“是否”。先放 the heating，再接 can 和整块 be turned on，说明暖气能否被开启；remotely 补充开启方式。\n下次：遇到 check if，先按核实“是否”理解；设备放在 can 前，再接处理动作，检查 turn on 的“开启”意思完整。"
+  },
+  "W543": {
+    "type": "sentence",
+    "accepted": [
+      "Have you asked her when she would be available?"
+    ],
+    "explanation": "读懂：教授愿意讨论草稿。available 是“有空的”，回应问有没有问过她什么时候方便。\n解析：Have you 后先排 asked her，表示“问过她吗”。when 后的 she 指教授，接 would be available；这里先放 she，不把 would 提前。\n下次：先分清“问谁”和“谁有空”，把 her 放 asked 后、she 放 would 前；检查时间问题没有再次倒装。"
+  },
+  "W544": {
+    "type": "sentence",
+    "accepted": [
+      "She wanted to explain how it had been built without modern tools."
+    ],
+    "explanation": "读懂：题目问导游为什么停在老墙边。without modern tools 是“没有现代工具”，她要解释当年怎么砌成这堵墙。\n解析：wanted to explain 表示“想解释”。how 后先放 it 指老墙，再接 had been built，表示以前被建成；最后说明当时没有现代工具。\n下次：问物品过去怎样建成，先放物品，再接 had been 和建造动作；检查 without 后说的是没有用到的工具。"
+  },
+  "W545": {
+    "type": "sentence",
+    "accepted": [
+      "Could you clarify which books are essential and which are optional?",
+      "Could you clarify which books are optional and which are essential?"
+    ],
+    "explanation": "读懂：对方看不懂阅读书单。essential 是“必需的”，optional 是“可选的”，回应要分清必读和选读。\n解析：clarify 后分别排“哪些书是必读”和“哪些是选读”，用 and 连接。第二个 which 已代替“哪些书”，仍要接 are；两类先后可以交换。\n下次：遇到两类对照，分别把“哪些—属于哪类”说完整，再用 and 连接；检查两个 are 都有对应的位置。"
+  },
+  "W546": {
+    "type": "sentence",
+    "accepted": [
+      "He asked when I had last replaced the brake pads.",
+      "He asked when I had replaced the brake pads last."
+    ],
+    "explanation": "读懂：题目问修车师傅打听了什么。brake pads 是“刹车片”，他问上次是什么时候换的。\n解析：asked when 后先放 I，再排 had replaced；更换发生在询问之前。last 表示“上一次”，可以放在 had 和 replaced 之间，也可放在刹车片后面。\n下次：先分清过去询问和更早的动作，用 had 接更早的动作；再放 last，检查“上一次”仍在说明更换时间。"
+  },
+  "W547": {
+    "type": "sentence",
+    "accepted": [
+      "Find out whether they need to be refrigerated during transport."
+    ],
+    "explanation": "读懂：对方要把样品送去另一部门。refrigerated 是“冷藏的”，回应让他确认运输时需不需要冷藏。\n解析：Find out 后用 whether 表示“查清是否”。they 指样品，接 need to be refrigerated；样品是被冷藏的，所以 need 后不能直接接 refrigerated。\n下次：说物品需要被处理，先找 need to be，再接处理动作；最后检查运输时间是否限制了这项要求。"
+  },
+  "W548": {
+    "type": "sentence",
+    "accepted": [
+      "She was checking whether we had received the evacuation instructions."
+    ],
+    "explanation": "读懂：题目问宿舍助理为什么过来。evacuation instructions 是“疏散说明”，她来确认大家收到没有。\n解析：was checking 表示当时正在核查。whether 后排 we had received，表示核查之前是否已经收到；最后放收到的疏散说明。\n下次：遇到“当时核查是否早已收到”，先排核查动作，再用 had received 接更早的收件；检查两件事的先后。"
+  },
+  "W549": {
+    "type": "sentence",
+    "accepted": [
+      "Do you have any idea where the photographs that we requested are now stored?"
+    ],
+    "explanation": "读懂：档案馆搬走了部分藏品。are now stored 是“现在存放着”，回应问申请的那些照片搬到哪里了。\n解析：have any idea 是“知不知道”。where 后先放 the photographs，再接 that we requested，说明是“我们申请的照片”；说完是哪批照片，才接 are now stored。\n下次：长句先找到“说的是哪些东西”，把说明它们的那段读完，再接它们现在怎样；别把 requested 当成照片的存放动作。"
+  },
+  "W550": {
+    "type": "sentence",
+    "accepted": [
+      "It needs to know which costs we could reduce without affecting safety."
+    ],
+    "explanation": "读懂：题目问委员会为什么要修改预算。without affecting safety 是“不影响安全”，它要知道哪些费用能省。\n解析：needs to know 后先提 which costs，再排 we could reduce，表示“我们可以减少哪些费用”。without 接 affecting safety，说明节省不能影响安全。\n下次：先找要减少的项目，再排谁能减少；看到 without，就把“不造成什么影响”接完整，检查限制没有读反。"
+  },
+  "W551": {
+    "type": "sentence",
+    "accepted": [
+      "Use the version that shows the temporary entrance."
+    ],
+    "explanation": "读懂：题目问打印哪一版地图。temporary entrance 是“临时入口”，回答让人选标出它的版本。\n解析：Use 后先接 the version，再用 that shows 说明是哪一版：它显示了什么。最后放 the temporary entrance；that 已代表这个版本，不再加 it。\n下次：先说选哪个东西，再用 that 接它的特征；检查后面是在说明前面的地图版本。"
+  },
+  "W552": {
+    "type": "sentence",
+    "accepted": [
+      "Her work on urban gardens is closely related to my interests."
+    ],
+    "explanation": "读懂：题目问为什么选这位研究导师。closely related 是“密切相关”，她的城市花园研究与你的兴趣相符。\n解析：Her work 后接 on urban gardens，先说明她研究什么。固定的 is 后接 closely related，再接 to my interests；on 说明研究主题，to 说明与什么相关。\n下次：先把研究及其主题说完，再接“与什么有关”；检查 work on 和 related to 各自连对内容。"
+  },
+  "W553": {
+    "type": "sentence",
+    "accepted": [
+      "She is the person whose photographs won the competition."
+    ],
+    "explanation": "读懂：题目问舞台旁的学生是谁。whose photographs 是“她的照片”，这些照片在比赛中获胜了。\n解析：先排 She is the person，指出是这个人。whose 接 photographs，说明照片属于她；再接 won the competition，获奖的是照片。\n下次：用作品介绍一个人时，在人后接 whose 和作品，再说作品做了什么；检查作品和主人之间的关系。"
+  },
+  "W554": {
+    "type": "sentence",
+    "accepted": [
+      "They contain equipment that must be handled with care."
+    ],
+    "explanation": "读懂：题目问箱子为什么贴红标签。with care 是“小心地”，箱内设备需要小心搬运。\n解析：They contain 后接 equipment，说明箱里装什么。that 再接 must be handled，说明设备必须怎样处理；with care 是对搬运动作的要求。\n下次：先说里面有什么，再补这些东西的处理要求；检查“小心地”是在说搬运，不是在说箱子装了东西。"
+  },
+  "W555": {
+    "type": "sentence",
+    "accepted": [
+      "The form with the blue heading is the one they need.",
+      "The form they need is the one with the blue heading.",
+      "The one they need is the form with the blue heading.",
+      "The one with the blue heading is the form they need."
+    ],
+    "explanation": "读懂：题目问来访学生该填哪张表。blue heading 是“蓝色标题”，回答用这个特点指出需要的表。\n解析：with the blue heading 说明表的外观，they need 说明学生需要它。分别把两段说明接在 the form 或 the one 后，再用 is 连起来；两边说的是同一张表。\n下次：先把“有何特点”和“谁需要”各接在一个表格名称后，再用 is 连接；检查两边仍指同一件东西。"
+  },
+  "W556": {
+    "type": "sentence",
+    "accepted": [
+      "Was it the student who gave the presentation on renewable energy?"
+    ],
+    "explanation": "读懂：对方遇到了一个与你同专业的学生。renewable energy 是“可再生能源”，回应确认是不是讲过这个主题的那位。\n解析：Was it 后先放 the student，再接 who gave the presentation，说明这位学生做过报告。on renewable energy 接在报告后，补充报告主题。\n下次：确认是哪位学生，先说人，再用 who 补他做过的事；检查 on 后的主题是在说明报告。"
+  },
+  "W557": {
+    "type": "sentence",
+    "accepted": [
+      "A tree that had been damaged by the storm was being removed."
+    ],
+    "explanation": "读懂：题目问博物馆院子为什么关闭。damaged 是“受损”，风暴损坏的树当时正在被移走。\n解析：tree 后接 that had been damaged by the storm，先认清是哪棵树：“之前被风暴损坏的”。再接 was being removed，说这棵树当时正在被清走。\n下次：先把“哪棵树”的说明读完，再找它当时怎样；检查 had been 对应先前受损，was being 对应当时清理。"
+  },
+  "W558": {
+    "type": "sentence",
+    "accepted": [
+      "They will use the room where the book club usually meets."
+    ],
+    "explanation": "读懂：题目问学生辅导员在哪儿见学员。usually meets 是“通常聚会”，回答说用读书会常聚会的房间。\n解析：will use 后先放 the room。where 后按 the book club usually meets 排，说明读书会平时在那里聚会；where 只表示地点，做事的是读书会。\n下次：用某个活动说明房间时，在 room 后接 where，再说谁在那里做什么；检查地点词后仍有人或团体。"
+  },
+  "W559": {
+    "type": "sentence",
+    "accepted": [
+      "The supplier that we contacted has promised to replace them."
+    ],
+    "explanation": "读懂：题目问订购的椅子后来怎样了。supplier 是“供应商”，对方已经答应更换。\n解析：supplier 后的 that we contacted 说明“我们联系过的那家”。这段说明结束后，再接 has promised 和 to replace them；them 指前句的椅子。\n下次：先读完是哪家供应商，再说它承诺什么；检查 has 对应一家供应商，them 对应要换的椅子。"
+  },
+  "W560": {
+    "type": "sentence",
+    "accepted": [
+      "It is the section that applies only to students living off campus."
+    ],
+    "explanation": "读懂：题目问问卷这部分为什么空着。off campus 是“校外”，这一栏只适用于住在校外的学生。\n解析：It is the section 先说明这是哪一栏，再接 that applies only to students。living off campus 紧跟 students，把人群限定为住校外的学生。\n下次：先看栏目适用哪些人，再把居住条件放在人后面；检查 only 限制的是特定学生，而非所有学生。"
+  },
+  "W561": {
+    "type": "sentence",
+    "accepted": [
+      "The coordinator whose office is beside the auditorium can help you."
+    ],
+    "explanation": "读懂：题目问无障碍座位该向谁申请，也就是方便有需要者使用的座位。回答指向办公室在礼堂旁的协调员。\n解析：The coordinator 后的 whose office 表示“这位协调员的办公室”，接 is beside the auditorium 说明位置。说完办公室在哪儿，再接 can help you，提供帮助的是人。\n下次：遇到“某人的办公室在哪儿”，先把地点说明读完，再回到这个人做什么；检查没有把办公室当成帮助你的人。"
+  },
+  "W562": {
+    "type": "sentence",
+    "accepted": [
+      "It is the proof of purchase that I need for a refund."
+    ],
+    "explanation": "读懂：题目问为什么保留计算器的收据。proof of purchase 是“购买凭证”，退款时需要它。\n解析：It is 后先放 the proof of purchase。that I need 说明“我需要的凭证”，for a refund 再说明用途；need 的对象已是前面的凭证。\n下次：先说证件是什么，再说谁需要、用来办什么；检查用途跟在 for 后，不要重复添加同一份凭证。"
+  },
+  "W563": {
+    "type": "sentence",
+    "accepted": [
+      "It was organized by students who live in the neighborhood."
+    ],
+    "explanation": "读懂：题目问校园清洁活动是谁安排的。neighborhood 是“附近社区”，组织者是住在附近的学生。\n解析：It was organized 表示活动被组织起来。by students 指出组织者；who live in the neighborhood 接在 students 后，说明这些学生住在哪里。\n下次：先用 by 找到做事的人，再用 who 补这些人的特点；检查地点是在说明人住在哪里。"
+  },
+  "W564": {
+    "type": "sentence",
+    "accepted": [
+      "The person responsible for updating it has been away all week."
+    ],
+    "explanation": "读懂：题目问公告板为什么还贴着旧时间表。has been away 是“一直不在”，负责更新的人整周都没在。\n解析：The person 后先接 responsible for updating it，说明这个人负责更新时间表。接着用 has been away 说他这周的情况；for 后要用 updating 这种 -ing 形式。\n下次：先拼“负责做什么的人”，再说这个人现在怎样；检查 for 后的动作带 -ing，it 指的是待更新的东西。"
+  },
+  "W565": {
+    "type": "sentence",
+    "accepted": [
+      "Everything you need is in the folder marked Workshop Materials.",
+      "Everything marked Workshop Materials is in the folder you need."
+    ],
+    "explanation": "读懂：题目问昨天的讲义在哪儿。Workshop Materials 是“工作坊资料”，marked 表示贴着这个标签。\n解析：第一种排法说“所需资料在贴标签的文件夹里”；另一种说“贴标签的资料在所需文件夹里”。you need 和 marked 这两段，分别紧跟自己说明的资料或文件夹。\n下次：先分清哪样东西贴标签、哪样东西是需要的，再把说明接到它后面；检查 Everything 后仍有 is 说明资料在哪儿。"
+  },
+  "W566": {
+    "type": "sentence",
+    "accepted": [
+      "The committee wanted a plan that included a clearer timeline."
+    ],
+    "explanation": "读懂：题目问提案为什么被退回修改。timeline 是“进度安排”，委员会要求计划里写得更清楚。\n解析：wanted 后先放 a plan，说明想要什么。that included 再接 a clearer timeline，说明这种计划要包含更清晰的进度安排。\n下次：先排要求什么方案，再用 that 说明方案应包含什么；检查“计划包含进度”，而不是把两者颠倒。"
+  },
+  "W567": {
+    "type": "sentence",
+    "accepted": [
+      "Choose one in which everyone is facing the camera."
+    ],
+    "explanation": "读懂：题目问海报该选哪张照片。facing the camera 是“面朝镜头”，回答让人选所有人都看镜头的那张。\n解析：one 代替一张照片，in which 相当于“在这张照片中”。后面先排 everyone，再接 is facing the camera；everyone 按每个人分别看待，配 is。\n下次：看到 in which，先找它指哪张照片或哪个地点，再说里面谁做什么；检查 everyone 后用的是 is。"
+  },
+  "W568": {
+    "type": "sentence",
+    "accepted": [
+      "The number of students who registered has exceeded our expectations."
+    ],
+    "explanation": "读懂：题目问为什么要找大房间。has exceeded 是“已经超过”，报名人数超出了预期。\n解析：句子说的是 The number，也就是“人数”这一个数，不是学生们做了什么。of students who registered 只说明是哪批人的数量，所以选 has exceeded，不选 have exceeded。\n下次：看到 The number of，先按“人数、数量”这一个数理解；读完后面的人员说明，再检查动词用单数 has。"
+  },
+  "W569": {
+    "type": "sentence",
+    "accepted": [
+      "It identifies books that cannot be taken out of the library."
+    ],
+    "explanation": "读懂：题目问书上的蓝贴纸是什么意思。out of the library 是“带出图书馆”，贴纸标记不能外借的书。\n解析：identifies 后接 books，说明贴纸标哪类书。that 后接 cannot be taken，再接 out of the library；禁止的是带出馆，没有说不能在馆内阅读。\n下次：看到 cannot，先读清禁止的完整动作；遇到 out of，检查限制是离开某处，不要扩大成完全不能使用。"
+  },
+  "W570": {
+    "type": "sentence",
+    "accepted": [
+      "Use the stop opposite the building where the evening classes are held."
+    ],
+    "explanation": "读懂：题目问社区花园最近的车站在哪儿。opposite 是“在……对面”，回答用上夜课的大楼来定位。\n解析：Use 后先接 the stop，再用 opposite the building 说明车站在大楼对面。where 后排 the evening classes are held，说明课程是在那栋楼里上。\n下次：地点多时逐层找：车站对着哪栋楼、楼里办什么；检查 where 紧跟 building，课程地点没有变成车站。"
+  },
+  "W571": {
+    "type": "sentence",
+    "accepted": [
+      "I learn better when I review the material regularly.",
+      "I learn better when I regularly review the material.",
+      "When I review the material regularly, I learn better.",
+      "When I regularly review the material, I learn better."
+    ],
+    "explanation": "读懂：题目问为什么选每周有小测的课。regularly 是“经常、定期地”，经常复习能学得更好。\n解析：I learn better 说学习效果，when 后接 I review the material 说明在什么情况下。regularly 说的是复习频率，可放 review 前或复习内容后。\n下次：先找学习效果，再接产生这种效果的做法；检查表示频率的词是在说明复习，不是材料本身。"
+  },
+  "W572": {
+    "type": "sentence",
+    "accepted": [
+      "The tour will go ahead unless the weather becomes dangerous."
+    ],
+    "explanation": "读懂：题目问下雨还会不会继续校园参观。go ahead 是“照常进行”，除非天气变得危险。\n解析：The tour 后排 will go ahead。固定的 unless 引出例外，后接 the weather becomes dangerous；说未来的条件时，这里仍用 becomes。\n下次：看到 unless，先找“出现什么情况才例外”；把它与照常进行的安排分开，检查不是一落雨就取消。"
+  },
+  "W573": {
+    "type": "sentence",
+    "accepted": [
+      "She wanted us to read them so that we could prepare questions."
+    ],
+    "explanation": "读懂：题目问讲师为什么课前发课件。so that 是“为了让”，提前阅读是为了准备问题。\n解析：wanted 后先放 us，再接 to read them，表示希望我们读课件。so that 后用 we could prepare questions，说的是阅读的目的，没说问题已经准备好。\n下次：先排希望谁做什么，再用 so that 说明这样做为了什么；检查目的没有被说成已经发生的结果。"
+  },
+  "W574": {
+    "type": "sentence",
+    "accepted": [
+      "You must wait outside until a supervisor is present."
+    ],
+    "explanation": "读懂：题目问监督人员没到时能否进创客空间。present 在这里是“在场”，回答要求先在外面等。\n解析：must 后接 wait outside，表示必须在外等候。until 后排 a supervisor is present，说明等待要持续到监督人员在场。\n下次：看到 until，先找要一直做的动作，再找何时结束；检查没有把“等到有人来”读成“有人来之后才开始等”。"
+  },
+  "W575": {
+    "type": "sentence",
+    "accepted": [
+      "Although recording was permitted, I preferred to take notes.",
+      "I preferred to take notes, although recording was permitted."
+    ],
+    "explanation": "读懂：题目问为什么记笔记而不录音。permitted 是“获准”，回答说虽然允许录音，自己还是更想记笔记。\n解析：Although 接 recording was permitted，表示“虽然允许录音”；另一段排 I preferred to take notes，说自己的选择。两段可交换位置，有 Although 就不再放 but。\n下次：遇到“虽然……还是……”，先拼实际条件，再拼个人选择；连接时检查 Although 和 but 没有同时使用。"
+  },
+  "W576": {
+    "type": "sentence",
+    "accepted": [
+      "We can begin as soon as the previous group has cleared the tables."
+    ],
+    "explanation": "读懂：题目问能不能开始布置展台。cleared the tables 是“清空桌面”，上个小组清完就能开始。\n解析：We can begin 后用 as soon as 表示“一……就……”。后面先放 the previous group，再排 has cleared the tables，强调等他们清完。\n下次：看到 as soon as，先找必须先完成的那件事；再检查后面的安排是在它完成时就能开始。"
+  },
+  "W577": {
+    "type": "sentence",
+    "accepted": [
+      "I am bringing it in case my phone runs out of power.",
+      "In case my phone runs out of power, I am bringing it."
+    ],
+    "explanation": "读懂：题目问为什么带纸质路线。runs out of power 是“没电”，带纸是预防手机没电。\n解析：I am bringing it 说现在就做的准备；in case 后接 my phone runs out of power，说可能出现的问题。不是等手机没电后才去带纸。\n下次：遇到 in case，先分清事先准备和可能出的问题；检查准备在问题发生前就做好。"
+  },
+  "W578": {
+    "type": "sentence",
+    "accepted": [
+      "It will not as long as I complete the other requirements on time.",
+      "As long as I complete the other requirements on time, it will not."
+    ],
+    "explanation": "读懂：题目问这门课会不会耽误毕业。as long as 是“只要”，回答说按时完成其他要求就不会。\n解析：It will not 接着前句说“不会耽误毕业”，省去了重复的动作。as long as 后接 I complete the other requirements，再用 on time 说明要按时完成。\n下次：短回答只有 will not 时，从上文找省去的动作；再检查 as long as 后的条件有没有满足。"
+  },
+  "W579": {
+    "type": "sentence",
+    "accepted": [
+      "Because the first reading seemed unusual, we checked the instrument.",
+      "We checked the instrument because the first reading seemed unusual."
+    ],
+    "explanation": "读懂：题目问团队为什么检查仪器。reading 在这里是“读数”，第一次读数看起来不正常。\n解析：Because 后先排 the first reading seemed unusual，说明原因；we checked the instrument 说因此采取的检查。原因也可以放在动作后面。\n下次：看到 because，先找导致问题的情况，再找应对动作；检查原因和处理办法没有颠倒。"
+  },
+  "W580": {
+    "type": "sentence",
+    "accepted": [
+      "The booking will not be confirmed until the deposit has been received."
+    ],
+    "explanation": "读懂：题目问今天不交钱能不能订礼堂。deposit 是“定金”，必须收到定金才确认预订。\n解析：will not be confirmed 表示“还不会被确认”。until 后放 the deposit has been received，说明要等定金收到；两段分别说预订的确认和定金的接收。\n下次：遇到 not…until，先读成“要等到……才……”，再对照两边对象；检查先收到钱，后确认预订。"
+  },
+  "W581": {
+    "type": "sentence",
+    "accepted": [
+      "Even though the price was higher, delivery was much faster.",
+      "Delivery was much faster, even though the price was higher."
+    ],
+    "explanation": "读懂：题目问为什么选本地供应商。delivery 是“送货”，虽然更贵，但送货快得多。\n解析：Even though 后排 the price was higher，先承认价格高。另一段排 delivery was much faster，说选择它的优势；but 多余，两段可交换先后。\n下次：说明取舍时，先认清缺点和看重的优点；用了 Even though，就不要再用 but 连接同样两段话。"
+  },
+  "W582": {
+    "type": "sentence",
+    "accepted": [
+      "You may take photographs provided that you do not use a flash."
+    ],
+    "explanation": "读懂：题目问藏品能不能拍照。flash 是“闪光灯”，回答允许拍，但条件是不使用闪光灯。\n解析：may take photographs 先给许可。provided that 后排 you do not use a flash，意思是“只要不用闪光灯”；not 否定的是 use，不是拍照。\n下次：遇到 provided that，先找允许做什么，再找附带条件；检查“不准”的具体动作，别扩大成全部禁止。"
+  },
+  "W583": {
+    "type": "sentence",
+    "accepted": [
+      "I wanted to make sure that everyone had agreed to the new time."
+    ],
+    "explanation": "读懂：题目问为什么等了一会儿才发群邮件。agreed to 是“同意”，要先确认大家都同意新时间。\n解析：wanted 后接 to make sure，表示“想确认”。固定的 that 后排 everyone had agreed，再接 to the new time；had agreed 表示确认前已经同意。\n下次：先拼要确认的事情，再核对时间先后；遇到 agreed to，检查后面接的是同意的具体安排。"
+  },
+  "W584": {
+    "type": "sentence",
+    "accepted": [
+      "It should be quiet enough if we avoid the lunch rush.",
+      "If we avoid the lunch rush, it should be quiet enough."
+    ],
+    "explanation": "读懂：题目问咖啡馆里能不能听清彼此。lunch rush 是“午餐高峰”，避开它应该就够安静。\n解析：It should be 后把 quiet 放 enough 前，组成“足够安静”。if we avoid the lunch rush 给出条件；quiet 和 enough 是两个词块，顺序不能反。\n下次：说“足够安静、足够大”时，先放形容词，再放 enough；最后读清 if 后需要满足的条件。"
+  },
+  "W585": {
+    "type": "sentence",
+    "accepted": [
+      "Students can see how much time is left before their booking ends.",
+      "Before their booking ends, students can see how much time is left."
+    ],
+    "explanation": "读懂：题目问练习室外为什么放钟。how much time 是“多少时间”，学生可以查看预约还剩多久。\n解析：Students can see 后接 how much time，再接 is left，表示“还有多少时间剩下”。before their booking ends 说明看到的是预约结束前的剩余时间。\n下次：问还剩多少时间，先连 how much time 和 is left；再检查剩余时间是算到哪个结束点。"
+  },
+  "W586": {
+    "type": "sentence",
+    "accepted": [
+      "If we had more time, we could check the figures again.",
+      "We could check the figures again if we had more time."
+    ],
+    "explanation": "读懂：题目问报告能否晚一天交。figures 是“数据”，多点时间就能再核对一次。\n解析：If we had more time 假设现在时间更充裕，had 在这里不表示过去真的有。另一段用 we could check，再接 the figures again，说假设下能做什么。\n下次：看到 had 和 could 搭配，先判断是不是设想现在的另一种情况；条件放 if 后，能做的事放 could 后。"
+  },
+  "W587": {
+    "type": "sentence",
+    "accepted": [
+      "They can exchange ideas while they work on separate projects.",
+      "While they work on separate projects, they can exchange ideas."
+    ],
+    "explanation": "读懂：题目问两个研究组为什么共用空间。exchange ideas 是“交流想法”，各做各的项目时也能互相交流。\n解析：They can exchange ideas 说共用空间的好处。while 后接 they work on separate projects，表示一边做各自项目、一边交流；两处 they 都指两个研究组。\n下次：表示两件事同时进行时，用 while 连接；检查前后是谁做事，以及两件事能否同时发生。"
+  },
+  "W588": {
+    "type": "sentence",
+    "accepted": [
+      "There is no need to print it if you can display it on your phone.",
+      "If you can display it on your phone, there is no need to print it."
+    ],
+    "explanation": "读懂：题目问电子票要不要打印。display 是“展示”，手机能展示票的话就不必打印。\n解析：There is no need 接 to print it，表示“没有必要打印”。if 后排 you can display it，再接 on your phone；两处 it 都是那张票。\n下次：看到 no need，后面用 to 接不必做的事；再核对 if 条件，确认能在手机上展示才免打印。"
+  },
+  "W589": {
+    "type": "sentence",
+    "accepted": [
+      "She could search more accurately once she knew the exact title."
+    ],
+    "explanation": "读懂：题目问图书管理员为什么要文章标题。more accurately 是“更准确地”，知道准确标题才方便检索。\n解析：She could search 后接 more accurately，说明搜索得更准。once 后排 she knew the exact title；once 接这个完整情况，意思是“一旦”，不是“一次”。\n下次：看到 once 后面有人和动作，先试着读成“一旦”；再检查前面的好处是否由这个条件带来。"
+  },
+  "W590": {
+    "type": "sentence",
+    "accepted": [
+      "If more students sign up, we will need a second session.",
+      "We will need a second session if more students sign up."
+    ],
+    "explanation": "读懂：题目问工作坊够不够坐。a second session 是“再开一场”，报名人再增加就需要加场。\n解析：If 后排 more students sign up，提出可能发生的报名情况。另一段用 we will need，再接 a second session；条件里用 sign up，不额外加 will。\n下次：说未来“如果……就……”，把可能情况放 if 后，把安排放 will 后；检查加场是由报名增加引起的。"
+  },
+  "W591": {
+    "type": "sentence",
+    "accepted": [
+      "I could not accept it because I had already made other plans.",
+      "Because I had already made other plans, I could not accept it."
+    ],
+    "explanation": "读懂：题目问为什么拒绝周末值班。other plans 是“其他安排”，说话者之前已经另有计划。\n解析：I could not accept it 说明不能接这个班。because 后排 I had already made other plans；had already 表示安排在拒绝值班之前就已做好。\n下次：说明过去为何拒绝某事，先找更早的安排，再用 because 连接；检查 had already 对应先发生的那一步。"
+  },
+  "W592": {
+    "type": "sentence",
+    "accepted": [
+      "Yes, but we must mention that only a small group was surveyed."
+    ],
+    "explanation": "读懂：题目问能不能引用调查结果。only a small group 是“只有一小群人”，可以用，但要交代样本少。\n解析：Yes, but 后排 we must mention，再用 that 引出必须说明的内容。only a small group 后接 was surveyed，强调接受调查的人很少。\n下次：看到“可以，但要说明”，先找可以做的事，再找必须交代的限制；检查 only 限定的是人数范围。"
+  },
+  "W593": {
+    "type": "sentence",
+    "accepted": [
+      "Several members would have missed it if we had met on campus.",
+      "If we had met on campus, several members would have missed it."
+    ],
+    "explanation": "读懂：题目问为什么改成线上开会。would have missed 是“本来会错过”，线下开会会让几名成员无法参加。\n解析：if we had met on campus 假设当时选择在校内开会，实际没有采用。另一段用 Several members would have missed it，说明那样做本来会有的结果。\n下次：回头设想一个没采用的方案，if 后用 had 接动作，结果用 would have 接动作；检查假设和实际选择别混淆。"
+  },
+  "W594": {
+    "type": "sentence",
+    "accepted": [
+      "I would rather wait until we know where the event will be held.",
+      "Until we know where the event will be held, I would rather wait."
+    ],
+    "explanation": "读懂：题目问场地未定要不要先发邀请。would rather wait 是“宁愿等一等”，等确定地点再发。\n解析：I 后接 would rather wait。until we know 说明要等到知道某件事；where 再接整块 the event will be held，表示知道活动在哪里举行。\n下次：先排愿意等多久，再接等待时要弄清的事；问地点用 where，检查它与 know 和活动安排连在一起。"
+  },
+  "W595": {
+    "type": "sentence",
+    "accepted": [
+      "It made the process easier to understand than a written description did."
+    ],
+    "explanation": "读懂：题目问讲师为什么用示意图。easier to understand 是“更容易理解”，图比文字说明更有帮助。\n解析：made 后先接 the process，再接 easier to understand，表示让过程更好懂。than 后用文字说明作比较；did 代替前面重复的动作内容，省去再说一遍。\n下次：遇到 made，先找什么被改变了，再接变得怎样；看到 than，检查两边是在比较对同一过程的解释效果。"
+  },
+  "W596": {
+    "type": "sentence",
+    "accepted": [
+      "It will be recorded only if you give your permission."
+    ],
+    "explanation": "读懂：题目问模拟面试会不会录制。only if 是“只有……才”，必须先得到你的许可。\n解析：先排 It will be recorded，表示面试会被录制。固定的 only if 后接 you give your permission；没有你的同意，就不满足录制条件。\n下次：看到 only if，先找不能缺少的条件，再看允许发生什么；检查条件是你的许可，录制对象是面试。"
+  },
+  "W597": {
+    "type": "sentence",
+    "accepted": [
+      "The system was unavailable when most students tried to submit their work.",
+      "When most students tried to submit their work, the system was unavailable."
+    ],
+    "explanation": "读懂：题目问为什么所有人都获准延期。unavailable 是“无法使用”，大多数人提交作业时用不了系统。\n解析：The system was unavailable 说系统状态。when 后按 most students tried to submit their work 排，说明当时大家在尝试交作业；整段时间可放前面或后面。\n下次：先排发生了什么，再用 when 接当时人们在做什么；检查 tried 后有 to 和动作，动作后有提交的东西。"
+  },
+  "W598": {
+    "type": "sentence",
+    "accepted": [
+      "The committee welcomes suggestions as long as they relate to the course."
+    ],
+    "explanation": "读懂：题目问学生能否推荐讲座主题。welcomes suggestions 是“欢迎建议”，条件是建议与课程相关。\n解析：先排 The committee welcomes suggestions。as long as 后的 they 指建议，接 relate to the course，表示建议要和课程有关；欢迎提议不等于一定采用。\n下次：看到 they，先找它代替的东西；再读清提出建议的条件，检查没有把“欢迎”理解成“保证采纳”。"
+  },
+  "W599": {
+    "type": "sentence",
+    "accepted": [
+      "Although the interior was redesigned, the entrance remained unchanged.",
+      "The entrance remained unchanged, although the interior was redesigned."
+    ],
+    "explanation": "读懂：题目问建筑师是否改造了整栋楼。interior 是“内部”，内部重设计了，入口却保持原样。\n解析：Although 接 the interior was redesigned，先说内部改了。另一段排 the entrance remained unchanged，说入口没变；两段可交换，有 Although 就不再用 but。\n下次：遇到“虽然改了这里，那里没改”，先分清两处对象，再连接两种情况；检查 although 和 but 不重复使用。"
+  },
+  "W600": {
+    "type": "sentence",
+    "accepted": [
+      "It should still be clear provided we explain the example carefully."
+    ],
+    "explanation": "读懂：题目问没有视频能不能讲明白。provided 是“只要”，只要把例子讲细，应该仍能听懂。\n解析：It 后排 should、still be、clear，表示“应该仍然清楚”。provided we 已固定在后面，接整块 explain the example carefully，说清楚要满足什么条件。\n下次：先拼预计会怎样，再补“只要做到什么”；检查固定的条件开头后面已接上完整动作。"
+  },
+  "W601": {
+    "type": "sentence",
+    "accepted": [
+      "Have they replaced the keyboard or just cleaned it?",
+      "Have they just cleaned it or replaced the keyboard?"
+    ],
+    "explanation": "读懂：笔记本已经修好。replaced 是“更换了”，回应问是换了键盘，还是只做了清洁。\n解析：先排 Have they，再用 or 连接两种维修。清洁放在键盘后时，it 可指键盘；清洁放前面时，也可指前句的笔记本。just 是“仅仅”。\n下次：用 or 询问两种处理方式时，先把两个动作各自拼好；再看 it 前面提过什么，确认清洁的是哪件东西。"
+  },
+  "W602": {
+    "type": "sentence",
+    "accepted": [
+      "How often does the club meet during the semester?"
+    ],
+    "explanation": "读懂：对方计划加入辩论社。How often 是“多久一次”，回应问学期里社团多久开一次会。\n解析：How often 后排 does the club。does 已配合单数社团变化，后面的 meet 不加 s，所以 meets 不选；during the semester 说明学期期间。\n下次：问活动频率，用 How often 开头；看到 does，检查后面的动作词没有再加 s。"
+  },
+  "W603": {
+    "type": "sentence",
+    "accepted": [
+      "Were you using your own cable when it happened?",
+      "When it happened, were you using your own cable?"
+    ],
+    "explanation": "读懂：对方演讲到一半投影仪坏了。your own cable 是“你自己的连接线”，回应问出故障时是不是用的这根线。\n解析：Were 放在 you 前提问，后接 using，询问当时正在用什么。when it happened 说明故障发生的那一刻，可放句首或句尾。\n下次：问过去某一刻正在做什么，先排 Were you 和 -ing 动作；再用 when 接那一刻发生的事，核对所用物品。"
+  },
+  "W604": {
+    "type": "sentence",
+    "accepted": [
+      "Would Thursday morning be more convenient for you?"
+    ],
+    "explanation": "读懂：对方想换一天面试。more convenient 是“更方便”，回应提议周四上午并问对方是否合适。\n解析：Would 后先放 Thursday morning，再接 be more convenient，问这个时间会不会更方便。for you 表示“对你来说”，放在评价后。\n下次：询问某个时间是否方便，先把时间放 Would 后，再接 be 和评价；检查 for 后说的是谁方便。"
+  },
+  "W605": {
+    "type": "sentence",
+    "accepted": [
+      "What do we have to do before entering?",
+      "Before entering, what do we have to do?"
+    ],
+    "explanation": "读懂：实验室改了安全流程。before entering 是“进去之前”，回应问入室前必须做什么。\n解析：先排 What do we，再接 have 和整块 to do，表示“我们必须做什么”。we 配 do，不配 does；进入前这段时间可先说或后说。\n下次：问“我们必须做什么”，先拼 What do we have to do；再检查 do 与 we 对应，时间说明没有漏掉。"
+  },
+  "W606": {
+    "type": "sentence",
+    "accepted": [
+      "Which of her books have you read so far?",
+      "So far, which of her books have you read?",
+      "Which of her books have you so far read?"
+    ],
+    "explanation": "读懂：作家下周要来班里。so far 是“到目前为止”，回应问你已经读过她的哪些书。\n解析：先用 Which of her books 提出“她的哪些书”，再排 have you read。这里直接向对方提问，所以 have 在 you 前；so far 补充截至现在的范围。\n下次：问至今读过、做过哪些事，先提出对象，再排 have you 和动作；检查这是直接问句，have 应在人前。"
+  },
+  "W607": {
+    "type": "sentence",
+    "accepted": [
+      "Who was sitting near the back row this morning?",
+      "This morning, who was sitting near the back row?"
+    ],
+    "explanation": "读懂：有人把相机落在研讨室。back row 是“后排”，回应想知道早上谁坐在附近，以便寻找失主。\n解析：Who 本身就代表要找的人，直接接 was sitting，表示当时坐着；不再加 did。near 后接 the back row，再补 this morning。\n下次：问“谁当时正在做”，who 就占了人的位置；检查后面直接接 was 和 -ing 动作，没有多余的 did。"
+  },
+  "W608": {
+    "type": "sentence",
+    "accepted": [
+      "Are they going to offer another session later in the week?",
+      "Later in the week, are they going to offer another session?"
+    ],
+    "explanation": "读懂：第一场名额满了。another session 是“再一场”，回应问本周晚些时候会不会再办一次。\n解析：Are they 放在前面提问，后接 going to offer，表示“打算提供、开设”。another session 是要加开的活动，最后补本周晚些时候这段时间。\n下次：问别人是否计划做某事，先排 Are they going to，再接动作；检查活动和计划时间都说完整。"
+  },
+  "W609": {
+    "type": "sentence",
+    "accepted": [
+      "Did you try opening it with a different program?"
+    ],
+    "explanation": "读懂：对方打不开你分享的文件。a different program 是“另一款软件”，回应问试过换软件打开没有。\n解析：Did 后接 you 和原形 try，不能选 tried。try opening it 表示“试试打开这个办法”；固定句尾说明用另一款软件来试。\n下次：看到 Did，动作词用原形；如果是建议试一种办法，try 后可接 -ing 动作，再检查试的对象和工具。"
+  },
+  "W610": {
+    "type": "sentence",
+    "accepted": [
+      "Are water and electricity included in the rent?"
+    ],
+    "explanation": "读懂：租房信息没说水电费。included in 是“包含在……里”，回应问水电是否包在租金中。\n解析：先排 Are，再放 water and electricity 这两项费用，接 included。in 后放 the rent，说明包含在哪笔钱里。\n下次：问几项费用包不包含，先放 Are 和这些项目，再接 included in；检查 in 后是包含它们的总费用。"
+  },
+  "W611": {
+    "type": "sentence",
+    "accepted": [
+      "Can I sign a copy when I arrive?",
+      "When I arrive, can I sign a copy?"
+    ],
+    "explanation": "读懂：忘记带同意书了。sign 是“签字”，回应询问能不能到场再签一份。\n解析：先排 Can I sign，询问许可，再接 a copy，表示签一份。when I arrive 说明到场时；虽然是之后到场，这里仍用 arrive。\n下次：请求允许做事，先用 Can I 接动作和对象；再说何时做，检查 when 后没有另加 will。"
+  },
+  "W612": {
+    "type": "sentence",
+    "accepted": [
+      "How much will it cost to rent it for a month?",
+      "For a month, how much will it cost to rent it?"
+    ],
+    "explanation": "读懂：舞蹈社找到了新的排练场地。cost 是“花多少钱”，回应问租一个月要多少费用。\n解析：先拼 How much will it cost，第一个 it 先占位置，具体花钱做什么放在后面。to rent it 指“租这个场地”，第二个 it 代替场地；for a month 是一个月。\n下次：问某件事花多少钱，先拼费用问句，再用 to 接要做的事；有两个 it 时，检查哪个指具体物品。"
+  },
+  "W613": {
+    "type": "sentence",
+    "accepted": [
+      "Have any of them been invited to take part yet?",
+      "Have any of them been invited yet to take part?",
+      "Have any of them yet been invited to take part?"
+    ],
+    "explanation": "读懂：调查需要大一学生参加。invited to take part 是“受邀参与”，回应问有没有邀请其中的人。\n解析：Have 后放 any of them，再接 been invited，表示这些人是否已经被邀请；to take part 说明邀请来做什么。yet 可放句尾，也接受 been 前或 invited 后的排法。\n下次：问某些人是否已受邀，先找这些人，再接 been invited 和参与动作；安放 yet 后，检查被邀请的结构仍完整。"
+  },
+  "W614": {
+    "type": "sentence",
+    "accepted": [
+      "For how long can students book one at a time?",
+      "How long can students book one at a time for?"
+    ],
+    "explanation": "读懂：对方想预约钢琴练习室。how long 是“多久”，回应问学生每次可以预约多长时间。\n解析：先提出时长，再排 can students book，问学生能预约多久。for 可放 how long 前，也可放句尾；整块 one at a time 表示每次预约一间。\n下次：问预约时长，把 how long 和表示时长的 for 对应好；检查 can 在 students 前，book 后接预约对象。"
+  },
+  "W615": {
+    "type": "sentence",
+    "accepted": [
+      "Had they discussed the budget by the time you got there?",
+      "By the time you got there, had they discussed the budget?"
+    ],
+    "explanation": "读懂：对方到达前会议就开始了。by the time 是“到……的时候”，回应问他到场时预算是否已讨论过。\n解析：先排 Had they discussed，再接 the budget，问更早是否已讨论。by the time 后接 you got there，给出较晚的时间点；到场之前讨论才用这里的 had。\n下次：问过去某个时间点之前是否已完成，先找那个时间点，再用 Had 加人和动作提问；检查两个事件先后。"
+  },
+  "W616": {
+    "type": "sentence",
+    "accepted": [
+      "Which one stops outside the main entrance?"
+    ],
+    "explanation": "读懂：对方觉得其中一班车去水族馆。Which one 是“哪一班”，回应问哪班停在正门外。\n解析：Which one 就代表公交车，直接接 stops，不需要 does。outside 后放 the main，再接固定的 entrance，组成“正门外”。\n下次：问“哪一个做这件事”时，which one 已占了对象的位置；检查动作直接跟着它，地点读到最后是完整的。"
+  },
+  "W617": {
+    "type": "sentence",
+    "accepted": [
+      "What would they like to ask me about?",
+      "About what would they like to ask me?"
+    ],
+    "explanation": "读懂：校报想采访你。ask me about 是“向我询问某个话题”，回应问对方准备问什么。\n解析：What 后排 would they like，再接 to ask me。about 对应前面的 What，可放句尾，也可放到 What 前形成较正式的问法；me 始终是被问的人。\n下次：先分清提问者、受访者和话题，再排 would they like to ask；检查 about 连接的是话题，me 仍跟着 ask。"
+  },
+  "W618": {
+    "type": "sentence",
+    "accepted": [
+      "Which would be more practical for the workshop?",
+      "For the workshop, which would be more practical?"
+    ],
+    "explanation": "读懂：对方可用图书馆电脑或自己的笔记本。more practical 是“更实用”，回应比较工作坊用哪一种合适。\n解析：Which 已代表两个设备选项中的一个，后面直接接 would be more practical。for 和 the workshop 连起来，说明是针对工作坊比较。\n下次：用 Which 问哪个更合适，把它当成待选的那件东西，再接评价；检查 for 后说的是使用场合。"
+  },
+  "W619": {
+    "type": "sentence",
+    "accepted": [
+      "Does joining require any previous programming experience?"
+    ],
+    "explanation": "读懂：机器人社团在招人。previous programming experience 是“以前的编程经验”，回应问加入有没有经验门槛。\n解析：joining 表示“加入社团这件事”，放在 Does 后。Does 已表示单数，后面的 require 不加 s；any previous 接固定句尾，组成所需经验。\n下次：把“做某事”当一句话讨论的对象时，按一件事处理；若用 Does 提问，检查后面的 require 不加 s。"
+  },
+  "W620": {
+    "type": "sentence",
+    "accepted": [
+      "Would either of your friends be interested in coming along?"
+    ],
+    "explanation": "读懂：对方有两张展览开幕式门票。coming along 是“一起去”，回应问两位朋友中有没有人感兴趣。\n解析：Would 后先放 either of your friends，表示两人中的任一位。接 be interested in，意思是“对……感兴趣”；in 后接 coming along 这个 -ing 动作。\n下次：遇到 interested，把 in 和感兴趣的活动接齐；检查 either 指两位中的任一位，没有变成要求两人都去。"
+  },
+  "W621": {
+    "type": "sentence",
+    "accepted": [
+      "The update has not been approved by our department."
+    ],
+    "explanation": "读懂：题目问怎么还用旧软件。approved 是“批准”，新版尚未得到部门批准。\n解析：The update 后排 has not been approved，表示“到现在还没被批准”。by 后放 our department，指出审批者；has 后要用 been，不选 being。\n下次：说物品或方案尚未获批，用 has not been 接批准动作；再用 by 找审批者，检查 been 没写成 being。"
+  },
+  "W622": {
+    "type": "sentence",
+    "accepted": [
+      "It had been sent to the wrong address by mistake.",
+      "By mistake, it had been sent to the wrong address.",
+      "It had been sent by mistake to the wrong address.",
+      "It had been by mistake sent to the wrong address."
+    ],
+    "explanation": "读懂：办公室终于找到申请了。by mistake 是“误操作、弄错了”，原来申请之前寄错了地址。\n解析：It 指申请，接 had been sent，说明在找到它之前就已被寄走。to the wrong address 说寄到哪里，by mistake 说这不是有意的。\n下次：解释过去事情为什么找不到，先找更早发生的处理动作；检查 had been 对应此前被寄走，to 后是目的地。"
+  },
+  "W623": {
+    "type": "sentence",
+    "accepted": [
+      "The floors are being cleaned, so nobody can go in."
+    ],
+    "explanation": "读懂：题目问为什么只能在实验室外等。are being cleaned 是“正在清洁中”，地板还在清理。\n解析：The floors 后接 are being cleaned，再用 so 引出结果。nobody can go in 表示“谁都不能进去”；nobody 已有“没人”的意思，不需要再否定。\n下次：先说正在处理什么，再用 so 接造成的结果；看到 nobody，检查整段是否已经表达“没有人能做”。"
+  },
+  "W624": {
+    "type": "sentence",
+    "accepted": [
+      "The licenses will be provided by the university at no extra cost."
+    ],
+    "explanation": "读懂：题目问学生用新软件要不要付钱。at no extra cost 是“不另收费”，学校会提供使用许可。\n解析：固定的 The licenses 后接 will be 和 provided，表示许可“将由人提供”。by 后放 the university，说明提供者是学校；费用说明已经固定在句尾。\n下次：说某物将被提供，先排 will be 和提供动作，再用 by 接提供者；最后连上题面已有的费用说明。"
+  },
+  "W625": {
+    "type": "sentence",
+    "accepted": [
+      "The equipment had not been tested since it was moved."
+    ],
+    "explanation": "读懂：题目问为什么推迟演示。tested 是“检测”，设备搬动以后，到当时都还没检测过。\n解析：The equipment 后排 had not been tested，说明过去那个时间点还没被检测。since 后接 it was moved，表示从设备被搬动那时算起；it 仍指设备。\n下次：先找过去尚未完成的检查，再用 since 接起点；分别核对“被检测”和“被搬动”两件事。"
+  },
+  "W626": {
+    "type": "sentence",
+    "accepted": [
+      "The tables have been arranged in a circle to encourage discussion.",
+      "To encourage discussion, the tables have been arranged in a circle.",
+      "In a circle, the tables have been arranged to encourage discussion."
+    ],
+    "explanation": "读懂：研讨室今天布置不同了。in a circle 是“围成一圈”，桌子这样摆是为了方便讨论。\n解析：The tables 后接 have been arranged，表示桌子已经摆好了。in a circle 说明摆成什么样，to encourage discussion 说明为什么这样摆；目的不等于讨论已经发生。\n下次：先说物品被怎样安排，再分清形状和目的；看到 to 接动作，检查这里说的是想达到的效果。"
+  },
+  "W627": {
+    "type": "sentence",
+    "accepted": [
+      "They are used for courses that require short-term loans."
+    ],
+    "explanation": "读懂：题目问书上为什么贴彩色胶带。short-term loans 是“短期借阅”，这些书供要求短借期的课程使用。\n解析：They are used 后接 for courses，先说书用于课程。that require short-term loans 接在 courses 后，说明是哪类课程，require 对应的是课程。\n下次：先找物品用于什么，再在用途后补它的具体要求；检查 that 后的动作是在说明紧邻的课程。"
+  },
+  "W628": {
+    "type": "sentence",
+    "accepted": [
+      "Each applicant will be assigned a time after all forms have been received."
+    ],
+    "explanation": "读懂：题目问能否自己选面试时间。assigned 是“分配”，收齐表格后会给每位申请者安排时间。\n解析：Each applicant 后排 will be assigned，再接 a time，表示给申请者分配一个时间。after 后排 all forms have been received，要求先把表格收齐。\n下次：先分清给谁分配什么，再接什么时候分配；检查“表格被收到”在前，“时间被安排”在后。"
+  },
+  "W629": {
+    "type": "sentence",
+    "accepted": [
+      "A loose step was discovered during the routine inspection.",
+      "During the routine inspection, a loose step was discovered."
+    ],
+    "explanation": "读懂：题目问室外楼梯为什么关闭。loose step 是“松动的台阶”，例行检查发现了这个问题。\n解析：A loose step 后接 was discovered，表示台阶问题被发现。during 与 the routine inspection 连成“例行检查期间”，可放句首或句尾。\n下次：先排发现了什么问题，再用 during 接发现时正在进行的检查；核对发现对象和时间没有混在一起。"
+  },
+  "W630": {
+    "type": "sentence",
+    "accepted": [
+      "They are still being checked for errors before printing.",
+      "Before printing, they are still being checked for errors.",
+      "They still are being checked for errors before printing.",
+      "They are still being checked before printing for errors."
+    ],
+    "explanation": "读懂：题目问展品说明牌准备好没有。still 是“仍然”，打印前还在检查有没有错。\n解析：先拼 They are being checked，说明这些牌子正在被检查；still 可放 are 前或后。for errors 说明查错，before printing 说明检查在打印之前，两段作用不同。\n下次：先排谁正在被检查，再加入 still；最后分别读“检查什么”和“什么时候检查”，确认两个说明都接全。"
+  },
+  "W631": {
+    "type": "sentence",
+    "accepted": [
+      "Nobody had told me that the class had moved upstairs."
+    ],
+    "explanation": "读懂：题目问出门前知不知道换教室。upstairs 是“楼上”，回答说没人告诉自己课程搬到了楼上。\n解析：Nobody had told me 表示到出门前都没人告诉我。that 后排 the class had moved upstairs，说明没被告知的消息；两处 had 都在回看出门前的情况。\n下次：回答过去某时是否已获知消息，先排谁告诉了谁，再用 that 接消息；检查事情和通知都相对哪个时间点来说。"
+  },
+  "W632": {
+    "type": "sentence",
+    "accepted": [
+      "I had assumed that registration would remain open all week."
+    ],
+    "explanation": "读懂：题目问为什么错过报名截止时间。had assumed 是“原以为”，说话者误以为整周都能报名。\n解析：I had assumed 说之前的想法。that 后先放 registration，再排 would remain open；would 表示从当时看，预计之后还会开放，all week 是整周。\n下次：看到“原以为”，先找过去的想法，再接当时预计会怎样；检查 would 说的是当时预期，不是现在保证。"
+  },
+  "W633": {
+    "type": "sentence",
+    "accepted": [
+      "It has been working normally since the server restarted."
+    ],
+    "explanation": "读懂：图书馆网站早上不能用。normally 是“正常地”，回应说服务器重启后一直运行正常。\n解析：It 后排 has been working，说明运行持续到现在，再接固定的 normally。since 后接 the server restarted，把重启那次事件作为起点。\n下次：说从某次事件起一直在运行，先排 has been 和 -ing 动作；再用 since 接开始点，检查前后时间衔接。"
+  },
+  "W634": {
+    "type": "sentence",
+    "accepted": [
+      "The computers were going to restart as part of the update.",
+      "As part of the update, the computers were going to restart."
+    ],
+    "explanation": "读懂：题目问技术员为什么要求保存文件。restart 是“重启”，当时电脑马上要因更新而重启。\n解析：The computers 是多台电脑，接 were going to restart，表示当时准备重启。as part of the update 说明重启是更新步骤之一，可先说也可后说。\n下次：描述过去当时的计划，用 was 或 were going to 接动作；再检查电脑是多台，所以选 were。"
+  },
+  "W635": {
+    "type": "sentence",
+    "accepted": [
+      "I will have finished my exams by then.",
+      "By then, I will have finished my exams.",
+      "I will by then have finished my exams."
+    ],
+    "explanation": "读懂：题目问下个月活动时能不能帮忙。by then 是“到那时”，回答说那时考试已经结束。\n解析：I 后排 will 和整块 have finished，再接 my exams，表示在未来那个时间点之前就考完。by 与 then 连起来，给出完成的时间界限。\n下次：说“到未来某时已经做完”，用 will have 接完成动作；再找 by 后的时间，检查动作是在那时之前完成。"
+  },
+  "W636": {
+    "type": "sentence",
+    "accepted": [
+      "Some students could not attend because their classes were still in progress.",
+      "Because their classes were still in progress, some students could not attend."
+    ],
+    "explanation": "读懂：题目问研讨会为什么下周重办。in progress 是“还在进行”，有些学生当时还在上课，没能来。\n解析：Some students 后排 could not attend，先说无法参加。because 后接 their classes were still in progress，说明课还没结束，是缺席的原因。\n下次：先找谁无法参加，再用 because 解释原因；检查进行中的活动是他们的课，别与错过的研讨会混淆。"
+  },
+  "W637": {
+    "type": "sentence",
+    "accepted": [
+      "It had already closed by the time you got there.",
+      "By the time you got there, it had already closed.",
+      "It already had closed by the time you got there."
+    ],
+    "explanation": "读懂：对方到咖啡馆时里面没人。already 是“已经”，回应说到达前店就打烊了。\n解析：It 指咖啡馆，接 had closed，表示比到达更早的关闭；already 可在 had 前后。by the time you got there 说明参照的是你到达那一刻。\n下次：过去的两件事比先后，较早完成的动作可用 had；检查这里先关门，后到达。"
+  },
+  "W638": {
+    "type": "sentence",
+    "accepted": [
+      "They are preparing for a concert that will take place next month."
+    ],
+    "explanation": "读懂：题目问学生乐团为什么频繁练习。are preparing 是“正在准备”，他们在为下个月的音乐会排练。\n解析：They are preparing 后接 for a concert，说明现在为哪件事作准备。that 再接 will take place next month，补充音乐会将于下月举行。\n下次：先排现在在准备什么，再在活动后补它的未来安排；检查正在准备和将来举行用的是两套时间表达。"
+  },
+  "W639": {
+    "type": "sentence",
+    "accepted": [
+      "I had never handled such old documents before I started there."
+    ],
+    "explanation": "读懂：题目问去年暑假在档案馆工作有什么新体验。had never 是“此前从未”，以前没接触过这么古老的资料。\n解析：先排 I had never handled，再接 such old documents。固定的 before I 后接 started there，说明“从未接触”的范围截止到在那里开始工作之前。\n下次：说在过去某事之前从未做过，用 had never 接动作；再用 before 找到参照事件，检查不是说以后也没做过。"
+  },
+  "W640": {
+    "type": "sentence",
+    "accepted": [
+      "It is waiting until every member has read the proposal."
+    ],
+    "explanation": "读懂：题目问委员会为什么还没宣布决定。every member 是“每一位成员”，还在等所有人都读完提案。\n解析：It is waiting 后用 until 表示“等到”。every member 按一人一人看待，用 has read，再接 the proposal，强调读完才结束等待。\n下次：遇到 every member，按单数接 has；再看 until 后是否说清等待结束所需完成的事。"
+  },
+  "W641": {
+    "type": "sentence",
+    "accepted": [
+      "She has been back for two days.",
+      "For two days, she has been back."
+    ],
+    "explanation": "读懂：题目问室友是不是还在外面上考察课。back 是“回来了”，回答说她已经回来两天。\n解析：She has been back 表示回来了，而且现在仍在。for two days 说回来这个状态持续了多久，不是说她花了两天才回来；时间可前置。\n下次：看到 has been back，先理解“已经回来了”；再用 for 接持续多久，检查不是旅途用了多久。"
+  },
+  "W642": {
+    "type": "sentence",
+    "accepted": [
+      "The instructor kept answering questions after the session was supposed to end.",
+      "After the session was supposed to end, the instructor kept answering questions."
+    ],
+    "explanation": "读懂：题目问工作坊为什么超时。kept answering 是“一直在回答”，讲师过了原定结束时间还在答疑。\n解析：The instructor 后接整块 kept answering，再接 questions。after 后排 the session was supposed to end，表示活动原本应该结束的时间。\n下次：先找持续做的动作，再用 after 对照原定结束点；检查 was supposed 和 to end 连在一起，表示“本该结束”。"
+  },
+  "W643": {
+    "type": "sentence",
+    "accepted": [
+      "I have been trying to reach her since Monday morning."
+    ],
+    "explanation": "读懂：题目问这周联系过交换项目协调员没有。reach her 是“联系上她”，回答说从周一早上起一直在尝试。\n解析：I have been trying 表示尝试持续到现在；to reach her 是尝试的目标。trying 只说努力联系，不能据此认定已经联系成功。\n下次：遇到“一直在尝试”，先排 have been trying，再用 to 接目标；检查没有把尝试说成已完成的结果。"
+  },
+  "W644": {
+    "type": "sentence",
+    "accepted": [
+      "The battery ran out while I was editing the file.",
+      "While I was editing the file, the battery ran out."
+    ],
+    "explanation": "读懂：题目问未保存的修改为什么丢了。ran out 是“耗尽”，编辑文件时电池突然没电。\n解析：The battery ran out 说突然发生的事。while 后排 I was editing the file，说当时正在进行的编辑；两个动作分别是没电和编辑。\n下次：先找突然发生的事，再用 while 接当时正在做的事；检查只有持续中的动作需要 was 和 -ing。"
+  },
+  "W645": {
+    "type": "sentence",
+    "accepted": [
+      "It will have closed by the time we arrive in the city.",
+      "By the time we arrive in the city, it will have closed."
+    ],
+    "explanation": "读懂：题目问去参观时展览还开不开。by the time 是“到……时”，回答说等我们到城里，展览已经结束了。\n解析：It 后依次排 will、have、closed，表示未来那时已关闭。by the time 后排 we arrive in the city；虽然还没到达，这里仍用 arrive，不加 will。\n下次：说到未来某刻已完成，用 will have 接完成动作；再检查时间说明里的到达动作仍用 arrive。"
+  },
+  "W646": {
+    "type": "sentence",
+    "accepted": [
+      "I had switched my phone to silent mode before the lecture began.",
+      "Before the lecture began, I had switched my phone to silent mode."
+    ],
+    "explanation": "读懂：题目问讲座中为什么没回消息。silent mode 是“静音模式”，开讲前手机就调成静音了。\n解析：I had switched 说比讲座开始更早完成的设置。先接被设置的 my phone，再用 to silent mode 说明调成什么模式，最后接开讲前的时间。\n下次：描述过去某事前已改过设置，先排 had 和设置动作；检查手机是对象，to 后才是目标模式。"
+  },
+  "W647": {
+    "type": "sentence",
+    "accepted": [
+      "Only the ground floor is being used while the upper floors are repaired.",
+      "While the upper floors are repaired, only the ground floor is being used."
+    ],
+    "explanation": "读懂：题目问学生中心翻修时开不开。Only the ground floor 是“只有底层”，上层维修时只用底层。\n解析：一个底层接 is being used，表示正在使用。while 后排 the upper floors are repaired，上层有多层，接 are repaired；两段说的楼层不同。\n下次：先把各楼层及其状态分别配好，再用 while 连接；检查 only 限定的是底层，is 和 are 各有对应对象。"
+  },
+  "W648": {
+    "type": "sentence",
+    "accepted": [
+      "The meals had to be ordered before the kitchen closed for the weekend."
+    ],
+    "explanation": "读懂：题目问餐饮方为什么要最终人数。had to 是“当时必须”，厨房周末关门前必须把餐订好。\n解析：The meals 是要被订的餐，接 had to be ordered。before 后排 the kitchen closed for the weekend，给出订餐必须赶上的截止时间。\n下次：先分清餐是被订的东西，接 had to be 和订购动作；再检查 before 后的关门时间，确认先订餐后停工。"
+  },
+  "W649": {
+    "type": "sentence",
+    "accepted": [
+      "They were taken during the field trip we went on last spring.",
+      "They were taken last spring during the field trip we went on.",
+      "Last spring, they were taken during the field trip we went on."
+    ],
+    "explanation": "读懂：题目问课程网站上的照片是不是新的。last spring 是“去年春天”，照片拍于那次实地考察。\n解析：They were taken 说照片被拍摄，during 后接 the field trip。we went on 放在考察活动后，说明是“我们参加的那次”；last spring 补充时间，可换位置。\n下次：先排照片拍于什么活动，再补是哪一次活动；检查 went on 的 on 保留着，时间仍指去年春天。"
+  },
+  "W650": {
+    "type": "sentence",
+    "accepted": [
+      "Some users have not switched to the new system yet.",
+      "Some users have not switched yet to the new system."
+    ],
+    "explanation": "读懂：题目问旧网站为什么还要保留一阵。switched to 是“改用”，还有一些用户没换到新系统。\n解析：Some users 后接 have not switched，表示到现在还没有改用。to the new system 说明要换到哪里；yet 是“尚未”，可放句末或 switched 后。\n下次：看到“尚未改用”，先拼否定的切换动作，再用 to 接新目标；检查仍有旧用户，并非已经全部迁移。"
+  },
+  "W651": {
+    "type": "sentence",
+    "accepted": [
+      "She encouraged me to leave enough time for independent reading."
+    ],
+    "explanation": "读懂：题目问导师为什么建议少选点课。independent reading 是“自主阅读”，她希望留足阅读时间。\n解析：encouraged 后先接 me，说明鼓励谁，再接 to leave，说明做什么。enough time 后用 for 接 independent reading，说时间留给什么活动。\n下次：遇到 encourage 某人做事，先放人，再用 to 接动作；时间后有 for 时，检查它说明的是时间用途。"
+  },
+  "W652": {
+    "type": "sentence",
+    "accepted": [
+      "Avoid spending too much time on the title.",
+      "On the title, avoid spending too much time."
+    ],
+    "explanation": "读懂：快到截止日期了，却还没想好标题。too much time 是“太多时间”，回应建议别再为标题耗太久。\n解析：Avoid 后要用 spending 这种 -ing 形式，不用 to spend。spending 接 too much time，再用 on 接 the title，说明把时间花在哪里。\n下次：看到 avoid，先选 -ing 动作；遇到“花时间做某事”，检查时间在前，on 后接耗时的事情。"
+  },
+  "W653": {
+    "type": "sentence",
+    "accepted": [
+      "I wanted someone to check that I had understood them correctly."
+    ],
+    "explanation": "读懂：题目问为什么让同学读说明。correctly 是“正确地”，回答想请别人核实自己有没有理解对。\n解析：I wanted 后先放 someone，再接 to check，表示想让别人核对。固定的 that 后接整块 I had understood them correctly；them 指那些说明。\n下次：先分清谁希望、谁核对，再接核对内容；检查“理解对没有”是自己的理解，不是同学的理解。"
+  },
+  "W654": {
+    "type": "sentence",
+    "accepted": [
+      "The manager agreed to let us use it until Friday."
+    ],
+    "explanation": "读懂：题目问戏剧社能否用房间放道具。until Friday 是“直到周五”，经理同意用到那时。\n解析：agreed 接整块 to let，再放 us 和 use，表示“同意让我们使用”。let 后的人直接接动作原形，所以选 use，不选 to use；it 指房间。\n下次：遇到 let 某人做事，人后直接接动作，不再加 to；检查前面的 agreed to 和后面的 let us use 分别配好。"
+  },
+  "W655": {
+    "type": "sentence",
+    "accepted": [
+      "I was trying to make the main point easier to identify."
+    ],
+    "explanation": "读懂：题目问为什么重写开头段。identify 是“辨认、找出”，希望读者更容易找到中心观点。\n解析：was trying 接 to make，表示“在努力让”。先放要改善的 the main point，再接 easier to identify，说明要让观点更容易被找出来。\n下次：遇到“让某物更容易做某事”，先放某物，再接 easier 和 to 动作；检查容易被找到的是观点。"
+  },
+  "W656": {
+    "type": "sentence",
+    "accepted": [
+      "Practicing in front of a friend may help you feel more confident.",
+      "Practicing may help you feel more confident in front of a friend."
+    ],
+    "explanation": "读懂：对方在学生论坛发言前很紧张。more confident 是“更自信”，回应建议通过练习改善。\n解析：Practicing 表示“练习这件事”，接 may help you feel。in front of a friend 放在 Practicing 后，指在朋友面前练；放句尾，则侧重在朋友面前更自信。\n下次：先排练习能帮谁变得怎样，再安放场合；检查“在朋友面前”说的是练习发生在哪里，还是自信表现在哪里。"
+  },
+  "W657": {
+    "type": "sentence",
+    "accepted": [
+      "I want to avoid forgetting anything we need."
+    ],
+    "explanation": "读懂：题目问出发前为什么核对器材清单。avoid forgetting 是“避免忘带”，要确保必需品没落下。\n解析：want 后接 to avoid，表示“想避免”。avoid 后必须接 forgetting，不用 to forget；anything we need 指任何可能漏掉的必需品。\n下次：两个动作词连着时，分别检查搭配：want 后用 to，avoid 后用 -ing；再把要避免漏带的物品接全。"
+  },
+  "W658": {
+    "type": "sentence",
+    "accepted": [
+      "I am interested in helping to arrange the photographs."
+    ],
+    "explanation": "读懂：策展人请人帮忙布置新展览。interested in 是“对……感兴趣”，回应愿意帮着摆放照片。\n解析：I am interested 后先接 in，in 后放 helping，不能放 to help。再接整块 to arrange the photographs，说明具体帮忙做什么。\n下次：看到 interested in，后面的动作选 -ing 形式；再接具体帮忙事项，检查不是把 to help 直接放在 in 后。"
+  },
+  "W659": {
+    "type": "sentence",
+    "accepted": [
+      "Working with a partner allows students to compare their approaches."
+    ],
+    "explanation": "读懂：题目问工作坊为什么要求两人合作。approaches 是“做法”，结对能让学生比较彼此的方法。\n解析：Working with a partner 表示“和搭档合作这件事”，作为一件事接 allows。后面先放 students，再接 to compare their approaches，说明让谁能做什么。\n下次：把合作当成一件事时，动词按单数处理；遇到 allow，先接人，再用 to 接这个人能做的动作。"
+  },
+  "W660": {
+    "type": "sentence",
+    "accepted": [
+      "It would be better to check than to worry about it all evening."
+    ],
+    "explanation": "读懂：对方不记得有没有锁工作室。worry about 是“担心”，回应说去查一下比整晚担心好。\n解析：先拼 It would be better，提出“这样会更好”。to check 是第一个做法，固定的 than 后接另一做法 to worry about it all evening，两边都在说做事。\n下次：比较两个做法，先放 better to 和较好的办法，再用 than 接另一个；检查比的是行动，而不是两个物品。"
+  },
+  "W661": {
+    "type": "sentence",
+    "accepted": [
+      "It enabled us to see how much the idea had changed."
+    ],
+    "explanation": "读懂：题目问为什么保留设计初稿。enabled us to see 是“让我们能够看出”，初稿可帮助比较想法改了多少。\n解析：It 指保留初稿这件事，enabled 后先放 us，再接 to see。how much 后先排 the idea，再接 had changed，说明想法在此之前的变化程度。\n下次：遇到 enable，先接因此获益的人，再用 to 接他能做的事；问变化多大时，检查 how much 后是事物再接变化。"
+  },
+  "W662": {
+    "type": "sentence",
+    "accepted": [
+      "You need to sign it before submitting it online.",
+      "Before submitting it online, you need to sign it."
+    ],
+    "explanation": "读懂：题目问申请能不能先不签字。before 是“在……之前”，回答要求网上提交前先签好。\n解析：You need 后接 to sign it，说明需要签字。before 后排 submitting it online；这里 submitting 是 -ing 形式，两处 it 都指申请。\n下次：先确定必须完成的动作，再检查 before 后的另一步；这里应先签名后提交，不能把顺序放反。"
+  },
+  "W663": {
+    "type": "sentence",
+    "accepted": [
+      "Labeling them prevents us from confusing one sample with another."
+    ],
+    "explanation": "读懂：题目问为什么要马上给样品贴标签。confusing 是“混淆”，及时标记能避免认错样品。\n解析：Labeling them 是“给它们贴标签这件事”，接 prevents。先放受影响的人 us，再用 from 接 confusing；最后的词块说明把一个样品和另一个混淆。\n下次：遇到 prevent 某人做事，先接人，再接 from 和 -ing 动作；检查要防止的确实是混淆，而不是贴标签。"
+  },
+  "W664": {
+    "type": "sentence",
+    "accepted": [
+      "Try writing down the key steps instead of every word.",
+      "Try writing the key steps down instead of every word.",
+      "Instead of every word, try writing down the key steps.",
+      "Instead of every word, try writing the key steps down."
+    ],
+    "explanation": "读懂：对方跟不上讲者的例子。key steps 是“关键步骤”，回应建议记步骤，不必逐字记录。\n解析：Try 后接 writing，表示试试这种方法。write down 是“记下来”，the key steps 可放 down 前或后；instead of every word 说明用记重点代替逐字记。\n下次：建议试一种记录方法时，先排 Try 和 -ing 动作，再接记录对象；检查 instead of 后是要替换掉的做法。"
+  },
+  "W665": {
+    "type": "sentence",
+    "accepted": [
+      "It helped us understand what a clear topic sentence looks like."
+    ],
+    "explanation": "读懂：题目问老师为什么给范例段落。topic sentence 是“主题句”，范例能展示清楚的主题句是什么样。\n解析：helped 后先放 us，再接 understand。what 后放 a clear topic sentence，最后接 looks like，表示“清楚的主题句看起来怎样”，like 不能漏。\n下次：先排帮助谁理解，再接理解的内容；遇到 looks like，检查它问的是前面那种句子长什么样。"
+  },
+  "W666": {
+    "type": "sentence",
+    "accepted": [
+      "There is not enough room for everyone to stand in a circle."
+    ],
+    "explanation": "读懂：排练场地比预计小。enough room 是“足够的空间”，这里不够所有人围成一圈站着。\n解析：There is 后排 not enough room，说明空间不足。for everyone 已固定，接 to stand 和 in a circle，说需要容纳什么人、怎样站。\n下次：先找不足的是空间，再看空间要供谁做什么；检查 enough 在 room 前，围圈站立是空间要支持的活动。"
+  },
+  "W667": {
+    "type": "sentence",
+    "accepted": [
+      "It will save us having to cross the busy intersection."
+    ],
+    "explanation": "读懂：题目问为什么走近路。busy intersection 是“繁忙路口”，近路能让大家免去横穿路口的麻烦。\n解析：will save 后先放 us，说明替谁省事。having to cross 表示“不得不穿过”，接路口；整个 save us doing 结构在这里就是“让我们不用做这件事”。\n下次：看到 save 后接人和 -ing 动作，先按“替谁省去什么麻烦”理解；检查后面的动作是被免去的，不是已经做过的。"
+  },
+  "W668": {
+    "type": "sentence",
+    "accepted": [
+      "The materials are designed to allow students to work offline."
+    ],
+    "explanation": "读懂：题目问没网络能不能完成活动。offline 是“离线”，这些材料就是为了让学生不联网也能做。\n解析：The materials 后接 are designed，再用 to allow 说明设计目的。allow 后先放 students，再接 to work offline，说明让学生能做什么。\n下次：有两段 to 时，分别找它们的用途：设计是为了允许，允许的是学生去做；检查学生在第二个动作前。"
+  },
+  "W669": {
+    "type": "sentence",
+    "accepted": [
+      "I enjoy sketching details that catch my attention."
+    ],
+    "explanation": "读懂：题目问为什么带本子去画廊。sketching 是“画速写”，回答喜欢画下引起注意的细节。\n解析：enjoy 后用 sketching，不用 to sketch。先接 details 说明画什么，再用 that catch my attention 说明挑选的是吸引自己注意的细节。\n下次：看到 enjoy，动作选 -ing 形式；再把说明“哪些细节”的那段接在 details 后，检查画的对象明确。"
+  },
+  "W670": {
+    "type": "sentence",
+    "accepted": [
+      "Ask the administrator to show you how to reserve a room."
+    ],
+    "explanation": "读懂：对方错过了预约系统培训。administrator 是“管理员”，回应建议请管理员教自己订房间。\n解析：Ask 后先接 the administrator，再接 to show you，说明请他做什么、教谁。how to reserve a room 表示“怎样预约房间”，作为要教的内容。\n下次：先排请谁来教，再排教谁和教什么；看到 how to，把它当作一个操作方法接在后面。"
+  },
+  "W671": {
+    "type": "sentence",
+    "accepted": [
+      "It was too expensive for us to rent for a single evening.",
+      "For us, it was too expensive to rent for a single evening.",
+      "For a single evening, it was too expensive for us to rent."
+    ],
+    "explanation": "读懂：题目问为什么没选更大的场地。too expensive 是“太贵”，只租一晚也超出了本组能承担的费用。\n解析：It was too expensive 先说明价格。for us 指对我们而言，to rent 说租用；for a single evening 则是租一晚。两个 for 一个接人、一个接时长，可以换位置但作用不同。\n下次：先拼“太贵而租不起”，再分别找承担费用的人和租用时长；移动说明后，检查这两层意思没有混淆。"
+  },
+  "W672": {
+    "type": "sentence",
+    "accepted": [
+      "The office prefers to receive a scan rather than a photograph.",
+      "Rather than a photograph, the office prefers to receive a scan."
+    ],
+    "explanation": "读懂：题目问能不能拍张收据照片替代扫描。prefers 是“更倾向于”，办公室更希望收到扫描件。\n解析：The office prefers 后接 to receive，再放 a scan，说明首选材料。rather than a photograph 用照片作对照，表达偏好，没有直接说照片绝对不收。\n下次：看到 prefers，先找更想要的选项，再接 rather than 后的另一项；检查没有把偏好扩大成禁止。"
+  },
+  "W673": {
+    "type": "sentence",
+    "accepted": [
+      "I do not want to risk burning the samples."
+    ],
+    "explanation": "读懂：题目问为什么给烘箱设闹钟。burning the samples 是“烧坏样品”，回答不想冒这个风险。\n解析：I do not want 后接 to risk，表示“不想冒险”。risk 后只能接这里的 burning，不接 to burn；固定句尾 the samples 是可能被烧坏的东西。\n下次：先把 want to 接好，再单独检查 risk 后用 -ing 动作；别因为前面有 to，就把后面的动作也改成 to 形式。"
+  },
+  "W674": {
+    "type": "sentence",
+    "accepted": [
+      "The first step is to list the tasks that need to be done."
+    ],
+    "explanation": "读懂：对方不知道怎么公平分工。tasks 是“任务”，回应建议第一步先把待办事项列出来。\n解析：The first step is 后接 to list，说明第一步做什么。再放 the tasks，用 that need to be done 说明是需要完成的任务；任务是被做完的。\n下次：先排第一步的动作和对象，再补对象的要求；检查 need to be done 是在说任务待完成。"
+  },
+  "W675": {
+    "type": "sentence",
+    "accepted": [
+      "Explaining our reasoning helps us notice gaps in our understanding."
+    ],
+    "explanation": "读懂：题目问为什么要解释答题思路。gaps 是“缺漏”，讲出来能发现自己哪里还没理解。\n解析：Explaining our reasoning 是“解释推理这件事”，按一件事接 helps。后面排 us notice，再接 gaps in our understanding，说明帮助我们发现什么。\n下次：先找有帮助的做法，再排 helps、人和发现动作；检查发现的是理解中的缺漏，不是别的东西。"
+  },
+  "W676": {
+    "type": "sentence",
+    "accepted": [
+      "Remember to check the publication date before choosing an article.",
+      "Before choosing an article, remember to check the publication date."
+    ],
+    "explanation": "读懂：作业要求引用今年的资料。publication date 是“发表日期”，选文章前要先看年份。\n解析：Remember 接 to check，提醒接下来别忘了检查；the publication date 是要查的内容。before choosing an article 说明检查应在选定文章之前。\n下次：提醒尚未做的事，用 remember to 接动作；再核对 before 的顺序，确认先检查后选文章。"
+  },
+  "W677": {
+    "type": "sentence",
+    "accepted": [
+      "I remembered leaving my charger under the desk."
+    ],
+    "explanation": "读懂：题目问为什么返回自习室。charger 是“充电器”，回答想起曾把它落在桌子下面。\n解析：remembered 后接 leaving，表示回忆起已经发生的放置。my charger 是留下的东西，under 后接 the desk，说明放在哪里。\n下次：回忆已经做过的事，用 remember 后的 -ing 动作；再检查物品和位置，别读成提醒以后去做。"
+  },
+  "W678": {
+    "type": "sentence",
+    "accepted": [
+      "The invitation allows each student to bring one guest."
+    ],
+    "explanation": "读懂：题目问学生能不能带人参加颁奖典礼。one guest 是“一位来宾”，邀请允许每人带一位。\n解析：The invitation allows 后先接 each student，说明允许谁；再接 to bring 和 one guest，说明允许带什么人、几位。\n下次：遇到 allow，先接获准的人，再接 to 和动作；检查 each 与 one 合起来是每人一位，不是全体只能带一位。"
+  },
+  "W679": {
+    "type": "sentence",
+    "accepted": [
+      "I stopped to ask whether the meeting had changed rooms."
+    ],
+    "explanation": "读懂：题目问为什么在前台停下来。stopped to ask 是“停下来问一问”，要确认会议换没换房间。\n解析：I stopped 后接 to ask，说明停下是为了询问。whether 后排 the meeting had changed rooms；会议是换房间的活动，rooms 跟在 changed 后。\n下次：看到 stop to，理解为停下手头的事，去做后一个动作；再检查 whether 后按事情、动作的顺序排。"
+  },
+  "W680": {
+    "type": "sentence",
+    "accepted": [
+      "We asked everyone to stop checking their phones."
+    ],
+    "explanation": "读懂：小组讨论不停被打断。checking their phones 是“看手机”，大家被要求停止这个行为。\n解析：We asked 后先放 everyone，再接 to stop，表示要求所有人停下。stop 后接 checking，说明要停止的正是看手机这件事。\n下次：看到 stop 后的 -ing 动作，把它当作需要停掉的行为；检查不是“停下讨论去看手机”。"
+  },
+  "W681": {
+    "type": "sentence",
+    "accepted": [
+      "The aim is to make the emergency signs more visible."
+    ],
+    "explanation": "读懂：题目问楼梯间为什么重新刷漆。more visible 是“更容易看见”，目的是让应急标志更醒目。\n解析：The aim is 表示“目的是”，后接 to make。先放要改善的 the emergency signs，再接 more visible，说明希望标志变得怎样。\n下次：说“目的是让某物更怎样”，先排目的，再在 make 后放物品和变化；检查醒目的是标志。"
+  },
+  "W682": {
+    "type": "sentence",
+    "accepted": [
+      "Keep it short enough for the speaker to answer clearly."
+    ],
+    "explanation": "读懂：对方只有几分钟准备提问。short enough 是“足够简短”，这样讲者才容易回答清楚。\n解析：Keep it 后接 short enough，it 指问题。for the speaker 指回答的人，to answer clearly 说希望他完成的动作；简短的是问题，回答的是讲者。\n下次：先排要把什么保持成什么样，再接谁能做什么；检查问题和回答者没有混在一起。"
+  },
+  "W683": {
+    "type": "sentence",
+    "accepted": [
+      "We were concerned about overlooking a problem with the design."
+    ],
+    "explanation": "读懂：题目问为什么再请别人提意见。overlooking 是“遗漏、没注意到”，团队担心漏查设计问题。\n解析：We were concerned 后接 about，表示“担心”。about 后放 overlooking，再接 a problem with the design；with the design 说明问题出在设计上。\n下次：先用 concerned about 接担心发生的事，再看问题属于哪一方面；检查 with 跟着 problem，about 跟着 concerned。"
+  },
+  "W684": {
+    "type": "sentence",
+    "accepted": [
+      "You may be required to demonstrate that you have equivalent experience."
+    ],
+    "explanation": "读懂：题目问没上入门课能不能直接修这门课。equivalent experience 是“相当的经验”，可能要证明已有同等基础。\n解析：You may be required 后接 to demonstrate，表示“你可能被要求证明”。that 后排 you have equivalent experience，说明需要证明的内容；may 只表示可能。\n下次：看到 be required，接 to 和被要求做的动作；再读清证明内容，检查没有把 may 的可能性说成一定。"
+  },
+  "W685": {
+    "type": "sentence",
+    "accepted": [
+      "I need to understand which changes the reviewer is asking for.",
+      "I need to understand for which changes the reviewer is asking."
+    ],
+    "explanation": "读懂：题目问为什么修改前先读评语。reviewer 是“审阅者”，回答要先弄明白对方要求哪些改动。\n解析：I need 后接 to understand。which changes 提出改什么，后面排 the reviewer is asking；for 可留在最后，也可和 which changes 一起放前面，都属于 ask for 的“要求”。\n下次：先找谁在要求改动，让这个人放在 is asking 前；再检查 for 和要求的改动相连，没有漏掉。"
+  },
+  "W686": {
+    "type": "sentence",
+    "accepted": [
+      "Would you mind opening the window beside you?"
+    ],
+    "explanation": "读懂：教室越来越热。Would you mind 是“你介意……吗”，这里是礼貌请对方开旁边的窗。\n解析：Would you mind 后接 opening 这种 -ing 动作，不能接 to open。the window beside you 已指明要开的是对方旁边那扇窗。\n下次：看到 Would you mind，请求的动作选 -ing 形式；再核对动作对象，确认是哪扇窗。"
+  },
+  "W687": {
+    "type": "sentence",
+    "accepted": [
+      "She hoped to gain experience working with visitors.",
+      "She hoped to gain working experience with visitors."
+    ],
+    "explanation": "读懂：题目问为什么选择在博物馆做志愿者。gain experience 是“积累经验”，她想学习与访客打交道。\n解析：She hoped 后接 to gain，再接 experience。working with visitors 放在经验后，说明是哪方面的经验；working 也可放 experience 前，表示工作经验。\n下次：先说希望获得什么，再补经验来自哪种工作；检查 with visitors 始终说明与访客打交道。"
+  },
+  "W688": {
+    "type": "sentence",
+    "accepted": [
+      "She offered to look at it before we write the full report.",
+      "Before we write the full report, she offered to look at it."
+    ],
+    "explanation": "读懂：题目问能不能先让老师看提纲。offered to 是“主动提出愿意”，老师愿意在写全文前先看。\n解析：She offered 后接 to look at it，it 指提纲。before 后排 we write the full report，说明老师查看在我们写完整报告之前。\n下次：遇到 offer，后接 to 和主动提出做的事；再检查 before 两边顺序，确认先看提纲，后写全文。"
+  },
+  "W689": {
+    "type": "sentence",
+    "accepted": [
+      "It seemed like a good opportunity to practice leading a discussion."
+    ],
+    "explanation": "读懂：题目问为什么同意主持会议。opportunity 是“机会”，主持能练习带领讨论。\n解析：It seemed like a good opportunity 表示“这似乎是个好机会”。后接 to practice，说明练什么；practice 后用 leading 这种 -ing 形式，再接讨论。\n下次：先用 to 说明机会用来做什么，再单独检查 practice 后的动作；这里要用 leading，不因前面有 to 而重复添加。"
+  },
+  "W690": {
+    "type": "sentence",
+    "accepted": [
+      "Making a checklist can help you keep track of your progress."
+    ],
+    "explanation": "读懂：对方总记不清哪些任务做完了。checklist 是“检查清单”，列清单有助于跟进进度。\n解析：Making a checklist 表示“列清单这件事”，后接 can help you。keep track 与 of your progress 连起来，意思是“掌握自己的进展”。\n下次：先找有帮助的做法，再接帮助谁做什么；遇到 keep track，检查后面的 of 和需要跟进的内容都齐全。"
+  },
+  "W691": {
+    "type": "sentence",
+    "accepted": [
+      "They made the abstract idea easier for us to grasp.",
+      "For us, they made the abstract idea easier to grasp."
+    ],
+    "explanation": "读懂：题目问讲师为什么用熟悉的例子。grasp 在这里是“理解”，这些例子让抽象想法更容易懂。\n解析：They 指例子，made 后先放 the abstract idea，再接 easier，说明哪个东西变容易。for us 指理解的人，to grasp 是理解这个动作。\n下次：先找被解释的概念，再说对谁而言更容易理解；检查 us 是理解者，idea 才是被理解的内容。"
+  },
+  "W692": {
+    "type": "sentence",
+    "accepted": [
+      "We have permission to use it as long as we return it on Monday.",
+      "As long as we return it on Monday, we have permission to use it.",
+      "We have permission to use it as long as on Monday we return it."
+    ],
+    "explanation": "读懂：题目问社团能不能借系里的相机。have permission 是“获准”，可以用，但要周一归还。\n解析：We have permission 后接 to use it，说明获准做什么。as long as 后排 we return it，再补 on Monday，说明归还条件；两个 it 都指相机。\n下次：先拼借用许可，再找归还条件；检查相机是同一件物品，归还时间仍是周一。"
+  },
+  "W693": {
+    "type": "sentence",
+    "accepted": [
+      "I want to make sure that everyone will be able to hear."
+    ],
+    "explanation": "读懂：题目问观众到场前为什么先测麦克风。make sure 是“确保”，测试是为了让大家都能听见。\n解析：I want 后接 to make sure，再放 that everyone。后面排 will be、able、to hear，表示之后大家有能力听到；able 必须和 to hear 连起来。\n下次：先排想确保什么，再把“谁将能够做什么”接全；检查 make sure 后有完整内容，able 后有 to 和动作。"
+  },
+  "W694": {
+    "type": "sentence",
+    "accepted": [
+      "It is worth discussing the options with your adviser first.",
+      "It is worth first discussing the options with your adviser.",
+      "First, it is worth discussing the options with your adviser.",
+      "It is worth discussing the options first with your adviser."
+    ],
+    "explanation": "读懂：对方考虑退掉一门课。is worth 是“值得”，回应建议先找导师讨论可选方案。\n解析：It is worth 后接 discussing，不用 to discuss。先放讨论内容 the options，再接讨论对象 with your adviser；first 的位置可变，都表示先商量再作决定。\n下次：看到 worth，后面的动作选 -ing 形式；再找议题和商量的人，检查 first 仍表示先做这一步。"
+  },
+  "W695": {
+    "type": "sentence",
+    "accepted": [
+      "It lets everyone see the latest changes immediately.",
+      "It lets everyone immediately see the latest changes.",
+      "It immediately lets everyone see the latest changes.",
+      "It lets everyone see immediately the latest changes."
+    ],
+    "explanation": "读懂：题目问团队为什么用共享文档。latest changes 是“最新修改”，共享能让所有人马上看到更新。\n解析：It lets 后先接 everyone，再接原形 see，不能用 to see。the latest changes 是看到的内容，immediately 补充“马上、及时”的意思。\n下次：看到 let 某人做事，把人放中间，动作直接用原形；检查看见的对象是最新修改。"
+  },
+  "W696": {
+    "type": "sentence",
+    "accepted": [
+      "I would be happy to help you practice answering questions."
+    ],
+    "explanation": "读懂：对方请你帮忙准备奖学金面试。practice answering questions 是“练习回答问题”，回应表示愿意帮忙。\n解析：I would be happy 接 to help，再接 you，说明愿意帮谁。help you 后用 practice，practice 后再用 answering；两个动作的形式要求不同。\n下次：把连续动作分开检查：愿意帮忙接 to help，帮人练习接 practice，练习回答再接 answering。"
+  },
+  "W697": {
+    "type": "sentence",
+    "accepted": [
+      "Taking it on would have meant giving up the time I had set aside for revision."
+    ],
+    "explanation": "读懂：题目问为什么拒绝额外任务。set aside 是“预留”，接任务就会挤掉原本留给复习的时间。\n解析：Taking it on 指接下任务，后接 would have meant，设想当初接受会怎样。giving up 后先放 the time，再接 I had set aside for revision，说明要放弃的是哪段时间。\n下次：先拼接下任务会付出什么代价，再找被占用的时间；检查 I had set aside 是在说明 time，不是另一项要放弃的动作。"
+  },
+  "W698": {
+    "type": "sentence",
+    "accepted": [
+      "The tutorial shows you how to cancel or change a reservation."
+    ],
+    "explanation": "读懂：对方想学用校园预约应用。cancel or change 是“取消或修改”，教程会教这两种操作。\n解析：The tutorial shows 后先接 you，再接 how，表示教你怎样做。to cancel 与 or change 接在一起，共用最后的 a reservation，都是操作同一份预约。\n下次：遇到“教你怎样操作”，先排 shows you how；再把两个可选动作接好，检查它们处理的是同一个对象。"
+  },
+  "W699": {
+    "type": "sentence",
+    "accepted": [
+      "She did so to prevent individual students from being identified."
+    ],
+    "explanation": "读懂：题目问研究者为什么删掉表格上的姓名。identified 是“被认出身份”，这样做是为了保护学生身份。\n解析：She did so 承接前句“删去姓名”。to prevent 后先放 individual students，再接 from being identified，表示防止这些学生的身份被认出来。\n下次：先认清 did so 代替前句哪件事，再接目的；检查学生是被认出的对象，所以用 being identified。"
+  },
+  "W700": {
+    "type": "sentence",
+    "accepted": [
+      "We need to repeat the measurement to make sure it is reliable."
+    ],
+    "explanation": "读懂：题目问昨天的数据能否直接作最终结果。reliable 是“可靠的”，回答要求再测一次来确认。\n解析：We need 后接 to repeat，再放 the measurement，说明要复测什么。to make sure 接 it is reliable，说明复测目的；it 指这次测量所给出的结果。\n下次：先找必须做的动作，再用 to 说明为什么做；遇到 make sure，把要确认的对象和状态都接全。"
+  },
+  "W701": {
+    "type": "sentence",
+    "accepted": [
+      "It offers more opportunities to ask questions than the lecture does."
+    ],
+    "explanation": "读懂：题目问为什么选小班研讨课而不选讲座。opportunities 是“机会”，小班提供更多提问机会。\n解析：It offers 后把 more 和 opportunities 连起来，再接 to ask questions，说明多的是哪种机会。固定句尾用讲座作比较，does 代替前面的 offers。\n下次：比较机会多少，先拼 more 和机会，再说明做什么的机会；检查 than 后比较的是同一种机会数量。"
+  },
+  "W702": {
+    "type": "sentence",
+    "accepted": [
+      "The rooms on the top floor are slightly smaller than those downstairs."
+    ],
+    "explanation": "读懂：题目问宿舍房间是不是一样大。slightly smaller 是“稍小一点”，顶层房间比楼下房间小。\n解析：The rooms 后先接 on the top floor，说明哪批房间，再排 are slightly smaller。than 后的 those 代替房间，downstairs 说明另一批在楼下。\n下次：先找哪两批房间比较，再放大小差异；看到 those，检查它代替的是房间，而不是楼层。"
+  },
+  "W703": {
+    "type": "sentence",
+    "accepted": [
+      "It contained fewer questions than the first one did."
+    ],
+    "explanation": "读懂：题目问第二份问卷为什么更好完成。fewer questions 是“更少的问题”，它比第一份的问题少。\n解析：It contained 后接 fewer questions，再用 than 接 the first one did。one 指第一份问卷，did 代替 contained，省去重复说“包含”。\n下次：比较可数的问题数量，用 fewer 接复数 questions；再确认两边都是问卷，did 代替的是同一个包含动作。"
+  },
+  "W704": {
+    "type": "sentence",
+    "accepted": [
+      "The journey takes almost as long by train as it does by bus.",
+      "The journey takes almost as long by bus as it does by train."
+    ],
+    "explanation": "读懂：对方原以为火车更快。almost as long 是“几乎一样久”，回应说两种交通方式耗时差不多。\n解析：The journey takes 后接 almost as long，再放一种交通方式；第二个 as 后用 it does 接另一种。does 代替 takes，火车与公交的先后可以交换。\n下次：看到 as long，找到另一处 as，把两种方式分别接上；检查比较的是耗时，而不是距离。"
+  },
+  "W705": {
+    "type": "sentence",
+    "accepted": [
+      "The new location makes them more accessible to a wider range of readers."
+    ],
+    "explanation": "读懂：题目问热门书为什么搬到楼下。more accessible 是“更容易获取”，更多读者因此用书更方便。\n解析：The new location makes 后先放 them，代替书，再接 more accessible。固定的 to 后放 a wider range of readers，说明对更多种类的读者更方便。\n下次：先找什么因变化而更方便，再说对谁方便；检查 them 指书，to 后才是读者。"
+  },
+  "W706": {
+    "type": "sentence",
+    "accepted": [
+      "Both classes require the same amount of preparation each week.",
+      "Each week, both classes require the same amount of preparation."
+    ],
+    "explanation": "读懂：题目问早课是不是比晚课轻松。the same amount 是“同样多”，两门课每周需要的准备量相同。\n解析：Both classes require 先说两门课都要求什么。把 the same、amount、of preparation 连起来，组成“同样多的准备工作”；each week 补充每周这个范围。\n下次：比较工作量是否相同，先拼 the same amount of 和具体工作；再看频率，检查说的是每周而不是总共。"
+  },
+  "W707": {
+    "type": "sentence",
+    "accepted": [
+      "The original was far more detailed than they needed."
+    ],
+    "explanation": "读懂：题目问委员会为什么要求缩短概述。far more detailed 是“详细得多”，原稿远超他们所需的细节。\n解析：The original was 后接 far more detailed。than 后排 they needed，说明比他们需要的更详细；far 在这里加强“多得多”，不是指距离。\n下次：看到 far 接比较词，先按“程度高很多”理解；再找到 than 后的标准，检查是在和实际需要相比。"
+  },
+  "W708": {
+    "type": "sentence",
+    "accepted": [
+      "The online version is updated more frequently than the printed one.",
+      "The online version is more frequently updated than the printed one."
+    ],
+    "explanation": "读懂：题目问线上与纸质时刻表是否一样可靠。more frequently 是“更频繁”，回答指出线上版更新得更勤。\n解析：The online version 接 is updated，说明线上版被更新。more frequently 可在 updated 前后；than the printed one 比较纸质版的更新频率，并不保证每条信息都无误。\n下次：先排哪个版本被更新，再接频率比较；检查 one 指另一版本，结论只到更新频率这一层。"
+  },
+  "W709": {
+    "type": "sentence",
+    "accepted": [
+      "It is not as noisy as the one near the station."
+    ],
+    "explanation": "读懂：题目问为什么选离校园远些的公寓。not as noisy as 是“没有……那么吵”，这套比车站旁那套安静。\n解析：It 后接 is not，再把 noisy 夹在两个 as 中间。第二个 as 接固定句尾的另一套公寓，形成两套房子的噪声比较。\n下次：看到 not as，找齐第二个 as，让描述特点的词放中间；检查比较对象相同，否定的是“同样吵”。"
+  },
+  "W710": {
+    "type": "sentence",
+    "accepted": [
+      "You may be more familiar with the format than you were before."
+    ],
+    "explanation": "读懂：对方觉得第一次练习更难。familiar with 是“熟悉”，回应猜测可能是你现在更熟悉题型了。\n解析：You may be 表示“你可能”。more familiar 后接 with the format，再用 than you were before 比较你过去和现在的熟悉程度，不是在断言试题一定更容易。\n下次：先找 may 表示的可能性，再排 familiar with 和熟悉对象；检查比较的是自己前后的状态。"
+  },
+  "W711": {
+    "type": "sentence",
+    "accepted": [
+      "It is the quietest space we can use without making a reservation."
+    ],
+    "explanation": "读懂：题目问为什么喜欢小房间。quietest 是“最安静的”，范围是无需预约就能使用的空间。\n解析：It is 后接 the quietest space，再用 we can use 说明我们能用。without making a reservation 继续限定“不用预约”，所以不能扩大成全校所有空间里最安静。\n下次：看到“最”，先找后面限制了哪些候选对象；把能否使用、是否预约都算进去，再判断比较范围。"
+  },
+  "W712": {
+    "type": "sentence",
+    "accepted": [
+      "Either session will cover everything you need to know."
+    ],
+    "explanation": "读懂：题目问是不是两场培训都要参加。Either session 是“任选一场”，每一场都能覆盖必须知道的内容。\n解析：Either session 后接 will cover 和 everything。you need to know 跟在 everything 后，把它限定为“你需要知道的全部内容”，不是说两场所有内容完全一样。\n下次：看到 either，先按两场中任选一场理解；再检查 everything 后的限制，别把所需内容相同扩大成所有内容相同。"
+  },
+  "W713": {
+    "type": "sentence",
+    "accepted": [
+      "Neither date was suitable for the guest speaker."
+    ],
+    "explanation": "读懂：题目问办公室为什么两个日期都拒绝了。Neither date 是“两个日期都不”，嘉宾两天都不合适。\n解析：Neither date 按一个日期一个日期来看，后接 was suitable，不选 were。for 再接固定的 the guest speaker，说明对谁不合适。\n下次：看到 neither 加单数 date，用单数 was；再检查 neither 已经表达两个都不，不要误读成只否定其中一个。"
+  },
+  "W714": {
+    "type": "sentence",
+    "accepted": [
+      "Only a few students responded, so we cannot draw a firm conclusion."
+    ],
+    "explanation": "读懂：题目问调查能不能代表全班。Only a few students 是“只有少数学生”，回复太少，暂时不能下定论。\n解析：先排 Only a few students responded，说明参与情况。so 后接 we cannot draw a firm conclusion，指出结果的限制；a few 是少数，不是零。\n下次：先读清人数是少还是没有，再判断能支持多强的结论；检查“少数回复”没有被写成“没人回复”。"
+  },
+  "W715": {
+    "type": "sentence",
+    "accepted": [
+      "Not all of the positions have been filled yet.",
+      "Not all of the positions have yet been filled."
+    ],
+    "explanation": "读懂：题目问社团为什么还招志愿者。Not all 是“并非全部”，还有岗位没填满。\n解析：Not all 接 of the positions，再排 have been filled，表示岗位尚未全部有人。yet 可在句尾或 been 前；句子没有告诉你究竟已有几人。\n下次：看到 Not all，先理解“至少还有没完成的部分”；检查不能据此断定全部没完成，也不能算出已完成的数量。"
+  },
+  "W716": {
+    "type": "sentence",
+    "accepted": [
+      "Some of the images may be used only with the photographer's permission.",
+      "Only with the photographer's permission may some of the images be used."
+    ],
+    "explanation": "读懂：题目问藏品里的照片能不能任意使用。permission 是“许可”，部分照片必须先得到摄影者同意。\n解析：先说照片时，排 Some of the images may be used，再接许可条件。若把 Only with 的条件放句首，要把 may 移到照片前；be used 仍放照片后。\n下次：先看是否以 Only with 的条件开头；如果是，就检查 may 在照片前、be used 在照片后，别只移动条件而忘了调整顺序。"
+  },
+  "W717": {
+    "type": "sentence",
+    "accepted": [
+      "Each version shows a different stage in the development of the argument."
+    ],
+    "explanation": "读懂：题目问为什么要保留两份草稿。argument 是“论证”，每一版能展示思路发展的不同阶段。\n解析：Each version 逐个指每一版，后面选 shows，不选 show。a different stage 接 in the development of the argument，说明是论证发展中的某个阶段。\n下次：看到 each 加一版或一人，动作按单数加 s；再检查 stage 后说明的是哪个发展过程。"
+  },
+  "W718": {
+    "type": "sentence",
+    "accepted": [
+      "Only one person needs to submit it on behalf of the whole group.",
+      "On behalf of the whole group, only one person needs to submit it."
+    ],
+    "explanation": "读懂：题目问每个组员都要上传报告吗。on behalf of 是“代表”，只需一人代全组提交。\n解析：Only one person 后接 needs，再接 to submit it；it 是报告。on behalf of 和 the whole group 连起来，说明代表整个小组，不是只代表自己。\n下次：先找需要行动的人数，再接提交动作；检查 only one 与单数 needs 对应，代表的范围是全组。"
+  },
+  "W719": {
+    "type": "sentence",
+    "accepted": [
+      "Several items have been removed because they are no longer required.",
+      "Because they are no longer required, several items have been removed.",
+      "Several items have been removed because they no longer are required."
+    ],
+    "explanation": "读懂：题目问新清单为什么更短。no longer 是“不再”，一些已经不需要的项目被删掉了。\n解析：Several items 后接 have been removed，说明项目已被移除。because 后排 they are required，再加入 no longer 表示不再需要；no longer 可在 are 前或后。\n下次：先说哪些项目被删，再说明为何不用了；检查 they 指同一批项目，no longer 改变的是现在是否需要。"
+  },
+  "W720": {
+    "type": "sentence",
+    "accepted": [
+      "Most of the grants are open to them, but a few are restricted to seniors."
+    ],
+    "explanation": "读懂：题目问大一学生能否申请全部资助。seniors 在大学里指毕业年级学生，少数资助只给这个年级。\n解析：Most of the grants 后排 are open to them，them 指大一学生。固定的 but 后接整块例外，说明大多数开放，但有少数只给毕业年级学生。\n下次：先找多数项目面向谁，再读 but 后的少数例外；检查 a few 是资助项目的数量，seniors 是学生年级。"
+  },
+  "W721": {
+    "type": "sentence",
+    "accepted": [
+      "What concerns me is how little time we have to get across campus.",
+      "How little time we have to get across campus is what concerns me."
+    ],
+    "explanation": "读懂：新课表几乎没留课间休息。how little time 是“时间多么少”，回应担心来不及穿过校园赶下一节课。\n解析：What concerns me 是“我担心的事”；另一部分用 how little time 接 we have，再接 to get across campus，说赶路时间很少。用 is 连接这两部分，前后可交换。\n下次：先分别拼“我担心什么”和“具体困难是什么”，再用 is 连起来；检查赶路动作仍在说明时间的用途。"
+  },
+  "W722": {
+    "type": "sentence",
+    "accepted": [
+      "What I had proposed was too broad to answer in a short paper."
+    ],
+    "explanation": "读懂：题目问导师为什么建议换研究问题。too broad 是“范围太大”，短论文无法充分回答。\n解析：What 和整块 I had proposed 连成“我提出的内容”。这整个内容接 was too broad，再用 to answer 说明难以回答，in a short paper 限定短论文的篇幅。\n下次：先把“提出了什么”读成一个完整对象，再接它的问题；检查 too 后说程度，to 后说因此难以完成的动作。"
+  },
+  "W723": {
+    "type": "sentence",
+    "accepted": [
+      "What we need is an explanation of why it was canceled.",
+      "An explanation of why it was canceled is what we need."
+    ],
+    "explanation": "读懂：对方不明白场地预订怎么没了。canceled 是“取消”，回应说需要解释取消原因。\n解析：What we need 是“我们需要的东西”，用 is 接 an explanation。of why 后排 it was canceled，说明解释的是预订为何取消；也可把整段解释放在 is 前面。\n下次：先拼需要什么，再把解释的内容接全；不管两大部分怎样换位，里面都应是 it was canceled 的顺序。"
+  },
+  "W724": {
+    "type": "sentence",
+    "accepted": [
+      "What matters is not their length but how clearly they present the evidence."
+    ],
+    "explanation": "读懂：题目问为什么比较两篇报告。What matters 是“重要的是什么”，重点在证据是否说清，不在篇幅长短。\n解析：What matters 后接 is not 和 their length，排除长度作为这里的重点。固定的 but 后接 how clearly they present the evidence，强调他们把证据讲得多清楚。\n下次：看到 not…but，先找不看重的标准，再找真正强调的标准；检查否定的是长度的重要性，不是说报告没有长度。"
+  },
+  "W725": {
+    "type": "sentence",
+    "accepted": [
+      "What counts as reliable depends on the question you are investigating."
+    ],
+    "explanation": "读懂：题目要求用可靠资料。counts as reliable 是“算得上可靠”，怎样算可靠，要看研究什么问题。\n解析：What counts as reliable 先拼成“什么算可靠”这个完整问题，再接 depends on。the question 后接 you are investigating，说明依赖的是你正在研究的问题。\n下次：先读完整个“什么算可靠”，再找它取决于什么；检查 investigating 说明的是 question，别当成资料自己的动作。"
+  },
+  "W726": {
+    "type": "sentence",
+    "accepted": [
+      "Whether the plan is affordable depends on costs we have not confirmed."
+    ],
+    "explanation": "读懂：题目问委员会为什么推迟表决。affordable 是“负担得起”，成本还没确认，暂时判断不了方案能否承担。\n解析：Whether the plan is affordable 合起来是“方案是否负担得起”，接 depends on，表示取决于什么。costs 后接整块 we have not confirmed，说明哪些费用还没确定。\n下次：先把“是否可行”当作一个完整问题，再说取决于哪些费用；检查费用后那段说明紧跟 costs。"
+  },
+  "W727": {
+    "type": "sentence",
+    "accepted": [
+      "What surprised me was how much attention the tutor gave to the structure.",
+      "How much attention the tutor gave to the structure was what surprised me."
+    ],
+    "explanation": "读懂：原以为评语主要看拼写，老师却很关注文章结构。how much attention 是“多么重视”，这让人意外。\n解析：What surprised me 是“让我意外的事”。另一部分先排 how much attention，再接 the tutor gave to the structure，说明老师多重视结构；用 was 连接两部分，顺序可交换。\n下次：先拼意外之处，再说谁把多少注意力放在哪里；检查 attention 与 gave、to the structure 仍连成完整关系。"
+  },
+  "W728": {
+    "type": "sentence",
+    "accepted": [
+      "The problem was that its labels could be interpreted in two different ways.",
+      "That its labels could be interpreted in two different ways was the problem."
+    ],
+    "explanation": "读懂：题目问为什么不用那张图。interpreted 是“理解”，标签有两种读法，容易产生歧义。\n解析：The problem 用 was 连接具体问题。that 后先排 its labels，再接 could be interpreted 和 in two different ways，说明标签能有两种解释；整段问题也可放在 was 前。\n下次：先把“标签能被怎样理解”拼完整，再用 was 接到问题说明；检查标签在 could be 前，两种读法是解释方式。"
+  },
+  "W729": {
+    "type": "sentence",
+    "accepted": [
+      "One possibility is that they used different definitions.",
+      "That they used different definitions is one possibility."
+    ],
+    "explanation": "读懂：两组用相同数据却得出不同结论。definitions 是“定义”，可能是两组采用的定义不同。\n解析：that 后排 they used different definitions，先拼出可能原因。再用 is 把它与 One possibility 连接，两部分可换位；possibility 只说一种猜测。\n下次：先拼具体解释，再加它是可能还是确定；检查调换顺序后，仍保留“可能”，没有说成已证实原因。"
+  },
+  "W730": {
+    "type": "sentence",
+    "accepted": [
+      "The idea was to ensure that everyone could see what was available.",
+      "To ensure that everyone could see what was available was the idea."
+    ],
+    "explanation": "读懂：题目问为什么建立共享设备日历。available 是“可用的”，日历让大家知道哪些设备可以用。\n解析：to ensure 表示“为了确保”，后接 that everyone could see，说明确保大家能看到。what was available 是看到的内容；这整个目的用 was 与 The idea 连接，先后可换。\n下次：按“确保—谁能看见—看见什么”逐层拼，再接设想或目的；检查 that 和 what 各自连接的内容不同。"
+  },
+  "W731": {
+    "type": "sentence",
+    "accepted": [
+      "Do you know whether the course I took last year would satisfy that requirement?"
+    ],
+    "explanation": "读懂：课程要求先学统计。satisfy that requirement 是“满足这项要求”，回应想确认去年修的课算不算。\n解析：know whether 后先放 the course，再接 I took 和 last year，说明是去年修的那门。说完是哪门课，再接 would satisfy that requirement，判断能否满足要求。\n下次：先把课程及其来历说完整，再接是否满足要求；检查满足要求的是 course，不是中间出现的 I。"
+  },
+  "W732": {
+    "type": "sentence",
+    "accepted": [
+      "I am trying to establish whether the person who signed it actually wrote it.",
+      "I am trying to establish whether the person who actually wrote it signed it."
+    ],
+    "explanation": "读懂：题目问为什么向档案馆打听那封信。signed 是“签名”，要核实签名者和实际写信者是不是同一个人。\n解析：am trying to establish 后用 whether 引出核查。the person 后的 who 用来说明是哪一个人：可先说签名者，再问是否执笔；也可先说执笔者，再问是否签名。\n下次：先把“哪一个人”的说明接在 who 后，再接待核实的另一动作；检查 wrote 后有 it，signed it 作为整块使用。"
+  },
+  "W733": {
+    "type": "sentence",
+    "accepted": [
+      "Can you remember which author she said had written it?"
+    ],
+    "explanation": "读懂：讲者提了一本你想读的书。which author 是“哪位作者”，回应问还记不记得她说是谁写的。\n解析：remember 后先提出 which author。中间的 she said 只表示“她说”，写书的仍是前面的作者，所以后面接 had written it；it 指那本书。\n下次：先分清说话的人和写书的人，再读“哪位作者—写了这本书”；把 she said 插回去，检查没有把她误当作者。"
+  },
+  "W734": {
+    "type": "sentence",
+    "accepted": [
+      "She wanted to check whether the values we reported matched the records.",
+      "She wanted to check whether the records matched the values we reported."
+    ],
+    "explanation": "读懂：题目问实验室负责人为什么要原始测量记录。values 是“数值”，她要核对报告数值和原记录是否一致。\n解析：wanted to check 后用 whether 引出核对内容。we reported 紧跟 the values，说明“我们报告的数值”；再用 matched 和 the records 比较，两边可以交换。\n下次：先把数值与“谁报告的”连好，再接 matched 和原记录；检查 reported 在说明数值，matched 才负责比较是否相符。"
+  },
+  "W735": {
+    "type": "sentence",
+    "accepted": [
+      "Does it specify which rooms will be closed and when they will reopen?",
+      "Does it specify which rooms will reopen and when they will be closed?"
+    ],
+    "explanation": "读懂：通知说有些房间明天不能用。specify 是“具体说明”，回应想查清哪些房间关闭、什么时候重开等安排。\n解析：specify 后用 and 连接两项：which rooms 问房间，when they 问时间。可分别接关闭与重开，也可交换这两个动作；they 始终放在对应动作前。\n下次：先分清一段问“哪些”、另一段问“何时”，再各接一个安排；检查关闭和重开都用到，时间段里没有把 they 放到动作后。"
+  },
+  "W736": {
+    "type": "sentence",
+    "accepted": [
+      "I need to confirm what we were promised before we paid the deposit."
+    ],
+    "explanation": "读懂：题目问为什么索要协议副本。were promised 是“得到过承诺”，要确认交定金前对方答应过什么。\n解析：I need 后接 to confirm，再用 what 提出承诺内容。后排 we were promised，表示我们得到承诺；before we paid the deposit 说明承诺是在付款前作出的。\n下次：先分清我们是得到承诺的人，再排 were promised；检查 before 限定的是付款前的承诺，不是现在核查的时间。"
+  },
+  "W737": {
+    "type": "sentence",
+    "accepted": [
+      "Could you ask her which aspect she would like us to focus on?"
+    ],
+    "explanation": "读懂：老师认为题目仍太宽泛。which aspect 是“哪一方面”，回应请人问她希望大家聚焦哪一点。\n解析：ask 后接 her，说明去问老师。which aspect 后排 she would like us，再接 to focus on，意思是“她希望我们集中关注”；on 对应前面的方面。\n下次：先分清问谁、谁提出要求、谁去执行，再拼 she would like us to；检查 focus on 的 on 没有漏掉。"
+  },
+  "W738": {
+    "type": "sentence",
+    "accepted": [
+      "They wanted to know whether anyone in our group needed assistance getting to the venue."
+    ],
+    "explanation": "读懂：题目问学生事务办公室为什么联系你。assistance 是“帮助”，他们想知道组里是否有人到场需要协助。\n解析：wanted to know 后接 whether。先放整块 anyone in our group，再接 needed assistance；getting to the venue 说明具体是在前往场地方面需要帮助。\n下次：先找需要帮助的人，再接帮助哪件事；检查 getting to 说的是到达场地，不是已经到场的事实。"
+  },
+  "W739": {
+    "type": "sentence",
+    "accepted": [
+      "Can you explain what the fee is for and who approved it?",
+      "Can you explain who approved it and what the fee is for?"
+    ],
+    "explanation": "读懂：预算里有一笔不认识的收费。is for 是“用于什么”，回应要问费用用途和是谁批准的。\n解析：explain 后用 and 连接两项。what 后排 the fee is for，问钱用来做什么；who 直接接 approved it，问批准的人。两项可以交换顺序。\n下次：把用途问题和批准者问题分别拼好，再用 and 连接；检查前一类有 the fee，后一类 who 本身就是做事的人。"
+  },
+  "W740": {
+    "type": "sentence",
+    "accepted": [
+      "I was unsure whether the deadline applied to the form or to the supporting documents."
+    ],
+    "explanation": "读懂：题目问为什么让协调员再看说明。supporting documents 是“证明材料”，回答不确定截止日期管的是表格还是附件材料。\n解析：was unsure 后接 whether，再排 the deadline applied。to the form 和 or to the supporting documents 并列，都是这个截止日期可能适用的对象。\n下次：问同一要求适用哪个对象，先排要求，再把两个对象用 or 连接；检查两边都有与 applied 搭配的 to。"
+  },
+  "W741": {
+    "type": "sentence",
+    "accepted": [
+      "It was the only one that fit my timetable and met the requirement.",
+      "It was the only one that met the requirement and fit my timetable."
+    ],
+    "explanation": "读懂：题目问为什么选这门选修课。the only one 是“唯一的一门”，只有它既符合课表又满足要求。\n解析：It was the only one 后接 that。fit my timetable 和 met the requirement 用 and 连接，两项都说明同一门课，可以交换顺序。\n下次：看到 only one，找齐它必须同时满足的条件；用 and 连接后，检查不是每个条件各由一门课满足。"
+  },
+  "W742": {
+    "type": "sentence",
+    "accepted": [
+      "Was there a technical problem that had to be resolved?"
+    ],
+    "explanation": "读懂：排练比预计晚结束。technical problem 是“技术问题”，回应问是不是有个必须解决的问题拖延了时间。\n解析：先排 Was there a technical problem，问有没有这类问题。that 后接 had to be resolved，说明问题必须被解决；be 要放在 resolved 前。\n下次：问是否存在问题，先拼 Was there，再接问题；补处理要求时，检查问题是被解决的，保留 be。"
+  },
+  "W743": {
+    "type": "sentence",
+    "accepted": [
+      "It contains articles that are relevant to my topic and available in full text."
+    ],
+    "explanation": "读懂：题目问图书管理员为什么推荐这个数据库。full text 是“全文”，里面文章既相关，又能拿到全文。\n解析：It contains 后接 articles，再用 that are 补文章的特点。先排 relevant to my topic，再接整块 and available in full text；两项都在说明文章。\n下次：先找数据库包含什么，再把相关性和全文可用性接在文章后；检查 relevant 后与 to my topic 连在一起。"
+  },
+  "W744": {
+    "type": "sentence",
+    "accepted": [
+      "Is there enough space for everyone to move around safely?",
+      "Is there enough space to move around safely for everyone?"
+    ],
+    "explanation": "读懂：房间看起来够大。move around safely 是“安全走动”，回应进一步问有没有足够空间让所有人走动。\n解析：先拼 Is there enough space，问空间是否足够。再接 for everyone 和 to move around safely；for everyone 也可放整个活动后，仍说明空间要供所有人用。\n下次：先问空间够不够，再补给谁、做什么；检查人数范围和安全要求都保留，而非只看能不能站得下。"
+  },
+  "W745": {
+    "type": "sentence",
+    "accepted": [
+      "She needed to verify that the number had not been taken out of context."
+    ],
+    "explanation": "读懂：题目问编辑为什么查统计来源。out of context 是“脱离原本语境”，她要核实数字没有被断章取义。\n解析：She needed 后接 to verify，再用 that 引出待核查内容。the number 接 had not been taken，再接 out of context；这是核查目标，还不能当成已经证实的结果。\n下次：先找需要核实什么，再把数值与使用方式接齐；检查 not 否定的是脱离语境引用，别把核查目标说成结论。"
+  },
+  "W746": {
+    "type": "sentence",
+    "accepted": [
+      "Could you tell me which one we are supposed to put our names in?"
+    ],
+    "explanation": "读懂：报名表有三栏。which one 是“哪一栏”，回应问名字按要求该填哪里。\n解析：tell 后先接 me，再放 which one。里面按 we are supposed to put 排，说明我们应当填写；整块 our names in 放最后，in 指回前面问的那一栏。\n下次：先拼“告诉我哪一栏”，再排谁应该填什么；检查 we 在 are supposed 前，末尾的 in 仍对应栏目。"
+  },
+  "W747": {
+    "type": "sentence",
+    "accepted": [
+      "The feedback suggested that students would benefit more from a guided tour."
+    ],
+    "explanation": "读懂：题目问为什么缩短入学介绍会。benefit from 是“从……受益”，反馈认为带领参观会让学生收获更多。\n解析：The feedback suggested 后接 that，再放 students would benefit more。from a guided tour 说明更多收获来自导览，回应了为什么改变活动安排。\n下次：先排反馈说了什么，再找获益的人和来源；检查 more 说的是获益程度，from 后是带来帮助的活动。"
+  },
+  "W748": {
+    "type": "sentence",
+    "accepted": [
+      "Should we wait until everyone has been briefed?",
+      "Until everyone has been briefed, should we wait?"
+    ],
+    "explanation": "读懂：志愿者还没全都收到说明。briefed 是“得到必要说明”，回应问是否应该等所有人都了解安排。\n解析：先排 Should we wait，询问要不要等。until 后接 everyone has been briefed，说明等待终点；everyone 按每个人分别看待，配 has。\n下次：先拼是否等待，再用 until 接全员完成的条件；检查 everyone 的范围是每个人，不能只等部分人。"
+  },
+  "W749": {
+    "type": "sentence",
+    "accepted": [
+      "Doing so would help us understand what the author was trying to establish."
+    ],
+    "explanation": "读懂：题目问老师为什么建议先读结论。establish 在这里是“证明、确立观点”，先读结论有助于知道作者要证明什么。\n解析：Doing so 指先读结论，后接 would help us understand。what 提出要理解的内容，再接 the author was trying to establish，说明作者努力证明的是什么。\n下次：先把 Doing so 对回前句的做法，再排它帮助谁理解什么；检查作者在 was trying 前，理解者是 us。"
+  },
+  "W750": {
+    "type": "sentence",
+    "accepted": [
+      "Do you know whether the opening time listed on the old map is still correct?",
+      "Do you know whether the opening time listed on the old map still is correct?"
+    ],
+    "explanation": "读懂：游客中心改了周末开放时间。listed 是“列出的”，回应想知道旧地图上写的时间是否还准。\n解析：know whether 后先放 the opening time，再接 listed on the old map，说明是哪一个时间。然后接 is correct，评价的是时间；still 可在 is 前或后，表示“仍然”。\n下次：先找要核对的时间，再补旧地图上的说明，最后判断是否正确；检查 map 只是时间的出处，没有把它当成被核对的对象。"
   }
 }

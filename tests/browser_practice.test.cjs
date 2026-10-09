@@ -151,7 +151,7 @@ test('all audio scripts keep compact spacing and line breaks in practice and rev
         ),
       text,
     );
-    await expect(script.locator('p')).toHaveText(paragraphs);
+    await expect(script.locator('p[lang="en"]')).toHaveText(paragraphs);
     for (const paragraph of await script.locator('p').all()) {
       await expect(paragraph).toHaveCSS('white-space', 'pre-line');
       await expect(paragraph).toHaveCSS('max-width', 'none');

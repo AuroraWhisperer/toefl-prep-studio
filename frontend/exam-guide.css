@@ -33,8 +33,7 @@
 
 .guide-heading {
   display: flex;
-  align-items: start;
-  justify-content: space-between;
+  align-items: center;
   gap: 24px;
   margin-bottom: 28px;
 }

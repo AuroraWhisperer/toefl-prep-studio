@@ -28,6 +28,7 @@ class QuestionStore:
         self._answers: dict[str, dict] | None = None
         self._manifest: dict | None = None
         self._cloze_translations: dict | None = None
+        self._listening_translations: dict | None = None
 
     def _read(self, path: Path) -> Any:
         return json.loads(path.read_text(encoding="utf-8"))
@@ -81,6 +82,22 @@ class QuestionStore:
             if entry and entry['source'] == source:
                 translations[group_id] = entry['translation']
         return translations
+
+    def audio_translations(self, questions: list[dict]) -> dict[str, str]:
+        """Return review translations only when the saved audio script matches."""
+        prompts = [q for q in questions if q['task_type'] == 'listen_choose_response']
+        if not prompts:
+            return {}
+        if self._listening_translations is None:
+            self._listening_translations = self._read(
+                self.question_root / 'sources' / 'listening_translations.json'
+            )
+        return {
+            q['id']: entry['translation']
+            for q in prompts
+            if (entry := self._listening_translations.get(q['id']))
+            and entry['source'] == q.get('audio_text')
+        }
 
     def _sort_key(self, item: dict) -> tuple[int, int, int]:
         if self._manifest is None:
